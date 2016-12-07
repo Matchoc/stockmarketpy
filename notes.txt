@@ -1,0 +1,16 @@
+Externals :
+- pywin32
+- numpy
+- Pillow
+- scipy (erquired for learn)
+- scikit-learn
+- matplotlib
+- mahotas (not used pot potential S.U.R.F. use ?)
+- nltk (natural language processing)
+
+Externals wishes :
+
+Ideas for inputs (in no particular order or logic) :
+ - Positive or negative news rating
+ - "age" of news (expressed as a number of days since trading result ?)
+ - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)

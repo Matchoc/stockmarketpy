@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2bf2115e-f5aa-4a6c-9185-524f80926242}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>eveclicker.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>{7a01f910-839e-489b-93ee-009981cc15eb}</InterpreterId>
+    <InterpreterVersion>3.5</InterpreterVersion>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ref\ContinueBtn.png" />
+    <Content Include="ref\CytoplasmBtn01.png" />
+    <Content Include="ref\CytoplasmBtn02.png" />
+    <Content Include="ref\CytoplasmBtn03.png" />
+    <Content Include="ref\CytoplasmBtn04.png" />
+    <Content Include="ref\CytoplasmBtn05.png" />
+    <Content Include="ref\CytoplasmBtn06.png" />
+    <Content Include="ref\CytoplasmBtn07.png" />
+    <Content Include="ref\CytoplasmBtn08.png" />
+    <Content Include="ref\CytoplasmBtn09.png" />
+    <Content Include="ref\CytoplasmBtn10.png" />
+    <Content Include="ref\CytoplasmBtn11.png" />
+    <Content Include="ref\CytoplasmBtn12.png" />
+    <Content Include="ref\CytoplasmBtn13.png" />
+    <Content Include="ref\CytoplasmBtn14.png" />
+    <Content Include="ref\MiscBtn01.png" />
+    <Content Include="ref\NotBtn01.png" />
+    <Content Include="ref\NotBtn02.png" />
+    <Content Include="ref\NucleusBtn01.png" />
+    <Content Include="ref\NucleusBtn02.png" />
+    <Content Include="ref\NucleusBtn03.png" />
+    <Content Include="ref\NucleusBtn04.png" />
+    <Content Include="ref\NucleusBtn05.png" />
+    <Content Include="ref\NucleusBtn06.png" />
+    <Content Include="ref\NucleusBtn07.png" />
+    <Content Include="ref\NucleusBtn08.png" />
+    <Content Include="ref\NucleusBtn09.png" />
+    <Content Include="ref\PeripheryBtn01.png" />
+    <Content Include="ref\PeripheryBtn02.png" />
+    <Content Include="ref\PeripheryBtn03.png" />
+    <Content Include="ref\SubmitBtn.png" />
+    <Content Include="sampleimg\sample01.png" />
+    <Content Include="sampleimg\sample02.png" />
+    <Content Include="sampleimg\sample03.png" />
+    <Content Include="sampleimg\sample04.png" />
+    <Content Include="sampleimg\sample05.png" />
+    <Content Include="sampleimg\sample06.png" />
+    <Content Include="sampleimg\sample07.png" />
+    <Content Include="sampleimg\sample08.png" />
+    <Content Include="sampleimg\sample09.png" />
+    <Content Include="sampleimg\sample10.png" />
+    <Content Include="sampleimg\sample11.png" />
+    <Content Include="sampleimg\sample12.png" />
+    <Content Include="sampleimg\sample13.png" />
+    <Content Include="sampleimg\sample14.png" />
+    <Content Include="sampleimg\sample15.png" />
+    <Content Include="sampleimg\sample16.png" />
+    <Content Include="sampleimg\sample17.png" />
+    <Content Include="sampleimg\sample18.png" />
+    <Content Include="sampleimg\sample19.png" />
+    <Content Include="sampleimg\sample20.png" />
+    <Content Include="sampleimg\sample21.png" />
+    <Content Include="sampleimg\sample22.png" />
+    <Content Include="sampleimg\sample23.png" />
+    <Content Include="sampleimg\sample24.png" />
+    <Content Include="sampleimg\sample25.png" />
+    <Content Include="sampleimg\sample26.png" />
+    <Content Include="sampleimg\sample27.png" />
+    <Content Include="sampleimg\sample28.png" />
+    <Content Include="sampleimg\sample29.png" />
+    <Content Include="sampleimg\sample30.png" />
+    <Content Include="sampleimg\sample31.png" />
+    <Content Include="sampleimg\sample32.png" />
+    <Content Include="sampleimg\sample33.png" />
+    <Content Include="sampleimg\sample34.png" />
+    <Content Include="sampleimg\sample35.png" />
+    <Content Include="sampleimg\sample36.png" />
+    <Content Include="sampleimg\sample37.png" />
+    <Content Include="sampleimg\sample38.png" />
+    <Content Include="sampleimg\sample39.png" />
+    <Content Include="sampleimg\sample40.png" />
+    <Content Include="sampleimg\sample41.png" />
+    <Content Include="sampleimg\sample42.png" />
+    <Content Include="sampleimg\sample43.png" />
+    <Content Include="sampleimg\sample44.png" />
+    <Content Include="sampleimg\sample45.png" />
+    <Content Include="sampleimg\sample46.png" />
+    <Content Include="sampleimg\sample47.png" />
+    <Content Include="sampleimg\sample48.png" />
+    <Content Include="sampleimg\sample49.png" />
+    <Content Include="sampleimg\sample50.png" />
+    <Content Include="sampleimg\sample51.png" />
+    <Content Include="sampleimg\sample52.png" />
+    <Content Include="sampleimg\sample53.png" />
+    <Content Include="sampleimg\sample54.png" />
+    <Content Include="sampleimg\sample55.png" />
+    <Content Include="sampleimg\sample56.png" />
+    <Content Include="sampleimg\sample57.png" />
+    <Content Include="sampleimg\sample58.png" />
+    <Content Include="sampleimg\sample59.png" />
+    <Content Include="sampleimg\sample60.png" />
+    <Content Include="sampleimg\sample61.png" />
+    <Content Include="sampleimg\sample62.png" />
+    <Content Include="sampleimg\sample63.png" />
+    <Content Include="sampleimg\sample64.png" />
+    <Content Include="sampleimg\sample65.png" />
+    <Content Include="sampleimg\sample66.png" />
+    <Content Include="sampleimg\sample67.png" />
+    <Content Include="sampleimg\sample68.png" />
+    <Content Include="sampleimg\sample69.png" />
+    <Content Include="sampleimg\sample70.png" />
+    <Content Include="sampleimg\sample71.png" />
+    <Content Include="sampleimg\sample72.png" />
+    <Content Include="sampleimg\sample73.png" />
+    <Content Include="test-paint-load.txt" />
+    <Content Include="test-paint-ss.txt" />
+    <Content Include="test-paint.txt" />
+    <Content Include="test-paint2.txt" />
+    <Content Include="tests\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="eveclicker.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ref" />
+    <Folder Include="sampleimg" />
+    <Folder Include="tests" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="{7a01f910-839e-489b-93ee-009981cc15eb}\3.5" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>
