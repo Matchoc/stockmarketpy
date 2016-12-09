@@ -14,3 +14,5 @@ Ideas for inputs (in no particular order or logic) :
  - Positive or negative news rating
  - "age" of news (expressed as a number of days since trading result ?)
  - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)
+ - average price over the last 2 days, 5 days, 1 years, 5 years ?
+ - number of days going up/going down

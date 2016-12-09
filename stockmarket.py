@@ -110,11 +110,14 @@ def update_news():
 	year = stockdate["year"]
 	
 	for symbol in links:
+		timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
+		xmlpath = os.path.join(DATA_FOLDER, symbol + timestr + ".xml")
+		if os.path.isfile(xmlpath):
+			continue
+			
 		url = links[symbol]["news"]
 		myprint("get news : " + url,1)
 		text = downloadURL(url)
-		timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
-		xmlpath = os.path.join(DATA_FOLDER, symbol + timestr + ".xml")
 		root = ET.fromstring(text)
 		writer = ET.ElementTree(root)
 		writer.write(xmlpath)
@@ -180,37 +183,56 @@ def jsondata_to_sentiment():
 		for key in sums:
 			sums[key] /= len(newslist)
 			
-		#print(data["source"])
-		#for k in sorted(sums):
-		#	print('{0}: {1}, '.format(k, sums[k]), end='')
-		#	print(" gain : ", data["Close"] - data["Open"])
-		#print()
+		print(data["source"])
+		for k in sorted(sums):
+			print('{0}: {1}, '.format(k, sums[k]), end='')
+			print(" gain : ", data["Close"] - data["Open"])
+		print()
 		
 def download_news_pages():
 	with open(PROCESS_DATA, 'r') as jsonfile:
 		featurejson = json.load(jsonfile)
 		
+	totalnews = 0
+	totaldays = 0
 	for data in featurejson:
 		newslist = data["news"]
+		source = data["source"] # xml the data came from
+		index = 0
+		totaldays += 1
 		for news in newslist:
+			totalnews += 1
 			url = news["link"]
+			htmlpath = source + str(index) + ".html"
+			index += 1
+			if "contents" not in news and os.path.isfile(htmlpath):
+				myprint("Added missing path " + htmlpath, 2)
+				news["contents"] = htmlpath
+			if os.path.isfile(htmlpath):
+				myprint(htmlpath + " already exists", 1)
+				continue
+				
 			myprint("follow news link " + url,1)
 			text = downloadURL(url)
-			news["contents"] = text
+			with open(htmlpath, 'wb') as htmlfile:
+				htmlfile.write(text.encode('utf-8'))
+			news["contents"] = htmlpath
 			
 	with open(PROCESS_DATA, 'w') as jsonfile:
 		jsonstr = json.dumps(featurejson, sort_keys=True,
 		indent=4, separators=(',', ': '))
 		jsonfile.write(jsonstr)
 			
+	myprint("Parsed " + str(totalnews) + " news for " + str(totaldays) + " symbols/day", 2)
+	if totaldays != 0:
+		myprint("Average news per symbol : " + str(totalnews/totaldays), 2)
+	
 		
 if __name__ == '__main__':
 	#update_news()
 	#update_prices()
 	#parse_raw_data_to_json()
-	download_news_pages()
+	#download_news_pages()
 	#jsondata_to_sentiment()
-	
-	#text = downloadURL("http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12q87fh60/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-bce-inc-december-5-2016/")
 	
 	myprint("done", 5)
