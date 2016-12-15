@@ -15,7 +15,7 @@ import urllib.request
 import urllib.error
 import scipy.ndimage
 import multiprocessing
-#import nltk
+import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.externals import joblib
 from time import strftime
@@ -170,6 +170,10 @@ def jsondata_to_sentiment():
 		featurejson = json.load(jsonfile)
 		
 	sid = SentimentIntensityAnalyzer()
+	total = 0
+	good = 0
+	bad = 0
+	guessedright = 0
 	for data in featurejson:
 		newslist = data["news"]
 		sums = {"compound":0, "neg":0, "neu":0, "pos":0}
@@ -227,12 +231,36 @@ def download_news_pages():
 	if totaldays != 0:
 		myprint("Average news per symbol : " + str(totalnews/totaldays), 2)
 	
+from languageprocessing import *
+
+def process_news(news, stopwords, filename):
+	word_dict = extract_words(news)
+	remove_stopwords(word_dict, stopwords)
+	save_word_dict(word_dict, filename + ".words")
+
+def process_all_news():
+	stop_words = load_stopwords('./stopwords.txt')
+	
+	with open(PROCESS_DATA, 'r') as jsonfile:
+		featurejson = json.load(jsonfile)
 		
+	for data in featurejson:
+		newslist = data["news"]
+		for news in newslist:
+			title = news["title"]
+			content = ""
+			if "contents" in news and news["contents"] is not None:
+				content = news["contents"]
+			process_news(title, stop_words, content)
+	
+	
 if __name__ == '__main__':
+	#nltk.download()
 	#update_news()
 	#update_prices()
 	#parse_raw_data_to_json()
 	#download_news_pages()
 	#jsondata_to_sentiment()
+	process_all_news()
 	
 	myprint("done", 5)
