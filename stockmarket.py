@@ -1,6 +1,7 @@
 import sys
 import os
 import glob
+import operator
 import datetime
 import dateutil.relativedelta
 import win32gui
@@ -73,7 +74,63 @@ def get_latest_stock_date():
 		
 	return {"month":month, "year":year, "day":day}
 		
-def update_prices():	
+def update_52_prices():
+	#end, start
+	#month, day, year, month, day, year
+	#11 3 2016 0 12 1995 
+	#&d=11&e=3&f=2016&g=d&a=0&b=12&c=1995
+	
+	stockdate = get_latest_stock_date()
+	month = stockdate["month"]
+	day = stockdate["day"]
+	year = stockdate["year"]
+	dateparam = "&d={}&e={}&f={}&g=d&a={}&b={}&c={}".format(month-1, day, year, month-1, day, year-1)
+	
+	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
+		links = json.load(jsonfile)
+	for symbol in links:
+		url = links[symbol]["prices"]
+		url += dateparam
+		myprint("get price : " + url,1)
+		text = downloadURL(url)
+		if text == None:
+			myprint("Price list empty", 5)
+		
+		#timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
+		csvpath = os.path.join(DATA_FOLDER, symbol + "-price" + ".csv")
+		with open(csvpath, 'w') as csvfile:
+			csvfile.write(text)
+
+def parse_csv_date(datestr):
+	datetime_object = datetime.strptime('2016-12-15', '%Y-%m-%d')
+	return datetime_object
+			
+def pricecsv_to_json():
+	priceglob = os.path.join(DATA_FOLDER, "*-price.csv")
+	pricefiles = glob.glob(priceglob)
+	for pricefile in pricefiles:
+		finaljson = {}
+		with open(pricefile, newline='') as csvfile:
+			priceinfo = {}
+			csvreader = csv.reader(csvfile, delimiter=',')
+			info = next(csvreader, None)  # skip the headers
+			while info is not None:
+				info = next(csvreader, None)
+				if info == None:
+					break
+				finaljson[info[0]] = {}
+				finaljson[info[0]]["Open"] = float(info[1])
+				finaljson[info[0]]["High"] = float(info[2])
+				finaljson[info[0]]["Low"] = float(info[3])
+				finaljson[info[0]]["Close"] = float(info[4])
+				finaljson[info[0]]["Volume"] = float(info[5])
+				finaljson[info[0]]["Adj Close"] = float(info[6])
+
+		with open(pricefile + ".json", 'w') as fo:
+			json.dump(finaljson, fo, sort_keys=True,
+			indent=4, separators=(',', ': '))
+		
+def update_prices():
 	#end, start
 	#month, day, year, month, day, year
 	#11 3 2016 0 12 1995 
@@ -253,14 +310,31 @@ def process_all_news():
 				content = news["contents"]
 			process_news(title, stop_words, content)
 	
+def generate_word_counts():
+	wordglob = os.path.join(DATA_FOLDER, "*.words")
+	wordfiles = glob.glob(wordglob)
+	return count_all_words(wordfiles)
 	
+def sort_dict(v, asc=True):
+	if asc:
+		sorted_dict = sorted(v.items(), key=operator.itemgetter(1))
+		return sorted_dict
+	else:
+		pass
+		
+
+
 if __name__ == '__main__':
 	#nltk.download()
 	#update_news()
+	#update_52_prices()
+	#pricecsv_to_json()
 	#update_prices()
 	#parse_raw_data_to_json()
 	#download_news_pages()
 	#jsondata_to_sentiment()
-	process_all_news()
+	#process_all_news()
+	ret = generate_word_counts()
+	myprint(sort_dict(ret), 1)
 	
 	myprint("done", 5)

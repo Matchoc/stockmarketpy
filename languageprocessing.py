@@ -32,6 +32,21 @@ def save_word_dict(word_dict, path):
 		json.dump(word_dict, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
 
+def read_word_dict(file):
+	with open(file, 'r') as wordfile:
+		return json.load(wordfile)
+		
+		
+def count_all_words(files):
+	ret_dict = {}
+	for file in files:
+		filewords = read_word_dict(file)
+		for word in filewords:
+			ret_dict.setdefault(word, 0)
+			ret_dict[word] += filewords[word]
+			
+	return ret_dict
+			
 		
 if __name__ == '__main__':
 	word_dict = {"bleh":1}
