@@ -17,6 +17,8 @@ import urllib.error
 import scipy.ndimage
 import multiprocessing
 import nltk
+from languageprocessing import *
+from datageneration import *
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.externals import joblib
 from time import strftime
@@ -27,10 +29,6 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
 #import feedparser # seem nice, doesn't import (crash on 'category' key doesn't exist error)
-
-RSS_FEED_FILENAME = "news_link.json"
-DATA_FOLDER = "data"
-PROCESS_DATA = "data\\processed_data.json"
 
 PRINT_LEVEL=1
 def myprint(str, level=0):
@@ -287,28 +285,24 @@ def download_news_pages():
 	myprint("Parsed " + str(totalnews) + " news for " + str(totaldays) + " symbols/day", 2)
 	if totaldays != 0:
 		myprint("Average news per symbol : " + str(totalnews/totaldays), 2)
-	
-from languageprocessing import *
 
 def process_news(news, stopwords, filename):
 	word_dict = extract_words(news)
 	remove_stopwords(word_dict, stopwords)
 	save_word_dict(word_dict, filename + ".words")
 
-def process_all_news():
+def process_all_news(symbol):
 	stop_words = load_stopwords('./stopwords.txt')
 	
-	with open(PROCESS_DATA, 'r') as jsonfile:
-		featurejson = json.load(jsonfile)
+	with open(get_news_json_path(symbol), 'r') as jsonfile:
+		newslist = json.load(jsonfile)
 		
-	for data in featurejson:
-		newslist = data["news"]
-		for news in newslist:
-			title = news["title"]
-			content = ""
-			if "contents" in news and news["contents"] is not None:
-				content = news["contents"]
-			process_news(title, stop_words, content)
+	for news in newslist:
+		title = news["title"]
+		content = ""
+		if "contents" in news and news["contents"] is not None:
+			content = news["contents"]
+		process_news(title, stop_words, content)
 	
 def generate_word_counts():
 	wordglob = os.path.join(DATA_FOLDER, "*.words")
@@ -322,19 +316,20 @@ def sort_dict(v, asc=True):
 	else:
 		pass
 		
-
+def update_symbol(symbol):
+	symboldir = os.path.join(DATA_FOLDER, symbol)
+	if not os.path.isdir(symboldir):
+		os.makedirs(symboldir)
+	csvpath = download_year_prices(symbol)
+	rsspath = download_yahoo_rss(symbol)
+	pricejson = convert_prices_to_json(symbol)
+	newsjson = convert_yahoorss_to_json(symbol, rsspath)
+	download_all_news_page(symbol)
+	process_all_news(symbol)	
 
 if __name__ == '__main__':
-	#nltk.download()
-	#update_news()
-	#update_52_prices()
-	#pricecsv_to_json()
-	#update_prices()
-	#parse_raw_data_to_json()
-	#download_news_pages()
-	#jsondata_to_sentiment()
-	#process_all_news()
-	ret = generate_word_counts()
-	myprint(sort_dict(ret), 1)
+	update_symbol("BNS")
+	#ret = generate_word_counts()
+	#myprint(sort_dict(ret), 1)
 	
 	myprint("done", 5)
