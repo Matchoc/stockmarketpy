@@ -727,5 +727,14 @@
         "pubDate": "Fri, 11 Jul 2014 15:08:06 GMT",
         "source": "data\\BNS\\20161218.rss",
         "title": "CME, Thomson Reuters win battle to replace century-old silver benchmark"
+    },
+    {
+        "contents": "data\\BNS\\20161220-132720.news",
+        "description": "[at noodls] - TORONTO, ON--(Marketwired - December 20, 2016) - The Scotiabank Commodity Price Index is likely to finish the year up 25%, with all sub-indices showing positive performance. The Oil & Gas index rose 55% ...",
+        "guid": "yahoo_finance/845206841",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128063dri/*http://www.publicnow.com/view/1C36F047D91C346744C2955C6DE046D502F3DFAA",
+        "pubDate": "Tue, 20 Dec 2016 18:02:07 GMT",
+        "source": "data\\BNS\\20161220.rss",
+        "title": "A happy holiday for commodity producers: Scotiabank"
     }
 ]

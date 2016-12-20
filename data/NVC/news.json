@@ -214,5 +214,23 @@
         "pubDate": "Mon, 19 Dec 2016 18:56:00 GMT",
         "source": "data\\NVC\\20161220.rss",
         "title": "Neovasc Regains Compliance with NASDAQ Listing Requirements"
+    },
+    {
+        "contents": "data\\NVC\\20161220-132727.news",
+        "description": null,
+        "guid": "yahoo_finance/3524250687",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-nvc-171000225.html",
+        "pubDate": "Tue, 20 Dec 2016 17:10:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "IIROC Trade Resumption - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161220-132728.news",
+        "description": null,
+        "guid": "yahoo_finance/1649580690",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-nvc-171000114.html",
+        "pubDate": "Tue, 20 Dec 2016 17:10:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "IIROC Trade Resumption - NVC"
     }
 ]

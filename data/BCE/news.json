@@ -214,5 +214,14 @@
         "pubDate": "Tue, 20 Dec 2016 15:50:07 GMT",
         "source": "data\\BCE\\20161220.rss",
         "title": "BCE, Inc. : BCE-CA: Dividend Analysis : December 15th, 2016 (record date) : By the numbers : December 20, 2016"
+    },
+    {
+        "contents": "data\\BCE\\20161220-132722.news",
+        "description": "[Reuters] - BCE Inc said on Tuesday it had received its first regulatory approval, from the Canadian Radio-television and Telecommunications, for its proposed C$3.1 billion ($2.3 billion) acquisition of Manitoba Telecom Services Inc. The CRTC's approval is the first of three approvals required from regulators to complete Montreal-based BCE's acquisition of MTS, which is expected to close in early 2017. BCE, Canada's largest telecom and media company, said in May it would buy Manitoba Telecom to expand its services in the western Canadian province.",
+        "guid": "yahoo_finance/1039610507",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-gets-first-regulatory-nod-173816325.html",
+        "pubDate": "Tue, 20 Dec 2016 17:38:16 GMT",
+        "source": "data\\BCE\\20161220.rss",
+        "title": "BCE gets first regulatory nod to buy Manitoba Telecom"
     }
 ]

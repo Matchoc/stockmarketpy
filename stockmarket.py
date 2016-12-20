@@ -87,7 +87,7 @@ def gen_news_x(news):
 		if key in newswords:
 			count += newswords[key]
 		x.append(count)
-	return x
+	return [x]
 	
 def get_valid_market_date(newsdate):
 	if newsdate.weekday() == 5 or newsdate.weekday() == 6:
@@ -123,7 +123,7 @@ def gatherTraining(symbol):
 		x = gen_news_x(news)
 		y = gen_news_y("BNS", news)
 		if y is not None:
-			all_x.append(x)
+			all_x += x
 			all_y.append(y)
 		else:
 			myprint("failed to load : " + str(count), 1)
@@ -143,27 +143,29 @@ def train_machine():
 		all_x += cur_x
 		all_y += cur_y
 		
-	all_x = numpy.array(all_x)
+	#all_x = numpy.array(all_x)
 		
 	#all_x, all_y = gatherTraining()
-	#MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=4000, batch_size=590)
-	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29))
-	#SCALER = StandardScaler()
-	#SCALER.fit(all_x)
-	#all_x = SCALER.transform(all_x)
+	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
+	#MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000)
+	SCALER = StandardScaler()
+	SCALER.fit(all_x)
+	all_x = SCALER.transform(all_x)
 	myprint(all_x,1)
 	MACHINE_ALL.fit(all_x, all_y)
 	myprint("... End machine training", 1)
-	myprint("all_y: " + str(all_y), 0)
+	myprint("all_y (" + str(len(all_y)) + ") : " + str(all_y), 1)
 	
-	newspath = get_news_json_path("BNS")
+	newspath = get_news_json_path("S")
 	with open(newspath, 'r') as jsonfile:
 		allnews = json.load(jsonfile)
-	x = gen_news_x(allnews[80])
-	#x = SCALER.transform(x)
-	res = MACHINE_ALL.predict(x)
-	myprint("res : " + str(res), 1)
-	myprint("calculated from x : " + str(x), 0)
+		
+	for test in allnews:
+		x = gen_news_x(test)
+		x = SCALER.transform(x)
+		res = MACHINE_ALL.predict(x)
+		myprint("res : " + str(res[0] * 100) + "%", 1)
+		myprint("calculated from x : " + str(x), 0)
 	
 		
 def update_symbol(symbol, steps):
@@ -192,7 +194,7 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 	
 if __name__ == '__main__':
 	#update_symbol("BNS")
-	update_all_symbols(["processnews"])
+	update_all_symbols()
 	ret = generate_word_counts()
 	#myprint(sort_dict(ret), 1)
 	train_machine()
