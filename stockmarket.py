@@ -30,7 +30,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
 #import feedparser # seem nice, doesn't import (crash on 'category' key doesn't exist error)
 
-PRINT_LEVEL=0
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -132,7 +132,7 @@ def gatherTraining(symbol):
 	return all_x, all_y
 
 def train_machine():
-	myprint("Start machine training...", 0)
+	myprint("Start machine training...", 1)
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		symbols = json.load(jsonfile)
 	
@@ -143,49 +143,58 @@ def train_machine():
 		all_x += cur_x
 		all_y += cur_y
 		
+	all_x = numpy.array(all_x)
+		
 	#all_x, all_y = gatherTraining()
-	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=4000, batch_size=590)
-	SCALER = StandardScaler()
-	SCALER.fit(all_x)
-	all_x = SCALER.transform(all_x)
+	#MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=4000, batch_size=590)
+	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29))
+	#SCALER = StandardScaler()
+	#SCALER.fit(all_x)
+	#all_x = SCALER.transform(all_x)
+	myprint(all_x,1)
 	MACHINE_ALL.fit(all_x, all_y)
-	myprint("... End machine training", 0)
-	myprint("all_y: " + str(all_y), 1)
+	myprint("... End machine training", 1)
+	myprint("all_y: " + str(all_y), 0)
 	
 	newspath = get_news_json_path("BNS")
 	with open(newspath, 'r') as jsonfile:
 		allnews = json.load(jsonfile)
-	x = gen_news_x(allnews[30])
-	x = SCALER.transform(x)
+	x = gen_news_x(allnews[80])
+	#x = SCALER.transform(x)
 	res = MACHINE_ALL.predict(x)
 	myprint("res : " + str(res), 1)
-	myprint("calculated from x : " + str(x), 1)
+	myprint("calculated from x : " + str(x), 0)
 	
 		
-def update_symbol(symbol):
+def update_symbol(symbol, steps):
 	symboldir = os.path.join(DATA_FOLDER, symbol)
 	if not os.path.isdir(symboldir):
 		os.makedirs(symboldir)
-	csvpath = download_year_prices(symbol)
-	rsspath = download_yahoo_rss(symbol)
-	pricejson = convert_prices_to_json(symbol)
-	newsjson = convert_yahoorss_to_json(symbol, rsspath)
-	download_all_news_page(symbol)
-	process_all_news(symbol)
+	if "dlprice" in steps:
+		csvpath = download_year_prices(symbol)
+	if "dlrss" in steps or "rss2json" in steps:
+		rsspath = download_yahoo_rss(symbol)
+	if "price2json" in steps:
+		pricejson = convert_prices_to_json(symbol)
+	if "rss2json" in steps:
+		newsjson = convert_yahoorss_to_json(symbol, rsspath)
+	if "dlnews" in steps:
+		download_all_news_page(symbol)
+	if "processnews" in steps:
+		process_all_news(symbol)
 
-def update_all_symbols():
+def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
 	for symbol in links:
-		update_symbol(symbol)
+		update_symbol(symbol, steps)
 	
 if __name__ == '__main__':
 	#update_symbol("BNS")
-	#update_all_symbols()
-	#ret = generate_word_counts()
+	update_all_symbols(["processnews"])
+	ret = generate_word_counts()
 	#myprint(sort_dict(ret), 1)
-	#gatherTraining()
 	train_machine()
 	
 	myprint("done", 5)

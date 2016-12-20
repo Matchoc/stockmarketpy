@@ -178,5 +178,23 @@
         "pubDate": "Sat, 16 Jul 2016 01:38:11 GMT",
         "source": "data\\MBA\\20161218.rss",
         "title": "CIBT Reports $10 Million Earnings for Nine Months Ending May 31, 2016"
+    },
+    {
+        "contents": "data\\MBA\\20161220-121232.news",
+        "description": "[at noodls] - December 19th 2016, Vancouver, BC: CIBT Education Group Inc. ('CIBT' or the 'Company') (TSX: MBA, OTCQX International: MBAIF) is pleased to report that subscription funds of $10.175 million have been received ...",
+        "guid": "yahoo_finance/4127328821",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ovv8cp/*http://www.publicnow.com/view/ABBFBC52C6C94F18B4720741C53D0A8BE295EA93",
+        "pubDate": "Tue, 20 Dec 2016 00:02:08 GMT",
+        "source": "data\\MBA\\20161220.rss",
+        "title": "CIBT Provides Update on Financing of GEC Education Super Center and GEC Education Mega Center"
+    },
+    {
+        "contents": "data\\MBA\\20161220-121232.news",
+        "description": "[Accesswire] - VANCOUVER, BC / ACCESSWIRE / December 19, 2016 / CIBT Education Group Inc. (\"CIBT\" or the \"Company\") (TSX: MBA, OTCQX: MBAIF) is pleased to report that subscription funds of $10.175 ...",
+        "guid": "yahoo_finance/1620711828",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibt-provides-financing-gec-education-120000419.html",
+        "pubDate": "Mon, 19 Dec 2016 12:00:00 GMT",
+        "source": "data\\MBA\\20161220.rss",
+        "title": "CIBT Provides Update on Financing of GEC Education Super Center and GEC Education Mega Center"
     }
 ]

@@ -12,9 +12,13 @@ def extract_words(text):
 	return ret_dict
 
 def remove_stopwords(word_dict, stopwords):
-	for word in stopwords:
-		if word in word_dict:
-			del word_dict[word]
+	discard = []
+	for word in word_dict:
+		if word in stopwords or word.isnumeric():
+			discard.append(word)
+			
+	for word in discard:
+		del word_dict[word]
 			
 def remove_punctuation(s):
 	table = {ord(c): " " for c in string.punctuation}

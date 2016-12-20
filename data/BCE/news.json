@@ -178,5 +178,41 @@
         "pubDate": "Thu, 03 Nov 2016 12:03:30 GMT",
         "source": "data\\BCE\\20161218.rss",
         "title": "Canada's BCE revenue beats on higher postpaid subscriptions"
+    },
+    {
+        "contents": "data\\BCE\\20161220-121154.news",
+        "description": "[at noodls] - Rollout of popular Fibe TV service part of billion-dollar Bell MTS investment plan for Manitoba MONTR\u00c9AL, Dec. 20, 2016/CNW Telbec/ - BCE Inc. (Bell) (TSX, NYSE: BCE) welcomes the CRTC's approval of the ...",
+        "guid": "yahoo_finance/381076353",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128b0gnfh/*http://www.publicnow.com/view/77D1B39B41F7A28BA9E96062C41FF67A8324CABA",
+        "pubDate": "Tue, 20 Dec 2016 16:42:07 GMT",
+        "source": "data\\BCE\\20161220.rss",
+        "title": "CRTC approves transfer of MTS broadcasting licence to Bell"
+    },
+    {
+        "contents": "data\\BCE\\20161220-121154.news",
+        "description": "[CNW Group] - CRTC approves transfer of MTS broadcasting licence to Bell",
+        "guid": "yahoo_finance/3619347116",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/crtc-approves-transfer-mts-broadcasting-163100668.html",
+        "pubDate": "Tue, 20 Dec 2016 16:31:00 GMT",
+        "source": "data\\BCE\\20161220.rss",
+        "title": "CRTC approves transfer of MTS broadcasting licence to Bell"
+    },
+    {
+        "contents": "data\\BCE\\20161220-121156.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Dec. 20, 2016 /PRNewswire/ - BCE Inc. (Bell) (TSX, NYSE: BCE) welcomes the CRTC's approval of the transfer of the broadcasting distribution undertaking licence held by Manitoba Telecom Services Inc. (MTS) (MBT.TO) to Bell. \"We continue to make progress toward uniting Bell and MTS as we work with federal regulators to complete the remaining transaction approvals,\" said George Cope, President and CEO of BCE and Bell. Expected to close in early 2017, the Bell MTS transaction has been approved by MTS shareholders, the Manitoba courts and the CRTC, and is subject to approval by the Competition Bureau and Innovation, Science and Economic Development (ISED).",
+        "guid": "yahoo_finance/108366572",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/crtc-approves-transfer-mts-broadcasting-163100189.html",
+        "pubDate": "Tue, 20 Dec 2016 16:31:00 GMT",
+        "source": "data\\BCE\\20161220.rss",
+        "title": "CRTC approves transfer of MTS broadcasting licence to Bell"
+    },
+    {
+        "contents": "data\\BCE\\20161220-121158.news",
+        "description": null,
+        "guid": "yahoo_finance/3396299900",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14cid5i25/*http://www.capitalcube.com/blog/index.php/bce-inc-bce-ca-dividend-analysis-december-15th-2016-record-date-by-the-numbers-december-20-2016/",
+        "pubDate": "Tue, 20 Dec 2016 15:50:07 GMT",
+        "source": "data\\BCE\\20161220.rss",
+        "title": "BCE, Inc. : BCE-CA: Dividend Analysis : December 15th, 2016 (record date) : By the numbers : December 20, 2016"
     }
 ]

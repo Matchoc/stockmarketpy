@@ -178,5 +178,41 @@
         "pubDate": "Mon, 14 Nov 2016 21:00:00 GMT",
         "source": "data\\NVC\\20161218.rss",
         "title": "Neovasc Reports Third Quarter Results for 2016"
+    },
+    {
+        "contents": "data\\NVC\\20161220-121146.news",
+        "description": null,
+        "guid": "yahoo_finance/1011695058",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-nvc-165900327.html",
+        "pubDate": "Tue, 20 Dec 2016 16:59:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "IIROC Trading Halt - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161220-121148.news",
+        "description": null,
+        "guid": "yahoo_finance/1755169646",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-nvc-165900712.html",
+        "pubDate": "Tue, 20 Dec 2016 16:59:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "IIROC Trading Halt - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161220-121150.news",
+        "description": "[PR Newswire] - VANCOUVER, Dec. 19, 2016 /PRNewswire/ - Neovasc Inc. (\"Neovasc\" or the \"Company\") (NVCN) (NVC.TO) announced today that the Company has regained compliance with the listing requirements of The NASDAQ Stock Market LLC (\"Nasdaq\"). As previously reported, on July 5, 2016, Neovasc received a letter from Nasdaq notifying the Company that it was not in compliance with the minimum bid price requirement set forth in the Nasdaq Rules for continued listing on The Nasdaq Capital Market.",
+        "guid": "yahoo_finance/3958415822",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/neovasc-regains-compliance-nasdaq-listing-185600507.html",
+        "pubDate": "Mon, 19 Dec 2016 18:56:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "Neovasc Regains Compliance with NASDAQ Listing Requirements"
+    },
+    {
+        "contents": "data\\NVC\\20161220-121152.news",
+        "description": "[CNW Group] - Neovasc Regains Compliance with NASDAQ Listing Requirements",
+        "guid": "yahoo_finance/3464058728",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/neovasc-regains-compliance-nasdaq-listing-185600277.html",
+        "pubDate": "Mon, 19 Dec 2016 18:56:00 GMT",
+        "source": "data\\NVC\\20161220.rss",
+        "title": "Neovasc Regains Compliance with NASDAQ Listing Requirements"
     }
 ]

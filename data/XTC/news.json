@@ -178,5 +178,23 @@
         "pubDate": "Wed, 27 Jul 2016 21:14:00 GMT",
         "source": "data\\XTC\\20161218.rss",
         "title": "Exco Technologies Limited - Results for Third Quarter Ended June 30, 2016"
+    },
+    {
+        "contents": "data\\XTC\\20161220-121146.news",
+        "description": null,
+        "guid": "yahoo_finance/3410056409",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14qp24i8b/*http://www.capitalcube.com/blog/index.php/exco-technologies-ltd-xtc-ca-dividend-analysis-december-14th-2016-record-date-by-the-numbers-december-20-2016/",
+        "pubDate": "Tue, 20 Dec 2016 15:48:02 GMT",
+        "source": "data\\XTC\\20161220.rss",
+        "title": "Exco Technologies Ltd. : XTC-CA: Dividend Analysis : December 14th, 2016 (record date) : By the numbers : December 20, 2016"
+    },
+    {
+        "contents": "data\\XTC\\20161220-121146.news",
+        "description": null,
+        "guid": "yahoo_finance/957439747",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/20/research-reports-initiated-on-autos-stocks-martinrea-international-pacific-insight-electronics-magna-international-and-exco-technologies/?1=1&1482240423",
+        "pubDate": "Tue, 20 Dec 2016 13:27:03 GMT",
+        "source": "data\\XTC\\20161220.rss",
+        "title": "Research Reports Initiated on Autos Stocks Martinrea International, Pacific Insight Electronics, Magna International, and Exco Technologies"
     }
 ]
