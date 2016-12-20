@@ -25,7 +25,7 @@ from time import strftime
 from time import sleep
 from PIL import Image
 from sklearn import svm
-from sklearn.neural_network import MLPClassifier
+from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
 #import feedparser # seem nice, doesn't import (crash on 'category' key doesn't exist error)
@@ -35,256 +35,13 @@ def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
 		
-def downloadURL(url):
-	try:
-		req = urllib.request.Request(url)
-		req.add_header('Referer', 'http://us.rd.yahoo.com/')
-		req.add_header('User-Agent', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.1 \
-				  (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1')
-		resp = urllib.request.urlopen(req)
-		data = resp.read()
-		#response = urllib.request.urlopen(url)
-		#data = response.read()      # a `bytes` object
-		myprint(data,0)
-		text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
-	except urllib.error.HTTPError as e:
-		myprint("URL failed : " + str(e.code) + " " + e.reason, 5)
-		return ""
-	except UnicodeDecodeError as e:
-		myprint("URL failed : Response not unicode", 5)
-		return ""
-	return text
-
-
-# I NEED TO USE lastBuildDate IN THE NEWS RSS FEED OF YAHOO IF I WANT MY DATA TO BE MEANINGFUL !
-		
-def get_latest_stock_date():
-	today = datetime.date.today()# - datetime.timedelta(days=1)
-	month = today.month
-	year = today.year
-	day = today.day
 	
-	if today.weekday() == 5 or today.weekday() == 6:
-		lastfriday = datetime.datetime.now() + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.FR(-1))
-		month = lastfriday.month
-		year = lastfriday.year
-		day = lastfriday.day
-		
-	return {"month":month, "year":year, "day":day}
-		
-def update_52_prices():
-	#end, start
-	#month, day, year, month, day, year
-	#11 3 2016 0 12 1995 
-	#&d=11&e=3&f=2016&g=d&a=0&b=12&c=1995
-	
-	stockdate = get_latest_stock_date()
-	month = stockdate["month"]
-	day = stockdate["day"]
-	year = stockdate["year"]
-	dateparam = "&d={}&e={}&f={}&g=d&a={}&b={}&c={}".format(month-1, day, year, month-1, day, year-1)
-	
-	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
-		links = json.load(jsonfile)
-	for symbol in links:
-		url = links[symbol]["prices"]
-		url += dateparam
-		myprint("get price : " + url,1)
-		text = downloadURL(url)
-		if text == None:
-			myprint("Price list empty", 5)
-		
-		#timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
-		csvpath = os.path.join(DATA_FOLDER, symbol + "-price" + ".csv")
-		with open(csvpath, 'w') as csvfile:
-			csvfile.write(text)
-
-def parse_csv_date(datestr):
-	datetime_object = datetime.strptime('2016-12-15', '%Y-%m-%d')
-	return datetime_object
-			
-def pricecsv_to_json():
-	priceglob = os.path.join(DATA_FOLDER, "*-price.csv")
-	pricefiles = glob.glob(priceglob)
-	for pricefile in pricefiles:
-		finaljson = {}
-		with open(pricefile, newline='') as csvfile:
-			priceinfo = {}
-			csvreader = csv.reader(csvfile, delimiter=',')
-			info = next(csvreader, None)  # skip the headers
-			while info is not None:
-				info = next(csvreader, None)
-				if info == None:
-					break
-				finaljson[info[0]] = {}
-				finaljson[info[0]]["Open"] = float(info[1])
-				finaljson[info[0]]["High"] = float(info[2])
-				finaljson[info[0]]["Low"] = float(info[3])
-				finaljson[info[0]]["Close"] = float(info[4])
-				finaljson[info[0]]["Volume"] = float(info[5])
-				finaljson[info[0]]["Adj Close"] = float(info[6])
-
-		with open(pricefile + ".json", 'w') as fo:
-			json.dump(finaljson, fo, sort_keys=True,
-			indent=4, separators=(',', ': '))
-		
-def update_prices():
-	#end, start
-	#month, day, year, month, day, year
-	#11 3 2016 0 12 1995 
-	#&d=11&e=3&f=2016&g=d&a=0&b=12&c=1995
-	
-	stockdate = get_latest_stock_date()
-	month = stockdate["month"]
-	day = stockdate["day"]
-	year = stockdate["year"]
-	dateparam = "&d={}&e={}&f={}&g=d&a={}&b={}&c={}".format(month-1, day, year, month-1, day, year)
-	
-	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
-		links = json.load(jsonfile)
-	for symbol in links:
-		url = links[symbol]["prices"]
-		url += dateparam
-		myprint("get price : " + url,1)
-		text = downloadURL(url)
-		if text == None:
-			myprint("Price list empty", 5)
-		
-		timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
-		csvpath = os.path.join(DATA_FOLDER, symbol + timestr + ".csv")
-		with open(csvpath, 'w') as csvfile:
-			csvfile.write(text)
-		
-def update_news():
-	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
-		links = json.load(jsonfile)
-	
-	stockdate = get_latest_stock_date()
-	month = stockdate["month"]
-	day = stockdate["day"]
-	year = stockdate["year"]
-	
-	for symbol in links:
-		timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
-		xmlpath = os.path.join(DATA_FOLDER, symbol + timestr + ".xml")
-		if os.path.isfile(xmlpath):
-			continue
-			
-		url = links[symbol]["news"]
-		myprint("get news : " + url,1)
-		text = downloadURL(url)
-		root = ET.fromstring(text)
-		writer = ET.ElementTree(root)
-		writer.write(xmlpath)
-		
-def parse_raw_data_to_json():
-	newsglob = os.path.join(DATA_FOLDER, "*.xml")
-	newsfiles = glob.glob(newsglob)
-	jsonresult = []
-	for newsfile in newsfiles:
-		pricecsv = newsfile[:-3] + "csv"
-		if not os.path.isfile(pricecsv):
-			myprint(pricecsv + " does not exist, cannot use " + newsfile + " for training", 5)
-			continue
-		
-		priceinfo = {}
-		with open(pricecsv, newline='') as csvfile:
-			csvreader = csv.reader(csvfile, delimiter=',')
-			next(csvreader, None)  # skip the headers
-			info = next(csvreader, None)
-			if info == None:
-				continue
-			myprint(info, 0)
-			priceinfo["Date"] = info[0]
-			priceinfo["Open"] = float(info[1])
-			priceinfo["High"] = float(info[2])
-			priceinfo["Low"] = float(info[3])
-			priceinfo["Close"] = float(info[4])
-			priceinfo["Volume"] = float(info[5])
-			priceinfo["Adj Close"] = float(info[6])
-				
-		root = ET.parse(newsfile).getroot()
-		newslist = []
-		for item in root.iter('item'):
-			newsinfo = {}
-			for child in item:
-				newsinfo[child.tag] = child.text
-			newslist.append(newsinfo)
-		
-		priceinfo["news"] = newslist
-		priceinfo["source"] = newsfile
-		jsonresult.append(priceinfo)
-		
-	with open(PROCESS_DATA, 'w') as jsonfile:
-		jsonstr = json.dumps(jsonresult, sort_keys=True,
-		indent=4, separators=(',', ': '))
-		jsonfile.write(jsonstr)
-		
-def jsondata_to_sentiment():
-	with open(PROCESS_DATA, 'r') as jsonfile:
-		featurejson = json.load(jsonfile)
-		
-	sid = SentimentIntensityAnalyzer()
-	total = 0
-	good = 0
-	bad = 0
-	guessedright = 0
-	for data in featurejson:
-		newslist = data["news"]
-		sums = {"compound":0, "neg":0, "neu":0, "pos":0}
-		for news in newslist:
-			title = news["title"]
-			ss = sid.polarity_scores(title)
-			#print(title)
-			for k in sorted(ss):
-				#print('{0}: {1}, '.format(k, ss[k]), end='')
-				sums[k] += ss[k]
-		for key in sums:
-			sums[key] /= len(newslist)
-			
-		print(data["source"])
-		for k in sorted(sums):
-			print('{0}: {1}, '.format(k, sums[k]), end='')
-			print(" gain : ", data["Close"] - data["Open"])
-		print()
-		
-def download_news_pages():
-	with open(PROCESS_DATA, 'r') as jsonfile:
-		featurejson = json.load(jsonfile)
-		
-	totalnews = 0
-	totaldays = 0
-	for data in featurejson:
-		newslist = data["news"]
-		source = data["source"] # xml the data came from
-		index = 0
-		totaldays += 1
-		for news in newslist:
-			totalnews += 1
-			url = news["link"]
-			htmlpath = source + str(index) + ".html"
-			index += 1
-			if "contents" not in news and os.path.isfile(htmlpath):
-				myprint("Added missing path " + htmlpath, 2)
-				news["contents"] = htmlpath
-			if os.path.isfile(htmlpath):
-				myprint(htmlpath + " already exists", 1)
-				continue
-				
-			myprint("follow news link " + url,1)
-			text = downloadURL(url)
-			with open(htmlpath, 'wb') as htmlfile:
-				htmlfile.write(text.encode('utf-8'))
-			news["contents"] = htmlpath
-			
-	with open(PROCESS_DATA, 'w') as jsonfile:
-		jsonstr = json.dumps(featurejson, sort_keys=True,
-		indent=4, separators=(',', ': '))
-		jsonfile.write(jsonstr)
-			
-	myprint("Parsed " + str(totalnews) + " news for " + str(totaldays) + " symbols/day", 2)
-	if totaldays != 0:
-		myprint("Average news per symbol : " + str(totalnews/totaldays), 2)
+def sort_dict(v, asc=True):
+	if asc:
+		sorted_dict = sorted(v.items(), key=operator.itemgetter(1))
+		return sorted_dict
+	else:
+		pass
 
 def process_news(news, stopwords, filename):
 	word_dict = extract_words(news)
@@ -305,16 +62,93 @@ def process_all_news(symbol):
 		process_news(title, stop_words, content)
 	
 def generate_word_counts():
-	wordglob = os.path.join(DATA_FOLDER, "*.words")
+	wordglob = os.path.join(DATA_FOLDER, "**", "*.words")
 	wordfiles = glob.glob(wordglob)
-	return count_all_words(wordfiles)
+	all_words = count_all_words(wordfiles)
 	
-def sort_dict(v, asc=True):
-	if asc:
-		sorted_dict = sorted(v.items(), key=operator.itemgetter(1))
-		return sorted_dict
-	else:
-		pass
+	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
+	with open(allwordspath, 'w') as fo:
+		json.dump(all_words, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
+		
+	return all_words
+	
+def gen_news_x(news):
+	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
+	with open(allwordspath, 'r') as jsonfile:
+		allwords = json.load(jsonfile)
+	newswordspath = news["contents"] + ".words"
+	with open(newswordspath, 'r') as jsonfile:
+		newswords = json.load(jsonfile)
+	sortedX = sorted(allwords.keys())
+	x = []
+	for key in sortedX:
+		count = 0
+		if key in newswords:
+			count += newswords[key]
+		x.append(count)
+	return x
+	
+def get_valid_market_date(newsdate):
+	if newsdate.weekday() == 5 or newsdate.weekday() == 6:
+		next_monday = datetime.datetime.now() + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.MO(1))
+		return next_monday
+	return newsdate
+
+def gen_news_y(symbol, news):
+	pubdatestr = news["pubDate"]
+	# sample : "Fri, 16 Dec 2016 16:18:35 GMT"
+	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z').date()
+	result = get_valid_market_date(result)
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	pricedatefmt = result.strftime("%Y-%m-%d")
+	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
+	if pricedatefmt in prices:
+		price = prices[pricedatefmt]
+		y = (price["Close"] - price["Open"]) / price["Open"]
+		return y
+	return None
+
+def gatherTraining():
+	newspath = get_news_json_path("BNS")
+	with open(newspath, 'r') as jsonfile:
+		allnews = json.load(jsonfile)
+	all_x = []
+	all_y = []
+	count = 0
+	for news in allnews:
+		x = gen_news_x(news)
+		y = gen_news_y("BNS", news)
+		if y is not None:
+			all_x.append(x)
+			all_y.append(y)
+		else:
+			myprint("failed to load : " + str(count), 1)
+		count += 1
+			
+	return all_x, all_y
+
+def train_machine():
+	all_x, all_y = gatherTraining()
+	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=4000, batch_size=590)
+	SCALER = StandardScaler()
+	SCALER.fit(all_x)
+	all_x = SCALER.transform(all_x)
+	MACHINE_ALL.fit(all_x, all_y)
+	print(all_y)
+	
+	newspath = get_news_json_path("BNS")
+	with open(newspath, 'r') as jsonfile:
+		allnews = json.load(jsonfile)
+	x = gen_news_x(allnews[3])
+	x = SCALER.transform(x)
+	res = MACHINE_ALL.predict(x)
+	print(res)
+	print(x)
+	
 		
 def update_symbol(symbol):
 	symboldir = os.path.join(DATA_FOLDER, symbol)
@@ -325,7 +159,7 @@ def update_symbol(symbol):
 	pricejson = convert_prices_to_json(symbol)
 	newsjson = convert_yahoorss_to_json(symbol, rsspath)
 	download_all_news_page(symbol)
-	process_all_news(symbol)	
+	process_all_news(symbol)
 
 def update_all_symbols():
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
@@ -339,5 +173,7 @@ if __name__ == '__main__':
 	update_all_symbols()
 	#ret = generate_word_counts()
 	#myprint(sort_dict(ret), 1)
+	#gatherTraining()
+	train_machine()
 	
 	myprint("done", 5)
