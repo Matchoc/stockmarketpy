@@ -327,8 +327,16 @@ def update_symbol(symbol):
 	download_all_news_page(symbol)
 	process_all_news(symbol)	
 
+def update_all_symbols():
+	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
+		links = json.load(jsonfile)
+	
+	for symbol in links:
+		update_symbol(symbol)
+	
 if __name__ == '__main__':
-	update_symbol("BNS")
+	#update_symbol("BNS")
+	update_all_symbols()
 	#ret = generate_word_counts()
 	#myprint(sort_dict(ret), 1)
 	
