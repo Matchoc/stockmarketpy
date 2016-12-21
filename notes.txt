@@ -16,3 +16,13 @@ Ideas for inputs (in no particular order or logic) :
  - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)
  - average price over the last 2 days, 5 days, 1 years, 5 years ?
  - number of days going up/going down
+ - market cap vs share value
+ - twitter feed about ticker (symbol)
+ 
+ todo :
+   1. Improve date matching from news (before noon = same day variation, after noon = next day result ?)
+   2. Parse news articles and add content to word count
+   3. Fetch twitter feed with tag $<symbol>
+   4. Create new separate machine for twitter results.
+   5. Create compound machine with news result and twitter results.
+   

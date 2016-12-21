@@ -30,7 +30,10 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
 #import feedparser # seem nice, doesn't import (crash on 'category' key doesn't exist error)
 
-PRINT_LEVEL=1
+MACHINE_NEWS = None
+SCALER_NEWS = None
+
+PRINT_LEVEL=2
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -131,42 +134,52 @@ def gatherTraining(symbol):
 			
 	return all_x, all_y
 
-def train_machine():
-	myprint("Start machine training...", 1)
+def get_all_Xy():
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		symbols = json.load(jsonfile)
-	
+		
+	data = {}
 	all_x = []
 	all_y = []
 	for symbol in symbols:
 		cur_x, cur_y = gatherTraining(symbol)
 		all_x += cur_x
 		all_y += cur_y
-		
-	#all_x = numpy.array(all_x)
-		
-	#all_x, all_y = gatherTraining()
-	MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
-	#MACHINE_ALL = MLPRegressor(solver='lbgfs', alpha=10.0, hidden_layer_sizes=(150, 29), random_state=1000)
-	SCALER = StandardScaler()
-	SCALER.fit(all_x)
-	all_x = SCALER.transform(all_x)
-	myprint(all_x,1)
-	MACHINE_ALL.fit(all_x, all_y)
+	data["X"] = all_x
+	data["y"] = all_y
+	return data
+	
+def train_machine(data):
+	global MACHINE_NEWS
+	global SCALER_NEWS
+	all_x = data["X"]
+	all_y = data["y"]
+	myprint("Start machine training...", 1)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.0005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
+	SCALER_NEWS = StandardScaler()
+	SCALER_NEWS.fit(all_x)
+	all_x = SCALER_NEWS.transform(all_x)
+	MACHINE_NEWS.fit(all_x, all_y)
 	myprint("... End machine training", 1)
-	myprint("all_y (" + str(len(all_y)) + ") : " + str(all_y), 1)
 	
 	newspath = get_news_json_path("S")
 	with open(newspath, 'r') as jsonfile:
 		allnews = json.load(jsonfile)
 		
-	for test in allnews:
-		x = gen_news_x(test)
-		x = SCALER.transform(x)
-		res = MACHINE_ALL.predict(x)
-		myprint("res : " + str(res[0] * 100) + "%", 1)
-		myprint("calculated from x : " + str(x), 0)
-	
+def cross_validate(data):
+	x = data["X"]
+	x = SCALER_NEWS.transform(x)
+	results = MACHINE_NEWS.predict(x)
+	count = 0
+	avg_ecart = 0
+	for res in results:
+		res_per = res * 100
+		expected_per = data["y"][count] * 100
+		myprint("res : " + str(res_per) + "%, expected : " + str(expected_per) + "% ecart : " + str(abs(expected_per - res_per)), 2)
+		avg_ecart += abs(expected_per - res_per)
+		count += 1
+		
+	myprint("avg ecart : " + str(avg_ecart / count), 2)
 		
 def update_symbol(symbol, steps):
 	symboldir = os.path.join(DATA_FOLDER, symbol)
@@ -191,12 +204,40 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 	
 	for symbol in links:
 		update_symbol(symbol, steps)
+		
+	if "allwords" in steps:
+		generate_word_counts()
+		
+	per = 1.0
+	if "crossval" in steps or "train" in steps:
+		data = get_all_Xy()
+		
+	if "crossval" in steps:
+		per = 0.7
+		myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 2)
+		
+	if "train" in steps:
+		passed_data = {}
+		passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
+		passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
+		train_machine(data)
+		
+	if "crossval" in steps:
+		passed_data = {}
+		passed_data["X"] = data["X"][:int(len(data["X"]) * (1 - per))]
+		passed_data["y"] = data["y"][:int(len(data["y"]) * (1 - per))]
+		cross_validate(data)
 	
 if __name__ == '__main__':
 	#update_symbol("BNS")
-	update_all_symbols()
-	ret = generate_word_counts()
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews"])
+	#update_all_symbols(["price2json", "rss2json"])
+	#update_all_symbols(["dlnews", "processnews"])
+	#update_all_symbols(["processnews", "allwords"])
+	#update_all_symbols(["allwords"])
+	#update_all_symbols(["train"])
+	update_all_symbols(["train", "crossval"])
 	#myprint(sort_dict(ret), 1)
-	train_machine()
+	
 	
 	myprint("done", 5)
