@@ -21,7 +21,9 @@ def remove_stopwords(word_dict, stopwords):
 		del word_dict[word]
 			
 def remove_punctuation(s):
-	table = {ord(c): " " for c in string.punctuation}
+	exclusions = string.punctuation.join(['\u00bb', '\u2026', '\u201c', '\u201d', '\u2014', '\u2013', '\u2018', '\u2019'])
+	#exclusions.extend(string.punctuation)
+	table = {ord(c): " " for c in exclusions}
 	return s.translate(table)
 			
 def load_stopwords(path):

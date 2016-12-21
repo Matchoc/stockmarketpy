@@ -33,7 +33,7 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-PRINT_LEVEL=2
+PRINT_LEVEL=0
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -47,7 +47,10 @@ def sort_dict(v, asc=True):
 		pass
 
 def process_news(news, stopwords, filename):
-	word_dict = extract_words(news)
+	newscontent = " "
+	if filename is not "":
+		newscontent += get_important_text_from_news(filename)
+	word_dict = extract_words(news + newscontent)
 	remove_stopwords(word_dict, stopwords)
 	save_word_dict(word_dict, filename + ".words")
 
@@ -89,6 +92,10 @@ def gen_news_x(news):
 		count = 0
 		if key in newswords:
 			count += newswords[key]
+		#if count > 0:
+		#	x.append(1)
+		#else:
+		#	x.append(0)
 		x.append(count)
 	return [x]
 	
@@ -155,7 +162,7 @@ def train_machine(data):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training...", 1)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.0005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
 	all_x = SCALER_NEWS.transform(all_x)
@@ -172,14 +179,17 @@ def cross_validate(data):
 	results = MACHINE_NEWS.predict(x)
 	count = 0
 	avg_ecart = 0
+	avg_per_ecart = 0
 	for res in results:
 		res_per = res * 100
 		expected_per = data["y"][count] * 100
 		myprint("res : " + str(res_per) + "%, expected : " + str(expected_per) + "% ecart : " + str(abs(expected_per - res_per)), 2)
 		avg_ecart += abs(expected_per - res_per)
+		avg_per_ecart += (expected_per - res_per) / expected_per
+		
 		count += 1
 		
-	myprint("avg ecart : " + str(avg_ecart / count), 2)
+	myprint("avg ecart : " + str(avg_ecart / count) + ", avg percentage ecart : " + str((avg_per_ecart / count) * 100) + "%", 2)
 		
 def update_symbol(symbol, steps):
 	symboldir = os.path.join(DATA_FOLDER, symbol)
@@ -206,7 +216,8 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		update_symbol(symbol, steps)
 		
 	if "allwords" in steps:
-		generate_word_counts()
+		ret = generate_word_counts()
+		myprint(sort_dict(ret), 0)
 		
 	per = 1.0
 	if "crossval" in steps or "train" in steps:
@@ -224,8 +235,8 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		
 	if "crossval" in steps:
 		passed_data = {}
-		passed_data["X"] = data["X"][:int(len(data["X"]) * (1 - per))]
-		passed_data["y"] = data["y"][:int(len(data["y"]) * (1 - per))]
+		passed_data["X"] = data["X"][int(len(data["X"]) * per):]
+		passed_data["y"] = data["y"][int(len(data["X"]) * per):]
 		cross_validate(data)
 	
 if __name__ == '__main__':
@@ -238,6 +249,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["train"])
 	update_all_symbols(["train", "crossval"])
 	#myprint(sort_dict(ret), 1)
+	#get_important_text_from_news(r"G:\Perso\projects\stockmarketpy\data\BCE\20161218-220023.news")
 	
 	
 	myprint("done", 5)

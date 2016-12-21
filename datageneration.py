@@ -7,6 +7,7 @@ import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 from time import strftime
+from bs4 import BeautifulSoup
 
 DATA_FOLDER = "data"
 RSS_FEED_FILENAME = os.path.join(DATA_FOLDER, "news_link.json")
@@ -178,3 +179,16 @@ def download_news_page(symbol, newsurl):
 		htmlfile.write(text.encode('utf-8'))
 	return htmlpath
 	
+def get_important_text_from_news(htmlpath):
+	myprint("BeautifulSoup : " + htmlpath, 1)
+	with open(htmlpath, 'rb') as f:
+		text = f.read()
+		soup = BeautifulSoup(text.decode("utf-8", "ignore"), "html.parser", from_encoding="utf-8")
+	
+	paragraphs = soup.findAll('p')
+	words = [p.text for p in paragraphs]
+	return "".join(words)
+	#mystr = ""
+	#for p in paragraphs:
+	#	mystr += p.text
+	#return mystr
