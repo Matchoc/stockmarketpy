@@ -33,18 +33,27 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-PRINT_LEVEL=0
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
-		
-	
+
 def sort_dict(v, asc=True):
 	if asc:
 		sorted_dict = sorted(v.items(), key=operator.itemgetter(1))
 		return sorted_dict
 	else:
 		pass
+		
+def save_machine():
+	joblib.dump(MACHINE_NEWS, 'machine_news.save')
+	joblib.dump(SCALER_NEWS, 'scaler_news.save')
+		
+def load_machine():
+	global MACHINE_NEWS
+	global SCALER_NEWS
+	MACHINE_NEWS = joblib.load('machine_news.save')
+	SCALER_NEWS = joblib.load('scaler_news.save')
 
 def process_news(news, stopwords, filename):
 	newscontent = " "
@@ -100,15 +109,24 @@ def gen_news_x(news):
 	return [x]
 	
 def get_valid_market_date(newsdate):
-	if newsdate.weekday() == 5 or newsdate.weekday() == 6:
-		next_monday = datetime.datetime.now() + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.MO(1))
-		return next_monday
-	return newsdate
+	offset = 0
+	if newsdate.time().utcoffset() is not None:
+		offset = newsdate.time().utcoffset()
+	offset -= 5 # toronto stock time zone
+	finaldate = newsdate + datetime.timedelta(hours=offset)
+	if finaldate.hour >= 16:
+		finaldate = finaldate + datetime.timedelta(days=1)
+		myprint(str(newsdate) + " is  after 16 so going to use : " + str(finaldate), 0)
+	if finaldate.weekday() == 5 or finaldate.weekday() == 6:
+		myprint(str(finaldate) + " is  a " + str(finaldate.weekday()), 0)
+		finaldate = finaldate + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.MO(1))
+	myprint("final date = " + str(finaldate), 0)
+	return finaldate
 
 def gen_news_y(symbol, news):
 	pubdatestr = news["pubDate"]
 	# sample : "Fri, 16 Dec 2016 16:18:35 GMT"
-	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z').date()
+	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z')
 	result = get_valid_market_date(result)
 	csvpath = get_price_csv_path(symbol)
 	jsonpath = csvpath.replace(".csv", ".json")
@@ -167,6 +185,7 @@ def train_machine(data):
 	SCALER_NEWS.fit(all_x)
 	all_x = SCALER_NEWS.transform(all_x)
 	MACHINE_NEWS.fit(all_x, all_y)
+	save_machine()
 	myprint("... End machine training", 1)
 	
 	newspath = get_news_json_path("S")
@@ -174,6 +193,8 @@ def train_machine(data):
 		allnews = json.load(jsonfile)
 		
 def cross_validate(data):
+	if MACHINE_NEWS is None:
+		load_machine()
 	x = data["X"]
 	x = SCALER_NEWS.transform(x)
 	results = MACHINE_NEWS.predict(x)
@@ -208,7 +229,7 @@ def update_symbol(symbol, steps):
 	if "processnews" in steps:
 		process_all_news(symbol)
 
-def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews"]):
+def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train", "crossval", "today"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
@@ -238,16 +259,57 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		passed_data["X"] = data["X"][int(len(data["X"]) * per):]
 		passed_data["y"] = data["y"][int(len(data["X"]) * per):]
 		cross_validate(data)
+		
+	if "today" in steps:
+		predict_all_today()
+		
+def get_today_X(symbol):
+	newspath = get_news_json_path(symbol)
+	with open(newspath, 'r') as jsonfile:
+		allnews = json.load(jsonfile)
+	
+	valid_news = []
+	for news in allnews:
+		pubdatestr = news["pubDate"]
+		result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z')
+		result = get_valid_market_date(result)
+		if result >= datetime.datetime.now():
+			valid_news.append(news)
+	
+	x = []
+	for news in valid_news:
+		x += gen_news_x(news)
+		
+	return x
+	
+def predict_all_today():
+	if MACHINE_NEWS is None:
+		load_machine()
+		
+	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
+		symbols = json.load(jsonfile)
+		
+	results = {}
+	for symbol in symbols:
+		x = get_today_X(symbol)
+		if len(x) == 0:
+			myprint("Skip " + symbol + " no date for today")
+			continue
+		x = SCALER_NEWS.transform(x)
+		results[symbol] = MACHINE_NEWS.predict(x)
+		
+	myprint(results, 5)
 	
 if __name__ == '__main__':
 	#update_symbol("BNS")
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
 	#update_all_symbols(["train"])
-	update_all_symbols(["train", "crossval"])
+	#update_all_symbols(["crossval"])
+	update_all_symbols(["today"])
 	#myprint(sort_dict(ret), 1)
 	#get_important_text_from_news(r"G:\Perso\projects\stockmarketpy\data\BCE\20161218-220023.news")
 	

@@ -223,5 +223,374 @@
         "pubDate": "Tue, 20 Dec 2016 17:38:16 GMT",
         "source": "data\\BCE\\20161220.rss",
         "title": "BCE gets first regulatory nod to buy Manitoba Telecom"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210646.news",
+        "description": "[Reuters] - Broadband internet access will be considered a basic service in Canada, the country's telecom regulator ruled on Wednesday, paving the way for universal access to high-speed services in rural and isolated areas of the country. The Canadian Radio-television and Telecommunications Commission (CRTC) said it was establishing a fund providers will pay into to invest C$750 million ($560 million) over five years to build or upgrade broadband infrastructure to improve access in underserved areas. The CRTC set a target download speed of 50 megabits per second, 10 times its previous, and recommended providers offer unlimited data for fixed broadband.",
+        "guid": "yahoo_finance/3880221150",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-telecom-regulator-makes-broadband-213004147.html",
+        "pubDate": "Wed, 21 Dec 2016 23:35:10 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada telecoms regulator rules broadband basic service, sets up fund"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210647.news",
+        "description": null,
+        "guid": "yahoo_finance/778387810",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13gkgo1c8/*http://www.bloomberg.com/news/articles/2016-12-21/canada-spurs-rural-broadband-expansion-with-560-million-fund?cmpid=yhoo.headline",
+        "pubDate": "Wed, 21 Dec 2016 22:12:13 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada Calls Broadband a 'Basic' Service, Funds Rural Expansion"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210648.news",
+        "description": "[Reuters] - Broadband internet access will be considered a basic service in Canada, the country's telecom regulator said on Wednesday, setting a higher target for download speeds and creating a fund that could see ...",
+        "guid": "yahoo_finance/158664325",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-telecom-regulator-makes-broadband-210918460.html",
+        "pubDate": "Wed, 21 Dec 2016 21:09:18 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's telecom regulator makes broadband a basic service"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210650.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Dec. 21, 2016 /CNW Telbec/ - Bell Let's Talk Day 2017 is Wednesday, January 25 and Canada's groundbreaking mental health initiative will offer new ways for Canadians everywhere to get engaged and drive Bell's funding of mental health care, research, anti-stigma and workplace initiatives across Canada. \"Not only did we celebrate another record Bell Let's Talk Day in January 2016, together we kept the conversation about mental health going all year long.",
+        "guid": "yahoo_finance/1906140726",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bell-lets-talk-day-2017-140000108.html",
+        "pubDate": "Wed, 21 Dec 2016 14:00:00 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Let's Talk Day 2017 is January 25!"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210651.news",
+        "description": "[CNW Group] - Bell Let's Talk Day 2017 is January 25!",
+        "guid": "yahoo_finance/79974607",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bell-lets-talk-day-2017-140000561.html",
+        "pubDate": "Wed, 21 Dec 2016 14:00:00 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Let's Talk Day 2017 is January 25!"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210653.news",
+        "description": "[at noodls] - Access Fibe TV alongside your favourite apps, music, photos and games on Apple TV Apple TV 4th Generation now available in Bell stores, at Bell.ca and through 310-BELL MONTR\u00c9AL, Nov. 3, 2016/CNW Telbec/ ...",
+        "guid": "yahoo_finance/384099248",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qhbngn/*http://www.publicnow.com/view/6329DA117230F46B3CA713F18987D639A3582418",
+        "pubDate": "Thu, 03 Nov 2016 11:28:09 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Fibe TV the first Canadian television service available on Apple TV"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210653.news",
+        "description": "[at noodls] - This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitled 'Caution Concerning Forward-Looking Statements' later ...",
+        "guid": "yahoo_finance/1324571246",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128oqirp1/*http://www.publicnow.com/view/1B64D3E59E3F94523BD49705086A52D5748EA537",
+        "pubDate": "Thu, 03 Nov 2016 11:18:20 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE reports third quarter 2016 results"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210653.news",
+        "description": "[at noodls] - MONTR\u00c9AL, Oct. 18, 2016/CNW Telbec/ - BCE Inc. (TSX: BCE) (NYSE: BCE) today announced that 455,302 of its 4,393,775 fixed-rate Cumulative Redeemable First Preferred Shares, Series T ('Series T Preferred ...",
+        "guid": "yahoo_finance/2125710081",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128dk0ea9/*http://www.publicnow.com/view/741045FF085C91A1D2FD3BD4625AC34A54DFA91F",
+        "pubDate": "Tue, 18 Oct 2016 23:18:10 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE reports results of Series S and T Preferred Share conversions"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210653.news",
+        "description": "[at noodls] - MONTR\u00c9AL, Oct. 6, 2016/CNW Telbec/ - BCE Inc. (TSX: BCE) (NYSE: BCE) will hold its third-quarter 2016 results conference call with the financial community on Thursday, November 3, 2016at 8:00 ameastern. ...",
+        "guid": "yahoo_finance/324945016",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128f8io5n/*http://www.publicnow.com/view/E92DBCB939FD2856E7879C2CF32585A36732689D",
+        "pubDate": "Thu, 06 Oct 2016 12:09:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE Q3 2016 results to be announced November 3, 2016"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210654.news",
+        "description": "[at noodls] - MONTR\u00c9AL, Sept. 30, 2016/CNW Telbec/ - Bell Canada (Bell) today announced the filing of a prospectus supplement to a short form base shelf prospectus dated September 20, 2016with the various securities ...",
+        "guid": "yahoo_finance/994607418",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gv35hj/*http://www.publicnow.com/view/F1D8B9A255719CEE0CA3F798533FFE582D18A0DD",
+        "pubDate": "Fri, 30 Sep 2016 20:41:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Canada renews Medium Term Notes (MTN) program"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210654.news",
+        "description": "[at noodls] - CRTC tests show Bell's fibre to the home Fibe Internet service leads Canadian Internet providers in delivering better than advertised download speeds Bell LTE wireless network ranked fastest across Canada ...",
+        "guid": "yahoo_finance/2146883423",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128l7ji9g/*http://www.publicnow.com/view/77689723CCF85988972CE314E42A03D7469ECB6E",
+        "pubDate": "Thu, 29 Sep 2016 18:40:06 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell delivers the best broadband network connections to Canadians"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210654.news",
+        "description": null,
+        "guid": "yahoo_finance/4221690140",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rogers-communications-committed-dividend-growth-200904478.html",
+        "pubDate": "Tue, 27 Sep 2016 20:09:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Rogers Communications committed to dividend growth - deputy chairman"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210656.news",
+        "description": "[at noodls] - Ontarioand Qu\u00e9bec customers will no longer need to sign up for Fibe Internet to take advantage of Canada's fastest-growing TV service Ongoing alignment of Bell Canadaand Bell Aliant IPTV services across ...",
+        "guid": "yahoo_finance/3273880858",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128u2ga3t/*http://www.publicnow.com/view/D4EA44A5A83381D94C998F15AD96DAF0B97FD719",
+        "pubDate": "Tue, 06 Sep 2016 20:09:01 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Fibe TV to be available as a standalone TV service in early 2017"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210656.news",
+        "description": "[at noodls] - Fibredeployment to Churchillhomes and businesses to deliver Gigabit Internet speeds, Canada's best TV service The fastest broadband access to the latest online services for residents, support for tourism, ...",
+        "guid": "yahoo_finance/2670885753",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128a7af4r/*http://www.publicnow.com/view/F050D37A54EE9EDDE97F4C655DFBB4B896C6D2C6",
+        "pubDate": "Mon, 29 Aug 2016 18:43:05 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell and MTS bringing the power of the Fibe network to Churchill, Manitoba"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210656.news",
+        "description": "[at noodls] - MONTR\u00c9AL, Aug. 29, 2016/CNW Telbec/ - Bell today announced the availability of the new Home Hub 3000, offering the most powerful home Wi-Fi service in Canada, and the world's first fully wireless IPTV ...",
+        "guid": "yahoo_finance/1315775720",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hfub93/*http://www.publicnow.com/view/CB00E8545CA3E249A33C0BBF8267DED310E5F048",
+        "pubDate": "Mon, 29 Aug 2016 14:23:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's most powerful home Wi-Fi and the world's first fully wireless 4K IPTV service - now available only from Bell Fibe"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210657.news",
+        "description": "[at noodls] - MONTR\u00c9AL, August 17, 2016/CNW Telbec/ - Bell Canadatoday announced that it will redeem on September 16, 2016, prior to maturity, all of its outstanding $700,000,000principal amount of 5.00% Debentures, ...",
+        "guid": "yahoo_finance/1514516161",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qvkje2/*http://www.publicnow.com/view/A29B6929F98E8E5EE284F152F3C48BEED97CCDFF",
+        "pubDate": "Wed, 17 Aug 2016 17:11:03 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell Canada to redeem Series M-18 debentures due February 2017"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210657.news",
+        "description": "[at noodls] - MTS and Bell sponsoring second annual music festival at the Forks August 12-14 Visitors can learn more about Fibe TV and Gigabit Fibe, try out Virtual Reality Bell MTS to invest $1 billionover 5 years ...",
+        "guid": "yahoo_finance/2265354948",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128o4pm0q/*http://www.publicnow.com/view/119D324BABE8F5D4FDBE6EB530B8E214F65336A6",
+        "pubDate": "Thu, 11 Aug 2016 14:31:03 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Drop by the Bell MTS Box at Winnipeg's Interstellar Rodeo to experience the evolution of TV, Internet and Media innovation"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210657.news",
+        "description": "[at noodls] - This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitled 'Caution Concerning Forward-Looking Statements' later ...",
+        "guid": "yahoo_finance/422934077",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kk479c/*http://www.publicnow.com/view/05EBED51E5E9D32F303BF3F402722369A0CFDE5D",
+        "pubDate": "Wed, 10 Aug 2016 00:40:06 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell announces offering of MTN Debentures"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210657.news",
+        "description": "[at noodls] - MONTR\u00c9AL, Aug. 8, 2016/CNW Telbec/ - BCE Inc. (Bell) (TSX: BCE) (NYSE: BCE)today announced that it will acquire all equity it does not already own in Q9 Networks Inc., the Toronto-based data centre operator ...",
+        "guid": "yahoo_finance/2360730623",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283h0mcm/*http://www.publicnow.com/view/D9A979F00E8F42072737C1C9AD70D2E277B505C9",
+        "pubDate": "Mon, 08 Aug 2016 13:38:01 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell to acquire full ownership of data centre operator Q9 Networks"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210657.news",
+        "description": null,
+        "guid": "yahoo_finance/3190575000",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-misses-street-2q-forecasts-143341131.html",
+        "pubDate": "Thu, 04 Aug 2016 14:33:41 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE misses Street 2Q forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210659.news",
+        "description": "[at noodls] - This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitled 'Caution Concerning Forward-Looking Statements' later ...",
+        "guid": "yahoo_finance/238958257",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281apmav/*http://www.publicnow.com/view/38156C278476BCC169923C9F07839AACC2CFADAC",
+        "pubDate": "Thu, 04 Aug 2016 11:12:13 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE reports second quarter 2016 results"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210659.news",
+        "description": "[at noodls] - MISSISSAUGA, ON, July 29, 2016/CNW Telbec/ - Bell today announced that it has successfully demonstrated Fifth Generation (5G) mobile technology in collaboration with Nokia. Conducted at Bell's Wireless ...",
+        "guid": "yahoo_finance/3220069573",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mlhuq2/*http://www.publicnow.com/view/380E1E24234AA4D04A96AC690514D4D13D0C1451",
+        "pubDate": "Fri, 29 Jul 2016 14:18:14 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Bell and Nokia complete first Canadian trial of 5G mobile technology"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210700.news",
+        "description": "[at noodls] - MONTR\u00c9AL, July 22, 2016/CNW Telbec/ - BCE Inc. (TSX: BCE) (NYSE: BCE) today announced that 5,081,951 of its 10,754,990 fixed-rate Cumulative Redeemable First Preferred Shares, Series AI ('Series AI Preferred ...",
+        "guid": "yahoo_finance/3505466485",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286s118q/*http://www.publicnow.com/view/9AC721AA42F006CCFF0E199E25DCF0A3AAF8AB37",
+        "pubDate": "Sat, 23 Jul 2016 00:08:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE reports results of Series AI and AJ Preferred Share conversions"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210700.news",
+        "description": "[at noodls] - MONTR\u00c9AL, July 8, 2016/CNW Telbec/ - BCE Inc. (TSX: BCE) (NYSE: BCE) will hold its second-quarter 2016 results conference call with the financial community on Thursday, August 4, 2016, at 8:00 ameastern. ...",
+        "guid": "yahoo_finance/3692688425",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jijrk3/*http://www.publicnow.com/view/634853F99215F56F75ED66F9EA43661854113C5B",
+        "pubDate": "Fri, 08 Jul 2016 13:01:06 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE Q2 2016 results to be announced August 4, 2016"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210700.news",
+        "description": null,
+        "guid": "yahoo_finance/3370542473",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-buy-manitoba-telecom-c-115505114.html",
+        "pubDate": "Mon, 02 May 2016 19:14:01 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE-Manitoba Telecom deal seen facing tough regulatory scrutiny"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210702.news",
+        "description": null,
+        "guid": "yahoo_finance/1875967511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-misses-street-1q-forecasts-131142816.html",
+        "pubDate": "Thu, 28 Apr 2016 13:11:42 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE misses Street 1Q forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210704.news",
+        "description": null,
+        "guid": "yahoo_finance/4224456157",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-bce-posts-33-percent-111051381.html",
+        "pubDate": "Thu, 28 Apr 2016 11:31:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's BCE posts better-than-expected profit"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210706.news",
+        "description": null,
+        "guid": "yahoo_finance/4018194700",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-tops-street-4q-forecasts-144240574.html",
+        "pubDate": "Thu, 04 Feb 2016 14:42:40 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE tops Street 4Q forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210710.news",
+        "description": null,
+        "guid": "yahoo_finance/639699124",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-beats-street-3q-forecasts-153924108.html",
+        "pubDate": "Thu, 05 Nov 2015 15:39:24 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE beats Street 3Q forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210712.news",
+        "description": null,
+        "guid": "yahoo_finance/620469315",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-bce-posts-profit-wireless-122723168.html",
+        "pubDate": "Thu, 05 Nov 2015 13:02:58 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's BCE posts profit rise on wireless spending"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210714.news",
+        "description": null,
+        "guid": "yahoo_finance/149096095",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-beats-2q-profit-forecasts-113653977.html",
+        "pubDate": "Thu, 06 Aug 2015 11:36:53 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE beats 2Q profit forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210716.news",
+        "description": null,
+        "guid": "yahoo_finance/1612295295",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-beats-street-1q-forecasts-123404301.html",
+        "pubDate": "Thu, 30 Apr 2015 12:34:04 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE beats Street 1Q forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210718.news",
+        "description": null,
+        "guid": "yahoo_finance/4084931992",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-tv-viewers-more-choice-202608973.html",
+        "pubDate": "Thu, 19 Mar 2015 21:24:30 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canadians to be allowed to 'pick and pay' TV channels"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210723.news",
+        "description": null,
+        "guid": "yahoo_finance/1712181076",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-bce-appeals-mobile-tv-183416865.html",
+        "pubDate": "Mon, 23 Feb 2015 18:34:16 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's BCE appeals mobile TV rate ruling"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210724.news",
+        "description": null,
+        "guid": "yahoo_finance/1596630436",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/stop-threats-canadas-online-pirates-002925369.html",
+        "pubDate": "Sat, 10 Jan 2015 00:29:25 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Stop threats to Canada's online pirates, rights holders told"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210726.news",
+        "description": null,
+        "guid": "yahoo_finance/2305355407",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-woos-keyboard-loyalists-classic-153714018.html",
+        "pubDate": "Wed, 17 Dec 2014 19:15:48 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BlackBerry woos keyboard loyalists with launch of Classic"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210728.news",
+        "description": null,
+        "guid": "yahoo_finance/1599224867",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-telus-says-wants-internet-050857344.html",
+        "pubDate": "Wed, 10 Dec 2014 05:08:57 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's Telus says wants in on 'Internet of things' growth"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210730.news",
+        "description": null,
+        "guid": "yahoo_finance/2360467967",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-wind-mobile-signs-roaming-200601328.html",
+        "pubDate": "Tue, 02 Dec 2014 20:59:08 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canada's Wind Mobile signs roaming deal, Telus likely partner"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210732.news",
+        "description": null,
+        "guid": "yahoo_finance/4083086977",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-closes-bell-aliant-deal-135819163.html",
+        "pubDate": "Mon, 03 Nov 2014 13:58:19 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "BCE closes Bell Aliant deal, adds new member to its board"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210734.news",
+        "description": null,
+        "guid": "yahoo_finance/3408018396",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-broadcaster-bell-launch-rival-195237245.html",
+        "pubDate": "Thu, 30 Oct 2014 19:52:37 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Canadian broadcaster Bell to launch service to rival Netflix, Shomi"
+    },
+    {
+        "contents": "data\\BCE\\20161221-210739.news",
+        "description": null,
+        "guid": "yahoo_finance/468156987",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/postmedia-buy-sun-media-assets-214643355.html",
+        "pubDate": "Mon, 06 Oct 2014 21:46:43 GMT",
+        "source": "data\\BCE\\20161221.rss",
+        "title": "Postmedia to buy Sun Media assets, create dominant Canadian newspaper chain"
     }
 ]

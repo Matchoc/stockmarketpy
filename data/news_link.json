@@ -7,6 +7,50 @@
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=bce.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BCE.TO&ignore=.csv"
 	},
+	"POW" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=POW.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=POW.TO&ignore=.csv"
+	},
+	"NA" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NA.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=NA.TO&ignore=.csv"
+	},
+	"RY" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=RY.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=RY.TO&ignore=.csv"
+	},
+	"TD" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TD.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TD.TO&ignore=.csv"
+	},
+	"LB" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=LB.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=LB.TO&ignore=.csv"
+	},
+	"CM" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=CM.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=CM.TO&ignore=.csv"
+	},
+	"CNR" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=CNR.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=CNR.TO&ignore=.csv"
+	},
+	"TRP" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TRP.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TRP.TO&ignore=.csv"
+	},
+	"POT" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=POT.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=POT.TO&ignore=.csv"
+	},
+	"SAP" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SAP.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=SAP.TO&ignore=.csv"
+	},
+	"T" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=T.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=T.TO&ignore=.csv"
+	},
 	"MBA" : {
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=MBA.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=MBA.TO&ignore=.csv"
@@ -34,5 +78,113 @@
 	"S" : {
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=S.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=S.TO&ignore=.csv"
+	},
+	"DRT" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=DRT.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=DRT.TO&ignore=.csv"
+	},
+	"ECN" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=ECN.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=ECN.TO&ignore=.csv"
+	},
+	"IFP" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=IFP.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=IFP.TO&ignore=.csv"
+	},
+	"SPB" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SPB.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=SPB.TO&ignore=.csv"
+	},
+	"AQN" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=AQN.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=AQN.TO&ignore=.csv"
+	},
+	"GAS" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=GAS.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=GAS.TO&ignore=.csv"
+	},
+	"TCN" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TCN.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TCN.TO&ignore=.csv"
+	},
+	"XCT" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=XCT.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=XCT.TO&ignore=.csv"
+	},
+	"VFF" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=VFF.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=VFF.TO&ignore=.csv"
+	},
+	"RFP" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=RFP.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=RFP.TO&ignore=.csv"
+	},
+	"BYL" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BYL.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BYL.TO&ignore=.csv"
+	},
+	"NHC" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NHC.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=NHC.TO&ignore=.csv"
+	},
+	"MCB" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=MCB.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=MCB.TO&ignore=.csv"
+	},
+	"ITC" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=ITC.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=ITC.TO&ignore=.csv"
+	},
+	"TMB" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TMB.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TMB.TO&ignore=.csv"
+	},
+	"SFD" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SFD.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=SFD.TO&ignore=.csv"
+	},
+	"EPI" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=EPI.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=EPI.TO&ignore=.csv"
+	},
+	"FTU" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=FTU.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=FTU.TO&ignore=.csv"
+	},
+	"YCM" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=YCM.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=YCM.TO&ignore=.csv"
+	},
+	"APS" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=APS.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=APS.TO&ignore=.csv"
+	},
+	"RKN" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=RKN.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=RKN.TO&ignore=.csv"
+	},
+	"GEO" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=GEO.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=GEO.TO&ignore=.csv"
+	},
+	"TR" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TR.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TR.TO&ignore=.csv"
+	},
+	"RIC" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=RIC.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=RIC.TO&ignore=.csv"
+	},
+	"TV" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=TV.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=TV.TO&ignore=.csv"
+	},
+	"GCL" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=GCL.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=GCL.TO&ignore=.csv"
+	},
+	"SMT" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SMT.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=SMT.TO&ignore=.csv"
 	}
 }

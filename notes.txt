@@ -21,8 +21,11 @@ Ideas for inputs (in no particular order or logic) :
  
  todo :
    1. Improve date matching from news (before noon = same day variation, after noon = next day result ?)
-   2. Parse news articles and add content to word count
+   1.5 Gather today's news and generate list of most planned increase and decrease for tomorrow
    3. Fetch twitter feed with tag $<symbol>
    4. Create new separate machine for twitter results.
    5. Create compound machine with news result and twitter results.
+   6. Improve machine with new inputs :
+     - average price (previous, 1w, 1y ?)
+	 - market cap vs share value
    

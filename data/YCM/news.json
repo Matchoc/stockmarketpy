@@ -1,0 +1,29 @@
+[
+    {
+        "contents": "data\\YCM\\20161221-221655.news",
+        "description": null,
+        "guid": "yahoo_finance/744566024",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-monthly-dividend-declared-130000200.html",
+        "pubDate": "Wed, 19 Oct 2016 13:00:00 GMT",
+        "source": "data\\YCM\\20161221.rss",
+        "title": "Commerce Split: Monthly Dividend Declared for Class I and Class II Preferred Shares"
+    },
+    {
+        "contents": "data\\YCM\\20161221-221657.news",
+        "description": null,
+        "guid": "yahoo_finance/2046281583",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-fund-financial-results-201020974.html",
+        "pubDate": "Thu, 28 Jul 2016 20:10:20 GMT",
+        "source": "data\\YCM\\20161221.rss",
+        "title": "New Commerce Split Fund: Financial Results to May 31, 2016"
+    },
+    {
+        "contents": "data\\YCM\\20161221-221659.news",
+        "description": null,
+        "guid": "yahoo_finance/946816118",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-fund-financial-results-213019477.html",
+        "pubDate": "Thu, 25 Feb 2016 21:30:19 GMT",
+        "source": "data\\YCM\\20161221.rss",
+        "title": "New Commerce Split Fund: Financial Results to November 30, 2015"
+    }
+]
