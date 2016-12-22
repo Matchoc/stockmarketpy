@@ -1,8 +1,8 @@
 {
     "corp": 1,
-    "cuts": 1,
+    "cut": 1,
     "job": 1,
     "output": 1,
-    "plans": 1,
+    "plan": 1,
     "potash": 1
 }

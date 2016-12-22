@@ -1,10 +1,14 @@
 import json
 import string
+from nltk.stem import PorterStemmer
 
 def extract_words(text):
 	text = remove_punctuation(text)
 	text = text.lower()
 	words = text.split()
+	ps = PorterStemmer()
+	words = [ps.stem(w) for w in words]
+	
 	ret_dict = {}
 	for w in words:
 		ret_dict.setdefault(w, 0)

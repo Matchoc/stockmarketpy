@@ -178,5 +178,14 @@
         "pubDate": "Thu, 05 May 2016 11:00:00 GMT",
         "source": "data\\XCT\\20161221.rss",
         "title": "exactEarth Awarded Canadian Government AIS Maritime Data Services Contract"
+    },
+    {
+        "contents": "data\\XCT\\20161222-123410.news",
+        "description": null,
+        "guid": "yahoo_finance/3317247049",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exactearth-awarded-1-1m-project-120000963.html",
+        "pubDate": "Thu, 22 Dec 2016 12:00:00 GMT",
+        "source": "data\\XCT\\20161222.rss",
+        "title": "exactEarth Awarded \u00a31.1M Project from UK Space Agency for Small Vessel Tracking"
     }
 ]

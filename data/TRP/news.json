@@ -178,5 +178,14 @@
         "pubDate": "Tue, 29 Nov 2016 09:14:40 GMT",
         "source": "data\\TRP\\20161221.rss",
         "title": "Is Praxair, Inc. (PX) A Good Stock To Buy?"
+    },
+    {
+        "contents": "data\\TRP\\20161222-123401.news",
+        "description": null,
+        "guid": "yahoo_finance/690108293",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13fi995k0/*http://www.bloomberg.com/news/articles/2016-11-23/trump-aides-eye-reviving-keystone-by-rescinding-lbj-s-order?cmpid=yhoo.headline",
+        "pubDate": "Wed, 23 Nov 2016 20:47:08 GMT",
+        "source": "data\\TRP\\20161222.rss",
+        "title": "Trump Aides Eye Reviving Keystone by Rescinding LBJ\u2019s Order"
     }
 ]

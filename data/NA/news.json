@@ -178,5 +178,14 @@
         "pubDate": "Tue, 08 Nov 2016 15:00:00 GMT",
         "source": "data\\NA\\20161221.rss",
         "title": "National Bank to release its fourth quarter and fiscal 2016 results on December 2, 2016"
+    },
+    {
+        "contents": "data\\NA\\20161222-123347.news",
+        "description": null,
+        "guid": "yahoo_finance/158316744",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14r1oij53/*http://www.capitalcube.com/blog/index.php/national-bank-of-canada-na-ca-dividend-analysis-december-28th-2016-record-date-by-the-numbers-december-22-2016/",
+        "pubDate": "Thu, 22 Dec 2016 15:17:41 GMT",
+        "source": "data\\NA\\20161222.rss",
+        "title": "National Bank of Canada : NA-CA: Dividend Analysis : December 28th, 2016 (record date) : By the numbers : December 22, 2016"
     }
 ]

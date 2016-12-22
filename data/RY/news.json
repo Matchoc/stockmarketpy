@@ -178,5 +178,572 @@
         "pubDate": "Fri, 16 Dec 2016 13:16:25 GMT",
         "source": "data\\RY\\20161221.rss",
         "title": "Royal Bank of Canada :RY-CA: Earnings Analysis: 2016 By the Numbers : December 16, 2016"
+    },
+    {
+        "contents": "data\\RY\\20161222-123052.news",
+        "description": "[CNW Group] - Consumers - the driving force of growth in 2017: RBC Economics",
+        "guid": "yahoo_finance/4233353330",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/consumers-driving-force-growth-2017-130000519.html",
+        "pubDate": "Fri, 16 Dec 2016 13:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Consumers - the driving force of growth in 2017: RBC Economics"
+    },
+    {
+        "contents": "data\\RY\\20161222-123054.news",
+        "description": null,
+        "guid": "yahoo_finance/3568175891",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/15/research-reports-initiated-on-financials-stocks-royal-bank-of-canada-the-bank-of-nova-scotia-bank-of-montreal-and-national-bank-of-canada/?1=1&1481807847",
+        "pubDate": "Thu, 15 Dec 2016 13:17:27 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Research Reports Initiated on Financials Stocks Royal Bank of Canada, The Bank of Nova Scotia, Bank of Montreal, and National Bank of Canada"
+    },
+    {
+        "contents": "data\\RY\\20161222-123054.news",
+        "description": null,
+        "guid": "yahoo_finance/789578600",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/moves-mizuho-americas-makes-three-195105965.html",
+        "pubDate": "Wed, 14 Dec 2016 19:51:05 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "MOVES-Mizuho Americas makes three hires to boost technology sector business"
+    },
+    {
+        "contents": "data\\RY\\20161222-123056.news",
+        "description": null,
+        "guid": "yahoo_finance/4207318970",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13628cdmm/*http://www.bloomberg.com/news/videos/2016-12-13/canadian-hedge-fund-king-building-cash-on-energy-win?cmpid=yhoo.headline",
+        "pubDate": "Tue, 13 Dec 2016 22:29:59 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canadian Hedge Fund King Building Cash on Energy Win"
+    },
+    {
+        "contents": "data\\RY\\20161222-123057.news",
+        "description": "[CNW Group] - RBC Training Ground identifies 25 athletes with Olympic potential",
+        "guid": "yahoo_finance/3635563668",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-training-ground-identifies-25-150000581.html",
+        "pubDate": "Tue, 13 Dec 2016 15:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Training Ground identifies 25 athletes with Olympic potential"
+    },
+    {
+        "contents": "data\\RY\\20161222-123059.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 13, 2016 /CNW/ - RBC, in partnership with the Canadian Olympic Foundation (COF), Canadian Olympic Committee (COC) and CBC Sports, today introduced 25 young Canadian athletes, identified at ...",
+        "guid": "yahoo_finance/2343221432",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-training-ground-identifies-25-150000264.html",
+        "pubDate": "Tue, 13 Dec 2016 15:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Training Ground identifies 25 athletes with Olympic potential"
+    },
+    {
+        "contents": "data\\RY\\20161222-123100.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 13, 2016 /CNW/ - RBC business clients can now connect face-to-face with Royal Bank of Canada wherever and whenever they want through video banking on their computer, tablet or mobile device. This is one way RBC is continuing to invest in ways to make it easier for its business clients to integrate digital and mobile into their everyday lives, while meeting their needs for advice, trust and confidence in their decisions. RBC is the first Canadian bank to provide remote video banking.",
+        "guid": "yahoo_finance/3135309074",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/business-clients-now-connect-rbc-110000798.html",
+        "pubDate": "Tue, 13 Dec 2016 11:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Business clients on the go can now connect with RBC face-to-face via video banking"
+    },
+    {
+        "contents": "data\\RY\\20161222-123102.news",
+        "description": "[CNW Group] - Business clients on the go can now connect with RBC face-to-face via video banking",
+        "guid": "yahoo_finance/1113349907",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/business-clients-now-connect-rbc-110000094.html",
+        "pubDate": "Tue, 13 Dec 2016 11:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Business clients on the go can now connect with RBC face-to-face via video banking"
+    },
+    {
+        "contents": "data\\RY\\20161222-123104.news",
+        "description": null,
+        "guid": "yahoo_finance/1707064029",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-140000789.html",
+        "pubDate": "Mon, 12 Dec 2016 14:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "/C O R R E C T I O N from Source -- RBC Global Asset Management/"
+    },
+    {
+        "contents": "data\\RY\\20161222-123106.news",
+        "description": "[CNW Group] - /C O R R E C T I O N from Source -- RBC Global Asset Management/",
+        "guid": "yahoo_finance/3335434397",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-140000510.html",
+        "pubDate": "Mon, 12 Dec 2016 14:00:00 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "/C O R R E C T I O N from Source -- RBC Global Asset Management/"
+    },
+    {
+        "contents": "data\\RY\\20161222-123108.news",
+        "description": null,
+        "guid": "yahoo_finance/2972787773",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-posts-4q-profit-114439306.html",
+        "pubDate": "Wed, 30 Nov 2016 11:44:39 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank posts 4Q profit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123110.news",
+        "description": "[at noodls] - TORONTO, November 30, 2016 - Royal Bank of Canada (RY on TSX and NYSE) announced today that its board of directors declared a quarterly common share dividend of 83 cents per share, payable on and after ...",
+        "guid": "yahoo_finance/2702672486",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12855rl4j/*http://www.publicnow.com/view/421F230886BE8F8756D1D848274E0D6E379C86A4",
+        "pubDate": "Wed, 30 Nov 2016 11:31:14 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank of Canada declares dividends"
+    },
+    {
+        "contents": "data\\RY\\20161222-123110.news",
+        "description": "[at noodls] - All amounts are in Canadian dollars and are based on our audited Annual and unaudited Interim Consolidated Financial Statements for the year and quarter ended October 31, 2016 and related notes prepared ...",
+        "guid": "yahoo_finance/1862525689",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fqlccd/*http://www.publicnow.com/view/1F1F840912AB0A28364CB1ABED033EAB53B971A7",
+        "pubDate": "Wed, 30 Nov 2016 11:31:14 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank of Canada reports fourth quarter and record 2016 results"
+    },
+    {
+        "contents": "data\\RY\\20161222-123110.news",
+        "description": "[at noodls] - TORONTO, November 18, 2016 - RBC Global Asset Management Inc. today announced the final valuation of RBC Target 2016 Corporate Bond Index ETF (TSX: RQD). ... This is an abstract of the original noodl. ...",
+        "guid": "yahoo_finance/2693691366",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282p0g54/*http://www.publicnow.com/view/547468B52F62533329BDF117206D7F7E70045567",
+        "pubDate": "Fri, 18 Nov 2016 15:20:06 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Global Asset Management Inc. announces final valuation of RBC Target 2016 Corporate Bond Index ETF"
+    },
+    {
+        "contents": "data\\RY\\20161222-123110.news",
+        "description": null,
+        "guid": "yahoo_finance/3779049432",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/credit-suisse-makes-us-loss-143347961.html",
+        "pubDate": "Wed, 16 Nov 2016 14:33:47 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Credit Suisse makes US loss on US$885m trading hit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123115.news",
+        "description": "[at noodls] - TORONTO, November 15, 2016 - RBC Royal Bank announced today that it is increasing its residential mortgage rate offers, and introducing new pricing for amortizations 25 years and under, effective November ...",
+        "guid": "yahoo_finance/155814550",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128p4v5de/*http://www.publicnow.com/view/4848DDF4115D4DEB9C64594F7E7F3B4640AE17E9",
+        "pubDate": "Tue, 15 Nov 2016 13:48:07 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Royal Bank changes residential mortgage rates"
+    },
+    {
+        "contents": "data\\RY\\20161222-123115.news",
+        "description": "[at noodls] - TORONTO, November 15, 2016 - For many small and medium-sized businesses, retaining employees and building loyalty are critical to achieving their business goals. One way to create an attractive workplace ...",
+        "guid": "yahoo_finance/949532261",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vou82i/*http://www.publicnow.com/view/5F3F98FAB50E3A37B0A57DA12808BA5B75C6C809",
+        "pubDate": "Tue, 15 Nov 2016 13:48:07 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC kicks-off new way for business clients to build employee loyalty"
+    },
+    {
+        "contents": "data\\RY\\20161222-123115.news",
+        "description": "[at noodls] - TORONTO, November 14, 2016 - RBC Global Asset Management Inc. today announced November 2016 cash distributions for unitholders of RBC ETFs. ... This is an abstract of the original noodl. To continue reading ...",
+        "guid": "yahoo_finance/2593529319",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128pg7hbj/*http://www.publicnow.com/view/E9F88580EA280FB72B409271FFB1F33696557BB3",
+        "pubDate": "Mon, 14 Nov 2016 14:47:19 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Global Asset Management Inc. announces RBC ETF cash distributions for November 2016"
+    },
+    {
+        "contents": "data\\RY\\20161222-123115.news",
+        "description": "[at noodls] - Charlotte Harris to design her first show garden, drawing inspiration from Canada's boreal forest and waterways in the 150th year of the Federation of Canada Charlotte to lead all-female design team LONDON, ...",
+        "guid": "yahoo_finance/1942270882",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mvu7hn/*http://www.publicnow.com/view/483D9E10888A57FA87A6B2C63AA0E64AB04308F4",
+        "pubDate": "Thu, 10 Nov 2016 14:41:03 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC reveals garden for 2017 RHS Chelsea Flower Show"
+    },
+    {
+        "contents": "data\\RY\\20161222-123115.news",
+        "description": "[at noodls] - Global and Canadian equities continue to generate solid returns TORONTO, November 3, 2016 - Canadian defined benefit pension plans remained in positive territory in Q3 2016, according to the $650 billion ...",
+        "guid": "yahoo_finance/2735773170",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qstoc7/*http://www.publicnow.com/view/6E2C636567750B98FAE433551B1489CD3906401B",
+        "pubDate": "Thu, 03 Nov 2016 13:18:12 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canadian pensions deliver second consecutive quarter of positive returns in Q3: RBC Investor & Treasury Services"
+    },
+    {
+        "contents": "data\\RY\\20161222-123116.news",
+        "description": "[at noodls] - TORONTO, November 2, 2016 - Royal Bank of Canada (RY on TSX and NYSE) will release its fourth quarter and fiscal 2016 financial results on November 30, which will be made available at rbc.com/investorrelations. ...",
+        "guid": "yahoo_finance/2325880531",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128nunvba/*http://www.publicnow.com/view/3A0A7A4F6EA4352DC9878B674241CD52DE77F411",
+        "pubDate": "Wed, 02 Nov 2016 13:20:04 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC to announce fourth quarter and fiscal 2016 results on November 30, 2016"
+    },
+    {
+        "contents": "data\\RY\\20161222-123116.news",
+        "description": "[at noodls] - SYDNEY, October 23, 2016 - More than 800 people walked and ran through Centennial Park on Saturday in the third annual RBC Race for the Kids in Sydney supporting the Starlight Children's Foundation. ...",
+        "guid": "yahoo_finance/2565764494",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288r4q8a/*http://www.publicnow.com/view/4A854E361FEFED7FF172387680B6BAEF465BB8DA",
+        "pubDate": "Thu, 27 Oct 2016 17:06:02 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Race for the Kids draws 800 participants in support of Starlight Children\u2019s Foundation"
+    },
+    {
+        "contents": "data\\RY\\20161222-123116.news",
+        "description": "[at noodls] - RBC Capital Markets receives Canadian patent approval for its THOR smart order router technology TORONTO, October 27, 2016 - THOR technology, a smart order router that significantly enhances investors' ...",
+        "guid": "yahoo_finance/3027478874",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vgeqpf/*http://www.publicnow.com/view/36970EDC7E2DFD67A97EFDBB127CF0E1AA6EC994",
+        "pubDate": "Thu, 27 Oct 2016 13:16:02 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC\u2019s THOR remains the premier smart router technology"
+    },
+    {
+        "contents": "data\\RY\\20161222-123116.news",
+        "description": "[at noodls] - 1,900 runners take the field in annual RBC Race for the Kids at Comer Children's CHICAGO, October 20, 2016 - The 14th annual RBC Race for the Kids at Comer Children's Hospital raised more ...",
+        "guid": "yahoo_finance/4090175957",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kko8e9/*http://www.publicnow.com/view/B3580A26BC09C02357047BAB19E42144CED3527F",
+        "pubDate": "Mon, 24 Oct 2016 20:31:11 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "5K race raises $315,000 for research at Comer Children's Hospital"
+    },
+    {
+        "contents": "data\\RY\\20161222-123116.news",
+        "description": "[at noodls] - TORONTO, October 21, 2016 - Royal Bank of Canada (RY on TSX and NYSE) today announced that Janice Fukakusa, Chief Administrative Officer and Chief Financial Officer (CAO & CFO) will be retiring effective ...",
+        "guid": "yahoo_finance/3609326223",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sq219t/*http://www.publicnow.com/view/CC71AE8D795FD2C79FDEA2813CBDC3D145C5E25D",
+        "pubDate": "Fri, 21 Oct 2016 13:09:06 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC announces retirement of Chief Administrative Officer and Chief Financial Officer, Janice Fukakusa"
+    },
+    {
+        "contents": "data\\RY\\20161222-123117.news",
+        "description": "[at noodls] - TORONTO, October 14, 2016 - RBC Global Asset Management Inc. today announced October 2016 cash distributions for unitholders of RBC ETFs. ... This is an abstract of the original noodl. To continue reading ...",
+        "guid": "yahoo_finance/478862221",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128q9hgqf/*http://www.publicnow.com/view/DBE76DDF0A28C8646D0555496FE83F5949EFAA0A",
+        "pubDate": "Fri, 14 Oct 2016 14:50:05 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC Global Asset Management Inc. announces RBC ETF Cash Distributions for October 2016"
+    },
+    {
+        "contents": "data\\RY\\20161222-123117.news",
+        "description": "[at noodls] - Innovative app delivers engaging and convenient mobile experience TORONTO, October 14, 2016 - Today, RBC, a market leader in technological innovation, launched the RBC Rewards App for iOS and Android. ...",
+        "guid": "yahoo_finance/512792856",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uu0dao/*http://www.publicnow.com/view/F9CFE678F6FF7C4EDCF61446E630219420D2E5E0",
+        "pubDate": "Fri, 14 Oct 2016 12:10:04 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Track rewards points, shop and book travel all from your mobile device with the new RBC Rewards App"
+    },
+    {
+        "contents": "data\\RY\\20161222-123117.news",
+        "description": null,
+        "guid": "yahoo_finance/4277266935",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rbc-cutting-15-investment-banking-095554080.html",
+        "pubDate": "Fri, 30 Sep 2016 09:55:54 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC cutting 15 investment banking jobs in London - sources"
+    },
+    {
+        "contents": "data\\RY\\20161222-123119.news",
+        "description": null,
+        "guid": "yahoo_finance/346446640",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/rbc-cutting-15-investment-banking-095219131.html",
+        "pubDate": "Fri, 30 Sep 2016 09:52:19 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC cutting 15 investment banking jobs in London - sources"
+    },
+    {
+        "contents": "data\\RY\\20161222-123121.news",
+        "description": null,
+        "guid": "yahoo_finance/3071066772",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/u-judge-narrows-currency-rigging-001912334.html",
+        "pubDate": "Wed, 21 Sep 2016 00:19:12 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "U.S. judge narrows currency rigging lawsuit against seven banks"
+    },
+    {
+        "contents": "data\\RY\\20161222-123123.news",
+        "description": null,
+        "guid": "yahoo_finance/2597118356",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-judge-narrows-currency-rigging-232601135.html",
+        "pubDate": "Tue, 20 Sep 2016 23:26:01 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "U.S. judge narrows currency rigging lawsuit against seven banks"
+    },
+    {
+        "contents": "data\\RY\\20161222-123125.news",
+        "description": null,
+        "guid": "yahoo_finance/2307640761",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/u-judge-narrows-currency-rigging-230156586.html",
+        "pubDate": "Tue, 20 Sep 2016 23:01:56 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "U.S. judge narrows currency rigging lawsuit against seven banks"
+    },
+    {
+        "contents": "data\\RY\\20161222-123127.news",
+        "description": null,
+        "guid": "yahoo_finance/444190833",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-posts-3q-profit-101836416.html",
+        "pubDate": "Wed, 24 Aug 2016 10:18:36 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank posts 3Q profit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123129.news",
+        "description": null,
+        "guid": "yahoo_finance/3397544192",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bank-englands-carney-says-climate-134256496.html",
+        "pubDate": "Fri, 15 Jul 2016 18:02:45 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "BoE's Carney warns of $7 trillion green infrastructure need"
+    },
+    {
+        "contents": "data\\RY\\20161222-123130.news",
+        "description": null,
+        "guid": "yahoo_finance/4120279342",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/boes-carney-says-g20-summit-152422727.html",
+        "pubDate": "Fri, 15 Jul 2016 17:39:19 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "BoE's Carney warns of $7 trillion green infrastructure need"
+    },
+    {
+        "contents": "data\\RY\\20161222-123132.news",
+        "description": null,
+        "guid": "yahoo_finance/1539615441",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/alberta-wildfires-canadas-costliest-disaster-163606439.html",
+        "pubDate": "Thu, 07 Jul 2016 18:32:18 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Alberta wildfires Canada's costliest-ever natural disaster -report"
+    },
+    {
+        "contents": "data\\RY\\20161222-123135.news",
+        "description": null,
+        "guid": "yahoo_finance/3889369096",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/alberta-wildfires-canadas-costliest-disaster-160524658.html",
+        "pubDate": "Thu, 07 Jul 2016 16:05:24 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Alberta wildfires Canada's costliest disaster at C$3.58 bln- report"
+    },
+    {
+        "contents": "data\\RY\\20161222-123136.news",
+        "description": null,
+        "guid": "yahoo_finance/1051663266",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-rbc-eyes-silicon-valley-142501433.html",
+        "pubDate": "Wed, 08 Jun 2016 14:25:01 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canada's RBC eyes Silicon Valley talent at fintech hub"
+    },
+    {
+        "contents": "data\\RY\\20161222-123138.news",
+        "description": null,
+        "guid": "yahoo_finance/2272939278",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-posts-2q-profit-103548540.html",
+        "pubDate": "Thu, 26 May 2016 10:35:48 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank posts 2Q profit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123140.news",
+        "description": null,
+        "guid": "yahoo_finance/1896355949",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/libor-antitrust-claims-revived-setback-174422283.html",
+        "pubDate": "Mon, 23 May 2016 19:08:39 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Big banks lose as U.S. appeals court revives Libor lawsuits"
+    },
+    {
+        "contents": "data\\RY\\20161222-123142.news",
+        "description": null,
+        "guid": "yahoo_finance/2593196456",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/antitrust-claims-revived-libor-litigation-154852208.html",
+        "pubDate": "Mon, 23 May 2016 19:07:10 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Big banks lose as U.S. appeals court revives Libor lawsuits"
+    },
+    {
+        "contents": "data\\RY\\20161222-123144.news",
+        "description": null,
+        "guid": "yahoo_finance/441036659",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-rbc-releasing-files-linked-234810936.html",
+        "pubDate": "Thu, 05 May 2016 23:48:10 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canada's RBC releasing files linked to 'Panama Papers' firm - reports"
+    },
+    {
+        "contents": "data\\RY\\20161222-123146.news",
+        "description": null,
+        "guid": "yahoo_finance/3246854757",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-rbc-releasing-files-linked-230333428.html",
+        "pubDate": "Thu, 05 May 2016 23:03:33 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canada's RBC releasing files linked to 'Panama Papers' firm - reports"
+    },
+    {
+        "contents": "data\\RY\\20161222-123148.news",
+        "description": null,
+        "guid": "yahoo_finance/931098806",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/alberta-wildfire-set-canadas-costliest-212214430.html",
+        "pubDate": "Wed, 04 May 2016 21:22:14 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Alberta wildfire set to be Canada's costliest natural disaster"
+    },
+    {
+        "contents": "data\\RY\\20161222-123150.news",
+        "description": null,
+        "guid": "yahoo_finance/1945372342",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-tightens-tax-evasion-probe-164719777.html",
+        "pubDate": "Mon, 11 Apr 2016 16:47:19 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canada tightens tax evasion probe, to look closer at Isle of Man"
+    },
+    {
+        "contents": "data\\RY\\20161222-123154.news",
+        "description": null,
+        "guid": "yahoo_finance/3506751148",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canada-tightens-tax-evasion-probe-162642435.html",
+        "pubDate": "Mon, 11 Apr 2016 16:26:42 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Canada tightens tax evasion probe, to look closer at Isle of Man"
+    },
+    {
+        "contents": "data\\RY\\20161222-123156.news",
+        "description": null,
+        "guid": "yahoo_finance/3106542747",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rbc-sets-team-scrutinize-panama-165841961.html",
+        "pubDate": "Wed, 06 Apr 2016 16:58:41 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC sets up team to scrutinize Panama data - CEO"
+    },
+    {
+        "contents": "data\\RY\\20161222-123158.news",
+        "description": null,
+        "guid": "yahoo_finance/2624848496",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/host-advisers-jostle-85-mln-181745232.html",
+        "pubDate": "Wed, 16 Mar 2016 18:17:45 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Host of advisers jostle for $85 mln fees from LSE-Deutsche Boerse deal"
+    },
+    {
+        "contents": "data\\RY\\20161222-123200.news",
+        "description": null,
+        "guid": "yahoo_finance/1972896224",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/rbc-targets-market-share-gains-205537519.html",
+        "pubDate": "Thu, 03 Mar 2016 20:55:37 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "RBC targets market share gains in U.S. investment banking"
+    },
+    {
+        "contents": "data\\RY\\20161222-123202.news",
+        "description": null,
+        "guid": "yahoo_finance/3544008578",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-posts-1q-profit-112527061.html",
+        "pubDate": "Wed, 24 Feb 2016 11:25:27 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank posts 1Q profit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123204.news",
+        "description": null,
+        "guid": "yahoo_finance/2312702773",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/aviva-buys-rbcs-general-insurance-102853353.html",
+        "pubDate": "Fri, 22 Jan 2016 10:28:53 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Aviva buys RBC's general insurance business for $400 million"
+    },
+    {
+        "contents": "data\\RY\\20161222-123206.news",
+        "description": null,
+        "guid": "yahoo_finance/1222028908",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/1-aviva-buys-canadian-rbcs-102807717.html",
+        "pubDate": "Fri, 22 Jan 2016 10:28:07 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "UPDATE 1-Aviva buys Canadian RBC's general insurance business for $400 mln"
+    },
+    {
+        "contents": "data\\RY\\20161222-123208.news",
+        "description": null,
+        "guid": "yahoo_finance/548125014",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/aviva-buys-rbcs-general-insurance-102228031.html",
+        "pubDate": "Fri, 22 Jan 2016 10:22:28 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Aviva buys RBC's general insurance business for $400 mln"
+    },
+    {
+        "contents": "data\\RY\\20161222-123209.news",
+        "description": null,
+        "guid": "yahoo_finance/1938703247",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/aviva-buys-rbcs-general-insurance-133158270.html",
+        "pubDate": "Thu, 21 Jan 2016 14:39:46 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Aviva buys Canadian RBC's general insurance business for $400 mln"
+    },
+    {
+        "contents": "data\\RY\\20161222-123211.news",
+        "description": null,
+        "guid": "yahoo_finance/78340268",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/aviva-buys-canadian-rbcs-general-143105367.html",
+        "pubDate": "Thu, 21 Jan 2016 14:31:05 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Aviva buys Canadian RBC's general insurance business for $400 mln"
+    },
+    {
+        "contents": "data\\RY\\20161222-123213.news",
+        "description": null,
+        "guid": "yahoo_finance/2172397565",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/aviva-buys-rbcs-general-insurance-130443915.html",
+        "pubDate": "Thu, 21 Jan 2016 13:04:43 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Aviva buys RBC's general insurance business for $400 mln"
+    },
+    {
+        "contents": "data\\RY\\20161222-123215.news",
+        "description": null,
+        "guid": "yahoo_finance/1306433352",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-posts-4q-profit-113339156.html",
+        "pubDate": "Wed, 02 Dec 2015 11:33:39 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank posts 4Q profit"
+    },
+    {
+        "contents": "data\\RY\\20161222-123216.news",
+        "description": null,
+        "guid": "yahoo_finance/2067720389",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/column-high-court-affirms-rural-005817046.html",
+        "pubDate": "Wed, 02 Dec 2015 00:58:17 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "COLUMN-High court affirms Rural/Metro: Should financial advisers worry? Frankel"
+    },
+    {
+        "contents": "data\\RY\\20161222-123218.news",
+        "description": null,
+        "guid": "yahoo_finance/299140016",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/royal-bank-canada-scraps-limit-214312686.html",
+        "pubDate": "Mon, 02 Nov 2015 21:43:12 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank of Canada scraps limit on size of newcomer mortgages"
+    },
+    {
+        "contents": "data\\RY\\20161222-123220.news",
+        "description": null,
+        "guid": "yahoo_finance/1551525977",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/thirteen-more-top-banks-join-161135913.html",
+        "pubDate": "Tue, 29 Sep 2015 16:11:35 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Thirteen more top banks join R3 blockchain consortium"
+    },
+    {
+        "contents": "data\\RY\\20161222-123222.news",
+        "description": null,
+        "guid": "yahoo_finance/1038533412",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/royal-bank-tops-street-3q-101606591.html",
+        "pubDate": "Wed, 26 Aug 2015 10:16:06 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Royal Bank tops Street 3Q forecasts"
+    },
+    {
+        "contents": "data\\RY\\20161222-123224.news",
+        "description": null,
+        "guid": "yahoo_finance/4008557181",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-armoured-car-security-company-185706670.html",
+        "pubDate": "Wed, 12 Aug 2015 18:57:06 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Exclusive - Armoured car security company Garda explores sale: sources"
+    },
+    {
+        "contents": "data\\RY\\20161222-123226.news",
+        "description": null,
+        "guid": "yahoo_finance/1953322998",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/celebrity-chef-jamie-oliver-hires-122945041.html",
+        "pubDate": "Sat, 16 May 2015 12:29:45 GMT",
+        "source": "data\\RY\\20161222.rss",
+        "title": "Celebrity chef Jamie Oliver hires bank to find restaurant investor - Times"
     }
 ]

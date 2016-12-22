@@ -178,5 +178,14 @@
         "pubDate": "Thu, 05 May 2016 21:29:00 GMT",
         "source": "data\\BYL\\20161221.rss",
         "title": "Baylin Technologies Inc. - Report of Voting Results"
+    },
+    {
+        "contents": "data\\BYL\\20161222-123403.news",
+        "description": null,
+        "guid": "yahoo_finance/3206972377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/baylin-technologies-closes-public-offering-143500046.html",
+        "pubDate": "Thu, 22 Dec 2016 14:35:00 GMT",
+        "source": "data\\BYL\\20161222.rss",
+        "title": "Baylin Technologies closes public offering of common shares"
     }
 ]

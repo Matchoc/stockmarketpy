@@ -88,7 +88,7 @@ def generate_word_counts():
 		
 	return all_words
 	
-def gen_news_x(news):
+def gen_news_x(symbol, news):
 	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
 	with open(allwordspath, 'r') as jsonfile:
 		allwords = json.load(jsonfile)
@@ -96,6 +96,7 @@ def gen_news_x(news):
 	with open(newswordspath, 'r') as jsonfile:
 		newswords = json.load(jsonfile)
 	sortedX = sorted(allwords.keys())
+	#price = get_close_prev_day(symbol, news)
 	x = []
 	for key in sortedX:
 		count = 0
@@ -140,6 +141,22 @@ def gen_news_y(symbol, news):
 		return y
 	return None
 
+def get_close_prev_day(symbol, news):
+	pubdatestr = news["pubDate"]
+	# sample : "Fri, 16 Dec 2016 16:18:35 GMT"
+	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z')
+	result = get_valid_market_date(result)
+	result = result - datetime.timedelta(days=1)
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	pricedatefmt = result.strftime("%Y-%m-%d")
+	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
+	if pricedatefmt in prices:
+		price = prices[pricedatefmt]
+	return price["Close"]
+	
 def gatherTraining(symbol):
 	newspath = get_news_json_path(symbol)
 	with open(newspath, 'r') as jsonfile:
@@ -148,8 +165,8 @@ def gatherTraining(symbol):
 	all_y = []
 	count = 0
 	for news in allnews:
-		x = gen_news_x(news)
-		y = gen_news_y("BNS", news)
+		x = gen_news_x(symbol, news)
+		y = gen_news_y(symbol, news)
 		if y is not None:
 			all_x += x
 			all_y.append(y)
@@ -206,7 +223,10 @@ def cross_validate(data):
 		expected_per = data["y"][count] * 100
 		myprint("res : " + str(res_per) + "%, expected : " + str(expected_per) + "% ecart : " + str(abs(expected_per - res_per)), 2)
 		avg_ecart += abs(expected_per - res_per)
-		avg_per_ecart += (expected_per - res_per) / expected_per
+		val = expected_per
+		if val == 0:
+			val = res_per
+		avg_per_ecart += abs(expected_per - res_per) / abs(val)
 		
 		count += 1
 		
@@ -278,7 +298,7 @@ def get_today_X(symbol):
 	
 	x = []
 	for news in valid_news:
-		x += gen_news_x(news)
+		x += gen_news_x(symbol, news)
 		
 	return x
 	
@@ -307,11 +327,16 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
-	#update_all_symbols(["train"])
-	#update_all_symbols(["crossval"])
-	update_all_symbols(["today"])
+	#update_all_symbols(["train", "crossval"])
+	update_all_symbols(["crossval"])
+	#update_all_symbols(["today"])
 	#myprint(sort_dict(ret), 1)
 	#get_important_text_from_news(r"G:\Perso\projects\stockmarketpy\data\BCE\20161218-220023.news")
+	#update_all_symbols([
+	#	"processnews",
+	#	"allwords"
+	#	])
 	
+
 	
 	myprint("done", 5)

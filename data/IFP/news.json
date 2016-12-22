@@ -178,5 +178,14 @@
         "pubDate": "Wed, 14 Sep 2016 20:57:41 GMT",
         "source": "data\\IFP\\20161221.rss",
         "title": "Canada says deadlocked with U.S. over lumber, ready to litigate"
+    },
+    {
+        "contents": "data\\IFP\\20161222-123246.news",
+        "description": null,
+        "guid": "yahoo_finance/183607239",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/interfor-reports-q216-results-210000323.html",
+        "pubDate": "Thu, 28 Jul 2016 21:00:00 GMT",
+        "source": "data\\IFP\\20161222.rss",
+        "title": "Interfor Reports Q2'16 Results"
     }
 ]

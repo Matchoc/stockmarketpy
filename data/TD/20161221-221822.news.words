@@ -1,17 +1,16 @@
 {
-    "bank": 3,
-    "banking": 1,
+    "bank": 4,
     "canada": 1,
     "canadian": 1,
-    "capital": 1,
+    "capit": 1,
     "dominion": 1,
     "group": 1,
     "home": 1,
-    "initiated": 1,
+    "initi": 1,
     "laurentian": 1,
-    "reports": 1,
+    "report": 1,
     "research": 1,
-    "stocks": 1,
+    "stock": 1,
     "toronto": 1,
     "western": 1
 }

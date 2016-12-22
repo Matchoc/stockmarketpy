@@ -178,5 +178,14 @@
         "pubDate": "Tue, 06 Dec 2016 19:52:59 GMT",
         "source": "data\\CM\\20161221.rss",
         "title": "A Record Year From the Smallest of the Big 5"
+    },
+    {
+        "contents": "data\\CM\\20161222-123406.news",
+        "description": null,
+        "guid": "yahoo_finance/1727231414",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=156minima/*http://www.capitalcube.com/blog/index.php/canadian-imperial-bank-of-commerce-cm-ca-dividend-analysis-december-28th-2016-record-date-by-the-numbers-december-22-2016/",
+        "pubDate": "Thu, 22 Dec 2016 15:17:11 GMT",
+        "source": "data\\CM\\20161222.rss",
+        "title": "Canadian Imperial Bank of Commerce : CM-CA: Dividend Analysis : December 28th, 2016 (record date) : By the numbers : December 22, 2016"
     }
 ]

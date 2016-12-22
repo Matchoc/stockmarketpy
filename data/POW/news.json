@@ -178,5 +178,14 @@
         "pubDate": "Wed, 31 Aug 2016 12:26:48 GMT",
         "source": "data\\POW\\20161221.rss",
         "title": "Power Corp. of Canada breached its 50 day moving average in a Bullish Manner : POW-CA : August 31, 2016"
+    },
+    {
+        "contents": "data\\POW\\20161222-123240.news",
+        "description": null,
+        "guid": "yahoo_finance/1160021540",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/22/research-reports-initiated-on-insurance-stocks-power-corp-of-canada-manulife-financial-industrial-alliance-insurance-and-financial-services-and-power-financial/?1=1&1482414626",
+        "pubDate": "Thu, 22 Dec 2016 13:50:26 GMT",
+        "source": "data\\POW\\20161222.rss",
+        "title": "Research Reports Initiated on Insurance Stocks Power Corp of Canada, Manulife Financial, Industrial Alliance Insurance and Financial Services, and Power Financial"
     }
 ]

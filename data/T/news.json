@@ -178,5 +178,14 @@
         "pubDate": "Fri, 18 Nov 2016 18:37:35 GMT",
         "source": "data\\T\\20161221.rss",
         "title": "ETFs with exposure to TELUS Corp. : November 18, 2016"
+    },
+    {
+        "contents": "data\\T\\20161222-123308.news",
+        "description": null,
+        "guid": "yahoo_finance/2138316980",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/22/research-reports-initiated-on-communication-services-stocks-shaw-communications-telus-bce-inc-and-cogeco-communications/?1=1&1482414626",
+        "pubDate": "Thu, 22 Dec 2016 13:50:26 GMT",
+        "source": "data\\T\\20161222.rss",
+        "title": "Research Reports Initiated on Communication Services Stocks Shaw Communications, TELUS, BCE Inc, and Cogeco Communications"
     }
 ]
