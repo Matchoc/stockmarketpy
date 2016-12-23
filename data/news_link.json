@@ -123,10 +123,6 @@
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BYL.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BYL.TO&ignore=.csv"
 	},
-	"NHC" : {
-		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NHC.to&region=US&lang=en-US",
-		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=NHC.TO&ignore=.csv"
-	},
 	"MCB" : {
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=MCB.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=MCB.TO&ignore=.csv"
