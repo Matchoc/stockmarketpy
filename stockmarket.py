@@ -97,7 +97,8 @@ def gen_news_x(symbol, news):
 		newswords = json.load(jsonfile)
 	sortedX = sorted(allwords.keys())
 	#price = get_close_prev_day(symbol, news)
-	x = []
+	x = [get_previous_close_price(symbol, news)]
+	#x = []
 	for key in sortedX:
 		count = 0
 		if key in newswords:
@@ -123,6 +124,32 @@ def get_valid_market_date(newsdate):
 		finaldate = finaldate + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.MO(1))
 	myprint("final date = " + str(finaldate), 0)
 	return finaldate
+	
+def get_previous_close_price(symbol, news):
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	
+	pubdatestr = news["pubDate"]
+	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z')
+	result = get_valid_market_date(result)
+	result = result - datetime.timedelta(days=1)
+	if result.weekday() == 5 or result.weekday() == 6:
+		result = result + dateutil.relativedelta.relativedelta(weekday=dateutil.relativedelta.FR(-1))
+	
+	pricedatefmt = result.strftime("%Y-%m-%d")
+	try:
+		while pricedatefmt not in prices:
+			result = result - datetime.timedelta(days=1)
+			pricedatefmt = result.strftime("%Y-%m-%d")		
+	except OverflowError as e:
+		final_price = 10
+
+	if pricedatefmt in prices:
+		final_price = prices[pricedatefmt]["Close"]
+		
+	return final_price
 
 def gen_news_y(symbol, news):
 	pubdatestr = news["pubDate"]
@@ -317,6 +344,15 @@ def predict_all_today():
 		
 	myprint(results, 5)
 	
+def print_ordered_all_words():
+	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
+	with open(allwordspath, 'r') as jsonfile:
+		allwords = json.load(jsonfile)
+	
+	sorted_words = sort_dict(allwords)
+	for word in sorted_words:
+		sys.stdout.buffer.write((str(word) + "\n").encode('UTF-8'))
+	
 if __name__ == '__main__':
 	#update_symbol("BNS")
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
@@ -324,8 +360,8 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
-	#update_all_symbols(["train", "crossval"])
-	update_all_symbols(["crossval"])
+	update_all_symbols(["train", "crossval"])
+	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today"])
 	#myprint(sort_dict(ret), 1)
 	#get_important_text_from_news(r"G:\Perso\projects\stockmarketpy\data\BCE\20161218-220023.news")
@@ -333,7 +369,5 @@ if __name__ == '__main__':
 	#	"processnews",
 	#	"allwords"
 	#	])
-	
-
 	
 	myprint("done", 5)
