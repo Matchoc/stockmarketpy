@@ -20,8 +20,7 @@ Ideas for inputs (in no particular order or logic) :
  - twitter feed about ticker (symbol)
  
  todo :
-   1. Improve date matching from news (before noon = same day variation, after noon = next day result ?)
-   1.5 Gather today's news and generate list of most planned increase and decrease for tomorrow
+   1. normalize y or pass average price as x
    3. Fetch twitter feed with tag $<symbol>
    4. Create new separate machine for twitter results.
    5. Create compound machine with news result and twitter results.

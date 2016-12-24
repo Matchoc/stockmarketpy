@@ -171,7 +171,7 @@ def gatherTraining(symbol):
 			all_x += x
 			all_y.append(y)
 		else:
-			myprint("failed to load : " + str(count), 1)
+			myprint("[" + symbol + "] failed to load news index " + str(count) + " : " + news["title"], 1)
 		count += 1
 			
 	return all_x, all_y
@@ -217,20 +217,17 @@ def cross_validate(data):
 	results = MACHINE_NEWS.predict(x)
 	count = 0
 	avg_ecart = 0
-	avg_per_ecart = 0
+	root_mean_square = 0
 	for res in results:
 		res_per = res * 100
 		expected_per = data["y"][count] * 100
-		myprint("res : " + str(res_per) + "%, expected : " + str(expected_per) + "% ecart : " + str(abs(expected_per - res_per)), 2)
+		myprint("predicted value : " + str(res_per) + "%, real answer : " + str(expected_per) + "% ecart : " + str(abs(expected_per - res_per)), 2)
 		avg_ecart += abs(expected_per - res_per)
-		val = expected_per
-		if val == 0:
-			val = res_per
-		avg_per_ecart += abs(expected_per - res_per) / abs(val)
-		
+		root_mean_square += (expected_per - res_per)**2
 		count += 1
-		
-	myprint("avg ecart : " + str(avg_ecart / count) + ", avg percentage ecart : " + str((avg_per_ecart / count) * 100) + "%", 2)
+	
+	root_mean_square = (root_mean_square/count)**0.5
+	myprint("avg ecart : " + str(avg_ecart / count) + ", root mean square : " + str(root_mean_square), 2)
 		
 def update_symbol(symbol, steps):
 	symboldir = os.path.join(DATA_FOLDER, symbol)
