@@ -349,5 +349,14 @@
         "pubDate": "Thu, 22 Dec 2016 12:51:29 GMT",
         "source": "data\\TV\\20161222.rss",
         "title": "Trevali Mining Corp. breached its 50 day moving average in a Bearish Manner : TV-CA : December 22, 2016"
+    },
+    {
+        "contents": "data\\TV\\20161226-093658.news",
+        "description": null,
+        "guid": "yahoo_finance/1538711099",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13amjb7rl/*http://www.capitalcube.com/blog/index.php/trevali-mining-corp-value-analysis-torontotv-december-23-2016/",
+        "pubDate": "Fri, 23 Dec 2016 14:45:31 GMT",
+        "source": "data\\TV\\20161226.rss",
+        "title": "Trevali Mining Corp. \u2013 Value Analysis (TORONTO:TV) : December 23, 2016"
     }
 ]

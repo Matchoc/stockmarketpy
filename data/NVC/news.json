@@ -232,5 +232,59 @@
         "pubDate": "Tue, 20 Dec 2016 17:10:00 GMT",
         "source": "data\\NVC\\20161220.rss",
         "title": "IIROC Trade Resumption - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093813.news",
+        "description": null,
+        "guid": "yahoo_finance/1546810348",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-nvc-174700479.html",
+        "pubDate": "Fri, 23 Dec 2016 17:47:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "IIROC Trade Resumption - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093815.news",
+        "description": null,
+        "guid": "yahoo_finance/4289301023",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-nvc-174700197.html",
+        "pubDate": "Fri, 23 Dec 2016 17:47:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "IIROC Trade Resumption - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093816.news",
+        "description": "[CNW Group] - Neovasc Announces Update in Litigation with CardiAQ",
+        "guid": "yahoo_finance/3482770628",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/neovasc-announces-litigation-cardiaq-172800725.html",
+        "pubDate": "Fri, 23 Dec 2016 17:28:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "Neovasc Announces Update in Litigation with CardiAQ"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093824.news",
+        "description": "[PR Newswire] - VANCOUVER, Dec. 23, 2016 /PRNewswire/ - Neovasc Inc. (\"Neovasc\" or the \"Company\") (NVCN) (NVC.TO) reported today that the United States District Court for the District of Massachusetts has granted a stay of judgment pending the completion of its appeal.",
+        "guid": "yahoo_finance/73795423",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/neovasc-announces-litigation-cardiaq-172800504.html",
+        "pubDate": "Fri, 23 Dec 2016 17:28:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "Neovasc Announces Update in Litigation with CardiAQ"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093826.news",
+        "description": null,
+        "guid": "yahoo_finance/1289448709",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-nvc-172000178.html",
+        "pubDate": "Fri, 23 Dec 2016 17:20:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "IIROC Trading Halt - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161226-093827.news",
+        "description": null,
+        "guid": "yahoo_finance/3602132033",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-nvc-172000725.html",
+        "pubDate": "Fri, 23 Dec 2016 17:20:00 GMT",
+        "source": "data\\NVC\\20161226.rss",
+        "title": "IIROC Trading Halt - NVC"
     }
 ]

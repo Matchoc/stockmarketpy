@@ -178,5 +178,14 @@
         "pubDate": "Tue, 09 Aug 2016 21:15:00 GMT",
         "source": "data\\PLS\\20161220.rss",
         "title": "Polaris Announces Q2 2016 Financial Results and Update to 2016 Sales Outlook"
+    },
+    {
+        "contents": "data\\PLS\\20161227-125123.news",
+        "description": null,
+        "guid": "yahoo_finance/3663962548",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/27/research-reports-initiated-on-basic-materials-stocks-canexus-argex-titanium-canwel-building-materials-group-and-polaris-materials/?1=1&1482851235",
+        "pubDate": "Tue, 27 Dec 2016 15:07:15 GMT",
+        "source": "data\\PLS\\20161227.rss",
+        "title": "Research Reports Initiated on Basic Materials Stocks Canexus, Argex Titanium, CanWel Building Materials Group, and Polaris Materials"
     }
 ]

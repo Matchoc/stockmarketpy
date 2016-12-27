@@ -178,5 +178,23 @@
         "pubDate": "Thu, 24 Nov 2016 02:08:44 GMT",
         "source": "data\\CNR\\20161221.rss",
         "title": "Investors Are Going Crazy for EOG Resources Inc (EOG)"
+    },
+    {
+        "contents": "data\\CNR\\20161226-093722.news",
+        "description": null,
+        "guid": "yahoo_finance/1107372985",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12jacacep/*http://marketrealist.com/2016/12/a-look-at-canadian-nationals-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 26 Dec 2016 14:07:15 GMT",
+        "source": "data\\CNR\\20161226.rss",
+        "title": "A Look at Canadian National\u2019s Intermodal Volumes"
+    },
+    {
+        "contents": "data\\CNR\\20161227-125215.news",
+        "description": null,
+        "guid": "yahoo_finance/1155301512",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12v94ao94/*http://marketrealist.com/2016/12/fall-in-coal-volumes-pulls-down-canadian-nationals-carloads/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 27 Dec 2016 14:06:11 GMT",
+        "source": "data\\CNR\\20161227.rss",
+        "title": "Fall in Coal Volumes Pulls down Canadian National\u2019s Carloads"
     }
 ]

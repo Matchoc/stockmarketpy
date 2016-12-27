@@ -20,11 +20,12 @@ Ideas for inputs (in no particular order or logic) :
  - twitter feed about ticker (symbol)
  
  todo :
-   1. normalize y or pass average price as x
+   1. work on presentation (would be nice to output a table that I could import in excel and sort by price variation, percentage variation, symbol, news date, etc.)
    3. Fetch twitter feed with tag $<symbol>
    4. Create new separate machine for twitter results.
    5. Create compound machine with news result and twitter results.
    6. Improve machine with new inputs :
      - average price (previous, 1w, 1y ?)
 	 - market cap vs share value
+   7. take into account national holidays so go back until I get a valid date when training ?
    

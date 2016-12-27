@@ -745,5 +745,32 @@
         "pubDate": "Sat, 16 May 2015 12:29:45 GMT",
         "source": "data\\RY\\20161222.rss",
         "title": "Celebrity chef Jamie Oliver hires bank to find restaurant investor - Times"
+    },
+    {
+        "contents": "data\\RY\\20161226-093742.news",
+        "description": null,
+        "guid": "yahoo_finance/1442175425",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12bto9nee/*http://www.wsj.com/articles/market-talk-daily-analysis-roundup-1482528479?mod=yahoo_hs",
+        "pubDate": "Fri, 23 Dec 2016 21:48:07 GMT",
+        "source": "data\\RY\\20161226.rss",
+        "title": "[$$] Market Talk: Daily Analysis Roundup"
+    },
+    {
+        "contents": "data\\RY\\20161226-093743.news",
+        "description": null,
+        "guid": "yahoo_finance/2268438402",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12v51q9e8/*http://www.bloomberg.com/news/videos/2016-12-23/rbc-s-golub-market-sees-better-earnings-ahead?cmpid=yhoo.headline",
+        "pubDate": "Fri, 23 Dec 2016 13:34:18 GMT",
+        "source": "data\\RY\\20161226.rss",
+        "title": "RBC's Golub: Market Sees Better Earnings Ahead"
+    },
+    {
+        "contents": "data\\RY\\20161227-125129.news",
+        "description": "[CNW Group] - 20 RBC Royal Bank Branches Open Today Across the GTA",
+        "guid": "yahoo_finance/542531867",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/20-rbc-royal-bank-branches-100000281.html",
+        "pubDate": "Tue, 27 Dec 2016 10:00:00 GMT",
+        "source": "data\\RY\\20161227.rss",
+        "title": "20 RBC Royal Bank Branches Open Today Across the GTA"
     }
 ]

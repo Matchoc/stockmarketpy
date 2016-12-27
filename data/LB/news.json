@@ -178,5 +178,14 @@
         "pubDate": "Tue, 01 Nov 2016 13:56:00 GMT",
         "source": "data\\LB\\20161221.rss",
         "title": "Laurentian Bank declares dividends on its preferred shares"
+    },
+    {
+        "contents": "data\\LB\\20161227-164814.news",
+        "description": null,
+        "guid": "yahoo_finance/2112294335",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13dt54qd8/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-laurentian-bank-of-canada-december-27-2016/",
+        "pubDate": "Tue, 27 Dec 2016 18:17:57 GMT",
+        "source": "data\\LB\\20161227.rss",
+        "title": "ETFs with exposure to Laurentian Bank of Canada : December 27, 2016"
     }
 ]

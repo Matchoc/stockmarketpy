@@ -178,5 +178,14 @@
         "pubDate": "Tue, 04 Oct 2016 14:25:01 GMT",
         "source": "data\\TCN\\20161221.rss",
         "title": "ETF\u2019s with exposure to Tricon Capital Group, Inc. : October 4, 2016"
+    },
+    {
+        "contents": "data\\TCN\\20161227-125218.news",
+        "description": null,
+        "guid": "yahoo_finance/896332824",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/27/research-reports-initiated-on-financials-stocks-ci-financial-igm-financial-and-tricon-capital-group/?1=1&1482851235",
+        "pubDate": "Tue, 27 Dec 2016 15:07:15 GMT",
+        "source": "data\\TCN\\20161227.rss",
+        "title": "Research Reports Initiated on Financials Stocks CI Financial, IGM Financial, and Tricon Capital Group"
     }
 ]

@@ -187,5 +187,23 @@
         "pubDate": "Thu, 22 Dec 2016 13:50:26 GMT",
         "source": "data\\T\\20161222.rss",
         "title": "Research Reports Initiated on Communication Services Stocks Shaw Communications, TELUS, BCE Inc, and Cogeco Communications"
+    },
+    {
+        "contents": "data\\T\\20161226-093758.news",
+        "description": "[at noodls] - Rimouski (Quebec) - Members of the Syndicat Qu\u00e9b\u00e9cois des employ\u00e9s de TELUS (SQET - the Quebec union of TELUS employees) have accepted the new collective agreement negotiated between TELUS and the SQET. ...",
+        "guid": "yahoo_finance/1084149056",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bhhkud/*http://www.publicnow.com/view/691E0CE5818B222FAFEC31E5685906F1678556F6",
+        "pubDate": "Fri, 23 Dec 2016 17:08:05 GMT",
+        "source": "data\\T\\20161226.rss",
+        "title": "New collective agreement between TELUS and the SQET ratified"
+    },
+    {
+        "contents": "data\\T\\20161226-093759.news",
+        "description": null,
+        "guid": "yahoo_finance/555925692",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144is9lbf/*http://www.capitalcube.com/blog/index.php/telus-corp-breached-its-50-day-moving-average-in-a-bullish-manner-t-ca-december-23-2016/",
+        "pubDate": "Fri, 23 Dec 2016 13:05:54 GMT",
+        "source": "data\\T\\20161226.rss",
+        "title": "TELUS Corp. breached its 50 day moving average in a Bullish Manner : T-CA : December 23, 2016"
     }
 ]

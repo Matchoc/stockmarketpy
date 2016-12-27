@@ -178,5 +178,23 @@
         "pubDate": "Mon, 08 Feb 2016 18:20:52 GMT",
         "source": "data\\TMB\\20161221.rss",
         "title": "Tembec, Inc. Earnings Analysis: Q1, 2016 By the Numbers"
+    },
+    {
+        "contents": "data\\TMB\\20161227-164803.news",
+        "description": null,
+        "guid": "yahoo_finance/3092005131",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tembec-suspends-operations-sawmill-senneterre-200000511.html",
+        "pubDate": "Mon, 01 Feb 2016 20:00:00 GMT",
+        "source": "data\\TMB\\20161227.rss",
+        "title": "Tembec suspends operations at its sawmill in Senneterre, Qu\u00e9bec for an indefinite period"
+    },
+    {
+        "contents": "data\\TMB\\20161227-164805.news",
+        "description": null,
+        "guid": "yahoo_finance/1896350346",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tembec-reports-shareholders-voting-results-192800414.html",
+        "pubDate": "Fri, 29 Jan 2016 19:28:00 GMT",
+        "source": "data\\TMB\\20161227.rss",
+        "title": "Tembec reports on Shareholders' voting results for the election of Directors"
     }
 ]

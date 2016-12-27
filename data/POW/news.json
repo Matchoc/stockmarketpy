@@ -187,5 +187,23 @@
         "pubDate": "Thu, 22 Dec 2016 13:50:26 GMT",
         "source": "data\\POW\\20161222.rss",
         "title": "Research Reports Initiated on Insurance Stocks Power Corp of Canada, Manulife Financial, Industrial Alliance Insurance and Financial Services, and Power Financial"
+    },
+    {
+        "contents": "data\\POW\\20161226-093633.news",
+        "description": "[Reuters - UK Focus] - The following are mergers under review by the European Commission and a brief guide to the EU merger process: APPROVALS AND WITHDRAWALS -- Private equity firms Cinven, Permira and Mid Europa to acquire ...",
+        "guid": "yahoo_finance/3308531713",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/eu-mergers-takeovers-dec-23-145931692.html",
+        "pubDate": "Fri, 23 Dec 2016 14:59:31 GMT",
+        "source": "data\\POW\\20161226.rss",
+        "title": "EU mergers and takeovers (Dec 23)"
+    },
+    {
+        "contents": "data\\POW\\20161226-093635.news",
+        "description": "[Reuters] - The following are mergers under review by the European Commission and a brief guide to the EU merger process: APPROVALS AND WITHDRAWALS -- Private equity firms Cinven, Permira and Mid Europa to acquire ...",
+        "guid": "yahoo_finance/4119347319",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/eu-mergers-takeovers-dec-23-145931108.html",
+        "pubDate": "Fri, 23 Dec 2016 14:59:31 GMT",
+        "source": "data\\POW\\20161226.rss",
+        "title": "EU mergers and takeovers (Dec 23)"
     }
 ]
