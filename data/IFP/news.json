@@ -187,5 +187,23 @@
         "pubDate": "Thu, 28 Jul 2016 21:00:00 GMT",
         "source": "data\\IFP\\20161222.rss",
         "title": "Interfor Reports Q2'16 Results"
+    },
+    {
+        "contents": "data\\IFP\\20161228-090057.news",
+        "description": null,
+        "guid": "yahoo_finance/3925431680",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=145o6f4ff/*http://www.capitalcube.com/blog/index.php/interfor-corp-breached-its-50-day-moving-average-in-a-bullish-manner-ifp-ca-july-11-2016/",
+        "pubDate": "Mon, 11 Jul 2016 14:08:59 GMT",
+        "source": "data\\IFP\\20161228.rss",
+        "title": "Interfor Corp. breached its 50 day moving average in a Bullish Manner : IFP-CA : July 11, 2016"
+    },
+    {
+        "contents": "data\\IFP\\20161228-090100.news",
+        "description": null,
+        "guid": "yahoo_finance/3901186960",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-canada-differences-remain-softwood-011846597.html",
+        "pubDate": "Thu, 30 Jun 2016 01:18:46 GMT",
+        "source": "data\\IFP\\20161228.rss",
+        "title": "U.S., Canada say differences remain in softwood lumber dispute"
     }
 ]

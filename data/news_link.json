@@ -182,5 +182,45 @@
 	"SMT" : {
 		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SMT.to&region=US&lang=en-US",
 		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=SMT.TO&ignore=.csv"
+	},
+	"YRI" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=YRI.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=YRI.TO&ignore=.csv"
+	},
+	"BTO" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BTO.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BTO.TO&ignore=.csv"
+	},
+	"K" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=K.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=K.TO&ignore=.csv"
+	},
+	"BBD.B" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BBD-B.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BBD-B.TO&ignore=.csv"
+	},
+	"NDM" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NDM.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=NDM.TO&ignore=.csv"
+	},
+	"ELD" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=ELD.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=ELD.TO&ignore=.csv"
+	},
+	"ECA" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=ECA.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=ECA.TO&ignore=.csv"
+	},
+	"MFC" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=MFC.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=MFC.TO&ignore=.csv"
+	},
+	"BTE" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=BTE.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=BTE.TO&ignore=.csv"
+	},
+	"ABX" : {
+		"news" : "https://feeds.finance.yahoo.com/rss/2.0/headline?s=ABX.to&region=US&lang=en-US",
+		"prices" : "http://real-chart.finance.yahoo.com/table.csv?s=ABX.TO&ignore=.csv"
 	}
 }

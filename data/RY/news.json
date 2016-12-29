@@ -772,5 +772,14 @@
         "pubDate": "Tue, 27 Dec 2016 10:00:00 GMT",
         "source": "data\\RY\\20161227.rss",
         "title": "20 RBC Royal Bank Branches Open Today Across the GTA"
+    },
+    {
+        "contents": "data\\RY\\20161228-192443.news",
+        "description": null,
+        "guid": "yahoo_finance/4255712467",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=139tc8roq/*http://www.bloomberg.com/news/videos/2016-12-28/rbc-ceo-mckay-looking-at-city-national-expansion-in-u-s?cmpid=yhoo.headline",
+        "pubDate": "Wed, 28 Dec 2016 21:58:20 GMT",
+        "source": "data\\RY\\20161228.rss",
+        "title": "RBC CEO McKay: Looking at City National Expansion in U.S."
     }
 ]

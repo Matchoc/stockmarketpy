@@ -187,5 +187,14 @@
         "pubDate": "Thu, 22 Dec 2016 14:35:00 GMT",
         "source": "data\\BYL\\20161222.rss",
         "title": "Baylin Technologies closes public offering of common shares"
+    },
+    {
+        "contents": "data\\BYL\\20161229-003155.news",
+        "description": null,
+        "guid": "yahoo_finance/1259727650",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/baylin-technologies-announces-website-launch-140000391.html",
+        "pubDate": "Wed, 04 May 2016 14:00:00 GMT",
+        "source": "data\\BYL\\20161229.rss",
+        "title": "Baylin Technologies Announces New Website Launch and Galtronics Rebranding and Logo Unveiling"
     }
 ]

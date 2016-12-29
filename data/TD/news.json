@@ -178,5 +178,392 @@
         "pubDate": "Tue, 06 Dec 2016 13:19:42 GMT",
         "source": "data\\TD\\20161221.rss",
         "title": "Research Reports Initiated on Banking Stocks The Toronto Dominion Bank, Home Capital Group, Canadian Western Bank, and Laurentian Bank of Canada"
+    },
+    {
+        "contents": "data\\TD\\20161229-003219.news",
+        "description": null,
+        "guid": "yahoo_finance/3431810373",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/low-risk-high-growth-play-233043766.html",
+        "pubDate": "Mon, 05 Dec 2016 23:30:43 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "A Low-Risk, High-Growth Play Among Canadian Banks"
+    },
+    {
+        "contents": "data\\TD\\20161229-003221.news",
+        "description": "[PR Newswire] - CHERRY HILL, N.J., Dec. 5, 2016 /PRNewswire/ -- TD Bank, America's Most Convenient Bank \u00ae and TD Securities U.S, both received a perfect score of 100 percent on the 2017 Corporate Equality Index (CEI), ...",
+        "guid": "yahoo_finance/1056905273",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-bank-td-securities-u-180000345.html",
+        "pubDate": "Mon, 05 Dec 2016 18:00:00 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank, TD Securities U.S. Earn 100 percent on Human Rights Campaign Foundation's Fourteenth Annual Scorecard on LGBT Workplace Equality"
+    },
+    {
+        "contents": "data\\TD\\20161229-003224.news",
+        "description": "[PR Newswire] - CHERRY HILL, N.J., Dec. 5, 2016 /PRNewswire/ -- As every facet of the financial services industry faces the imminent shift to digital platforms, more than one-third of treasury and financial professionals have heightened awareness of the growing risks of fraud and cyber-attacks, shows TD Bank's Treasury Management Survey. Heading into 2017, corporate treasury and finance professionals cite protecting assets, securing transactions and cybersecurity as top priorities. TD Bank surveyed more than 350 financial professionals at the 2016 Association of Financial Professionals conference to learn more about their concerns and opportunities.",
+        "guid": "yahoo_finance/3350458012",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/electronic-payments-invoicing-increase-finance-143300090.html",
+        "pubDate": "Mon, 05 Dec 2016 14:33:00 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Electronic Payments and Invoicing Increase Finance Professionals' Concerns about Cybersecurity and Fraud"
+    },
+    {
+        "contents": "data\\TD\\20161229-003225.news",
+        "description": null,
+        "guid": "yahoo_finance/595362130",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-td-earnings-conference-043757955.html",
+        "pubDate": "Fri, 02 Dec 2016 04:37:57 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Edited Transcript of TD.TO earnings conference call or presentation 1-Dec-16 8:00pm GMT"
+    },
+    {
+        "contents": "data\\TD\\20161229-003228.news",
+        "description": "[at noodls] - This quarterly earnings news release should be read in conjunction with the Bank's unaudited Fourth Quarter 2016 consolidated financial results for the year ended October 31, 2016, included in this Earnings ...",
+        "guid": "yahoo_finance/2921318717",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128q423vq/*http://www.publicnow.com/view/D0DF0F37ED0157C9034BA36428FE99E2687D8CDC",
+        "pubDate": "Thu, 01 Dec 2016 15:22:56 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group Reports Fourth Quarter and Fiscal 2016 Results"
+    },
+    {
+        "contents": "data\\TD\\20161229-003228.news",
+        "description": "[at noodls] - (all amounts in Canadian dollars) TORONTO, Dec. 1, 2016/CNW/ - The Toronto-Dominion Bank (the Bank) today announced that a dividend in an amount of fifty-five cents (55 cents) per fully paid common share ...",
+        "guid": "yahoo_finance/1053143905",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cumdt2/*http://www.publicnow.com/view/E19FDEDC9FFDE46FE6606E17466FA1D84D66A97D",
+        "pubDate": "Thu, 01 Dec 2016 15:21:29 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group Declares Dividends"
+    },
+    {
+        "contents": "data\\TD\\20161229-003228.news",
+        "description": "[at noodls] - TORONTO, Dec. 1, 2016 - As a proponent of responsible energy development, TD works closely with clients, local communities, aboriginal governments and environmental groups to enhance our understanding ...",
+        "guid": "yahoo_finance/3382207526",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128u72doo/*http://www.publicnow.com/view/392862E0242E1D64A346F5B747AC1AA9AC89072B",
+        "pubDate": "Thu, 01 Dec 2016 15:21:25 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Statement on Dakota Access Pipeline"
+    },
+    {
+        "contents": "data\\TD\\20161229-003228.news",
+        "description": null,
+        "guid": "yahoo_finance/1628347491",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-posts-4q-profit-121537476.html",
+        "pubDate": "Thu, 01 Dec 2016 12:51:17 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion posts 4Q profit"
+    },
+    {
+        "contents": "data\\TD\\20161229-003230.news",
+        "description": "[at noodls] - TORONTO, Nov. 24, 2016/CNW/ - According to a recent TD survey, more than two-thirds of Canadians between the ages of 35 and 54 say they're not saving enough for retirement, and one in four say not being ...",
+        "guid": "yahoo_finance/3839956188",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mu736d/*http://www.publicnow.com/view/2796214314A73EB94150EF194F3C1052CF7F6F10",
+        "pubDate": "Wed, 30 Nov 2016 05:30:22 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Is reality biting Gen-X when it comes to retirement savings? TD survey finds one in three Gen-Xers expect to work post-retirement"
+    },
+    {
+        "contents": "data\\TD\\20161229-003230.news",
+        "description": "[at noodls] - November 21, 2016 -- TD Asset Management Inc. (TDAM), manager of TD Mutual Funds, announced today it will lower the maximum annual management fees on select series of 45 TD Mutual Funds, including its ...",
+        "guid": "yahoo_finance/4150916746",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128atbmlc/*http://www.publicnow.com/view/26F54B9589F76904669052D73F1F9733073C4A37",
+        "pubDate": "Mon, 21 Nov 2016 17:51:08 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Asset Management Inc. to reduce management fees and simplify TD Mutual Funds lineup"
+    },
+    {
+        "contents": "data\\TD\\20161229-003230.news",
+        "description": "[at noodls] - TORONTO, Nov. 10, 2016/CNW/ - TD Bank Group ('TD' or the 'Bank') will release its fourth quarter financial results and host an earnings conference call on Thursday, December 1, 2016. ... This is an abstract ...",
+        "guid": "yahoo_finance/2462516181",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289it96c/*http://www.publicnow.com/view/BFE3FAC99A354084EE199B16857FF5BED4372392",
+        "pubDate": "Thu, 10 Nov 2016 16:11:15 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Media Advisory - TD Bank Group to release fourth quarter financial results"
+    },
+    {
+        "contents": "data\\TD\\20161229-003230.news",
+        "description": "[at noodls] - TORONTO, Oct. 27, 2016/CNW/ - The Toronto-Dominion Bank ('TD Bank Group' or 'TD') announced today that it intends to exercise its right to redeem on December 14, 2016(the 'Redemption Date'), all of its ...",
+        "guid": "yahoo_finance/2606626398",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128pm0ffo/*http://www.publicnow.com/view/0B1ED660B504812E97CF373DD2AC1D775798E8AC",
+        "pubDate": "Thu, 27 Oct 2016 21:18:01 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Announces Redemption of 4.779% Subordinated Debentures"
+    },
+    {
+        "contents": "data\\TD\\20161229-003230.news",
+        "description": "[at noodls] - TORONTOand CHERRY HILL, NJ, Oct. 27, 2016/CNW/ - TD Bank Group (TSX and NYSE: TD) today announced that Mike Pedersen, President and Chief Executive Officer of TD Bank, America's Most Convenient Bank, has ...",
+        "guid": "yahoo_finance/292884594",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128inpq0b/*http://www.publicnow.com/view/D97396505BB83FBDCFCEB59F9FB37F61C5A03705",
+        "pubDate": "Thu, 27 Oct 2016 20:38:13 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank, America's Most Convenient Bank\u2122 CEO Mike Pedersen to Retire"
+    },
+    {
+        "contents": "data\\TD\\20161229-003231.news",
+        "description": "[at noodls] - - Since 2000, more than 8.5 million Canadian children's books have been given away to young readers as part of the annual program - TORONTO, October 27, 2016 - TD Bank Group and The Canadian Children's ...",
+        "guid": "yahoo_finance/2573610701",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ms6neh/*http://www.publicnow.com/view/0E140B528C5A6E159E9C36A2434FB4D2ACB76F5F",
+        "pubDate": "Thu, 27 Oct 2016 18:26:08 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "A LITTLE PIRATE SETS SAIL: OVER 550,000 GRADE ONE STUDENTS RECEIVE SMALL SAUL AS PART OF THE 17TH ANNUAL TD GRADE ONE BOOK GIVEAWAY"
+    },
+    {
+        "contents": "data\\TD\\20161229-003231.news",
+        "description": "[at noodls] - First Canadian bank to introduce offering to self-directed investors TORONTO, Oct. 26, 2016/CNW/ - TD Direct Investing announced today the addition of conditional order types to its flagship trading platform, ...",
+        "guid": "yahoo_finance/17769838",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128n6r65u/*http://www.publicnow.com/view/D1A1A040503F5A24A8CABD3DDC007F0CBC11545F",
+        "pubDate": "Wed, 26 Oct 2016 16:05:08 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Direct Investing Launches Conditional Order Types"
+    },
+    {
+        "contents": "data\\TD\\20161229-003231.news",
+        "description": "[at noodls] - TORONTO, Oct. 24, 2016/CNW/ - TD Bank Group (the 'Bank') announced today that it expects TD Ameritrade's fourth quarter earnings to translate into a contribution of approximately CDN$93 millionto fiscal ...",
+        "guid": "yahoo_finance/3969258920",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287e9ult/*http://www.publicnow.com/view/3FE3CE02D585AE66C2EC60765CA0E81817CBCB20",
+        "pubDate": "Mon, 24 Oct 2016 10:51:07 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group Comments on Expected Impact of TD Ameritrade Holding Corp.'s Fourth Quarter Earnings"
+    },
+    {
+        "contents": "data\\TD\\20161229-003231.news",
+        "description": "[at noodls] - TORONTO, Oct. 24, 2016/CNW/ - TD Bank Group (TD) (TSX and NYSE: TD) today announced an agreement to acquire Scottrade Bank, a federal savings bank wholly owned by Scottrade Financial Services, Inc. (Scottrade), ...",
+        "guid": "yahoo_finance/1330115668",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128m2j0uk/*http://www.publicnow.com/view/49F1FDBD09EFCD62F962BBE0707D6D40C559D194",
+        "pubDate": "Mon, 24 Oct 2016 10:11:01 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group to acquire Scottrade Bank"
+    },
+    {
+        "contents": "data\\TD\\20161229-003231.news",
+        "description": null,
+        "guid": "yahoo_finance/3368632314",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/td-ameritrade-td-bank-nearing-215513101.html",
+        "pubDate": "Sun, 23 Oct 2016 21:55:13 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Ameritrade and TD bank nearing $4 billion deal to buy Scottrade - source"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TD survey reveals both young and old Canadians are financially unprepared for death, divorce and illness TORONTO, Oct. 19, 2016/CNW/ - For Canadians coping with unforeseen life events, emotional stress ...",
+        "guid": "yahoo_finance/89345483",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1285ki1bo/*http://www.publicnow.com/view/AE22E4EDC6E9B25AEC794E1CD0468B36BD390289",
+        "pubDate": "Wed, 19 Oct 2016 10:18:10 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Shifting From Financial Stress to Financial Flexibility"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TORONTO, Oct. 18, 2016/CNW/ - TD Asset Management Inc. today announced the October cash distribution for the TD Canadian Aggregate Bond Index ETF, which makes distributions to unitholders monthly. Unitholders ...",
+        "guid": "yahoo_finance/853266064",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jcr4le/*http://www.publicnow.com/view/73A4C02F822E15246DB0351A6A1DDA99283FDCAE",
+        "pubDate": "Tue, 18 Oct 2016 12:03:05 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Asset Management Inc. Announces Monthly Distribution for October 2016"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TORONTO, Oct. 17, 2016/CNW/ - The Toronto-Dominion Bank (the 'Bank') today announced that a dividend has been declared on its Non-Cumulative Redeemable Class A First Preferred Shares, Series 14 of the ...",
+        "guid": "yahoo_finance/3072057972",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283pr7e1/*http://www.publicnow.com/view/7C68A422332AF9743F6369A60A5E9B331B3E7E05",
+        "pubDate": "Mon, 17 Oct 2016 21:43:05 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group declares Series 14 Preferred Share dividend"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TORONTO, Oct. 12, 2016/CNW/ - TD Bank Group today announced an agreement to sell its European direct investing business, through the sale of the shares of TD Wealth Holdings (UK) Limited and TD Bank International ...",
+        "guid": "yahoo_finance/1641398598",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qvhkvv/*http://www.publicnow.com/view/AFE935B59D19208CC89E4311976414A85273AE50",
+        "pubDate": "Wed, 12 Oct 2016 11:33:08 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Bank Group agrees to sell its European Direct Investing business to Interactive Investor"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TD survey reveals this generation is reluctant to make compromises on location when buying a home TORONTO, Sept. 21, 2016/CNW/ - Millennials are applying the 'you only live once' philosophy to their homebuying ...",
+        "guid": "yahoo_finance/2388437987",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128j5jkbh/*http://www.publicnow.com/view/124CC98BF72C40E369BF6F8F7F1B2E217A56C9E8",
+        "pubDate": "Wed, 21 Sep 2016 10:11:05 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Millennials set on finding their perfect 'YOLOcation', despite steep city home prices"
+    },
+    {
+        "contents": "data\\TD\\20161229-003233.news",
+        "description": "[at noodls] - TORONTO, Sept. 14, 2016/CNW/ - Leo Salom, Executive Vice President, Wealth Management, TD Bank Group, will present at the CIBC Eastern Institutional Investor Conference in Montr\u00e9al on September 21, 2016. ...",
+        "guid": "yahoo_finance/1808306885",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128us8dfl/*http://www.publicnow.com/view/30C5B5F4CF8DABE207A213CDA2E0DF5623130CD6",
+        "pubDate": "Tue, 20 Sep 2016 15:08:11 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "/R E P E A T -- Media Advisory - TD Bank Group Executive to Present at the CIBC Eastern Institutional Investor Conference/"
+    },
+    {
+        "contents": "data\\TD\\20161229-003234.news",
+        "description": "[at noodls] - TORONTO, Sept. 19, 2016/CNW/ - TD Asset Management Inc. today announced the September cash distributions for the TD exchange-traded funds listed below. Unitholders of record on September 29, 2016will receive ...",
+        "guid": "yahoo_finance/1001629362",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128g1ca8n/*http://www.publicnow.com/view/A21178861B36470915C9821298AE11A4F6CD5EC9",
+        "pubDate": "Mon, 19 Sep 2016 12:08:03 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "TD Asset Management Inc. Announces TD ETF Distributions"
+    },
+    {
+        "contents": "data\\TD\\20161229-003234.news",
+        "description": null,
+        "guid": "yahoo_finance/2694718899",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-posts-3q-profit-115335258.html",
+        "pubDate": "Thu, 25 Aug 2016 11:53:35 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion posts 3Q profit"
+    },
+    {
+        "contents": "data\\TD\\20161229-003236.news",
+        "description": null,
+        "guid": "yahoo_finance/1539615441",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/alberta-wildfires-canadas-costliest-disaster-163606439.html",
+        "pubDate": "Thu, 07 Jul 2016 18:32:18 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Alberta wildfires Canada's costliest-ever natural disaster -report"
+    },
+    {
+        "contents": "data\\TD\\20161229-003237.news",
+        "description": null,
+        "guid": "yahoo_finance/3889369096",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/alberta-wildfires-canadas-costliest-disaster-160524658.html",
+        "pubDate": "Thu, 07 Jul 2016 16:05:24 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Alberta wildfires Canada's costliest disaster at C$3.58 bln- report"
+    },
+    {
+        "contents": "data\\TD\\20161229-003239.news",
+        "description": null,
+        "guid": "yahoo_finance/4188785988",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-posts-2q-profit-112127164.html",
+        "pubDate": "Thu, 26 May 2016 11:21:27 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion posts 2Q profit"
+    },
+    {
+        "contents": "data\\TD\\20161229-003241.news",
+        "description": null,
+        "guid": "yahoo_finance/129656010",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/highgrade-close-ten-issuers-tap-224102324.html",
+        "pubDate": "Mon, 07 Mar 2016 22:41:02 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "HIGHGRADE CLOSE-Ten issuers tap primary market for US$9.27bn"
+    },
+    {
+        "contents": "data\\TD\\20161229-003243.news",
+        "description": null,
+        "guid": "yahoo_finance/1863645766",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-posts-1q-profit-161540780.html",
+        "pubDate": "Thu, 25 Feb 2016 16:15:40 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion posts 1Q profit"
+    },
+    {
+        "contents": "data\\TD\\20161229-003245.news",
+        "description": null,
+        "guid": "yahoo_finance/4076843252",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-posts-4q-profit-122730420.html",
+        "pubDate": "Thu, 03 Dec 2015 12:27:30 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion posts 4Q profit"
+    },
+    {
+        "contents": "data\\TD\\20161229-003247.news",
+        "description": null,
+        "guid": "yahoo_finance/299140016",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/royal-bank-canada-scraps-limit-214312686.html",
+        "pubDate": "Mon, 02 Nov 2015 21:43:12 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Royal Bank of Canada scraps limit on size of newcomer mortgages"
+    },
+    {
+        "contents": "data\\TD\\20161229-003249.news",
+        "description": null,
+        "guid": "yahoo_finance/3233859925",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/royal-bank-canada-scraps-limit-122337550.html",
+        "pubDate": "Mon, 02 Nov 2015 12:23:37 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Royal Bank of Canada scraps limit on size of newcomer mortgages"
+    },
+    {
+        "contents": "data\\TD\\20161229-003251.news",
+        "description": null,
+        "guid": "yahoo_finance/1193916669",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/toronto-dominion-tops-street-3q-111302601.html",
+        "pubDate": "Thu, 27 Aug 2015 11:13:02 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Toronto-Dominion tops Street 3Q forecasts"
+    },
+    {
+        "contents": "data\\TD\\20161229-003252.news",
+        "description": null,
+        "guid": "yahoo_finance/157651781",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/people-byrne-leaving-rbs-td-180712546.html",
+        "pubDate": "Mon, 27 Apr 2015 18:07:12 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "PEOPLE: Byrne leaving RBS for TD Securities: sources"
+    },
+    {
+        "contents": "data\\TD\\20161229-003254.news",
+        "description": null,
+        "guid": "yahoo_finance/4226966989",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canada-stocks-surge-catamaran-shares-204756164.html",
+        "pubDate": "Mon, 30 Mar 2015 20:47:56 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "CANADA STOCKS-Surge in Catamaran shares helps TSX climb"
+    },
+    {
+        "contents": "data\\TD\\20161229-003256.news",
+        "description": null,
+        "guid": "yahoo_finance/1982411089",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/us-ig-close-stanchart-td-201920307.html",
+        "pubDate": "Thu, 26 Mar 2015 20:19:20 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "US IG CLOSE-StanChart, TD Bank price US$3.75bn in high-grade"
+    },
+    {
+        "contents": "data\\TD\\20161229-003258.news",
+        "description": null,
+        "guid": "yahoo_finance/3232891124",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/us-ig-wrap-us-high-190540217.html",
+        "pubDate": "Thu, 26 Mar 2015 19:05:40 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "US IG WRAP-US high-grade tallies record month"
+    },
+    {
+        "contents": "data\\TD\\20161229-003300.news",
+        "description": null,
+        "guid": "yahoo_finance/2671284176",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadas-td-bank-appointed-gold-133345142.html",
+        "pubDate": "Wed, 25 Mar 2015 13:33:45 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Canada's TD Bank appointed gold and silver market maker -LBMA"
+    },
+    {
+        "contents": "data\\TD\\20161229-003302.news",
+        "description": null,
+        "guid": "yahoo_finance/771917839",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/hectic-high-grade-market-sees-230125556.html",
+        "pubDate": "Mon, 09 Mar 2015 23:01:25 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "Hectic high-grade market sees 14 deals price"
+    },
+    {
+        "contents": "data\\TD\\20161229-003304.news",
+        "description": null,
+        "guid": "yahoo_finance/685345566",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/ig-wrap-issuers-rush-ahead-162345973.html",
+        "pubDate": "Mon, 09 Mar 2015 16:23:45 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "IG WRAP-Issuers rush out ahead of M&A supply, rate rise"
+    },
+    {
+        "contents": "data\\TD\\20161229-003306.news",
+        "description": null,
+        "guid": "yahoo_finance/765910301",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/high-grade-posts-solid-us-224012965.html",
+        "pubDate": "Thu, 30 Oct 2014 22:40:12 GMT",
+        "source": "data\\TD\\20161229.rss",
+        "title": "High-grade posts solid US$7.2bn new issue day"
     }
 ]

@@ -358,5 +358,14 @@
         "pubDate": "Fri, 23 Dec 2016 14:45:31 GMT",
         "source": "data\\TV\\20161226.rss",
         "title": "Trevali Mining Corp. \u2013 Value Analysis (TORONTO:TV) : December 23, 2016"
+    },
+    {
+        "contents": "data\\TV\\20161228-090134.news",
+        "description": null,
+        "guid": "yahoo_finance/2951459950",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/28/research-reports-initiated-on-metals-and-mining-stocks-trevali-mining-yamana-gold-tahoe-resources-and-dalradian-resources/?1=1&1482931143",
+        "pubDate": "Wed, 28 Dec 2016 13:19:03 GMT",
+        "source": "data\\TV\\20161228.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Trevali Mining, Yamana Gold, Tahoe Resources, and Dalradian Resources"
     }
 ]

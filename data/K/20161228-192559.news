@@ -1,0 +1,2331 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en"   >
+      <head>
+  <script>
+    // usmf-django
+function getScript(t,e){var n=document,a="script",o=n.createElement(a),r=n.getElementsByTagName(a)[0];n.async="async",o.src="//"+t,e&&(o.readyState?o.onreadystatechange=function(){"loaded"!=o.readyState&&"complete"!=o.readyState||(o.onreadystatechange=null,e())}:o.addEventListener("load",function(t){e(null,t)},!1)),r.parentNode.insertBefore(o,r)}window.top!=window&&(window.analytics=window.top.analytics,window.inIframe=!0);var segmentKey="16mdwrvy5p",segmentUrl=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+segmentKey+"/analytics.min.js",infotrackUrl="//g.foolcdn.com/mms/resources/js/infotrack_min.js",trackerMaker=function(t){var e=[];e.invoked=!1,e.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"],t&&(e.methods=e.methods.concat(t));var n=function(t){var n=function(){var n=Array.prototype.slice.call(arguments,0),a=[t].concat(n);e.push(a)};return n.stub=!0,n},a=function(){for(var t=0;t<e.methods.length;t++){var a=e.methods[t];e[a]=n(a)}},o=function(t){if(e.invoked)return void(window.console&&console.error&&console.error("Tracking snippet included twice."));var n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a),e.invoked=!0};return a(),e.load=o,e},analytics=window.analytics=window.analytics||trackerMaker();analytics.initialize||(analytics.SNIPPET_VERSION="3.1.0",analytics.load(segmentUrl));var Infotrack=window.Infotrack=window.Infotrack||trackerMaker(["initialize"]);getScript("//www.fool.com/common/js/marketing/infocookie.js",function(){Infotrack.load(infotrackUrl)});
+  </script>
+  <meta name="infotrackSnippetVersion" content="2.1.0" data-tracker-key="infotrackSnippetVersion">
+
+        
+
+    
+        <script type="text/javascript" src="//motleyfool-d.openx.net/w/1.0/jstag?nc=3910-fool"></script>
+    
+    
+
+    
+
+    <script async type="text/javascript" src="https://ad.wsod.com/pub/dd7b696b96434d2bf07b34f9c125d51d/0.0.async/"></script>
+    <link rel="dns-prefetch" href="//apex.go.sonobi.com">
+    <link rel="prefetch" href="//ads.rubiconproject.com/header/12312.js">
+    <link rel="prefetch" href="https://secure-ads.pictela.net/rm/marketplace/pubtaglib/0_4_0/pubtaglib_0_4_0.js">
+
+    <script type="text/javascript">
+        var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function() { googletag.setAdIframeTitle("Advertisement"); });
+        
+        var PREBID_TIMEOUT = 1000;
+        var adUnits = []; window.pbjs_winners = []; window.pbjs_timeouts = [];
+        var pbjs = pbjs || {};
+        var slots = slots || {};
+        pbjs.que = pbjs.que || [];
+        pbjs.que.push(function() { pbjs.setPriceGranularity("auto"); pbjs.aliasBidder('appnexus', 'districtm'); });
+        var adCount = 0;
+    </script>
+
+    <!-- BEGIN Krux ControlTag for "Motley Fool" -->
+        <script class="kxct" data-id="ral3af1zw" data-timing="async" data-version="3.0" type="text/javascript">
+          window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+          (function(){
+            var k=document.createElement('script');k.type='text/javascript';k.async=true;
+            k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/ral3af1zw.js';
+            var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+          }());
+        </script>
+        <script class="kxint" type="text/javascript">
+          window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+          (function(){
+            function retrieve(n){
+              var m, k='kxfool_'+n,ls=(function(){
+                  try{
+                    return window.localStorage;
+                  }catch(e){
+                    return null;
+                  }
+                })();
+              if (ls) {
+                  return ls[k] || "";
+              } else if (navigator.cookieEnabled) {
+                  m = document.cookie.match(k+'=([^;]*)');
+                  return (m && unescape(m[1])) || "";
+              } else {
+                  return '';
+              }
+            }
+
+            Krux.user = retrieve('user');
+            Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : [];
+          })();
+        </script>
+        <!-- END Krux ControlTag -->
+
+    
+
+
+        
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-leaderboard-36007',
+                sizes: [[728, 90], [970, 90], [970, 250]],
+                bids: [{"bidder": "sonobi", "params": {"dom_id": "div-leaderboard-83493", "placement_id": "10611573ea44069acff1"}}, {"bidder": "districtm", "params": {"dom_id": "div-leaderboard-83493", "placementId": "9294178"}}, {"bidder": "brealtime", "params": {"dom_id": "div-leaderboard-83493", "placementId": "9529964"}}],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-desktop-incontent-10159',
+                sizes: [300, 250],
+                bids: [{"bidder": "sonobi", "params": {"dom_id": "div-desktop-incontent-95204", "placement_id": "b528af60198435266fc7"}}, {"bidder": "districtm", "params": {"dom_id": "div-desktop-incontent-95204", "placementId": "9294178"}}, {"bidder": "rubicon", "params": {"dom_id": "div-desktop-incontent-95204", "accountId": "12312", "siteId": "46786", "zoneId": "212910"}}, {"bidder": "brealtime", "params": {"dom_id": "div-desktop-incontent-95204", "placementId": "9529979"}}],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-big-box-1-16463',
+                sizes: [[300, 250], [300, 600]],
+                bids: [{"bidder": "sonobi", "params": {"dom_id": "div-big-box-1-42102", "placement_id": "4a27d78cd0d4c46ca9ed"}}, {"bidder": "districtm", "params": {"dom_id": "div-big-box-1-42102", "placementId": "9294178"}}, {"bidder": "rubicon", "params": {"dom_id": "div-big-box-1-42102", "accountId": "12312", "siteId": "46786", "zoneId": "212908"}}, {"bidder": "brealtime", "params": {"dom_id": "div-big-box-1-42102", "placementId": "9529980"}}],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-lemora-77106',
+                sizes: [237, 90],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-button-70041',
+                sizes: [125, 125],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-button-34316',
+                sizes: [125, 125],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-big-box-2-7930',
+                sizes: [[300, 250], [300, 600]],
+                bids: [{"bidder": "sonobi", "params": {"dom_id": "div-desktop-incontent-95204", "placement_id": "b528af60198435266fc7"}}, {"bidder": "districtm", "params": {"dom_id": "div-desktop-incontent-95204", "placementId": "9294178"}}, {"bidder": "rubicon", "params": {"dom_id": "div-desktop-incontent-95204", "accountId": "12312", "siteId": "46786", "zoneId": "212910"}}, {"bidder": "brealtime", "params": {"dom_id": "div-desktop-incontent-95204", "placementId": "9529979"}}],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-broker-button-29280',
+                sizes: [100, 140],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-broker-button-7987',
+                sizes: [100, 140],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-broker-button-38111',
+                sizes: [100, 140],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-broker-button-28814',
+                sizes: [100, 140],
+                bids: [],
+            });
+    </script>
+
+
+    <script type='text/javascript'>
+        adUnits.push({
+                code: 'div-Interstitial-21305',
+                sizes: [],
+                bids: [],
+            });
+    </script>
+
+
+        
+         <script>
+            
+            var reportBids = function() {
+                if (typeof(window.bidsReported) !== "undefined" && window.bidsReported) {
+                    return;
+                }
+
+                try {
+                    window.bidsReported = true;
+
+                    !function(a,b){a("Keen","//d26b395fwzu5fz.cloudfront.net/3.1.0/keen-tracker.min.js",b)}(function(a,b,c){var d,e,f;c["_"+a]={},c[a]=function(b){c["_"+a].clients=c["_"+a].clients||{},c["_"+a].clients[b.projectId]=this,this._config=b},c[a].ready=function(b){c["_"+a].ready=c["_"+a].ready||[],c["_"+a].ready.push(b)},d=["addEvent","setGlobalProperties","trackExternalLink","on"];for(var g=0;g<d.length;g++){var h=d[g],i=function(a){return function(){return this["_"+a]=this["_"+a]||[],this["_"+a].push(arguments),this}};c[a].prototype[h]=i(h)}e=document.createElement("script"),e.async=!0,e.src=b,f=document.getElementsByTagName("script")[0],f.parentNode.insertBefore(e,f)},this);
+
+                    var hbDataClient = new Keen({
+                      projectId: '578ff90007271912cc115dbb',
+                      writeKey: 'e63f7259e1605c47a60fe106e018d95a0a22c2ae36d0de1e99f09a39eb44dacea279e790e9dac1d69d3283be2ef06304157fec53ffb601c927fd469699c4aa107c498c18caed6ed94c034f3dd73f46bc7b957d4741efc0244c57c4a1dfa2589a'
+                    });
+
+                    function findPbjsBidFromUnitVendor(unit, bidder) {
+                        for (var i in pbjs._bidsReceived) {
+                            var bid = pbjs._bidsReceived[i];
+                            if (bid.adUnitCode == unit && bid.bidderCode == bidder) {
+                            return bid;
+                            }
+                        }
+                        return false;
+                    }
+
+                    var preBidAdvertiserId = 88391858;
+                    var houseAdId = 71717858;
+                    var rubiconAdId = 86986298;
+                    var oxAdId = 89642498;
+                    var winners = {'prebid': 0, 'house': 0, 'rubiconRemnant': 0,
+                                    'openx': 0, 'adX': 0, 'directSold': 0, 'failure': 0};
+                    var slotResults = {};
+
+                    Object.keys(slots).forEach(function(key) {
+                        if (key.indexOf('button') > -1) {
+                            return;
+                        }
+
+                        var slot = slots[key];
+                        var adSiteZone = slot.G;
+                        var keySplit = key.split('-');
+                        var unit = keySplit.splice(0, keySplit.length - 1).join('-');
+
+                        if (typeof(slot.getResponseInformation) !== "undefined") {
+                            var slotResult = {
+                                'unit': unit,
+                                'winningAdType': 'failure',
+                            };
+                            winners['failure'] = winners['failure'] + 1;
+                            slotResults[unit] = slotResult;
+                            return;
+                        }
+
+                        var winningAd = slot.getResponseInformation();
+                        var lineItemId = winningAd.lineItemId;
+                        var advertiserId = winningAd.advertiserId;
+                        var adType = 'prebid';
+
+                        if (advertiserId == preBidAdvertiserId) {
+                            adType = 'prebid';
+                        } else if (advertiserId == houseAdId) {
+                            adType = 'house';
+                        } else if (advertiserId == rubiconAdId) {
+                            adType = 'rubiconRemnant';
+                        } else if (advertiserId == oxAdId) {
+                            adType = 'openx';
+                        } else if (lineItemId == null || advertiserId == null) {
+                            adType = 'adX';
+                        } else {
+                            adType = 'directSold';
+                        }
+
+                        var pbjsResults = pbjs.getAdserverTargetingForAdUnitCode(key);
+                        var hb_pb = (pbjsResults['hb_pb'] / 1);
+                        if (isNaN(hb_pb)) {
+                            hb_pb = -1;
+                        }
+                        var hb_bidder = pbjsResults['hb_bidder'];
+
+                        var pbjsBid = findPbjsBidFromUnitVendor(key, hb_bidder);
+                        var timeToRespond = pbjsBid.timeToRespond;
+
+                        var slotResult = {
+                            'unit': unit,
+                            'winningAdType': adType,
+                            'winningLineItemId': lineItemId,
+                            'winningAdvertiserId': advertiserId,
+                            'hb_pb': hb_pb, 'hb_bidder': hb_bidder,
+                            'hb_responseTime': timeToRespond,
+                        };
+
+                        winners[adType] = winners[adType] + 1;
+                        slotResults[unit] = slotResult;
+                    });
+
+                    var bidData = {};
+                    for (var i in pbjs._bidsReceived) {
+                        var response = pbjs._bidsReceived[i];
+                        var unit = response.adUnitCode;
+                        var split = unit.split('-');
+                        unit = split.splice(0, split.length - 1).join('-');
+
+                        bidData[response.bidder] = bidData[response.bidder] || {};
+                        var bidCpm = (response.cpm.toFixed(2) / 1);
+                        bidData[response.bidder][unit] = {'cpm': bidCpm, 'timeToRespond': response.timeToRespond}
+                    }
+
+                    slotResults['bids'] = bidData;
+                    slotResults['winners'] = winners;
+                    if (window.location.host == "www.fool.com") {
+                        hbDataClient.addEvent("adResults", slotResults);
+                    } else {
+                        console.dir(slotResults);
+                    }
+                }  catch(err) {
+                    if (window.location.host != "www.fool.com") {
+                        console.dir(err);
+                    }
+                }
+            };
+
+            pbjs.que.push(function() {
+                pbjs.addCallback('allRequestedBidsBack', function() {
+                    if (typeof(window.bidsReported) === "undefined") {
+                        setTimeout(function(){ reportBids(); }, 8000);
+                    }
+                });
+                pbjs.addAdUnits(adUnits);
+                pbjs.requestBids({
+                    bidsBackHandler: sendAdserverRequest
+                });
+            });
+
+            var adsRefresh = function(adSlots) {
+                pbjs.que.push(function() {
+                    pbjs.requestBids({
+                        timeout: PREBID_TIMEOUT,
+                        bidsBackHandler: function() {
+                            var targetingIds = [];
+                            for (var i in adSlots) {
+                                var adSlot = adSlots[i];
+                                targetingIds.push(adSlot.code);
+                            }
+
+                            var newAdSlots = [];
+
+                            Object.keys(slots).forEach(function(key) {
+                                if (targetingIds.indexOf(key) > -1) {
+                                    newAdSlots.push(slots[key]);
+                                }
+                            });
+
+                            pbjs.setTargetingForGPTAsync(targetingIds);
+                            googletag.pubads().refresh(newAdSlots);
+
+                        }
+                    });
+                });
+            };
+
+            var postEndlessScrollArticleAdded = function() {
+                var scrollingAdUnits = window.scrollingAdUnits || [];
+                pbjs.que.push(function() { pbjs.addAdUnits(scrollingAdUnits); adsRefresh(scrollingAdUnits); });
+            };
+
+            function sendAdserverRequest(bidResponses) {
+                window.pbjs_bidResponses = bidResponses;
+                if (pbjs.adserverRequestSent) return;
+                pbjs.adserverRequestSent = true;
+                googletag.cmd.push(function() {
+                    pbjs.que.push(function() {
+                        pbjs.setTargetingForGPTAsync();
+                        googletag.pubads().refresh();
+                    });
+                });
+            }
+            
+        </script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+        
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '67')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-leaderboard-36007'] = googletag.defineSlot('/3910/investing/leaderboard/ATF', [[728, 90], [970, 90], [970, 250]], 'div-leaderboard-36007')
+                    .addService(googletag.pubads()).setTargeting('pos', adCount)
+                    .setTargeting('placement', 'leaderboard')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '87')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-desktop-incontent-10159'] = googletag.defineSlot('/3910/investing/big-box/BTF', [300, 250], 'div-desktop-incontent-10159')
+                    .addService(googletag.pubads()).setTargeting('pos', adCount)
+                    .setTargeting('placement', 'big-box')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '92')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-big-box-1-16463'] = googletag.defineSlot('/3910/investing/big-box/ATF', [[300, 250], [300, 600]], 'div-big-box-1-16463')
+                    .addService(googletag.pubads()).setTargeting('pos', adCount)
+                    .setTargeting('placement', 'big-box')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '70')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-lemora-77106'] = googletag.defineSlot('/3910/investing/lemora/BTF', [237, 90], 'div-lemora-77106')
+                    .addService(googletag.pubads()).setTargeting('pos', adCount)
+                    .setTargeting('placement', 'lemora')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '57')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-button-70041'] = googletag.defineSlot('/3910/investing/button', [125, 125], 'div-button-70041')
+                    .addService(googletag.pubads()).setTargeting('pos', 'right_1')
+                    .setTargeting('placement', 'button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '1')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-button-34316'] = googletag.defineSlot('/3910/investing/button', [125, 125], 'div-button-34316')
+                    .addService(googletag.pubads()).setTargeting('pos', 'right_2')
+                    .setTargeting('placement', 'button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '92')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-big-box-2-7930'] = googletag.defineSlot('/3910/investing/big-box/BTF', [[300, 250], [300, 600]], 'div-big-box-2-7930')
+                    .addService(googletag.pubads()).setTargeting('pos', adCount)
+                    .setTargeting('placement', 'big-box')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '61')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-broker-button-29280'] = googletag.defineSlot('/3910/investing/broker-button', [100, 140], 'div-broker-button-29280')
+                    .addService(googletag.pubads()).setTargeting('pos', 'hlp_1')
+                    .setTargeting('placement', 'broker-button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '43')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-broker-button-7987'] = googletag.defineSlot('/3910/investing/broker-button', [100, 140], 'div-broker-button-7987')
+                    .addService(googletag.pubads()).setTargeting('pos', 'hlp_2')
+                    .setTargeting('placement', 'broker-button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '93')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-broker-button-38111'] = googletag.defineSlot('/3910/investing/broker-button', [100, 140], 'div-broker-button-38111')
+                    .addService(googletag.pubads()).setTargeting('pos', 'hlp_3')
+                    .setTargeting('placement', 'broker-button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '26')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-broker-button-28814'] = googletag.defineSlot('/3910/investing/broker-button', [100, 140], 'div-broker-button-28814')
+                    .addService(googletag.pubads()).setTargeting('pos', 'hlp_4')
+                    .setTargeting('placement', 'broker-button')
+                    .setCollapseEmptyDiv(true);
+            });
+        
+    </script>
+
+
+    <script type='text/javascript'>
+        adCount = adCount + 1;
+        if (typeof(window.gptPageTargetsDefined) === "undefined") {
+            //define once on the page level
+            googletag.cmd.push(function() {
+                if (typeof(Krux) !== "undefined") {
+                    googletag.pubads().setTargeting("ksg", Krux.segments);
+                    googletag.pubads().setTargeting("kuid", Krux.user);
+                }
+                googletag.pubads().setTargeting('test_bucket', '46')
+                googletag.pubads().setTargeting('bureau', 'usmf-energy-materials-and-utilities')
+                googletag.pubads().setTargeting('collection', '/investing')
+                googletag.pubads().setTargeting('headline', '3 Gold Stocks Worth Buying in 2017')
+                googletag.pubads().setTargeting('tickers', ["AUY", "ABX", "KGC"])
+                googletag.pubads().setTargeting('adtags', ["msn", "default-partners", "yahoo-money"])
+                googletag.pubads().setTargeting('sessionCount', '0')
+                googletag.pubads().setTargeting('tenOrMoreSessions', 'False')
+                googletag.pubads().setTargeting('services', [])
+                googletag.pubads().setTargeting('uid', '');
+            });
+            window.gptPageTargetsDefined = true;
+        }
+
+        
+            googletag.cmd.push(function() {
+                slots['div-Interstitial-21305'] = googletag.defineOutOfPageSlot('/3910/investing/Interstitial', 'div-Interstitial-21305')
+                    .addService(googletag.pubads())
+                    .setTargeting('placement', 'Interstitial');
+            });
+        
+    </script>
+
+
+        
+     <script>
+        googletag.cmd.push(function() {
+            
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+
+            pbjs.que.push(function() {
+                pbjs.onEvent('bidWon', function(arguments) {
+                    for (var i = 0; i < pbjs._bidsReceived.length; i++) {
+                        var bid = pbjs._bidsReceived[i];
+                        if (bid.adId == arguments.adId) {
+                            bid.winner = true;
+                            bid.timeout = false;
+                            var unit = arguments.adUnitCode
+                            var split = unit.split('-');
+                            unit = split.splice(0, split.length - 1).join('-');
+                            window.pbjs_winners.push({'bidderCode': arguments.bidderCode, 'unit': unit, 'bid': arguments.cpm});
+                        }
+                    }
+                });
+                pbjs.onEvent('bidTimeout', function(arguments) {
+                    for (var i = 0; i < pbjs._bidsReceived.length; i++) {
+                        var bid = pbjs._bidsReceived[i];
+                        if (bid.adId == arguments.adId) {
+                            bid.winner = false;
+                            bid.timeout = true;
+                            var unit = arguments.adUnitCode
+                            var split = unit.split('-');
+                            unit = split.splice(0, split.length - 1).join('-');
+                            window.pbjs_timeouts.push({'bidderCode': arguments.bidderCode, 'unit': unit});
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+
+    
+        <!-- Favicon -->
+        
+        <link rel="shortcut icon" href="//g.foolcdn.com/static/dubs/elvis/images/favicon.13af4883f3a3.ico">
+        <link rel="apple-touch-icon" href="//g.foolcdn.com/static/dubs/elvis/images/apple-touch-icon.91bb1b01ecea.png">
+        
+        
+    
+    
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+
+            
+    <meta name="ResponsiveALP" content="yahooMain_investing-intag-77_scroll-tags_50" data-tracker-key="ResponsiveALP" />
+    <meta name="headline" content="3 Gold Stocks Worth Buying in 2017" data-tracker-key="article_headline" />
+    <meta name="STORY_UID" content="6efeb68e-bd11-11e6-b434-0050569d4be0" />
+    <meta name="author" content="Sean Williams" data-tracker-key="article_author" />
+    
+    <meta name="date" content="2016-12-08T18:30:00Z"/>
+    <meta name="gsa_date" content="2016 12 08" data-tracker-key="article_publish_date"/>
+    <meta name="publish_time" content="13:30" data-tracker-key="article_publish_time" />
+    
+    <meta name="promo" content="These lustrous miners could handily outperform their peers next year. " />
+    <meta name="bureau" content="usmf-energy-materials-and-utilities" data-tracker-key="article_bureau" />
+    <meta name="tags" content="MSN,Default Partners,Yahoo" data-tracker-key="article_tags" />
+    <meta name="pitch" content="6115" />
+    <meta name="tickers" content="AUY,ABX,KGC" data-tracker-key="article_tickers" />
+    <meta name="article_type" content="article" data-tracker-key="article_type" />
+
+    <link rel="canonical" href="http://www.fool.com/investing/2016/12/08/3-gold-stocks-worth-buying-in-2017.aspx" />
+    <link rel="amphtml" href="http://www.fool.com/amp/investing/2016/12/08/3-gold-stocks-worth-buying-in-2017.aspx">
+
+
+    <meta name="description" content="These lustrous miners could handily outperform their peers next year. " />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="description" content="These lustrous miners could handily outperform their peers next year. ">
+    <meta itemprop="description" content="bla">
+    <meta itemprop="image" content="http://g.foolcdn.com/editorial/images/421739/gold-bars-on-top-of-stock-chart-getty.jpg">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:site" content="@themotleyfool">
+    <meta name="twitter:title" content="themotleyfool 3 Gold Stocks Worth Buying in 2017 #stocks $AUY, $ABX, $KGC">
+    <meta name="twitter:description" content="These lustrous miners could handily outperform their peers next year. ">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="3 Gold Stocks Worth Buying in 2017 --  The Motley Fool" />
+    <meta property="og:url" content="http://www.fool.com/investing/2016/12/08/3-gold-stocks-worth-buying-in-2017.aspx" />
+    <meta property="og:description" content="These lustrous miners could handily outperform their peers next year. " />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F421739%2Fgold-bars-on-top-of-stock-chart-getty.jpg&h=630&w=1200&op=resize">
+
+    <meta property="og:type" content="article"/>
+    <meta property="fb:pages" content="7240312795" />
+    <meta property="article:published_time" content="13:30" />
+    <meta property="article:tag" content="usmf-energy-materials-and-utilities" />
+    <meta property="article:section" content="investing" />
+
+
+            <meta property="og:site_name" content="The Motley Fool" />
+            <meta property="fb:app_id" content="50808187550" />
+
+        
+    <meta name="msvalidate.01" content="8D40D58712924715BAA79D135A6C8DDA" />
+    <meta name="uqs" content="-1" data-tracker-key="uqs" />
+    <script>
+        var dataLayer = dataLayer || [];
+    </script>
+    
+
+
+
+
+
+    
+        <meta property="og:image"  content="https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F421739%2Fgold-bars-on-top-of-stock-chart-getty.jpg&h=630&w=1200&op=resize"/>
+    
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "http://www.fool.com"
+        },
+        "headline": "3 Gold Stocks Worth Buying in 2017",
+        "datePublished": "2016-12-08T18:30:00Z",
+        "dateModified": "2016-12-08T18:30:00Z",
+        "author": {
+          "@type": "Person",
+          "name": "Sean Williams"
+        },
+        "about":[
+            
+                {
+                    "@type": "Corporation",
+                    "tickerSymbol": "NYSE AUY"
+                },
+            
+                {
+                    "@type": "Corporation",
+                    "tickerSymbol": "NYSE ABX"
+                },
+            
+                {
+                    "@type": "Corporation",
+                    "tickerSymbol": "NYSE KGC"
+                }
+            
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "The Motley Fool",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "http://g.foolcdn.com/assets/images/fool/tmf-logo.png",
+            "width": 311,
+            "height": 56
+          }
+        },
+        "description": "These lustrous miners could handily outperform their peers next year. ",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F421739%2Fgold-bars-on-top-of-stock-chart-getty.jpg&h=630&w=1200&op=resize",
+          "height": 630,
+          "width": 1200
+        }
+      }
+    </script>
+
+
+        <title>
+            
+    3 Gold Stocks Worth Buying in 2017 -- The Motley Fool
+
+        </title>
+
+        
+    <link rel="preload" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"></noscript>
+
+    <link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="//g.foolcdn.com/static/dubs/CACHE/css/9be74e338cdc.css" type="text/css" />
+
+
+        
+    <script type="text/javascript">
+        var value = 'dubs';
+        var is_classic = false;
+        var premium_id = 'None';
+        window.settings = window.settings || {};
+        // API root path from settings
+        window.settings.apiRootPath = '';
+        // segmentIO key
+        window.settings.segmentIOkey = '';
+    </script>
+
+    <script async src="//sf.mmccint.com/bootstrap?pubid=A-2956575&url=fool.com" data-owner="sitefuel"></script>
+
+
+        
+
+        
+        
+
+
+    </head>
+
+
+    <body class="fool yolo content-service-" >
+    <!-- maintenance_banner -->
+
+
+
+    <script>
+        var infotronStubMaker = function(methods)  {
+            var stubQueue = [];
+            stubQueue.invoked = false;
+            stubQueue.methods = methods;
+
+            var addToMethodQueue = function(method)  {
+                var func = function() {
+                    var args = Array.prototype.slice.call(arguments, 0);
+                    var newArgs = [method].concat(args);
+                    stubQueue.push(newArgs);
+                };
+                func.stub = true;
+                return func;
+            };
+            var generateMethods = function()  {
+                for (var i=0; i < stubQueue.methods.length; i++)  {
+                    var key = stubQueue.methods[i];
+                    stubQueue[key] = addToMethodQueue(key);
+                }
+            };
+            var loadTracker = function(scriptUrl)  {
+                if (stubQueue.invoked)  {
+                    if (window.console && console.error)  {
+                        console.error('Queue snippet included twice.');
+                    }
+                    return;
+                }
+                var trackerScript = document.createElement('script');
+                trackerScript.type = 'text/javascript';
+                trackerScript.async = true;
+                trackerScript.src = scriptUrl;
+                var firstScript = document.getElementsByTagName('script')[0];
+                firstScript.parentNode.insertBefore(trackerScript, firstScript);
+                stubQueue.invoked = true;
+            };
+            generateMethods();
+            stubQueue.load = loadTracker;
+            return stubQueue;
+        };
+
+        var PitchEngine = infotronStubMaker([
+                'initialize',
+                'get',
+                'pitcherDone',
+                'placeInPage',
+                'pitcherError',
+                'RegisterQueue',
+                'UnRegisterQueue'
+            ]);
+        var PitcherAds = infotronStubMaker(
+                ['get', 'OnDomReady', 'PlaceAdInPage', 'makeDFPAd', 'RegisterQueue', 'UnRegisterQueue']
+        );
+        PitchEngine.load('//j.foolcdn.com/common/js/infotron-async.min.js');
+    </script>
+
+
+
+
+    <!-- Main Container wrapping the whole page -->
+    <div class="main-container">
+
+
+        <!-- The Universal Fool Top Hat black bar -->
+        
+    
+
+    
+        <div class="fool-tophat-container">
+            
+
+
+
+
+
+<div class="fool-tophat-container">
+ <div class="fool-tophat" data-tabbable-selector="ul.dropMenu,#logOut a">
+    <div id="tophatWrap">
+
+        <!-- Aligned Left -->
+        <div id="navigation" class="fool-tophat-left" role="menubar">
+            <a class="skip-main" href="#main-content" target="_self">Skip to main content</a>
+
+            <!--  Country Dropdown -->
+            <ul id="countries-dropdown" class="dropMenu site-nav-hide">
+
+                 
+
+
+
+	<li class="topLevel countryIcon" >
+	    <a href="/" class="dropdown-toggle country-select-item" type="button" id="dropdownMenuCountries" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="fa fa-globe"><span class="globe-text">The Motley Fool</span></span><span class="caret"></span></a>
+	    <ul class="country-select dropdown-menu" aria-labelledby="dropdownMenuCountries">
+	        <li role="menuitem" aria-setsize="8" aria-posinset="1">
+	            <a class="us" href="/">Fool.com</a>
+	        </li>
+	        <li role="menuitem" aria-setsize="8" aria-posinset="2">
+	            <a class="uk" href="//www.fool.co.uk/">Fool.co.uk</a>
+	        </li>
+	        <li role="menuitem" aria-setsize="8" aria-posinset="3">
+	            <a class="au" href="//www.fool.com.au/">Fool.com.au</a>
+	        </li>
+	        <li role="menuitem" aria-setsize="8" aria-posinset="4">
+	            <a class="ca" href="//www.fool.ca/">Fool.ca</a>
+	        </li>
+	        <li role="menuitem" aria-setsize="8" aria-posinset="5">
+	            <a class="sg" href="//www.fool.sg">Fool.sg</a>
+	        </li>
+	        <li role="menuitem" aria-setsize="8" aria-posinset="6">
+	            <a class="de" href="//www.fool.de">Fool.de</a>
+	        </li>
+	    </ul>
+	</li>
+
+
+
+            </ul> 
+
+        </div>
+
+
+        <!-- Aligned Right -->
+        <div id="userTools" class="fool-tophat-right">
+
+            <!-- My Fool -->
+            
+                <span id="myFool" style="width:100px"><li>Hi, Fool!</li></span>
+            
+
+            <!-- Premium Services -->
+            
+            <ul id="premium" style="width:140px">
+                <li class="topLevel">
+                    <a href="//www.fool.com/#services-section" aria-haspopup="true">
+                    Premium Advice</a>
+                </li>
+            </ul>
+            
+
+            <!-- Help -->
+            <ul id="Help" class="dropMenu" >
+                <li class="topLevel">
+                    <a href="javascript:void(0)" class="select" aria-haspopup="true">
+                    Help</a>
+
+                    <ul aria-label="Help" class="site-nav-hide" >
+
+                        
+
+
+
+    
+
+            <li><i class="fa fa-info-circle icon-help"></i> <a href="//www.fool.com/answers/" class="last">Fool Answers</a></li>
+
+            <li><i class="fa fa-envelope"></i> <a href="//www.fool.com/answers/contact-customer-service/" class="last">Contact Us</a></li>
+
+            <!-- <li class="multiline-subhead">
+                <a href="#">
+                    <span class="tophat-phone-number">
+                        <i class="fa fa-phone"></i> 
+                        Call 888-665-3665
+                    </span>    
+                    <span class="sub-info">
+                        Hours: 9am-5pm ET
+                    </span>
+                </a>
+            </li> -->
+
+
+    
+
+
+
+
+
+                    </ul>
+                </li>
+            </ul>        
+
+            
+
+
+
+	
+    <span name="logIn" id="logIn" class="top-hat-element">
+        <a class="" href="//www.fool.com/secure/login.aspx?source=ilgsittph0000001">Login</a>
+    </span>
+    
+
+
+
+        </div>
+    </div>
+</div>
+</div>
+        </div>
+        
+
+
+        <!-- Mobile Nav ~ not needed for Fool, still used in Premium services ~GR 09/15 -->
+        
+        
+
+
+        <!-- Page Grid Container sets max-width and centers for older Premium services ~GR 09/15-->
+        
+        <div class="page-grid-container">
+
+            <!-- Nav section -->
+            
+    <section class="usmf-article-nav">
+        
+                    
+                        <header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="//www.fool.com" class="logo">
+      <img src="//g.foolcdn.com/art/fool15/bg/fool-logo.png" alt="The Motley Fool">
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu"><i class="fa fa-bars"></i> MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+
+        <!-- Services -->
+        
+            <li class="nav-link-stock-picks-li">
+                <a id="nav-link-stock-picks" href="//www.fool.com/?source=ipesittph0000002#services-section" class="nav-link-stock-picks cta-button">Latest Stock Picks</a>
+            </li>
+        
+
+        <!-- Stocks -->
+        
+
+        <!-- Investing -->
+        <li class="nav-link more"><a href="javascript:void(0)">News</a>
+          <ul class="submenu">
+            <li><a href="//www.fool.com/investing-news/">Investing News</a></li>
+            
+              <li><a href="//www.fool.com/podcasts">Fool Podcasts</a></li>
+            
+          </ul>
+        </li>
+
+
+        
+
+
+       <!-- Guides -->
+       <li class="nav-link more"><a href="javascript:void(0)">Guides</a>
+          <ul class="submenu">
+            <li><a href="//www.fool.com/how-to-invest/index.aspx">How to Invest</a> </li>
+            <li><a href="//www.fool.com/retirement/index.aspx">Retirement</a></li>
+            <li><a href="//www.fool.com/how-to-invest/personal-finance/index.aspx">Personal Finance</a></li>
+            <li><a href="//www.fool.com/answers/faq">Motley Fool Answers</a></li>
+            <li><a href="//www.fool.com/investing/options/options-a-foolish-introduction.aspx">Options Trading</a></li>
+            <li><a href="//www.fool.com/how-to-invest/broker/index.aspx">Find a Broker</a></li>
+            <li><a href="//www.fool.com/retirement/ira/index.aspx">Compare IRA Accounts</a></li>
+            <li><a href="//www.fool.com/investing/etf/index.aspx">ETF - Exchange Traded Funds</a></li>
+          </ul>
+        </li>
+
+        <!-- Community -->
+        <li class="nav-link more"><a href="javascript:void(0)">Community</a>
+          <ul class="submenu">
+            <li><a href="//boards.fool.com/">Discussion Boards</a>
+            </li>
+            <li><a href="//caps.fool.com/index.aspx">CAPS</a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- Personal Finance -->
+        <li class="nav-link more"><a href="javascript:void(0)">More</a>
+          <ul class="submenu">
+            <li><a href="//www.fool.com/Press/History.htm?ref=BTMP">About</a></li>
+            <li><a href="//www.fool.com/answers/">Help</a></li>
+            
+          </ul>
+        </li>
+
+        
+        <!-- TopHat links for Mobile  -->
+
+        <!-- My Fool -->
+        <li class="nav-link more top-hat-link my-nav"><a href="#">My Fool</a>
+            <ul class="submenu">
+
+                
+
+
+    <li class="myOption myFool">
+        <a href="//my.fool.com/">My Fool</a>
+    </li>
+    <li class="myOption myProfile">
+        <a href="//my.fool.com/Profile/">My Profile</a>
+    </li>
+    <li class="myOption myWatchlist">
+        <a href="//my.fool.com/watchlist">My Watchlist</a>
+    </li>
+    <li class="myOption myScorecard">
+        <a class="premiumLink" href="//scorecard.fool.com/">My Scorecard</a>
+    </li>
+    <li class="myOption myBoards">
+        <a href="//boards.fool.com/FavoriteBoards.asp">My Boards</a>
+    </li>
+    <li class="myOption myCAPS">
+        <a href="//caps.fool.com/MyPlayer.aspx">My CAPS</a>
+    </li>
+    <li class="myOption myUReports">
+        <a href="//my.fool.com/#my-reports">My Reports</a>
+    </li>
+    <li class="myOption mySubscriptions">
+        <a href="//my.fool.com/">My Subscriptions</a>
+    </li>
+    <li class="myOption mySettings">
+        <a class="last" href="//www.fool.com/Account/Index.aspx">My Settings</a>
+    </li>
+ 
+
+            </ul>
+        </li>
+
+        <!-- Premium Services -->
+        <li class="nav-link more top-hat-link services-nav"><a href="#">Premium Advice</a>
+            <ul class="submenu">
+
+            
+
+
+
+    <li class="premiumOption infoSubhead">My Services</li>
+    
+    <li class="info">None</li>
+
+    <li rv-hide="noInaccessibleServices" class="infoSubhead"><strong>Other Services</strong></li>
+    
+    <li class="info">None</li>
+
+
+
+
+            </ul>
+        </li>
+
+        <!-- Help -->
+        <li class="nav-link more top-hat-link help-nav"><a href="#">Help</a>
+            <ul class="submenu">
+
+            
+
+
+
+    
+
+            <li><i class="fa fa-info-circle icon-help"></i> <a href="//www.fool.com/answers/" class="last">Fool Answers</a></li>
+
+            <li><i class="fa fa-envelope"></i> <a href="//www.fool.com/answers/contact-customer-service/" class="last">Contact Us</a></li>
+
+            <!-- <li class="multiline-subhead">
+                <a href="#">
+                    <span class="tophat-phone-number">
+                        <i class="fa fa-phone"></i> 
+                        Call 888-665-3665
+                    </span>    
+                    <span class="sub-info">
+                        Hours: 9am-5pm ET
+                    </span>
+                </a>
+            </li> -->
+
+
+    
+
+
+
+
+
+            </ul>
+        </li>
+
+        <!-- Login / Logout -->
+        <li class="nav-link top-hat-link login-nav">
+
+            
+
+
+
+	
+    <span name="logIn" id="logIn" class="top-hat-element">
+        <a class="" href="//www.fool.com/secure/login.aspx?source=ilgsittph0000001">Login</a>
+    </span>
+    
+
+
+
+        </li>
+
+      </ul>
+    </nav>
+    <div class="navigation-tools">
+      <div class="search-bar">
+
+        <div class="premium-header-lookup-container">
+          
+
+<form name="lookup" action="/fooldotcom/searchredirect/">
+	<span class="fa fa-search search-icon" aria-hidden="true" title="Search"></span>
+	<span class="sr-only">Search</span>
+	<label for="fool-search" class="fool-search-label" style="display:none;">
+	    Search:
+	</label>
+	<input name="query" label="search" id="fool-search" class="ticker-input-input" placeholder="Ticker or Keyword" role="search" aria-hidden="false" aria-haspopup="true" autocomplete="off"/>
+    <input type="submit" class="sr-only" value="Go">
+</form>
+
+
+        </div>
+
+      </div>
+    </div> 
+  </div>
+</header>
+
+                    
+
+            
+    </section>
+
+
+
+            <!-- Header & Nav section with default -->
+            
+            
+
+            <!-- Content Container sets max-width and centers for themes with full bleed nav/footer/etc (Yolo, Precious)  ~GR 09/15-->
+            <div class="content-container">
+
+            <!-- Main Body section where individual apps reside -->
+            
+    <header class="header-ads-container">
+        
+
+<section class="header-ads ad">
+    
+        
+
+
+
+
+
+
+
+<div id='div-leaderboard-36007' class='dfp-ads wide'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-leaderboard-36007');
+    });
+</script>
+
+
+    
+</section>
+    </header>
+
+    
+        
+    
+
+    <section class="main-content-section page-body" id="article-page">
+    <section id="main-content">
+        
+            <div class="endless-body">
+
+                
+
+
+
+
+
+
+
+
+<div class="full_article" style="overflow:hidden" id="article-1">
+    <section class="usmf-new article-header">
+        
+            <header>
+                <div id="adv_text" class="adv-heading"></div>
+                <h1>3 Gold Stocks Worth Buying in 2017</h1>
+                <h2>These lustrous miners could handily outperform their peers next year. </h2>
+            </header>
+        
+    </section>
+
+
+    <div class="main-col">
+        <!--placeholder-->
+        
+
+            
+                
+
+
+<div class="row author-tagline author-inline">
+    <div class="author-avatar">
+        
+            <img src="https://g.foolcdn.com/avatar/1211926414/large.ashx" alt=""/>
+        
+    </div>
+    <div class="author-and-date">
+        <div class="author-byline">
+            <div class="author-name">
+                Sean Williams
+            </div>
+            
+            <div class="author-username">
+                (<a href="http://my.fool.com/profile/TMFUltraLong/activity.aspx">TMFUltraLong</a>)
+            </div>
+            
+        </div>
+        <div class="article-pub-date">
+            <div class="publication-date">
+            
+            Dec 8, 2016 at 1:30PM
+            
+            </div>
+        </div>
+    </div>
+</div>
+            
+        
+            <section class="usmf-new article-body">
+                <span class="article-content">
+                    
+                        
+                            <p class="caption"><img alt="Gold Bars On Top Of Stock Chart Getty" src="https://g.foolcdn.com/editorial/images/421739/gold-bars-on-top-of-stock-chart-getty_large.jpg"/><br/>Image source: Getty Images.</p>
+<p>If the year wrapped up sometime around the beginning of August, there would be no doubt that gold miners were the stars of 2016. Physical gold prices reestablished themselves in a firm bull market, rising from a low of $1,050 per ounce to nearly $1,400 per ounce, and more than half of all gold stocks with a market value of $300 million or higher at least doubled in value. You practically could have thrown a dart and been successful.</p>
+<p>Things have changed a bit since the summer. Gold has lost more than $220 per ounce from its high, and it's taken a particularly hard hit over the month since Donald Trump won the presidency. Physical gold rocketed as high as $1,340 in the overnight hours when it appeared Trump was poised for victory, but once the volatility and emotions subsided, Wall Street's expectations of improved GDP growth and perhaps higher interest rates has weighed on the metal. Now many of the best-performing gold stocks of 2016 have lost their luster.</p>
+<p>Now here's the good news for investors: with the opportunity cost of owning gold still low -- even if the Federal Reserve hikes interest rates, interest-bearing assets aren't yielding enough to really drive investors out of gold and into bonds or CDs -- and supply mostly constrained, the fundamental outlook for physical gold remains positive.</p>
+<h2><strong>Gold stocks worth buying in 2017</strong></h2>
+<p>The real challenge is in finding gold stocks that could outperform their peers. Amidst the recent carnage, there are three gold miners that stand out as strong rebound candidates in 2017 and beyond. In my opinion, it wouldn't take more than a quick buffing to bring the shine back to these stocks.</p>
+<p class="caption"><img alt="Copper Gold Precious Metal Mining Getty" src="https://g.foolcdn.com/editorial/images/421739/copper-gold-precious-metal-mining-getty_large.jpg"/><br/>Image source: Getty Images.</p>
+<h2><strong>Barrick Gold</strong></h2>
+<p>Investors looking at <strong>Barrick Gold</strong> <span class="ticker" data-id="206868">(<a href="http://www.fool.com/quote/nyse/barrick-gold/abx">NYSE:ABX</a>)</span> are going to find two distinct trends, both of which are positive.</p>
+<p>One of the standout trends for Barrick Gold is its declining expenditures. When Barrick Gold offered its preliminary 2013 capital expenditure guidance in Feb. 2013, it forecast a midpoint of $6 billion in spending. Based on Barrick's third-quarter update for full-year CapEx in 2016, the company now anticipates just $1.25 billion in spending at the midpoint.</p>
+<p>On top of wisely spending its money on top ore grade projects and expansions, Barrick also remains on track to reduce its total debt to $8 billion by year's end from $13 billion two years ago. Over the intermediate-term, Barrick is on track to reduce its outstanding debt to $5 billion, which means more financial flexibility and lower interest expenses.</p>
+<p>The other trend for Barrick is that it has ample opportunities for organic growth, which should improve production output and eventually push its industry-leading all-in sustaining costs (AISC) even lower. For example, Goldrush has 8.6 million ounces in measured and indicated resources that could fuel production growth and maintain its industry-low AISC for years to come. Likewise, its Turquoise Ridge expansion gives Barrick the opportunity for better efficiency and higher production output. Barrick has a veritable sea of opportunities like this, and it's a big reason why the miner's full-year AISC forecast in 2016 has dipped below $760 per ounce at the midpoint. By 2019, Barrick has its eyes set on a sub-$700 AISC.</p>
+<p>As long as Barrick can maintain AISC significantly below spot gold prices and continues to whittle down its outstanding debt, there's little reason to believe it won't outperform most of its peers.</p>
+<p class="caption"><img alt="Open Mine Pit Gold Silver Copper Precious Metal Getty" src="https://g.foolcdn.com/editorial/images/421739/open-mine-pit-gold-silver-copper-precious-metal-getty_large.jpg"/><br/>Image source: Getty Images.</p>
+<div class="interad">
+<div class="dfp-ads ad" id="div-desktop-incontent-10159"></div>
+<script type="text/javascript">
+    googletag.cmd.push(function() {
+        googletag.display('div-desktop-incontent-10159');
+    });
+</script>
+</div><h2><strong>Yamana Gold</strong></h2>
+<p>Another gold stock that could be worth buying in 2017 is midcap <strong>Yamana Gold</strong> <span class="ticker" data-id="208929">(<a href="http://www.fool.com/quote/nyse/yamana-gold/auy">NYSE:AUY</a>)</span>. The allure of Yamana is its various expansion opportunities, each of which has the potential to rocket its production significantly higher. In particular, 2018 is likely to be a big year for the company, meaning it could be wise to get in ahead of a slew of expected positive news.</p>
+<p>One of Yamana's most recently acquired properties, Riacho dos Machados, a gold and copper mine, is expected to produce about 55,000 ounces of gold in 2016 and expand to annual production of around 100,000 ounces by 2018. Most impressively, Yamana nabbed this mine for less than $50 million from <strong>Carpathian Gold</strong> and will have nearly doubled its production in less than two years.</p>
+<div class="image small imgR"><img alt="Kinross Round Mountain" src="https://g.foolcdn.com/editorial/images/421739/kinross-round-mountain_large.jpg" width="240"/>
+<p class="caption">Image source: Kinross Gold.</p>
+</div>
+<p>In addition to Riacho dos Machados yielding an expected 100,000 ounces of gold annually, C1 Santa Luz is expected to begin commercial production in the first quarter of 2018 with an initial output of 130,000 ounces in the first year and average annual production of 114,000 ounces of gold over its first seven years. C1 Santa Luz is anticipated to have a mine life of 10 years, but underground expansion potential could extend this figure.</p>
+<p>And we're still not done! The underground development, detailed engineering, and process plant construction at Cerro Moro are all ahead of schedule, putting the mine on track for production in early 2018. Cerro Moro should help push Yamana's AISC down thanks to expected high-yield silver and gold ore grades.</p>
+<p>Beyond 2018, the company's Chapada mine may also yield a significant boost in production. The Suruca development, which could begin production as early as 2019, could add 45,000 to 60,000 ounces a year over the four-to-five-year lifespan of the expansion.</p>
+<p>With byproduct costs (silver and copper) helping push Yamana's costs down, and its full-year EPS possibly tripling in the next three years, Yamana could be worth your consideration.</p>
+<p class="caption"><img alt="G" height="412" src="https://g.foolcdn.com/editorial/images/421739/kinross-maricunga_large.JPG" width="580"/><br/>Image source: Kinross Gold.</p>
+<h2><strong>Kinross Gold</strong></h2>
+<p>Like Yamana, <strong>Kinross Gold</strong> <span class="ticker" data-id="206386">(<a href="http://www.fool.com/quote/nyse/kinross-gold/kgc">NYSE:KGC</a>)</span> should be on the radar of gold mining investors because of its mine expansion potential. However, unlike Yamana, the appeal of Kinross rests almost entirely with the potential of one mine: Tasiast.</p>
+<p>The Tasiast mine, located in Mauritania, has been an absolute thorn for Kinross and investors for the better part of this decade. Kinross gobbled up the Tasiast mine as part of its acquisition of Red Back Mining for $7.1 billion in 2010. Unfortunately, two write-offs totaling nearly $5.6 billion wiped out a significant portion of its deal value in the years to follow. As salt in the wound, the falling price of gold between 2011 and 2014 halted expansion opportunities at Tasiast.</p>
+<div class="image small imgL"><img alt="Kinross Fort Knox" src="https://g.foolcdn.com/editorial/images/421739/kinross-fort-knox_large.jpg" width="240"/>
+<p class="caption">Image source: Kinross Gold.</p>
+</div>
+<p>Today, however, with Kinross' other mines demonstrating better efficiency and its costs (both CapEx and administrative) falling, the company now has the means and reason to ramp up Tasiast. Plus, it didn't hurt that initial expansion costs came in below its feasibility study guidance. If all goes well, Tasiast could easily become Kinross' flagship asset.</p>
+<p>The first phase of the expansion will push throughput capacity to 12,000 tons per day (t/d) from its current throughput of 8,000 t/d. Once this expansion is fully in place in 2018, annual production is expected to average 409,000 ounces of gold per year over the following decade. More importantly, cash costs are expected to fall by nearly 50% with AISC of $760 per ounce. That's a solid $400+ per ounce margin from today's spot gold price.</p>
+<p>But there's a second phase of expansion that would be slightly more than double the capital costs ($620 million) of the first phase ($300 million), but would have a significant impact on throughput and AISC. If approved, this second phase would be ready for commercial production in 2020, yielding 777,000 ounces of gold per year between 2020 and 2026 at an insanely low AISC of $665 per ounce. Throughput would more than double to 30,000 t/d from 12,000 t/d.</p>
+<p>Tasiast has been a thorn for a long time, but it looks ready to (finally) shine. Wall Street has long discounted Kinross relative to its peers because of its write downs associated with Tasiast. However, with Kinross being essentially the cheapest gold stock on a future cash flow per share basis, I believe it's worth strong consideration by gold stock investors.</p>
+<p></p><div id="pitch"></div>
+                        
+                    
+                </span>
+                <span class="article-disclosure">
+                    <p><a href="http://my.fool.com/profile/TMFUltraLong/info.aspx"><em>Sean Williams</em></a><em> has no material interest in any companies mentioned in this article. You can follow him on CAPS under the screen name </em><a href="http://caps.fool.com/player/tmfultralong.aspx"><em>TMFUltraLong</em></a><em>, and check him out on Twitter, where he goes by the handle </em><a href="http://twitter.com/#%21/TMFUltraLong"><em>@TMFUltraLong</em></a><em>.</em></p>
+<p><em>The Motley Fool has no position in any of the stocks mentioned. Try any of our Foolish newsletter services </em><a href="http://www.fool.com/shop/newsletters/index.aspx?source=isiedilnk018048"><em>free for 30 days</em></a><em>. We Fools may not all hold the same opinions, but we all believe that </em><a href="http://wiki.fool.com/Motley"><em>considering a diverse range of insights</em></a><em> makes us better investors. The Motley Fool has a </em><a href="http://www.fool.com/Legal/fool-disclosure-policy.aspx"><em>disclosure policy</em></a>.</p>
+                </span>
+
+                
+                <div class="special-message">
+
+                    <div class="promoboxAd">
+                        <div id='div-promobox-8839' data-adparams='{"primary_tickers_companies": ["Yamana Gold", "Barrick Gold", "Kinross Gold"], "uid": "", "divId": "div-promobox-8839", "pos": 0, "collection": "/investing", "height": 300, "seg": "default", "test_bucket": 51, "adtags": "[\"msn\", \"default-partners\", \"yahoo-money\"]", "services": [], "tstrId": "yahooMain_investing-intag-77_scroll-tags_50", "segment": "default", "pitchId": 6115, "placement": "promobox", "primary_tickers": ["AUY", "ABX", "KGC"], "headline": "3 Gold Stocks Worth Buying in 2017", "session_count": 0, "width": 470, "ten_or_more_sessions": false, "bureau": "usmf-energy-materials-and-utilities", "position": 0, "tickers": "[\"AUY\", \"ABX\", \"KGC\"]"}' data-dfpextra='{"primary_tickers_companies": ["Yamana Gold", "Barrick Gold", "Kinross Gold"], "uid": "", "headline": "3 Gold Stocks Worth Buying in 2017", "session_count": 0, "collection": "/investing", "primary_tickers": ["AUY", "ABX", "KGC"], "test_bucket": 51, "ten_or_more_sessions": false, "bureau": "usmf-energy-materials-and-utilities", "adtags": "[\"msn\", \"default-partners\", \"yahoo-money\"]", "services": [], "tickers": "[\"AUY\", \"ABX\", \"KGC\"]", "pitchId": 6115}' class='dfp-ad ad'></div><script type='text/javascript'>PitcherAds.get({"primary_tickers_companies": ["Yamana Gold", "Barrick Gold", "Kinross Gold"], "uid": "", "divId": "div-promobox-8839", "pos": 0, "collection": "/investing", "height": 300, "seg": "default", "test_bucket": 51, "adtags": "[\"msn\", \"default-partners\", \"yahoo-money\"]", "services": [], "tstrId": "yahooMain_investing-intag-77_scroll-tags_50", "segment": "default", "pitchId": 6115, "placement": "promobox", "primary_tickers": ["AUY", "ABX", "KGC"], "headline": "3 Gold Stocks Worth Buying in 2017", "session_count": 0, "width": 470, "ten_or_more_sessions": false, "bureau": "usmf-energy-materials-and-utilities", "position": 0, "tickers": "[\"AUY\", \"ABX\", \"KGC\"]"});</script>
+                    </div>
+
+                </div>
+                
+
+            </section>
+        
+    </div>
+
+
+    
+        
+
+
+
+
+
+
+<div class="side-col article-page">
+    <section class="related-content">
+        <div class="info-card ad">
+            
+                
+
+
+
+
+
+
+
+<div id='div-big-box-1-16463' class='dfp-ads ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-big-box-1-16463');
+    });
+</script>
+
+
+            
+        </div>
+
+        
+        <!-- Author Byline Section -->
+        <section class="author-card">
+            <div class="wayfinder with-rule">
+                <hr class="wayfinder-rule" />
+                <h2>Author</h2>
+            </div>
+
+            <div class="expander author-tagline">
+                <div class="author-avatar">
+                    
+                     <img src="https://g.foolcdn.com/avatar/1211926414/large.ashx" alt="Sean Williams"/>
+                    
+                </div>
+                <div class="author-and-date">
+                    <div class="author-byline">
+                        <div class="author-name">
+                            Sean Williams
+                        </div>
+
+                        <div class="author-username">
+                            (<a href="http://my.fool.com/profile/TMFUltraLong/activity.aspx">TMFUltraLong</a>)
+                        </div>
+
+                    </div>
+                    <p class="primary_author-bio">A Fool since 2010, and a graduate from UC San Diego with a B.A. in Economics, Sean specializes in the healthcare sector and investment planning. You'll often find him writing about Obamacare, marijuana, drug and device development, Social Security, taxes, retirement issues and general macroeconomic topics of interest. <a href="https://twitter.com/TMFUltraLong" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @TMFUltraLong</a>
+</p>
+                </div>
+            </div>
+
+        </section>
+        
+
+        <!-- Article Info Section -->
+        <div class="info-card">
+            <div class="wayfinder with-rule">
+                <hr class="wayfinder-rule" />
+                <h2>Article Info</h2>
+            </div>
+            <ul class="topic-list">
+                <li>
+                    <span class="left-icon time"><i class="reverse-icon"></i></span>
+                    
+                    Dec 8, 2016 at 1:30PM
+                    
+                </li>
+
+                
+                <li>
+                    <span class="left-icon bureau-usmf-energy-materials-and-utilities" id="usmf-energy-materials-and-utilities"><i class="reverse-icon"></i></span>
+                    Energy, Materials, and Utilities
+                </li>
+                
+
+                
+            </ul>
+        </div>
+
+        
+            
+<div style="text-align: center; margin-top:30px">
+    
+
+
+
+
+
+
+
+<div id='div-lemora-77106' class='dfp-ads ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-lemora-77106');
+    });
+</script>
+
+
+</div>
+        
+    
+        <!-- Related Tickers Section -->
+        
+        <section class="related-tickers">
+            <div class="wayfinder with-rule">
+                <hr class="wayfinder-rule" />
+                <h2>Stocks</h2>
+            </div>
+
+            
+                
+                    <div class="ticker-row" data-instrument-id="208929">
+                        <div>
+                            <span class="image-wrap">
+                                <a href="//www.fool.com/quote/nyse/yamana-gold/auy">
+                                    <img alt="Yamana Gold Stock Quote"
+                                    data-img-src="https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FAUY.png&h=64&w=64&op=resize"
+                                    src="http://g.foolcdn.com/p/86400/placeholdit.imgix.net/~text?txtsize=20&bg=e6e6e6&txtclr=111111&txt=AUY&w=64&h=64" />
+                                </a>
+                            </span>
+                            <h3>Yamana Gold</h3>
+                            <h4 class="h-margin-b">
+                                <span class="ticker">
+                                    <a title="Yamana Gold Stock Quote" href="//www.fool.com/quote/nyse/yamana-gold/auy">
+                                        NYSE:<span class="symbol">AUY</span>
+                                    </a>
+                                </span>
+                            </h4>
+                            <aside class="price-quote-container smaller">
+                                <h4 class="current-price">
+                                    $2.74
+                                </h4>
+                                <h4 class="price-change-arrow price-pos">
+                                <span style="position:absolute;left:-999em;">up</span>
+                                <i class="fool-icon-arrow-up"></i>
+
+                                </h4>
+                                <h4 class="price-change-amount price-pos">
+                                    $0.07
+                                </h4>
+                                <h4 class="price-change-percent price-pos">
+                                    (2.81%)
+                                </h4>
+                            </aside>
+                        </div>
+                    </div>
+                
+            
+                
+                    <div class="ticker-row" data-instrument-id="206868">
+                        <div>
+                            <span class="image-wrap">
+                                <a href="//www.fool.com/quote/nyse/barrick-gold/abx">
+                                    <img alt="Barrick Gold Stock Quote"
+                                    data-img-src="https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FABX.png&h=64&w=64&op=resize"
+                                    src="http://g.foolcdn.com/p/86400/placeholdit.imgix.net/~text?txtsize=20&bg=e6e6e6&txtclr=111111&txt=ABX&w=64&h=64" />
+                                </a>
+                            </span>
+                            <h3>Barrick Gold</h3>
+                            <h4 class="h-margin-b">
+                                <span class="ticker">
+                                    <a title="Barrick Gold Stock Quote" href="//www.fool.com/quote/nyse/barrick-gold/abx">
+                                        NYSE:<span class="symbol">ABX</span>
+                                    </a>
+                                </span>
+                            </h4>
+                            <aside class="price-quote-container smaller">
+                                <h4 class="current-price">
+                                    $15.28
+                                </h4>
+                                <h4 class="price-change-arrow price-pos">
+                                <span style="position:absolute;left:-999em;">up</span>
+                                <i class="fool-icon-arrow-up"></i>
+
+                                </h4>
+                                <h4 class="price-change-amount price-pos">
+                                    $0.42
+                                </h4>
+                                <h4 class="price-change-percent price-pos">
+                                    (2.83%)
+                                </h4>
+                            </aside>
+                        </div>
+                    </div>
+                
+            
+                
+                    <div class="ticker-row" data-instrument-id="206386">
+                        <div>
+                            <span class="image-wrap">
+                                <a href="//www.fool.com/quote/nyse/kinross-gold/kgc">
+                                    <img alt="Kinross Gold Stock Quote"
+                                    data-img-src="https://g.foolcdn.com/image/?url=http%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FKGC.png&h=64&w=64&op=resize"
+                                    src="http://g.foolcdn.com/p/86400/placeholdit.imgix.net/~text?txtsize=20&bg=e6e6e6&txtclr=111111&txt=KGC&w=64&h=64" />
+                                </a>
+                            </span>
+                            <h3>Kinross Gold</h3>
+                            <h4 class="h-margin-b">
+                                <span class="ticker">
+                                    <a title="Kinross Gold Stock Quote" href="//www.fool.com/quote/nyse/kinross-gold/kgc">
+                                        NYSE:<span class="symbol">KGC</span>
+                                    </a>
+                                </span>
+                            </h4>
+                            <aside class="price-quote-container smaller">
+                                <h4 class="current-price">
+                                    $3.11
+                                </h4>
+                                <h4 class="price-change-arrow price-pos">
+                                <span style="position:absolute;left:-999em;">up</span>
+                                <i class="fool-icon-arrow-up"></i>
+
+                                </h4>
+                                <h4 class="price-change-amount price-pos">
+                                    $0.07
+                                </h4>
+                                <h4 class="price-change-percent price-pos">
+                                    (2.30%)
+                                </h4>
+                            </aside>
+                        </div>
+                    </div>
+                
+            
+        </section>
+        
+
+        <!-- Related Articles Section -->
+        <section class="read-more-section">
+            
+            <div class="wayfinder with-rule">
+                <hr class="wayfinder-rule" />
+                <h2 rv-text="headline">Read More</h2>
+            </div>
+            <ul class="two-line-list">
+                
+                <li rv-each-article="articles">
+                    <a rv-href="article.legacy_uri" href="/investing/2016/10/27/barrick-gold-corporation-q3-report-leaves-no-quest.aspx" rv-text="article.headline">Barrick Gold Corporation Q3 Report Leaves No Question Unanswered</a>
+                </li>
+                
+                <li rv-each-article="articles">
+                    <a rv-href="article.legacy_uri" href="/investing/2016/11/22/where-will-barrick-gold-be-in-10-years.aspx" rv-text="article.headline">Where Will Barrick Gold Be in 10 Years?</a>
+                </li>
+                
+                <li rv-each-article="articles">
+                    <a rv-href="article.legacy_uri" href="/investing/2016/11/15/15-reasons-you-shouldnt-worry-about-falling-gold-p.aspx" rv-text="article.headline">15 Reasons You Shouldn&#39;t Worry About Falling Gold Prices</a>
+                </li>
+                
+                <li rv-each-article="articles">
+                    <a rv-href="article.legacy_uri" href="/investing/2016/10/24/3-questions-barrick-gold-corporation-investors-wan.aspx" rv-text="article.headline">3 Questions Barrick Gold Corporation Investors Want Answered This Week</a>
+                </li>
+                
+                <li rv-each-article="articles">
+                    <a rv-href="article.legacy_uri" href="/investing/2016/11/10/these-3-dividend-paying-gold-stocks-are-up-around.aspx" rv-text="article.headline">These 3 Dividend-Paying Gold Stocks Are Up Around 100% in 2016</a>
+                </li>
+                
+            </ul>
+            
+        </section>
+
+        <hr class="wayfinder-rule" />
+
+        <div class="info-card ad sidebar-ads">
+            <div class="info-card-1">
+                
+
+
+
+
+
+
+
+<div id='div-button-70041' class='dfp-ads ad-card'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-button-70041');
+    });
+</script>
+
+
+            </div>
+            <div class="info-card-2">
+                
+
+
+
+
+
+
+
+<div id='div-button-34316' class='dfp-ads ad-card'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-button-34316');
+    });
+</script>
+
+
+            </div>
+        </div>
+
+        <hr class="wayfinder-rule ad-scroll-marker" />
+
+        <div class="info-card ad ad-scroll">
+            
+
+
+
+
+
+
+
+<div id='div-big-box-2-7930' class='dfp-ads ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-big-box-2-7930');
+    });
+</script>
+
+
+        </div>
+    </section>
+</div>
+    
+
+    <div id="taboola-below-article-thumbnails-article-1"></div>
+</div>
+
+
+
+                
+
+                <!-- new inserted-->
+            </div>
+        
+        <div class="article-page-end">
+            
+<!--googleoff: all-->
+
+<div id="pagination" class="pagination" style="clear:both;display:none;">
+  <ul>
+    <li id="prev" class="page-prev"><a href="javascript:void(0)">Prev</a></li>
+    <li>
+      <ul>
+        <li><a href="/investing/2016/12/08/3-gold-stocks-worth-buying-in-2017.aspx" id="1">1</a></li>
+        
+        <li>
+            <a href="/investing/2016/12/27/3-stocks-to-help-you-build-retirement-wealth.aspx" id="2">2</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/27/why-2017-is-the-year-to-invest-in-oil-stocks.aspx" id="3">3</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/28/will-2017-be-energy-transfer-partners-lps-best-yea.aspx" id="4">4</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/27/eog-resources-gets-a-better-price-target-what-you.aspx" id="5">5</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/24/3-high-yield-dividend-stocks-to-buy-in-january.aspx" id="6">6</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/27/3-reasons-terraform-power-inc-stock-could-fall.aspx" id="7">7</a>
+        </li>
+        
+        <li>
+            <a href="/investing/2016/12/28/5-dividend-stocks-to-buy-in-january.aspx" id="8">8</a>
+        </li>
+        
+      </ul>
+    </li>
+    <li id="next" class="page-next"><a href="javascript:void(0)">Next</a></li>
+  </ul>
+</div>
+
+<!--googleon: all-->
+
+            
+
+<div class="compare-brokers">
+    <div class="wayfinder with-rule">
+        <hr class="wayfinder-rule" />
+        <h2>Compare Brokers</h2>
+    </div>
+    <div class="brokers-offers">
+        <div class="broker-offer-1">
+            
+
+
+
+
+
+
+
+<div id='div-broker-button-29280' class='dfp-ads broker-ad ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-broker-button-29280');
+    });
+</script>
+
+
+        </div>
+        <div class="broker-offer-2">
+             
+
+
+
+
+
+
+
+<div id='div-broker-button-7987' class='dfp-ads broker-ad ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-broker-button-7987');
+    });
+</script>
+
+
+        </div>
+        <div class="broker-offer-3">
+            
+
+
+
+
+
+
+
+<div id='div-broker-button-38111' class='dfp-ads broker-ad ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-broker-button-38111');
+    });
+</script>
+
+
+        </div>
+        <div class="broker-offer-4">
+            
+
+
+
+
+
+
+
+<div id='div-broker-button-28814' class='dfp-ads broker-ad ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-broker-button-28814');
+    });
+</script>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+            
+
+            
+            
+
+            
+
+
+
+
+
+
+
+
+
+<div id='div-Interstitial-21305' class='dfp-ads ad'></div>
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.display('div-Interstitial-21305');
+    });
+</script>
+
+
+            
+            <div class="fixed-ecap">
+                
+            </div>
+        </div>
+	</section>
+  </section>
+
+   
+
+
+            </div> <!-- ./ content-container -->
+
+            <!-- Footer section -->
+            
+                    
+                        <footer class="footer">
+	<div class="legal-text footer-links">
+	    <ul>
+	        <li><a href="//www.fool.com/legal/the-motley-fools-rules.aspx" title="Terms of Use">Terms of Use</a> </li>
+	        <li><a href="//www.fool.com/legal/privacy-statement.aspx" title="Privacy Policy">Privacy Policy</a> </li>
+	        <li><a href="//www.fool.com/legal/stuff-we-own.aspx" class="" title="Copyright, Trademark and Patent Information">Copyright, Trademark and Patent Information</a> </li>
+	        <li><a class="last" href="//www.fool.com/legal/please-read-our-terms-and-conditions.aspx" title="Terms and Conditions">Terms and Conditions</a> </li>
+	    </ul>
+	    <p class="copyright">&copy; 1995 - 2016 The Motley Fool. All rights reserved.</p>
+	</div>
+</footer>
+
+                    
+            
+
+        </div><!-- ./ page-grid-container -->
+        
+
+    </div> <!-- ./ main-container -->
+    <!-- Target for aria-describedby when link is active -->
+    <div id="currently-active-desc" style="display:none;">Current</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- facebook comments -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+     <!-- START head_js -->
+        <!-- Conditional for breaking IE8   -->
+        <!--[if IE 8]>
+        <script type="text/javascript" src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+        <script type="text/javascript">
+            Object.prototype.hasOwnProperty.call(window, name);
+            window.hasOwnProperty = window.hasOwnProperty || Object.prototype.hasOwnProperty;
+            if (!String.prototype.trim) {
+            (function() {
+            // Make sure we trim BOM and NBSP
+            var rtrim = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g;
+            String.prototype.trim = function() {
+              return this.replace(rtrim, '');
+            };
+            })();
+            }
+        </script>
+        <![endif]-->
+
+    <script type="text/javascript" src="//g.foolcdn.com/static/dubs/CACHE/js/674e3190aeb1.js" async></script>
+
+    <!-- Hotjar -->
+    
+    
+    <!-- taboola scroll -->
+    
+
+
+    <span id="twitter_title" style="display: none">themotleyfool 3 Gold Stocks Worth Buying in 2017 #stocks $AUY, $ABX, $KGC</span>
+<div id="shareButtons">
+    <script>
+        var socialShare = function(network) {
+            var url = encodeURI(window.location.href);
+            var title = document.title;
+            var twitter_title = encodeURIComponent($('#twitter_title').text());
+            var shareUrls = [];
+            shareUrls['Facebook'] = "https://facebook.com/sharer/sharer.php?u=" + url;
+            shareUrls['Twitter'] = "https://twitter.com/intent/tweet/?text=" + twitter_title + "&url=" + url;
+            shareUrls['Google+'] = "https://plus.google.com/share?url=" + url;
+            shareUrls['Tumblr'] = "http://tumblr.com/widgets/share/tool?canonicalUrl=" + url + '&shareSource=tumblr_share_button';
+            shareUrls['mailto'] = "mailto:?subject=" + title + "&body=" + url;
+            shareUrls['LinkedIn'] = "https://www.linkedin.com/shareArticle?mini=true&url=" + url + "&title=" + title + "&summary=" + title + "&source=" + url;
+
+            if (network != "mailto"){
+                analytics.ready(function() {
+                    ga('send', {
+                      hitType: 'social',
+                      socialNetwork: network,
+                      socialAction: 'like',
+                      socialTarget: window.location.href.toString()
+                    });
+                });
+            }
+
+            if (typeof(shareUrls[network]) !== "undefined") {
+                window.location = shareUrls[network];
+            }
+        };
+    </script>
+
+
+    <!-- Sharingbutton Facebook -->
+    <a class="resp-sharing-button__link" id="facebookShareButton" name="facebookShareButton" onclick="socialShare('Facebook')" target="_blank" aria-label="Share on Facebook">
+      <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.595,11.5H13.5c0,3.013,0,7,0,7h-3 c0,0,0-3.951,0-7h-2v-2h2V8.336c0-1.1,0.352-2.819,2.649-2.819L15.5,5.524V7.83c0,0-1.163,0-1.408,0 c-0.244,0-0.592,0.124-0.592,0.647V9.5h2.339L15.595,11.5z"/>
+        </svg>
+        </div></div>
+    </a>
+
+    <!-- Sharingbutton Twitter -->
+    <a class="resp-sharing-button__link" id="twitterShareButton" name="twitterShareButton" onclick="socialShare('Twitter')" target="_blank" aria-label="Share on Twitter">
+      <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M17.262,9.385 c0.006,0.113,0.008,0.226,0.008,0.34c0,3.478-2.647,7.489-7.488,7.489c-1.486,0-2.87-0.437-4.035-1.184 c1.374,0.161,2.771-0.207,3.896-1.089c-1.151-0.022-2.123-0.783-2.458-1.829c0.396,0.075,0.803,0.061,1.188-0.046 c-1.204-0.24-2.111-1.305-2.111-2.579c0-0.011,0-0.023,0-0.035c0.355,0.197,0.762,0.315,1.192,0.33 c-0.706-0.473-1.171-1.277-1.171-2.19c0-0.482,0.13-0.934,0.356-1.324c1.298,1.593,3.237,2.642,5.425,2.75 c-0.045-0.191-0.068-0.394-0.068-0.599c0-1.454,1.179-2.632,2.633-2.632c0.757,0,1.44,0.319,1.921,0.832 c0.6-0.119,1.95-0.266,1.95-0.266C18.147,7.882,17.776,9.013,17.262,9.385z"/>
+        </svg>
+        </div></div>
+    </a>
+
+    <!-- Sharingbutton Google+ -->
+    <a class="resp-sharing-button__link" id="gPlusShareButton" name="gPlusShareButton" onclick="socialShare('Google+')" target="_blank" aria-label="Share on Google+">
+      <div class="resp-sharing-button resp-sharing-button--google resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1"x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <g>
+                <path d="M12.646,8.608C12.626,7.938,12.344,7.3,11.854,6.81c-0.513-0.513-1.18-0.795-1.878-0.795c-0.627,0-1.207,0.235-1.634,0.662 C7.895,7.124,7.66,7.732,7.681,8.389c0.021,0.669,0.303,1.308,0.794,1.797c0.966,0.968,2.616,1.031,3.511,0.134 C12.433,9.873,12.667,9.265,12.646,8.608z"/>
+                <path d="M10.164,14.226c-2.155,0-3.977,0.958-3.977,2.093c0,1.135,1.821,2.092,3.977,2.092s3.976-0.958,3.976-2.092 C14.14,15.184,12.319,14.226,10.164,14.226z"/>
+                <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M10.164,19.411 c-2.791,0-4.977-1.358-4.977-3.092c0-1.734,2.186-3.093,4.977-3.093c0.832,0,1.599,0.133,2.281,0.349 c-0.58-0.392-1.257-0.858-1.311-1.692c-0.254,0.06-0.514,0.101-0.783,0.101c-0.965,0-1.883-0.387-2.584-1.089 C7.096,10.224,6.71,9.345,6.682,8.42C6.651,7.484,6.99,6.614,7.635,5.969c0.631-0.631,1.509-0.932,2.397-0.918V5h3.937v1h-1.533 c0.04,0.037,0.086,0.064,0.125,0.102c0.671,0.672,1.057,1.55,1.086,2.475c0.029,0.936-0.31,1.806-0.954,2.45 c-0.153,0.154-0.321,0.292-0.499,0.41c-0.189,0.592,0.059,0.802,0.832,1.322c0.892,0.601,2.114,1.423,2.114,3.56 C15.14,18.052,12.954,19.411,10.164,19.411z M20,10h-2v2h-1v-2h-2V9h2V7h1v2h2V10z"/>
+            </g>
+        </svg>
+        </div></div>
+    </a>
+
+    <!-- Sharingbutton Tumblr -->
+    <a class="resp-sharing-button__link" id="tumblrShareButton" name="tumblrShareButton" onclick="socialShare('Tumblr')" target="_blank" aria-label="Share on Tumblr">
+      <div class="resp-sharing-button resp-sharing-button--tumblr resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"/>
+         </svg>
+        </div></div>
+    </a>
+
+    <!-- Sharingbutton E-Mail -->
+    <a class="resp-sharing-button__link" id="emailShareButton" name="emailShareButton" onclick="socialShare('mailto')" target="_self" aria-label="Share by E-Mail">
+      <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <g>
+                <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M20,16c0,1.103-0.897,2-2,2H6 c-1.103,0-2-0.897-2-2V8c0-1.103,0.897-2,2-2h12c1.103,0,2,0.897,2,2V16z"/>
+                <path d="M17.887,8.184c-0.175-0.214-0.49-0.245-0.704-0.07L12,12.354L6.817,8.113C6.603,7.938,6.288,7.97,6.113,8.184 S5.97,8.712,6.183,8.887l3.618,2.96l-3.566,2.229c-0.234,0.147-0.306,0.455-0.159,0.689C6.171,14.917,6.334,15,6.5,15 c0.091,0,0.182-0.024,0.265-0.076l3.854-2.409l1.064,0.872C11.775,13.462,11.888,13.5,12,13.5s0.225-0.038,0.317-0.113l1.065-0.872 l3.854,2.409C17.317,14.976,17.409,15,17.5,15c0.167,0,0.33-0.083,0.425-0.235c0.146-0.234,0.075-0.542-0.159-0.689l-3.566-2.229 l3.618-2.96C18.03,8.712,18.062,8.397,17.887,8.184z"/>
+            </g>
+        </svg></div></div>
+    </a>
+
+    <!-- Sharingbutton LinkedIn -->
+    <a class="resp-sharing-button__link resp-sharing-button__link_linkedin" id="linkedinShareButton" name="linkedinShareButton" onclick="socialShare('LinkedIn')" target="_blank" aria-label="Share on LinkedIn">
+      <div class="resp-sharing-button resp-sharing-button--linkedin resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+        <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+            <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z" />
+        </svg>
+        </div></div>
+    </a>
+</div>
+
+    
+        <link rel="stylesheet" type="text/css" href="//g.foolcdn.com/mms/resources/css/release-catfish">
+
+<script>
+    var dataLayer = dataLayer || [];
+    dataLayer.push({'dubsPage': 'True'});
+</script>
+
+<div id="InfotronFeederPitch" style="display:none"></div>
+<script type="text/javascript">
+   $(document).ready(function () {
+       if (typeof (window.infotronQueue) !== "undefined") {
+           window.infotronQueue.Register('InfotronFeederPitch');
+       }
+       PitchEngine.initialize({
+           site: 'fool',
+           placement: 'feederfish',
+           pitchContainer: 'InfotronFeederPitch'
+       });
+   });
+</script>
+    
+
+    <script>
+        $(document).ready(function() {
+            if (typeof(window.InfotronQueue) !== "undefined")
+                window.InfotronQueue.EndOfPage('articlePageView');
+        });
+    </script>
+
+
+
+
+
+
+
+  <script>
+    if (typeof window.Infotrack !== "undefined")  {
+        window.Infotrack.initialize("usmf");
+    }
+  </script>
+  </body>
+
+</html>

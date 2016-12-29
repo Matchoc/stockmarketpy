@@ -33,7 +33,7 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-PRINT_LEVEL=2
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -62,6 +62,9 @@ def get_news_date(news):
 		pubdatestr = news
 	result = datetime.datetime.strptime(pubdatestr, '%a, %d %b %Y %H:%M:%S %Z')
 	return result
+	
+def utc_to_local(utc_dt):
+    return utc_dt.replace(tzinfo=datetime.timezone.utc).astimezone(tz=None)
 	
 def process_news(news, stopwords, filename):
 	newscontent = " "
@@ -465,6 +468,7 @@ def reorder_and_print_results(results):
 			line.append(result["symbol"])
 			line.append(str(result["result"][0]))
 			pubdate = get_news_date(result["news"]["pubDate"])
+			pubdate = utc_to_local(pubdate)
 			line.append(pubdate.strftime("%Y-%m-%d"))
 			line.append(pubdate.strftime("%H:%M:%S"))
 			line.append(result["news"]["title"])
@@ -482,14 +486,22 @@ def print_ordered_all_words():
 if __name__ == '__main__':
 	#train_cross_variations()
 	#update_symbol("BNS")
+	
+	# Update everything (word list, training, news, all the bang)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train", "today"])
+	
+	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
+	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	
+	# Update everything and do a cross-validation check (will printout a square mean variation)
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train", "crossval"])
+	
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
 	#update_all_symbols(["train"])
-	update_all_symbols(["train", "crossval"])
+	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today"])
 	

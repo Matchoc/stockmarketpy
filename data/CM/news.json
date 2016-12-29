@@ -187,5 +187,14 @@
         "pubDate": "Thu, 22 Dec 2016 15:17:11 GMT",
         "source": "data\\CM\\20161222.rss",
         "title": "Canadian Imperial Bank of Commerce : CM-CA: Dividend Analysis : December 28th, 2016 (record date) : By the numbers : December 22, 2016"
+    },
+    {
+        "contents": "data\\CM\\20161228-192132.news",
+        "description": null,
+        "guid": "yahoo_finance/2989086390",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=138quggih/*http://www.bloomberg.com/news/videos/2016-12-28/dodig-willing-to-wait-out-rally-on-privatebancorp-deal?cmpid=yhoo.headline",
+        "pubDate": "Wed, 28 Dec 2016 19:15:55 GMT",
+        "source": "data\\CM\\20161228.rss",
+        "title": "Dodig: Willing to Wait Out Rally on PrivateBancorp Deal"
     }
 ]

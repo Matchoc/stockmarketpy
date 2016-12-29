@@ -178,5 +178,14 @@
         "pubDate": "Wed, 09 Mar 2016 12:00:00 GMT",
         "source": "data\\MCB\\20161221.rss",
         "title": "McCoy Global Inc. Announces Fourth Quarter and Annual Results for 2015"
+    },
+    {
+        "contents": "data\\MCB\\20161228-103620.news",
+        "description": "[CNW Group] - McCoy Global Inc. to release 2015 year end results and hold conference call on March 9, 2016",
+        "guid": "yahoo_finance/2803225670",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mccoy-global-inc-release-2015-120000739.html",
+        "pubDate": "Wed, 24 Feb 2016 12:00:00 GMT",
+        "source": "data\\MCB\\20161228.rss",
+        "title": "McCoy Global Inc. to release 2015 year end results and hold conference call on March 9, 2016"
     }
 ]
