@@ -178,5 +178,23 @@
         "pubDate": "Tue, 18 Oct 2016 21:30:28 GMT",
         "source": "data\\BTO\\20161228.rss",
         "title": "B2Gold Corp.: Notice of Philippines DENR (Department of Environment and Natural Resources) Audit Results"
+    },
+    {
+        "contents": "data\\BTO\\20161230-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/3675321207",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=147si6c3k/*http://www.capitalcube.com/blog/index.php/b2gold-corp-breached-its-50-day-moving-average-in-a-bullish-manner-bto-ca-december-30-2016/",
+        "pubDate": "Fri, 30 Dec 2016 13:47:48 GMT",
+        "source": "data\\BTO\\20161230.rss",
+        "title": "B2Gold Corp. breached its 50 day moving average in a Bullish Manner : BTO-CA : December 30, 2016"
+    },
+    {
+        "contents": "data\\BTO\\20161230-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/1726506528",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13204ljpe/*http://www.fool.com/investing/2016/12/29/gold-and-silver-stocks-surge-higher-but-can-this-r.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 29 Dec 2016 23:21:09 GMT",
+        "source": "data\\BTO\\20161230.rss",
+        "title": "Gold and Silver Stocks Surge Higher, but Can This Relief Rally Last?"
     }
 ]

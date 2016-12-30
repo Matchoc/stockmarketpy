@@ -178,5 +178,32 @@
         "pubDate": "Mon, 28 Nov 2016 19:54:16 GMT",
         "source": "data\\ELD\\20161228.rss",
         "title": "How Eldorado Gold Corp (USA) (EGO) Stacks Up Against Its Peers"
+    },
+    {
+        "contents": "data\\ELD\\20161229-090015.news",
+        "description": null,
+        "guid": "yahoo_finance/4184339651",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12nl7km3r/*http://marketrealist.com/2016/12/intermediate-gold-miners-surprise-upside-production/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 12:37:01 GMT",
+        "source": "data\\ELD\\20161229.rss",
+        "title": "Could these Gold Stocks Surprise to the Upside on Production?"
+    },
+    {
+        "contents": "data\\ELD\\20161229-091546.news",
+        "description": null,
+        "guid": "yahoo_finance/4294774307",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12jgmigcb/*http://marketrealist.com/2016/12/drivers-long-term-production-growth-gold-miners/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 14:07:33 GMT",
+        "source": "data\\ELD\\20161229.rss",
+        "title": "Gold Miner Stocks: What\u2019s Driving Long-Term Production Growth?"
+    },
+    {
+        "contents": "data\\ELD\\20161230-090323.news",
+        "description": null,
+        "guid": "yahoo_finance/172145211",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/invest-gold-2017-part-5-173202336.html",
+        "pubDate": "Thu, 29 Dec 2016 17:32:02 GMT",
+        "source": "data\\ELD\\20161230.rss",
+        "title": "How to Invest in Gold in 2017 Part 5"
     }
 ]

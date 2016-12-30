@@ -187,5 +187,14 @@
         "pubDate": "Thu, 22 Dec 2016 15:17:41 GMT",
         "source": "data\\NA\\20161222.rss",
         "title": "National Bank of Canada : NA-CA: Dividend Analysis : December 28th, 2016 (record date) : By the numbers : December 22, 2016"
+    },
+    {
+        "contents": "data\\NA\\20161230-090228.news",
+        "description": null,
+        "guid": "yahoo_finance/126162295",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13bf5nign/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-national-bank-of-canada-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 19:13:48 GMT",
+        "source": "data\\NA\\20161230.rss",
+        "title": "ETFs with exposure to National Bank of Canada : December 29, 2016"
     }
 ]

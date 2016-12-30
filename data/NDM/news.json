@@ -178,5 +178,14 @@
         "pubDate": "Tue, 05 Jul 2016 22:31:01 GMT",
         "source": "data\\NDM\\20161228.rss",
         "title": "Northern Dynasty Closes $2 Million Private Placement"
+    },
+    {
+        "contents": "data\\NDM\\20161230-090327.news",
+        "description": null,
+        "guid": "yahoo_finance/1275325268",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132k6cv76/*http://www.fool.com/investing/2016/12/30/3-gold-stocks-that-could-suffer-a-meltdown-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 30 Dec 2016 13:22:16 GMT",
+        "source": "data\\NDM\\20161230.rss",
+        "title": "3 Gold Stocks That Could Suffer a Meltdown in 2017"
     }
 ]

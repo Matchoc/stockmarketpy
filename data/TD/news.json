@@ -565,5 +565,14 @@
         "pubDate": "Thu, 30 Oct 2014 22:40:12 GMT",
         "source": "data\\TD\\20161229.rss",
         "title": "High-grade posts solid US$7.2bn new issue day"
+    },
+    {
+        "contents": "data\\TD\\20161230-090031.news",
+        "description": null,
+        "guid": "yahoo_finance/3524454379",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13d4is4to/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-the-toronto-dominion-bank-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 19:39:04 GMT",
+        "source": "data\\TD\\20161230.rss",
+        "title": "ETFs with exposure to The Toronto-Dominion Bank : December 29, 2016"
     }
 ]

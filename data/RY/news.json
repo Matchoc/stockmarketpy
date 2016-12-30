@@ -781,5 +781,41 @@
         "pubDate": "Wed, 28 Dec 2016 21:58:20 GMT",
         "source": "data\\RY\\20161228.rss",
         "title": "RBC CEO McKay: Looking at City National Expansion in U.S."
+    },
+    {
+        "contents": "data\\RY\\20161230-090045.news",
+        "description": null,
+        "guid": "yahoo_finance/4281905555",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=138cfnh9f/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-royal-bank-of-canada-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 19:31:22 GMT",
+        "source": "data\\RY\\20161230.rss",
+        "title": "ETFs with exposure to Royal Bank of Canada : December 29, 2016"
+    },
+    {
+        "contents": "data\\RY\\20161230-090107.news",
+        "description": "[at noodls] - TORONTO, December 29, 2016 - RBC Global Asset Management Inc. today announced the final 2016 annual reinvested capital gains distributions for unitholders of RBC ETFs. Unitholders of record on December ...",
+        "guid": "yahoo_finance/135384097",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286kh96e/*http://www.publicnow.com/view/6B70E032B2CD2E7750B0F1100AC5922B673653EE",
+        "pubDate": "Thu, 29 Dec 2016 17:12:10 GMT",
+        "source": "data\\RY\\20161230.rss",
+        "title": "RBC Global Asset Management Inc. announces final annual reinvested capital gains distribution for RBC ETFs"
+    },
+    {
+        "contents": "data\\RY\\20161230-090107.news",
+        "description": "[CNW Group] - RBC Global Asset Management Inc. announces final annual reinvested capital gains distribution for RBC ETFs",
+        "guid": "yahoo_finance/2598587218",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-170000226.html",
+        "pubDate": "Thu, 29 Dec 2016 17:00:00 GMT",
+        "source": "data\\RY\\20161230.rss",
+        "title": "RBC Global Asset Management Inc. announces final annual reinvested capital gains distribution for RBC ETFs"
+    },
+    {
+        "contents": "data\\RY\\20161230-090109.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 29, 2016 /CNW/ - RBC Global Asset Management Inc. today announced the final 2016 annual reinvested capital gains distributions for unitholders of RBC ETFs. Unitholders of record on December ...",
+        "guid": "yahoo_finance/731863345",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-170000043.html",
+        "pubDate": "Thu, 29 Dec 2016 17:00:00 GMT",
+        "source": "data\\RY\\20161230.rss",
+        "title": "RBC Global Asset Management Inc. announces final annual reinvested capital gains distribution for RBC ETFs"
     }
 ]

@@ -459,6 +459,8 @@ def reorder_and_print_results(results):
 		title = []
 		title.append("symbol")
 		title.append("prediction $")
+		title.append("prediction %")
+		title.append("last close")
 		title.append("pudDate")
 		title.append("pudTime")
 		title.append("title")
@@ -466,7 +468,10 @@ def reorder_and_print_results(results):
 		for result in sorted_results:
 			line = []
 			line.append(result["symbol"])
+			last_close_price = get_previous_close_price(result["symbol"], result["news"])
 			line.append(str(result["result"][0]))
+			line.append(str(result["result"][0] / last_close_price * 100.0))
+			line.append(str(last_close_price))
 			pubdate = get_news_date(result["news"]["pubDate"])
 			pubdate = utc_to_local(pubdate)
 			line.append(pubdate.strftime("%Y-%m-%d"))

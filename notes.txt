@@ -20,6 +20,8 @@ Ideas for inputs (in no particular order or logic) :
  - twitter feed about ticker (symbol)
  
  todo :
+   0.5 Try to fix link errors when downloading news (user-agent, post ?)
+   0.7 Try to take all news published on a same day at once ?
    1. work on presentation (would be nice to output a table that I could import in excel and sort by price variation, percentage variation, symbol, news date, etc.)
    3. Fetch twitter feed with tag $<symbol>
    4. Create new separate machine for twitter results.

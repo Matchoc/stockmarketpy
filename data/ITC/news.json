@@ -178,5 +178,23 @@
         "pubDate": "Wed, 11 May 2016 20:08:00 GMT",
         "source": "data\\ITC\\20161221.rss",
         "title": "Intrinsyc Reports Quarterly Revenue Growth of 90% Over Prior Year"
+    },
+    {
+        "contents": "data\\ITC\\20161229-090218.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development of embedded and IoT devices and Stream TV Networks, Inc. , a Philadelphia-based new media company (privately...",
+        "guid": "yahoo_finance/1554510682",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-technologies-tsx-itc-otc-140000804.html",
+        "pubDate": "Thu, 29 Dec 2016 14:00:00 GMT",
+        "source": "data\\ITC\\20161229.rss",
+        "title": "Intrinsyc Technologies (TSX: ITC) (OTC: ISYRF) and Stream TV Networks Extend Strategic Relationship"
+    },
+    {
+        "contents": "data\\ITC\\20161230-090211.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development and production of embedded and Internet of Things products, today announced the Company received...",
+        "guid": "yahoo_finance/1389308155",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-announces-client-launching-commercial-140000530.html",
+        "pubDate": "Fri, 30 Dec 2016 14:00:00 GMT",
+        "source": "data\\ITC\\20161230.rss",
+        "title": "Intrinsyc Announces New Client Launching Commercial Product Powered by Intrinsyc's Open-Q(TM) 410 System On Module (\"SOM\") and Product Development Services Agreement"
     }
 ]

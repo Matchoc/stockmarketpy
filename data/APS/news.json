@@ -178,5 +178,59 @@
         "pubDate": "Wed, 11 May 2016 16:20:58 GMT",
         "source": "data\\APS\\20161221.rss",
         "title": "Edited Transcript of APS.TO earnings conference call or presentation 10-May-16 9:00pm GMT"
+    },
+    {
+        "contents": "data\\APS\\20161229-090133.news",
+        "description": null,
+        "guid": "yahoo_finance/3243267234",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-aps-131500725.html",
+        "pubDate": "Thu, 29 Dec 2016 13:15:00 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "IIROC Trade Resumption - APS"
+    },
+    {
+        "contents": "data\\APS\\20161229-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/2360291799",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-aps-131500177.html",
+        "pubDate": "Thu, 29 Dec 2016 13:15:00 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "IIROC Trade Resumption - APS"
+    },
+    {
+        "contents": "data\\APS\\20161229-090137.news",
+        "description": null,
+        "guid": "yahoo_finance/2094534205",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-aps-131300858.html",
+        "pubDate": "Thu, 29 Dec 2016 13:13:00 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "IIROC Trading Halt - APS"
+    },
+    {
+        "contents": "data\\APS\\20161229-090138.news",
+        "description": null,
+        "guid": "yahoo_finance/675417445",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-aps-131300757.html",
+        "pubDate": "Thu, 29 Dec 2016 13:13:00 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "IIROC Trading Halt - APS"
+    },
+    {
+        "contents": "data\\APS\\20161229-090140.news",
+        "description": "[at noodls] - SAN DIEGO and TORONTO, Dec. 29, 2016 (GLOBE NEWSWIRE) -- Aptose Biosciences Inc. (NASDAQ:APTO) (TSX:APS), a clinical-stage company developing new therapeutics and molecular diagnostics that target the ...",
+        "guid": "yahoo_finance/1100804183",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288r4amj/*http://www.publicnow.com/view/8A18673E1ABB702102DDA568BF712F4A7207A6CC",
+        "pubDate": "Thu, 29 Dec 2016 13:12:08 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "Aptose Biosciences Provides Update on APTO-253 Development"
+    },
+    {
+        "contents": "data\\APS\\20161229-090140.news",
+        "description": "[GlobeNewswire] - SAN DIEGO and TORONTO, Dec. 29, 2016-- Aptose Biosciences Inc., a clinical-stage company developing new therapeutics and molecular diagnostics that target the underlying mechanisms of cancer, today provided ...",
+        "guid": "yahoo_finance/3642804434",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/aptose-biosciences-provides-apto-253-130000215.html",
+        "pubDate": "Thu, 29 Dec 2016 13:00:00 GMT",
+        "source": "data\\APS\\20161229.rss",
+        "title": "Aptose Biosciences Provides Update on APTO-253 Development"
     }
 ]

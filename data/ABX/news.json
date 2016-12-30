@@ -178,5 +178,68 @@
         "pubDate": "Fri, 09 Dec 2016 13:06:14 GMT",
         "source": "data\\ABX\\20161228.rss",
         "title": "A Look at the Volatilities of Mining Companies"
+    },
+    {
+        "contents": "data\\ABX\\20161229-090109.news",
+        "description": null,
+        "guid": "yahoo_finance/4223133586",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12junjk44/*http://marketrealist.com/2016/12/can-barrick-gold-continue-outperform-peers-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 13:56:11 GMT",
+        "source": "data\\ABX\\20161229.rss",
+        "title": "Can Barrick Gold Continue to Outperform Its Peers in 2017?"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090224.news",
+        "description": null,
+        "guid": "yahoo_finance/1614196798",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dk427dr/*http://www.capitalcube.com/blog/index.php/barrick-gold-corp-breached-its-50-day-moving-average-in-a-bullish-manner-abx-ca-december-30-2016/",
+        "pubDate": "Fri, 30 Dec 2016 13:50:13 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "Barrick Gold Corp. breached its 50 day moving average in a Bullish Manner : ABX-CA : December 30, 2016"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090224.news",
+        "description": null,
+        "guid": "yahoo_finance/1959270552",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12mrse8tf/*http://marketrealist.com/2016/12/barricks-superior-cost-profile-positions-well-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 30 Dec 2016 12:37:26 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "Why Barrick\u2019s Superior Cost Profile Bodes Well for 2017"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090224.news",
+        "description": null,
+        "guid": "yahoo_finance/562846593",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12sanok7i/*https://www.thestreet.com/story/13938971/1/a-breakout-could-be-ahead-for-barrick-gold.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Fri, 30 Dec 2016 11:22:00 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "A Breakout Could Be Ahead for Barrick Gold"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090225.news",
+        "description": null,
+        "guid": "yahoo_finance/926353369",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12cbi985g/*http://marketrealist.com/2016/12/volatility-among-miners-in-december-2016/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 19:15:31 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "Volatility Among Miners in December 2016"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090225.news",
+        "description": null,
+        "guid": "yahoo_finance/1603172660",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12n1d5a1b/*http://marketrealist.com/2016/12/investors-still-worried-barricks-financial-leverage/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 17:05:28 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "Should Investors Still Be Worried about Barrick\u2019s Debt?"
+    },
+    {
+        "contents": "data\\ABX\\20161230-090226.news",
+        "description": null,
+        "guid": "yahoo_finance/3081904991",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12po022ii/*http://marketrealist.com/2016/12/barrick-gold-positioned-grow-production-going-forward/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 29 Dec 2016 15:38:32 GMT",
+        "source": "data\\ABX\\20161230.rss",
+        "title": "Is Barrick Gold Positioned Well to Increase Its Production?"
     }
 ]

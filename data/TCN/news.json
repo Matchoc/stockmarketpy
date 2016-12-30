@@ -187,5 +187,14 @@
         "pubDate": "Tue, 27 Dec 2016 15:07:15 GMT",
         "source": "data\\TCN\\20161227.rss",
         "title": "Research Reports Initiated on Financials Stocks CI Financial, IGM Financial, and Tricon Capital Group"
+    },
+    {
+        "contents": "data\\TCN\\20161230-090215.news",
+        "description": null,
+        "guid": "yahoo_finance/427982360",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14t5h60v9/*http://www.capitalcube.com/blog/index.php/tricon-capital-group-inc-tcn-ca-dividend-analysis-december-31st-2016-record-date-by-the-numbers-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 17:10:13 GMT",
+        "source": "data\\TCN\\20161230.rss",
+        "title": "Tricon Capital Group, Inc. : TCN-CA: Dividend Analysis : December 31st, 2016 (record date) : By the numbers : December 29, 2016"
     }
 ]

@@ -286,5 +286,68 @@
         "pubDate": "Fri, 23 Dec 2016 17:20:00 GMT",
         "source": "data\\NVC\\20161226.rss",
         "title": "IIROC Trading Halt - NVC"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090307.news",
+        "description": null,
+        "guid": "yahoo_finance/1322850748",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-2q-loss-203538108.html",
+        "pubDate": "Tue, 09 Aug 2016 20:35:38 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 2Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090309.news",
+        "description": null,
+        "guid": "yahoo_finance/632742996",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-1q-loss-105337642.html",
+        "pubDate": "Fri, 29 Apr 2016 10:53:37 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 1Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090311.news",
+        "description": null,
+        "guid": "yahoo_finance/2705723698",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-4q-loss-211542089.html",
+        "pubDate": "Tue, 29 Mar 2016 21:15:42 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 4Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090313.news",
+        "description": null,
+        "guid": "yahoo_finance/2999260513",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-3q-loss-112529435.html",
+        "pubDate": "Mon, 09 Nov 2015 11:25:29 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 3Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090314.news",
+        "description": null,
+        "guid": "yahoo_finance/3032009664",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-2q-loss-114256560.html",
+        "pubDate": "Thu, 06 Aug 2015 11:42:56 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 2Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090316.news",
+        "description": null,
+        "guid": "yahoo_finance/915401624",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-1q-loss-112449435.html",
+        "pubDate": "Tue, 12 May 2015 11:24:49 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 1Q loss"
+    },
+    {
+        "contents": "data\\NVC\\20161230-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/1632079849",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/neovasc-reports-4q-loss-111847689.html",
+        "pubDate": "Mon, 30 Mar 2015 11:18:47 GMT",
+        "source": "data\\NVC\\20161230.rss",
+        "title": "Neovasc reports 4Q loss"
     }
 ]

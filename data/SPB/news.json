@@ -376,5 +376,14 @@
         "pubDate": "Fri, 08 Apr 2016 06:44:13 GMT",
         "source": "data\\SPB\\20161229.rss",
         "title": "Superior Plus Announces April 2016 Cash Dividend and Upcoming Events"
+    },
+    {
+        "contents": "data\\SPB\\20161230-090043.news",
+        "description": null,
+        "guid": "yahoo_finance/425113956",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14nen9d80/*http://www.capitalcube.com/blog/index.php/superior-plus-corp-spb-ca-dividend-analysis-december-31st-2016-record-date-by-the-numbers-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 17:25:33 GMT",
+        "source": "data\\SPB\\20161230.rss",
+        "title": "Superior Plus Corp. : SPB-CA: Dividend Analysis : December 31st, 2016 (record date) : By the numbers : December 29, 2016"
     }
 ]

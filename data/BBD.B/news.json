@@ -178,5 +178,32 @@
         "pubDate": "Mon, 19 Dec 2016 16:37:53 GMT",
         "source": "data\\BBD.B\\20161228.rss",
         "title": "CANADA STOCKS-TSX rises for 3rd straight day; industrials, materials gain"
+    },
+    {
+        "contents": "data\\BBD.B\\20161229-090040.news",
+        "description": null,
+        "guid": "yahoo_finance/1518897345",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-austrian-federal-railways-sign-103102825.html",
+        "pubDate": "Thu, 29 Dec 2016 10:31:02 GMT",
+        "source": "data\\BBD.B\\20161229.rss",
+        "title": "Bombardier and Austrian Federal Railways Sign Framework Agreement for up to 300 TALENT 3 Trains"
+    },
+    {
+        "contents": "data\\BBD.B\\20161229-090042.news",
+        "description": null,
+        "guid": "yahoo_finance/3646089820",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-signs-300-train-deal-102631570.html",
+        "pubDate": "Thu, 29 Dec 2016 10:26:31 GMT",
+        "source": "data\\BBD.B\\20161229.rss",
+        "title": "Bombardier signs 300-train deal with Austrian Federal Railways"
+    },
+    {
+        "contents": "data\\BBD.B\\20161229-090043.news",
+        "description": "[Marketwired] - Note to editors: To view the photos associated with this press release, please visit the following links:",
+        "guid": "yahoo_finance/220608137",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-austrian-federal-railways-sign-093000282.html",
+        "pubDate": "Thu, 29 Dec 2016 09:30:00 GMT",
+        "source": "data\\BBD.B\\20161229.rss",
+        "title": "Bombardier and Austrian Federal Railways Sign Framework Agreement for up to 300 TALENT 3 Trains"
     }
 ]
