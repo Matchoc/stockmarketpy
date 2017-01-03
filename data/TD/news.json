@@ -574,5 +574,14 @@
         "pubDate": "Thu, 29 Dec 2016 19:39:04 GMT",
         "source": "data\\TD\\20161230.rss",
         "title": "ETFs with exposure to The Toronto-Dominion Bank : December 29, 2016"
+    },
+    {
+        "contents": "data\\TD\\20170102-090210.news",
+        "description": "[at Financial Times] - Wells Fargo increased income from overdraft charges at more than five times the rate of its US bank peers in the third quarter - a finding that is likely to concern the consumer banking regulator as it ...",
+        "guid": "yahoo_finance/3737982973",
+        "link": "http://us.rd.yahoo.com/finance/external/ft/rss/SIG=1297fbjdl/*http://www.ft.com/cms/s/877632a2-ce99-11e6-864f-20dcb35cede2,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev",
+        "pubDate": "Mon, 02 Jan 2017 10:51:40 GMT",
+        "source": "data\\TD\\20170102.rss",
+        "title": "[$$] Wells Fargo's overdraft income surges ahead of rivals"
     }
 ]

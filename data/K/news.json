@@ -457,5 +457,14 @@
         "pubDate": "Thu, 29 Dec 2016 21:05:38 GMT",
         "source": "data\\K\\20161230.rss",
         "title": "Analyzing the Correlation of Mining Stocks"
+    },
+    {
+        "contents": "data\\K\\20161231-090134.news",
+        "description": null,
+        "guid": "yahoo_finance/826618371",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12av45ibi/*http://marketrealist.com/2016/12/reading-correlation-mining-stocks-2016/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 30 Dec 2016 21:35:29 GMT",
+        "source": "data\\K\\20161231.rss",
+        "title": "Analyzing Mining Stocks\u2019 Correlation in 2016"
     }
 ]

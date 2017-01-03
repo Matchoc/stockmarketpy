@@ -178,5 +178,14 @@
         "pubDate": "Fri, 21 Oct 2016 12:59:54 GMT",
         "source": "data\\RIC\\20161221.rss",
         "title": "Richmont Mines, Inc. breached its 50 day moving average in a Bullish Manner : RIC-CA : October 21, 2016"
+    },
+    {
+        "contents": "data\\RIC\\20161231-090038.news",
+        "description": null,
+        "guid": "yahoo_finance/1242933017",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13eak0v2r/*http://www.capitalcube.com/blog/index.php/richmont-mines-inc-leads-amongst-peers-with-strong-fundamentals-3/",
+        "pubDate": "Fri, 30 Dec 2016 20:32:56 GMT",
+        "source": "data\\RIC\\20161231.rss",
+        "title": "Richmont Mines, Inc.: Leads amongst peers with strong fundamentals"
     }
 ]

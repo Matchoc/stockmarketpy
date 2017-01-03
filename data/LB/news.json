@@ -187,5 +187,14 @@
         "pubDate": "Tue, 27 Dec 2016 18:17:57 GMT",
         "source": "data\\LB\\20161227.rss",
         "title": "ETFs with exposure to Laurentian Bank of Canada : December 27, 2016"
+    },
+    {
+        "contents": "data\\LB\\20161231-090250.news",
+        "description": null,
+        "guid": "yahoo_finance/3183841255",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14s1ki330/*http://www.capitalcube.com/blog/index.php/laurentian-bank-of-canada-lb-ca-dividend-analysis-january-03rd-2017-record-date-by-the-numbers-december-30-2016/",
+        "pubDate": "Fri, 30 Dec 2016 15:20:35 GMT",
+        "source": "data\\LB\\20161231.rss",
+        "title": "Laurentian Bank of Canada : LB-CA: Dividend Analysis : January 03rd, 2017 (record date) : By the numbers : December 30, 2016"
     }
 ]

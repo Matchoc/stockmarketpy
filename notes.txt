@@ -13,11 +13,17 @@ Externals wishes :
 Ideas for inputs (in no particular order or logic) :
  - Positive or negative news rating
  - "age" of news (expressed as a number of days since trading result ?)
- - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)
- - average price over the last 2 days, 5 days, 1 years, 5 years ?
+ - O - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)
+ - O - average price over the last 2 days, 5 days, 1 years, 5 years ?
  - number of days going up/going down
  - market cap vs share value
+   - earnings per share (EPS) /  free cash flow per share is used as an alternative measure of earnings power
+   - Valuation or Price per Share ratio
  - twitter feed about ticker (symbol)
+ - (for canada stock) value of the Canadian dollar
+ - (for canada stock) Interest rates, taux directeur
+ - Inflation ?
+ - Dividend % ?
  
  todo :
    0.5 Try to fix link errors when downloading news (user-agent, post ?)

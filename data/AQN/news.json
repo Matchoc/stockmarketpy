@@ -223,5 +223,23 @@
         "pubDate": "Thu, 29 Dec 2016 17:11:59 GMT",
         "source": "data\\AQN\\20161230.rss",
         "title": "Algonquin Power & Utilities Corp. : AQN-CA: Dividend Analysis : December 31st, 2016 (record date) : By the numbers : December 29, 2016"
+    },
+    {
+        "contents": "data\\AQN\\20170102-090049.news",
+        "description": "[at noodls] - OAKVILLE,ON, Jan. 1, 2017 /CNW/ - Algonquin Power & Utilities Corp. ('APUC') (TSX: AQN, NYSE: AQN) announced today that a subsidiary of Liberty Utilities Co. ('Liberty Utilities'), APUC's wholly-owned ...",
+        "guid": "yahoo_finance/1111463177",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fm8gp7/*http://www.publicnow.com/view/65C6C3A72270374AB4CD019B77A4A35691F1EA2B",
+        "pubDate": "Sun, 01 Jan 2017 16:22:09 GMT",
+        "source": "data\\AQN\\20170102.rss",
+        "title": "Algonquin Power & Utilities Corp. Completes Acquisition of The Empire District Electric Company"
+    },
+    {
+        "contents": "data\\AQN\\20170102-090049.news",
+        "description": "[PR Newswire] - OAKVILLE,ON, Jan. 1, 2017 /PRNewswire/ - Algonquin Power & Utilities Corp. (\"APUC\") (TSX: AQN, NYSE: AQN) announced today that a subsidiary of Liberty Utilities Co. (\"Liberty Utilities\"), APUC's wholly-owned regulated utility business, successfully completed its acquisition of The Empire District Electric Company (\"Empire\") for an aggregate purchase price of approximately Cdn$3.2 billion (the \"Transaction\"). Empire is now a wholly-owned subsidiary of Liberty Utilities and will cease to be a publicly-held corporation.",
+        "guid": "yahoo_finance/181317348",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/algonquin-power-utilities-corp-completes-150000844.html",
+        "pubDate": "Sun, 01 Jan 2017 15:00:00 GMT",
+        "source": "data\\AQN\\20170102.rss",
+        "title": "Algonquin Power & Utilities Corp. Completes Acquisition of The Empire District Electric Company"
     }
 ]

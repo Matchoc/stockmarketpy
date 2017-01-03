@@ -241,5 +241,14 @@
         "pubDate": "Thu, 29 Dec 2016 15:38:32 GMT",
         "source": "data\\ABX\\20161230.rss",
         "title": "Is Barrick Gold Positioned Well to Increase Its Production?"
+    },
+    {
+        "contents": "data\\ABX\\20161231-090200.news",
+        "description": null,
+        "guid": "yahoo_finance/3780293445",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ugsse6o/*http://marketrealist.com/2016/12/barrick-gold-looks-undervalued-current-valuation-multiples/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 30 Dec 2016 14:06:50 GMT",
+        "source": "data\\ABX\\20161231.rss",
+        "title": "Does Barrick Gold Look Undervalued at Current Valuation Multiples?"
     }
 ]

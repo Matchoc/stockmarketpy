@@ -205,5 +205,14 @@
         "pubDate": "Thu, 29 Dec 2016 17:32:02 GMT",
         "source": "data\\ELD\\20161230.rss",
         "title": "How to Invest in Gold in 2017 Part 5"
+    },
+    {
+        "contents": "data\\ELD\\20161231-090206.news",
+        "description": null,
+        "guid": "yahoo_finance/1414984775",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12n7t0tik/*http://marketrealist.com/2016/12/gold-miners-financial-health-looking-like-post-3q16/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 30 Dec 2016 14:06:32 GMT",
+        "source": "data\\ELD\\20161231.rss",
+        "title": "Analyzing Gold Stocks\u2019 Health after 3Q16"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Wed, 07 Dec 2016 13:30:00 GMT",
         "source": "data\\MFC\\20161228.rss",
         "title": "Manulife Recognized as One of the Best Places to Work in Canada by Glassdoor"
+    },
+    {
+        "contents": "data\\MFC\\20161231-090225.news",
+        "description": "[PR Newswire] - This notice provides shareholders of the John Hancock Hedged Equity & Income Fund (HEQ) with important information concerning the distribution declared on December 1, 2016, and payable on December 30, 2016.",
+        "guid": "yahoo_finance/3185120523",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-hedged-equity-income-211600997.html",
+        "pubDate": "Fri, 30 Dec 2016 21:16:00 GMT",
+        "source": "data\\MFC\\20161231.rss",
+        "title": "John Hancock Hedged Equity & Income Fund Required Notice to Shareholders - Sources of Distribution Under Section 19(a)"
     }
 ]

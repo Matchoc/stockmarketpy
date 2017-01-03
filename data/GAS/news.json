@@ -7,5 +7,14 @@
         "pubDate": "Tue, 20 Dec 2016 00:02:00 GMT",
         "source": "data\\GAS\\20161221.rss",
         "title": "Auspice Capital Advisors Announces Estimated 2016 Non-Cash Distribution for GAS"
+    },
+    {
+        "contents": "data\\GAS\\20161231-090111.news",
+        "description": null,
+        "guid": "yahoo_finance/162905242",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/auspice-capital-advisors-confirms-2016-002100696.html",
+        "pubDate": "Sat, 31 Dec 2016 00:21:00 GMT",
+        "source": "data\\GAS\\20161231.rss",
+        "title": "Auspice Capital Advisors Confirms 2016 Annual Non-Cash Distribution for GAS"
     }
 ]

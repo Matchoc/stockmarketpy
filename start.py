@@ -1,69 +1,39 @@
-import matplotlib.pyplot as plt
-from eveclicker import * #import eveclicker
-import numpy
+import urllib.request
+import urllib.error
 import sys
-from time import sleep
+
+PRINT_LEVEL=1
+def myprint(str, level=0):
+	if (level >= PRINT_LEVEL):
+		print(str)
+		
+def downloadURL(url):
+	try:
+		req = urllib.request.Request(url)
+		req.add_header('Referer', 'http://us.rd.yahoo.com/')
+		req.add_header('User-Agent', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.1 \
+				  (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1')
+		resp = urllib.request.urlopen(req)
+		data = resp.read()
+		#response = urllib.request.urlopen(url)
+		#data = response.read()      # a `bytes` object
+		myprint(data,0)
+		text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
+	except urllib.error.HTTPError as e:
+		myprint("URL failed : " + str(e.code) + " " + e.reason, 5)
+		myprint("HEADER : " + str(e.headers), 1)
+		return ""
+	except UnicodeDecodeError as e:
+		myprint("URL failed : Response not unicode", 5)
+		return ""
+	return text
 
 if __name__ == '__main__':
 	
-	#a = {"bleh":2}
-	#b = list(a.keys())
-	#print(b[0])
-	#sys.exit()
+	#url = "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vmbevt/*http://www.publicnow.com/view/E91D6AF150102C9807B2BEC95303A5AF8B07FFBB"
+	#url = "http://www.publicnow.com/view/E91D6AF150102C9807B2BEC95303A5AF8B07FFBB"
+	#url = "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sqfhpf/*http://www.publicnow.com/view/E1D28FD954712D35E493604B4084802ED959120B"
+	url = "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qmscvv/*http://www.publicnow.com/view/0E2EA80E075F31A37B2F862C566EF1E0D5BB3CE5"
+	text = downloadURL(url)
+	print(text)
 	
-	#handle = getWindowByTitle("EVE - Miss Tadaruwa", True)
-	handle = getWindowByTitle("Paint", False)
-	updateEveScreen(handle[0])
-	initScreenButtons()
-	data = {}
-	performTests(data)
-	print(data["features"]["ratio_outer_brigthness_to_center_brightness_nuclei"])
-	
-	sys.exit()
-
-	#a = boardToDebugRender(data["processing"]["binaryList"])
-	a = colorize(data["processing"]["greenFeatures"])
-	
-	a = numpy.array(a)
-	a = a.reshape(395,395)
-	plt.imshow(a)
-	#<matplotlib.image.AxesImage object at 0x04123CD0>
-	plt.show()
-	
-	sys.exit()
-	plt.plot(x, y, 'ro', xperim, yperim, 'g^')
-	#plt.plot(xperim, yperim, 'g^')
-	plt.axis([335, 345, 295, 305])
-	plt.show()		
-	
-	
-	
-	handle = getWindowByTitle("Paint", False)
-	updateEveScreen(handle[0])
-	print(getEveScreen()[0:2])
-	blurImage(5)
-	a = getEveScreenNumpy()
-	#a = numpy.array(a)
-	#a = a.reshape(getEveScreenHeight(), getEveScreenWidth(), 3)
-	plt.imshow(a)
-	plt.show()
-	print(getEveScreenNumpy())
-	
-	sys.exit()
-	
-	#handle = getWindowByTitle("EVE - Sir Tsukaya", True)
-	#handle = getWindowByTitle("Paint", False)
-	#updateEveScreen(handle[0])
-	#initScreenButtons()
-	#data = ProcessData()
-	#performTests(data)
-	
-	#a = colorize(data.greenFeatures)
-	
-	#a = numpy.array(a)
-	#a = a.reshape(395,395)
-	#plt.imshow(a)
-	#<matplotlib.image.AxesImage object at 0x04123CD0>
-	#plt.show()
-	
-	#print(str(data))

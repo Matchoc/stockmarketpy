@@ -196,5 +196,14 @@
         "pubDate": "Fri, 30 Dec 2016 14:00:00 GMT",
         "source": "data\\ITC\\20161230.rss",
         "title": "Intrinsyc Announces New Client Launching Commercial Product Powered by Intrinsyc's Open-Q(TM) 410 System On Module (\"SOM\") and Product Development Services Agreement"
+    },
+    {
+        "contents": "data\\ITC\\20161231-090128.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development and production of embedded and Internet of Things products, today announced the introduction of the...",
+        "guid": "yahoo_finance/212480284",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-technologies-introduces-next-generation-215944743.html",
+        "pubDate": "Fri, 30 Dec 2016 21:59:44 GMT",
+        "source": "data\\ITC\\20161231.rss",
+        "title": "Intrinsyc Technologies Introduces Next Generation System on Module based on Qualcomm Snapdragon 820 Processor"
     }
 ]

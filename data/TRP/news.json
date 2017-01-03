@@ -187,5 +187,14 @@
         "pubDate": "Wed, 23 Nov 2016 20:47:08 GMT",
         "source": "data\\TRP\\20161222.rss",
         "title": "Trump Aides Eye Reviving Keystone by Rescinding LBJ\u2019s Order"
+    },
+    {
+        "contents": "data\\TRP\\20170102-090053.news",
+        "description": null,
+        "guid": "yahoo_finance/853230916",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12qn3pa01/*http://www.fool.com/investing/2016/12/31/5-biggest-oil-and-gas-acquisitions-of-2016.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Sun, 01 Jan 2017 17:38:16 GMT",
+        "source": "data\\TRP\\20170102.rss",
+        "title": "5 Biggest Oil and Gas Acquisitions of 2016"
     }
 ]
