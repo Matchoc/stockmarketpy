@@ -37,7 +37,7 @@ def get_yahoo_rss_url(symbol):
 def get_news_json_path(symbol):
 	return os.path.join(DATA_FOLDER, symbol, "news.json")
 
-PRINT_LEVEL=1
+PRINT_LEVEL=3
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)

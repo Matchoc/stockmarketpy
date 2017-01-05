@@ -205,5 +205,14 @@
         "pubDate": "Fri, 23 Dec 2016 13:05:54 GMT",
         "source": "data\\T\\20161226.rss",
         "title": "TELUS Corp. breached its 50 day moving average in a Bullish Manner : T-CA : December 23, 2016"
+    },
+    {
+        "contents": "data\\T\\20170105-065948.news",
+        "description": "[at noodls] - Hudson's Hope, B.C. - As part of a strategic partnership with the Province, TELUS has invested $1 million to build a new wireless site along Highway 29, bringing wireless service to approximately 23 kilometers ...",
+        "guid": "yahoo_finance/3981972328",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12822gqs3/*http://www.publicnow.com/view/B2465B3503AD4AF790A970E38C7ECA41ADC0A633",
+        "pubDate": "Wed, 04 Jan 2017 17:03:12 GMT",
+        "source": "data\\T\\20170105.rss",
+        "title": "TELUS invests $1 million to bring wireless service to Highway 29 between Hudson\u2019s Hope and the Highway 97 Junction"
     }
 ]

@@ -547,5 +547,50 @@
         "pubDate": "Tue, 03 Jan 2017 21:45:41 GMT",
         "source": "data\\ECA\\20170104.rss",
         "title": "CANADA STOCKS-TSX rises at start of 2017, touches 20-month high"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/1607089522",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=11na84aam/*http://www.wsj.com/articles/business-watch-1483581405?ru=yahoo?mod=yahoo_itp",
+        "pubDate": "Thu, 05 Jan 2017 05:24:41 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Business Watch"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/3969856675",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132oeeec3/*http://www.fool.com/investing/2017/01/04/why-encana-acadia-pharmaceuticals-and-tenet-health.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Wed, 04 Jan 2017 23:17:00 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Why Encana, Acadia Pharmaceuticals, and Tenet Healthcare Jumped Today"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/1284908315",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-extends-20-153417387.html",
+        "pubDate": "Wed, 04 Jan 2017 15:34:17 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "CANADA STOCKS-TSX extends 20-month high; financials, industrials rise"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070029.news",
+        "description": null,
+        "guid": "yahoo_finance/3012873959",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-industrials-143803629.html",
+        "pubDate": "Wed, 04 Jan 2017 14:38:03 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "CANADA STOCKS-TSX rises with industrials, materials; Encana jumps"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070031.news",
+        "description": null,
+        "guid": "yahoo_finance/3948020346",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12isvdegv/*http://blogs.wsj.com/moneybeat/2017/01/04/stocks-to-watch-encana-unifirst-coach/?mod=yahoo_hs",
+        "pubDate": "Wed, 04 Jan 2017 14:19:21 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Stocks to Watch: Encana, Unifirst, Coach"
     }
 ]

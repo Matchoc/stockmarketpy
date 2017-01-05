@@ -529,5 +529,14 @@
         "pubDate": "Wed, 04 Jan 2017 14:00:00 GMT",
         "source": "data\\CM\\20170104.rss",
         "title": "Media Advisory - CIBC's Victor Dodig to Speak at RBC's 2017 Canadian Bank CEO Conference"
+    },
+    {
+        "contents": "data\\CM\\20170105-065956.news",
+        "description": null,
+        "guid": "yahoo_finance/1783421275",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13k3civ8j/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-canadian-imperial-bank-of-commerce-january-4-2017/",
+        "pubDate": "Wed, 04 Jan 2017 15:47:11 GMT",
+        "source": "data\\CM\\20170105.rss",
+        "title": "ETFs with exposure to Canadian Imperial Bank of Commerce : January 4, 2017"
     }
 ]

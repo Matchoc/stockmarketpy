@@ -33,7 +33,7 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-PRINT_LEVEL=1
+PRINT_LEVEL=3
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -301,7 +301,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=400, batch_size=590)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=4000)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -374,7 +374,7 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		passed_data = {}
 		passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
 		passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
-		train_machine(data, 0.0005, (180,25))
+		train_machine(data, 0.0005, (180,30))
 		
 	if "crossval" in steps:
 		passed_data = {}
@@ -387,11 +387,11 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		
 def train_cross_variations():
 	alphas = [0.5, 0.05, 0.005, 0.0005, 0.00005]
-	hiddens = [(150, 150), (350, 350), (100, 100), (175,175), (150,150,150)]
+	hiddens = [(150, 29), (180, 30), (150, 150), (350, 350), (100, 100), (175,175), (150,150,150)]
 	
 	data = get_all_Xy()
 	per = 0.7
-	myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 3)
+	myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 4)
 	#for alpha in alphas:
 	#	passed_data = {}
 	#	passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
@@ -402,17 +402,18 @@ def train_cross_variations():
 	#	passed_data["y"] = data["y"][int(len(data["X"]) * per):]
 	#	cross_validate(data)
 	#	myprint("------------------------",3)
-		
-	for hidden in hiddens:
-		passed_data = {}
-		passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
-		passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
-		train_machine(data, 0.0005, hidden)
-		passed_data = {}
-		passed_data["X"] = data["X"][int(len(data["X"]) * per):]
-		passed_data["y"] = data["y"][int(len(data["X"]) * per):]
-		cross_validate(data)
-		myprint("------------------------",3)
+	
+	for alpha in alphas:
+		for hidden in hiddens:
+			passed_data = {}
+			passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
+			passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
+			train_machine(data, alpha, hidden)
+			passed_data = {}
+			passed_data["X"] = data["X"][int(len(data["X"]) * per):]
+			passed_data["y"] = data["y"][int(len(data["X"]) * per):]
+			cross_validate(data)
+			myprint("------------------------", 4)
 	
 def get_most_recent_news_X(symbol, data):
 	newspath = get_news_json_path(symbol)
@@ -529,7 +530,7 @@ if __name__ == '__main__':
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
+	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
@@ -542,7 +543,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
 	#update_all_symbols(["train"])
-	update_all_symbols(["train", "crossval"])
+	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today"])
 	

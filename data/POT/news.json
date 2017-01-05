@@ -790,5 +790,14 @@
         "pubDate": "Wed, 18 Mar 2015 20:15:20 GMT",
         "source": "data\\POT\\20161229.rss",
         "title": "Saskatchewan sees slim 2015-16 surplus, hikes potash taxes"
+    },
+    {
+        "contents": "data\\POT\\20170105-065911.news",
+        "description": "[at noodls] - Rocanville will be the first Saskatchewan mine to use a new methodology to measure post-expansion productive capacity to establish its Canpotex sales allocation, following a change approved by Canpotex's ...",
+        "guid": "yahoo_finance/3362571790",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287sor8m/*http://www.publicnow.com/view/AB82E820EE1265BB61D91E5CF342339438532612",
+        "pubDate": "Wed, 04 Jan 2017 18:13:06 GMT",
+        "source": "data\\POT\\20170105.rss",
+        "title": "Rocanville Using New Method to Prove Increased Productive Capacity for Canpotex"
     }
 ]
