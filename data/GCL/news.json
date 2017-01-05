@@ -178,5 +178,14 @@
         "pubDate": "Wed, 29 Apr 2015 14:15:42 GMT",
         "source": "data\\GCL\\20161221.rss",
         "title": "Colabor Group reports 1Q loss"
+    },
+    {
+        "contents": "data\\GCL\\20170103-090224.news",
+        "description": null,
+        "guid": "yahoo_finance/762660352",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-futures-slip-130730043.html",
+        "pubDate": "Fri, 13 Mar 2015 13:07:30 GMT",
+        "source": "data\\GCL\\20170103.rss",
+        "title": "CANADA STOCKS-TSX futures slip further after unemployment data"
     }
 ]

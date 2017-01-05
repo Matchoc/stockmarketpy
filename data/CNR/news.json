@@ -196,5 +196,23 @@
         "pubDate": "Tue, 27 Dec 2016 14:06:11 GMT",
         "source": "data\\CNR\\20161227.rss",
         "title": "Fall in Coal Volumes Pulls down Canadian National\u2019s Carloads"
+    },
+    {
+        "contents": "data\\CNR\\20170103-090308.news",
+        "description": null,
+        "guid": "yahoo_finance/2891997310",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=136nffj8t/*http://marketrealist.com/2016/12/coal-volume-declines-limit-the-rise-in-canadian-nationals-carloads/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 03 Jan 2017 12:36:40 GMT",
+        "source": "data\\CNR\\20170103.rss",
+        "title": "Coal Volume Declines Limit the Rise in Canadian National\u2019s Carloads"
+    },
+    {
+        "contents": "data\\CNR\\20170104-090334.news",
+        "description": null,
+        "guid": "yahoo_finance/671499769",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=13a66k9sc/*http://marketrealist.com/2016/12/how-do-canadian-nationals-intermodal-volumes-compare-with-the-industry/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 03 Jan 2017 14:06:21 GMT",
+        "source": "data\\CNR\\20170104.rss",
+        "title": "How Do Canadian National\u2019s Intermodal Volumes Compare with the Industry?"
     }
 ]

@@ -12,6 +12,13 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = "data"
 RSS_FEED_FILENAME = os.path.join(DATA_FOLDER, "news_link.json")
 
+def get_price_json(symbol):
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	return prices
+
 def get_price_csv_path(symbol):
 	return os.path.join(DATA_FOLDER, symbol, "prices.csv")
 

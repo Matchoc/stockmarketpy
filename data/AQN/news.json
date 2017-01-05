@@ -241,5 +241,23 @@
         "pubDate": "Sun, 01 Jan 2017 15:00:00 GMT",
         "source": "data\\AQN\\20170102.rss",
         "title": "Algonquin Power & Utilities Corp. Completes Acquisition of The Empire District Electric Company"
+    },
+    {
+        "contents": "data\\AQN\\20170103-090101.news",
+        "description": "[at noodls] - /NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES OR TO UNITED STATES PERSONS/ OAKVILLE, ON, Jan. 3, 2017 /CNW/ - Algonquin Power & Utilities Corp. ('APUC') (TSX: ...",
+        "guid": "yahoo_finance/3938248707",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128f46ogj/*http://www.publicnow.com/view/380F4D37AE76867BCAC348535B7B64BDC293A538",
+        "pubDate": "Tue, 03 Jan 2017 11:43:13 GMT",
+        "source": "data\\AQN\\20170103.rss",
+        "title": "Final Payment on Algonquin Power & Utilities Corp.'s Convertible Debentures Represented by Instalment Receipts Due by February 2, 2017"
+    },
+    {
+        "contents": "data\\AQN\\20170103-090101.news",
+        "description": "[CNW Group] - Final Payment on Algonquin Power & Utilities Corp.'s Convertible Debentures Represented by Instalment Receipts Due by February 2, 2017",
+        "guid": "yahoo_finance/683410486",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/final-payment-algonquin-power-utilities-113000711.html",
+        "pubDate": "Tue, 03 Jan 2017 11:30:00 GMT",
+        "source": "data\\AQN\\20170103.rss",
+        "title": "Final Payment on Algonquin Power & Utilities Corp.'s Convertible Debentures Represented by Instalment Receipts Due by February 2, 2017"
     }
 ]

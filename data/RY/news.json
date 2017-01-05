@@ -817,5 +817,41 @@
         "pubDate": "Thu, 29 Dec 2016 17:00:00 GMT",
         "source": "data\\RY\\20161230.rss",
         "title": "RBC Global Asset Management Inc. announces final annual reinvested capital gains distribution for RBC ETFs"
+    },
+    {
+        "contents": "data\\RY\\20170104-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/3894720363",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13icnlfdf/*http://www.bloomberg.com/news/articles/2017-01-04/top-iron-ore-forecaster-says-prices-set-to-pull-back-this-year?cmpid=yhoo.headline",
+        "pubDate": "Wed, 04 Jan 2017 00:54:48 GMT",
+        "source": "data\\RY\\20170104.rss",
+        "title": "Top Iron Ore Forecaster RBC Says Prices Will Pull Back This Year"
+    },
+    {
+        "contents": "data\\RY\\20170104-090319.news",
+        "description": null,
+        "guid": "yahoo_finance/2426723526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-start-214541211.html",
+        "pubDate": "Tue, 03 Jan 2017 21:45:41 GMT",
+        "source": "data\\RY\\20170104.rss",
+        "title": "CANADA STOCKS-TSX rises at start of 2017, touches 20-month high"
+    },
+    {
+        "contents": "data\\RY\\20170104-090321.news",
+        "description": "[CNW Group] - Dave McKay of RBC to Speak at RBC Capital Markets 2017 Canadian Bank CEO Conference",
+        "guid": "yahoo_finance/1823986415",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dave-mckay-rbc-speak-rbc-140000976.html",
+        "pubDate": "Tue, 03 Jan 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170104.rss",
+        "title": "Dave McKay of RBC to Speak at RBC Capital Markets 2017 Canadian Bank CEO Conference"
+    },
+    {
+        "contents": "data\\RY\\20170104-090323.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 3, 2017 /CNW/ - Dave McKay, president and chief executive officer of Royal Bank of Canada (RY on TSX and NYSE), is scheduled to speak at the RBC Capital Markets Canadian Bank CEO Conference ...",
+        "guid": "yahoo_finance/1951297655",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dave-mckay-rbc-speak-rbc-140000068.html",
+        "pubDate": "Tue, 03 Jan 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170104.rss",
+        "title": "Dave McKay of RBC to Speak at RBC Capital Markets 2017 Canadian Bank CEO Conference"
     }
 ]

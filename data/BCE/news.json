@@ -601,5 +601,14 @@
         "pubDate": "Thu, 22 Dec 2016 13:50:26 GMT",
         "source": "data\\BCE\\20161222.rss",
         "title": "Research Reports Initiated on Communication Services Stocks Shaw Communications, TELUS, BCE Inc, and Cogeco Communications"
+    },
+    {
+        "contents": "data\\BCE\\20170104-090221.news",
+        "description": null,
+        "guid": "yahoo_finance/2527645741",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12pik2t4u/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-bce-inc-january-3-2017/",
+        "pubDate": "Tue, 03 Jan 2017 18:38:58 GMT",
+        "source": "data\\BCE\\20170104.rss",
+        "title": "ETFs with exposure to BCE, Inc. : January 3, 2017"
     }
 ]

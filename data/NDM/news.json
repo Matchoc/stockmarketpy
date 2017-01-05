@@ -187,5 +187,32 @@
         "pubDate": "Fri, 30 Dec 2016 13:22:16 GMT",
         "source": "data\\NDM\\20161230.rss",
         "title": "3 Gold Stocks That Could Suffer a Meltdown in 2017"
+    },
+    {
+        "contents": "data\\NDM\\20170104-090405.news",
+        "description": "[PR Newswire] - NYSE MKT: NAK) (\"Northern Dynasty\" or the \"Company\") announces that it has completed a private placement of 4,444,376 Units, each consisting of one share and one warrant of the Company at a price of $0.45 per Unit for gross proceeds of approximately $2 million. The warrants are exercisable into one common share of the Company at the exercise price of $0.65 per share until June 10, 2021. The warrants will be listed for trading on the TSX once the hold period expires.",
+        "guid": "yahoo_finance/4222782239",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-closes-2-million-214400011.html",
+        "pubDate": "Tue, 05 Jul 2016 21:44:00 GMT",
+        "source": "data\\NDM\\20170104.rss",
+        "title": "Northern Dynasty Closes $2 Million Private Placement"
+    },
+    {
+        "contents": "data\\NDM\\20170104-090408.news",
+        "description": "[CNW Group] - Northern Dynasty Closes $2 Million Private Placement",
+        "guid": "yahoo_finance/3977253081",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-closes-2-million-214400299.html",
+        "pubDate": "Tue, 05 Jul 2016 21:44:00 GMT",
+        "source": "data\\NDM\\20170104.rss",
+        "title": "Northern Dynasty Closes $2 Million Private Placement"
+    },
+    {
+        "contents": "data\\NDM\\20170104-090410.news",
+        "description": "[at noodls] - June 20, 2016, Vancouver, BC -- Northern Dynasty Minerals Ltd. (TSX: NDM; NYSE MKT: NAK) ('Northern Dynasty' or the 'Company') announces the voting results from its 2016 Annual General Meeting held on ...",
+        "guid": "yahoo_finance/3036923194",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ekt54b/*http://www.publicnow.com/view/DBADF537DDFFEB050E05521B2826634D1B9CDD4A",
+        "pubDate": "Mon, 20 Jun 2016 23:49:02 GMT",
+        "source": "data\\NDM\\20170104.rss",
+        "title": "Northern Dynasty Reports Annual General Meeting Results"
     }
 ]

@@ -187,5 +187,23 @@
         "pubDate": "Wed, 24 Feb 2016 12:00:00 GMT",
         "source": "data\\MCB\\20161228.rss",
         "title": "McCoy Global Inc. to release 2015 year end results and hold conference call on March 9, 2016"
+    },
+    {
+        "contents": "data\\MCB\\20170104-090050.news",
+        "description": null,
+        "guid": "yahoo_finance/3596813247",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-mcb-132000362.html",
+        "pubDate": "Wed, 04 Jan 2017 13:20:00 GMT",
+        "source": "data\\MCB\\20170104.rss",
+        "title": "IIROC Trading Halt - MCB"
+    },
+    {
+        "contents": "data\\MCB\\20170104-090051.news",
+        "description": null,
+        "guid": "yahoo_finance/439969411",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-mcb-132000546.html",
+        "pubDate": "Wed, 04 Jan 2017 13:20:00 GMT",
+        "source": "data\\MCB\\20170104.rss",
+        "title": "IIROC Trading Halt - MCB"
     }
 ]

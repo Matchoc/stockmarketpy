@@ -214,5 +214,23 @@
         "pubDate": "Fri, 30 Dec 2016 14:06:32 GMT",
         "source": "data\\ELD\\20161231.rss",
         "title": "Analyzing Gold Stocks\u2019 Health after 3Q16"
+    },
+    {
+        "contents": "data\\ELD\\20170104-090402.news",
+        "description": null,
+        "guid": "yahoo_finance/2214172111",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12hhf52s0/*http://www.fool.com/investing/2017/01/03/gold-stocks-what-to-watch-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 03 Jan 2017 22:39:41 GMT",
+        "source": "data\\ELD\\20170104.rss",
+        "title": "Gold Stocks: What to Watch in 2017"
+    },
+    {
+        "contents": "data\\ELD\\20170104-090402.news",
+        "description": null,
+        "guid": "yahoo_finance/3302930877",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ol4019d/*http://marketrealist.com/2016/12/gold-miners-look-attractive-current-valuation-levels/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 03 Jan 2017 14:05:33 GMT",
+        "source": "data\\ELD\\20170104.rss",
+        "title": "Gold Miners: Which Stocks Look Attractive at Current Valuations?"
     }
 ]

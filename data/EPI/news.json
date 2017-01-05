@@ -178,5 +178,23 @@
         "pubDate": "Fri, 12 Feb 2016 23:00:00 GMT",
         "source": "data\\EPI\\20161221.rss",
         "title": "ESSA Pharma Inc. reports financial results for the first quarter ended December 31, 2015"
+    },
+    {
+        "contents": "data\\EPI\\20170104-090416.news",
+        "description": null,
+        "guid": "yahoo_finance/2187120253",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/essa-pharma-announces-closing-us-212400546.html",
+        "pubDate": "Thu, 14 Jan 2016 21:24:00 GMT",
+        "source": "data\\EPI\\20170104.rss",
+        "title": "ESSA Pharma Announces Closing of US$15 Million Private Placement"
+    },
+    {
+        "contents": "data\\EPI\\20170104-090418.news",
+        "description": null,
+        "guid": "yahoo_finance/2605219249",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/essa-pharma-announces-closing-us-212400995.html",
+        "pubDate": "Thu, 14 Jan 2016 21:24:00 GMT",
+        "source": "data\\EPI\\20170104.rss",
+        "title": "ESSA Pharma Announces Closing of US$15 Million Private Placement"
     }
 ]

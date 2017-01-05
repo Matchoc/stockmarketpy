@@ -520,5 +520,14 @@
         "pubDate": "Thu, 29 Dec 2016 15:42:11 GMT",
         "source": "data\\CM\\20161230.rss",
         "title": "/C O R R E C T I O N -- CIBC - Consumer Research and Advice/"
+    },
+    {
+        "contents": "data\\CM\\20170104-090301.news",
+        "description": "[CNW Group] - Media Advisory - CIBC's Victor Dodig to Speak at RBC's 2017 Canadian Bank CEO Conference",
+        "guid": "yahoo_finance/2764492633",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-cibcs-victor-dodig-140000215.html",
+        "pubDate": "Wed, 04 Jan 2017 14:00:00 GMT",
+        "source": "data\\CM\\20170104.rss",
+        "title": "Media Advisory - CIBC's Victor Dodig to Speak at RBC's 2017 Canadian Bank CEO Conference"
     }
 ]
