@@ -196,5 +196,14 @@
         "pubDate": "Fri, 30 Dec 2016 15:20:35 GMT",
         "source": "data\\LB\\20161231.rss",
         "title": "Laurentian Bank of Canada : LB-CA: Dividend Analysis : January 03rd, 2017 (record date) : By the numbers : December 30, 2016"
+    },
+    {
+        "contents": "data\\LB\\20170105-070005.news",
+        "description": null,
+        "guid": "yahoo_finance/1088223889",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/st-phane-therrien-executive-vice-150000878.html",
+        "pubDate": "Wed, 04 Jan 2017 15:00:00 GMT",
+        "source": "data\\LB\\20170105.rss",
+        "title": "St\u00e9phane Therrien, Executive Vice President at Laurentian Bank, to Speak at the RBC Capital Markets Canadian Bank CEO Conference"
     }
 ]

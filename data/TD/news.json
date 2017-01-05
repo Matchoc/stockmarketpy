@@ -583,5 +583,50 @@
         "pubDate": "Mon, 02 Jan 2017 10:51:40 GMT",
         "source": "data\\TD\\20170102.rss",
         "title": "[$$] Wells Fargo's overdraft income surges ahead of rivals"
+    },
+    {
+        "contents": "data\\TD\\20170103-090243.news",
+        "description": "[CNW Group] - TD Securities Completes Acquisition of Albert Fried & Company",
+        "guid": "yahoo_finance/2950435718",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-securities-completes-acquisition-albert-140000175.html",
+        "pubDate": "Tue, 03 Jan 2017 14:00:00 GMT",
+        "source": "data\\TD\\20170103.rss",
+        "title": "TD Securities Completes Acquisition of Albert Fried & Company"
+    },
+    {
+        "contents": "data\\TD\\20170103-090245.news",
+        "description": "[PR Newswire] - TORONTO and NEW YORK, Jan. 3, 2017 /PRNewswire/ - TD Securities today completed the previously announced acquisition of Albert Fried & Company (AF&Co), which advances its U.S growth strategy. \"We ...",
+        "guid": "yahoo_finance/1094645426",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-securities-completes-acquisition-albert-140000041.html",
+        "pubDate": "Tue, 03 Jan 2017 14:00:00 GMT",
+        "source": "data\\TD\\20170103.rss",
+        "title": "TD Securities Completes Acquisition of Albert Fried & Company"
+    },
+    {
+        "contents": "data\\TD\\20170104-090341.news",
+        "description": "[CNW Group] - MEDIA ADVISORY - TD Bank Group Executive to Present at the RBC Capital Markets Bank CEO Conference",
+        "guid": "yahoo_finance/65974435",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-td-bank-group-160000663.html",
+        "pubDate": "Tue, 03 Jan 2017 16:00:00 GMT",
+        "source": "data\\TD\\20170104.rss",
+        "title": "MEDIA ADVISORY - TD Bank Group Executive to Present at the RBC Capital Markets Bank CEO Conference"
+    },
+    {
+        "contents": "data\\TD\\20170104-090342.news",
+        "description": "[PR Newswire] - CHERRY HILL, N.J., Jan. 3, 201 7 /PRNewswire/ -- TD Bank, America's Most Convenient Bank\u00ae , has appointed Christopher Giamo Head of Regional Commercial Bank. Based in Cherry Hill, New Jersey, and New York, ...",
+        "guid": "yahoo_finance/3482513950",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-bank-names-chris-giamo-145000278.html",
+        "pubDate": "Tue, 03 Jan 2017 14:50:00 GMT",
+        "source": "data\\TD\\20170104.rss",
+        "title": "TD Bank Names Chris Giamo Head of Regional Commercial Bank"
+    },
+    {
+        "contents": "data\\TD\\20170104-090344.news",
+        "description": "[at noodls] - TORONTOand NEW YORK, Jan. 3, 2017/CNW/ - TD Securities today completed the previously announced acquisition of Albert Fried& Company (AF&Co), which advances its U.S growth strategy. ... This is an abstract ...",
+        "guid": "yahoo_finance/3563949801",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tosa3d/*http://www.publicnow.com/view/12B64B24F4D9E64CEB4C8E687143ADB4947E9AF5",
+        "pubDate": "Tue, 03 Jan 2017 14:13:07 GMT",
+        "source": "data\\TD\\20170104.rss",
+        "title": "TD Securities Completes Acquisition of Albert Fried & Company"
     }
 ]

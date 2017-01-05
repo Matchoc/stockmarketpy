@@ -187,5 +187,23 @@
         "pubDate": "Fri, 30 Dec 2016 21:16:00 GMT",
         "source": "data\\MFC\\20161231.rss",
         "title": "John Hancock Hedged Equity & Income Fund Required Notice to Shareholders - Sources of Distribution Under Section 19(a)"
+    },
+    {
+        "contents": "data\\MFC\\20170104-090119.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 3, 2017 /PRNewswire/ -- The ten John Hancock closed-end funds listed below announced today that the Board of Trustees of the funds appointed Hassell H. McClellan to serve as Chairperson of ...",
+        "guid": "yahoo_finance/3138430245",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-closed-end-funds-230600280.html",
+        "pubDate": "Tue, 03 Jan 2017 23:06:00 GMT",
+        "source": "data\\MFC\\20170104.rss",
+        "title": "John Hancock Closed-End Funds Announce Changes To Board Of Trustees Chairperson And Committee Composition"
+    },
+    {
+        "contents": "data\\MFC\\20170104-090122.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 3, 2017 /PRNewswire/ -- The three John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: January 3, 2017 Ex Date: January 11, 2017 ...",
+        "guid": "yahoo_finance/2675559004",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-closed-end-funds-230500178.html",
+        "pubDate": "Tue, 03 Jan 2017 23:05:00 GMT",
+        "source": "data\\MFC\\20170104.rss",
+        "title": "John Hancock Closed-End Funds Declare Monthly Distributions"
     }
 ]

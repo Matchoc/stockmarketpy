@@ -493,5 +493,104 @@
         "pubDate": "Fri, 27 Jun 2014 12:54:35 GMT",
         "source": "data\\ECA\\20161229.rss",
         "title": "Encana to sell Bighorn assets for about $1.8B"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090234.news",
+        "description": null,
+        "guid": "yahoo_finance/1564557402",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/encana-eca-strong-industry-solid-133001303.html",
+        "pubDate": "Wed, 04 Jan 2017 13:30:01 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "Encana (ECA): Strong Industry, Solid Earnings Estimate Revisions"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090236.news",
+        "description": null,
+        "guid": "yahoo_finance/2698439568",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1397cbpbg/*http://www.wsj.com/articles/encana-boosts-forecasts-citing-lower-costs-and-increased-volumes-1483535596?mod=yahoo_hs",
+        "pubDate": "Wed, 04 Jan 2017 13:13:18 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "[$$] Encana Boosts Forecasts, Citing Lower Costs and Increased Volumes"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090236.news",
+        "description": "[at noodls] - CALGARY, AB --(Marketwired - January 04, 2017) - (TSX: ECA) (NYSE: ECA) Encana delivered strong performance in the fourth quarter of 2016, and the company now expects that its 2017 plan will exceed forecasts ...",
+        "guid": "yahoo_finance/3535439196",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281p7dmp/*http://www.publicnow.com/view/CDAE08EF7C328FD24FE0560C5EC0A80D96B07E22",
+        "pubDate": "Wed, 04 Jan 2017 12:23:08 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "Encana expects 2017 plan to exceed forecasts shared at its Investor Day"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090237.news",
+        "description": null,
+        "guid": "yahoo_finance/3313528737",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/encana-expects-2017-margins-top-113513895.html",
+        "pubDate": "Wed, 04 Jan 2017 11:35:13 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "Encana expects 2017 margins to top previous forecast"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090238.news",
+        "description": "[Marketwired] - Encana delivered strong performance in the fourth quarter of 2016, and the company now expects that its 2017 plan will exceed forecasts previously shared at its Investor Day in October 2016.The company ...",
+        "guid": "yahoo_finance/1932694073",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/encana-expects-2017-plan-exceed-110000339.html",
+        "pubDate": "Wed, 04 Jan 2017 11:00:00 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "Encana expects 2017 plan to exceed forecasts shared at its Investor Day"
+    },
+    {
+        "contents": "data\\ECA\\20170104-090241.news",
+        "description": null,
+        "guid": "yahoo_finance/2426723526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-start-214541211.html",
+        "pubDate": "Tue, 03 Jan 2017 21:45:41 GMT",
+        "source": "data\\ECA\\20170104.rss",
+        "title": "CANADA STOCKS-TSX rises at start of 2017, touches 20-month high"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/1607089522",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=11na84aam/*http://www.wsj.com/articles/business-watch-1483581405?ru=yahoo?mod=yahoo_itp",
+        "pubDate": "Thu, 05 Jan 2017 05:24:41 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Business Watch"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/3969856675",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132oeeec3/*http://www.fool.com/investing/2017/01/04/why-encana-acadia-pharmaceuticals-and-tenet-health.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Wed, 04 Jan 2017 23:17:00 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Why Encana, Acadia Pharmaceuticals, and Tenet Healthcare Jumped Today"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070026.news",
+        "description": null,
+        "guid": "yahoo_finance/1284908315",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-extends-20-153417387.html",
+        "pubDate": "Wed, 04 Jan 2017 15:34:17 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "CANADA STOCKS-TSX extends 20-month high; financials, industrials rise"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070029.news",
+        "description": null,
+        "guid": "yahoo_finance/3012873959",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-industrials-143803629.html",
+        "pubDate": "Wed, 04 Jan 2017 14:38:03 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "CANADA STOCKS-TSX rises with industrials, materials; Encana jumps"
+    },
+    {
+        "contents": "data\\ECA\\20170105-070031.news",
+        "description": null,
+        "guid": "yahoo_finance/3948020346",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12isvdegv/*http://blogs.wsj.com/moneybeat/2017/01/04/stocks-to-watch-encana-unifirst-coach/?mod=yahoo_hs",
+        "pubDate": "Wed, 04 Jan 2017 14:19:21 GMT",
+        "source": "data\\ECA\\20170105.rss",
+        "title": "Stocks to Watch: Encana, Unifirst, Coach"
     }
 ]

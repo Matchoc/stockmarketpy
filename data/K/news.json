@@ -466,5 +466,32 @@
         "pubDate": "Fri, 30 Dec 2016 21:35:29 GMT",
         "source": "data\\K\\20161231.rss",
         "title": "Analyzing Mining Stocks\u2019 Correlation in 2016"
+    },
+    {
+        "contents": "data\\K\\20170103-090105.news",
+        "description": null,
+        "guid": "yahoo_finance/3207786521",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500337.html",
+        "pubDate": "Tue, 03 Jan 2017 13:15:00 GMT",
+        "source": "data\\K\\20170103.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Kinross Gold, Goldcorp, Nevsun Resources, and Lydian International"
+    },
+    {
+        "contents": "data\\K\\20170104-090033.news",
+        "description": null,
+        "guid": "yahoo_finance/3765361745",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12anin49c/*http://marketrealist.com/2017/01/reading-volatility-miners-december-end/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 03 Jan 2017 17:00:54 GMT",
+        "source": "data\\K\\20170104.rss",
+        "title": "Analyzing Miners\u2019 Volatility at the End of December"
+    },
+    {
+        "contents": "data\\K\\20170105-065938.news",
+        "description": null,
+        "guid": "yahoo_finance/1362485365",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ebu9pgs/*http://marketrealist.com/2017/01/mining-stocks-and-gold-correlation-in-2016/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 04 Jan 2017 20:05:49 GMT",
+        "source": "data\\K\\20170105.rss",
+        "title": "Mining Stocks and Gold Correlation in 2016"
     }
 ]

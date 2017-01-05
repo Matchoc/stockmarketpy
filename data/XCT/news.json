@@ -187,5 +187,23 @@
         "pubDate": "Thu, 22 Dec 2016 12:00:00 GMT",
         "source": "data\\XCT\\20161222.rss",
         "title": "exactEarth Awarded \u00a31.1M Project from UK Space Agency for Small Vessel Tracking"
+    },
+    {
+        "contents": "data\\XCT\\20170104-090349.news",
+        "description": null,
+        "guid": "yahoo_finance/1740613910",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500449.html",
+        "pubDate": "Wed, 04 Jan 2017 13:15:00 GMT",
+        "source": "data\\XCT\\20170104.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks Sierra Wireless, Evertz Technologies, Pure Technologies, and exactEarth"
+    },
+    {
+        "contents": "data\\XCT\\20170104-090351.news",
+        "description": null,
+        "guid": "yahoo_finance/3580656899",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exactearth-larus-technologies-announce-strategic-110000287.html",
+        "pubDate": "Thu, 14 Apr 2016 11:00:00 GMT",
+        "source": "data\\XCT\\20170104.rss",
+        "title": "exactEarth and Larus Technologies Announce Strategic Alliance to Develop Big Data Analytics Applications"
     }
 ]

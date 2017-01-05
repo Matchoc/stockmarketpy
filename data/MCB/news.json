@@ -187,5 +187,59 @@
         "pubDate": "Wed, 24 Feb 2016 12:00:00 GMT",
         "source": "data\\MCB\\20161228.rss",
         "title": "McCoy Global Inc. to release 2015 year end results and hold conference call on March 9, 2016"
+    },
+    {
+        "contents": "data\\MCB\\20170104-090050.news",
+        "description": null,
+        "guid": "yahoo_finance/3596813247",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-mcb-132000362.html",
+        "pubDate": "Wed, 04 Jan 2017 13:20:00 GMT",
+        "source": "data\\MCB\\20170104.rss",
+        "title": "IIROC Trading Halt - MCB"
+    },
+    {
+        "contents": "data\\MCB\\20170104-090051.news",
+        "description": null,
+        "guid": "yahoo_finance/439969411",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-mcb-132000546.html",
+        "pubDate": "Wed, 04 Jan 2017 13:20:00 GMT",
+        "source": "data\\MCB\\20170104.rss",
+        "title": "IIROC Trading Halt - MCB"
+    },
+    {
+        "contents": "data\\MCB\\20170105-065839.news",
+        "description": "[at noodls] - January 4, 2017 McCOY GLOBAL INC. ANNOUNCES STRATEGIC ASSET ACQUISITION OF 3PS, INC. ... This is an abstract of the original noodl. To continue reading this document, click here for the original version....",
+        "guid": "yahoo_finance/3512681258",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289hbtiv/*http://www.publicnow.com/view/242803FBFA31DA009D697266BB2EA6600AB20645",
+        "pubDate": "Wed, 04 Jan 2017 16:13:12 GMT",
+        "source": "data\\MCB\\20170105.rss",
+        "title": "McCoy Global Inc. Announces Strategic Asset Acquisition of 3PS Inc."
+    },
+    {
+        "contents": "data\\MCB\\20170105-065839.news",
+        "description": null,
+        "guid": "yahoo_finance/1916058046",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-mcb-141000194.html",
+        "pubDate": "Wed, 04 Jan 2017 14:10:00 GMT",
+        "source": "data\\MCB\\20170105.rss",
+        "title": "IIROC Trade Resumption - MCB"
+    },
+    {
+        "contents": "data\\MCB\\20170105-065840.news",
+        "description": null,
+        "guid": "yahoo_finance/594590851",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-mcb-141000298.html",
+        "pubDate": "Wed, 04 Jan 2017 14:10:00 GMT",
+        "source": "data\\MCB\\20170105.rss",
+        "title": "IIROC Trade Resumption - MCB"
+    },
+    {
+        "contents": "data\\MCB\\20170105-065842.news",
+        "description": "[CNW Group] - McCoy Global Inc. announces strategic asset acquisition of 3PS, Inc.",
+        "guid": "yahoo_finance/1886248387",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mccoy-global-inc-announces-strategic-140000199.html",
+        "pubDate": "Wed, 04 Jan 2017 14:00:00 GMT",
+        "source": "data\\MCB\\20170105.rss",
+        "title": "McCoy Global Inc. announces strategic asset acquisition of 3PS, Inc."
     }
 ]

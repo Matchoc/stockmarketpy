@@ -178,5 +178,32 @@
         "pubDate": "Wed, 02 Nov 2016 13:00:00 GMT",
         "source": "data\\PNT\\20161218.rss",
         "title": "CPI Card Group Appoints Jay Arbabha as Chief Technology Officer"
+    },
+    {
+        "contents": "data\\PNT\\20170104-090425.news",
+        "description": null,
+        "guid": "yahoo_finance/2733265073",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dqv0vv6/*http://www.capitalcube.com/blog/index.php/cpi-card-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-pnt-ca-october-31-2016/",
+        "pubDate": "Mon, 31 Oct 2016 12:46:15 GMT",
+        "source": "data\\PNT\\20170104.rss",
+        "title": "CPI Card Group, Inc. breached its 50 day moving average in a Bearish Manner : PNT-CA : October 31, 2016"
+    },
+    {
+        "contents": "data\\PNT\\20170104-090434.news",
+        "description": "[at noodls] - Program Managers Can Now Develop and Produce Fully Customized Cards and Individualized Packaging LAS VEGAS--(BUSINESS WIRE)-- Money 20/20 -- Booth 1025 -- CPI Card Group (Nasdaq:PMTS) (TSX:PNT), a global ...",
+        "guid": "yahoo_finance/254277067",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cqg0su/*http://www.publicnow.com/view/AED38812DC897DB19F2FF9E33BFAD30BD5B840B6",
+        "pubDate": "Mon, 24 Oct 2016 15:31:02 GMT",
+        "source": "data\\PNT\\20170104.rss",
+        "title": "New Print on Demand Services From CPI Card Group Provide Flexibility for Prepaid Payment Card Programs"
+    },
+    {
+        "contents": "data\\PNT\\20170105-065943.news",
+        "description": null,
+        "guid": "yahoo_finance/3128536540",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14cnqf5fu/*http://www.capitalcube.com/blog/index.php/cpi-card-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-pnt-ca-january-4-2017/",
+        "pubDate": "Wed, 04 Jan 2017 14:26:13 GMT",
+        "source": "data\\PNT\\20170105.rss",
+        "title": "CPI Card Group, Inc. breached its 50 day moving average in a Bullish Manner : PNT-CA : January 4, 2017"
     }
 ]

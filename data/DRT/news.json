@@ -178,5 +178,14 @@
         "pubDate": "Tue, 26 Apr 2016 17:50:13 GMT",
         "source": "data\\DRT\\20161221.rss",
         "title": "DIRTT to Release 2016 Q1 Results on May 4, 2016"
+    },
+    {
+        "contents": "data\\DRT\\20170105-070000.news",
+        "description": null,
+        "guid": "yahoo_finance/2664389548",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dirtt-present-2017-needham-growth-202331085.html",
+        "pubDate": "Wed, 04 Jan 2017 20:23:31 GMT",
+        "source": "data\\DRT\\20170105.rss",
+        "title": "DIRTT to Present at 2017 Needham Growth Conference"
     }
 ]

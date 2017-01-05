@@ -205,5 +205,14 @@
         "pubDate": "Thu, 30 Jun 2016 01:18:46 GMT",
         "source": "data\\IFP\\20161228.rss",
         "title": "U.S., Canada say differences remain in softwood lumber dispute"
+    },
+    {
+        "contents": "data\\IFP\\20170103-090142.news",
+        "description": null,
+        "guid": "yahoo_finance/1327111832",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-basic-materials-131500149.html",
+        "pubDate": "Tue, 03 Jan 2017 13:15:00 GMT",
+        "source": "data\\IFP\\20170103.rss",
+        "title": "Research Reports Initiated on Basic Materials Stocks Western Forest Products, Interfor, Domtar, and Canfor Pulp Products"
     }
 ]

@@ -250,5 +250,50 @@
         "pubDate": "Fri, 30 Dec 2016 14:06:50 GMT",
         "source": "data\\ABX\\20161231.rss",
         "title": "Does Barrick Gold Look Undervalued at Current Valuation Multiples?"
+    },
+    {
+        "contents": "data\\ABX\\20170103-090233.news",
+        "description": null,
+        "guid": "yahoo_finance/2683938648",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12gr4c72b/*http://www.fool.com/investing/2017/01/02/4-top-stocks-on-sale-this-winter.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Mon, 02 Jan 2017 14:03:00 GMT",
+        "source": "data\\ABX\\20170103.rss",
+        "title": "4 Top Stocks on Sale This Winter"
+    },
+    {
+        "contents": "data\\ABX\\20170104-090056.news",
+        "description": null,
+        "guid": "yahoo_finance/2214172111",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12hhf52s0/*http://www.fool.com/investing/2017/01/03/gold-stocks-what-to-watch-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 03 Jan 2017 22:39:41 GMT",
+        "source": "data\\ABX\\20170104.rss",
+        "title": "Gold Stocks: What to Watch in 2017"
+    },
+    {
+        "contents": "data\\ABX\\20170104-090056.news",
+        "description": "[at noodls] - PDF TORONTO, January 3, 2017 - Barrick Gold Corporation (NYSE:ABX)(TSX:ABX) will release its Fourth Quarter 2016 Results on February 15, 2017, followed by a conference call and webcast on February 16 at ...",
+        "guid": "yahoo_finance/4137633775",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128dsuh4g/*http://www.publicnow.com/view/1BDA2C8F67185002F434ED179C30A4798E69DFC5",
+        "pubDate": "Tue, 03 Jan 2017 22:23:11 GMT",
+        "source": "data\\ABX\\20170104.rss",
+        "title": "Fourth Quarter 2016 Results Release on February 15"
+    },
+    {
+        "contents": "data\\ABX\\20170104-090056.news",
+        "description": "[Marketwired] - Barrick Gold Corporation will release its Fourth Quarter 2016 Results on February 15, 2017, followed by a conference call and webcast on February 16 at 9:00 am ET.",
+        "guid": "yahoo_finance/405947422",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/barrick-gold-corporation-announce-fourth-221500345.html",
+        "pubDate": "Tue, 03 Jan 2017 22:15:00 GMT",
+        "source": "data\\ABX\\20170104.rss",
+        "title": "Barrick Gold Corporation to Announce Fourth Quarter 2016 Results on February 15"
+    },
+    {
+        "contents": "data\\ABX\\20170104-090058.news",
+        "description": null,
+        "guid": "yahoo_finance/3765361745",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12anin49c/*http://marketrealist.com/2017/01/reading-volatility-miners-december-end/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 03 Jan 2017 17:00:54 GMT",
+        "source": "data\\ABX\\20170104.rss",
+        "title": "Analyzing Miners\u2019 Volatility at the End of December"
     }
 ]

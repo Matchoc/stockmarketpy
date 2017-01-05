@@ -205,5 +205,23 @@
         "pubDate": "Fri, 23 Dec 2016 13:13:39 GMT",
         "source": "data\\MBA\\20161226.rss",
         "title": "Research Reports Initiated on Consumer Goods and Services Stocks CIBT Education Group, Cineplex, Dorel Industries, and Boyd Group Income Fund"
+    },
+    {
+        "contents": "data\\MBA\\20170103-090220.news",
+        "description": "[Accesswire] - VANCOUVER, BC / ACCESSWIRE / January 3, 2017 / CIBT Education Group Inc. (\"CIBT\" or the \"Company\") (TSX: MBA, OTCQX International: MBAIF) is pleased to report the grand opening of the ...",
+        "guid": "yahoo_finance/1714202889",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibt-subsidiary-adds-state-art-120000851.html",
+        "pubDate": "Tue, 03 Jan 2017 12:00:00 GMT",
+        "source": "data\\MBA\\20170103.rss",
+        "title": "CIBT Subsidiary Adds New State-of-the-Art Campus"
+    },
+    {
+        "contents": "data\\MBA\\20170104-090331.news",
+        "description": "[at noodls] - January 3rd, 2017, Vancouver, BC: CIBT Education Group Inc. ('CIBT' or the 'Company') (TSX: MBA, OTCQX International: MBAIF) is pleased to report the grand opening of the new Sprott Shaw College Surrey ...",
+        "guid": "yahoo_finance/3552777723",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kcavuq/*http://www.publicnow.com/view/D35D41613A5587F71C6AA2563094EB8460D43CB0",
+        "pubDate": "Wed, 04 Jan 2017 01:13:05 GMT",
+        "source": "data\\MBA\\20170104.rss",
+        "title": "CIBT Subsidiary Adds New State-of-the-Art Campus"
     }
 ]
