@@ -11,11 +11,12 @@ Externals :
 Externals wishes :
 
 Ideas for inputs (in no particular order or logic) :
+ - variation du TSX (ou guess de la variation)
+ - Consecutive up days & consecutive down days
  - Positive or negative news rating
  - "age" of news (expressed as a number of days since trading result ?)
  - O - keywords count ? (increase, good, performance, decrease, cut, buy, sell, etc?)
  - O - average price over the last 2 days, 5 days, 1 years, 5 years ?
- - number of days going up/going down
  - market cap vs share value
    - earnings per share (EPS) /  free cash flow per share is used as an alternative measure of earnings power
    - Valuation or Price per Share ratio
