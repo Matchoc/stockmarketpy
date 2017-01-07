@@ -205,5 +205,14 @@
         "pubDate": "Thu, 14 Apr 2016 11:00:00 GMT",
         "source": "data\\XCT\\20170104.rss",
         "title": "exactEarth and Larus Technologies Announce Strategic Alliance to Develop Big Data Analytics Applications"
+    },
+    {
+        "contents": "data\\XCT\\20170106-212254.news",
+        "description": null,
+        "guid": "yahoo_finance/4145127136",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exactearth-announce-fiscal-2016-financial-133000367.html",
+        "pubDate": "Thu, 05 Jan 2017 13:30:00 GMT",
+        "source": "data\\XCT\\20170106.rss",
+        "title": "exactEarth to Announce Fiscal 2016 Financial Results"
     }
 ]

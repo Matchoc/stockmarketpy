@@ -745,5 +745,23 @@
         "pubDate": "Fri, 30 Dec 2016 15:19:25 GMT",
         "source": "data\\BNS\\20161231.rss",
         "title": "Bank of Nova Scotia : BNS-CA: Dividend Analysis : January 03rd, 2017 (record date) : By the numbers : December 30, 2016"
+    },
+    {
+        "contents": "data\\BNS\\20170106-212241.news",
+        "description": "[at noodls] - TORONTO, ON--(Marketwired - January 06, 2017) - NOT FOR DISTRIBUTION OR DISSEMINATION IN THE UNITED STATES The Bank of Nova Scotia ('Scotiabank') (TSX: BNS) (NYSE: BNS) today announced that it intends ...",
+        "guid": "yahoo_finance/3396868824",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jp5tp7/*http://www.publicnow.com/view/1A2A7893476E00C0137F0CAD44135C11120C888B",
+        "pubDate": "Fri, 06 Jan 2017 21:25:10 GMT",
+        "source": "data\\BNS\\20170106.rss",
+        "title": "Scotiabank Announces Plan to Buy Back Shares through Private Agreement"
+    },
+    {
+        "contents": "data\\BNS\\20170106-212241.news",
+        "description": "[Marketwired] - NOT FOR DISTRIBUTION OR DISSEMINATION IN THE UNITED STATESThe Bank of Nova Scotia today announced that it intends to purchase for cancellation up to 3,000,000 of its common shares pursuant to a private ...",
+        "guid": "yahoo_finance/1166471575",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-announces-plan-buy-back-211500718.html",
+        "pubDate": "Fri, 06 Jan 2017 21:15:00 GMT",
+        "source": "data\\BNS\\20170106.rss",
+        "title": "Scotiabank Announces Plan to Buy Back Shares through Private Agreement"
     }
 ]

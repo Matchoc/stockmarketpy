@@ -295,5 +295,32 @@
         "pubDate": "Tue, 03 Jan 2017 17:00:54 GMT",
         "source": "data\\ABX\\20170104.rss",
         "title": "Analyzing Miners\u2019 Volatility at the End of December"
+    },
+    {
+        "contents": "data\\ABX\\20170106-212627.news",
+        "description": null,
+        "guid": "yahoo_finance/3775278911",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/desjardins-capital-markets-picks-goldcorp-165240718.html",
+        "pubDate": "Fri, 06 Jan 2017 16:52:40 GMT",
+        "source": "data\\ABX\\20170106.rss",
+        "title": "Desjardins Capital Markets Picks Goldcorp for 2017"
+    },
+    {
+        "contents": "data\\ABX\\20170106-212629.news",
+        "description": null,
+        "guid": "yahoo_finance/2729759393",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1320t6249/*http://www.fool.com/investing/2017/01/05/why-barrick-gold-halozyme-therapeutics-and-ceb-jum.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Thu, 05 Jan 2017 22:33:00 GMT",
+        "source": "data\\ABX\\20170106.rss",
+        "title": "Why Barrick Gold, Halozyme Therapeutics, and CEB Jumped Today"
+    },
+    {
+        "contents": "data\\ABX\\20170106-212630.news",
+        "description": null,
+        "guid": "yahoo_finance/1457949445",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13376adtl/*https://www.thestreet.com/story/13943627/1/why-gold-stocks-not-gold-belong-in-your-portfolio.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Thu, 05 Jan 2017 14:56:00 GMT",
+        "source": "data\\ABX\\20170106.rss",
+        "title": "Why Gold Stocks, Not Gold, Belong in Your Portfolio"
     }
 ]

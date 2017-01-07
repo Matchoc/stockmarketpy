@@ -475,5 +475,23 @@
         "pubDate": "Fri, 05 Jul 2013 21:00:43 GMT",
         "source": "data\\YRI\\20161229.rss",
         "title": "US stocks surge on jobs report"
+    },
+    {
+        "contents": "data\\YRI\\20170106-212738.news",
+        "description": null,
+        "guid": "yahoo_finance/4254231994",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149767a05/*http://www.capitalcube.com/blog/index.php/yamana-gold-inc-breached-its-50-day-moving-average-in-a-bullish-manner-yri-ca-january-6-2017/",
+        "pubDate": "Fri, 06 Jan 2017 14:11:12 GMT",
+        "source": "data\\YRI\\20170106.rss",
+        "title": "Yamana Gold, Inc. breached its 50 day moving average in a Bullish Manner : YRI-CA : January 6, 2017"
+    },
+    {
+        "contents": "data\\YRI\\20170106-212739.news",
+        "description": null,
+        "guid": "yahoo_finance/1457949445",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13376adtl/*https://www.thestreet.com/story/13943627/1/why-gold-stocks-not-gold-belong-in-your-portfolio.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Thu, 05 Jan 2017 14:56:00 GMT",
+        "source": "data\\YRI\\20170106.rss",
+        "title": "Why Gold Stocks, Not Gold, Belong in Your Portfolio"
     }
 ]

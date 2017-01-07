@@ -799,5 +799,32 @@
         "pubDate": "Wed, 04 Jan 2017 18:13:06 GMT",
         "source": "data\\POT\\20170105.rss",
         "title": "Rocanville Using New Method to Prove Increased Productive Capacity for Canpotex"
+    },
+    {
+        "contents": "data\\POT\\20170106-212603.news",
+        "description": "[at noodls] - Notice of PotashCorp Q4 & Year-End Earnings Release and Conference Call The text version of this document is not available at the moment. The original content was posted at original link . Potash Corporation ...",
+        "guid": "yahoo_finance/317206201",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289r5s7n/*http://www.publicnow.com/view/386E4622BDD3FFF0825DB8AD496E4D5F942DE876",
+        "pubDate": "Fri, 06 Jan 2017 16:35:07 GMT",
+        "source": "data\\POT\\20170106.rss",
+        "title": "Notice of PotashCorp Q4 & Year-End Earnings Release and Conference Call"
+    },
+    {
+        "contents": "data\\POT\\20170106-212604.news",
+        "description": null,
+        "guid": "yahoo_finance/3628964406",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=122o8o1gl/*http://marketrealist.com/2017/01/background-potmosagus-canpotex/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 05 Jan 2017 23:05:44 GMT",
+        "source": "data\\POT\\20170106.rss",
+        "title": "POT\u2019s, MOS\u2019s, and AGU\u2019s Canpotex: The Backstory"
+    },
+    {
+        "contents": "data\\POT\\20170106-212605.news",
+        "description": null,
+        "guid": "yahoo_finance/1688761860",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12g93c579/*http://marketrealist.com/2017/01/canpotexs-new-methodology-impact-pot-mos-agu/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 05 Jan 2017 21:29:51 GMT",
+        "source": "data\\POT\\20170106.rss",
+        "title": "Canpotex\u2019s New Methodology in 2017"
     }
 ]

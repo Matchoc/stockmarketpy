@@ -538,5 +538,14 @@
         "pubDate": "Wed, 04 Jan 2017 15:47:11 GMT",
         "source": "data\\CM\\20170105.rss",
         "title": "ETFs with exposure to Canadian Imperial Bank of Commerce : January 4, 2017"
+    },
+    {
+        "contents": "data\\CM\\20170106-212715.news",
+        "description": "[Reuters] - The value of Canadian equity issues rose to an all-time high in 2016, driven by large deals in the energy and mining sectors, according to Thomson Reuters data released on Thursday. Equity issues increased nearly 19 percent last year to C$51.2 billion ($38.56 billion) from C$43.1 billion in 2015, the figures showed. The top six advisers for the year were Toronto Dominion Bank , Royal Bank of Canada, Bank of Montreal , Canadian Imperial Bank of Commerce, Bank of Nova Scotia and National Bank of Canada.",
+        "guid": "yahoo_finance/568022320",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/value-canadian-equity-issues-hits-120000465.html",
+        "pubDate": "Thu, 05 Jan 2017 12:00:00 GMT",
+        "source": "data\\CM\\20170106.rss",
+        "title": "Value of Canadian equity issues hits record high in 2016"
     }
 ]

@@ -214,5 +214,23 @@
         "pubDate": "Tue, 03 Jan 2017 13:15:00 GMT",
         "source": "data\\IFP\\20170103.rss",
         "title": "Research Reports Initiated on Basic Materials Stocks Western Forest Products, Interfor, Domtar, and Canfor Pulp Products"
+    },
+    {
+        "contents": "data\\IFP\\20170106-212620.news",
+        "description": "[Reuters] - The U.S. International Trade Commission said on Friday it had made a preliminary finding of injury from certain softwood lumber products from Canada. The finding, made in a statement, follows an announcement on Dec. 16 that the commission was starting antidumping duty and countervailing duty investigations into the imports, after a petition from an association representing a group of U.S. lumber companies.",
+        "guid": "yahoo_finance/2808234869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-makes-early-finding-injury-164005612.html",
+        "pubDate": "Fri, 06 Jan 2017 16:40:05 GMT",
+        "source": "data\\IFP\\20170106.rss",
+        "title": "U.S. makes early finding of injury from some softwood lumber from Canada"
+    },
+    {
+        "contents": "data\\IFP\\20170106-212621.news",
+        "description": null,
+        "guid": "yahoo_finance/3594575867",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=147189000/*http://www.capitalcube.com/blog/index.php/interfor-corp-breached-its-50-day-moving-average-in-a-bearish-manner-ifp-ca-january-6-2017/",
+        "pubDate": "Fri, 06 Jan 2017 14:16:37 GMT",
+        "source": "data\\IFP\\20170106.rss",
+        "title": "Interfor Corp. breached its 50 day moving average in a Bearish Manner : IFP-CA : January 6, 2017"
     }
 ]
