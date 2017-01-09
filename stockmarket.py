@@ -301,7 +301,7 @@ def updateTraining(symbol):
 	
 def gatherTraining(symbol):
 	trainingjsonpath = get_training_json(symbol)
-	if not os.path.isfile(trainingjsonpath): 
+	if not os.path.isfile(trainingjsonpath):
 		return updateTraining(symbol)
 	
 	with open(trainingjsonpath, 'r') as jsonfile:
