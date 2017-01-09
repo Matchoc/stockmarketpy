@@ -259,5 +259,14 @@
         "pubDate": "Tue, 03 Jan 2017 11:30:00 GMT",
         "source": "data\\AQN\\20170103.rss",
         "title": "Final Payment on Algonquin Power & Utilities Corp.'s Convertible Debentures Represented by Instalment Receipts Due by February 2, 2017"
+    },
+    {
+        "contents": "data\\AQN\\20170109-090108.news",
+        "description": null,
+        "guid": "yahoo_finance/3284182871",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-utilities-stocks-131500228.html",
+        "pubDate": "Mon, 09 Jan 2017 13:15:00 GMT",
+        "source": "data\\AQN\\20170109.rss",
+        "title": "Research Reports Initiated on Utilities Stocks Boralex, Brookfield Renewable Partners, Pattern Energy Group, and Algonquin Power and Utilities"
     }
 ]

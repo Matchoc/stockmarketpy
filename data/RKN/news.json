@@ -178,5 +178,14 @@
         "pubDate": "Tue, 25 Oct 2016 11:00:00 GMT",
         "source": "data\\RKN\\20161221.rss",
         "title": "Redknee Signs a Multi-Million Dollar Cloud Deal in LATAM"
+    },
+    {
+        "contents": "data\\RKN\\20170109-090235.news",
+        "description": null,
+        "guid": "yahoo_finance/1653442013",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500224.html",
+        "pubDate": "Mon, 09 Jan 2017 13:15:00 GMT",
+        "source": "data\\RKN\\20170109.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks DH Corp, Redknee Solutions, MacDonald Dettwiler and Associates, and Computer Modelling Group"
     }
 ]

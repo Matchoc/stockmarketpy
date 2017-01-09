@@ -178,5 +178,14 @@
         "pubDate": "Sat, 05 Nov 2016 01:16:34 GMT",
         "source": "data\\SAP\\20161221.rss",
         "title": "Edited Transcript of SAP.TO earnings conference call or presentation 3-Nov-16 6:30pm GMT"
+    },
+    {
+        "contents": "data\\SAP\\20170109-090030.news",
+        "description": null,
+        "guid": "yahoo_finance/2847588004",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144v77lda/*http://www.capitalcube.com/blog/index.php/saputo-inc-breached-its-50-day-moving-average-in-a-bearish-manner-sap-ca-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 13:26:07 GMT",
+        "source": "data\\SAP\\20170109.rss",
+        "title": "Saputo, Inc. breached its 50 day moving average in a Bearish Manner : SAP-CA : January 9, 2017"
     }
 ]

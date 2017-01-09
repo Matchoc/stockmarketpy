@@ -250,5 +250,14 @@
         "pubDate": "Thu, 05 Jan 2017 14:00:00 GMT",
         "source": "data\\CNR\\20170106.rss",
         "title": "ADVISORY - CN to report fourth-quarter and year-end 2016 financial and operating results on Jan. 24, 2017"
+    },
+    {
+        "contents": "data\\CNR\\20170109-090100.news",
+        "description": null,
+        "guid": "yahoo_finance/4220341147",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500668.html",
+        "pubDate": "Mon, 09 Jan 2017 13:15:00 GMT",
+        "source": "data\\CNR\\20170109.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Waste Connections, Alexco Resource, TFI International, and Canadian National Railway"
     }
 ]
