@@ -196,5 +196,41 @@
         "pubDate": "Sun, 01 Jan 2017 17:38:16 GMT",
         "source": "data\\TRP\\20170102.rss",
         "title": "5 Biggest Oil and Gas Acquisitions of 2016"
+    },
+    {
+        "contents": "data\\TRP\\20170106-212110.news",
+        "description": null,
+        "guid": "yahoo_finance/3560060064",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=139n5r602/*http://www.bloomberg.com/news/videos/2017-01-07/pipeline-debt-rolls-on-for-canada-energy-producers-wait?cmpid=yhoo.headline",
+        "pubDate": "Sat, 07 Jan 2017 00:27:58 GMT",
+        "source": "data\\TRP\\20170106.rss",
+        "title": "Pipeline Debt Rolls On for Canada Energy, Producers Wait"
+    },
+    {
+        "contents": "data\\TRP\\20170106-212111.news",
+        "description": null,
+        "guid": "yahoo_finance/2919514607",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12deg5t5n/*http://marketrealist.com/2017/01/tc-pipelines-may-benefit-transcanada-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 06 Jan 2017 17:54:09 GMT",
+        "source": "data\\TRP\\20170106.rss",
+        "title": "TC PipeLines Might Benefit from TransCanada in 2017"
+    },
+    {
+        "contents": "data\\TRP\\20170106-212112.news",
+        "description": null,
+        "guid": "yahoo_finance/710245107",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13jdsvkj1/*http://www.bloomberg.com/news/articles/2017-01-06/pipeline-debt-rolls-on-for-canada-energy-as-producers-bide-time?cmpid=yhoo.headline",
+        "pubDate": "Fri, 06 Jan 2017 12:00:00 GMT",
+        "source": "data\\TRP\\20170106.rss",
+        "title": "Pipelines Lead Canadian Energy Debt Issuance as Producers Bide Time"
+    },
+    {
+        "contents": "data\\TRP\\20170106-212112.news",
+        "description": "[Reuters - UK Focus] - Morgan Stanley, Barclays Plc and Royal Bank of Canada took the top spots advising Canadian mergers and acquisitions in 2016 as deals in the pipeline, power and utility sectors propelled deal volume to ...",
+        "guid": "yahoo_finance/3507590195",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/morgan-stanley-barclays-top-canadian-120000169.html",
+        "pubDate": "Thu, 05 Jan 2017 12:00:00 GMT",
+        "source": "data\\TRP\\20170106.rss",
+        "title": "Morgan Stanley, Barclays top Canadian M&A adviser rankings in 2016"
     }
 ]

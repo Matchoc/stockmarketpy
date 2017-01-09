@@ -223,5 +223,23 @@
         "pubDate": "Tue, 03 Jan 2017 14:53:09 GMT",
         "source": "data\\BBD.B\\20170104.rss",
         "title": "Bombardier and Austrian Federal Railways Sign Framework Agreement for up to 300 TALENT 3 Trains"
+    },
+    {
+        "contents": "data\\BBD.B\\20170106-212409.news",
+        "description": null,
+        "guid": "yahoo_finance/3902128763",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13c5k3rbj/*http://www.bizjournals.com/wichita/news/2017/01/05/triumph-suing-bombardier-over-global-7000-business.html?ana=yahoo",
+        "pubDate": "Thu, 05 Jan 2017 20:30:08 GMT",
+        "source": "data\\BBD.B\\20170106.rss",
+        "title": "Triumph suing Bombardier over Global 7000 business jet; Bombardier plans own claim"
+    },
+    {
+        "contents": "data\\BBD.B\\20170106-212409.news",
+        "description": null,
+        "guid": "yahoo_finance/4251780354",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=130fn9vgr/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-bombardier-inc-january-3-2017/",
+        "pubDate": "Tue, 03 Jan 2017 18:38:23 GMT",
+        "source": "data\\BBD.B\\20170106.rss",
+        "title": "ETFs with exposure to Bombardier, Inc. : January 3, 2017"
     }
 ]

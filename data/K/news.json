@@ -493,5 +493,14 @@
         "pubDate": "Wed, 04 Jan 2017 20:05:49 GMT",
         "source": "data\\K\\20170105.rss",
         "title": "Mining Stocks and Gold Correlation in 2016"
+    },
+    {
+        "contents": "data\\K\\20170106-212036.news",
+        "description": null,
+        "guid": "yahoo_finance/256298056",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149q0cfcp/*http://www.capitalcube.com/blog/index.php/kinross-gold-corp-breached-its-50-day-moving-average-in-a-bullish-manner-k-ca-january-6-2017/",
+        "pubDate": "Fri, 06 Jan 2017 14:11:52 GMT",
+        "source": "data\\K\\20170106.rss",
+        "title": "Kinross Gold Corp. breached its 50 day moving average in a Bullish Manner : K-CA : January 6, 2017"
     }
 ]

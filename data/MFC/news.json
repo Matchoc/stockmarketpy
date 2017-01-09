@@ -205,5 +205,14 @@
         "pubDate": "Tue, 03 Jan 2017 23:05:00 GMT",
         "source": "data\\MFC\\20170104.rss",
         "title": "John Hancock Closed-End Funds Declare Monthly Distributions"
+    },
+    {
+        "contents": "data\\MFC\\20170106-212316.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 5, 2017 /PRNewswire/ -- John Hancock Investments announced that 11 of its strategic beta ETFs are now available to investors on E*TRADE's commission-free ETF platform. \"Expanding investor ...",
+        "guid": "yahoo_finance/834684263",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-etfs-now-130000156.html",
+        "pubDate": "Thu, 05 Jan 2017 13:00:00 GMT",
+        "source": "data\\MFC\\20170106.rss",
+        "title": "John Hancock Investments' ETFs now available on E*TRADE's Commission-Free ETF platform"
     }
 ]

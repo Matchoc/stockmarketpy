@@ -412,5 +412,23 @@
         "pubDate": "Tue, 23 Feb 2016 14:22:16 GMT",
         "source": "data\\NA\\20170103.rss",
         "title": "National Bank of Canada posts 1Q profit"
+    },
+    {
+        "contents": "data\\NA\\20170106-212414.news",
+        "description": null,
+        "guid": "yahoo_finance/885137578",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/louis-vachon-speak-rbc-capital-150000180.html",
+        "pubDate": "Thu, 05 Jan 2017 15:00:00 GMT",
+        "source": "data\\NA\\20170106.rss",
+        "title": "Louis Vachon to speak at the RBC Capital Markets Canadian Bank CEO Conference"
+    },
+    {
+        "contents": "data\\NA\\20170106-212416.news",
+        "description": "[Reuters] - ** Richmond, British Columbia is pressing ahead with regulations to crack down on short-term rentals amid complaints that services such as Airbnb are disrupting neighbours and taking away housing in a tight rental market. Residential sales totalled 1,714 last month, down 39.4 percent from December 2015, the Real Estate Board of Greater Vancouver said on Wednesday. ** Kevin O'Leary says attacks on him by Conservative leadership candidates are bringing badly needed excitement to the race, after Tory hopeful Lisa Raitt launched a website to stop the reality-TV star from entering the contest.",
+        "guid": "yahoo_finance/2345860469",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-5-120307921.html",
+        "pubDate": "Thu, 05 Jan 2017 12:03:07 GMT",
+        "source": "data\\NA\\20170106.rss",
+        "title": "PRESS DIGEST- Canada - Jan 5"
     }
 ]

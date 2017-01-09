@@ -610,5 +610,50 @@
         "pubDate": "Tue, 03 Jan 2017 18:38:58 GMT",
         "source": "data\\BCE\\20170104.rss",
         "title": "ETFs with exposure to BCE, Inc. : January 3, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170106-212142.news",
+        "description": null,
+        "guid": "yahoo_finance/351252624",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-competition-watchdog-closes-two-155342199.html",
+        "pubDate": "Fri, 06 Jan 2017 15:53:42 GMT",
+        "source": "data\\BCE\\20170106.rss",
+        "title": "Canada's competition watchdog closes two-year Apple probe"
+    },
+    {
+        "contents": "data\\BCE\\20170106-212144.news",
+        "description": "[Reuters] - Canada's Competition Bureau on Friday said it had not found sufficient evidence that Apple Inc had engaged in anti-competitive conduct, closing a two-year investigation into the iPhone maker. The watchdog launched a probe into Apple's business practices in December 2014 to investigate allegations the company's Canadian unit had used anti-competitive clauses to force domestic operators to sell rival devices at higher prices than they otherwise would have and restricting how they could market and sell iPhones. \"The Bureau did not find evidence to suggest that the Apple terms resulted in a significant effect on competition,\" the antitrust watchdog said in a statement.",
+        "guid": "yahoo_finance/2846786354",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-competition-watchdog-closes-two-155244756.html",
+        "pubDate": "Fri, 06 Jan 2017 15:52:44 GMT",
+        "source": "data\\BCE\\20170106.rss",
+        "title": "Canada's competition watchdog closes two-year Apple probe"
+    },
+    {
+        "contents": "data\\BCE\\20170106-212146.news",
+        "description": null,
+        "guid": "yahoo_finance/683179944",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12ted30br/*http://www.capitalcube.com/blog/index.php/bce-inc-value-analysis-torontobce-january-6-2017/",
+        "pubDate": "Fri, 06 Jan 2017 15:10:05 GMT",
+        "source": "data\\BCE\\20170106.rss",
+        "title": "BCE, Inc. \u2013 Value Analysis (TORONTO:BCE) : January 6, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170106-212146.news",
+        "description": null,
+        "guid": "yahoo_finance/1912610902",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=141sc8gi1/*http://www.capitalcube.com/blog/index.php/bce-inc-breached-its-50-day-moving-average-in-a-bullish-manner-bce-ca-january-5-2017/",
+        "pubDate": "Thu, 05 Jan 2017 14:25:42 GMT",
+        "source": "data\\BCE\\20170106.rss",
+        "title": "BCE, Inc. breached its 50 day moving average in a Bullish Manner : BCE-CA : January 5, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170109-090228.news",
+        "description": "[CNW Group] - Are you ready for January 25? Join the conversation on Bell Let's Talk Day and help keep Canada's mental health moving forward!",
+        "guid": "yahoo_finance/1933703949",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ready-january-25-join-conversation-140000219.html",
+        "pubDate": "Mon, 09 Jan 2017 14:00:00 GMT",
+        "source": "data\\BCE\\20170109.rss",
+        "title": "Are you ready for January 25? Join the conversation on Bell Let's Talk Day and help keep Canada's mental health moving forward!"
     }
 ]

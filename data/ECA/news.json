@@ -592,5 +592,23 @@
         "pubDate": "Wed, 04 Jan 2017 14:19:21 GMT",
         "source": "data\\ECA\\20170105.rss",
         "title": "Stocks to Watch: Encana, Unifirst, Coach"
+    },
+    {
+        "contents": "data\\ECA\\20170106-212219.news",
+        "description": null,
+        "guid": "yahoo_finance/3324727538",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12ojkcopn/*http://www.fool.com/investing/2017/01/05/encana-corp-is-already-ahead-of-schedule.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 05 Jan 2017 15:00:07 GMT",
+        "source": "data\\ECA\\20170106.rss",
+        "title": "Encana Corp. Is Already Ahead of Schedule"
+    },
+    {
+        "contents": "data\\ECA\\20170106-212220.news",
+        "description": null,
+        "guid": "yahoo_finance/292385374",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/encana-expects-surpass-2017-production-113211440.html",
+        "pubDate": "Thu, 05 Jan 2017 11:32:11 GMT",
+        "source": "data\\ECA\\20170106.rss",
+        "title": "Encana Expects to Surpass 2017 Production Projections"
     }
 ]

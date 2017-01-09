@@ -104,6 +104,13 @@ def gen_news_x(symbol, news):
 	with open(allwordspath, 'r') as jsonfile:
 		allwords = json.load(jsonfile)
 	newswordspath = news["contents"] + ".words"
+	
+	# skip news we couldn't download
+	with open(news["contents"], 'rb') as testfo:
+		text = testfo.read()
+	if len(text) <= 0:
+		return None
+		
 	with open(newswordspath, 'r') as jsonfile:
 		newswords = json.load(jsonfile)
 	sortedX = sorted(allwords.keys())
@@ -261,24 +268,46 @@ def get_close_prev_day(symbol, news):
 		price = prices[pricedatefmt]
 	return price["Close"]
 	
-def gatherTraining(symbol):
+def updateTraining(symbol):
 	newspath = get_news_json_path(symbol)
 	with open(newspath, 'r') as jsonfile:
 		allnews = json.load(jsonfile)
 	all_x = []
 	all_y = []
-	count = 0
+	failedx = 0
+	failedy = 0
 	for news in allnews:
 		y = gen_news_y(symbol, news)
 		if y is not None:
 			x = gen_news_x(symbol, news)
-			all_x += x
-			all_y.append(y)
+			if x is not None:
+				all_x += x
+				all_y.append(y)
+			else:
+				failedx += 1
+				myprint("[" + symbol + "] failed to load news X : " + news["title"] + " (" + news["pubDate"] + ")", 1)
 		else:
-			myprint("[" + symbol + "] failed to load news index " + str(count) + " : " + news["title"] + " (" + news["pubDate"] + ")", 1)
-		count += 1
+			failedy += 1
+			myprint("[" + symbol + "] failed to load news y : " + news["title"] + " (" + news["pubDate"] + ")", 1)
 			
+	myprint("Failed to load " + str(failedx) + " X and " + str(failedy) + "Y", 1)
+	results = {}
+	results["X"] = all_x
+	results["y"] = all_y
+	with open(get_training_json(symbol), 'w') as fo:
+		json.dump(results, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
 	return all_x, all_y
+	
+def gatherTraining(symbol):
+	trainingjsonpath = get_training_json(symbol)
+	if not os.path.isfile(trainingjsonpath):
+		return updateTraining(symbol)
+	
+	with open(trainingjsonpath, 'r') as jsonfile:
+		trainingjson = json.load(jsonfile)
+		
+	return trainingjson["X"], trainingjson["y"]
 
 def get_all_Xy():
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
@@ -301,14 +330,14 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=4000)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=2000, verbose=False)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
 	all_x = SCALER_NEWS.transform(all_x)
 	MACHINE_NEWS.fit(all_x, all_y)
 	save_machine()
-	myprint("... End machine training", 1)
+	myprint("... End machine training : loss " + str(MACHINE_NEWS.loss_) + ", iter " + str(MACHINE_NEWS.n_iter_), 3)
 	
 	newspath = get_news_json_path("S")
 	with open(newspath, 'r') as jsonfile:
@@ -350,8 +379,10 @@ def update_symbol(symbol, steps):
 		download_all_news_page(symbol)
 	if "processnews" in steps:
 		process_all_news(symbol)
+	if "updateTraining" in steps:
+		updateTraining(symbol)
 
-def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train", "crossval", "today"]):
+def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval", "today"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
@@ -374,7 +405,7 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		passed_data = {}
 		passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
 		passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
-		train_machine(data, 0.0005, (180,30))
+		train_machine(data, 25.0, (180,30))
 		
 	if "crossval" in steps:
 		passed_data = {}
@@ -386,11 +417,11 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		predict_all_today()
 		
 def train_cross_variations():
-	alphas = [0.5, 0.05, 0.005, 0.0005, 0.00005]
+	alphas = [0.000005, 0.00005, 0.005, 0.5, 25.0]
 	hiddens = [(150, 29), (180, 30), (150, 150), (350, 350), (100, 100), (175,175), (150,150,150)]
 	
 	data = get_all_Xy()
-	per = 0.7
+	per = 0.8
 	myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 4)
 	#for alpha in alphas:
 	#	passed_data = {}
@@ -403,16 +434,16 @@ def train_cross_variations():
 	#	cross_validate(data)
 	#	myprint("------------------------",3)
 	
+	main_data = {}
+	main_data["X"] = data["X"][:int(len(data["X"]) * per)]
+	main_data["y"] = data["y"][:int(len(data["y"]) * per)]
+	validation_data = {}
+	validation_data["X"] = data["X"][int(len(data["X"]) * per):]
+	validation_data["y"] = data["y"][int(len(data["X"]) * per):]
 	for alpha in alphas:
 		for hidden in hiddens:
-			passed_data = {}
-			passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
-			passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
-			train_machine(data, alpha, hidden)
-			passed_data = {}
-			passed_data["X"] = data["X"][int(len(data["X"]) * per):]
-			passed_data["y"] = data["y"][int(len(data["X"]) * per):]
-			cross_validate(data)
+			train_machine(main_data, alpha, hidden)
+			cross_validate(validation_data)
 			myprint("------------------------", 4)
 	
 def get_most_recent_news_X(symbol, data):
@@ -434,7 +465,9 @@ def get_most_recent_news_X(symbol, data):
 				
 	myprint("predict " + symbol + " Using : '" + most_recent_news["title"] + "' (" + most_recent_news["pubDate"] + ")", 2)
 	x = []
-	x += gen_news_x(symbol, most_recent_news)
+	res = gen_news_x(symbol, most_recent_news)
+	if res is not None:
+		x += res
 	data["news"] = most_recent_news
 	data["symbol"] = symbol
 		
@@ -457,7 +490,9 @@ def get_today_X(symbol):
 	
 	x = []
 	for news in valid_news:
-		x += gen_news_x(symbol, news)
+		res = gen_news_x(symbol, news)
+		if res is not None:
+			x += res
 		
 	return x
 	
@@ -530,14 +565,15 @@ if __name__ == '__main__':
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
-	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "train", "crossval"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
 	
+	#update_all_symbols(["updateTraining"])
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])

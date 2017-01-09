@@ -385,5 +385,23 @@
         "pubDate": "Thu, 29 Dec 2016 17:25:33 GMT",
         "source": "data\\SPB\\20161230.rss",
         "title": "Superior Plus Corp. : SPB-CA: Dividend Analysis : December 31st, 2016 (record date) : By the numbers : December 29, 2016"
+    },
+    {
+        "contents": "data\\SPB\\20170106-212441.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Jan. 6, 2017) - January 2017 Cash Dividend - $0.06 per share Superior Plus Corp. ('Superior') today announced its cash dividend for the month of January 2017 of $0.06 per ...",
+        "guid": "yahoo_finance/549864951",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vcd0bv/*http://www.publicnow.com/view/3D27E2C92C5DB2A70D8ACE601B27E9D5225758E3",
+        "pubDate": "Fri, 06 Jan 2017 19:05:07 GMT",
+        "source": "data\\SPB\\20170106.rss",
+        "title": "Superior Plus Announces January 2017 Cash Dividend and Upcoming Events"
+    },
+    {
+        "contents": "data\\SPB\\20170106-212441.news",
+        "description": null,
+        "guid": "yahoo_finance/915110806",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/superior-plus-announces-january-2017-185036195.html",
+        "pubDate": "Fri, 06 Jan 2017 18:50:36 GMT",
+        "source": "data\\SPB\\20170106.rss",
+        "title": "Superior Plus Announces January 2017 Cash Dividend and Upcoming Events"
     }
 ]
