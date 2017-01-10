@@ -214,5 +214,41 @@
         "pubDate": "Thu, 05 Jan 2017 13:00:00 GMT",
         "source": "data\\MFC\\20170106.rss",
         "title": "John Hancock Investments' ETFs now available on E*TRADE's Commission-Free ETF platform"
+    },
+    {
+        "contents": "data\\MFC\\20170110-090333.news",
+        "description": "[PR Newswire] - CHICAGO, Jan. 10, 2017 /PRNewswire/ -- NextCapital , the leader in enterprise digital advice, today announced a strategic partnership with John Hancock Retirement Plan Services to expand its automated ...",
+        "guid": "yahoo_finance/639991260",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-nextcapital-announce-enterprise-120000429.html",
+        "pubDate": "Tue, 10 Jan 2017 12:00:00 GMT",
+        "source": "data\\MFC\\20170110.rss",
+        "title": "John Hancock and NextCapital Announce Enterprise Digital Advice Partnership"
+    },
+    {
+        "contents": "data\\MFC\\20170110-090334.news",
+        "description": "[CNW Group] - Manulife Investments Announces Special Meetings of Securityholders",
+        "guid": "yahoo_finance/2263347363",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-investments-announces-special-meetings-140000344.html",
+        "pubDate": "Mon, 09 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170110.rss",
+        "title": "Manulife Investments Announces Special Meetings of Securityholders"
+    },
+    {
+        "contents": "data\\MFC\\20170110-090336.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 9, 2017 /CNW/ - Manulife Investments today announced its plans to replace certain operating expenses of the Manulife U.S. All Cap Equity Class (Advisor Series and Series T6) and Manulife Global Balanced Private Trust (Advisor Series, Series L, Series LT6, Series T6) with fixed administration fees. The change to a fixed administration fee model will include management fee reductions.",
+        "guid": "yahoo_finance/4075379416",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-investments-announces-special-meetings-140000482.html",
+        "pubDate": "Mon, 09 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170110.rss",
+        "title": "Manulife Investments Announces Special Meetings of Securityholders"
+    },
+    {
+        "contents": "data\\MFC\\20170110-090338.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 9, 2017 /PRNewswire/ -- John Hancock Investments today announced the start of a national TV advertising campaign designed to communicate the benefits of the firm's unique multimanager approach to investing. The ads highlight the investing power in John Hancock's far-reaching network of specialized asset managers, the rigor of the firm's manager selection and oversight processes, and the strength of its strategic beta ETFs. \"We're excited about this campaign,\" said Andrew G. Arnott, President and CEO of John Hancock Investments.",
+        "guid": "yahoo_finance/3786383134",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-launches-national-140000076.html",
+        "pubDate": "Mon, 09 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170110.rss",
+        "title": "John Hancock Investments launches national advertising campaign"
     }
 ]

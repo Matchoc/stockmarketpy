@@ -17,6 +17,7 @@ import urllib.error
 import scipy.ndimage
 import multiprocessing
 import nltk
+#import matplotlib.pyplot as plt
 from languageprocessing import *
 from datageneration import *
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
@@ -32,6 +33,8 @@ from sklearn.metrics import label_ranking_average_precision_score
 
 MACHINE_NEWS = None
 SCALER_NEWS = None
+
+SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 
 PRINT_LEVEL=3
 def myprint(str, level=0):
@@ -156,8 +159,8 @@ def get_num_days_up(symbol, news):
 	if price is None:
 		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
 		return 0
-	isPositive = price["Close"] - price["Open"] >= 0
-	curPositive = price["Close"] - price["Open"] >= 0
+	isPositive = price["Adj Close"] - price["Open"] >= 0
+	curPositive = price["Adj Close"] - price["Open"] >= 0
 	count = 1
 	while (price is None and (newsdate - prev_day).days < 365) or (isPositive == curPositive):
 		prev_day = prev_day - datetime.timedelta(days=1)
@@ -165,7 +168,7 @@ def get_num_days_up(symbol, news):
 		
 		if price is not None:
 			count += 1
-			curPositive = price["Close"] - price["Open"] >= 0
+			curPositive = price["Adj Close"] - price["Open"] >= 0
 		else:
 			curPositive = not isPositive
 		
@@ -188,7 +191,7 @@ def calculate_average_price_over_time(symbol, news, delta):
 	while cur_date < news_date:
 		pricedatefmt = cur_date.strftime("%Y-%m-%d")
 		if pricedatefmt in prices:
-			avg_close_price += prices[pricedatefmt]["Close"]
+			avg_close_price += prices[pricedatefmt]["Adj Close"]
 			count += 1
 		cur_date += datetime.timedelta(days=1)
 		
@@ -233,7 +236,7 @@ def get_previous_close_price(symbol, news):
 		final_price = 10
 
 	if pricedatefmt in prices:
-		final_price = prices[pricedatefmt]["Close"]
+		final_price = prices[pricedatefmt]["Adj Close"]
 		
 	return final_price
 
@@ -249,7 +252,7 @@ def gen_news_y(symbol, news):
 	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
 	if pricedatefmt in prices:
 		price = prices[pricedatefmt]
-		y = (price["Close"] - price["Open"])# / price["Open"]
+		y = (price["Adj Close"] - price["Open"])# / price["Open"]
 		return y
 	return None
 
@@ -266,7 +269,7 @@ def get_close_prev_day(symbol, news):
 	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
 	if pricedatefmt in prices:
 		price = prices[pricedatefmt]
-	return price["Close"]
+	return price["Adj Close"]
 	
 def updateTraining(symbol):
 	newspath = get_news_json_path(symbol)
@@ -317,6 +320,8 @@ def get_all_Xy():
 	all_x = []
 	all_y = []
 	for symbol in symbols:
+		if SKIP_SYMBOL == symbol:
+			continue
 		cur_x, cur_y = gatherTraining(symbol)
 		all_x += cur_x
 		all_y += cur_y
@@ -560,8 +565,32 @@ def print_ordered_all_words():
 	for word in sorted_words:
 		sys.stdout.buffer.write((str(word) + "\n").encode('UTF-8'))
 	
+def graph_actual_vs_predicted():
+	if MACHINE_NEWS is None:
+		load_machine()
+	data = get_all_Xy() # SKIP_SYMBOL should be set and training should have been done with same skip_symbol (unless testing overfitting)
+	skipDataX, skipDatay = gatherTraining(SKIP_SYMBOL)
+	realresult = skipDatay
+	predictedresult = []
+	count = 0
+	sx = SCALER_NEWS.transform(skipDataX)
+	predictedresult = MACHINE_NEWS.predict(sx)
+	
+	#dates = []
+	#newspath = get_news_json_path(SKIP_SYMBOL)
+	#with open(newspath, 'r') as jsonfile:
+	#	allnews = json.load(jsonfile)
+	#for news in allnews:
+	#	dates.append(get_news_date(news["pubDate"]))
+		
+	#plt.plot(dates, predictedresult, 'ro')
+	#plt.show()	
+	
+	myprint("todo")
+	
 if __name__ == '__main__':
 	#train_cross_variations()
+	#graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)

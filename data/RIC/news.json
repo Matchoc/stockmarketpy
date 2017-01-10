@@ -205,5 +205,32 @@
         "pubDate": "Fri, 06 Jan 2017 14:03:21 GMT",
         "source": "data\\RIC\\20170106.rss",
         "title": "Richmont Mines, Inc. breached its 50 day moving average in a Bullish Manner : RIC-CA : January 6, 2017"
+    },
+    {
+        "contents": "data\\RIC\\20170110-090404.news",
+        "description": "[CNW Group] - Richmont Mines to Transfer Listing of Common Shares to the New York Stock Exchange",
+        "guid": "yahoo_finance/337854433",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-mines-transfer-listing-common-113000540.html",
+        "pubDate": "Tue, 10 Jan 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170110.rss",
+        "title": "Richmont Mines to Transfer Listing of Common Shares to the New York Stock Exchange"
+    },
+    {
+        "contents": "data\\RIC\\20170110-090406.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 10, 2017 /PRNewswire/ - Richmont Mines Inc. (RIC) (RIC) (\"Richmont\" or the \"Corporation\") is pleased to announce that it will transfer the listing of its common shares from NYSE MKT to the New York Stock Exchange (the \"NYSE\"). The Corporation expects its common shares to begin trading on the NYSE on Wednesday, January 18, 2017 under its current ticker symbol \"RIC\" and will continue to trade on the NYSE MKT until the transfer is completed.",
+        "guid": "yahoo_finance/530977076",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-mines-transfer-listing-common-113000587.html",
+        "pubDate": "Tue, 10 Jan 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170110.rss",
+        "title": "Richmont Mines to Transfer Listing of Common Shares to the New York Stock Exchange"
+    },
+    {
+        "contents": "data\\RIC\\20170110-090408.news",
+        "description": null,
+        "guid": "yahoo_finance/319309156",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=138p4shcs/*http://www.capitalcube.com/blog/index.php/richmont-mines-inc-value-analysis-torontoric-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 16:28:22 GMT",
+        "source": "data\\RIC\\20170110.rss",
+        "title": "Richmont Mines, Inc. \u2013 Value Analysis (TORONTO:RIC) : January 9, 2017"
     }
 ]
