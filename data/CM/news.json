@@ -547,5 +547,14 @@
         "pubDate": "Thu, 05 Jan 2017 12:00:00 GMT",
         "source": "data\\CM\\20170106.rss",
         "title": "Value of Canadian equity issues hits record high in 2016"
+    },
+    {
+        "contents": "data\\CM\\20170110-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/120182273",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibc-world-markets-inc-buys-001611507.html",
+        "pubDate": "Tue, 10 Jan 2017 00:16:11 GMT",
+        "source": "data\\CM\\20170110.rss",
+        "title": "CIBC World Markets Inc. Buys Fortis Inc, Magna International Inc, Teck Resources Ltd, Sells ..."
     }
 ]

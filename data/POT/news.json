@@ -826,5 +826,14 @@
         "pubDate": "Thu, 05 Jan 2017 21:29:51 GMT",
         "source": "data\\POT\\20170106.rss",
         "title": "Canpotex\u2019s New Methodology in 2017"
+    },
+    {
+        "contents": "data\\POT\\20170110-090054.news",
+        "description": null,
+        "guid": "yahoo_finance/3669006880",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-potash-shipper-canpotex-says-154228657.html",
+        "pubDate": "Mon, 09 Jan 2017 15:42:28 GMT",
+        "source": "data\\POT\\20170110.rss",
+        "title": "Canadian potash shipper Canpotex says fully committed through March"
     }
 ]

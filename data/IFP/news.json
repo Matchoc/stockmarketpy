@@ -232,5 +232,23 @@
         "pubDate": "Fri, 06 Jan 2017 14:16:37 GMT",
         "source": "data\\IFP\\20170106.rss",
         "title": "Interfor Corp. breached its 50 day moving average in a Bearish Manner : IFP-CA : January 6, 2017"
+    },
+    {
+        "contents": "data\\IFP\\20170110-090157.news",
+        "description": null,
+        "guid": "yahoo_finance/1023249890",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12vrbbh9l/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-interfor-corp-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 18:32:42 GMT",
+        "source": "data\\IFP\\20170110.rss",
+        "title": "ETFs with exposure to Interfor Corp. : January 9, 2017"
+    },
+    {
+        "contents": "data\\IFP\\20170110-090157.news",
+        "description": null,
+        "guid": "yahoo_finance/1671959028",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=133sc4p6g/*http://www.capitalcube.com/blog/index.php/interfor-corp-value-analysis-torontoifp-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 16:04:40 GMT",
+        "source": "data\\IFP\\20170110.rss",
+        "title": "Interfor Corp. \u2013 Value Analysis (TORONTO:IFP) : January 9, 2017"
     }
 ]

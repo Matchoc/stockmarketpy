@@ -241,5 +241,23 @@
         "pubDate": "Tue, 03 Jan 2017 18:38:23 GMT",
         "source": "data\\BBD.B\\20170106.rss",
         "title": "ETFs with exposure to Bombardier, Inc. : January 3, 2017"
+    },
+    {
+        "contents": "data\\BBD.B\\20170110-090150.news",
+        "description": null,
+        "guid": "yahoo_finance/33816695",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/economy-minister-gabriel-says-bombardier-192317814.html",
+        "pubDate": "Mon, 09 Jan 2017 19:23:17 GMT",
+        "source": "data\\BBD.B\\20170110.rss",
+        "title": "Economy Minister Gabriel says Bombardier won't close German plants"
+    },
+    {
+        "contents": "data\\BBD.B\\20170110-090152.news",
+        "description": null,
+        "guid": "yahoo_finance/878721462",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/economy-minister-gabriel-says-bombardier-191115009.html",
+        "pubDate": "Mon, 09 Jan 2017 19:11:15 GMT",
+        "source": "data\\BBD.B\\20170110.rss",
+        "title": "Economy Minister Gabriel says Bombardier won't close German plants"
     }
 ]

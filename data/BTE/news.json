@@ -385,5 +385,14 @@
         "pubDate": "Tue, 05 May 2015 14:22:03 GMT",
         "source": "data\\BTE\\20161230.rss",
         "title": "Baytex Energy reports 1Q loss"
+    },
+    {
+        "contents": "data\\BTE\\20170110-090016.news",
+        "description": null,
+        "guid": "yahoo_finance/3133102912",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=134dahv42/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-baytex-energy-corp-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 18:02:56 GMT",
+        "source": "data\\BTE\\20170110.rss",
+        "title": "ETFs with exposure to Baytex Energy Corp. : January 9, 2017"
     }
 ]

@@ -502,5 +502,23 @@
         "pubDate": "Fri, 06 Jan 2017 14:11:52 GMT",
         "source": "data\\K\\20170106.rss",
         "title": "Kinross Gold Corp. breached its 50 day moving average in a Bullish Manner : K-CA : January 6, 2017"
+    },
+    {
+        "contents": "data\\K\\20170110-090358.news",
+        "description": "[Marketwired] - Kinross Gold Corporation will release its fourth quarter and 2016 full-year financial statements and operating results on Wednesday, February 15, 2017, after market close. The Company will also provide ...",
+        "guid": "yahoo_finance/1175396621",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kinross-announce-2016-q4-full-214500270.html",
+        "pubDate": "Mon, 09 Jan 2017 21:45:00 GMT",
+        "source": "data\\K\\20170110.rss",
+        "title": "Kinross to announce 2016 Q4/full-year results and 2017 guidance on February 15, 2017"
+    },
+    {
+        "contents": "data\\K\\20170110-090400.news",
+        "description": null,
+        "guid": "yahoo_finance/1656791976",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=135u88h8q/*http://www.capitalcube.com/blog/index.php/kinross-gold-corp-value-analysis-torontok-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 16:09:43 GMT",
+        "source": "data\\K\\20170110.rss",
+        "title": "Kinross Gold Corp. \u2013 Value Analysis (TORONTO:K) : January 9, 2017"
     }
 ]

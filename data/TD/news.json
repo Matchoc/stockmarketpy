@@ -628,5 +628,23 @@
         "pubDate": "Tue, 03 Jan 2017 14:13:07 GMT",
         "source": "data\\TD\\20170104.rss",
         "title": "TD Securities Completes Acquisition of Albert Fried & Company"
+    },
+    {
+        "contents": "data\\TD\\20170110-090019.news",
+        "description": null,
+        "guid": "yahoo_finance/1601158590",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13bf7l2p3/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-the-toronto-dominion-bank-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 19:13:29 GMT",
+        "source": "data\\TD\\20170110.rss",
+        "title": "ETFs with exposure to The Toronto-Dominion Bank : January 9, 2017"
+    },
+    {
+        "contents": "data\\TD\\20170110-090020.news",
+        "description": "[CNW Group] - /R E P E A T -- MEDIA ADVISORY - TD Bank Group Executive to Present at the RBC Capital Markets Bank CEO Conference/",
+        "guid": "yahoo_finance/977634386",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-160000118.html",
+        "pubDate": "Mon, 09 Jan 2017 16:00:00 GMT",
+        "source": "data\\TD\\20170110.rss",
+        "title": "/R E P E A T -- MEDIA ADVISORY - TD Bank Group Executive to Present at the RBC Capital Markets Bank CEO Conference/"
     }
 ]

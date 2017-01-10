@@ -241,5 +241,59 @@
         "pubDate": "Thu, 05 Jan 2017 13:00:00 GMT",
         "source": "data\\APS\\20170106.rss",
         "title": "Aptose Biosciences to Present at Biotech Showcase 2017 Conference"
+    },
+    {
+        "contents": "data\\APS\\20170110-090118.news",
+        "description": "[at noodls] - SAN DIEGO and TORONTO, May 10, 2016 (GLOBE NEWSWIRE) -- Aptose Biosciences Inc. (NASDAQ:APTO) (TSX:APS), a clinical-stage company developing new therapeutics and molecular diagnostics that target the underlying ...",
+        "guid": "yahoo_finance/4187030077",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128eh6tdg/*http://www.publicnow.com/view/C1BD8CC446E583B6560C93F898340768A8398A03",
+        "pubDate": "Tue, 10 May 2016 20:28:10 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Aptose Bioscience Reports Results for the First Quarter Ended March 31, 2016"
+    },
+    {
+        "contents": "data\\APS\\20170110-090118.news",
+        "description": "[at noodls] - SAN DIEGO and TORONTO, May 02, 2016 (GLOBE NEWSWIRE) -- Aptose Biosciences Inc. (Aptose) (NASDAQ:APTO) (TSX:APS), a clinical-stage company developing new therapeutics and molecular diagnostics that target ...",
+        "guid": "yahoo_finance/2085718217",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128u6i36f/*http://www.publicnow.com/view/BC9A2F8D379337BB88084F6B6DE230820E74F579",
+        "pubDate": "Mon, 02 May 2016 12:20:03 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Aptose To Release First Quarter Ended March 31, 2016 Financial Results and Hold Conference Call on May 10, 2016"
+    },
+    {
+        "contents": "data\\APS\\20170110-090118.news",
+        "description": null,
+        "guid": "yahoo_finance/1389964646",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-aps-earnings-conference-193736424.html",
+        "pubDate": "Wed, 30 Mar 2016 19:37:36 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Edited Transcript of APS.TO earnings conference call or presentation 29-Mar-16 9:00pm GMT"
+    },
+    {
+        "contents": "data\\APS\\20170110-090120.news",
+        "description": "[at noodls] - SAN DIEGO and TORONTO, March 29, 2016 (GLOBE NEWSWIRE) -- Aptose Biosciences Inc. (NASDAQ:APTO) (TSX:APS) a clinical-stage company developing new therapeutics and molecular diagnostics that target the ...",
+        "guid": "yahoo_finance/3873261225",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128opbeps/*http://www.publicnow.com/view/10617091D8ED24DC8A54C16CB874B640B9470E64",
+        "pubDate": "Tue, 29 Mar 2016 20:36:15 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Aptose Reports Fourth Quarter and Year End 2015 Results"
+    },
+    {
+        "contents": "data\\APS\\20170110-090120.news",
+        "description": null,
+        "guid": "yahoo_finance/1259842115",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=12okukra3/*http://www.insidermonkey.com/blog/should-you-stay-away-from-fx-energy-inc-fxen-401184/",
+        "pubDate": "Wed, 09 Dec 2015 03:48:00 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Should You Stay Away From FX Energy, Inc. (FXEN)?"
+    },
+    {
+        "contents": "data\\APS\\20170110-090121.news",
+        "description": null,
+        "guid": "yahoo_finance/2282522178",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=12m8m64kc/*http://www.insidermonkey.com/blog/should-you-buy-aptose-biosciences-inc-apto-394547/",
+        "pubDate": "Mon, 30 Nov 2015 15:44:34 GMT",
+        "source": "data\\APS\\20170110.rss",
+        "title": "Should You Buy Aptose Biosciences Inc (APTO)?"
     }
 ]

@@ -979,5 +979,14 @@
         "pubDate": "Tue, 18 Nov 2014 21:19:24 GMT",
         "source": "data\\RY\\20170106.rss",
         "title": "Banks chase trading cheats with 'fuzzy' surveillance"
+    },
+    {
+        "contents": "data\\RY\\20170110-090132.news",
+        "description": null,
+        "guid": "yahoo_finance/3621607512",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-falls-broad-155620952.html",
+        "pubDate": "Mon, 09 Jan 2017 15:56:20 GMT",
+        "source": "data\\RY\\20170110.rss",
+        "title": "CANADA STOCKS-TSX falls in broad retreat led by energy stocks"
     }
 ]

@@ -232,5 +232,14 @@
         "pubDate": "Thu, 05 Jan 2017 12:00:00 GMT",
         "source": "data\\TRP\\20170106.rss",
         "title": "Morgan Stanley, Barclays top Canadian M&A adviser rankings in 2016"
+    },
+    {
+        "contents": "data\\TRP\\20170110-090437.news",
+        "description": null,
+        "guid": "yahoo_finance/2539425504",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/wisconsin-tribe-votes-against-renewing-004353994.html",
+        "pubDate": "Tue, 10 Jan 2017 00:43:53 GMT",
+        "source": "data\\TRP\\20170110.rss",
+        "title": "Wisconsin tribe votes against renewing Enbridge pipeline agreements"
     }
 ]

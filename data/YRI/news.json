@@ -493,5 +493,23 @@
         "pubDate": "Thu, 05 Jan 2017 14:56:00 GMT",
         "source": "data\\YRI\\20170106.rss",
         "title": "Why Gold Stocks, Not Gold, Belong in Your Portfolio"
+    },
+    {
+        "contents": "data\\YRI\\20170110-090441.news",
+        "description": "[Marketwired] - YAMANA GOLD INC. herein provides an update relating to negotiations with unions at its mines in Chile. As part of the collective bargaining renewal process, the Company has been in negotiations with unions ...",
+        "guid": "yahoo_finance/774409983",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/yamana-provides-labour-negotiations-chile-010645995.html",
+        "pubDate": "Tue, 10 Jan 2017 01:06:45 GMT",
+        "source": "data\\YRI\\20170110.rss",
+        "title": "Yamana Provides Update on Labour Negotiations in Chile"
+    },
+    {
+        "contents": "data\\YRI\\20170110-090442.news",
+        "description": null,
+        "guid": "yahoo_finance/1704251584",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=135otncv7/*http://www.capitalcube.com/blog/index.php/yamana-gold-inc-value-analysis-torontoyri-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 16:49:09 GMT",
+        "source": "data\\YRI\\20170110.rss",
+        "title": "Yamana Gold, Inc. \u2013 Value Analysis (TORONTO:YRI) : January 9, 2017"
     }
 ]

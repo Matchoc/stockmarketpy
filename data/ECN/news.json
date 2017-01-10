@@ -115,5 +115,14 @@
         "pubDate": "Mon, 03 Oct 2016 13:19:44 GMT",
         "source": "data\\ECN\\20161221.rss",
         "title": "Element Closes Transaction to Separate into Element Fleet Management and ECN Capital"
+    },
+    {
+        "contents": "data\\ECN\\20170110-090431.news",
+        "description": null,
+        "guid": "yahoo_finance/559525070",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ecn-capital-appoints-chief-financial-222451274.html",
+        "pubDate": "Mon, 09 Jan 2017 22:24:51 GMT",
+        "source": "data\\ECN\\20170110.rss",
+        "title": "ECN Capital Appoints Chief Financial Officer"
     }
 ]

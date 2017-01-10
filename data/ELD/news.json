@@ -277,5 +277,14 @@
         "pubDate": "Fri, 06 Jan 2017 11:50:00 GMT",
         "source": "data\\ELD\\20170106.rss",
         "title": "Eldorado Announces Preliminary 2016 Operational Results and 2017 Guidance"
+    },
+    {
+        "contents": "data\\ELD\\20170110-090043.news",
+        "description": null,
+        "guid": "yahoo_finance/3438417134",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500772.html",
+        "pubDate": "Tue, 10 Jan 2017 13:15:00 GMT",
+        "source": "data\\ELD\\20170110.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Eldorado Gold, Barrick Gold, Argonaut Gold, and Americas Silver"
     }
 ]
