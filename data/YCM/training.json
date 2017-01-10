@@ -4,7 +4,7 @@
             1.0,
             0.9800000000000001,
             0.994736842105263,
-            0.8813775510204086,
+            0.8825641025641031,
             24,
             0,
             0,
@@ -24162,7 +24162,7 @@
             0.87,
             0.89,
             0.9063157894736842,
-            0.8284285714285721,
+            0.829712230215828,
             3,
             0,
             0,
@@ -48320,7 +48320,7 @@
             0.55,
             0.6300000000000001,
             0.5957894736842105,
-            0.5906060606060605,
+            0.5887499999999999,
             -2,
             0,
             0,
@@ -72474,6 +72474,35 @@
             0,
             0
         ]
+    ],
+    "news": [
+        {
+            "contents": "data\\YCM\\20161221-221655.news",
+            "description": null,
+            "guid": "yahoo_finance/744566024",
+            "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-monthly-dividend-declared-130000200.html",
+            "pubDate": "Wed, 19 Oct 2016 13:00:00 GMT",
+            "source": "data\\YCM\\20161221.rss",
+            "title": "Commerce Split: Monthly Dividend Declared for Class I and Class II Preferred Shares"
+        },
+        {
+            "contents": "data\\YCM\\20161221-221657.news",
+            "description": null,
+            "guid": "yahoo_finance/2046281583",
+            "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-fund-financial-results-201020974.html",
+            "pubDate": "Thu, 28 Jul 2016 20:10:20 GMT",
+            "source": "data\\YCM\\20161221.rss",
+            "title": "New Commerce Split Fund: Financial Results to May 31, 2016"
+        },
+        {
+            "contents": "data\\YCM\\20161221-221659.news",
+            "description": null,
+            "guid": "yahoo_finance/946816118",
+            "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-fund-financial-results-213019477.html",
+            "pubDate": "Thu, 25 Feb 2016 21:30:19 GMT",
+            "source": "data\\YCM\\20161221.rss",
+            "title": "New Commerce Split Fund: Financial Results to November 30, 2015"
+        }
     ],
     "y": [
         0.0,

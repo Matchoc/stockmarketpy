@@ -4,7 +4,7 @@
             0.28,
             0.28,
             0.2610526315789475,
-            0.27078571428571474,
+            0.2703597122302162,
             23,
             0,
             0,
@@ -24162,7 +24162,7 @@
             0.25,
             0.25,
             0.27473684210526317,
-            0.2887878787878788,
+            0.28750000000000003,
             3,
             0,
             0,
@@ -48316,6 +48316,26 @@
             0,
             0
         ]
+    ],
+    "news": [
+        {
+            "contents": "data\\FTU\\20161221-221143.news",
+            "description": null,
+            "guid": "yahoo_finance/3330210262",
+            "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/us-financial-15-split-corp-202432388.html",
+            "pubDate": "Thu, 28 Jul 2016 20:24:32 GMT",
+            "source": "data\\FTU\\20161221.rss",
+            "title": "US Financial 15 Split Corp.: Financial Results to May 31, 2016"
+        },
+        {
+            "contents": "data\\FTU\\20161221-221145.news",
+            "description": null,
+            "guid": "yahoo_finance/2401626551",
+            "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/us-financial-15-split-corp-220046146.html",
+            "pubDate": "Thu, 25 Feb 2016 22:00:46 GMT",
+            "source": "data\\FTU\\20161221.rss",
+            "title": "US Financial 15 Split Corp.: Financial Results to November 30, 2015"
+        }
     ],
     "y": [
         0.0,

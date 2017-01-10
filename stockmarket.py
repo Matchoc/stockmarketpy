@@ -17,7 +17,7 @@ import urllib.error
 import scipy.ndimage
 import multiprocessing
 import nltk
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from languageprocessing import *
 from datageneration import *
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
@@ -34,7 +34,7 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "BNS" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 
 PRINT_LEVEL=3
 def myprint(str, level=0):
@@ -277,6 +277,8 @@ def updateTraining(symbol):
 		allnews = json.load(jsonfile)
 	all_x = []
 	all_y = []
+	all_news = []
+	
 	failedx = 0
 	failedy = 0
 	for news in allnews:
@@ -286,6 +288,7 @@ def updateTraining(symbol):
 			if x is not None:
 				all_x += x
 				all_y.append(y)
+				all_news.append(news) # useful for debugging
 			else:
 				failedx += 1
 				myprint("[" + symbol + "] failed to load news X : " + news["title"] + " (" + news["pubDate"] + ")", 1)
@@ -297,6 +300,7 @@ def updateTraining(symbol):
 	results = {}
 	results["X"] = all_x
 	results["y"] = all_y
+	results["news"] = all_news
 	with open(get_training_json(symbol), 'w') as fo:
 		json.dump(results, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
@@ -310,7 +314,7 @@ def gatherTraining(symbol):
 	with open(trainingjsonpath, 'r') as jsonfile:
 		trainingjson = json.load(jsonfile)
 		
-	return trainingjson["X"], trainingjson["y"]
+	return trainingjson
 
 def get_all_Xy():
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
@@ -322,7 +326,8 @@ def get_all_Xy():
 	for symbol in symbols:
 		if SKIP_SYMBOL == symbol:
 			continue
-		cur_x, cur_y = gatherTraining(symbol)
+		training_data = gatherTraining(symbol)
+		cur_x, cur_y = training_data["X"], training_data["y"]
 		all_x += cur_x
 		all_y += cur_y
 	data["X"] = all_x
@@ -569,8 +574,8 @@ def graph_actual_vs_predicted():
 	if MACHINE_NEWS is None:
 		load_machine()
 	data = get_all_Xy() # SKIP_SYMBOL should be set and training should have been done with same skip_symbol (unless testing overfitting)
-	skipDataX, skipDatay = gatherTraining(SKIP_SYMBOL)
-	realresult = skipDatay
+	skipped_data = gatherTraining(SKIP_SYMBOL)
+	skipDataX, realresult, allnews = skipped_data["X"], skipped_data["y"], skipped_data["news"]
 	predictedresult = []
 	count = 0
 	sx = SCALER_NEWS.transform(skipDataX)
@@ -582,22 +587,43 @@ def graph_actual_vs_predicted():
 	#	allnews = json.load(jsonfile)
 	#for news in allnews:
 	#	dates.append(get_news_date(news["pubDate"]))
-		
-	#plt.plot(dates, predictedresult, 'ro')
-	#plt.show()	
+	
+	dates = [get_news_date(news) for news in allnews]
+	
+	result = []
+	count = 0
+	
+	result = [{'date': dates[i], 'pred': predictedresult[i], 'real': realresult[i]} for i in range(len(dates))]
+	
+	#for date in dates:
+	#	data = {}
+	#	data["date"] = date
+	#	data["pred"] = predictedresult[count]
+	#	data["real"] = realresult[count]
+	#	count += 1
+	#	result.append(data)
+	
+	sorted_results = sorted(result, key=lambda k: k['date'])
+	
+	sorted_preds = [k['pred'] for k in sorted_results]
+	sorted_dates = [k['date'] for k in sorted_results]
+	sorted_real = [k['real'] for k in sorted_results]
+	
+	plt.plot(sorted_dates, sorted_preds, 'ro-', sorted_dates, sorted_real, 'bo-')
+	plt.show()	
 	
 	myprint("todo")
 	
 if __name__ == '__main__':
 	#train_cross_variations()
-	#graph_actual_vs_predicted()
+	graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
@@ -607,6 +633,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
+	#update_all_symbols(["updateTraining", "train"])
 	#update_all_symbols(["train"])
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
