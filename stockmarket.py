@@ -1,5 +1,6 @@
 import sys
 import os
+os.environ["path"] = os.path.dirname(sys.executable) + ";" + os.environ["path"]
 import glob
 import operator
 import datetime
@@ -581,27 +582,12 @@ def graph_actual_vs_predicted():
 	sx = SCALER_NEWS.transform(skipDataX)
 	predictedresult = MACHINE_NEWS.predict(sx)
 	
-	#dates = []
-	#newspath = get_news_json_path(SKIP_SYMBOL)
-	#with open(newspath, 'r') as jsonfile:
-	#	allnews = json.load(jsonfile)
-	#for news in allnews:
-	#	dates.append(get_news_date(news["pubDate"]))
-	
 	dates = [get_news_date(news) for news in allnews]
 	
 	result = []
 	count = 0
 	
 	result = [{'date': dates[i], 'pred': predictedresult[i], 'real': realresult[i]} for i in range(len(dates))]
-	
-	#for date in dates:
-	#	data = {}
-	#	data["date"] = date
-	#	data["pred"] = predictedresult[count]
-	#	data["real"] = realresult[count]
-	#	count += 1
-	#	result.append(data)
 	
 	sorted_results = sorted(result, key=lambda k: k['date'])
 	
@@ -616,14 +602,14 @@ def graph_actual_vs_predicted():
 	
 if __name__ == '__main__':
 	#train_cross_variations()
-	graph_actual_vs_predicted()
+	#graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
