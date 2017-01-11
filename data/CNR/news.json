@@ -268,5 +268,14 @@
         "pubDate": "Mon, 09 Jan 2017 14:08:05 GMT",
         "source": "data\\CNR\\20170110.rss",
         "title": "How Canadian National\u2019s Intermodal Volumes Compared with the Industry"
+    },
+    {
+        "contents": "data\\CNR\\20170111-090345.news",
+        "description": null,
+        "guid": "yahoo_finance/555642090",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=133dpi0ol/*http://marketrealist.com/2017/01/double-digit-rise-in-volumes-minus-coal-pushed-cnis-carloads-up/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 10 Jan 2017 15:36:33 GMT",
+        "source": "data\\CNR\\20170111.rss",
+        "title": "Double-Digit Rise in Volumes Minus Coal Pushed CNI\u2019s Carloads Up"
     }
 ]

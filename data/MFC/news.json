@@ -250,5 +250,14 @@
         "pubDate": "Mon, 09 Jan 2017 14:00:00 GMT",
         "source": "data\\MFC\\20170110.rss",
         "title": "John Hancock Investments launches national advertising campaign"
+    },
+    {
+        "contents": "data\\MFC\\20170111-090522.news",
+        "description": "[PR Newswire] - WATERLOO, ON, Jan. 11, 2017 /CNW/ - Under its redesigned benefits plan, Manulife employees will now receive a mental health support benefit up to $10,000 per person per year, including family members. This amount represents among the highest mental health benefits offered by Canadian employers. According to the Canadian Mental Health Association, an estimated one in five Canadians will experience a mental illness in their lifetime.",
+        "guid": "yahoo_finance/1189527422",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-employees-canada-receive-10-133000198.html",
+        "pubDate": "Wed, 11 Jan 2017 13:30:00 GMT",
+        "source": "data\\MFC\\20170111.rss",
+        "title": "Manulife Employees in Canada Receive $10,000 Per Year in Mental Health Benefits"
     }
 ]

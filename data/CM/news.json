@@ -556,5 +556,14 @@
         "pubDate": "Tue, 10 Jan 2017 00:16:11 GMT",
         "source": "data\\CM\\20170110.rss",
         "title": "CIBC World Markets Inc. Buys Fortis Inc, Magna International Inc, Teck Resources Ltd, Sells ..."
+    },
+    {
+        "contents": "data\\CM\\20170111-090105.news",
+        "description": "[Reuters] - Canadian banks are looking to expand in the United States, taking advantage of pro-growth policies expected to be pursued by President-elect Donald Trump's new administration, senior executives told a banking conference in Toronto. The valuations of U.S. regional banks have soared following Trump's victory in the Nov. 8 election, supported by the prospect of higher interest rates, softer banking regulation and a lower corporate tax rate. Royal Bank of Canada Chief Executive Dave McKay expects the bank to benefit from changes made by the incoming president, he said at the RBC 2017 Canadian Bank CEO conference.",
+        "guid": "yahoo_finance/2867375691",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-rbc-sees-benefits-trump-151703335.html",
+        "pubDate": "Tue, 10 Jan 2017 19:49:31 GMT",
+        "source": "data\\CM\\20170111.rss",
+        "title": "Canadian banks bullish on Trump's pro-growth agenda"
     }
 ]

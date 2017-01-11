@@ -520,5 +520,14 @@
         "pubDate": "Mon, 09 Jan 2017 16:09:43 GMT",
         "source": "data\\K\\20170110.rss",
         "title": "Kinross Gold Corp. \u2013 Value Analysis (TORONTO:K) : January 9, 2017"
+    },
+    {
+        "contents": "data\\K\\20170111-090405.news",
+        "description": null,
+        "guid": "yahoo_finance/1209675686",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12dukvnuo/*http://marketrealist.com/2017/01/the-correlation-of-gold-and-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 10 Jan 2017 19:23:16 GMT",
+        "source": "data\\K\\20170111.rss",
+        "title": "The Correlation of Gold and Mining Stocks"
     }
 ]

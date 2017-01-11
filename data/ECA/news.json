@@ -610,5 +610,14 @@
         "pubDate": "Thu, 05 Jan 2017 11:32:11 GMT",
         "source": "data\\ECA\\20170106.rss",
         "title": "Encana Expects to Surpass 2017 Production Projections"
+    },
+    {
+        "contents": "data\\ECA\\20170111-090336.news",
+        "description": null,
+        "guid": "yahoo_finance/3303231874",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/oil-gas-stock-roundup-williams-193707651.html",
+        "pubDate": "Tue, 10 Jan 2017 19:37:07 GMT",
+        "source": "data\\ECA\\20170111.rss",
+        "title": "Oil & Gas Stock Roundup: Williams' Dividend Hike, SM Energy's Asset Sale and More"
     }
 ]

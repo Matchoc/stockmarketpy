@@ -988,5 +988,14 @@
         "pubDate": "Mon, 09 Jan 2017 15:56:20 GMT",
         "source": "data\\RY\\20170110.rss",
         "title": "CANADA STOCKS-TSX falls in broad retreat led by energy stocks"
+    },
+    {
+        "contents": "data\\RY\\20170111-090117.news",
+        "description": null,
+        "guid": "yahoo_finance/2782960966",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fang-stocks-rally-regain-bite-152403988.html",
+        "pubDate": "Tue, 10 Jan 2017 15:24:03 GMT",
+        "source": "data\\RY\\20170111.rss",
+        "title": "RBC Capital's Mahaney: Netflix Is Top FANG Stock Pick"
     }
 ]

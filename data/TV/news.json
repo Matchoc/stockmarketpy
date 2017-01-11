@@ -367,5 +367,14 @@
         "pubDate": "Wed, 28 Dec 2016 13:19:03 GMT",
         "source": "data\\TV\\20161228.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Trevali Mining, Yamana Gold, Tahoe Resources, and Dalradian Resources"
+    },
+    {
+        "contents": "data\\TV\\20170111-090114.news",
+        "description": null,
+        "guid": "yahoo_finance/1682132167",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dftl0em/*http://www.capitalcube.com/blog/index.php/trevali-mining-corp-breached-its-50-day-moving-average-in-a-bullish-manner-tv-ca-january-11-2017/",
+        "pubDate": "Wed, 11 Jan 2017 13:17:10 GMT",
+        "source": "data\\TV\\20170111.rss",
+        "title": "Trevali Mining Corp. breached its 50 day moving average in a Bullish Manner : TV-CA : January 11, 2017"
     }
 ]

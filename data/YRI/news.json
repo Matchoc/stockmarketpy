@@ -511,5 +511,32 @@
         "pubDate": "Mon, 09 Jan 2017 16:49:09 GMT",
         "source": "data\\YRI\\20170110.rss",
         "title": "Yamana Gold, Inc. \u2013 Value Analysis (TORONTO:YRI) : January 9, 2017"
+    },
+    {
+        "contents": "data\\YRI\\20170111-090045.news",
+        "description": null,
+        "guid": "yahoo_finance/2709409584",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=13e0rn8e8/*http://blogs.barrons.com/emergingmarketsdaily/2017/01/10/emerging-markets-roundup-its-all-about-commodities/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Tue, 10 Jan 2017 23:34:00 GMT",
+        "source": "data\\YRI\\20170111.rss",
+        "title": "Emerging Markets Roundup: It's All About Commodities"
+    },
+    {
+        "contents": "data\\YRI\\20170111-090046.news",
+        "description": null,
+        "guid": "yahoo_finance/2085824254",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/operations-yamana-gold-mine-chile-183857004.html",
+        "pubDate": "Tue, 10 Jan 2017 18:38:57 GMT",
+        "source": "data\\YRI\\20170111.rss",
+        "title": "Operations at Yamana gold mine in Chile suspended late last week"
+    },
+    {
+        "contents": "data\\YRI\\20170111-090047.news",
+        "description": null,
+        "guid": "yahoo_finance/1782381894",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=133i8p6ld/*http://blogs.barrons.com/emergingmarketsdaily/2017/01/10/yamana-gold-troubles-in-chile-40-upside/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Tue, 10 Jan 2017 17:56:00 GMT",
+        "source": "data\\YRI\\20170111.rss",
+        "title": "Yamana Gold: Troubles In Chile, 40% Upside?"
     }
 ]
