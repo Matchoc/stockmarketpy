@@ -1,0 +1,69 @@
+NPP_EXEC: "Python"
+NPP_SAVE: D:\Dev\stockmarketpy3\stockmarket.py
+CD: D:\Dev\stockmarketpy3
+Current directory: D:\Dev\stockmarketpy3
+"D:\Dev\python_env2\npp\..\python35\python.exe" -u "D:\Dev\stockmarketpy3\stockmarket.py"
+Process started >>>
+D:\Dev\python_env2\python35\lib\site-packages\nltk\twitter\__init__.py:20: UserWarning: The twython library has not been installed. Some functionality from the twitter package will not be available.
+  warnings.warn("The twython library has not been installed. "
+Could not find any valid date in get_num_days_up : VFF for news : Village Farms International Announces the Addition of Dr. Roberta Cook to its Board of Directors
+crossvalidating : training size = 1141, validation size = 489
+Start machine training (alpha=0.5, layers = (150, 29))...
+avg ecart : 0.0527788982577, root mean square : 0.144707394649
+------------------------
+Start machine training (alpha=0.5, layers = (180, 30))...
+avg ecart : 0.0543955761212, root mean square : 0.148080739091
+------------------------
+Start machine training (alpha=0.5, layers = (150, 150))...
+avg ecart : 0.0534858983145, root mean square : 0.146051447559
+------------------------
+Start machine training (alpha=0.5, layers = (350, 350))...
+avg ecart : 0.0497216272619, root mean square : 0.139627961863
+------------------------
+Start machine training (alpha=0.5, layers = (100, 100))...
+avg ecart : 0.048727708401, root mean square : 0.138788284264
+------------------------
+Start machine training (alpha=0.5, layers = (175, 175))...
+avg ecart : 0.0463988132016, root mean square : 0.135182684918
+------------------------
+Start machine training (alpha=0.5, layers = (150, 150, 150))...
+avg ecart : 0.0469777987081, root mean square : 0.135779153931
+------------------------
+Start machine training (alpha=0.05, layers = (150, 29))...
+avg ecart : 0.0266626436984, root mean square : 0.0866370364378
+------------------------
+Start machine training (alpha=0.05, layers = (180, 30))...
+avg ecart : 0.0208035398369, root mean square : 0.0712581237485
+------------------------
+Start machine training (alpha=0.05, layers = (150, 150))...
+avg ecart : 0.0308311317207, root mean square : 0.104444201837
+------------------------
+Start machine training (alpha=0.05, layers = (350, 350))...
+avg ecart : 0.0227162731712, root mean square : 0.0736881023109
+------------------------
+Start machine training (alpha=0.05, layers = (100, 100))...
+avg ecart : 0.0216407499572, root mean square : 0.0724101858495
+------------------------
+Start machine training (alpha=0.05, layers = (175, 175))...
+avg ecart : 0.0205843281633, root mean square : 0.0662234048386
+------------------------
+Start machine training (alpha=0.05, layers = (150, 150, 150))...
+<<< Process has been terminated.
+================ READY ================
+
+// 2017-01-11 current result after updateing everything and doing cross-validate
+
+D:\Dev\python_env2\python35\lib\site-packages\nltk\twitter\__init__.py:20: UserWarning: The twython library has not been installed. Some functionality from the twitter package will not be available.
+  warnings.warn("The twython library has not been installed. "
+D:\Dev\python_env2\python35\lib\site-packages\bs4\__init__.py:146: UserWarning: You provided Unicode markup but also provided a value for from_encoding. Your from_encoding will be ignored.
+  warnings.warn("You provided Unicode markup but also provided a value for from_encoding. Your from_encoding will be ignored.")
+URL failed : Response not unicode
+Could not find any valid date in get_num_days_up : BTE for news : Baytex Announces New Gas Conservation Project in Peace River Region
+URL failed : Response not unicode
+Start machine training (alpha=25.0, layers = (180, 30))...
+... End machine training : loss 0.0370386038989, iter 401
+avg ecart : 0.06860830904, root mean square : 0.185355836586
+done
+
+avg ecart : 0.057799481537, root mean square : 0.169815287119
+done

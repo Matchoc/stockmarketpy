@@ -871,5 +871,14 @@
         "pubDate": "Thu, 24 Sep 2015 19:34:35 GMT",
         "source": "data\\BBD.B\\20170111.rss",
         "title": "Exclusive - Bombardier eyes final CSeries certification flight in November: sources"
+    },
+    {
+        "contents": "data\\BBD.B\\20170111-221040.news",
+        "description": null,
+        "guid": "yahoo_finance/1701080093",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13gb8om9i/*http://www.bloomberg.com/news/articles/2017-01-11/bain-said-to-weigh-options-for-stake-in-snowmobile-maker-brp?cmpid=yhoo.headline",
+        "pubDate": "Wed, 11 Jan 2017 16:02:05 GMT",
+        "source": "data\\BBD.B\\20170111.rss",
+        "title": "Bain Said to Weigh Sale of Stake in Snowmobile Maker BRP"
     }
 ]

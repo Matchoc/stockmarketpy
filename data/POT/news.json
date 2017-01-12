@@ -835,5 +835,23 @@
         "pubDate": "Mon, 09 Jan 2017 15:42:28 GMT",
         "source": "data\\POT\\20170110.rss",
         "title": "Canadian potash shipper Canpotex says fully committed through March"
+    },
+    {
+        "contents": "data\\POT\\20170111-221541.news",
+        "description": null,
+        "guid": "yahoo_finance/126230772",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/slumping-fertilizer-makers-turn-high-184520914.html",
+        "pubDate": "Wed, 11 Jan 2017 18:45:20 GMT",
+        "source": "data\\POT\\20170111.rss",
+        "title": "Slumping fertilizer makers turn to high-margin industrial uses"
+    },
+    {
+        "contents": "data\\POT\\20170111-221543.news",
+        "description": null,
+        "guid": "yahoo_finance/1988232496",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13igpup1p/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-potash-corp-of-saskatchewan-inc-january-11-2017/",
+        "pubDate": "Wed, 11 Jan 2017 18:11:36 GMT",
+        "source": "data\\POT\\20170111.rss",
+        "title": "ETFs with exposure to Potash Corp. of Saskatchewan, Inc. : January 11, 2017"
     }
 ]

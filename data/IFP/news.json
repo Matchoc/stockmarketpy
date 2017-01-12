@@ -250,5 +250,14 @@
         "pubDate": "Mon, 09 Jan 2017 16:04:40 GMT",
         "source": "data\\IFP\\20170110.rss",
         "title": "Interfor Corp. \u2013 Value Analysis (TORONTO:IFP) : January 9, 2017"
+    },
+    {
+        "contents": "data\\IFP\\20170111-221207.news",
+        "description": null,
+        "guid": "yahoo_finance/2168829724",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/interfor-announce-fourth-quarter-fiscal-010512244.html",
+        "pubDate": "Thu, 12 Jan 2017 01:05:12 GMT",
+        "source": "data\\IFP\\20170111.rss",
+        "title": "Interfor to Announce Fourth Quarter and Fiscal 2016 Results on February 9, 2017"
     }
 ]

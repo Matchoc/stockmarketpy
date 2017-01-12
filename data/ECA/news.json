@@ -619,5 +619,32 @@
         "pubDate": "Tue, 10 Jan 2017 19:37:07 GMT",
         "source": "data\\ECA\\20170111.rss",
         "title": "Oil & Gas Stock Roundup: Williams' Dividend Hike, SM Energy's Asset Sale and More"
+    },
+    {
+        "contents": "data\\ECA\\20170111-220959.news",
+        "description": null,
+        "guid": "yahoo_finance/3395733313",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ulho11b/*http://marketrealist.com/2017/01/what-is-encanas-production-outlook-for-the-next-five-years/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 11 Jan 2017 23:05:51 GMT",
+        "source": "data\\ECA\\20170111.rss",
+        "title": "What Is Encana\u2019s Production Outlook for the Next Five Years?"
+    },
+    {
+        "contents": "data\\ECA\\20170111-221000.news",
+        "description": null,
+        "guid": "yahoo_finance/2245079933",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1325v0jbd/*http://marketrealist.com/2017/01/why-encana-expects-to-exceed-original-2017-production-guidance/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 11 Jan 2017 21:11:08 GMT",
+        "source": "data\\ECA\\20170111.rss",
+        "title": "Why Encana Expects to Exceed Original 2017 Production Guidance"
+    },
+    {
+        "contents": "data\\ECA\\20170111-221000.news",
+        "description": null,
+        "guid": "yahoo_finance/2391023040",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-analyst-blog-highlights-williams-143002057.html",
+        "pubDate": "Wed, 11 Jan 2017 14:30:02 GMT",
+        "source": "data\\ECA\\20170111.rss",
+        "title": "The Zacks Analyst Blog Highlights: Williams, SM Energy, Marathon Petroleum, Encana and Schlumberger"
     }
 ]

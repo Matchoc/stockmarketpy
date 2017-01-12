@@ -799,5 +799,23 @@
         "pubDate": "Fri, 08 Aug 2014 12:08:27 GMT",
         "source": "data\\ABX\\20170110.rss",
         "title": "Cost discipline tempts investors back into gold mining shares"
+    },
+    {
+        "contents": "data\\ABX\\20170111-221432.news",
+        "description": null,
+        "guid": "yahoo_finance/1878970538",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-down-again-positive-1st-211337584.html",
+        "pubDate": "Wed, 11 Jan 2017 21:14:29 GMT",
+        "source": "data\\ABX\\20170111.rss",
+        "title": "Gold Down Again After a Positive 1st Week"
+    },
+    {
+        "contents": "data\\ABX\\20170111-221433.news",
+        "description": null,
+        "guid": "yahoo_finance/4083665937",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132v9ul66/*http://www.fool.com/investing/2017/01/11/barrick-gold-doubled-in-2016-will-it-soar-even-hig.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 11 Jan 2017 14:18:05 GMT",
+        "source": "data\\ABX\\20170111.rss",
+        "title": "Barrick Gold Doubled in 2016. Will It Soar Even Higher in 2017?"
     }
 ]

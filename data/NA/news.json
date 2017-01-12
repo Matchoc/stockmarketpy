@@ -430,5 +430,14 @@
         "pubDate": "Thu, 05 Jan 2017 12:03:07 GMT",
         "source": "data\\NA\\20170106.rss",
         "title": "PRESS DIGEST- Canada - Jan 5"
+    },
+    {
+        "contents": "data\\NA\\20170111-221128.news",
+        "description": null,
+        "guid": "yahoo_finance/4080665122",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13au4sg01/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-national-bank-of-canada-january-11-2017/",
+        "pubDate": "Wed, 11 Jan 2017 18:03:46 GMT",
+        "source": "data\\NA\\20170111.rss",
+        "title": "ETFs with exposure to National Bank of Canada : January 11, 2017"
     }
 ]

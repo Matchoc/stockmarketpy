@@ -35,9 +35,9 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-SKIP_SYMBOL = "BNS" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 
-PRINT_LEVEL=3
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -131,6 +131,37 @@ def gen_news_x(symbol, news):
 		#	x.append(0)
 		x.append(count)
 	return [x]
+	
+def gen_allnews_x(symbol, allnews):
+	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
+	with open(allwordspath, 'r') as jsonfile:
+		allwords = json.load(jsonfile)
+	sortedX = sorted(allwords.keys())
+	x = get_base_X(symbol, allnews[0])
+	x_words = [0] * len(sortedX)
+	valid_news = False
+	for news in allnews:
+		newswordspath = news["contents"] + ".words"
+		# skip news we couldn't download
+		with open(news["contents"], 'rb') as testfo:
+			text = testfo.read()
+		if len(text) <= 0:
+			continue
+		with open(newswordspath, 'r') as jsonfile:
+			newswords = json.load(jsonfile)
+		
+		count = 0
+		for key in sortedX:
+			if key in newswords:
+				x_words[count] += newswords[key]
+				#x_words[count] = 1
+			count += 1
+		valid_news = True
+	x = x + x_words
+	if valid_news:
+		return [x]
+	else:
+		return None
 	
 def get_base_X(symbol, news):
 	prev_close_price = get_previous_close_price(symbol, news)
@@ -272,6 +303,55 @@ def get_close_prev_day(symbol, news):
 		price = prices[pricedatefmt]
 	return price["Adj Close"]
 	
+def group_news_by_date(allnews):
+	results = {}
+	for news in allnews:
+		newsdate = get_news_date(news)
+		newsdate = get_valid_market_date(newsdate)
+		pricedatefmt = newsdate.strftime("%Y-%m-%d")
+		if pricedatefmt not in results:
+			results[pricedatefmt] = []
+		results[pricedatefmt].append(news)
+		
+	return results
+	
+def updateTraining_by_date(symbol):
+	newspath = get_news_json_path(symbol)
+	with open(newspath, 'r') as jsonfile:
+		allnews = json.load(jsonfile)
+	all_x = []
+	all_y = []
+	all_news = []
+	failedx = 0
+	failedy = 0
+	news_by_date = group_news_by_date(allnews)
+	for key in news_by_date:
+		y = gen_news_y(symbol, news_by_date[key][0])
+		if y is not None:
+			x = gen_allnews_x(symbol, news_by_date[key])
+			if x is not None:
+				all_x += x
+				all_y.append(y)
+				all_news.append(news_by_date[key]) # useful for debugging
+			else:
+				failedx += 1
+				myprint("[" + symbol + "] failed to load news X (" + news_by_date[key][0]["pubDate"] + ")", 1)
+		else:
+			failedy += 1
+			myprint("[" + symbol + "] failed to load news y (" + news_by_date[key][0]["pubDate"] + ")", 1)
+			
+		myprint("[" + symbol + "] processed " + news_by_date[key][0]["pubDate"] + " with " + str(len(news_by_date[key])) + " news", 0)
+			
+	myprint("Failed to load " + str(failedx) + " X and " + str(failedy) + "Y on a list of " + str(len(news_by_date)) + " dates", 2)
+	results = {}
+	results["X"] = all_x
+	results["y"] = all_y
+	results["news"] = all_news
+	with open(get_training_json(symbol), 'w') as fo:
+		json.dump(results, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
+	return all_x, all_y
+	
 def updateTraining(symbol):
 	newspath = get_news_json_path(symbol)
 	with open(newspath, 'r') as jsonfile:
@@ -279,7 +359,6 @@ def updateTraining(symbol):
 	all_x = []
 	all_y = []
 	all_news = []
-	
 	failedx = 0
 	failedy = 0
 	for news in allnews:
@@ -310,7 +389,7 @@ def updateTraining(symbol):
 def gatherTraining(symbol):
 	trainingjsonpath = get_training_json(symbol)
 	if not os.path.isfile(trainingjsonpath):
-		return updateTraining(symbol)
+		return updateTraining_by_date(symbol)
 	
 	with open(trainingjsonpath, 'r') as jsonfile:
 		trainingjson = json.load(jsonfile)
@@ -391,7 +470,7 @@ def update_symbol(symbol, steps):
 	if "processnews" in steps:
 		process_all_news(symbol)
 	if "updateTraining" in steps:
-		updateTraining(symbol)
+		updateTraining_by_date(symbol)
 
 def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval", "today"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
@@ -582,7 +661,7 @@ def graph_actual_vs_predicted():
 	sx = SCALER_NEWS.transform(skipDataX)
 	predictedresult = MACHINE_NEWS.predict(sx)
 	
-	dates = [get_news_date(news) for news in allnews]
+	dates = [get_news_date(news[0]) for news in allnews]
 	
 	result = []
 	count = 0
@@ -595,8 +674,27 @@ def graph_actual_vs_predicted():
 	sorted_dates = [k['date'] for k in sorted_results]
 	sorted_real = [k['real'] for k in sorted_results]
 	
-	plt.plot(sorted_dates, sorted_preds, 'ro-', sorted_dates, sorted_real, 'bo-')
-	plt.show()	
+	plt.plot(sorted_dates, sorted_preds, 'ro-', label="predicted", linewidth=2)
+	plt.plot(sorted_dates, sorted_real, 'bo-', label="actual", linewidth=2)
+	
+	csvpath = get_price_csv_path(SKIP_SYMBOL)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	data = []
+	for key in prices:
+		day_price = {}
+		day_price["date"] = datetime.datetime.strptime(key, '%Y-%m-%d')
+		day_price["pl"] = prices[key]["Adj Close"] - prices[key]["Open"]
+		data.append(day_price)
+	all_prices = sorted(data, key=lambda k: k['date'])
+	prices_date = [k["date"] for k in all_prices]
+	prices_pl = [k["pl"] for k in all_prices]
+	plt.plot(prices_date, prices_pl, 'go-', label="all prices")
+	plt.axhline(0)
+	plt.legend()
+	
+	plt.show()
 	
 	myprint("todo")
 	
@@ -614,6 +712,7 @@ if __name__ == '__main__':
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
 	
+	#update_all_symbols(["processnews", "allwords", "updateTraining", "train"])
 	#update_all_symbols(["updateTraining"])
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])

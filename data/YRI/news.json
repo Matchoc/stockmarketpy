@@ -538,5 +538,14 @@
         "pubDate": "Tue, 10 Jan 2017 17:56:00 GMT",
         "source": "data\\YRI\\20170111.rss",
         "title": "Yamana Gold: Troubles In Chile, 40% Upside?"
+    },
+    {
+        "contents": "data\\YRI\\20170111-221325.news",
+        "description": "[Marketwired] - YAMANA GOLD INC. herein provides preliminary fourth quarter and full year production as well as consolidated cost estimates for 2016.",
+        "guid": "yahoo_finance/3546464387",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/yamana-gold-provides-preliminary-2016-004000732.html",
+        "pubDate": "Thu, 12 Jan 2017 00:40:00 GMT",
+        "source": "data\\YRI\\20170111.rss",
+        "title": "Yamana Gold Provides Preliminary 2016 Operational Results"
     }
 ]

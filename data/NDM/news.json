@@ -223,5 +223,14 @@
         "pubDate": "Fri, 06 Jan 2017 22:56:06 GMT",
         "source": "data\\NDM\\20170106.rss",
         "title": "Gold and Silver Stocks Regain Their Luster, but Will It Last?"
+    },
+    {
+        "contents": "data\\NDM\\20170111-221425.news",
+        "description": "[Marketwired] - Northern Dynasty Minerals Ltd. announces that it has entered into an agreement dated January 11, 2017 with Cantor Fitzgerald Canada Corporation, TD Securities Inc. and BMO Capital Markets, as co-lead underwriters ...",
+        "guid": "yahoo_finance/195170917",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-announces-us-25-212547846.html",
+        "pubDate": "Wed, 11 Jan 2017 21:25:47 GMT",
+        "source": "data\\NDM\\20170111.rss",
+        "title": "Northern Dynasty Announces US$25 Million Bought Deal"
     }
 ]
