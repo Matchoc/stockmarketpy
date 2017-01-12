@@ -817,5 +817,14 @@
         "pubDate": "Wed, 11 Jan 2017 14:18:05 GMT",
         "source": "data\\ABX\\20170111.rss",
         "title": "Barrick Gold Doubled in 2016. Will It Soar Even Higher in 2017?"
+    },
+    {
+        "contents": "data\\ABX\\20170112-090159.news",
+        "description": null,
+        "guid": "yahoo_finance/3393686505",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12kher1ea/*http://www.fool.com/investing/2017/01/12/better-buy-alcoa-inc-vs-barrick-gold.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 12 Jan 2017 13:24:50 GMT",
+        "source": "data\\ABX\\20170112.rss",
+        "title": "Better Buy: Alcoa Inc. vs. Barrick Gold"
     }
 ]

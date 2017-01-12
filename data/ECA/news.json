@@ -646,5 +646,14 @@
         "pubDate": "Wed, 11 Jan 2017 14:30:02 GMT",
         "source": "data\\ECA\\20170111.rss",
         "title": "The Zacks Analyst Blog Highlights: Williams, SM Energy, Marathon Petroleum, Encana and Schlumberger"
+    },
+    {
+        "contents": "data\\ECA\\20170112-090238.news",
+        "description": null,
+        "guid": "yahoo_finance/1841729878",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=134tah29q/*http://marketrealist.com/2017/01/how-encana-plans-to-increase-its-margin-over-the-next-five-years/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 12 Jan 2017 12:37:51 GMT",
+        "source": "data\\ECA\\20170112.rss",
+        "title": "How Encana Plans to Increase Its Margin over the Next Five Years"
     }
 ]

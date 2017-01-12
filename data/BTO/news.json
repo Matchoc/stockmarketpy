@@ -196,5 +196,14 @@
         "pubDate": "Thu, 29 Dec 2016 23:21:09 GMT",
         "source": "data\\BTO\\20161230.rss",
         "title": "Gold and Silver Stocks Surge Higher, but Can This Relief Rally Last?"
+    },
+    {
+        "contents": "data\\BTO\\20170112-090042.news",
+        "description": null,
+        "guid": "yahoo_finance/3895231121",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/malis-gold-production-0-4-124624613.html",
+        "pubDate": "Thu, 12 Jan 2017 12:46:24 GMT",
+        "source": "data\\BTO\\20170112.rss",
+        "title": "Mali's gold production up by 0.4 tonnes in 2016"
     }
 ]

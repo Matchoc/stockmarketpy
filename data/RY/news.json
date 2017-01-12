@@ -997,5 +997,23 @@
         "pubDate": "Tue, 10 Jan 2017 15:24:03 GMT",
         "source": "data\\RY\\20170111.rss",
         "title": "RBC Capital's Mahaney: Netflix Is Top FANG Stock Pick"
+    },
+    {
+        "contents": "data\\RY\\20170112-090216.news",
+        "description": null,
+        "guid": "yahoo_finance/1279441447",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13hhtkje9/*http://www.bloomberg.com/news/articles/2017-01-12/dead-art-billionaire-s-son-cleared-of-french-tax-fraud-charge?cmpid=yhoo.headline",
+        "pubDate": "Thu, 12 Jan 2017 09:55:50 GMT",
+        "source": "data\\RY\\20170112.rss",
+        "title": "Dead Art Billionaire\u2019s Son Cleared in French Tax Fraud Case"
+    },
+    {
+        "contents": "data\\RY\\20170112-090217.news",
+        "description": null,
+        "guid": "yahoo_finance/2379783048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dead-art-billionaire-son-cleared-095550343.html",
+        "pubDate": "Thu, 12 Jan 2017 09:55:50 GMT",
+        "source": "data\\RY\\20170112.rss",
+        "title": "Dead Art Billionaire Son Cleared of French Tax Fraud Charge"
     }
 ]
