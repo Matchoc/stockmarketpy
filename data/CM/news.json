@@ -565,5 +565,14 @@
         "pubDate": "Tue, 10 Jan 2017 19:49:31 GMT",
         "source": "data\\CM\\20170111.rss",
         "title": "Canadian banks bullish on Trump's pro-growth agenda"
+    },
+    {
+        "contents": "data\\CM\\20170113-090241.news",
+        "description": "[PR Newswire] - CIBC goes to great heights, delivering banking at clients' ski tips as part of new partnership WHISTLER, BC, Jan. 12, 2017 /CNW/ - What stands 8.5 feet high, weighs 4676 pounds and is located 1,850m (6,069ft) ...",
+        "guid": "yahoo_finance/735003913",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-first-ski-thru-atm-145800258.html",
+        "pubDate": "Thu, 12 Jan 2017 14:58:00 GMT",
+        "source": "data\\CM\\20170113.rss",
+        "title": "Canada's first ski-thru ATM opens atop Whistler Blackcomb"
     }
 ]

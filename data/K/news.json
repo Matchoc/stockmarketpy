@@ -529,5 +529,14 @@
         "pubDate": "Tue, 10 Jan 2017 19:23:16 GMT",
         "source": "data\\K\\20170111.rss",
         "title": "The Correlation of Gold and Mining Stocks"
+    },
+    {
+        "contents": "data\\K\\20170113-090356.news",
+        "description": null,
+        "guid": "yahoo_finance/2147237503",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12oipma54/*http://marketrealist.com/2017/01/what-are-the-correlations-of-mining-stocks-with-gold/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 12 Jan 2017 20:35:43 GMT",
+        "source": "data\\K\\20170113.rss",
+        "title": "What Are the Correlations of Mining Stocks with Gold?"
     }
 ]

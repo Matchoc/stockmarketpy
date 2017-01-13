@@ -205,5 +205,14 @@
         "pubDate": "Thu, 12 Jan 2017 12:46:24 GMT",
         "source": "data\\BTO\\20170112.rss",
         "title": "Mali's gold production up by 0.4 tonnes in 2016"
+    },
+    {
+        "contents": "data\\BTO\\20170113-090227.news",
+        "description": null,
+        "guid": "yahoo_finance/1833273455",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12up9p9ic/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-b2gold-corp-january-12-2017/",
+        "pubDate": "Thu, 12 Jan 2017 18:52:27 GMT",
+        "source": "data\\BTO\\20170113.rss",
+        "title": "ETFs with exposure to B2Gold Corp. : January 12, 2017"
     }
 ]

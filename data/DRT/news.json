@@ -196,5 +196,14 @@
         "pubDate": "Fri, 06 Jan 2017 13:51:08 GMT",
         "source": "data\\DRT\\20170106.rss",
         "title": "DIRTT Announces Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\DRT\\20170113-090334.news",
+        "description": null,
+        "guid": "yahoo_finance/3890111587",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ice-edge-business-solutions-ice-135825889.html",
+        "pubDate": "Thu, 12 Jan 2017 13:58:25 GMT",
+        "source": "data\\DRT\\20170113.rss",
+        "title": "Ice Edge Business Solutions' ICE(R) Software Platform Achieves Certified Integration with SAP(R) ERP"
     }
 ]

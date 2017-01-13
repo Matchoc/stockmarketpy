@@ -1015,5 +1015,23 @@
         "pubDate": "Thu, 12 Jan 2017 09:55:50 GMT",
         "source": "data\\RY\\20170112.rss",
         "title": "Dead Art Billionaire Son Cleared of French Tax Fraud Charge"
+    },
+    {
+        "contents": "data\\RY\\20170113-090044.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 12, 2017 /PRNewswire/ - Royal Bank of Canada (\"RBC\") (RY on TSX and NYSE) is announcing the redemption of all of the Exchange Traded Notes due July 19, 2034 linked to the Yorkville MLP Distribution Growth Leaders LiquidSM PR Index (\"ETNs\"). The ETNs are listed on the NYSE Arca (ticker symbol: YGRO). Under the terms of the ETNs and the Indenture, dated as of October 23, 2003 (as supplemented, the \"Indenture\"), between RBC and The Bank of New York Mellon (as successor to the corporate trust business of JPMorgan Chase Bank, N.A.) as Trustee, RBC will redeem all of the ETNs on February 1, 2017 (the \"Redemption Date\").",
+        "guid": "yahoo_finance/1739947217",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/royal-bank-canada-announces-redemption-213500146.html",
+        "pubDate": "Thu, 12 Jan 2017 21:35:00 GMT",
+        "source": "data\\RY\\20170113.rss",
+        "title": "Royal Bank of Canada announces redemption of YGRO Exchange Traded Notes"
+    },
+    {
+        "contents": "data\\RY\\20170113-090045.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 12, 2017 /CNW/ - Who is Canada's next Olympic star? Building on the success of Team Canada at the Rio 2016 Olympic Games, RBC, in partnership with the Canadian Olympic Committee (COC), the Canadian Olympic Foundation (COF), CBC Sports and the Canadian Olympic and Paralympic Sport Institute (COPSI) Network are renewing the search for future Olympic athletes through RBC Training Ground.",
+        "guid": "yahoo_finance/3969074921",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/looking-future-olympic-stars-rbc-160500014.html",
+        "pubDate": "Thu, 12 Jan 2017 16:05:00 GMT",
+        "source": "data\\RY\\20170113.rss",
+        "title": "Looking for future Olympic stars with RBC Training Ground"
     }
 ]

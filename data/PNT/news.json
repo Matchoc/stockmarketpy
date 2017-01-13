@@ -205,5 +205,59 @@
         "pubDate": "Wed, 04 Jan 2017 14:26:13 GMT",
         "source": "data\\PNT\\20170105.rss",
         "title": "CPI Card Group, Inc. breached its 50 day moving average in a Bullish Manner : PNT-CA : January 4, 2017"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090116.news",
+        "description": "[Business Wire] - Money 20/20\u2014Booth 1025\u2013CPI Card Group , a global leader in financial and EMV\u00ae chip card production and related services, today announced enhancements to its MYCA card ordering system that expand the gift card options available to program managers and financial institutions.",
+        "guid": "yahoo_finance/2412516505",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cpi-card-group-introduces-end-130200525.html",
+        "pubDate": "Mon, 24 Oct 2016 13:02:00 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "CPI Card Group Introduces End-to-End Support for Open-Loop Digital Prepaid Cards"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090117.news",
+        "description": "[Business Wire] - Money 20/20 -- Booth 1025 -- CPI Card Group , a global leader in financial and EMV\u00ae chip card production and related services, today announced a new globally available set of print on demand solutions that deliver significant flexibility to prepaid program managers and financial institutions.",
+        "guid": "yahoo_finance/993815006",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/print-demand-services-cpi-card-130100565.html",
+        "pubDate": "Mon, 24 Oct 2016 13:01:00 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "New Print on Demand Services from CPI Card Group Provide Flexibility for Prepaid Payment Card Programs"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090119.news",
+        "description": "[Business Wire] - Money 20/20 -- Booth 1025 -- CPI Card Group , a global leader in financial and EMV\u00ae chip card production and related services, today announced the introduction of a new design option for payment cards: an edge-to-edge metal card.",
+        "guid": "yahoo_finance/695416957",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edge-edge-metal-cpi-card-130000120.html",
+        "pubDate": "Mon, 24 Oct 2016 13:00:00 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "Edge-to-Edge Metal From CPI Card Group Enhances Payment Card Design"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090121.news",
+        "description": null,
+        "guid": "yahoo_finance/3579489248",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1358eg1ph/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-cpi-card-group-inc-october-19-2016/",
+        "pubDate": "Wed, 19 Oct 2016 17:30:00 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "ETF\u2019s with exposure to CPI Card Group, Inc. : October 19, 2016"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090140.news",
+        "description": "[at noodls] - Latest Addition to Leadership Team Focused on Building Best-in-Class Sales and Marketing Organization to Drive Continued Growth LITTLETON, Colo.--(BUSINESS WIRE)-- CPI Card Group (Nasdaq:PMTS) (TSX:PNT), ...",
+        "guid": "yahoo_finance/109693020",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281jtvdd/*http://www.publicnow.com/view/D4ADEDCBB46C0DFBE64A821E561EA29072DD98B2",
+        "pubDate": "Mon, 15 Aug 2016 14:21:02 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "CPI Card Group Appoints Lane R. Dubin as Senior Vice President, Sales and Marketing"
+    },
+    {
+        "contents": "data\\PNT\\20170113-090140.news",
+        "description": "[at noodls] - New Member of Leadership Team Aims for Continued Card Personalization Excellence and Superior Customer Service in CPI's Nashville Location LITTLETON, Colo.--(BUSINESS WIRE)-- CPI Card Group (Nasdaq:PMTS) ...",
+        "guid": "yahoo_finance/3133616812",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128j077ah/*http://www.publicnow.com/view/16EE691ED850B5BAA30D8A10857A59677D6DF812",
+        "pubDate": "Thu, 28 Jul 2016 10:48:10 GMT",
+        "source": "data\\PNT\\20170113.rss",
+        "title": "CPI Card Group Appoints Tom Knaus as VP and GM of Financial Card Operations"
     }
 ]

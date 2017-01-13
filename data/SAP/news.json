@@ -187,5 +187,14 @@
         "pubDate": "Mon, 09 Jan 2017 13:26:07 GMT",
         "source": "data\\SAP\\20170109.rss",
         "title": "Saputo, Inc. breached its 50 day moving average in a Bearish Manner : SAP-CA : January 9, 2017"
+    },
+    {
+        "contents": "data\\SAP\\20170113-090155.news",
+        "description": null,
+        "guid": "yahoo_finance/2647573224",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/saputo-inc-fiscal-2017-third-152059217.html",
+        "pubDate": "Thu, 12 Jan 2017 15:20:59 GMT",
+        "source": "data\\SAP\\20170113.rss",
+        "title": "Saputo Inc.: Fiscal 2017 Third Quarter Results"
     }
 ]

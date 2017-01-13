@@ -232,5 +232,14 @@
         "pubDate": "Wed, 11 Jan 2017 21:25:47 GMT",
         "source": "data\\NDM\\20170111.rss",
         "title": "Northern Dynasty Announces US$25 Million Bought Deal"
+    },
+    {
+        "contents": "data\\NDM\\20170113-090327.news",
+        "description": "[Marketwired] - Northern Dynasty Minerals Ltd. is pleased to announce that as a result of strong demand, it has increased the size of its previously announced bought deal offering to 17,600,000 common shares of the Company ...",
+        "guid": "yahoo_finance/1176324960",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-announces-increase-bought-143918752.html",
+        "pubDate": "Thu, 12 Jan 2017 14:39:18 GMT",
+        "source": "data\\NDM\\20170113.rss",
+        "title": "Northern Dynasty Announces Increase to Bought Deal Offering of Common Shares"
     }
 ]

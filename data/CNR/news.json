@@ -277,5 +277,14 @@
         "pubDate": "Tue, 10 Jan 2017 15:36:33 GMT",
         "source": "data\\CNR\\20170111.rss",
         "title": "Double-Digit Rise in Volumes Minus Coal Pushed CNI\u2019s Carloads Up"
+    },
+    {
+        "contents": "data\\CNR\\20170113-090348.news",
+        "description": null,
+        "guid": "yahoo_finance/2468966366",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-research-reports-january-12-233411722.html",
+        "pubDate": "Thu, 12 Jan 2017 23:34:11 GMT",
+        "source": "data\\CNR\\20170113.rss",
+        "title": "Top Research Reports for January 12, 2017"
     }
 ]

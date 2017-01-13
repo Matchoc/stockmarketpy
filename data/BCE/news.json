@@ -682,5 +682,59 @@
         "pubDate": "Tue, 10 Jan 2017 15:45:00 GMT",
         "source": "data\\BCE\\20170111.rss",
         "title": "Student-athletes, university sport conferences and Bell Let's Talk team up to grow the mental health conversation on Canadian campuses nationwide"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090308.news",
+        "description": null,
+        "guid": "yahoo_finance/2321319159",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-tv-watchdog-ignore-netflix-235203885.html",
+        "pubDate": "Mon, 29 Sep 2014 23:52:03 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "Canada's TV watchdog to ignore Netflix, Google after data denial"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090310.news",
+        "description": null,
+        "guid": "yahoo_finance/1414610742",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/analysis-canadas-telcos-burst-banking-050726859.html",
+        "pubDate": "Fri, 01 Aug 2014 05:15:32 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "Analysis - Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090312.news",
+        "description": null,
+        "guid": "yahoo_finance/1212034511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-telcos-burst-banking-healthcare-050618570.html",
+        "pubDate": "Fri, 01 Aug 2014 05:06:18 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090315.news",
+        "description": null,
+        "guid": "yahoo_finance/2822578311",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-bce-bell-aliant-private-112842345.html",
+        "pubDate": "Wed, 23 Jul 2014 16:28:38 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "BCE to take Bell Aliant private in $3.7 billion deal"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/1003696401",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-launches-plan-extend-high-164427895.html",
+        "pubDate": "Tue, 22 Jul 2014 16:44:27 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "Canada launches plan to extend high-speed Internet to remote areas"
+    },
+    {
+        "contents": "data\\BCE\\20170113-090319.news",
+        "description": null,
+        "guid": "yahoo_finance/271878826",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-loral-rejects-7-billion-220320200.html",
+        "pubDate": "Mon, 23 Jun 2014 22:03:20 GMT",
+        "source": "data\\BCE\\20170113.rss",
+        "title": "Exclusive - Loral rejects $7 billion deal to sell itself and Telesat: sources"
     }
 ]

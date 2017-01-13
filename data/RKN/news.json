@@ -187,5 +187,68 @@
         "pubDate": "Mon, 09 Jan 2017 13:15:00 GMT",
         "source": "data\\RKN\\20170109.rss",
         "title": "Research Reports Initiated on Info Tech Stocks DH Corp, Redknee Solutions, MacDonald Dettwiler and Associates, and Computer Modelling Group"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090351.news",
+        "description": null,
+        "guid": "yahoo_finance/4027012954",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-signs-multi-million-dollar-110000716.html",
+        "pubDate": "Tue, 25 Oct 2016 11:00:00 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Signs a Multi-Million Dollar Cloud Deal in LATAM"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090353.news",
+        "description": null,
+        "guid": "yahoo_finance/1221395242",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14g39kkaa/*http://www.capitalcube.com/blog/index.php/redknee-solutions-inc-breached-its-50-day-moving-average-in-a-bearish-manner-rkn-ca-october-19-2016/",
+        "pubDate": "Wed, 19 Oct 2016 12:54:01 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Solutions, Inc. breached its 50 day moving average in a Bearish Manner : RKN-CA : October 19, 2016"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090353.news",
+        "description": "[at noodls] - TORONTO, July 5, 2016 /CNW/ - Redknee Solutions Inc. (TSX: RKN), a leading provider of real-time monetization and subscriber management software, is pleased to announce the signing of a new multi-million ...",
+        "guid": "yahoo_finance/1050987650",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288smk81/*http://www.publicnow.com/view/33BF0D3FEEE2A5E14A1373F6B18C4FEF2ED3D95B",
+        "pubDate": "Wed, 03 Aug 2016 23:22:01 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Wins Policy Management with EMEA Tier 1 Customer"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090353.news",
+        "description": "[at noodls] - TORONTO, April 25, 2016 /CNW/ - Redknee Solutions Inc. (TSX: RKN), a leading provider of real-time monetization and subscriber management software, is pleased to announce that a leading Tier 1 communications ...",
+        "guid": "yahoo_finance/4092489131",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283kr9p0/*http://www.publicnow.com/view/A0D3491C93D0AED6D6B82196540BEBF00495FD96",
+        "pubDate": "Mon, 09 May 2016 21:18:13 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Wins Contract with a Tier 1 CSP in the Americas"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090353.news",
+        "description": "[at noodls] - - Management to Host Conference Call Today, Monday, April 11 at 8:30 a.m. ET- TORONTO, April 11, 2016 /CNW/ - Redknee Solutions Inc. (TSX: RKN), a leading provider of real-time monetization and subscriber ...",
+        "guid": "yahoo_finance/1656338490",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128k5l0qe/*http://www.publicnow.com/view/7DB93726D703627C5B6F66B18520349568A6F555",
+        "pubDate": "Mon, 11 Apr 2016 12:20:35 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Solutions Reports Preliminary Financial Results for Q2 2016 and Announces Award of $15 Million Contract with Tier 1 Asia Pacific Operator"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090353.news",
+        "description": "[at noodls] - TORONTO, March 23, 2016 /CNW/ - Redknee Solutions Inc. (TSX: RKN), a leading provider of real-time monetization and customer management software, is pleased to announce the inauguration of its new state ...",
+        "guid": "yahoo_finance/2315048107",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ofp88u/*http://www.publicnow.com/view/9F9EC68732906B85812E54BE2EBCF1923E363A00",
+        "pubDate": "Wed, 23 Mar 2016 11:32:27 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee celebrates the inauguration of its new Bangalore office"
+    },
+    {
+        "contents": "data\\RKN\\20170113-090354.news",
+        "description": "[at noodls] - , /CNW/ -Redknee Solutions Inc. (TSX: RKN), a leading provider of business-critical billing and charging software and solutions for communications service providers, today announced that it will hold a ...",
+        "guid": "yahoo_finance/3549002399",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=125d4iqqv/*http://www.noodls.com/view/4F4A9E47242FA0F6170ECC09C5705873456B0483",
+        "pubDate": "Thu, 21 Jan 2016 12:15:20 GMT",
+        "source": "data\\RKN\\20170113.rss",
+        "title": "Redknee Solutions Inc. to Host Fiscal First Quarter 2016 Investor Conference Call on February 11, 2016"
     }
 ]
