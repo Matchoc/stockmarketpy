@@ -187,5 +187,14 @@
         "pubDate": "Fri, 13 Mar 2015 13:07:30 GMT",
         "source": "data\\GCL\\20170103.rss",
         "title": "CANADA STOCKS-TSX futures slip further after unemployment data"
+    },
+    {
+        "contents": "data\\GCL\\20170113-090021.news",
+        "description": null,
+        "guid": "yahoo_finance/3345450205",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-set-open-113236266.html",
+        "pubDate": "Fri, 13 Mar 2015 11:32:36 GMT",
+        "source": "data\\GCL\\20170113.rss",
+        "title": "CANADA STOCKS-TSX set to open lower, crude prices slip"
     }
 ]

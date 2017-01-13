@@ -223,5 +223,14 @@
         "pubDate": "Thu, 05 Jan 2017 12:30:00 GMT",
         "source": "data\\POW\\20170106.rss",
         "title": "Power Corporation acquires an additional 3.9% interest in China Asset Management Co., Ltd."
+    },
+    {
+        "contents": "data\\POW\\20170113-090234.news",
+        "description": null,
+        "guid": "yahoo_finance/2335484230",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=137j4adqd/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-power-corp-of-canada-january-12-2017/",
+        "pubDate": "Thu, 12 Jan 2017 19:23:10 GMT",
+        "source": "data\\POW\\20170113.rss",
+        "title": "ETFs with exposure to Power Corp. of Canada : January 12, 2017"
     }
 ]

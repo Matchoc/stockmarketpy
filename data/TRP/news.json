@@ -259,5 +259,14 @@
         "pubDate": "Tue, 10 Jan 2017 16:24:53 GMT",
         "source": "data\\TRP\\20170111.rss",
         "title": "Review process for Energy East pipeline to face legal challenge"
+    },
+    {
+        "contents": "data\\TRP\\20170113-090338.news",
+        "description": null,
+        "guid": "yahoo_finance/2169681450",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132bdblpb/*http://www.fool.com/investing/2017/01/12/will-transcanada-corporation-raise-its-dividend-in.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 12 Jan 2017 19:49:06 GMT",
+        "source": "data\\TRP\\20170113.rss",
+        "title": "Will TransCanada Corporation Raise Its Dividend in 2017?"
     }
 ]

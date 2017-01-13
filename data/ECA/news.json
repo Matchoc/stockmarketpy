@@ -655,5 +655,23 @@
         "pubDate": "Thu, 12 Jan 2017 12:37:51 GMT",
         "source": "data\\ECA\\20170112.rss",
         "title": "How Encana Plans to Increase Its Margin over the Next Five Years"
+    },
+    {
+        "contents": "data\\ECA\\20170113-090149.news",
+        "description": null,
+        "guid": "yahoo_finance/2710338158",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12rvmbg9u/*http://marketrealist.com/2017/01/whats-encanas-cash-flow-outlook-for-the-next-five-years/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 12 Jan 2017 15:37:22 GMT",
+        "source": "data\\ECA\\20170113.rss",
+        "title": "What\u2019s Encana\u2019s Cash Flow Outlook for the Next Five Years?"
+    },
+    {
+        "contents": "data\\ECA\\20170113-090149.news",
+        "description": null,
+        "guid": "yahoo_finance/1853702761",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ti9r9ee/*http://marketrealist.com/2017/01/impact-of-encanas-growth-plan-on-premium-return-inventory/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 12 Jan 2017 14:08:21 GMT",
+        "source": "data\\ECA\\20170113.rss",
+        "title": "Impact of Encana\u2019s Growth Plan on Premium Return Inventory"
     }
 ]

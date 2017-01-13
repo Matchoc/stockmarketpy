@@ -826,5 +826,14 @@
         "pubDate": "Thu, 12 Jan 2017 13:24:50 GMT",
         "source": "data\\ABX\\20170112.rss",
         "title": "Better Buy: Alcoa Inc. vs. Barrick Gold"
+    },
+    {
+        "contents": "data\\ABX\\20170113-090142.news",
+        "description": null,
+        "guid": "yahoo_finance/4182775839",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12p0vkctq/*http://www.fool.com/investing/2017/01/12/better-buy-royal-gold-inc-vs-goldcorp-inc.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 13 Jan 2017 13:25:37 GMT",
+        "source": "data\\ABX\\20170113.rss",
+        "title": "Better Buy: Royal Gold, Inc. vs. Goldcorp Inc."
     }
 ]

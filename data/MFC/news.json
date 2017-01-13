@@ -259,5 +259,23 @@
         "pubDate": "Wed, 11 Jan 2017 13:30:00 GMT",
         "source": "data\\MFC\\20170111.rss",
         "title": "Manulife Employees in Canada Receive $10,000 Per Year in Mental Health Benefits"
+    },
+    {
+        "contents": "data\\MFC\\20170113-090015.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 12, 2017 /PRNewswire/ -- Coinciding with the weekend honoring Dr. Martin Luther King, Jr.'s inspiring legacy, John Hancock is awarding $1 million in grants through its MLK Summer Scholars ...",
+        "guid": "yahoo_finance/3548779563",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/boston-teens-earn-nearly-10m-153400563.html",
+        "pubDate": "Thu, 12 Jan 2017 15:34:00 GMT",
+        "source": "data\\MFC\\20170113.rss",
+        "title": "Boston Teens Earn nearly $10M over 10 Years through John Hancock's MLK Summer Scholars Program"
+    },
+    {
+        "contents": "data\\MFC\\20170113-090016.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 12, 2017 /PRNewswire/ -- In its 32 nd year as principal sponsor of the Boston Marathon, John Hancock Financial today announced the elite field for the 121 st Boston Marathon on April 17. A ...",
+        "guid": "yahoo_finance/568794110",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-financial-announces-2017-150000518.html",
+        "pubDate": "Thu, 12 Jan 2017 15:00:00 GMT",
+        "source": "data\\MFC\\20170113.rss",
+        "title": "John Hancock Financial Announces 2017 Boston Marathon International Elite Field"
     }
 ]

@@ -394,5 +394,14 @@
         "pubDate": "Mon, 09 Jan 2017 18:02:56 GMT",
         "source": "data\\BTE\\20170110.rss",
         "title": "ETFs with exposure to Baytex Energy Corp. : January 9, 2017"
+    },
+    {
+        "contents": "data\\BTE\\20170113-090238.news",
+        "description": null,
+        "guid": "yahoo_finance/1060772148",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14d2jioh1/*http://www.capitalcube.com/blog/index.php/baytex-energy-corp-breached-its-50-day-moving-average-in-a-bearish-manner-bte-ca-january-13-2017/",
+        "pubDate": "Fri, 13 Jan 2017 13:58:52 GMT",
+        "source": "data\\BTE\\20170113.rss",
+        "title": "Baytex Energy Corp. breached its 50 day moving average in a Bearish Manner : BTE-CA : January 13, 2017"
     }
 ]
