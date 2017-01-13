@@ -35,7 +35,7 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "RY" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 
 PRINT_LEVEL=1
 def myprint(str, level=0):
@@ -169,8 +169,11 @@ def get_base_X(symbol, news):
 	avg_price_month = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=4))
 	avg_price_year = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=52))
 	days_up = get_num_days_up(symbol, news)
+	avg_return_week = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=1))
+	avg_return_month = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=4))
+	avg_return_year = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=52))
 	
-	x = [prev_close_price, avg_price_week, avg_price_month, avg_price_year, days_up]
+	x = [prev_close_price, avg_price_week, avg_price_month, avg_price_year, days_up, avg_return_week, avg_return_month, avg_return_year]
 	myprint(symbol + " : " + news["title"] + " prev close, avg week, avg month, avg year = " + str(x))
 	return x
 	
@@ -232,6 +235,33 @@ def calculate_average_price_over_time(symbol, news, delta):
 		
 	return avg_close_price
 	
+def calculate_return_over_time(symbol, news, delta):
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
+	
+	news_date = get_news_date(news)
+	start_date = news_date - delta
+	cur_date = start_date
+	oldest_price = None
+	newest_price = None
+	while cur_date < news_date:
+		pricedatefmt = cur_date.strftime("%Y-%m-%d")
+		if pricedatefmt in prices:
+			if oldest_price is None:
+				oldest_price = prices[pricedatefmt]["Adj Close"]
+			newest_price = prices[pricedatefmt]["Adj Close"]
+		cur_date += datetime.timedelta(days=1)
+		
+	if oldest_price is None or newest_price is None:
+		myprint("[" + symbol + "] Can't find oldest/newest price for delta of " + str(delta), 1)
+		return 0
+		
+	return newest_price - oldest_price
+		
+		
+		
 def get_valid_market_date(newsdate):
 	offset = 0
 	if newsdate.time().utcoffset() is not None:
@@ -700,14 +730,14 @@ def graph_actual_vs_predicted():
 	
 if __name__ == '__main__':
 	#train_cross_variations()
-	#graph_actual_vs_predicted()
+	graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
@@ -718,7 +748,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
-	#update_all_symbols(["updateTraining", "train"])
+	#update_all_symbols(["updateTraining", "train", "crossval"])
 	#update_all_symbols(["train"])
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
