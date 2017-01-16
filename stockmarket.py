@@ -172,8 +172,12 @@ def get_base_X(symbol, news):
 	avg_return_week = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=1))
 	avg_return_month = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=4))
 	avg_return_year = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=52))
+	std_week = calculate_std(symbol, news, datetime.timedelta(weeks=1))
+	std_month = calculate_std(symbol, news, datetime.timedelta(weeks=4))
+	std_year = calculate_std(symbol, news, datetime.timedelta(weeks=52))
 	
 	x = [prev_close_price, avg_price_week, avg_price_month, avg_price_year, days_up, avg_return_week, avg_return_month, avg_return_year]
+	x += [std_week, std_month, std_year]
 	myprint(symbol + " : " + news["title"] + " prev close, avg week, avg month, avg year = " + str(x))
 	return x
 	
@@ -260,7 +264,38 @@ def calculate_return_over_time(symbol, news, delta):
 		
 	return newest_price - oldest_price
 		
+def calculate_std(symbol, news, delta):
+	csvpath = get_price_csv_path(symbol)
+	jsonpath = csvpath.replace(".csv", ".json")
+	with open(jsonpath, 'r') as jsonfile:
+		prices = json.load(jsonfile)
 		
+	news_date = get_news_date(news)
+	start_date = news_date - delta
+	cur_date = start_date
+	num_dates = 0
+	avg_return = 0
+	while cur_date < news_date:
+		pricedatefmt = cur_date.strftime("%Y-%m-%d")
+		if pricedatefmt in prices:
+			num_dates += 1
+			sum_variation = prices[pricedatefmt]["Adj Close"] - prices[pricedatefmt]["Open"]
+		cur_date += datetime.timedelta(days=1)
+		
+	if num_dates == 0:
+		return 0
+		
+	avg_return = avg_return / num_dates
+	cur_date = start_date
+	sum_variation = 0
+	while cur_date < news_date:
+		pricedatefmt = cur_date.strftime("%Y-%m-%d")
+		if pricedatefmt in prices:
+			sum_variation = ((prices[pricedatefmt]["Adj Close"] - prices[pricedatefmt]["Open"]) - avg_return)**2
+		cur_date += datetime.timedelta(days=1)
+		
+	stdvariation = (sum_variation / num_dates)**(0.5)
+	return stdvariation
 		
 def get_valid_market_date(newsdate):
 	offset = 0
@@ -450,7 +485,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=2000, verbose=False)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=100, verbose=False)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -700,9 +735,9 @@ def graph_actual_vs_predicted():
 	
 	sorted_results = sorted(result, key=lambda k: k['date'])
 	
-	sorted_preds = [k['pred'] for k in sorted_results]
-	sorted_dates = [k['date'] for k in sorted_results]
-	sorted_real = [k['real'] for k in sorted_results]
+	sorted_preds = [k['pred'] for k in sorted_results][-20:]
+	sorted_dates = [k['date'] for k in sorted_results][-20:]
+	sorted_real = [k['real'] for k in sorted_results][-20:]
 	
 	plt.plot(sorted_dates, sorted_preds, 'ro-', label="predicted", linewidth=2)
 	plt.plot(sorted_dates, sorted_real, 'bo-', label="actual", linewidth=2)
@@ -720,9 +755,11 @@ def graph_actual_vs_predicted():
 	all_prices = sorted(data, key=lambda k: k['date'])
 	prices_date = [k["date"] for k in all_prices]
 	prices_pl = [k["pl"] for k in all_prices]
-	plt.plot(prices_date, prices_pl, 'go-', label="all prices")
+	plt.plot(prices_date[-60:], prices_pl[-60:], 'go-', label="all prices")
 	plt.axhline(0)
 	plt.legend()
+	
+	#plt.axis([datetime.datetime.now(), datetime.datetime.now() - datetime.timedelta(weeks=10), -5, 5])
 	
 	plt.show()
 	
