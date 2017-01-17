@@ -40,7 +40,7 @@ def set_skip_symbol(x):
 	global SKIP_SYMBOL
 	SKIP_SYMBOL = x
 
-PRINT_LEVEL=1
+PRINT_LEVEL=3
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -508,7 +508,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=1000, verbose=False)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=500, verbose=False)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -599,18 +599,8 @@ def train_cross_variations():
 	hiddens = [(150, 29), (180, 30), (150, 150), (350, 350), (100, 100), (175,175), (150,150,150)]
 	
 	data = get_all_Xy()
-	per = 0.8
+	per = 0.7
 	myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 4)
-	#for alpha in alphas:
-	#	passed_data = {}
-	#	passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
-	#	passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
-	#	train_machine(data, alpha, (150,29))
-	#	passed_data = {}
-	#	passed_data["X"] = data["X"][int(len(data["X"]) * per):]
-	#	passed_data["y"] = data["y"][int(len(data["X"]) * per):]
-	#	cross_validate(data)
-	#	myprint("------------------------",3)
 	
 	main_data = {}
 	main_data["X"] = data["X"][:int(len(data["X"]) * per)]
@@ -802,7 +792,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])

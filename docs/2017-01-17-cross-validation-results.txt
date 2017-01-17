@@ -1,0 +1,152 @@
+NPP_EXEC: "Python"
+NPP_SAVE: G:\Perso\projects\stockmarketpy\stockmarket.py
+CD: G:\Perso\projects\stockmarketpy
+Current directory: G:\Perso\projects\stockmarketpy
+"G:\Perso\projects\python_env\npp\..\python35\python.exe" -u "G:\Perso\projects\stockmarketpy\stockmarket.py"
+Process started >>>
+G:\Perso\projects\python_env\python35\lib\site-packages\nltk\twitter\__init__.py:20: UserWarning: The twython library has not been installed. Some functionality from the twitter package will not be available.
+  warnings.warn("The twython library has not been installed. "
+crossvalidating : training size = 747, validation size = 320
+Start machine training (alpha=5e-06, layers = (150, 29))...
+... End machine training : loss 0.0052037756628, iter 501
+avg ecart : 1.16272883736, root mean square : 2.39352324177
+------------------------
+Start machine training (alpha=5e-06, layers = (180, 30))...
+... End machine training : loss 0.00435778754159, iter 501
+avg ecart : 1.29443909106, root mean square : 3.42649911292
+------------------------
+Start machine training (alpha=5e-06, layers = (150, 150))...
+... End machine training : loss 0.00362042581488, iter 501
+avg ecart : 1.2784077992, root mean square : 2.50666252423
+------------------------
+Start machine training (alpha=5e-06, layers = (350, 350))...
+... End machine training : loss 0.00361932847529, iter 501
+avg ecart : 1.35981689831, root mean square : 2.64177705183
+------------------------
+Start machine training (alpha=5e-06, layers = (100, 100))...
+... End machine training : loss 0.00442980731486, iter 501
+avg ecart : 1.04120350937, root mean square : 2.04212280238
+------------------------
+Start machine training (alpha=5e-06, layers = (175, 175))...
+... End machine training : loss 0.00351761019801, iter 501
+avg ecart : 1.06586033434, root mean square : 2.36886070726
+------------------------
+Start machine training (alpha=5e-06, layers = (150, 150, 150))...
+... End machine training : loss 0.00143254964769, iter 501
+avg ecart : 1.27666686296, root mean square : 2.68032724873
+------------------------
+Start machine training (alpha=5e-05, layers = (150, 29))...
+... End machine training : loss 0.00523202426393, iter 503
+avg ecart : 1.14554844318, root mean square : 2.33635624828
+------------------------
+Start machine training (alpha=5e-05, layers = (180, 30))...
+... End machine training : loss 0.00478395015671, iter 501
+avg ecart : 1.21587897939, root mean square : 3.09204660943
+------------------------
+Start machine training (alpha=5e-05, layers = (150, 150))...
+... End machine training : loss 0.00365096034043, iter 501
+avg ecart : 1.24169429821, root mean square : 2.58184361766
+------------------------
+Start machine training (alpha=5e-05, layers = (350, 350))...
+... End machine training : loss 0.00409765096659, iter 501
+avg ecart : 1.26471585709, root mean square : 2.60593752741
+------------------------
+Start machine training (alpha=5e-05, layers = (100, 100))...
+... End machine training : loss 0.00398511013333, iter 501
+avg ecart : 1.03990879498, root mean square : 1.93486731226
+------------------------
+Start machine training (alpha=5e-05, layers = (175, 175))...
+... End machine training : loss 0.00378076580633, iter 501
+avg ecart : 1.01083891556, root mean square : 1.86388181572
+------------------------
+Start machine training (alpha=5e-05, layers = (150, 150, 150))...
+... End machine training : loss 0.00142953609003, iter 501
+avg ecart : 1.14624347121, root mean square : 2.26840147285
+------------------------
+Start machine training (alpha=0.005, layers = (150, 29))...
+... End machine training : loss 0.00651220799814, iter 501
+avg ecart : 1.14857888471, root mean square : 2.32933779645
+------------------------
+Start machine training (alpha=0.005, layers = (180, 30))...
+... End machine training : loss 0.00515548171968, iter 501
+avg ecart : 1.35585827958, root mean square : 3.69390848446
+------------------------
+Start machine training (alpha=0.005, layers = (150, 150))...
+... End machine training : loss 0.00511081395171, iter 501
+avg ecart : 1.23428635686, root mean square : 2.46694633276
+------------------------
+Start machine training (alpha=0.005, layers = (350, 350))...
+... End machine training : loss 0.0075873702281, iter 501
+avg ecart : 1.30809190574, root mean square : 2.6306234915
+------------------------
+Start machine training (alpha=0.005, layers = (100, 100))...
+... End machine training : loss 0.0055488651778, iter 501
+avg ecart : 1.0173049266, root mean square : 1.83548722196
+------------------------
+Start machine training (alpha=0.005, layers = (175, 175))...
+... End machine training : loss 0.0052480987703, iter 501
+avg ecart : 1.04632622252, root mean square : 2.34442956637
+------------------------
+Start machine training (alpha=0.005, layers = (150, 150, 150))...
+... End machine training : loss 0.00351766420016, iter 501
+avg ecart : 1.10966299956, root mean square : 2.1488191298
+------------------------
+Start machine training (alpha=0.5, layers = (150, 29))...
+... End machine training : loss 0.0633254077301, iter 501
+avg ecart : 0.668036828099, root mean square : 1.45980396461
+------------------------
+Start machine training (alpha=0.5, layers = (180, 30))...
+... End machine training : loss 0.0773942542909, iter 501
+avg ecart : 0.467828509086, root mean square : 0.810836687951
+------------------------
+Start machine training (alpha=0.5, layers = (150, 150))...
+... End machine training : loss 0.0894802008958, iter 501
+avg ecart : 1.08849776127, root mean square : 2.70296110071
+------------------------
+Start machine training (alpha=0.5, layers = (350, 350))...
+... End machine training : loss 0.167325872021, iter 501
+avg ecart : 0.945244095991, root mean square : 2.11721243771
+------------------------
+Start machine training (alpha=0.5, layers = (100, 100))...
+... End machine training : loss 0.0648427979311, iter 501
+avg ecart : 0.735668142248, root mean square : 1.45396490133
+------------------------
+Start machine training (alpha=0.5, layers = (175, 175))...
+... End machine training : loss 0.103511045482, iter 501
+avg ecart : 0.887264396422, root mean square : 1.99279367038
+------------------------
+Start machine training (alpha=0.5, layers = (150, 150, 150))...
+... End machine training : loss 0.132447640013, iter 501
+avg ecart : 0.6694676098, root mean square : 1.53063050698
+------------------------
+Start machine training (alpha=25.0, layers = (150, 29))...
+... End machine training : loss 0.0514128308958, iter 501
+avg ecart : 0.34447605222, root mean square : 0.579394019756
+------------------------
+Start machine training (alpha=25.0, layers = (180, 30))...
+... End machine training : loss 0.0515054468603, iter 501
+avg ecart : 0.347290941916, root mean square : 0.577193301988
+------------------------
+Start machine training (alpha=25.0, layers = (150, 150))...
+... End machine training : loss 0.0500706570202, iter 501
+avg ecart : 0.361974259866, root mean square : 0.60331477891
+------------------------
+Start machine training (alpha=25.0, layers = (350, 350))...
+... End machine training : loss 0.0502200558132, iter 501
+avg ecart : 0.35903318358, root mean square : 0.599168976064
+------------------------
+Start machine training (alpha=25.0, layers = (100, 100))...
+... End machine training : loss 0.0513979349595, iter 501
+avg ecart : 0.34677909992, root mean square : 0.578261088588
+------------------------
+Start machine training (alpha=25.0, layers = (175, 175))...
+... End machine training : loss 0.0508059194113, iter 501
+avg ecart : 0.357510190429, root mean square : 0.593115074553
+------------------------
+Start machine training (alpha=25.0, layers = (150, 150, 150))...
+... End machine training : loss 0.0646313231295, iter 501
+avg ecart : 0.375429983577, root mean square : 0.621925294327
+------------------------
+done
+<<< Process finished. (Exit code 0)
+================ READY ================
