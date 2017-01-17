@@ -205,5 +205,14 @@
         "pubDate": "Fri, 30 Dec 2016 21:59:44 GMT",
         "source": "data\\ITC\\20161231.rss",
         "title": "Intrinsyc Technologies Introduces Next Generation System on Module based on Qualcomm Snapdragon 820 Processor"
+    },
+    {
+        "contents": "data\\ITC\\20170116-222916.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development and production of embedded and Internet of Things products, today announced the Company signed an...",
+        "guid": "yahoo_finance/3283580622",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-announces-product-development-agreement-140000276.html",
+        "pubDate": "Mon, 16 Jan 2017 14:00:00 GMT",
+        "source": "data\\ITC\\20170116.rss",
+        "title": "Intrinsyc Announces New Product Development Agreement Received from Client Valued in excess of US$600,000"
     }
 ]

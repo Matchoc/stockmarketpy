@@ -1033,5 +1033,14 @@
         "pubDate": "Thu, 12 Jan 2017 16:05:00 GMT",
         "source": "data\\RY\\20170113.rss",
         "title": "Looking for future Olympic stars with RBC Training Ground"
+    },
+    {
+        "contents": "data\\RY\\20170116-222700.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 16, 2017 /CNW/ - RBC Global Asset Management Inc. today announced January 2017 cash distributions for unitholders of RBC ETFs. RBC ETF cash distributions for January are as follows: FUND ...",
+        "guid": "yahoo_finance/1147038907",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-140000189.html",
+        "pubDate": "Mon, 16 Jan 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170116.rss",
+        "title": "RBC Global Asset Management Inc. announces RBC ETF cash distributions for January 2017"
     }
 ]

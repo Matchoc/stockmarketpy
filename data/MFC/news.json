@@ -277,5 +277,41 @@
         "pubDate": "Thu, 12 Jan 2017 15:00:00 GMT",
         "source": "data\\MFC\\20170113.rss",
         "title": "John Hancock Financial Announces 2017 Boston Marathon International Elite Field"
+    },
+    {
+        "contents": "data\\MFC\\20170116-222928.news",
+        "description": null,
+        "guid": "yahoo_finance/2541359820",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-insurers-inside-cars-mouths-180817746.html",
+        "pubDate": "Sun, 15 Jan 2017 18:08:17 GMT",
+        "source": "data\\MFC\\20170116.rss",
+        "title": "U.S. insurers get inside cars, mouths, grocery carts in profit search"
+    },
+    {
+        "contents": "data\\MFC\\20170116-222933.news",
+        "description": null,
+        "guid": "yahoo_finance/3866247145",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-insurers-inside-cars-mouths-121149391.html",
+        "pubDate": "Sun, 15 Jan 2017 12:11:49 GMT",
+        "source": "data\\MFC\\20170116.rss",
+        "title": "U.S. insurers get inside cars, mouths, grocery carts in profit search"
+    },
+    {
+        "contents": "data\\MFC\\20170116-222937.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 13, 2017 /PRNewswire/ -- John Hancock Retirement Plan Services has appointed Regan Muldoon as Regional Vice President in John Hancock's Southeast Division. Based in Atlanta, she is responsible ...",
+        "guid": "yahoo_finance/3196922867",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-retirement-plan-services-150000484.html",
+        "pubDate": "Fri, 13 Jan 2017 15:00:00 GMT",
+        "source": "data\\MFC\\20170116.rss",
+        "title": "John Hancock Retirement Plan Services Appoints Regan Muldoon Regional Vice President in Southeast"
+    },
+    {
+        "contents": "data\\MFC\\20170116-222939.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 13, 2017 /PRNewswire/ -- We are pleased to announce that Hassell H. McClellan has succeeded James M. Oates as Chairperson of the Board of Trustees. Mr. McClellan brings a wealth of experience to his new position, having been a professor of finance and policy and associate dean at Boston College's Wallace E. Carroll School of Management and a director of both public and privately held companies. Mr. Oates has served as Chairperson of the Board of the John Hancock Group of Funds with distinction since 2005, providing steady guidance during a period of phenomenal growth and challenges.",
+        "guid": "yahoo_finance/4262618269",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-announces-chairperson-john-140000882.html",
+        "pubDate": "Fri, 13 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170116.rss",
+        "title": "John Hancock Announces New Chairperson of the John Hancock Group of Funds Board of Trustees"
     }
 ]

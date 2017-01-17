@@ -376,5 +376,14 @@
         "pubDate": "Thu, 10 Mar 2016 16:20:00 GMT",
         "source": "data\\S\\20170104.rss",
         "title": "Technavio Announces Top Six Vendors in the Global Cobalt Market Outlook"
+    },
+    {
+        "contents": "data\\S\\20170116-222951.news",
+        "description": null,
+        "guid": "yahoo_finance/3479758466",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sherritt-provides-ambatovy-joint-venture-123000183.html",
+        "pubDate": "Mon, 16 Jan 2017 12:30:00 GMT",
+        "source": "data\\S\\20170116.rss",
+        "title": "Sherritt Provides an Update on Ambatovy Joint Venture Negotiations"
     }
 ]

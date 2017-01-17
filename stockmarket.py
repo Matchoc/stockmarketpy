@@ -35,13 +35,20 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-SKIP_SYMBOL = "RY" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+def set_skip_symbol(x):
+	global SKIP_SYMBOL
+	SKIP_SYMBOL = x
 
 PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
 
+class MLModelError(Exception):
+	def __init__(self, error_msg):
+		self.msg = error_msg
+		
 def sort_dict(v, asc=True):
 	if asc:
 		sorted_dict = sorted(v.items(), key=operator.itemgetter(1))
@@ -164,17 +171,18 @@ def gen_allnews_x(symbol, allnews):
 		return None
 	
 def get_base_X(symbol, news):
-	prev_close_price = get_previous_close_price(symbol, news)
-	avg_price_week = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=1))
-	avg_price_month = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=4))
-	avg_price_year = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=52))
-	days_up = get_num_days_up(symbol, news)
-	avg_return_week = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=1))
-	avg_return_month = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=4))
-	avg_return_year = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=52))
-	std_week = calculate_std(symbol, news, datetime.timedelta(weeks=1))
-	std_month = calculate_std(symbol, news, datetime.timedelta(weeks=4))
-	std_year = calculate_std(symbol, news, datetime.timedelta(weeks=52))
+	prices = get_price_json(symbol)
+	prev_close_price = get_today_previous_close_price(symbol, news, prices)
+	avg_price_week = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=1), prices)
+	avg_price_month = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=4), prices)
+	avg_price_year = calculate_average_price_over_time(symbol, news, datetime.timedelta(weeks=52), prices)
+	days_up = get_num_days_up(symbol, news, prices)
+	avg_return_week = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=1), prices)
+	avg_return_month = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=4), prices)
+	avg_return_year = calculate_return_over_time(symbol, news, datetime.timedelta(weeks=52), prices)
+	std_week = calculate_std(symbol, news, datetime.timedelta(weeks=1), prices)
+	std_month = calculate_std(symbol, news, datetime.timedelta(weeks=4), prices)
+	std_year = calculate_std(symbol, news, datetime.timedelta(weeks=52), prices)
 	
 	x = [prev_close_price, avg_price_week, avg_price_month, avg_price_year, days_up, avg_return_week, avg_return_month, avg_return_year]
 	x += [std_week, std_month, std_year]
@@ -187,27 +195,37 @@ def get_price_date(pricejson, lookupdate):
 		return pricejson[pricedatefmt]
 	return None
 	
-def get_num_days_up(symbol, news):
+def get_num_days_up(symbol, news, pricejson = None):
 	newsdate = get_news_date(news)
-	pricejson = get_price_json(symbol)
-	prev_day = newsdate - datetime.timedelta(days=1)
-	price = get_price_date(pricejson, prev_day)
-	while price is None and (newsdate - prev_day).days < 365:
-		prev_day = prev_day - datetime.timedelta(days=1)
-		price = get_price_date(pricejson, prev_day)
-	if price is None:
+	if pricejson is None:
+		pricejson = get_price_json(symbol)
+	prev_day2 = get_previous_valid_market_date(newsdate, pricejson)
+	if prev_day2 is not None:
+		price2 = get_price_date(pricejson, prev_day2)
+	else:
 		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
 		return 0
-	isPositive = price["Adj Close"] - price["Open"] >= 0
-	curPositive = price["Adj Close"] - price["Open"] >= 0
+	prev_day = get_previous_valid_market_date(prev_day2, pricejson)
+	if prev_day is not None:
+		price = get_price_date(pricejson, prev_day)
+	else:
+		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
+		return 0
+	if price is None or price2 is None:
+		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
+		return 0
+	isPositive = price2["Adj Close"] - price["Adj Close"] >= 0
+	curPositive = price2["Adj Close"] - price["Adj Close"] >= 0
 	count = 1
+	last_price = price
 	while (price is None and (newsdate - prev_day).days < 365) or (isPositive == curPositive):
 		prev_day = prev_day - datetime.timedelta(days=1)
 		price = get_price_date(pricejson, prev_day)
 		
 		if price is not None:
 			count += 1
-			curPositive = price["Adj Close"] - price["Open"] >= 0
+			curPositive = last_price["Adj Close"] - price["Adj Close"] >= 0
+			last_price = price
 		else:
 			curPositive = not isPositive
 		
@@ -216,11 +234,9 @@ def get_num_days_up(symbol, news):
 	
 	return count
 	
-def calculate_average_price_over_time(symbol, news, delta):
-	csvpath = get_price_csv_path(symbol)
-	jsonpath = csvpath.replace(".csv", ".json")
-	with open(jsonpath, 'r') as jsonfile:
-		prices = json.load(jsonfile)
+def calculate_average_price_over_time(symbol, news, delta, prices = None):
+	if prices is None:
+		prices = get_price_json(symbol)
 	
 	news_date = get_news_date(news)
 	start_date = news_date - delta
@@ -239,11 +255,9 @@ def calculate_average_price_over_time(symbol, news, delta):
 		
 	return avg_close_price
 	
-def calculate_return_over_time(symbol, news, delta):
-	csvpath = get_price_csv_path(symbol)
-	jsonpath = csvpath.replace(".csv", ".json")
-	with open(jsonpath, 'r') as jsonfile:
-		prices = json.load(jsonfile)
+def calculate_return_over_time(symbol, news, delta, prices = None):
+	if prices is None:
+		prices = get_price_json(symbol)
 	
 	news_date = get_news_date(news)
 	start_date = news_date - delta
@@ -264,11 +278,9 @@ def calculate_return_over_time(symbol, news, delta):
 		
 	return newest_price - oldest_price
 		
-def calculate_std(symbol, news, delta):
-	csvpath = get_price_csv_path(symbol)
-	jsonpath = csvpath.replace(".csv", ".json")
-	with open(jsonpath, 'r') as jsonfile:
-		prices = json.load(jsonfile)
+def calculate_std(symbol, news, delta, prices = None):
+	if prices is None:
+		prices = get_price_json(symbol)
 		
 	news_date = get_news_date(news)
 	start_date = news_date - delta
@@ -279,7 +291,7 @@ def calculate_std(symbol, news, delta):
 		pricedatefmt = cur_date.strftime("%Y-%m-%d")
 		if pricedatefmt in prices:
 			num_dates += 1
-			sum_variation = prices[pricedatefmt]["Adj Close"] - prices[pricedatefmt]["Open"]
+			sum_variation = prices[pricedatefmt]["Adj Close"] - get_previous_close_price(cur_date, prices)
 		cur_date += datetime.timedelta(days=1)
 		
 	if num_dates == 0:
@@ -291,7 +303,7 @@ def calculate_std(symbol, news, delta):
 	while cur_date < news_date:
 		pricedatefmt = cur_date.strftime("%Y-%m-%d")
 		if pricedatefmt in prices:
-			sum_variation = ((prices[pricedatefmt]["Adj Close"] - prices[pricedatefmt]["Open"]) - avg_return)**2
+			sum_variation = ((prices[pricedatefmt]["Adj Close"] - get_previous_close_price(cur_date, prices)) - avg_return)**2
 		cur_date += datetime.timedelta(days=1)
 		
 	stdvariation = (sum_variation / num_dates)**(0.5)
@@ -312,11 +324,37 @@ def get_valid_market_date(newsdate):
 	myprint("final date = " + str(finaldate), 0)
 	return finaldate
 	
-def get_previous_close_price(symbol, news):
-	csvpath = get_price_csv_path(symbol)
-	jsonpath = csvpath.replace(".csv", ".json")
-	with open(jsonpath, 'r') as jsonfile:
-		prices = json.load(jsonfile)
+def get_previous_valid_market_date(cur_date, prices):
+	prev_day = cur_date - datetime.timedelta(days=1)
+	end_search = cur_date - datetime.timedelta(days=365)
+	pricedatefmt = prev_day.strftime("%Y-%m-%d")
+	while pricedatefmt not in prices and prev_day > end_search:
+		prev_day = prev_day - datetime.timedelta(days=1)
+		pricedatefmt = prev_day.strftime("%Y-%m-%d")
+		
+	if pricedatefmt not in prices:
+		# Should error ?
+		return None
+	
+	return prev_day
+	
+def get_previous_close_price(cur_date, prices):
+	prev_day = cur_date - datetime.timedelta(days=1)
+	end_search = cur_date - datetime.timedelta(days=365)
+	pricedatefmt = prev_day.strftime("%Y-%m-%d")
+	while pricedatefmt not in prices and prev_day > end_search:
+		prev_day = prev_day - datetime.timedelta(days=1)
+		pricedatefmt = prev_day.strftime("%Y-%m-%d")
+	
+	if pricedatefmt not in prices:
+		# Should error ?
+		return 0
+	
+	return prices[pricedatefmt]["Adj Close"]
+			
+def get_today_previous_close_price(symbol, news, prices = None):
+	if prices is None:
+		prices = get_price_json(symbol)
 	
 	result = get_news_date(news)
 	result = get_valid_market_date(result)
@@ -328,7 +366,7 @@ def get_previous_close_price(symbol, news):
 	try:
 		while pricedatefmt not in prices:
 			result = result - datetime.timedelta(days=1)
-			pricedatefmt = result.strftime("%Y-%m-%d")		
+			pricedatefmt = result.strftime("%Y-%m-%d")
 	except OverflowError as e:
 		final_price = 10
 
@@ -349,24 +387,9 @@ def gen_news_y(symbol, news):
 	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
 	if pricedatefmt in prices:
 		price = prices[pricedatefmt]
-		y = (price["Adj Close"] - price["Open"])# / price["Open"]
+		y = (price["Adj Close"] - get_previous_close_price(result, prices))# / price["Open"]
 		return y
 	return None
-
-def get_close_prev_day(symbol, news):
-	# sample : "Fri, 16 Dec 2016 16:18:35 GMT"
-	result = get_news_date(news)
-	result = get_valid_market_date(result)
-	result = result - datetime.timedelta(days=1)
-	csvpath = get_price_csv_path(symbol)
-	jsonpath = csvpath.replace(".csv", ".json")
-	with open(jsonpath, 'r') as jsonfile:
-		prices = json.load(jsonfile)
-	pricedatefmt = result.strftime("%Y-%m-%d")
-	#pricedatefmt = str(year) + "-" + str(month) + "-" + str(day)
-	if pricedatefmt in prices:
-		price = prices[pricedatefmt]
-	return price["Adj Close"]
 	
 def group_news_by_date(allnews):
 	results = {}
@@ -485,7 +508,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=100, verbose=False)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=1000, verbose=False)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -695,7 +718,7 @@ def reorder_and_print_results(results):
 		for result in sorted_results:
 			line = []
 			line.append(result["symbol"])
-			last_close_price = get_previous_close_price(result["symbol"], result["news"])
+			last_close_price = get_today_previous_close_price(result["symbol"], result["news"])
 			line.append(str(result["result"][0]))
 			line.append(str(result["result"][0] / last_close_price * 100.0))
 			line.append(str(last_close_price))
@@ -747,11 +770,16 @@ def graph_actual_vs_predicted():
 	with open(jsonpath, 'r') as jsonfile:
 		prices = json.load(jsonfile)
 	data = []
+	prev_key = None
 	for key in prices:
+		if prev_key is None:
+			prev_key = key
+			continue
 		day_price = {}
 		day_price["date"] = datetime.datetime.strptime(key, '%Y-%m-%d')
-		day_price["pl"] = prices[key]["Adj Close"] - prices[key]["Open"]
+		day_price["pl"] = prices[key]["Adj Close"] - get_previous_close_price(day_price["date"], prices)
 		data.append(day_price)
+		prev_key = key
 	all_prices = sorted(data, key=lambda k: k['date'])
 	prices_date = [k["date"] for k in all_prices]
 	prices_pl = [k["pl"] for k in all_prices]
@@ -767,14 +795,14 @@ def graph_actual_vs_predicted():
 	
 if __name__ == '__main__':
 	#train_cross_variations()
-	graph_actual_vs_predicted()
+	#graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train"])
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
-	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])

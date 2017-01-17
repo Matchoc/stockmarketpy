@@ -835,5 +835,41 @@
         "pubDate": "Fri, 13 Jan 2017 13:25:37 GMT",
         "source": "data\\ABX\\20170113.rss",
         "title": "Better Buy: Royal Gold, Inc. vs. Goldcorp Inc."
+    },
+    {
+        "contents": "data\\ABX\\20170116-222610.news",
+        "description": "[at Financial Times] - Naguib Sawiris, the Egyptian billionaire who made his fortune building a telecoms empire extending from Algeria to Pakistan, is behind a deal to create a \u00a33bn London-listed gold producer. His family has ...",
+        "guid": "yahoo_finance/144426771",
+        "link": "http://us.rd.yahoo.com/finance/external/ft/rss/SIG=129pp4q74/*http://www.ft.com/cms/s/c169d144-dbdc-11e6-9d7c-be108f1c1dce,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev",
+        "pubDate": "Mon, 16 Jan 2017 17:37:27 GMT",
+        "source": "data\\ABX\\20170116.rss",
+        "title": "[$$] Billionaire Sawiris behind planned Endeavour-Acacia merger"
+    },
+    {
+        "contents": "data\\ABX\\20170116-222611.news",
+        "description": null,
+        "guid": "yahoo_finance/3937796630",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12o0r4ioh/*http://www.fool.com/investing/2017/01/14/top-precious-metal-stocks-to-buy-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Sat, 14 Jan 2017 16:40:06 GMT",
+        "source": "data\\ABX\\20170116.rss",
+        "title": "Top Precious Metal Stocks to Buy in 2017"
+    },
+    {
+        "contents": "data\\ABX\\20170116-222611.news",
+        "description": "[at Financial Times] - African gold producer Acacia Mining has held talks with Endeavour Mining about a merger that could create a \u00a33bn Africa-focused gold miner. London-listed Acacia, which is majority owned by Canada's Barrick ...",
+        "guid": "yahoo_finance/2861538052",
+        "link": "http://us.rd.yahoo.com/finance/external/ft/rss/SIG=129ed00sg/*http://www.ft.com/cms/s/83a1c124-da55-11e6-86ac-f253db7791c6,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev",
+        "pubDate": "Sat, 14 Jan 2017 12:50:57 GMT",
+        "source": "data\\ABX\\20170116.rss",
+        "title": "[$$] Acacia in talks with Endeavour about \u00a33bn gold merger"
+    },
+    {
+        "contents": "data\\ABX\\20170116-222612.news",
+        "description": "[at Bloomberg] - Endeavour Mining Corp., a gold miner backed by Egyptian billionaire Naguib Sawiris, is exploring a merger with Acacia Mining Plc in a deal that would create one of the largest precious-metal mining companies ...",
+        "guid": "yahoo_finance/4217895432",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13gg7uhd5/*http://www.bloomberg.com/news/articles/2017-01-13/endeavour-said-to-explore-combination-with-gold-miner-acacia?cmpid=yhoo.headline",
+        "pubDate": "Fri, 13 Jan 2017 16:43:32 GMT",
+        "source": "data\\ABX\\20170116.rss",
+        "title": "Endeavour Explores Combination With Gold Miner Acacia"
     }
 ]

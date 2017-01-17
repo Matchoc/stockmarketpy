@@ -448,5 +448,14 @@
         "pubDate": "Fri, 08 Aug 2014 12:08:27 GMT",
         "source": "data\\ELD\\20170113.rss",
         "title": "Cost discipline tempts investors back into gold mining shares"
+    },
+    {
+        "contents": "data\\ELD\\20170116-222731.news",
+        "description": null,
+        "guid": "yahoo_finance/3611677809",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brazils-eldorado-raises-wood-pulp-150600970.html",
+        "pubDate": "Mon, 16 Jan 2017 15:06:00 GMT",
+        "source": "data\\ELD\\20170116.rss",
+        "title": "Brazil's Eldorado raises wood pulp prices by $30/tn"
     }
 ]

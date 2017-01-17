@@ -376,5 +376,23 @@
         "pubDate": "Thu, 21 Apr 2016 11:10:15 GMT",
         "source": "data\\SMT\\20161229.rss",
         "title": "Sierra Metals Reports First Quarter 2016 Production Results"
+    },
+    {
+        "contents": "data\\SMT\\20170116-222743.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 13, 2017 /PRNewswire/ - Sierra Metals Inc . (TSX: SMT) (BVL: SMT) (\"Sierra Metals\" or \"the Company\") is pleased to announce that its wholly-owned subsidiary, Cautivo Mining ...",
+        "guid": "yahoo_finance/298522869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-120000155.html",
+        "pubDate": "Mon, 16 Jan 2017 12:00:00 GMT",
+        "source": "data\\SMT\\20170116.rss",
+        "title": "/R E P E A T -- Sierra Metals announces filing of preliminary prospectus relating to Cautivo Mining Inc. Spin-Off and rights offering/"
+    },
+    {
+        "contents": "data\\SMT\\20170116-222745.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 13, 2017 /PRNewswire/ - Sierra Metals Inc . (TSX: SMT) (BVL: SMT) (\"Sierra Metals\" or \"the Company\") is pleased to announce that its wholly-owned subsidiary, Cautivo Mining ...",
+        "guid": "yahoo_finance/2957243257",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-metals-announces-filing-preliminary-190800249.html",
+        "pubDate": "Fri, 13 Jan 2017 19:08:00 GMT",
+        "source": "data\\SMT\\20170116.rss",
+        "title": "Sierra Metals announces filing of preliminary prospectus relating to Cautivo Mining Inc. Spin-Off and rights offering"
     }
 ]

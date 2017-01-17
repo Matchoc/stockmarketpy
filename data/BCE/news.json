@@ -736,5 +736,23 @@
         "pubDate": "Mon, 23 Jun 2014 22:03:20 GMT",
         "source": "data\\BCE\\20170113.rss",
         "title": "Exclusive - Loral rejects $7 billion deal to sell itself and Telesat: sources"
+    },
+    {
+        "contents": "data\\BCE\\20170116-222625.news",
+        "description": "[PR Newswire] - Clara Hughes, S\u00e9an McCann and Mary Deacon visit students in Fort McMurray today Bell Let's Talk Community Fund grants for Fort McMurray Public Schools and Unity Charity Fort McMurray the first stop on ...",
+        "guid": "yahoo_finance/2872281332",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bell-lets-talk-supports-youth-163000081.html",
+        "pubDate": "Mon, 16 Jan 2017 16:30:00 GMT",
+        "source": "data\\BCE\\20170116.rss",
+        "title": "Bell Let's Talk supports youth mental health programs in Northern Alberta"
+    },
+    {
+        "contents": "data\\BCE\\20170116-222627.news",
+        "description": null,
+        "guid": "yahoo_finance/2539549783",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=142b13g7c/*http://www.capitalcube.com/blog/index.php/bce-inc-breached-its-50-day-moving-average-in-a-bullish-manner-bce-ca-january-16-2017/",
+        "pubDate": "Mon, 16 Jan 2017 13:27:24 GMT",
+        "source": "data\\BCE\\20170116.rss",
+        "title": "BCE, Inc. breached its 50 day moving average in a Bullish Manner : BCE-CA : January 16, 2017"
     }
 ]
