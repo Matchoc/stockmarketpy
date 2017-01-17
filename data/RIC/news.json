@@ -232,5 +232,14 @@
         "pubDate": "Mon, 09 Jan 2017 16:28:22 GMT",
         "source": "data\\RIC\\20170110.rss",
         "title": "Richmont Mines, Inc. \u2013 Value Analysis (TORONTO:RIC) : January 9, 2017"
+    },
+    {
+        "contents": "data\\RIC\\20170117-090016.news",
+        "description": "[PR Newswire] - Island Gold Mine Exceeds Revised Annual Operational Guidance TORONTO, Jan. 17, 2017 /PRNewswire/ - Richmont Mines Inc. (TSX: RIC) (NYSE MKT: RIC) (\"Richmont\" or the \"Corporation\"), ...",
+        "guid": "yahoo_finance/1666382200",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-achieves-revised-annual-operational-113000300.html",
+        "pubDate": "Tue, 17 Jan 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170117.rss",
+        "title": "Richmont Achieves Revised Annual Operational Guidance and Delivers Record Production"
     }
 ]

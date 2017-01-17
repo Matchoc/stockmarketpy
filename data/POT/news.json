@@ -853,5 +853,14 @@
         "pubDate": "Wed, 11 Jan 2017 18:11:36 GMT",
         "source": "data\\POT\\20170111.rss",
         "title": "ETFs with exposure to Potash Corp. of Saskatchewan, Inc. : January 11, 2017"
+    },
+    {
+        "contents": "data\\POT\\20170117-090100.news",
+        "description": "[Reuters] - Israel Chemicals' (ICL) permit to mine in the Dead Sea should not be extended when it expires in 2030 but instead the rights should be put up for sale by tender, a senior Finance Ministry official recommended on Tuesday. \"Holding a tender is the correct way to maximise the public's share of the Dead Sea's natural resources,\" Accountant-General Michal Abadi-Boiangiu wrote in a letter to the ministry's chief economist, who heads a committee that will decide on the fate of the Dead Sea rights. ICL, one of Israel's largest companies and a key supplier of potash to China, India and Europe, has exclusive permits in Israel to extract minerals from the Dead Sea.",
+        "guid": "yahoo_finance/542179609",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/israeli-official-opposes-extension-icls-134917352.html",
+        "pubDate": "Tue, 17 Jan 2017 13:49:17 GMT",
+        "source": "data\\POT\\20170117.rss",
+        "title": "Israeli official opposes extension to ICL's Dead Sea mining permit"
     }
 ]

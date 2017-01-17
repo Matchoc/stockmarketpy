@@ -880,5 +880,32 @@
         "pubDate": "Wed, 11 Jan 2017 16:02:05 GMT",
         "source": "data\\BBD.B\\20170111.rss",
         "title": "Bain Said to Weigh Sale of Stake in Snowmobile Maker BRP"
+    },
+    {
+        "contents": "data\\BBD.B\\20170117-090259.news",
+        "description": null,
+        "guid": "yahoo_finance/1396606693",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/generation-trains-ordered-lines-d-111005188.html",
+        "pubDate": "Tue, 17 Jan 2017 11:10:05 GMT",
+        "source": "data\\BBD.B\\20170117.rss",
+        "title": "New Generation Trains Ordered for Lines D and E of the SNCF Network in Ile-de-France"
+    },
+    {
+        "contents": "data\\BBD.B\\20170117-090301.news",
+        "description": "[Marketwired] - Bombardier Transportation confirms that it has received an official notice from SNCF to supply, in consortium with Alstom, 71 new trains for the RER lines D and E of the Ile-de-France network. This order ...",
+        "guid": "yahoo_finance/1877414627",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/generation-trains-ordered-lines-d-102831596.html",
+        "pubDate": "Tue, 17 Jan 2017 10:28:31 GMT",
+        "source": "data\\BBD.B\\20170117.rss",
+        "title": "New Generation Trains Ordered for Lines D and E of the SNCF Network in Ile-de-France"
+    },
+    {
+        "contents": "data\\BBD.B\\20170117-090303.news",
+        "description": null,
+        "guid": "yahoo_finance/2185473283",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/australias-qantas-grounds-10-aircraft-070052778.html",
+        "pubDate": "Tue, 17 Jan 2017 07:06:32 GMT",
+        "source": "data\\BBD.B\\20170117.rss",
+        "title": "Australia's Qantas grounds 10 aircraft on overdue inspections"
     }
 ]

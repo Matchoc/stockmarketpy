@@ -772,5 +772,14 @@
         "pubDate": "Mon, 16 Jan 2017 14:00:00 GMT",
         "source": "data\\BNS\\20170116.rss",
         "title": "Introducing the 2017 Scotiabank Giller Prize Jury"
+    },
+    {
+        "contents": "data\\BNS\\20170117-090227.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** Montreal's transit authority is ...",
+        "guid": "yahoo_finance/1629471850",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-17-104824570.html",
+        "pubDate": "Tue, 17 Jan 2017 10:48:24 GMT",
+        "source": "data\\BNS\\20170117.rss",
+        "title": "PRESS DIGEST- Canada - Jan 17"
     }
 ]

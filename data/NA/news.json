@@ -439,5 +439,14 @@
         "pubDate": "Wed, 11 Jan 2017 18:03:46 GMT",
         "source": "data\\NA\\20170111.rss",
         "title": "ETFs with exposure to National Bank of Canada : January 11, 2017"
+    },
+    {
+        "contents": "data\\NA\\20170117-090045.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** Montreal's transit authority is ...",
+        "guid": "yahoo_finance/1629471850",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-17-104824570.html",
+        "pubDate": "Tue, 17 Jan 2017 10:48:24 GMT",
+        "source": "data\\NA\\20170117.rss",
+        "title": "PRESS DIGEST- Canada - Jan 17"
     }
 ]

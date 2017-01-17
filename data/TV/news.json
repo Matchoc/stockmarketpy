@@ -376,5 +376,14 @@
         "pubDate": "Wed, 11 Jan 2017 13:17:10 GMT",
         "source": "data\\TV\\20170111.rss",
         "title": "Trevali Mining Corp. breached its 50 day moving average in a Bullish Manner : TV-CA : January 11, 2017"
+    },
+    {
+        "contents": "data\\TV\\20170117-090235.news",
+        "description": "[Marketwired] - Trevali Mining Corporation reports preliminary fourth quarter 2016 production results from its two operating zinc mines, the Caribou Mine in New Brunswick, Canada and the Santander Mine in Peru. For the ...",
+        "guid": "yahoo_finance/1343191916",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trevali-reports-record-q4-2016-134805959.html",
+        "pubDate": "Tue, 17 Jan 2017 13:48:05 GMT",
+        "source": "data\\TV\\20170117.rss",
+        "title": "Trevali reports record Q4-2016 and 2016 annual zinc production"
     }
 ]

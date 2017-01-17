@@ -313,5 +313,14 @@
         "pubDate": "Fri, 13 Jan 2017 14:00:00 GMT",
         "source": "data\\MFC\\20170116.rss",
         "title": "John Hancock Announces New Chairperson of the John Hancock Group of Funds Board of Trustees"
+    },
+    {
+        "contents": "data\\MFC\\20170117-090250.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 17, 2017 /PRNewswire/ -- John Hancock Investments today announced a major appointment to its national sales effort, naming Lee Small as Western Divisional Sales Manager for the Wirehouse and ...",
+        "guid": "yahoo_finance/1295465397",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-names-lee-140000609.html",
+        "pubDate": "Tue, 17 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170117.rss",
+        "title": "John Hancock Investments names Lee Small as sales manager, wirehouses and regionals, for Western region"
     }
 ]

@@ -169,5 +169,14 @@
         "pubDate": "Mon, 04 Jan 2016 12:00:00 GMT",
         "source": "data\\VFF\\20161221.rss",
         "title": "Village Farms International Announces the Addition of Dr. Roberta Cook to its Board of Directors"
+    },
+    {
+        "contents": "data\\VFF\\20170117-090220.news",
+        "description": null,
+        "guid": "yahoo_finance/2033217853",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-consumer-defensive-131500613.html",
+        "pubDate": "Tue, 17 Jan 2017 13:15:00 GMT",
+        "source": "data\\VFF\\20170117.rss",
+        "title": "Research Reports Initiated on Consumer Defensive Stocks Brick Brewing, Ten Peaks Coffee Company, Village Farms International, and Big Rock Brewery"
     }
 ]

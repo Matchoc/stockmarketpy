@@ -871,5 +871,14 @@
         "pubDate": "Fri, 13 Jan 2017 16:43:32 GMT",
         "source": "data\\ABX\\20170116.rss",
         "title": "Endeavour Explores Combination With Gold Miner Acacia"
+    },
+    {
+        "contents": "data\\ABX\\20170117-090129.news",
+        "description": null,
+        "guid": "yahoo_finance/3680794268",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12dqntafv/*http://www.fool.com/investing/2017/01/16/how-risky-is-royal-gold-inc-2.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 17 Jan 2017 13:42:22 GMT",
+        "source": "data\\ABX\\20170117.rss",
+        "title": "How Risky Is Royal Gold, Inc.?"
     }
 ]
