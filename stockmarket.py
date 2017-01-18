@@ -40,14 +40,15 @@ def set_skip_symbol(x):
 	global SKIP_SYMBOL
 	SKIP_SYMBOL = x
 
-PRINT_LEVEL=3
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
 
 class MLModelError(Exception):
-	def __init__(self, error_msg):
+	def __init__(self, error_msg, level):
 		self.msg = error_msg
+		self.lvl = level
 		
 def sort_dict(v, asc=True):
 	if asc:
@@ -120,14 +121,12 @@ def gen_news_x(symbol, news):
 	with open(news["contents"], 'rb') as testfo:
 		text = testfo.read()
 	if len(text) <= 0:
-		return None
+		raise MLModelError("[" + symbol + "] news " + news["content"] + " download empty for " + news["title"] + " ( " + pricedatefmt + " )", 1)
 		
 	with open(newswordspath, 'r') as jsonfile:
 		newswords = json.load(jsonfile)
 	sortedX = sorted(allwords.keys())
-	#price = get_close_prev_day(symbol, news)
 	x = get_base_X(symbol, news)
-	#x = []
 	for key in sortedX:
 		count = 0
 		if key in newswords:
@@ -168,7 +167,7 @@ def gen_allnews_x(symbol, allnews):
 	if valid_news:
 		return [x]
 	else:
-		return None
+		raise MLModelError("[" + symbol + "] No news content for any of all " + str(len(allnews)) + " news at date " + allnews[0]["pubDate"], 1)
 	
 def get_base_X(symbol, news):
 	prices = get_price_json(symbol)
@@ -203,17 +202,17 @@ def get_num_days_up(symbol, news, pricejson = None):
 	if prev_day2 is not None:
 		price2 = get_price_date(pricejson, prev_day2)
 	else:
-		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
-		return 0
+		raise MLModelError("[" + symbol + "] Could not find any valid date in get_num_days_up for news : " + news["title"], 1)
+		
 	prev_day = get_previous_valid_market_date(prev_day2, pricejson)
 	if prev_day is not None:
 		price = get_price_date(pricejson, prev_day)
 	else:
-		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
-		return 0
+		raise MLModelError("[" + symbol + "] Could not find any valid date in get_num_days_up for news : " + news["title"], 1)
+		
 	if price is None or price2 is None:
-		myprint("Could not find any valid date in get_num_days_up : " + symbol + " for news : " + news["title"], 5)
-		return 0
+		raise MLModelError("[" + symbol + "] Could not find any valid date in get_num_days_up for news : " + news["title"], 1)
+		
 	isPositive = price2["Adj Close"] - price["Adj Close"] >= 0
 	curPositive = price2["Adj Close"] - price["Adj Close"] >= 0
 	count = 1
@@ -252,6 +251,8 @@ def calculate_average_price_over_time(symbol, news, delta, prices = None):
 		
 	if count > 0:
 		avg_close_price = avg_close_price / count
+	else:
+		raise MLModelError("[" + symbol + "] No price data for average price before " + news["title"] + " ( " + news["pubDate"] + " )", 1)
 		
 	return avg_close_price
 	
@@ -273,8 +274,7 @@ def calculate_return_over_time(symbol, news, delta, prices = None):
 		cur_date += datetime.timedelta(days=1)
 		
 	if oldest_price is None or newest_price is None:
-		myprint("[" + symbol + "] Can't find oldest/newest price for delta of " + str(delta), 1)
-		return 0
+		raise MLModelError("[" + symbol + "] Can't find oldest/newest price for delta of " + str(delta), 1)
 		
 	return newest_price - oldest_price
 		
@@ -295,7 +295,7 @@ def calculate_std(symbol, news, delta, prices = None):
 		cur_date += datetime.timedelta(days=1)
 		
 	if num_dates == 0:
-		return 0
+		raise MLModelError("[" + symbol + "] Can't calculate STD, couldn't find any prices for " + news["title"], 1)
 		
 	avg_return = avg_return / num_dates
 	cur_date = start_date
@@ -368,10 +368,12 @@ def get_today_previous_close_price(symbol, news, prices = None):
 			result = result - datetime.timedelta(days=1)
 			pricedatefmt = result.strftime("%Y-%m-%d")
 	except OverflowError as e:
-		final_price = 10
+		raise MLModelError("[" + symbol + "] No previous price day for " + news["title"] + " ( " + news["pubDate"] + " )", 1)
 
 	if pricedatefmt in prices:
 		final_price = prices[pricedatefmt]["Adj Close"]
+	else:
+		raise MLModelError("[" + symbol + "] No previous price day for " + news["title"] + " ( " + news["pubDate"] + " )", 1)
 		
 	return final_price
 
@@ -389,7 +391,8 @@ def gen_news_y(symbol, news):
 		price = prices[pricedatefmt]
 		y = (price["Adj Close"] - get_previous_close_price(result, prices))# / price["Open"]
 		return y
-	return None
+		
+	raise MLModelError("[" + symbol + "] price not found for " + news["title"] + " ( " + pricedatefmt + " )", 1)
 	
 def group_news_by_date(allnews):
 	results = {}
@@ -414,23 +417,19 @@ def updateTraining_by_date(symbol):
 	failedy = 0
 	news_by_date = group_news_by_date(allnews)
 	for key in news_by_date:
-		y = gen_news_y(symbol, news_by_date[key][0])
-		if y is not None:
+		try:
+			y = gen_news_y(symbol, news_by_date[key][0])
 			x = gen_allnews_x(symbol, news_by_date[key])
-			if x is not None:
-				all_x += x
-				all_y.append(y)
-				all_news.append(news_by_date[key]) # useful for debugging
-			else:
-				failedx += 1
-				myprint("[" + symbol + "] failed to load news X (" + news_by_date[key][0]["pubDate"] + ")", 1)
-		else:
-			failedy += 1
-			myprint("[" + symbol + "] failed to load news y (" + news_by_date[key][0]["pubDate"] + ")", 1)
+			all_x += x
+			all_y.append(y)
+			all_news.append(news_by_date[key]) # useful for debugging
+		except MLModelError as e:
+			failedx += 1
+			myprint(e.msg, e.lvl)
 			
 		myprint("[" + symbol + "] processed " + news_by_date[key][0]["pubDate"] + " with " + str(len(news_by_date[key])) + " news", 0)
 			
-	myprint("Failed to load " + str(failedx) + " X and " + str(failedy) + "Y on a list of " + str(len(news_by_date)) + " dates", 2)
+	myprint("Failed to load " + str(failedx) + " news on a list of " + str(len(news_by_date)) + " dates", 2)
 	results = {}
 	results["X"] = all_x
 	results["y"] = all_y
@@ -448,23 +447,18 @@ def updateTraining(symbol):
 	all_y = []
 	all_news = []
 	failedx = 0
-	failedy = 0
 	for news in allnews:
-		y = gen_news_y(symbol, news)
-		if y is not None:
+		try:
+			y = gen_news_y(symbol, news)
 			x = gen_news_x(symbol, news)
-			if x is not None:
-				all_x += x
-				all_y.append(y)
-				all_news.append(news) # useful for debugging
-			else:
-				failedx += 1
-				myprint("[" + symbol + "] failed to load news X : " + news["title"] + " (" + news["pubDate"] + ")", 1)
-		else:
-			failedy += 1
-			myprint("[" + symbol + "] failed to load news y : " + news["title"] + " (" + news["pubDate"] + ")", 1)
+			all_x += x
+			all_y.append(y)
+			all_news.append(news) # useful for debugging
+		except MLModelError as e:
+			failedx += 1
+			myprint(e.msg, e.lvl)
 			
-	myprint("Failed to load " + str(failedx) + " X and " + str(failedy) + "Y", 1)
+	myprint("Failed to load " + str(failedx) + " news", 1)
 	results = {}
 	results["X"] = all_x
 	results["y"] = all_y
@@ -508,7 +502,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=500, verbose=False)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=2000, verbose=True)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -580,6 +574,8 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		myprint("crossvalidating : training size = " + str(int(len(data["X"]) * per)) + ", validation size = " + str(int(len(data["X"]) * (1 - per))), 2)
 		
 	if "train" in steps:
+		if "crossval" not in steps:
+			myprint("Training with " + str(len(data["X"])) + " Xs", 2)
 		passed_data = {}
 		passed_data["X"] = data["X"][:int(len(data["X"]) * per)]
 		passed_data["y"] = data["y"][:int(len(data["y"]) * per)]
@@ -633,7 +629,12 @@ def get_most_recent_news_X(symbol, data):
 				
 	myprint("predict " + symbol + " Using : '" + most_recent_news["title"] + "' (" + most_recent_news["pubDate"] + ")", 2)
 	x = []
-	res = gen_news_x(symbol, most_recent_news)
+	try:
+		res = gen_news_x(symbol, most_recent_news)
+	except MLModelError as e:
+		myprint(e.msg, e.lvl)
+		res = None
+		
 	if res is not None:
 		x += res
 	data["news"] = most_recent_news
@@ -658,9 +659,11 @@ def get_today_X(symbol):
 	
 	x = []
 	for news in valid_news:
-		res = gen_news_x(symbol, news)
-		if res is not None:
+		try:
+			res = gen_news_x(symbol, news)
 			x += res
+		except MLModelError as e:
+			myprint(e.msg, e.lvl)
 		
 	return x
 	
@@ -679,6 +682,8 @@ def predict_all_today():
 		if len(x) == 0:
 			myprint("Skip " + symbol + " no date for today")
 			continue
+		#print(x)
+		#print(data)
 		x = SCALER_NEWS.transform(x)
 		data["result"] = MACHINE_NEWS.predict(x)
 		results.append(data)
@@ -793,12 +798,13 @@ if __name__ == '__main__':
 	
 	# Update news and do a prediction based only on previous training and word list (don't update word list or machine)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "today"])
+	#update_all_symbols(["train", "today"])
 	
 	# Update everything and do a cross-validation check (will printout a square mean variation)
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
 	
 	#update_all_symbols(["processnews", "allwords", "updateTraining", "train"])
-	#update_all_symbols(["updateTraining"])
+	update_all_symbols(["train"])
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
