@@ -35,7 +35,6 @@ from sklearn.metrics import label_ranking_average_precision_score
 MACHINE_NEWS = None
 SCALER_NEWS = None
 
-SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 def set_skip_symbol(x):
 	global SKIP_SYMBOL
 	SKIP_SYMBOL = x
@@ -121,7 +120,7 @@ def gen_news_x(symbol, news):
 	with open(news["contents"], 'rb') as testfo:
 		text = testfo.read()
 	if len(text) <= 0:
-		raise MLModelError("[" + symbol + "] news " + news["content"] + " download empty for " + news["title"] + " ( " + pricedatefmt + " )", 1)
+		raise MLModelError("[" + symbol + "] news " + news["contents"] + " download empty for " + news["title"] + " ( " + news["pubDate"] + " )", 1)
 		
 	with open(newswordspath, 'r') as jsonfile:
 		newswords = json.load(jsonfile)
@@ -788,6 +787,7 @@ def graph_actual_vs_predicted():
 	
 	myprint("todo")
 	
+SKIP_SYMBOL = "RY" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
 	#train_cross_variations()
 	#graph_actual_vs_predicted()
@@ -804,7 +804,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval"])
 	
 	#update_all_symbols(["processnews", "allwords", "updateTraining", "train"])
-	update_all_symbols(["train"])
+	#update_all_symbols(["train"])
 	#update_all_symbols(["price2json", "rss2json"])
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
