@@ -403,5 +403,14 @@
         "pubDate": "Fri, 13 Jan 2017 13:58:52 GMT",
         "source": "data\\BTE\\20170113.rss",
         "title": "Baytex Energy Corp. breached its 50 day moving average in a Bearish Manner : BTE-CA : January 13, 2017"
+    },
+    {
+        "contents": "data\\BTE\\20170118-090326.news",
+        "description": null,
+        "guid": "yahoo_finance/3020486745",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1319bpfe2/*http://www.fool.com/investing/2017/01/17/was-baytex-energy-corps-fantastic-run-in-2016-too.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 17 Jan 2017 18:27:00 GMT",
+        "source": "data\\BTE\\20170118.rss",
+        "title": "Was Baytex Energy Corp's Fantastic Run in 2016 Too Much?"
     }
 ]

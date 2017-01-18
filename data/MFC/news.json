@@ -322,5 +322,14 @@
         "pubDate": "Tue, 17 Jan 2017 14:00:00 GMT",
         "source": "data\\MFC\\20170117.rss",
         "title": "John Hancock Investments names Lee Small as sales manager, wirehouses and regionals, for Western region"
+    },
+    {
+        "contents": "data\\MFC\\20170118-090110.news",
+        "description": null,
+        "guid": "yahoo_finance/558536321",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=137jffiqa/*http://www.bloomberg.com/news/videos/2017-01-17/manulife-s-greene-gop-border-tax-proposal-a-scary-one?cmpid=yhoo.headline",
+        "pubDate": "Tue, 17 Jan 2017 23:21:06 GMT",
+        "source": "data\\MFC\\20170118.rss",
+        "title": "Manulife's Greene: GOP Border-Tax Proposal a Scary One"
     }
 ]

@@ -673,5 +673,14 @@
         "pubDate": "Thu, 12 Jan 2017 14:08:21 GMT",
         "source": "data\\ECA\\20170113.rss",
         "title": "Impact of Encana\u2019s Growth Plan on Premium Return Inventory"
+    },
+    {
+        "contents": "data\\ECA\\20170118-090307.news",
+        "description": null,
+        "guid": "yahoo_finance/2609746535",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132jh5cor/*http://www.fool.com/investing/2017/01/17/encana-corp-surged-more-than-100-in-2016-does-it-h.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 17 Jan 2017 17:42:07 GMT",
+        "source": "data\\ECA\\20170118.rss",
+        "title": "Encana Corp Stock Surged More Than 100% in 2016. Does It Have Anything Left for 2017?"
     }
 ]

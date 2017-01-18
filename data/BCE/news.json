@@ -754,5 +754,23 @@
         "pubDate": "Mon, 16 Jan 2017 13:27:24 GMT",
         "source": "data\\BCE\\20170116.rss",
         "title": "BCE, Inc. breached its 50 day moving average in a Bullish Manner : BCE-CA : January 16, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170118-090216.news",
+        "description": null,
+        "guid": "yahoo_finance/2366665020",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12q8filur/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-bce-inc-january-17-2017/",
+        "pubDate": "Tue, 17 Jan 2017 15:56:37 GMT",
+        "source": "data\\BCE\\20170118.rss",
+        "title": "ETFs with exposure to BCE, Inc. : January 17, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170118-090217.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Jan. 17, 2017 /CNW Telbec/ - Bell today announced the launch of the annual $1-million Bell Let's Talk Community Fund for 2017. Grant applications are now being accepted for local mental health initiatives that improve access to care in communities around the country. \"Over the past 6 years the Bell Let's Talk Community Fund has supported 344 grassroots mental health initiatives in communities all around Canada,\" said Mary Deacon, Chair of Bell Let's Talk.",
+        "guid": "yahoo_finance/1301344725",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/2017-bell-lets-talk-community-140000496.html",
+        "pubDate": "Tue, 17 Jan 2017 14:00:00 GMT",
+        "source": "data\\BCE\\20170118.rss",
+        "title": "The 2017 Bell Let's Talk Community Fund is open for grant applications"
     }
 ]

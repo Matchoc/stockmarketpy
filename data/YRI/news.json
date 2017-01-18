@@ -547,5 +547,23 @@
         "pubDate": "Thu, 12 Jan 2017 00:40:00 GMT",
         "source": "data\\YRI\\20170111.rss",
         "title": "Yamana Gold Provides Preliminary 2016 Operational Results"
+    },
+    {
+        "contents": "data\\YRI\\20170118-090011.news",
+        "description": null,
+        "guid": "yahoo_finance/454435993",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/strike-ends-yamana-golds-el-232442594.html",
+        "pubDate": "Tue, 17 Jan 2017 23:24:42 GMT",
+        "source": "data\\YRI\\20170118.rss",
+        "title": "Strike ends at Yamana Gold's El Pe\u00f1\u00f3n mine, union says"
+    },
+    {
+        "contents": "data\\YRI\\20170118-090013.news",
+        "description": "[Marketwired] - YAMANA GOLD INC. is pleased to announce resumption of operations at its El Penon mine in Chile, after successfully concluding negotiations leading to collective bargaining agreements with two unions representing ...",
+        "guid": "yahoo_finance/4270337514",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/yamana-announces-resumption-operations-el-231526114.html",
+        "pubDate": "Tue, 17 Jan 2017 23:15:26 GMT",
+        "source": "data\\YRI\\20170118.rss",
+        "title": "Yamana Announces Resumption of Operations at El Penon"
     }
 ]

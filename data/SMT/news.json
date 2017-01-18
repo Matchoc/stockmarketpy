@@ -394,5 +394,14 @@
         "pubDate": "Fri, 13 Jan 2017 19:08:00 GMT",
         "source": "data\\SMT\\20170116.rss",
         "title": "Sierra Metals announces filing of preliminary prospectus relating to Cautivo Mining Inc. Spin-Off and rights offering"
+    },
+    {
+        "contents": "data\\SMT\\20170118-090058.news",
+        "description": null,
+        "guid": "yahoo_finance/1300213587",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-metals-reports-2016-production-120000556.html",
+        "pubDate": "Wed, 18 Jan 2017 12:00:00 GMT",
+        "source": "data\\SMT\\20170118.rss",
+        "title": "Sierra Metals reports 2016 production results and announces 2017 production and cost guidance"
     }
 ]

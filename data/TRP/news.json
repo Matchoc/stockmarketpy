@@ -268,5 +268,14 @@
         "pubDate": "Thu, 12 Jan 2017 19:49:06 GMT",
         "source": "data\\TRP\\20170113.rss",
         "title": "Will TransCanada Corporation Raise Its Dividend in 2017?"
+    },
+    {
+        "contents": "data\\TRP\\20170118-090053.news",
+        "description": null,
+        "guid": "yahoo_finance/1067665923",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-canadian-energy-firms-bigger-182716935.html",
+        "pubDate": "Tue, 17 Jan 2017 21:01:51 GMT",
+        "source": "data\\TRP\\20170118.rss",
+        "title": "Exclusive - Canadian energy firms at bigger risk from cyber, bomb attacks - spy agency"
     }
 ]

@@ -664,5 +664,32 @@
         "pubDate": "Tue, 10 Jan 2017 19:49:31 GMT",
         "source": "data\\TD\\20170111.rss",
         "title": "Canadian banks bullish on Trump's pro-growth agenda"
+    },
+    {
+        "contents": "data\\TD\\20170118-090244.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 18, 2017 /CNW/ - TD Asset Management Inc. today announced the January cash distribution for the TD Canadian Aggregate Bond Index ETF, which makes distributions to unitholders monthly. Unitholders ...",
+        "guid": "yahoo_finance/4013424032",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-asset-management-inc-announces-130000884.html",
+        "pubDate": "Wed, 18 Jan 2017 13:00:00 GMT",
+        "source": "data\\TD\\20170118.rss",
+        "title": "TD Asset Management Inc. Announces Monthly Distribution for January 2017"
+    },
+    {
+        "contents": "data\\TD\\20170118-090245.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 18, 2017 /CNW/ - The boomerang effect is in full swing as many millennials continue to lean on the boomer generation for financial support, according to a recent TD survey. At a time when the older generation should be preparing for retirement, many instead are experiencing a \"d\u00e9j\u00e0-boom\" effect, as children or grandchildren return to the family home or need financial assistance. Overall, 62 per cent of the boomer generation feels the \"d\u00e9j\u00e0 -boom\" effect is preventing them from saving enough for retirement.",
+        "guid": "yahoo_finance/3085386177",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/d-j-boom-boomerang-kids-090000821.html",
+        "pubDate": "Wed, 18 Jan 2017 09:00:00 GMT",
+        "source": "data\\TD\\20170118.rss",
+        "title": "D\u00e9j\u00e0-Boom: boomerang kids collide with retirement goals of boomer parents"
+    },
+    {
+        "contents": "data\\TD\\20170118-090247.news",
+        "description": null,
+        "guid": "yahoo_finance/3337247042",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=1379kaqdf/*http://www.bloomberg.com/news/videos/2017-01-18/td-ameritrade-s-brankin-theme-for-2017-is-uncertainty?cmpid=yhoo.headline",
+        "pubDate": "Wed, 18 Jan 2017 02:54:12 GMT",
+        "source": "data\\TD\\20170118.rss",
+        "title": "TD Ameritrade's Brankin: Theme for 2017 Is Uncertainty"
     }
 ]

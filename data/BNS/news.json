@@ -781,5 +781,14 @@
         "pubDate": "Tue, 17 Jan 2017 10:48:24 GMT",
         "source": "data\\BNS\\20170117.rss",
         "title": "PRESS DIGEST- Canada - Jan 17"
+    },
+    {
+        "contents": "data\\BNS\\20170118-090314.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 17, 2017 /PRNewswire/ - The global economy is projected to post its best performance this year since 2014. While geopolitical risks abound, recent economic data point to strengthening growth prospects in most areas of the world. \"The incoming Trump Administration's approach to trade policy, which has not yet been fully articulated, represents a significant risk to the global recovery,\" said Jean-Fran\u00e7ois Perrault, Senior Vice President and Chief Economist at Scotiabank.",
+        "guid": "yahoo_finance/3738209496",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sunnier-days-global-economy-scotiabank-163300030.html",
+        "pubDate": "Tue, 17 Jan 2017 16:33:00 GMT",
+        "source": "data\\BNS\\20170118.rss",
+        "title": "Sunnier days for the global economy: Scotiabank Economics Global Outlook"
     }
 ]

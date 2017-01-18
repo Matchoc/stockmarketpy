@@ -1042,5 +1042,41 @@
         "pubDate": "Mon, 16 Jan 2017 14:00:00 GMT",
         "source": "data\\RY\\20170116.rss",
         "title": "RBC Global Asset Management Inc. announces RBC ETF cash distributions for January 2017"
+    },
+    {
+        "contents": "data\\RY\\20170118-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/221037215",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-royal-bank-boosts-focus-110001481.html",
+        "pubDate": "Wed, 18 Jan 2017 11:00:01 GMT",
+        "source": "data\\RY\\20170118.rss",
+        "title": "Canada's Royal Bank boosts focus on AI with new research lab"
+    },
+    {
+        "contents": "data\\RY\\20170118-090038.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 18, 2017 /CNW/ - Following recent investments in artificial intelligence (AI) and machine learning, RBC today announced Dr. Richard S. Sutton, one of the modern day pioneers of AI, as head academic advisor to RBC Research in machine learning. RBC Research will establish a new lab and plan to work with the Alberta Machine Intelligence Institute (Amii), based at the University of Alberta, to identify and pursue further research collaboration opportunities on an ongoing basis.",
+        "guid": "yahoo_finance/3373733261",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-research-engages-top-machine-110000112.html",
+        "pubDate": "Wed, 18 Jan 2017 11:00:00 GMT",
+        "source": "data\\RY\\20170118.rss",
+        "title": "RBC Research engages top machine learning experts to bring reinforcement learning to the forefront of banking"
+    },
+    {
+        "contents": "data\\RY\\20170118-090041.news",
+        "description": "[Reuters - UK Focus] - The U.S. Supreme Court on Tuesday allowed private antitrust lawsuits brought by investors including big U.S. cities accusing major banks of conspiring to manipulate the pivotal Libor benchmark interest ...",
+        "guid": "yahoo_finance/331442514",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/u-top-court-rejects-banks-143824036.html",
+        "pubDate": "Tue, 17 Jan 2017 14:38:24 GMT",
+        "source": "data\\RY\\20170118.rss",
+        "title": "U.S. top court rejects banks over Libor antitrust lawsuits"
+    },
+    {
+        "contents": "data\\RY\\20170118-090043.news",
+        "description": "[Reuters] - The U.S. Supreme Court on Tuesday allowed private antitrust lawsuits brought by investors including big U.S. cities accusing major banks of conspiring to manipulate the pivotal Libor benchmark interest ...",
+        "guid": "yahoo_finance/3211143467",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-top-court-rejects-banks-143824509.html",
+        "pubDate": "Tue, 17 Jan 2017 14:38:24 GMT",
+        "source": "data\\RY\\20170118.rss",
+        "title": "U.S. top court rejects banks over Libor antitrust lawsuits"
     }
 ]

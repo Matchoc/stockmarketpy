@@ -907,5 +907,14 @@
         "pubDate": "Tue, 17 Jan 2017 07:06:32 GMT",
         "source": "data\\BBD.B\\20170117.rss",
         "title": "Australia's Qantas grounds 10 aircraft on overdue inspections"
+    },
+    {
+        "contents": "data\\BBD.B\\20170118-090232.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. ** AltaGas Ltd is gearing up for a C$500 million ($382.38 million) propane export project, hoping to breathe new life into a northern British Columbia port that has been hurt by sluggish coal shipments over the past three years. ** Billionaire investor Wilbur Ross, chosen by U.S. President-elect Donald Trump to reshape U.S. trade policy, has informed Canada that rules of origin and independent dispute tribunals will be central to talks aimed at resetting the North American free-trade agreement.",
+        "guid": "yahoo_finance/1948490481",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-18-103638576.html",
+        "pubDate": "Wed, 18 Jan 2017 10:36:38 GMT",
+        "source": "data\\BBD.B\\20170118.rss",
+        "title": "PRESS DIGEST- Canada - Jan 18"
     }
 ]

@@ -601,5 +601,14 @@
         "pubDate": "Tue, 17 Jan 2017 09:00:00 GMT",
         "source": "data\\CM\\20170117.rss",
         "title": "CIBC partners with UnionPay International to offer clients no-fee RMB money transfers to China"
+    },
+    {
+        "contents": "data\\CM\\20170118-090302.news",
+        "description": null,
+        "guid": "yahoo_finance/2551084725",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/now-access-atm-while-skiing-210912803.html",
+        "pubDate": "Tue, 17 Jan 2017 21:09:12 GMT",
+        "source": "data\\CM\\20170118.rss",
+        "title": "You Can Now Access An ATM While Skiing"
     }
 ]
