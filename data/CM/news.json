@@ -610,5 +610,14 @@
         "pubDate": "Tue, 17 Jan 2017 21:09:12 GMT",
         "source": "data\\CM\\20170118.rss",
         "title": "You Can Now Access An ATM While Skiing"
+    },
+    {
+        "contents": "data\\CM\\20170118-213658.news",
+        "description": null,
+        "guid": "yahoo_finance/1450896578",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12u6jkvug/*http://www.bloomberg.com/news/videos/2017-01-18/value-investing-versus-growth-investing-cibc?cmpid=yhoo.headline",
+        "pubDate": "Wed, 18 Jan 2017 18:53:47 GMT",
+        "source": "data\\CM\\20170118.rss",
+        "title": "Value Investing Versus Growth Investing: CIBC"
     }
 ]

@@ -25,5 +25,14 @@
         "pubDate": "Thu, 25 Feb 2016 21:30:19 GMT",
         "source": "data\\YCM\\20161221.rss",
         "title": "New Commerce Split Fund: Financial Results to November 30, 2015"
+    },
+    {
+        "contents": "data\\YCM\\20170118-221709.news",
+        "description": null,
+        "guid": "yahoo_finance/3582886382",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/commerce-split-monthly-dividend-declared-140000135.html",
+        "pubDate": "Wed, 18 Jan 2017 14:00:00 GMT",
+        "source": "data\\YCM\\20170118.rss",
+        "title": "Commerce Split Monthly Dividend Declared for Class I and Class II Preferred Shares"
     }
 ]

@@ -691,5 +691,14 @@
         "pubDate": "Wed, 18 Jan 2017 02:54:12 GMT",
         "source": "data\\TD\\20170118.rss",
         "title": "TD Ameritrade's Brankin: Theme for 2017 Is Uncertainty"
+    },
+    {
+        "contents": "data\\TD\\20170118-214245.news",
+        "description": null,
+        "guid": "yahoo_finance/3443463234",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=1381s6nrr/*http://www.bloomberg.com/news/videos/2017-01-18/td-ameritrade-ceo-some-trading-driven-by-trump-himself?cmpid=yhoo.headline",
+        "pubDate": "Wed, 18 Jan 2017 22:31:57 GMT",
+        "source": "data\\TD\\20170118.rss",
+        "title": "TD Ameritrade CEO: Trump Rally 'Got Ahead of Itself'"
     }
 ]

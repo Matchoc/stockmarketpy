@@ -3,8 +3,13 @@ import sys
 import os
 
 if __name__ == '__main__':
-	with open(os.path.join("data", "news_link.json"), 'r') as jsonfile:
+	news_link_path = os.path.join("data", "news_link.json")
+	with open(news_link_path, 'r') as jsonfile:
 		tickers = json.load(jsonfile)
+		
+	print(len(tickers))
+		
+	sys.exit()
 		
 	new_tickers = [
 		"AAR.UN",
@@ -258,3 +263,23 @@ if __name__ == '__main__':
 		"YRI",
 		"ZZZ"
 	]
+	
+	news_url = "https://feeds.finance.yahoo.com/rss/2.0/headline?s={}.to&region=US&lang=en-US"
+	prices_url = "http://real-chart.finance.yahoo.com/table.csv?s={}.TO&ignore=.csv"
+	
+	added = 0
+	for new_ticker in new_tickers:
+		new_ticker = new_ticker.replace(".", "-") #yahoo uses - as separator and . for the exchange name
+		if new_ticker not in tickers:
+			added += 1
+			data = {}
+			data["news"] = news_url.format(new_ticker)
+			data["prices"] = prices_url.format(new_ticker)
+			tickers[new_ticker] = data
+			
+	with open(news_link_path, 'w') as fo:
+		json.dump(tickers, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
+		
+	print("Added " + str(added))
+	print("Done")

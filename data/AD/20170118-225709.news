@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.capitalcube.com/blog/xmlrpc.php">
+	<title>Alaris Royalty Corp. : AD-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016 &#8211; CapitalCube</title>
+<link rel="alternate" type="application/rss+xml" title="CapitalCube &raquo; Feed" href="http://www.capitalcube.com/blog/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CapitalCube &raquo; Comments Feed" href="http://www.capitalcube.com/blog/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.capitalcube.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='generate-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/css/unsemantic-grid.min.css?ver=1.3.34' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/style.css?ver=1.3.34' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+body {background-color: #efefef; color: #3a3a3a; }a, a:visited {color: #1e73be; text-decoration: none; }a:hover, a:focus, a:active {color: #000000; }body .grid-container {max-width: 1100px; }
+body, button, input, select, textarea {font-family: "Open Sans", sans-serif; font-size: 15px; }.main-title {font-weight: bold; font-size: 45px; }.site-description {font-size: 15px; }.main-navigation a, .menu-toggle {font-size: 15px; }.main-navigation .main-nav ul ul li a {font-size: 14px; }.widget-title {font-size: 20px; }.sidebar .widget, .footer-widgets .widget {font-size: 17px; }h1 {font-weight: 300; font-size: 40px; }h2 {font-weight: 300; font-size: 30px; }h3 {font-size: 20px; }.site-info {font-size: 16px; }@media (max-width:768px) {.main-title {font-size: 30px;}h1 {font-size: 30px;}h2 {font-size: 25px;}}
+.site-header {background-color: #FFFFFF; color: #3a3a3a; }.site-header a,.site-header a:visited {color: #3a3a3a; }.main-title a,.main-title a:hover,.main-title a:visited {color: #222222; }.site-description {color: #999999; }.main-navigation,  .main-navigation ul ul {background-color: #222222; }.navigation-search input[type="search"],.navigation-search input[type="search"]:active {color: #3f3f3f; background-color: #3f3f3f; }.navigation-search input[type="search"]:focus {color: #FFFFFF; background-color: #3f3f3f; }.main-navigation ul ul {background-color: #3f3f3f; }.main-navigation .main-nav ul li a,.menu-toggle {color: #FFFFFF; }button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus {color: #FFFFFF; }.main-navigation .main-nav ul ul li a {color: #FFFFFF; }.main-navigation .main-nav ul li > a:hover,.main-navigation .main-nav ul li > a:focus, .main-navigation .main-nav ul li.sfHover > a {color: #FFFFFF; background-color: #3f3f3f; }.main-navigation .main-nav ul ul li > a:hover,.main-navigation .main-nav ul ul li > a:focus,.main-navigation .main-nav ul ul li.sfHover > a {color: #FFFFFF; background-color: #4f4f4f; }.main-navigation .main-nav ul .current-menu-item > a, .main-navigation .main-nav ul .current-menu-parent > a, .main-navigation .main-nav ul .current-menu-ancestor > a {color: #FFFFFF; background-color: #3f3f3f; }.main-navigation .main-nav ul .current-menu-item > a:hover, .main-navigation .main-nav ul .current-menu-parent > a:hover, .main-navigation .main-nav ul .current-menu-ancestor > a:hover, .main-navigation .main-nav ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul .current-menu-ancestor.sfHover > a {color: #FFFFFF; background-color: #3f3f3f; }.main-navigation .main-nav ul ul .current-menu-item > a, .main-navigation .main-nav ul ul .current-menu-parent > a, .main-navigation .main-nav ul ul .current-menu-ancestor > a {color: #FFFFFF; background-color: #4f4f4f; }.main-navigation .main-nav ul ul .current-menu-item > a:hover, .main-navigation .main-nav ul ul .current-menu-parent > a:hover, .main-navigation .main-nav ul ul .current-menu-ancestor > a:hover,.main-navigation .main-nav ul ul .current-menu-item.sfHover > a, .main-navigation .main-nav ul ul .current-menu-parent.sfHover > a, .main-navigation .main-nav ul ul .current-menu-ancestor.sfHover > a {color: #FFFFFF; background-color: #4f4f4f; }.inside-article, .comments-area, .page-header,.one-container .container,.paging-navigation,.inside-page-header {background-color: #FFFFFF; }.entry-meta {color: #888888; }.entry-meta a, .entry-meta a:visited {color: #666666; }.entry-meta a:hover {color: #1E73BE; }.sidebar .widget {background-color: #FFFFFF; }.sidebar .widget .widget-title {color: #000000; }.footer-widgets {background-color: #FFFFFF; }.footer-widgets a, .footer-widgets a:visited {color: #1e73be; }.footer-widgets a:hover {color: #000000; }.footer-widgets .widget-title {color: #000000; }.site-info {background-color: #222222; color: #ffffff; }.site-info a, .site-info a:visited {color: #ffffff; }.site-info a:hover {color: #606060; }input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], textarea {background-color: #FAFAFA; border-color: #CCCCCC; color: #666666; }input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, textarea:focus {background-color: #FFFFFF; color: #666666; border-color: #BFBFBF; }button, html input[type="button"], input[type="reset"], input[type="submit"],.button,.button:visited {background-color: #666666; color: #FFFFFF; }button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover,.button:hover,button:focus, html input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus,.button:focus {background-color: #3F3F3F; color: #FFFFFF; }
+.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus {color: #FFFFFF; }
+.inside-header {padding: 40px 40px 40px 40px; }.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content {padding: 40px 40px 40px 40px; }.one-container.right-sidebar .site-main,.one-container.both-right .site-main {margin-right: 40px; }.one-container.left-sidebar .site-main,.one-container.both-left .site-main {margin-left: 40px; }.one-container.both-sidebars .site-main {margin: 0px 40px 0px 40px; }.ignore-x-spacing {margin-right: -40px; margin-bottom: 40px; margin-left: -40px; }.ignore-xy-spacing {margin: -40px -40px 40px -40px; }.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a {padding-left: 20px; padding-right: 20px; line-height: 60px; }.nav-float-right .main-navigation .main-nav ul li a {line-height: 60px; }.main-navigation .main-nav ul ul li a {padding: 10px 20px 10px 20px; }.main-navigation ul ul {top: 60px; }.navigation-search {height: 60px; line-height: 0px; }.navigation-search input {height: 60px; line-height: 0px; }.widget-area .widget {padding: 40px 40px 40px 40px; }.footer-widgets {padding: 40px 0px 40px 0px; }.site-info {padding: 20px 0px 20px 0px; }.right-sidebar.separate-containers .site-main {margin: 20px 20px 20px 0px; }.left-sidebar.separate-containers .site-main {margin: 20px 0px 20px 20px; }.both-sidebars.separate-containers .site-main {margin: 20px; }.both-right.separate-containers .site-main {margin: 20px 20px 20px 0px; }.separate-containers .site-main {margin-top: 20px; margin-bottom: 20px; }.separate-containers .page-header-image, .separate-containers .page-header-content, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single {margin-top: 20px; }.both-left.separate-containers .site-main {margin: 20px 0px 20px 20px; }.separate-containers .inside-right-sidebar, .inside-left-sidebar {margin-top: 20px; margin-bottom: 20px; }.separate-containers .widget, .separate-containers .hentry, .separate-containers .page-header, .widget-area .main-navigation {margin-bottom: 20px; }.both-left.separate-containers .inside-left-sidebar {margin-right: 10px; }.both-left.separate-containers .inside-right-sidebar {margin-left: 10px; }.both-right.separate-containers .inside-left-sidebar {margin-right: 10px; }.both-right.separate-containers .inside-right-sidebar {margin-left: 10px; }.menu-item-has-children ul .dropdown-menu-toggle {padding-top: 10px; padding-bottom: 10px; margin-top: -10px; }.menu-item-has-children .dropdown-menu-toggle {padding-right: 20px; }.one-container .sidebar .widget{padding:0px;}
+.main-navigation .mobile-bar-items a {padding-left: 20px; padding-right: 20px; line-height: 60px; }.menu-item-has-children ul .dropdown-menu-toggle {padding-top: 10px; padding-bottom: 10px; margin-top: -10px; }.menu-item-has-children .dropdown-menu-toggle {padding-right: 20px; }
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/css/mobile.min.css?ver=1.3.34' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-child-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress-child/style.css?ver=1469897624' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='generate-ie-css'  href='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/css/ie.min.css?ver=1.3.34' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.capitalcube.com/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.capitalcube.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Black Diamond Group Ltd. : BDI-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016' href='http://www.capitalcube.com/blog/index.php/black-diamond-group-ltd-bdi-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/' />
+<link rel='next' title='American Hotel Income Properties REIT LP : HOT.UT-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016' href='http://www.capitalcube.com/blog/index.php/american-hotel-income-properties-reit-lp-hot-ut-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/' />
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://www.capitalcube.com/blog/index.php/alaris-royalty-corp-ad-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/" />
+<link rel='shortlink' href='http://www.capitalcube.com/blog/?p=281928' />
+<link rel="alternate" type="application/json+oembed" href="http://www.capitalcube.com/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.capitalcube.com%2Fblog%2Findex.php%2Falaris-royalty-corp-ad-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.capitalcube.com/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.capitalcube.com%2Fblog%2Findex.php%2Falaris-royalty-corp-ad-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1"><script>
+var leftamt;
+function scrollFunction() {
+var scamt = (document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop);
+var element = document.getElementById("media.net sticky ad");
+if(scamt > leftamt){
+var leftPosition = element.getBoundingClientRect().left;
+element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
+element.className += " fixclass";
+element.style.left = leftPosition+'px';
+}
+else{
+element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
+}
+}
+function getElementTopLeft(id) {
+var ele = document.getElementById(id);
+var top = 0;
+var left = 0;
+while(ele.tagName != "BODY") {
+top += ele.offsetTop;
+left += ele.offsetLeft;
+ele = ele.offsetParent;
+}
+return { top: top, left: left };
+}
+function abcd(){
+TopLeft = getElementTopLeft("media.net sticky ad");
+leftamt = TopLeft.top;
+//leftamt -= 10;
+}
+window.onload = abcd;
+window.onscroll = scrollFunction;
+</script>
+<script src="https://www.dianomi.com/partner/capitalcube/js/dianomi-capitalcube.js?v=1.1"></script>
+<style type="text/css">
+.fixclass{position:fixed;top:10px;z-index:10;}
+</style>
+  <script type="text/javascript">
+    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+    heap.load("2604753839");
+  </script>
+
+</head>
+
+<body itemtype='http://schema.org/Blog' itemscope='itemscope' class="single single-post postid-281928 single-format-standard generatepress  right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-1 nav-aligned-left header-aligned-left dropdown-click dropdown-click-menu-item group-blog">
+<!-- GA code start : Added by cc -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31418927-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- GA code end : Added by cc -->
+		<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+	<header itemtype="http://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header">
+		<div class="inside-header grid-container grid-parent">
+								<div class="site-branding">
+			        <p class="main-title" itemprop="headline"><a href="http://www.capitalcube.com/blog/" title="CapitalCube" rel="home">CapitalCube</a> 
+<a class="marijuana-advert" href="https://online.capitalcube.com/#!/stock/us/us-otc/cbis" style="
+    display: inline-block;
+    float: right;
+    font-size: 24px;
+">Get analysis on medical marijuana stocks</a>
+ </p>
+					</div>
+						</div><!-- .inside-header -->
+	</header><!-- #masthead -->
+		<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="main-navigation">
+		<div class="inside-navigation grid-container grid-parent">
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+								<span class="mobile-menu">Menu</span>
+			</button>
+			<div id="primary-menu" class="main-nav"><ul id="menu-company" class=" menu sf-menu"><li id="menu-item-217053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217053"><a href="/blog">Home</a></li>
+<li id="menu-item-217051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217051"><a href="https://online.capitalcube.com/#!/screener">Stock Screener</a></li>
+<li id="menu-item-217052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217052"><a href="https://online.capitalcube.com/#!/etfScreener">ETF Screener</a></li>
+<li id="menu-item-220401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220401"><a href="/blog/index.php/about/">About</a></li>
+<li id="menu-item-15772" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-15772"><a href="http://www.capitalcube.com/blog/index.php/category/yahoo-finance/">Stock Alerts &#038; Analysis</a></li>
+</ul></div>		</div><!-- .inside-navigation -->
+	</nav><!-- #site-navigation -->
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+     <div style="margin-top:10px;padding:10px">
+			  <!-- 2692: Capital Cube Blog Top -->
+			<script type="text/javascript">
+			if(typeof dianomiUnitCallback !== 'undefined'){
+				var dianomiBlogTop = new dianomiUnitCallback('blogtop',2692,'dianomiBlogTop','','padding: 0px;');
+				dianomiBlogTop.initialize('dianomiBlogTop');
+			}
+			</script><div id="dianomiBlogTop"></div>   
+    </div>
+    <div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+		<main id="main" class="site-main">
+				
+			
+<article id="post-281928" class="post-281928 post type-post status-publish format-standard hentry category-yahoo-finance" itemtype='http://schema.org/CreativeWork' itemscope='itemscope'>
+	<div class="inside-article">
+				
+		<header class="entry-header">
+										<h1 class="entry-title" itemprop="headline">Alaris Royalty Corp. : AD-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016</h1>								<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.capitalcube.com/blog/index.php/alaris-royalty-corp-ad-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/" title="2:48 pm" rel="bookmark"><time class="entry-date published" datetime="2016-10-27T14:48:22+00:00" itemprop="datePublished">October 27, 2016</time></a></span> <span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">by <a class="url fn n" href="http://www.capitalcube.com/blog/index.php/author/capitalcube/" title="View all posts by CapitalCube" rel="author" itemprop="url"><span class="author-name" itemprop="name">CapitalCube</span></a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+		
+				<div class="entry-content" itemprop="text">
+			<div style="margin-bottom:20px;"><a class="btn-blue" target="_blank" href="http://online.capitalcube.com/#!/stock/CA/TORONTO/AD">Get free summary analysis</a></div>
+<p>Our analysis is based on comparing Alaris Royalty Corp. with the following peers &#8211; Pinetree Capital Ltd., Sprott Resource Corp., American DG Energy Inc., Clairvest Group Inc. and Onex Corporation (PNP-CA, SCP-CA, ADGE-US, CVG-CA and OCX-CA).</p>
+<p>Alaris Royalty Corp.&#8217;s dividend yield is 7.69 percent and its dividend payout is 107.28 percent. This compares to a peer median dividend yield of 0.31 percent and a payout level of -0 percent. This type of dividend performance might make it a good stock for dividend investors. However, the company&#8217;s relatively low dividend quality score of 17 out of a possible score of 100 raises questions on the sustainability of its robust payout ratio.</p>
+<div><img src="http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/uploads/custom/ADDividendYield1477579699.png" title="Dividend Yield" alt="Dividend Yield"/></div>
+<div><img src="http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/uploads/custom/ADDividendQualityScore1477579699.png" title="Dividend Quality Score" alt="Dividend Quality Score"/></div>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Responsive Ad Unit 3 --><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-1150100888313051"data-ad-slot="4214653529"data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><br />
+<h3>Dividend Quality Overview</h3>
+<ul>
+<li>Over the last twelve months (prior to June 30, 2016), <a href="http://online.capitalcube.com/#!/stock/CA/TORONTO/AD">AD-CA</a> paid a low quality dividend, which represents a yield of 7.69% at the current price.</li>
+</ul>
+<ul>
+<li>Dividend quality trend has not been consistent over the last five years. Dividends were paid during each of these years &#8212; of these 4 were medium quality and 1 was low quality.</li>
+</ul>
+<ul>
+<li>The ending cash balance is less than the last full year dividend payment and cannot be relied on to cushion any significant reduction of cash flows in the future.</li>
+</ul>
+<div><img src="http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/uploads/custom/ADDividendQualityScoreVsDividendYield1477579699.png" title="Dividend Quality Score Vs Dividend Yield" alt="Dividend Quality Score Vs Dividend Yield"/></div>
+<div class="row-fluid">
+<p style="font-size:10px;" class="strong"> Quadrant label definitions. Hover to know more</p>
+<div style="font-size:10px;font-weight:bold">High Score;High Yield, High Score;Low Yield, Low Score;Low Yield, Low Score;High Yield</div>
+</div>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Responsive Ad Unit 3 --><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-1150100888313051"data-ad-slot="7028519120"data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><br />
+<h3>Dividend Coverage</h3>
+<p>Over the last twelve months (prior to June 30, 2016), <a href="http://online.capitalcube.com/#!/stock/CA/TORONTO/AD">AD-CA</a> paid a low quality dividend.</p>
+<p>The source of the company&#8217;s cash to support the dividend paid over the last twelve months is operating cash flow (coverage of 1.02x), investing cash flow (coverage of -1.32x), issuance cash flow (coverage of 1.19x) and twelve-month prior cash (coverage of 0.35x), for a total dividend coverage of 1.19x.</p>
+<p><a href="http://online.capitalcube.com/#!/stock/CA/TORONTO/AD">AD-CA</a>&#8216;s issuance cash flow includes outflows from net debt repayment (coverage of -0.53x).</p>
+<div><img src="http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/uploads/custom/ADDividendCoveragebyCashFlow(TTM)1477579701.png" title="Dividend Coverage by Cash Flow (TTM)" alt="Dividend Coverage by Cash Flow (TTM)"/></div>
+<p>These coverage ratio factors imply that the firm had to dip into the beginning cash balance to pay the dividend, which suggests a low dividend quality.</p>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Responsive Ad Unit 3 --><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-1150100888313051"data-ad-slot="2458718728"data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><br />
+<h3>Dividend History</h3>
+<div style="overflow:auto">
+<table>
+<tbody>
+<tr>
+<th>Item</th>
+<th>2011-12-31</th>
+<th>2012-12-31</th>
+<th>2013-12-31</th>
+<th>2014-12-31</th>
+<th>2015-12-31</th>
+<th>Latest</th>
+</tr>
+<tr>
+<td>Dividend Yield (%)</td>
+<td>5.08</td>
+<td>4.67</td>
+<td>4.19</td>
+<td>3.94</td>
+<td>6.17</td>
+<td>7.69</td>
+</tr>
+<tr>
+<td>Dividend Payout (%)</td>
+<td>53.3</td>
+<td>140.48</td>
+<td>124.77</td>
+<td>93.35</td>
+<td>93.15</td>
+<td>107.28</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>A complete list of metrics and analysis is available on the company page.</p>
+<div style='margin-bottom:20px;' class='cc-signup-container'><input style='min-width:300px;border-radius: 3px 3px 3px 3px;padding: 5px;' class='cc-email' placeholder='Enter your Email' type='email'/><a class='btn-blue cc-email-button'>Sign Up</a>
+<div class='error-message'></div>
+</div>
+<p><script id="mNCC" language="javascript">medianet_width = "728";medianet_height = "90";medianet_crid = "178152184";medianet_versionId = "111299";(function() {var isSSL = 'https:' == document.location.protocol;var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU8J627F' + (isSSL ? '&https=1' : '');document.write('<scr' + 'ipt type="text/javascript" id="mNSC" src="' + mnSrc + '"></scr' + 'ipt>');})();</script><br />
+<h3>Company Profile</h3>
+<p>Alaris Royalty Corp. is a Canadian lower risk and defensive investment company, which provides alternative financing to profitable and well-managed private businesses. It offers long-term equity capital to companies to which traditional debt or private equity is not available or attractive, including privately-held companies whose owners want to retain long-term control of their business. The company also offers an alternative to raise capital through leverage, private equity or public offerings for private companies. It provides capital to private companies in a way that maximizes valuations and tax efficiency; and allows existing management to maintain control and common equity ownership. Alaris Royalty is designed for entrepreneurs who wish to raise capital for a partial exit, generational transfer, recapitalization, management buyout, as well as growth and who want to maintain control of their companies while not attracting the added risk that comes with high leverage levels. The company was founded on May 23, 2006 and is headquartered in Calgary, Canada.</p>
+<h3>Disclaimer</h3>
+<p>The information presented in this report has been obtained from sources deemed to be reliable, but AnalytixInsight does not make any representation about the accuracy, completeness, or timeliness of this information. This report was produced by AnalytixInsight for informational purposes only and nothing contained herein should be construed as an offer to buy or sell or as a solicitation of an offer to buy or sell any security or derivative instrument. This report is current only as of the date that it was published and the opinions, estimates, ratings and other information may change without notice or publication. Past performance is no guarantee of future results. Prior to making an investment or other financial decision, please consult with your financial, legal and tax advisors. AnalytixInsight shall not be liable for any party&#8217;s use of this report. AnalytixInsight is not a broker-dealer and does not buy, sell, maintain a position, or make a market in any security referred to herein.  One of the principal tenets for us at AnalytixInsight is that the best person to handle your finances is you. By your use of our services or by reading any our reports, you&#8217;re agreeing that you bear responsibility for your own investment research and investment decisions. You also agree that AnalytixInsight, its directors, its employees, and its agents will not be liable for any investment decision made or action taken by you and others based on news, information, opinion, or any other material generated by us and/or published through our services. For a complete copy of our disclaimer, please visit our website www.analytixinsight.com.</p>
+<p><script id="mNCC" language="javascript">medianet_width = "728";medianet_height = "90";medianet_crid = "867258465";medianet_versionId = "111299";(function() {var isSSL = 'https:' == document.location.protocol;var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU8J627F' + (isSSL ? '&https=1' : '');document.write('<scr' + 'ipt type="text/javascript" id="mNSC" src="' + mnSrc + '"></scr' + 'ipt>');})();</script></p>
+					</div><!-- .entry-content -->
+		
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="http://www.capitalcube.com/blog/index.php/category/yahoo-finance/" rel="category tag">Yahoo Finance</a></span>				<nav id="nav-below" class="post-navigation">
+		<h6 class="screen-reader-text">Post navigation</h6>
+
+	
+		<div class="nav-previous"><span class="prev" title="Previous"><a href="http://www.capitalcube.com/blog/index.php/black-diamond-group-ltd-bdi-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/" rel="prev">Black Diamond Group Ltd. : BDI-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016</a></span></div>		<div class="nav-next"><span class="next" title="Next"><a href="http://www.capitalcube.com/blog/index.php/american-hotel-income-properties-reit-lp-hot-ut-ca-dividend-analysis-october-31st-2016-record-date-by-the-numbers-october-27-2016/" rel="next">American Hotel Income Properties REIT LP : HOT.UT-CA: Dividend Analysis : October 31st, 2016 (record date) : By the numbers : October 27, 2016</a></span></div>
+	
+	</nav><!-- #nav-below -->
+			</footer><!-- .entry-meta -->
+				</div><!-- .inside-article -->
+</article><!-- #post-## -->
+
+			
+						</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="right-sidebar" itemtype="http://schema.org/WPSideBar" itemscope="itemscope" role="complementary" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar">
+		<div class="inside-right-sidebar">
+						<aside id="text-3" class="widget inner-padding widget_text">			<div class="textwidget"><script>
+  (function() {
+    var cx = '014566960771711589462:jbvrkz6sfjm';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+		</aside><aside id="text-2" class="widget inner-padding widget_text">			<div class="textwidget"><iframe valign="middle" width="370" height="309" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="//www.dianomi.com/smart_capitalcube.epl?id=2492" style="width: 100%;"></iframe></div>
+		</aside><aside id="text-8" class="widget inner-padding widget_text">			<div class="textwidget"><!-- put the below code in Body -->  <script id="mNCC" language="javascript">
+    medianet_width = "300";
+    medianet_height = "600";
+    medianet_crid = "571821149";
+    medianet_versionId = "111299"; 
+    (function() {
+        var isSSL = 'https:' == document.location.protocol;
+        var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU8J627F' + (isSSL ? '&https=1' : '');
+        document.write('<scr' + 'ipt type="text/javascript" id="mNSC" src="' + mnSrc + '"></scr' + 'ipt>');
+    })();
+  </script>
+
+</div>
+		</aside><aside id="text-7" class="widget inner-padding widget_text">			<div class="textwidget"><div id="media.net sticky ad" style="display: inline-block">
+         <script id="mNCC" language="javascript">
+    medianet_width = "300";
+    medianet_height = "600";
+    medianet_crid = "134995670";
+    medianet_versionId = "111299"; 
+    (function() {
+        var isSSL = 'https:' == document.location.protocol;
+        var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU8J627F' + (isSSL ? '&https=1' : '');
+        document.write('<scr' + 'ipt type="text/javascript" id="mNSC" src="' + mnSrc + '"></scr' + 'ipt>');
+    })();
+  </script>
+
+</div>
+</div>
+		</aside>					</div><!-- .inside-right-sidebar -->
+	</div><!-- #secondary -->
+	</div><!-- #content -->
+</div><!-- #page -->
+<div class="site-footer">
+			<div id="footer-widgets" class="site footer-widgets">
+			<div class="inside-footer-widgets grid-container grid-parent">
+									<div class="footer-widget-1 grid-parent grid-100 tablet-grid-50 mobile-grid-100">
+						<aside id="text-6" class="widget inner-padding widget_text">			<div class="textwidget"><!-- 2693: Capital Cube Blog Below -->
+<script type="text/javascript">
+if(dianomiUnitCallback){
+var dianomiBlogBelow = new dianomiUnitCallback('belowarticle',2693,'dianomiBlogBelow','','padding: 0px;');
+dianomiBlogBelow.initialize('dianomiBlogBelow');
+}
+</script><div id="dianomiBlogBelow"></div></div>
+		</aside>					</div>
+							</div>
+		</div>
+		<footer class="site-info" itemtype="http://schema.org/WPFooter" itemscope="itemscope">
+<div class='footer-links' style='margin-bottom:20px'>
+  <div><a href="https://online.capitalcube.com/#!/pricing">Pricing</a></div>
+  <div><a href="/blog/index.php/terms-of-use">Terms of Use</a></div>
+  <div><a href="/blog/index.php/privacy-policy/">Privacy Policy</a></div>
+  <div><a href="/blog/index.php/disclaimer/">Disclaimer</a></div>
+</div>
+
+    <div class="inside-site-info grid-container grid-parent">
+    <!--		<span class="copyright">Copyright &copy; 2017</span> 	&#x000B7; <a href="https://generatepress.com" target="_blank" title="GeneratePress" itemprop="url">GeneratePress</a>
+		 -->
+     Copyright &copy; AnalytixInsight Inc 2010-17
+		</div>
+	</footer><!-- .site-info -->
+	</div><!-- .site-footer -->
+
+	<a title="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" style="display:none;" data-scroll-speed="400" data-start-scroll="300"><i class="fa fa-angle-up"></i></a>
+	<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/js/navigation.min.js?ver=1.3.34'></script>
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/js/dropdown-click.min.js?ver=1.3.34'></script>
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/js/back-to-top.min.js?ver=1.3.34'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-content/themes/generatepress/js/html5shiv.min.js?ver=1.3.34'></script>
+<![endif]-->
+<script type='text/javascript' src='http://010f39ec53965ca3bd6e-66d124e9f09d73f9bbdebe22c71377fa.r26.cf1.rackcdn.com/blog/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+  <script type="text/javascript">
+    var $ = jQuery;
+    $(document).on('click','.cc-email-button', function (){
+        var $emailRef = $(this).siblings('.cc-email');
+        var email = $emailRef.val();
+        var valid=true;
+    var emailV = /^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i;
+    if(!emailV.test(email)){
+        valid = false;
+        $emailRef.addClass("ui-state-error");
+    }
+    if(valid){
+	    $emailRef.removeClass("ui-state-error");
+        var url="https://online.capitalcube.com/api/accounts";
+	 var urlwp="http://www.capitalcube.com";
+        $.ajax({
+            url:url,
+            type:"POST",
+            data:{
+                "email":email,
+                "flags.sendInvitationEmail":true,
+                "password":"changeme"
+            },
+            beforeSend:function(){
+            },
+            success:function(data){
+                if(data.email){
+			//success message
+                    $emailRef.parent().html('Thank you for signing up. We have sent login instructions to your email.').addClass("ui-state-highlight");
+                    //eval(emailGAEvent);
+                }else{
+                    $emailRef.siblings('.error-message').html(data.message).addClass("ui-state-error");
+                }
+            },
+            error:function (data){
+                var response = JSON.parse(data.responseText);
+            $emailRef.siblings('.error-message').html(response.message).addClass("ui-state-error");
+            }
+        });
+    }
+    });
+    </script>
+
+</body>
+</html>
+
+
+<!-- Dynamic page generated in 2.564 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-01-19 03:58:13 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

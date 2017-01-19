@@ -1,0 +1,641 @@
+
+        <!doctype html>
+        <html xmlns:og="http://ogp.me/ns#">
+            <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                
+        <link href="https://assets.bwbx.io" rel="preconnect" crossorigin>
+        <link href="https://www.bbthat.com" rel="preconnect" crossorigin>
+        <link href="https://nav.bloomberg.com" rel="preconnect" crossorigin>
+    
+                
+        <link rel="stylesheet" type="text/css" href="https://assets.bwbx.io/font-service/css/NHaasGroteskTXPro-55Rg,NHaasGroteskDSPro-75Bd,TiemposTextWeb-Regular,TiemposTextWeb-RegularItalic,TiemposHeadlineWeb-Bold,AvenirNext-Demi/font-face.css">
+    
+                <link href="https://assets.bwbx.io/javelin/public/css/application/application-756615e12c.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg,NHaasGroteskTXPro-55Rg,NHaasGroteskDSPro-75Bd,NHaasGroteskDSPro-95Blk,AvenirNext-Demi/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-8daee387bc.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://www.bbthat.com/assets/v1.2.1/that.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/components/abstract/abstract-b1576ecec5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/author_tout/author_tout-d104a12ece.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/author_tout/author_tout-26ba5b261b.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/author_details/author_details-aa3df9be4d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-29d433d869.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-a6a4cacd44.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-b0821362b2.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-b951536408.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-acbbe4197c.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-085038e067.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-d67d108ece.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/mobile_ads-e0129fe356.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-b7ded967a4.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-b53342fb93.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-c21a8381f4.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-adf86e4ce1.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-c971a3a440.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/mobile_ads-1962833420.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-8a5015009b.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/image/image-508e9664a5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/image/image-6ca1d88a5c.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/image/image-7ca1ff6732.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/image/image-93de798d9e.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/image/image-d424a63022.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/content/content-21809ed269.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/content/content-d02b0d1568.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/content/content-9a03dd28d2.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/content/content-e3313dc8e8.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/large_image/content/content-6c91c00549.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/recirc/recirc-a7735b9ce1.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ads/terminal_tout/terminal_tout-7e6aec41c8.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ads/terminal_tout/terminal_tout-f2725fa765.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/themes/markets/markets-78c40c9320.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/recirc/recirc-a7735b9ce1.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/nav/bb/nav-a2fb3a6d05.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-ba63200f47.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-fabf42e859.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-493c7f0e8d.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-e77f06e178.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/components/breaking_news_placeholder/breaking_news-77396a5ddf.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-10ded15ca8.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-fccb7f31ee.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-080f7e6504.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-5ff0c3bad8.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-58815a9a43.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-5198226ef6.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/ads/leaderboard/leaderboard-b32a4755ad.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/ads/leaderboard/leaderboard-fb4aae4bc9.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/ads/native/native-8c1bdaceac.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/components/lazy_images/lazy_image-75e50783da.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-6c7cc6155c.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-0edd0b2249.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-6e76f7cadd.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-20a23eebbf.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
+<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-81c63befd0.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-52168e87bc.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/javelin/public/css/print/print-af314bb942.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                
+        <title>Acacia Jumps in London on $4 Billion Endeavour Merger Talks - Bloomberg</title>
+        <link rel="canonical" href="https://www.bloomberg.com/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger">
+        <meta name="description" content="Acacia Mining Plc jumped to the highest in almost two months after the gold miner confirmed it is in early-stage talks with rival Africa-focused producer Endeavour Mining Corp. about a possible merger of the two companies which have a combined value of about $4 billion.">
+        <meta name="referrer" content="unsafe-url">
+        <meta name="referrer" content="always">
+        <meta property="og:description" content="Acacia Mining Plc jumped to the highest in almost two months after the gold miner confirmed it is in early-stage talks with rival Africa-focused producer Endeavour Mining Corp. about a possible merger of the two companies which have a combined value of about $4 billion.">
+        <meta property="og:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/-1x-1.jpg">
+        <meta property="og:site_name" content="Bloomberg.com">
+        <meta property="og:title" content="Acacia Jumps in London on $4 Billion Endeavour Merger Talks">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.bloomberg.com/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger">
+        <meta name="fb:status" content="Acacia Mining Plc jumped to the highest in almost two months after the gold miner confirmed it is in early-stage talks with rival Africa-focused producer Endeavour Mining Corp. about a possible merger of the two companies which have a combined value of about $4 billion.">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="Acacia Mining Plc jumped to the highest in almost two months after the gold miner confirmed it is in early-stage talks with rival Africa-focused producer Endeavour Mining Corp. about a possible merger of the two companies which have a combined value of about $4 billion.">
+        <meta name="twitter:image" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/-1x-1.jpg">
+        <meta name="twitter:site" content="@markets">
+        <meta name="twitter:title" content="Acacia Jumps in London on $4 Billion Endeavour Merger Talks">
+        <meta name="parsely-title" content="Acacia Jumps in London on $4 Billion Endeavour Merger Talks">
+        <meta name="parsely-link" content="https://www.bloomberg.com/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger">
+        <meta name="parsely-type" content="post">
+        <meta name="parsely-image-url" content="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/-1x-1.jpg">
+        <meta name="parsely-pub-date" content="2017-01-16T08:57:43.329Z">
+        <meta name="parsely-section" content="markets">
+        <meta name="parsely-tags" content="Acacia Mining PLC,Endeavour Mining Corp,London,Gold,Africa,Barrick Gold Corp,Region: Global,Page: article">
+        <meta name="parsely-post-id" content="OJV5WM6JTSEE01">
+        <meta name="parsely-author" content="Thomas Biesheuvel">
+<meta name="parsely-author" content="Thomas Seal">
+        
+        <script type="text/javascript">
+            (function(w) {
+                w.dataLayer = w.dataLayer || [];
+                w.dataLayer.push({"adcode":"markets/article","author":"Thomas Biesheuvel and Thomas Seal","publishedAt":"2017-01-16T08:57:43.329Z","storyId":"OJV5WM6JTSEE01","contentType":"content-article","pageType":"content","template":"javelin-article-html","vertical":"markets","topic":"London","attributor":"bn","brand":"markets","transporter":"false","refresh":"false","headline":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","slug":"2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger","legacy_bb_c_type":"article","legacy_bb_topic1":"London","legacy_bb_topic2":"U.K.,Ivory Coast,Ghana,Tanzania,Africa,Gold","legacy_bb_people":"Naguib Onsi Sawiris,Brad Gordon","legacy_bb_category":"markets"});
+            })(window);
+        </script>
+    
+        
+    <link rel="icon"
+        type="image/png"
+        href="https://assets.bwbx.io/javelin/public/images/favicon-markets-10a5670e77.png">
+    
+    
+                <link rel="amphtml" href="https://www.bloomberg.com/amp/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger" />
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+            </head>
+            <body data-theme="markets">
+                <script type="text/javascript">window.__bloomberg__=window.__bloomberg__||{};window.__bloomberg__.environment={"videoPlayerUrl":"https://cdn.gotraffic.net/projector/latest/bplayer.js","playlistPlayerEnabled":true,"psznTrackingUrl":"https://tracking.bloomberg.com/images/tracking-pixel.gif","psznRecommendationUrl":"https://personalization.bloomberg.com"};</script>
+                
+        <script type="text/javascript">
+            (function () {
+                if(typeof window.CustomEvent === "function") return false;
+                function CustomEvent(event, p) {
+                    p = p || {bubbles: false, cancelable: false, detail: undefined};
+                    var e = document.createEvent("CustomEvent");
+                    e.initCustomEvent(event, p.bubbles, p.cancelable, p.detail);
+                    return e;
+                }
+                CustomEvent.prototype = window.Event.prototype;
+                window.CustomEvent = CustomEvent;
+            })();
+        </script>
+    
+                
+        <script type="text/javascript">
+            window.__bloomberg__.ads = {};
+            window.__bloomberg__.ads.queue = [];
+
+            window.__bloomberg__.ads.adsOff = false;
+
+            window.__bloomberg__.ads.enqueue = function(id) {
+                if (window.__bloomberg__.ads.render) {
+                    return window.__bloomberg__.ads.render(id);
+                }
+                window.__bloomberg__.ads.queue.push(id);
+            };
+        </script>
+    
+                
+    <div class="leaderboard-container">
+        <div id="leaderboard-IpDdkQH" class="leaderboard" data-position="leaderboard">
+            <script type="text/javascript">
+                window.__bloomberg__.ads.enqueue("leaderboard-IpDdkQH");
+            </script>
+            <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"leaderboard","dimensions":{"large_desktop":[[728,90],[970,250],[5,16],[1,1]],"small_desktop":[[728,90],[970,250],[5,16],[1,1]],"tablet":[[728,90],[5,16],[1,1]],"mobile":[[5,16],[1,1]]},"strategy":"always","type":"Top Leaderboard Ad","positionIncrement":1,"targeting":{"position":"leaderboard","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"leaderboard-IpDdkQH"}</script>
+            <div class="leaderboard-ad-dummy"></div>
+        </div>
+    </div>
+    
+                
+        <div class="truste">
+            <div id="consent_blackbar"></div>
+        </div>
+    
+                <div id="bb-that">
+    <nav class="bb-that">
+        <header class="bb-that-header bb-that--container">
+        <a class="bb-that-header__link bb-that-header--sitemap-trigger" href="http://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg the Company &amp; Its Products</a><a class="bb-that-header__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom"><span>Bloomberg Anywhere Remote Login</span><span>Bloomberg Anywhere Login</span></a><a class="bb-that-header__link" href="http://www.bloomberg.com/professional/bcom-demo/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu-demo">Bloomberg Terminal Demo Request</a>    </header>
+        <div class="bb-that__sitemap bb-that--container">
+    <div class="bb-that__close"></div>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-md bb-that--visible-lg">
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Customer Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Americas<br />
++1 212 318 2000</p><p class="bb-that-category__text">Europe, Middle East, &amp; Africa<br />
++44 20 7330 7500</p><p class="bb-that-category__text">Asia Pacific<br />
++65 6212 1000</p></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity &#038; Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Facts &#038; Spaces</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy &#038; Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow Us</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li><li class="bb-that-category__item"><a href="https://vimeo.com/bloomberg" class="bb-that-category__social-link bb-that--icon-vimeo" target="_blank">Vimeo</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Financial Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu">Bloomberg Tradebook</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Briefs</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergindices.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-05-13-Indices-bbgmenu">Bloomberg Indices</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu">Bloomberg SEF</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Institute</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg Customers</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Download Software</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Service Center</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Enterprise Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-bbgmenu">Enterprise Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-TS-bbgmenu">Trading Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu">Bloomberg Vault</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergpolarlake.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg PolarLake</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg.com</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergview.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg View</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/gadfly/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Gadfly</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+            </ul>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-sm">
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Customer Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Americas<br />
++1 212 318 2000</p><p class="bb-that-category__text">Europe, Middle East, &amp; Africa<br />
++44 20 7330 7500</p><p class="bb-that-category__text">Asia Pacific<br />
++65 6212 1000</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow Us</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li><li class="bb-that-category__item"><a href="https://vimeo.com/bloomberg" class="bb-that-category__social-link bb-that--icon-vimeo" target="_blank">Vimeo</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity &#038; Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy &#038; Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Facts &#038; Spaces</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg.com</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergview.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg View</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/gadfly/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Gadfly</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Financial Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu">Bloomberg Tradebook</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Briefs</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergindices.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-05-13-Indices-bbgmenu">Bloomberg Indices</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu">Bloomberg SEF</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Institute</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Enterprise Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-bbgmenu">Enterprise Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-TS-bbgmenu">Trading Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu">Bloomberg Vault</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergpolarlake.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg PolarLake</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg Customers</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Download Software</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Service Center</a></li></ul></section>    </li>
+            </ul>
+</div>    </nav>
+</div>
+                
+        <script id="nav-data" type="application/json">{"headline":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","url":"https://www.bloomberg.com/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger","twitterText":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","twitterHandle":"markets"}</script>
+        <div class="bb-nav-placeholder">
+            <div class="bb-nav-root"> <nav is="bb-nav" class="bb-nav" id="bb-nav" data-nav-version="1.31.0" data-theme="markets" data-persist-for="content" data-mode="index" data-reg-env="production" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global" data-persist-for="none" > <div class="bb-nav__container"> <div class="bb-nav__content"> <h1 class="bb-nav-logo" is="bb-nav-logo"> <div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div> <div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"> <div class="bb-nav-logo__menu-link">MENU</div> </div> <a href="http://www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"> </a> <div class="bb-nav-logo__arrow"></div> </h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"> <h1 class="bb-nav-content-logo__headline" data-tracker-label="content"> <a href="http://www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a> </h1> <div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div> </div><h2 class="bb-nav-headline"></h2><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"> <ul class="bb-nav-categories__container"> <li class="bb-nav-categories__home"> <a href="http://www.bloomberg.com" class="bb-nav-categories__home-link"> Homepage </a> </li> <li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="https://www.bloomberg.com/markets/stocks" data-tracker-label="stocks" data-tracker-action="click"> Stocks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="https://www.bloomberg.com/markets/currencies" data-tracker-label="currencies" data-tracker-action="click"> Currencies </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="https://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click"> Commodities </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="https://www.bloomberg.com/markets/rates-bonds" data-tracker-label="rates_plus_bonds" data-tracker-action="click"> Rates + Bonds </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economics" href="https://www.bloomberg.com/markets/economics" data-tracker-label="economics" data-tracker-action="click"> Economics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="https://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click"> Magazine </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="https://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click"> Benchmark </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="https://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click"> Watchlist </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="https://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click"> Economic Calendar </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="marketsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_us" href="https://www.bloomberg.com/topics/silicon-valley" data-tracker-label="us" data-tracker-action="click"> U.S. </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_global" href="https://www.bloomberg.com/topics/global-tech" data-tracker-label="global" data-tracker-action="click"> Global </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="https://www.bloomberg.com/topics/startups" data-tracker-label="startups" data-tracker-action="click"> Startups </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_cybersecurity" href="https://www.bloomberg.com/topics/cybersecurity" data-tracker-label="cybersecurity" data-tracker-action="click"> Cybersecurity </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_gaming" href="https://www.bloomberg.com/topics/entertainment" data-tracker-label="digital_media" data-tracker-action="click"> Digital Media </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_bloomberg_tv" href="https://www.bloomberg.com/shows/bloomberg-technology" data-tracker-label="bloomberg_technology_tv" data-tracker-action="click"> Bloomberg Technology TV </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_hello_world" href="https://www.bloomberg.com/features/2016-hello-world/" data-tracker-label="hello_world" data-tracker-action="click"> Hello World </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_studio_1" href="https://www.bloomberg.com/shows/studio-1" data-tracker-label="studio_10" data-tracker-action="click"> Studio 1.0 </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="technav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="https://www.bloomberg.com/pursuits/cars-bikes" data-tracker-label="cars_and_bikes" data-tracker-action="click"> Cars & Bikes </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="https://www.bloomberg.com/pursuits/style-grooming" data-tracker-label="style_and_grooming" data-tracker-action="click"> Style & Grooming </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="https://www.bloomberg.com/pursuits/spend" data-tracker-label="spend" data-tracker-action="click"> Spend </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="https://www.bloomberg.com/pursuits/watches-gadgets" data-tracker-label="watches_and_gadgets" data-tracker-action="click"> Watches & Gadgets </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="https://www.bloomberg.com/pursuits/food-drinks" data-tracker-label="food_and_drinks" data-tracker-action="click"> Food & Drinks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="https://www.bloomberg.com/pursuits/travel" data-tracker-label="travel" data-tracker-action="click"> Travel </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="https://www.bloomberg.com/pursuits/real-estate" data-tracker-label="real_estate" data-tracker-action="click"> Real Estate </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="https://www.bloomberg.com/pursuits/art-design" data-tracker-label="art_and_design" data-tracker-action="click"> Art & Design </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="pursuitsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_with_all_due_respect" href="https://www.bloomberg.com/politics/topics/wadr-full-episode" data-tracker-label="with_all_due_respect" data-tracker-action="click"> With All Due Respect </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/politics/graphics/2016-poll-decoder/" data-tracker-label="poll_decoder" data-tracker-action="click"> Poll Decoder </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_culture_caucus_podcast" href="https://www.bloomberg.com/podcasts/culture_caucus" data-tracker-label="culture_caucus_podcast" data-tracker-action="click"> Culture Caucus Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_masters_in_politics_podcast" href="https://www.bloomberg.com/podcasts/masters_in_politics" data-tracker-label="masters_in_politics_podcast" data-tracker-action="click"> Masters In Politics Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/politics/graphics/2016-presidential-campaign-tv-ads/" data-tracker-label="ad_tracker" data-tracker-action="click"> Ad Tracker </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/news/special-reports/battlegrounds-2016" data-tracker-label="battlegrounds_2016" data-tracker-action="click"> Battlegrounds 2016 </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="politicsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="https://www.bloomberg.com/view/" data-tracker-label="view" data-tracker-action="click"> View </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="https://www.bloomberg.com/gadfly/" data-tracker-label="gadfly" data-tracker-action="click"> Gadfly </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="opinionnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=200920" data-tracker-label="subscribe" data-tracker-action="click"> Subscribe </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_cover_stories" href="https://www.bloomberg.com/topics/cover-story" data-tracker-label="cover_stories" data-tracker-action="click"> Cover Stories </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_opening_remarks" href="https://www.bloomberg.com/topics/opening-remarks" data-tracker-label="opening_remarks" data-tracker-action="click"> Opening Remarks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_etc" href="https://www.bloomberg.com/topics/etc" data-tracker-label="etc" data-tracker-action="click"> Etc </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_features" href="https://www.bloomberg.com/topics/features" data-tracker-label="features" data-tracker-action="click"> Features </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_85th_anniversary_issue" href="http://www.businessweek.com/features/85ideas/" data-tracker-label="85th_anniversary_issue" data-tracker-action="click"> 85th Anniversary Issue </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_behind_the_cover" href="https://www.bloomberg.com/topics/behind-the-cover" data-tracker-label="behind_the_cover" data-tracker-action="click"> Behind The Cover </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="bweeknav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/news/science-energy" data-tracker-label="science_plus_energy" data-tracker-action="click"> Science + Energy </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click"> Graphics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/game-plan" data-tracker-label="game_plan" data-tracker-action="click"> Game Plan </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/small-business" data-tracker-label="small_business" data-tracker-action="click"> Small Business </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click"> Personal Finance </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click"> Inspire GO </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/features/2016-peer-to-peer/" data-tracker-label="the_david_rubenstein_show" data-tracker-action="click"> The David Rubenstein Show </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click"> Sponsored Content </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="footernav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="bloomberg" data-vertical="bloomberg" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/bloomberg" data-category-vertical="bloomberg" target="_self" data-tracker-action="click">Bloomberg</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/" data-tracker-label="about_the_company" data-tracker-action="click"> About The Company </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__category bb-nav-categories__sign-in"> <a id="bb-nav-dropdown-sign-in" class="bb-nav-categories__sign-in-link" href="https://login.bloomberg.com/" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> </li> <li class="bb-nav-categories__category bb-nav-categories__experience"> <bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select> </li> </ul> </div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"> <a target="_self" id="bb-nav-sign-in" class="bb-nav-touts__link" href="https://login.bloomberg.com/" data-tracker-label="sign_in" data-tracker-action="click">Sign In</a> <a target="_blank" class="bb-nav-touts__subscribe-link" href="http://businessweekmag.com/navbartextlink" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a> </div><div class="bb-nav-social-container"> <bb-social class="bb-nav-social"></bb-social> </div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"> <form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"> <input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/> </form> <div class="bb-search-drawer" tabindex="0"> <div class="bb-search-drawer__content"> <bb-quick-links></bb-quick-links> <bb-search-suggestions></bb-search-suggestions> </div> </div> </div> <span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span> </div> </div> <div class="bb-progress"> <div class="bb-progress__status"></div> </div> </nav> </div>
+        </div>
+    
+                <div class='breaking-news-placeholder'></div>
+                <main class="transporter-container">
+                    <div class="transporter-item current">
+                        
+                <article data-story-id="OJV5WM6JTSEE01" data-theme="markets" itemscope itemtype="http://schema.org/Article">
+                    <script id="article-info-OJV5WM6JTSEE01" type="application/json">{"id":"OJV5WM6JTSEE01","contentType":"article","tags":{"editorialTopics":[],"people":[{"id":"1844022","slug":"ABwjNmg6LYo/naguib-o-sawiris","fullName":"Naguib Onsi Sawiris","score":0.23103057757644394},{"id":"17576489","slug":"AQwyKTwkETo/brad-gordon","fullName":"Brad Gordon","score":0.4161947904869762}],"niCodes":[{"id":"ACEXCLUDE"},{"id":"AFRICA"},{"id":"AFRICAX"},{"id":"ALLFEA"},{"id":"ALLTOP"},{"id":"ALLWWCUR"},{"id":"AME"},{"id":"AMFEAT"},{"id":"BIZNEWS"},{"id":"BNALL"},{"id":"BNCOPY"},{"id":"BNCOPY2"},{"id":"BNSTAFF"},{"id":"BNTEAMS"},{"id":"BUSINESS"},{"id":"CACT"},{"id":"CMD"},{"id":"CMDTOP"},{"id":"CMDTOPZ3"},{"id":"CMDX"},{"id":"COEVNT"},{"id":"CORPFIN"},{"id":"COS"},{"id":"DEALEUTEAM"},{"id":"DEALTOP"},{"id":"DEALTOPZ2"},{"id":"DEALTOPZ3"},{"id":"DUPLICATE"},{"id":"EM"},{"id":"EUBNX"},{"id":"EUCMDMKT"},{"id":"EUFEAT"},{"id":"EUROPEME"},{"id":"EUROSTORY"},{"id":"FINNEWS"},{"id":"GLD"},{"id":"HLDUPLICAT"},{"id":"HLNOVELTY0"},{"id":"LST"},{"id":"MARKETS"},{"id":"MET"},{"id":"METEUTEAM"},{"id":"MKTTOP"},{"id":"MNA"},{"id":"MNG"},{"id":"NONFERR"},{"id":"NOVELTY0"},{"id":"ONWEB"},{"id":"PCS"},{"id":"STK"},{"id":"STKTOP"},{"id":"STKTOPZ5"},{"id":"STKTOPZ6"},{"id":"STKTOPZ8"},{"id":"TANZANIA"},{"id":"TOP"},{"id":"TOPBIZMKT"},{"id":"TORX"},{"id":"UPDATE"},{"id":"USBNX"},{"id":"WEBCMMDTZD"},{"id":"WWMNA"},{"id":"WWTOP"},{"id":"WWTOPAM"},{"id":"WWTOPBIZ"},{"id":"WWTOPEU"},{"id":"WWTOPFEAT"},{"id":"WWTOPZ3"},{"id":"AGRKEY"},{"id":"ANON"},{"id":"ANONYMOUS"},{"id":"ATTACHMENT"},{"id":"BASIC"},{"id":"BBPROFILE"},{"id":"BGOVBILLGO"},{"id":"BGOVCODES"},{"id":"BONDWIRES"},{"id":"CMDGLOMAC"},{"id":"CMDKEY"},{"id":"CMDKEY3"},{"id":"CREDITKEY"},{"id":"CREDITKEYA"},{"id":"WORLD"},{"id":"DEBTKEY"},{"id":"WHICH2"},{"id":"EAC"},{"id":"WEPFEX1"},{"id":"EMEAREGION"},{"id":"EQUITYKEY"},{"id":"WEBELIG"},{"id":"TIMENI"},{"id":"TIMECO"},{"id":"FIDESNEWS"},{"id":"SRCRANK1"},{"id":"SPREGIONS"},{"id":"GD"},{"id":"MISC"},{"id":"GDMNALIVE"},{"id":"QUOTED"},{"id":"GLOMACBB"},{"id":"INDUSTRIES"},{"id":"INTERNAL"},{"id":"PHOTO"},{"id":"OILKEY"},{"id":"LEAST"},{"id":"NRGKEY"},{"id":"MAJOR"},{"id":"METALKEY"},{"id":"METMNG"},{"id":"GDBDAPCA"},{"id":"MNAANON"},{"id":"TNM"},{"id":"GDMNAPIPE"},{"id":"EXCLPEER"},{"id":"JPMFRONT"},{"id":"IVORY"},{"id":"MSCIWORLD"},{"id":"G7MEMB"},{"id":"G10MEMB"},{"id":"LNS"},{"id":"EURSTK"},{"id":"MSCIDVEUR"},{"id":"UK"},{"id":"UNSANCTION"},{"id":"EUROPE"},{"id":"ECOWAS"},{"id":"DEVECO"},{"id":"CSM"}],"tickers":[{"id":"INVP:LN","longName":"Investec PLC","score":1.2896375990939979},{"id":"RRS:LN","longName":"Randgold Resources Ltd","score":1.805775764439411},{"id":"ABX:CN","longName":"Barrick Gold Corp","score":2.214326160815402},{"id":"EDV:CN","longName":"Endeavour Mining Corp","score":8.164531988710923},{"id":"ACA:LN","longName":"Acacia Mining PLC","score":12.105322763306907}],"indexes":[{"id":"UKX:IND","longName":"FTSE 100 Index","score":0.15656851642129105}],"topics":[{"id":"u-k","name":"U.K.","score":0.16138165345413363,"slug":"u-k"},{"id":"ivory-coast","name":"Ivory Coast","score":0.35843714609286526,"slug":"ivory-coast"},{"id":"ghana","name":"Ghana","score":0.36126840317100795,"slug":"ghana"},{"id":"tanzania","name":"Tanzania","score":1.3539071347678369,"slug":"tanzania"},{"id":"africa","name":"Africa","score":2.477916194790487,"slug":"africa"},{"id":"gold","name":"Gold","score":3.0792751981879953,"slug":"gold"},{"id":"london","name":"London","score":7.535237915475742,"slug":"london"}]}}</script>
+                    <script id="page-level-ad-config-OJV5WM6JTSEE01" type="application/json">{"url":"2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger","adCode":"markets/article","targeting":{"suid":"OJV5WM6JTSEE01","page":"articlejav","currentResource":"Story|OJV5WM6JTSEE01","ni":["ACEXCLUDE","AFRICA","AFRICAX","ALLFEA","ALLTOP","ALLWWCUR","AME","AMFEAT","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CACT","CMD","CMDTOP","CMDTOPZ3","CMDX","COEVNT","CORPFIN","COS","DEALEUTEAM","DEALTOP","DEALTOPZ2","DEALTOPZ3","DUPLICATE","EM","EUBNX","EUCMDMKT","EUFEAT","EUROPEME","EUROSTORY","FINNEWS","GLD","HLDUPLICAT","HLNOVELTY0","LST","MARKETS","MET","METEUTEAM","MKTTOP","MNA","MNG","NONFERR","NOVELTY0","ONWEB","PCS","STK","STKTOP","STKTOPZ5","STKTOPZ6","STKTOPZ8","TANZANIA","TOP","TOPBIZMKT","TORX","UPDATE","USBNX","WEBCMMDTZD","WWMNA","WWTOP","WWTOPAM","WWTOPBIZ","WWTOPEU","WWTOPFEAT","WWTOPZ3","AGRKEY","ANON","ANONYMOUS","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BONDWIRES","CMDGLOMAC","CMDKEY","CMDKEY3","CREDITKEY","CREDITKEYA","WORLD","DEBTKEY","WHICH2","EAC","WEPFEX1","EMEAREGION","EQUITYKEY","WEBELIG","TIMENI","TIMECO","FIDESNEWS","SRCRANK1","SPREGIONS","GD","MISC","GDMNALIVE","QUOTED","GLOMACBB","INDUSTRIES","INTERNAL","PHOTO","OILKEY","LEAST","NRGKEY","MAJOR","METALKEY","METMNG","GDBDAPCA","MNAANON","TNM","GDMNAPIPE","EXCLPEER","JPMFRONT","IVORY","MSCIWORLD","G7MEMB","G10MEMB","LNS","EURSTK","MSCIDVEUR","UK","UNSANCTION","EUROPE","ECOWAS","DEVECO","CSM"],"tickers":[{"id":"EDV:CN","score":8.16},{"id":"ACA:LN","score":12.11}],"tagr":[],"kwl":["biz_goldman_q2","biz_capone","biz_ibm","biz_testing123","biz_exxonmobil","biz_ubsbannedlist","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe","biz_zurichsmartmatch"]}}</script>
+                    
+    <div class="lede-large-image lede">
+        <div class="bg-crop bg-crop-1200x-1">
+            <div class="lede-large-image__image" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/1200x-1.jpg')"></div>
+        </div>
+        <div class="bg-crop bg-crop-2000x-1">
+            <div class="lede-large-image__image" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/-1x-1.jpg')"></div>
+        </div>
+        <div class="bg-crop bg-crop--1x-1">
+            <div class="lede-large-image__image" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL3OUecC1GQY/v3/-1x-1.jpg')"></div>
+        </div>
+        <div class="lede-large-image__credit">Photographer: Akos Stiller/Bloomberg</div>
+    </div>
+                    <div class="content-well">
+                        <section class="main-column">
+                            <div class="main-column__content">
+                                
+    <div class="lede-large-content lede">
+        <div class="lede-large-content__wrapper">
+            
+            <h1 class="lede-large-content__hed"><span class="lede-large-content__highlight">Acacia Jumps in London on $4 Billion Endeavour Merger Talks</span></h1>
+            
+            <address class="lede-large-content__byline">
+                by <div class="author">Thomas Biesheuvel
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/tbiesheuvel" target="_blank">@tbiesheuvel</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/APYfT9sMCsg/thomas-biesheuvel" rel="author">More stories by Thomas Biesheuvel</a>
+        </div>
+    </div> and <div class="author">Thomas Seal
+        <div class="author__modal">
+            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/TW_Seal" target="_blank">@TW_Seal</a>
+            
+            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/AS5AQQizNJE/thomas-seal" rel="author">More stories by Thomas Seal</a>
+        </div>
+    </div>
+            </address>
+            <div class="lede-large-content__times">
+                
+        <time id="time-0.2022758573293686" itemprop="datePublished" datetime="2017-01-16T08:57:43.329Z">
+            <noscript>January 16, 2017, 3:57 AM EST</noscript>
+            <script type="text/javascript">
+                (function(d) {
+                    var el = d.getElementById("time-0.2022758573293686");
+                    el.textContent = new Date("2017-01-16T08:57:43.329Z").toLocaleString([], {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"});
+                })(document);
+            </script>
+        </time>
+    
+                
+        <time id="time-0.07366706128232181" itemprop="dateModified" datetime="2017-01-16T17:24:31.063Z">
+            <noscript>January 16, 2017, 12:24 PM EST</noscript>
+            <script type="text/javascript">
+                (function(d) {
+                    var el = d.getElementById("time-0.07366706128232181");
+                    el.textContent = new Date("2017-01-16T17:24:31.063Z").toLocaleString([], {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"});
+                })(document);
+            </script>
+        </time>
+    
+            </div>
+            
+        </div>
+    </div>
+    
+                                
+    <ul class="abstract">
+        
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Company confirmed preliminary talks held with Endeavour
+            </div>
+        </li>
+        <li class="abstract__item">
+            <div class="abstract__item-text">
+                Deal would create one of Africa’s biggest gold producers
+            </div>
+        </li>
+    </ul>
+                                
+        <div class="body-copy">
+            <p><a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/ACA:LN" title="Company Overview" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/ACA%20LN%20Equity"><meta itemprop="security" content="ACA LN Equity">Acacia Mining Plc</a> jumped to the highest in almost two months after the gold miner confirmed it is in early-stage talks with rival Africa-focused producer Endeavour Mining Corp. about a possible merger of the two companies which have a combined value of about $4 billion.</p><p>Acacia, which mines the precious metal in Tanzania, rose 4 percent to close at 435 pence in London, the highest since Nov. 21, after earlier rising as much as 7.7 percent.</p><figure data-type="image" data-id="308907006" data-image-type="chart" data-image-size="full" data-align="center" style="max-width: 1200px;" class="figure-expandable"><div class="image"><div id="lazy-img-308907006" class="lazy-img"><style>#lazy-img-308907006:before{padding-top:56.25%;}</style><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilP.lbrhzb6s/v2/60x-1.png" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilP.lbrhzb6s/v2/-1x-1.png" class="lazy-img__image"></div></div></figure><p>After the close of trading in London on Friday, Acacia&#xA0;said it was in &#x201C;discussions regarding a possible combination&#x201D; with Endeavour. Bloomberg News earlier <a itemscope="itemscope" itemprop="StoryLink" href="http://www.bloomberg.com/news/articles/2017-01-13/endeavour-said-to-explore-combination-with-gold-miner-acacia" title="Endeavour Explores Combination With Africa Gold Miner Acacia (1)" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="StoryLink"><meta itemprop="suid" content="OJQJ4F6K50XU">reported</a> that day the companies were exploring a merger, citing people familiar with the talks. Toronto-listed Endeavour confirmed on Friday it had held discussions with Acacia that &#x201C;may or may not result in agreement of a transaction.&#x201D;</p>
+        <div id="box-9eVfYJA" class="page-ad" data-position="mobile-box">
+            <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"box","dimensions":{"mobile":[[300,250],[1,1]]},"type":"Mobile Body Box Ad","positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"box-9eVfYJA"}</script>
+            <div class="mobile-box-ad-dummy"></div>
+        </div>
+        <p>&#x201C;On the face of it this appears a sensible African-focused fit, with Endeavour&#x2019;s longer term growth adding appeal to Acacia&#x2019;s flat profile,&#x201D; analysts from Investec Plc wrote in a note on Monday. &#x201C;The companies are ungeared and a merged company would be of a similar production scale to Randgold.&#x201D;</p><p><a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/RRS:LN" title="Company Overview" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/RRS%20LN%20Equity"><meta itemprop="security" content="RRS LN Equity">Randgold Resources Ltd.</a> is the largest gold producer listed in London with a market value of about $7.7 billion.</p><p>A merger would allow Barrick Gold Corp. to reduce its 64 percent stake in Acacia, people familiar with the discussions said last week. A deal could enable Barrick to lower its stake in Acacia to about 30 percent, one of the people said. Barrick would be likely to approve a deal, Investec said.</p><p>The transaction could be structured as a reverse takeover with Acacia buying Endeavour, and the combined company keeping its listing in London, the person said. The plans are not concrete and the structure may change, the person added.</p><h3>Top-Five</h3><p>Combined, the companies would be among the top five African gold miners by market value and ounces produced, according to data compiled by Bloomberg. Acacia, which produces gold from mines in Tanzania, has been looking to expand into new areas in Africa, with Chief Executive Officer Brad Gordon naming West Africa as one of the most attractive regions.</p>
+        <div id="in-article-AuxR0s5" class="page-ad" data-position="in-article">
+            <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"in-article","dimensions":{"mobile":[[5,19],[300,250],[1,1]],"tablet":[[5,19],[728,90],[1,1]]},"type":"In Article Flex Native Ad","positionIncrement":1,"targeting":{"position":"in-article","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"in-article-AuxR0s5"}</script>
+            <div class="in-article-ad-dummy"></div>
+        </div>
+        <p>The company was initially spun off from Barrick to support growth in Africa. Endeavour has operations in Mali, Burkina Faso, Ghana and Ivory Coast.</p><p>&#x201C;Whilst at this point there is no indication of terms or price we believe that a combination would make sense from Acacia&#x2019;s perspective as it would increase the group&#x2019;s footprint into West Africa,&#x201D; Numis Securities Ltd. said in a note to investors.</p><p>Gold producers are benefiting from a rebound in the price of the metal, which has helped push Acacia&#x2019;s shares up about 160 percent in the last 12 months. Endeavour, which counts billionaire Naguib Sawiris as its largest shareholder, has gained about 215 percent in that period, valuing the Toronto-listed company at about $1.6 billion.</p><h3>Randgold Rival?</h3><p>The combined entity could challenge Randgold&#x2019;s position as the sole gold miner in the U.K.&#x2019;s benchmark FTSE 100 Index, Mike Stoner a London-based analyst at <a itemscope="itemscope" itemprop="StoryLink" href="https://www.bloomberg.com/quote/PEH:LN" title="Company Overview" target="_blank"><meta itemprop="active" content="true"><meta itemprop="type" content="SecurityLink"><meta itemprop="url" content="bbg://securities/PEH%20LN%20Equity"><meta itemprop="security" content="PEH LN Equity">Peel Hunt</a>, said in an interview. Endeavour recently relocated its headquarters to the U.K. capital.</p><p>The combined group could produce more than 1.4 million ounces a year in the short term and as much as 1.8 million ounces by 2019, he said. Randgold produces about 1.2 million ounces annually.</p><p>&#x201C;There&#x2019;s a capital flow to gold in London that has a total lack of any other large cap options,&#x201D; he said. If the merged entity was listed in London, &#x201C;that could attract some of the capital away from Randgold.&#x201D;</p>
+        <noscript>
+            <ol class="noscript-footnotes"></ol>
+        </noscript>
+        
+        </div>
+    
+                                
+    <div class="terminal-tout-container">
+        <div class="terminal-tout">
+            <span class="terminal-tout__text">Before it's here, it's on the Bloomberg Terminal.</span>
+            <div class="terminal-tout__icon"></div>
+            <a href="https://bloom.bg/dg-ws-core-bcom-a1" class="terminal-tout__link">LEARN MORE</a>
+        </div>
+    </div>
+                                
+                                
+                                
+                                
+                                
+        <div id="taboola-below-article-thumbnails-YsJD5cD" class="taboola"></div>
+    
+                            </div>
+                        </section>
+                        <aside class="right-rail">
+                            <div class="sticky-container">
+                                
+                                
+    <div id="box-TAJCLd7" class="box rotation-item page-ad" data-position="box">
+        <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"box","dimensions":{"small_desktop":[[300,600],[300,250],[1,1]],"large_desktop":[[300,600],[300,250],[1,1]]},"positionIncrement":1,"targeting":{"position":"box1","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"box-TAJCLd7"}</script>
+    </div>
+    
+                                
+                                
+        <div class="recirc rotation-item">
+            <div class="recirc__title">Trending Now</div>
+            <ol class="recirc__list">
+                
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2017-01-18/the-mystery-of-american-s-ailing-flight-attendants">The Mystery of American&#x2019;s Ailing Flight Attendants</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/politics/articles/2017-01-18/lagarde-urges-wealth-redistribution-as-dalio-warns-on-populists">Davos Elite Seeks Fixes to Defend the System From Populists</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2017-01-18/billionaire-steyer-says-no-limit-on-his-spending-against-trump">Billionaire Steyer Says There&#x2019;s &#x2018;No Limit&#x2019; on His Spending Against Trump</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2017-01-18/dimon-says-euro-zone-may-not-survive-without-change-in-direction">Dimon Says Euro Zone May Not Survive If Concerns Are Ignored</a>
+        </li>
+        <li class="recirc__list-item recirc__list-item-article">
+            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2017-01-18/trump-s-remarks-seen-deflating-millions-in-oil-options-trades">How Trump Crushed Millions of Dollars in Oil Options Trades</a>
+        </li>
+            
+    <li id="trendingnow-Lk2qGwi" class="recirc__list-item recirc__list-item-ad" data-position="trendingnow">
+        <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"trendingnow","dimensions":{"small_desktop":[[5,18],[1,1]],"large_desktop":[[5,18],[1,1]]},"positionIncrement":1,"targeting":{"position":"trendingnow1","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"trendingnow-Lk2qGwi"}</script>
+    </li></ol>
+        </div>
+                            </div>
+                        </aside>
+                    </div>
+                </article>
+            
+                        
+    <div id="native-e5YeLa8" class="native" data-position="native">
+        <script type="text/javascript">
+            window.__bloomberg__.ads.enqueue("native-e5YeLa8");
+        </script>
+        <script class="params" type="application/json">{"contentId":"OJV5WM6JTSEE01","position":"native","dimensions":{"all":[[5,16],[5,5],[5,2],[1,1]],"mobile":[[300,250]]},"type":"Native Transporter Ad","positionIncrement":1,"targeting":{"position":"native1","positionIncrement":1,"url":"/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger"},"containerId":"native-e5YeLa8"}</script>
+    </div>
+    
+                    </div>
+                </main>
+                <footer class="bb-global-footer"> <div class="bb-global-footer__content"> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a> <small class="bb-global-footer__copyright">©2017 Bloomberg L.P. All Rights Reserved</small> </div> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a> <a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a> <a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a> <a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a> </div> </div> </footer>
+                
+        <script>
+            window["jvln-asset-prefix"] = "https://assets.bwbx.io/javelin";
+        </script>
+        <script class="dependencies" type="application/json">
+            {"css":["/public/css/application/application-756615e12c.css","/public/css/layout/basic/basic-10ded15ca8.css","/public/css/layout/basic/basic-fccb7f31ee.desktop.css","/public/css/layout/basic/basic-080f7e6504.small_desktop.css","/public/css/layout/basic/basic-5ff0c3bad8.large_desktop.css","/public/css/layout/basic/basic-58815a9a43.tablet.css","/public/css/layout/basic/basic-5198226ef6.mobile.css","/public/css/nav/bb/nav-a2fb3a6d05.css","/public/css/components/breaking_news_placeholder/breaking_news-77396a5ddf.desktop.css","/public/css/components/image_viewer/image_viewer-ba63200f47.css","/public/css/components/image_viewer/image_viewer-fabf42e859.desktop.css","/public/css/components/image_viewer/image_viewer-493c7f0e8d.mobile-tablet.css","/public/css/components/image_viewer/image_viewer-e77f06e178.mobile.css","/public/css/print/print-af314bb942.css","/public/css/components/truste/truste-6c7cc6155c.css","/public/css/components/truste/truste-0edd0b2249.small_desktop.css","/public/css/components/truste/truste-6e76f7cadd.large_desktop.css","/public/css/components/truste/truste-20a23eebbf.tablet.css","/public/css/components/truste/truste-81c63befd0.mobile.css","/public/css/ads/leaderboard/leaderboard-b32a4755ad.css","/public/css/ads/leaderboard/leaderboard-fb4aae4bc9.tablet-desktop.css","/public/css/ads/native/native-8c1bdaceac.css","/public/css/components/lazy_images/lazy_image-75e50783da.css","/public/css/components/abstract/abstract-b1576ecec5.css","/public/css/components/author_tout/author_tout-d104a12ece.css","/public/css/components/author_tout/author_tout-26ba5b261b.mobile.css","/public/css/body/basic/body-29d433d869.css","/public/css/body/basic/newsletter_tout-a6a4cacd44.css","/public/css/body/basic/body-b0821362b2.desktop.css","/public/css/body/basic/in_article_ad-b951536408.desktop.css","/public/css/body/basic/body-acbbe4197c.large_desktop.css","/public/css/body/basic/newsletter_tout-085038e067.large_desktop.css","/public/css/body/basic/body-d67d108ece.tablet-desktop.css","/public/css/body/basic/mobile_ads-e0129fe356.tablet-desktop.css","/public/css/body/basic/body-b7ded967a4.tablet.css","/public/css/body/basic/in_article_ad-b53342fb93.tablet.css","/public/css/body/basic/in_article_ad-c21a8381f4.mobile-tablet.css","/public/css/body/basic/body-adf86e4ce1.mobile.css","/public/css/body/basic/in_article_ad-c971a3a440.mobile.css","/public/css/body/basic/mobile_ads-1962833420.mobile.css","/public/css/body/basic/newsletter_tout-8a5015009b.mobile.css","/public/css/ledes/basic/large_image/image/image-508e9664a5.css","/public/css/ledes/basic/large_image/image/image-6ca1d88a5c.desktop.css","/public/css/ledes/basic/large_image/image/image-7ca1ff6732.tablet.css","/public/css/ledes/basic/large_image/image/image-93de798d9e.mobile-tablet.css","/public/css/ledes/basic/large_image/image/image-d424a63022.mobile.css","/public/css/ledes/basic/large_image/content/content-21809ed269.css","/public/css/ledes/basic/large_image/content/content-d02b0d1568.desktop.css","/public/css/ledes/basic/large_image/content/content-9a03dd28d2.small_desktop.css","/public/css/ledes/basic/large_image/content/content-e3313dc8e8.tablet.css","/public/css/ledes/basic/large_image/content/content-6c91c00549.mobile.css","/public/css/components/author_details/author_details-aa3df9be4d.css","/public/css/components/recirc/recirc-a7735b9ce1.css","/public/css/ads/terminal_tout/terminal_tout-7e6aec41c8.css","/public/css/ads/terminal_tout/terminal_tout-f2725fa765.mobile.css","/public/css/themes/markets/markets-78c40c9320.css","/public/css/components/recirc/recirc-a7735b9ce1.css"],"js":["/public/js/layout/basic/right_rail-fdfdbf4d63.desktop.js","/public/js/nav/bb/nav-f87ced8470.js","/public/js/components/breaking_news_placeholder/breaking_news_placeholder-90352a67e8.js","/public/js/components/image_viewer/image_viewer-1286fdbee3.js","/public/js/ads/initialize/initialize_ads-6eabf5bc81.js","/public/js/transporter/transporter-9de460cb24.js","/public/js/components/truste/truste-6ac723d3b5.js","/public/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js","/public/js/components/lazy_images/lazy_images-e6cb415eb4.js","/public/js/components/video_player/video_player-972322ca42.js","/public/js/unsupportedBrowserMessage/unsupportedBrowserMessage-f2a404046f.async.js","/public/js/body/basic/footnotes-38a28ff6d1.js","/public/js/body/basic/newsletter_tout-543457c2a8.js","/public/js/body/basic/third_party_embed-0878af3186.js","/public/js/components/author_details/author_details-06d9d1cb95.js","/public/js/ads/taboola/taboola-cf10b9b3f8.js","/public/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js","/public/js/dependencies/dependencies-d4f7452ec9.js"]}
+        </script>
+                <script class="content-data" type="application/json">{"adCode":"markets/article","brand":"markets","byline":"Thomas Biesheuvel and Thomas Seal","id":"OJV5WM6JTSEE01","primaryCategory":"markets","primarySite":"bbiz","publishedAt":"2017-01-16T08:57:43.329Z","seoHeadline":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","slug":"2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger","tags":{"editorialTopics":[],"people":[{"id":"1844022","slug":"ABwjNmg6LYo/naguib-o-sawiris","fullName":"Naguib Onsi Sawiris","score":0.23103057757644394},{"id":"17576489","slug":"AQwyKTwkETo/brad-gordon","fullName":"Brad Gordon","score":0.4161947904869762}],"niCodes":[{"id":"ACEXCLUDE"},{"id":"AFRICA"},{"id":"AFRICAX"},{"id":"ALLFEA"},{"id":"ALLTOP"},{"id":"ALLWWCUR"},{"id":"AME"},{"id":"AMFEAT"},{"id":"BIZNEWS"},{"id":"BNALL"},{"id":"BNCOPY"},{"id":"BNCOPY2"},{"id":"BNSTAFF"},{"id":"BNTEAMS"},{"id":"BUSINESS"},{"id":"CACT"},{"id":"CMD"},{"id":"CMDTOP"},{"id":"CMDTOPZ3"},{"id":"CMDX"},{"id":"COEVNT"},{"id":"CORPFIN"},{"id":"COS"},{"id":"DEALEUTEAM"},{"id":"DEALTOP"},{"id":"DEALTOPZ2"},{"id":"DEALTOPZ3"},{"id":"DUPLICATE"},{"id":"EM"},{"id":"EUBNX"},{"id":"EUCMDMKT"},{"id":"EUFEAT"},{"id":"EUROPEME"},{"id":"EUROSTORY"},{"id":"FINNEWS"},{"id":"GLD"},{"id":"HLDUPLICAT"},{"id":"HLNOVELTY0"},{"id":"LST"},{"id":"MARKETS"},{"id":"MET"},{"id":"METEUTEAM"},{"id":"MKTTOP"},{"id":"MNA"},{"id":"MNG"},{"id":"NONFERR"},{"id":"NOVELTY0"},{"id":"ONWEB"},{"id":"PCS"},{"id":"STK"},{"id":"STKTOP"},{"id":"STKTOPZ5"},{"id":"STKTOPZ6"},{"id":"STKTOPZ8"},{"id":"TANZANIA"},{"id":"TOP"},{"id":"TOPBIZMKT"},{"id":"TORX"},{"id":"UPDATE"},{"id":"USBNX"},{"id":"WEBCMMDTZD"},{"id":"WWMNA"},{"id":"WWTOP"},{"id":"WWTOPAM"},{"id":"WWTOPBIZ"},{"id":"WWTOPEU"},{"id":"WWTOPFEAT"},{"id":"WWTOPZ3"},{"id":"AGRKEY"},{"id":"ANON"},{"id":"ANONYMOUS"},{"id":"ATTACHMENT"},{"id":"BASIC"},{"id":"BBPROFILE"},{"id":"BGOVBILLGO"},{"id":"BGOVCODES"},{"id":"BONDWIRES"},{"id":"CMDGLOMAC"},{"id":"CMDKEY"},{"id":"CMDKEY3"},{"id":"CREDITKEY"},{"id":"CREDITKEYA"},{"id":"WORLD"},{"id":"DEBTKEY"},{"id":"WHICH2"},{"id":"EAC"},{"id":"WEPFEX1"},{"id":"EMEAREGION"},{"id":"EQUITYKEY"},{"id":"WEBELIG"},{"id":"TIMENI"},{"id":"TIMECO"},{"id":"FIDESNEWS"},{"id":"SRCRANK1"},{"id":"SPREGIONS"},{"id":"GD"},{"id":"MISC"},{"id":"GDMNALIVE"},{"id":"QUOTED"},{"id":"GLOMACBB"},{"id":"INDUSTRIES"},{"id":"INTERNAL"},{"id":"PHOTO"},{"id":"OILKEY"},{"id":"LEAST"},{"id":"NRGKEY"},{"id":"MAJOR"},{"id":"METALKEY"},{"id":"METMNG"},{"id":"GDBDAPCA"},{"id":"MNAANON"},{"id":"TNM"},{"id":"GDMNAPIPE"},{"id":"EXCLPEER"},{"id":"JPMFRONT"},{"id":"IVORY"},{"id":"MSCIWORLD"},{"id":"G7MEMB"},{"id":"G10MEMB"},{"id":"LNS"},{"id":"EURSTK"},{"id":"MSCIDVEUR"},{"id":"UK"},{"id":"UNSANCTION"},{"id":"EUROPE"},{"id":"ECOWAS"},{"id":"DEVECO"},{"id":"CSM"}],"tickers":[{"id":"INVP:LN","longName":"Investec PLC","score":1.2896375990939979},{"id":"RRS:LN","longName":"Randgold Resources Ltd","score":1.805775764439411},{"id":"ABX:CN","longName":"Barrick Gold Corp","score":2.214326160815402},{"id":"EDV:CN","longName":"Endeavour Mining Corp","score":8.164531988710923},{"id":"ACA:LN","longName":"Acacia Mining PLC","score":12.105322763306907}],"indexes":[{"id":"UKX:IND","longName":"FTSE 100 Index","score":0.15656851642129105}],"topics":[{"id":"u-k","name":"U.K.","score":0.16138165345413363,"slug":"u-k"},{"id":"ivory-coast","name":"Ivory Coast","score":0.35843714609286526,"slug":"ivory-coast"},{"id":"ghana","name":"Ghana","score":0.36126840317100795,"slug":"ghana"},{"id":"tanzania","name":"Tanzania","score":1.3539071347678369,"slug":"tanzania"},{"id":"africa","name":"Africa","score":2.477916194790487,"slug":"africa"},{"id":"gold","name":"Gold","score":3.0792751981879953,"slug":"gold"},{"id":"london","name":"London","score":7.535237915475742,"slug":"london"}]},"textHeadline":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","theme":"markets","twitterHandle":"markets","twitterText":"Acacia Jumps in London on $4 Billion Endeavour Merger Talks","type":"article","url":"https://www.bloomberg.com/news/articles/2017-01-16/acacia-jumps-in-london-on-talks-for-4-billion-endeavour-merger","webOriginal":false}</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/ads/initialize/initialize_ads-6eabf5bc81.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:761px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/breaking_news_placeholder/breaking_news_placeholder-90352a67e8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/video_player/video_player-972322ca42.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/miniplayer/miniplayer-bae2db47a8.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:1021px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/layout/basic/right_rail-fdfdbf4d63.desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/author_details/author_details-06d9d1cb95.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/footnotes-38a28ff6d1.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/newsletter_tout-543457c2a8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/third_party_embed-0878af3186.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/ads/taboola/taboola-cf10b9b3f8.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/transporter/transporter-9de460cb24.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://www.bbthat.com/assets/v1.2.1/that.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/nav/bb/nav-f87ced8470.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://nav.bloomberg.com/public/javascripts/global/bb-global-nav-63cdaa5ccf.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/image_viewer/image_viewer-1286fdbee3.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/dependencies/dependencies-d4f7452ec9.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/lazy_images/lazy_images-e6cb415eb4.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <script src="https://assets.bwbx.io/javelin/public/js/unsupportedBrowserMessage/unsupportedBrowserMessage-f2a404046f.async.js" type="text/javascript" async></script>
+                <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNTH5N');</script><!-- End Google Tag Manager -->
+                <!-- Google Tag Manager (noscript) --><noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-MNTH5N' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+                
+        <div id="parsely-root" style="display: none">
+             <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+        </div>
+        <script>
+            (function(s, p, d) {
+            var h=d.location.protocol, i=p+"-"+s,
+               e=d.getElementById(i), r=d.getElementById(p+"-root"),
+               u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+               :"static."+p+".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+            })("script", "parsely", document);
+        </script>
+     
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/javelin/public/js/components/truste/truste-6ac723d3b5.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+                <!-- Categories: markets, world -->
+<!-- Article is not blocked because : publish date in UTC is 1/16/2017 -->
+            </body>
+        </html>
+    

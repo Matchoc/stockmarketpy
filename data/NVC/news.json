@@ -358,5 +358,14 @@
         "pubDate": "Fri, 13 Jan 2017 13:15:00 GMT",
         "source": "data\\NVC\\20170113.rss",
         "title": "Research Reports Initiated on Healthcare Stocks Acerus Pharmaceuticals, Neovasc, Nuvo Pharmaceuticals, and Titan Medical"
+    },
+    {
+        "contents": "data\\NVC\\20170118-225907.news",
+        "description": "[PR Newswire] - VANCOUVER, Jan. 18, 2017 /PRNewswire/ - Neovasc Inc. (\"Neovasc\" or the \"Company\") (NVCN) (NVC.TO) today announced an update in its ongoing litigation with CardiAQ Valve Technologies, Inc. (\"CardiAQ\"). The Company also sells a line of advanced biological tissue products that are used as key components in third-party medical products including transcatheter heart valves.",
+        "guid": "yahoo_finance/1028077873",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/neovasc-announces-litigation-cardiaq-190400537.html",
+        "pubDate": "Wed, 18 Jan 2017 19:04:00 GMT",
+        "source": "data\\NVC\\20170118.rss",
+        "title": "Neovasc Announces Update in Litigation with CardiAQ"
     }
 ]

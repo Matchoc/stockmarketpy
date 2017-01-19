@@ -1,0 +1,29 @@
+<!DOCTYPE html><html class="no-js" lang=""><head><title>Forbes Welcome</title><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="referrer" content="origin"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"><meta name="description" content="Forbes Welcome page -- Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle."><meta name="keywords" content="business news, market analysis, company profiles, personal finance, management, entrepreneurship, investments, financial advice, economy, technology news"><link rel="stylesheet" href="//i.forbesimg.com/welcomead/styles/df137838.main.css"><script type="text/javascript">fbs_settings = {
+                mobile: 'false',
+                preview: 'false',
+                test: 'false',
+                classes: 'WyJhZC1zcG9uc29ycyIsImJhbm5lclRvcEFkTGVmdCIsImFkdmVydGlzZW1lbnQtbGFiZWwiLCJwcm9tby1hZCIsIndhbGxhZCIsImFkc193aWRlIiwicmVzcG9uc2l2ZS1hZCIsImJhbjcyOCIsImJvdEFkIiwiYWRCZ1RvcCIsInNwb25zb3JlZExpbmtzQm94IiwiZHMtYWQtY29udGFpbmVyLXJvcyIsImFkXzMwMHg2MCIsImd0b3BfYWQiLCJBZEJveDE2MCIsInNlcnZlZEFkbGFiZWwiLCJob21lcGFnZS1hZC1idXp6LWNvbCIsImNtQm90dG9tQWRSaWdodCIsImFkX25ld3MiLCJjQS1hZFN0YWNrIiwiYWRCbG9ja18xNCIsImFkdmVydC1kZXRhaWwiLCJvYXNhZCIsImZsZXhhZCIsImFkdGV4dF9ob3Jpem9udGFsIiwid2lkZ2V0LWVudHJ5LWFkcy0xNjAiLCJhZHN0aXRsZSIsImFkXzIzNHg2MCIsImhlYWRlcmFkIiwic2luZ2xlX2FkdmVydCJd'
+            };</script><script type="text/javascript">try {
+                fbs_settings.data = {"channel":"channel_0","section":"section_0","location":"welcomead_default","panel":"welcome_ad","contentPositions":[{"position":1,"title":"Quote of the Day","description":"Having a mission-driven, culture-driven business is the key to being successful.","following":false,"byline":"Amy Bohutinsky","hideDescription":false,"sponsored":false,"twitterHandle":"","hashtag":"","removeTopPadding":false,"removeBottomPadding":false}],"panelId":"panel13","limit":0,"swimlane":false,"more":false,"enableAds":false,"removeBVPrepend":false,"brandvoiceHeader":false,"profileLink":false,"fullListLink":false,"pagination":false,"filters":false,"year":0,"directLink":false};
+            } catch (err) {
+                fbs_settings.data = null;
+            }</script><script type="text/javascript">try {
+                fbs_settings.angular_preload = ["//i.forbesimg.com/forbes/scripts/af45f03d.vendor.js","//i.forbesimg.com/forbes/scripts/27c5c01f.scripts.js","//i.forbesimg.com/forbes/styles/8cf6fc7d.main.css"];
+            } catch (err) {
+                fbs_settings.angular_preload = null;
+            }</script><script src="//i.forbesimg.com/welcomead/scripts/vendor/69216742.modernizr.js"></script></head><body class=''><div id="app" class="container clearfix default-template ad-300-by-250"><div id="navigation"></div><div id="content"><div id="adblock-hover" class="hidden"><span class="close-btn preloaded"><span class="close">CLOSE</span> <i class="icon icon-close"></i></span> <img> <a href="//www.forbes.com/adblock/instructions/" target="_blank">More Options</a></div>  <script>(function() {
+                        setTimeout(function() {
+                            var inviEles = document.getElementsByClassName('invisible');
+                            for (var ele in inviEles) {
+                                if (!inviEles[0]) {
+                                    return;
+                                }
+                                inviEles[0].className = inviEles[0].className.replace('invisible', '');
+                            }
+                            if (window.performance && performance.mark) {
+                                performance.mark('content_visible');
+                            }
+                        });
+                    })();</script><div class="content-container"><div class="content-inner"><h1 class="title">  <i class="invisible branding icon icon-forbes-logo"></i> <span class="top invisible">Quote of</span> <span class="bottom invisible">the Day</span></h1><div class="body">  <blockquote class="body-content invisible"><img src="//specials-images.forbesimg.com/imageserve/57e197ac31358e16c589c0b5/40x0.png"> Having a mission-driven, culture-driven business is the key to being successful.</blockquote>  <p class="body-byline invisible">Amy Bohutinsky</p>  </div></div></div>  </div><div id="ads"></div></div><!--[if lte IE 9]>
+        <script src="//i.forbesimg.com/welcomead/scripts/b9b8347c.legacy.js"></script>
+        <![endif]--><script src="//i.forbesimg.com/welcomead/scripts/1a364ca6.vendor.js"></script><script src="//i.forbesimg.com/welcomead/scripts/f09a8c4b.main.js"></script></body></html>

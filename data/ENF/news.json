@@ -1,0 +1,47 @@
+[
+    {
+        "contents": "data\\ENF\\20170118-231459.news",
+        "description": null,
+        "guid": "yahoo_finance/4006033630",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-income-fund-holdings-inc-221500351.html",
+        "pubDate": "Thu, 05 Jan 2017 22:15:00 GMT",
+        "source": "data\\ENF\\20170118.rss",
+        "title": "Enbridge Income Fund Holdings Inc. Announces 10% Dividend Increase to Monthly Dividend"
+    },
+    {
+        "contents": "data\\ENF\\20170118-231501.news",
+        "description": null,
+        "guid": "yahoo_finance/1200699511",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=156ab34sn/*http://www.capitalcube.com/blog/index.php/enbridge-income-fund-holdings-inc-enf-ca-dividend-analysis-december-30th-2016-record-date-by-the-numbers-december-29-2016/",
+        "pubDate": "Thu, 29 Dec 2016 17:19:38 GMT",
+        "source": "data\\ENF\\20170118.rss",
+        "title": "Enbridge Income Fund Holdings, Inc. : ENF-CA: Dividend Analysis : December 30th, 2016 (record date) : By the numbers : December 29, 2016"
+    },
+    {
+        "contents": "data\\ENF\\20170118-231501.news",
+        "description": null,
+        "guid": "yahoo_finance/3707627457",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=156bm639p/*http://www.capitalcube.com/blog/index.php/enbridge-income-fund-holdings-inc-enf-ca-dividend-analysis-november-30th-2016-record-date-by-the-numbers-december-19-2016/",
+        "pubDate": "Mon, 19 Dec 2016 17:34:36 GMT",
+        "source": "data\\ENF\\20170118.rss",
+        "title": "Enbridge Income Fund Holdings, Inc. : ENF-CA: Dividend Analysis : November 30th, 2016 (record date) : By the numbers : December 19, 2016"
+    },
+    {
+        "contents": "data\\ENF\\20170118-231501.news",
+        "description": null,
+        "guid": "yahoo_finance/1524896294",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/19/research-reports-initiated-on-energy-stocks-enbridge-income-fund-holdings-transcanada-pembina-pipeline-and-inter-pipeline/?1=1&1482154952",
+        "pubDate": "Mon, 19 Dec 2016 13:42:32 GMT",
+        "source": "data\\ENF\\20170118.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge Income Fund Holdings, TransCanada, Pembina Pipeline, and Inter Pipeline"
+    },
+    {
+        "contents": "data\\ENF\\20170118-231501.news",
+        "description": null,
+        "guid": "yahoo_finance/2028994224",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-income-fund-holdings-inc-221500850.html",
+        "pubDate": "Thu, 15 Dec 2016 22:15:00 GMT",
+        "source": "data\\ENF\\20170118.rss",
+        "title": "Enbridge Income Fund Holdings Inc. Announces Monthly Dividend"
+    }
+]

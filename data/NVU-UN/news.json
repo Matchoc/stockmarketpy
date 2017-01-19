@@ -1,0 +1,47 @@
+[
+    {
+        "contents": "data\\NVU-UN\\20170118-223635.news",
+        "description": null,
+        "guid": "yahoo_finance/566701528",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northview-apartment-reit-announces-january-211115794.html",
+        "pubDate": "Mon, 16 Jan 2017 21:11:15 GMT",
+        "source": "data\\NVU-UN\\20170118.rss",
+        "title": "Northview Apartment REIT Announces January 2017 Distribution"
+    },
+    {
+        "contents": "data\\NVU-UN\\20170118-223637.news",
+        "description": null,
+        "guid": "yahoo_finance/3446091478",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-real-estate-131500350.html",
+        "pubDate": "Thu, 05 Jan 2017 13:15:00 GMT",
+        "source": "data\\NVU-UN\\20170118.rss",
+        "title": "Research Reports Initiated on Real Estate Stocks Chartwell Retirement Residences, Boardwalk REIT, Northview Apartment REIT, and Killam Apartment REIT"
+    },
+    {
+        "contents": "data\\NVU-UN\\20170118-223638.news",
+        "description": null,
+        "guid": "yahoo_finance/2849451255",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northview-apartment-reit-announces-december-184051837.html",
+        "pubDate": "Thu, 15 Dec 2016 18:40:51 GMT",
+        "source": "data\\NVU-UN\\20170118.rss",
+        "title": "Northview Apartment REIT Announces December 2016 Distribution"
+    },
+    {
+        "contents": "data\\NVU-UN\\20170118-223640.news",
+        "description": null,
+        "guid": "yahoo_finance/2385227833",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/01/research-reports-initiated-on-real-estate-stocks-ct-reit-choice-properties-reit-pure-industrial-real-estate-trust-and-northview-apartment-reit/?1=1&1480598944",
+        "pubDate": "Thu, 01 Dec 2016 13:29:04 GMT",
+        "source": "data\\NVU-UN\\20170118.rss",
+        "title": "Research Reports Initiated on Real Estate Stocks CT REIT, Choice Properties REIT, Pure Industrial Real Estate Trust, and Northview Apartment REIT"
+    },
+    {
+        "contents": "data\\NVU-UN\\20170118-223640.news",
+        "description": null,
+        "guid": "yahoo_finance/1055034578",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northview-apartment-reit-announces-november-214024745.html",
+        "pubDate": "Tue, 15 Nov 2016 21:40:24 GMT",
+        "source": "data\\NVU-UN\\20170118.rss",
+        "title": "Northview Apartment REIT Announces November 2016 Distribution"
+    }
+]

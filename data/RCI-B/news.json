@@ -1,0 +1,47 @@
+[
+    {
+        "contents": "data\\RCI-B\\20170118-225307.news",
+        "description": null,
+        "guid": "yahoo_finance/833982875",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13csrea5e/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-rogers-communications-inc-january-12-2017/",
+        "pubDate": "Thu, 12 Jan 2017 19:25:11 GMT",
+        "source": "data\\RCI-B\\20170118.rss",
+        "title": "ETFs with exposure to Rogers Communications, Inc. : January 12, 2017"
+    },
+    {
+        "contents": "data\\RCI-B\\20170118-225307.news",
+        "description": null,
+        "guid": "yahoo_finance/3699031958",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ime7uip/*http://www.capitalcube.com/blog/index.php/rogers-communications-inc-value-analysis-torontorci-b-january-11-2017/",
+        "pubDate": "Wed, 11 Jan 2017 16:32:36 GMT",
+        "source": "data\\RCI-B\\20170118.rss",
+        "title": "Rogers Communications, Inc. \u2013 Value Analysis (TORONTO:RCI.B) : January 11, 2017"
+    },
+    {
+        "contents": "data\\RCI-B\\20170118-225308.news",
+        "description": null,
+        "guid": "yahoo_finance/1570221723",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14mdb3ril/*http://www.capitalcube.com/blog/index.php/rogers-communications-inc-breached-its-50-day-moving-average-in-a-bearish-manner-rci-b-ca-january-10-2017/",
+        "pubDate": "Tue, 10 Jan 2017 14:19:31 GMT",
+        "source": "data\\RCI-B\\20170118.rss",
+        "title": "Rogers Communications, Inc. breached its 50 day moving average in a Bearish Manner : RCI.B-CA : January 10, 2017"
+    },
+    {
+        "contents": "data\\RCI-B\\20170118-225308.news",
+        "description": null,
+        "guid": "yahoo_finance/351252624",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-competition-watchdog-closes-two-155342199.html",
+        "pubDate": "Fri, 06 Jan 2017 15:53:42 GMT",
+        "source": "data\\RCI-B\\20170118.rss",
+        "title": "Canada's competition watchdog closes two-year Apple probe"
+    },
+    {
+        "contents": "data\\RCI-B\\20170118-225310.news",
+        "description": "[Reuters] - Canada's Competition Bureau on Friday said it had not found sufficient evidence that Apple Inc had engaged in anti-competitive conduct, closing a two-year investigation into the iPhone maker. The watchdog launched a probe into Apple's business practices in December 2014 to investigate allegations the company's Canadian unit had used anti-competitive clauses to force domestic operators to sell rival devices at higher prices than they otherwise would have and restricting how they could market and sell iPhones. \"The Bureau did not find evidence to suggest that the Apple terms resulted in a significant effect on competition,\" the antitrust watchdog said in a statement.",
+        "guid": "yahoo_finance/2846786354",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-competition-watchdog-closes-two-155244756.html",
+        "pubDate": "Fri, 06 Jan 2017 15:52:44 GMT",
+        "source": "data\\RCI-B\\20170118.rss",
+        "title": "Canada's competition watchdog closes two-year Apple probe"
+    }
+]

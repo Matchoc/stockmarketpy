@@ -1,0 +1,65 @@
+[
+    {
+        "contents": "data\\KL\\20170118-222530.news",
+        "description": null,
+        "guid": "yahoo_finance/1298970826",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kirkland-lake-gold-extends-high-123000711.html",
+        "pubDate": "Tue, 17 Jan 2017 12:30:00 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Extends High-Grade Mineralization at Depth on the Lower Phoenix Gold System and Reports a Record High-Grade Drill Result From the Fosterville Gold Mine"
+    },
+    {
+        "contents": "data\\KL\\20170118-222532.news",
+        "description": null,
+        "guid": "yahoo_finance/3235922622",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kirkland-lake-gold-exceeds-production-113000742.html",
+        "pubDate": "Mon, 09 Jan 2017 11:30:00 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Exceeds Production Guidance With 2016 Pro Forma Gold Production of 542,751 Oz; Record Operational Performance at Macassa & Fosterville"
+    },
+    {
+        "contents": "data\\KL\\20170118-222534.news",
+        "description": null,
+        "guid": "yahoo_finance/146056825",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fbn4bn8/*http://www.capitalcube.com/blog/index.php/kirkland-lake-gold-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-kl-ca-january-6-2017/",
+        "pubDate": "Fri, 06 Jan 2017 14:06:34 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Ltd. breached its 50 day moving average in a Bullish Manner : KL-CA : January 6, 2017"
+    },
+    {
+        "contents": "data\\KL\\20170118-222537.news",
+        "description": null,
+        "guid": "yahoo_finance/2582236383",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kirkland-lake-gold-announces-management-123000749.html",
+        "pubDate": "Tue, 03 Jan 2017 12:30:00 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Announces Management Appointments"
+    },
+    {
+        "contents": "data\\KL\\20170118-222539.news",
+        "description": "[at noodls] - ASX Announcement 16 December 2016 Level 1, 135 Fullarton Road Rose Park, SA 5067 Australia Telephone +61 (0) 8 8364 3188 Facsimile +61 (0) 8 8364 4288 info@pnxmetals.com.au www.pnxmetals.com.au PNX completes ...",
+        "guid": "yahoo_finance/780161861",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lmpboh/*http://www.publicnow.com/view/B2F7993B22CC24AB48B288290862F8CA03DAE6A5",
+        "pubDate": "Mon, 19 Dec 2016 02:50:05 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "PNX Completes 51% Stage 1 Farm-in, NT"
+    },
+    {
+        "contents": "data\\KL\\20170118-222539.news",
+        "description": null,
+        "guid": "yahoo_finance/1075578323",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13dthjn6m/*http://www.capitalcube.com/blog/index.php/kirkland-lake-gold-ltd-value-analysis-torontokl-december-16-2016/",
+        "pubDate": "Fri, 16 Dec 2016 15:35:16 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Ltd. \u2013 Value Analysis (TORONTO:KL) : December 16, 2016"
+    },
+    {
+        "contents": "data\\KL\\20170118-222539.news",
+        "description": null,
+        "guid": "yahoo_finance/2103296223",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hkpemq3/*http://www.capitalcube.com/blog/index.php/kirkland-lake-gold-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-kl-ca-december-15-2016/",
+        "pubDate": "Thu, 15 Dec 2016 13:14:02 GMT",
+        "source": "data\\KL\\20170118.rss",
+        "title": "Kirkland Lake Gold Ltd. breached its 50 day moving average in a Bearish Manner : KL-CA : December 15, 2016"
+    }
+]

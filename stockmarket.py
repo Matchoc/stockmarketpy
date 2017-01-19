@@ -539,28 +539,39 @@ def update_symbol(symbol, steps):
 	if not os.path.isdir(symboldir):
 		os.makedirs(symboldir)
 	if "dlprice" in steps:
+		myprint("dlprice 1/7", 1)
 		csvpath = download_year_prices(symbol)
 	if "dlrss" in steps or "rss2json" in steps:
+		myprint("dlrss 2/7", 1)
 		rsspath = download_yahoo_rss(symbol)
 	if "price2json" in steps:
+		myprint("price2json 3/7", 1)
 		pricejson = convert_prices_to_json(symbol)
 	if "rss2json" in steps:
+		myprint("rss2json 4/7", 1)
 		newsjson = convert_yahoorss_to_json(symbol, rsspath)
 	if "dlnews" in steps:
+		myprint("dlnews 5/7", 1)
 		download_all_news_page(symbol)
 	if "processnews" in steps:
+		myprint("processnews 6/7", 1)
 		process_all_news(symbol)
 	if "updateTraining" in steps:
+		myprint("updateTraining 7/7", 1)
 		updateTraining_by_date(symbol)
 
 def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval", "today"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
+	count = 0
 	for symbol in links:
+		count += 1
+		myprint("Processing symbol " + symbol + " (" + str(count) + "/" + str(len(links)) + ")", 2)
 		update_symbol(symbol, steps)
 		
 	if "allwords" in steps:
+		myprint("Generating allwords", 2)
 		ret = generate_word_counts()
 		myprint(sort_dict(ret), 0)
 		
@@ -587,6 +598,7 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		cross_validate(data)
 		
 	if "today" in steps:
+		myprint("Predict today", 2)
 		predict_all_today()
 		
 def train_cross_variations():
@@ -735,7 +747,7 @@ def print_ordered_all_words():
 def graph_actual_vs_predicted():
 	if MACHINE_NEWS is None:
 		load_machine()
-	data = get_all_Xy() # SKIP_SYMBOL should be set and training should have been done with same skip_symbol (unless testing overfitting)
+	#data = get_all_Xy() # SKIP_SYMBOL should be set and training should have been done with same skip_symbol (unless testing overfitting)
 	skipped_data = gatherTraining(SKIP_SYMBOL)
 	skipDataX, realresult, allnews = skipped_data["X"], skipped_data["y"], skipped_data["news"]
 	predictedresult = []
@@ -787,7 +799,7 @@ def graph_actual_vs_predicted():
 	
 	myprint("todo")
 	
-SKIP_SYMBOL = "RY" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
 	#train_cross_variations()
 	#graph_actual_vs_predicted()
@@ -809,7 +821,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
-	#update_all_symbols(["updateTraining", "train", "crossval"])
+	#update_all_symbols(["updateTraining", "train"])
 	#update_all_symbols(["train"])
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])

@@ -1,0 +1,1910 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+    <title>  Goldcorp Picked a Great Day to Release Its Production Update - Stocks to Watch - Barrons.com</title>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta name="description" content="Shares of Goldcorp (GG) are flying today after the gold miner released its production update. But is it the news or the market that's sending its shares soaring today?National Bank Financial Markets analyst Steve Parsons offers his take on Goldcorp's production guidance:" />
+    <meta NAME="ROBOTS" content="noarchive, noodp" /> 
+
+    <link rel="shortcut icon" href="http://barrons.wsj.net/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="Stocks to Watch RSS Feed" href="http://blogs.barrons.com/stockstowatchtoday/feed/" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.barrons.com/stockstowatchtoday/xmlrpc.php?rsd" />
+
+    <meta property="fb:app_id" content="143538339355" />
+<meta property="og:site_name" content="Barrons" />
+<meta property="fb:url" content="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/" />
+<meta property="og:url" content="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/" />
+<meta property="og:image" content="//si.wsj.net/public/resources/images/ON-BY593_gold_P_20170103142457.jpg" />
+<meta property="og:image:width" content="749" />
+<meta property="og:image:height" content="499" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Goldcorp Picked a Great Day to Release Its Production Update" />
+<meta property="og:description" content="Shares of Goldcorp (GG) are flying today after the gold miner released its production update. But is it the news or the market that's sending its shares soaring today?National Bank Financial Markets analyst Steve Parsons offers his take on Goldcorp's production guidance:" />
+<meta property="article:publisher" content="https://www.facebook.com/barronsonline" />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Goldcorp Picked a Great Day to Release Its Production Update">
+<meta name="twitter:site" content="barronsonline">
+<meta name="twitter:description" content="Shares of Goldcorp (GG) are flying today after the gold miner released its production update. But is it the news or the market that's sending its shares soaring today?National Bank Financial Markets analyst Steve Parsons offers his take on Goldcorp's production guidance:">
+<meta name="twitter:url" content="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/">
+<meta name="twitter:image:src" content="https://si.wsj.net/public/resources/images/ON-BY593_gold_P_20170103142457.jpg">
+<meta name="twitter:domain" content="Barrons.com"><link rel="canonical" href="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/"/><meta name="msapplication-task" content="name=WSJ;action-uri=http://online.wsj.com/;icon-uri=http://si.wsj.net/favicon.ico"/>
+<meta name="msapplication-task" content="name=MarketWatch;action-uri=http://www.marketwatch.com/;icon-uri=http://www.marketwatch.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=Barron's;action-uri=http://online.barrons.com/;icon-uri=http://online.barrons.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=All Things Digital;action-uri=http://allthingsd.com/;icon-uri=http://allthingsd.com/favicon.ico"/>
+<meta name="msapplication-task" content="name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico"/>
+<meta content="504643805a953dda59000001" name="lifp_signature" /><meta content="https://id.barrons.com/access" name="lifp_basePath" />
+
+<meta name="application-name" content="Barrons.com" />
+<meta name="msapplication-tooltip" content="Barron's" />
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_2.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_static.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog.css" type="text/css" />
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie6.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie6.css" type="text/css" />
+<![endif]-->
+ 
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie7.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_global_ie8.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/bolblog_ie8.css" type="text/css" />
+<![endif]-->
+
+<link rel="stylesheet" href="http://sc.wsj.net/css/standalone_partner_hat.css" type="text/css" />
+<link rel="stylesheet" href="http://sc.wsj.net/css/cssDependencies/hat-icons.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/hat-barrons-overrides.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/autocomplete.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/headerSearchbox.css" type="text/css" />
+<link rel="stylesheet" href="http://barrons.wsj.net/css/barronsDependencies/blogsShareTools.css" type="text/css" />
+
+<style type="text/css"> 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a, 
+    .wsjblog .header li.form_factor_nav .inlineNav .blogsLinkContainer a:visited { 
+        color: #E36627; 
+    }
+    //.maintenance { display: none; }
+
+  .headlineSummary.about { margin-bottom: 0; }
+
+  .mceTemp.imageFormat-E, .mceTemp.imageFormat-D, .mceTemp.imageFormat-C {
+    width: auto;
+    padding: 0;
+  }
+</style>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+    var _wpdq                   = 1;
+    var globalHeaderPageTitle   = "Blogs"; 
+    var gcDomain                = "online.barrons.com";
+    var nSP                     = "http://" + gcDomain;
+    var cdnDomain               = "http://s.wsj.net"; 
+    var serverTime              = new Date(); 
+    var wpDomain                = "blogs.barrons.com";
+    if (typeof dj == "undefined") { dj = {}; }
+    if (typeof dj.context == "undefined") { dj.context = {}; }
+    dj.context.djHeaderEnabled = false;
+</script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- generated on Wed, 18 Jan 2017 22:45:35 -0500 -->
+
+<meta name='author' content='Ben Levisohn' /></head>
+
+<body>
+<a name="top"></a>
+<div class="fullwide subType-subscribed wsjblog_post bBlogPost wsjblog bBlog">
+        <div class="reallywide"><div id="hat_div" class="hat_wsjdn">
+
+
+ <ul  id="hattabs" class="hat_tabs">
+
+            <li class="hat_tab " id="hat_tab_wsj">
+            <a class="hat_site_title" href="http://online.wsj.com" rel="nofollow">WSJ</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://online.wsj.com" rel="nofollow">WSJ</a></li>	      
+              </ul>  
+
+
+          </li>    
+
+            <li class="hat_tab " id="hat_tab_live">
+            <a class="hat_site_title" href="http://live.wsj.com" rel="nofollow">WSJ Live</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://live.wsj.com" rel="nofollow">WSJ Live</a></li>	      
+              </ul>  
+
+
+          </li>    
+
+            <li class="hat_tab " id="hat_tab_mw">
+            <a class="hat_site_title" href="http://www.marketwatch.com" rel="nofollow">MarketWatch</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://www.marketwatch.com" rel="nofollow">MarketWatch</a></li>	      
+              </ul>  
+
+
+          </li>    
+
+            <li class="hat_tab current " id="hat_tab_bol">
+            <a class="hat_site_title" href="http://online.barrons.com/home" rel="nofollow">Barron's</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://online.barrons.com/home" rel="nofollow">Barron's</a></li>	      
+							  <li class="hat_social_tab"><a id="hat_fb_button" class="hat_fb_link" href="#" title="Follow Barron's on Facebook">Facebook</a></li>
+							  <li class="hat_social_tab"><a id="hat_twt_button" class="hat_twitter_link" href="#" title="Follow Barron's on Twitter">Twitter</a></li>
+              </ul>  
+                <div id="fb_like_overlay" class="hat_overlay hat_overlay_fb hidden"></div>
+                <div id="twitter_overlay" class="hat_overlay hat_overlay_twitter hidden"></div>          
+
+
+          </li>    
+
+            <li class="hat_tab barrons" id="hat_tab_productx">
+            <a class="hat_site_title" href="http://dj.wsj.com/hub?mod=BARRONS_Hat" rel="nofollow">Product X</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://dj.wsj.com/hub?mod=BARRONS_Hat" rel="nofollow">Product X</a></li>	      
+              </ul>  
+
+              <div class="hat_product_dropdown">
+                  <div class="hat_product_dropdown-wrap">
+                      <div class="caret_wrap">
+                          <div class="caret"></div>
+                          <div class="caret_border"></div>
+                      </div>
+                      <ul>
+
+                         <li>
+                              <a class="djx" href="http://djx.wsj.com?mod=ProdX_MktgHub">djx</a>
+                          </li>                       
+
+                          <li>
+                              <a class="rt" href="https://newsplus.wsj.com?mod=ProdX_MktgHub">np</a>
+                          </li>
+
+                          <li>
+                              <a class="f" href="https://global.factiva.com/du/global.aspx?mod=ProdX_MktgHub">f</a>
+                          </li>
+
+                          <li>
+                              <a class="rc" href="https://djrc.dowjones.com/?mod=ProdX_MktgHub">r&amp;c</a>
+                          </li>
+
+                          <li>
+                              <a class="pevc" href="http://pevc.dowjones.com/?mod=ProdX_MktgHub">pe&amp;vc</a>
+                          </li>
+
+                          <li>
+                              <a class="wsj" href="http://online.wsj.com/?mod=ProdX_MktgHub">wsj</a>
+                          </li>
+
+                          <li>
+                              <a class="b" href="#">b</a>
+                          </li>                      
+
+                      </ul>
+                  </div>
+              </div>      
+
+          </li>    
+
+	<style>
+   	   ul.hat_tabs #hat_tab_mansionglobal .hat_site_link {
+  		background-image: url(http://s2.wsj.net/img/hat_sprite_6.png);
+  		background-position: -287px -95px;
+		}
+	  ul.hat_tabs #hat_tab_mansionglobal .hat_site_title {
+  		background-image: url(http://s2.wsj.net/img/hat_sprite_6.png);
+  		background-position: -278px -751px;
+		}
+	</style>
+            <li class="hat_tab barrons" id="hat_tab_mansionglobal">
+            <a class="hat_site_title" href="http://www.mansionglobal.com/" rel="nofollow">Mansion Global</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://www.mansionglobal.com/" rel="nofollow">Mansion Global</a></li>	      
+              </ul>  
+
+
+          </li>    
+
+              <li id="hat_tab_dropdown" class="hat_tab_dropdown">      
+              <a id="partyhat_more_dropdown" class="moreTarget" href="#">More</a>                             
+              <ul class="hat_dd_list">  
+            <li id="hat tab big charts" class="hat_dd_item ">
+            <a href="http://bigcharts.marketwatch.com/" rel="nofollow"  >BigCharts</a>
+            </li>      
+
+            <li id="hat_tab_fn" class="hat_dd_item ">
+            <a href="http://www.efinancialnews.com/" rel="nofollow"  >Financial News</a>
+            </li>      
+
+            <li id="hat_tab_Professor_Journal" class="hat_dd_item ">
+            <a href="http://professor.wsj.com/" rel="nofollow"  >Professor Journal</a>
+            </li>      
+
+            <li id="hat_tab_Realtor" class="hat_dd_item ">
+            <a href="http://www.realtor.com/" rel="nofollow"  >Realtor.com</a>
+            </li>      
+
+            <li id="hat_tab_SmartMoney" class="hat_dd_item hidden">
+            <a href="http://www.smartmoney.com/" rel="nofollow"  >SmartMoney</a>
+            </li>      
+
+            <li id="hat_tab_Student_Journal" class="hat_dd_item ">
+            <a href="http://wsjstudent.com/" rel="nofollow"  >Student Journal</a>
+            </li>      
+
+            <li id="hat tab Virtual Stock Exchange" class="hat_dd_item ">
+            <a href="http://www.marketwatch.com/Game/" rel="nofollow"  >Virtual Stock Exchange</a>
+            </li>      
+
+            <li id="hat tab WSJ Classifieds" class="hat_dd_item ">
+            <a href="http://online.wsj.com/public/page/classified-search.html" rel="nofollow"  >WSJ Classifieds</a>
+            </li>      
+
+            <li id="hat tab WSJ Classroom" class="hat_dd_item hidden">
+            <a href="http://classroom.wsj.com/" rel="nofollow"  >WSJ Classroom</a>
+            </li>      
+
+            <li id="wsjwine" class="hat_dd_item ">
+            <a href="http://www.wsjwine.com/" rel="nofollow"  >WSJ Wine</a>
+            </li>      
+                </ul></li>
+  </ul>
+<div class="hdrSearch hdrSearchBarrons hidden" id="searchBlingBox" >
+	<div id="searchInputEle" class="hdrSearchC" >
+		<div >
+			<form onsubmit="return false;">
+				<input type="text" value="News, Quotes, Companies, Videos" class="hdrSearchInput unUsed" id="globalHeaderSearchInput" autocomplete="off" size="28">
+				<button class="hdrSearchBtn" type="button">SEARCH</button>
+			</form>
+		</div>
+	</div>
+	<div id="globalHeaderAutoComplete" class="hdrSearchList hidden">
+		<div class="autocompleteContent" >
+		</div>		
+	</div>
+		<!--  Autocomplete viewTemplate content - could be used on pages where autocomplete is not in header -->
+<!-- Do not change id of textArea its referred in dj.widget.autocomplete.autoCompleteViewTemplate.js-->	
+<textarea id="wsj_autocomplete_template" style="display:none">	
+ 
+	<div>
+			<div class="acHeadline hidden"  >
+			</div>
+			<div class="dropdownContainerClass">
+				<div class="suggestionblock hidden" templateType="C1">	
+					<ul role="listbox" class="">
+						<li role="menuitem" class="hdrSearchListName">
+							headline
+						</li>
+						<li role="menuitem" class="lineItem">
+							<a class="searchResult" href="javascript:void(0);">
+							   <span class="searchTerm">gold</span>man
+							</a>
+						</li>						
+					</ul>
+				</div>
+				<div class="suggestionblock hidden" templateType="C3">	
+					<ul role="listbox" class="hdrSearchListComp">
+						<li role="menuitem" class="hdrSearchListName">
+							Companies
+						</li>
+						<li role="menuitem" class="lineItem">
+							<a class="searchResult" href="javascript:void(0);">
+								<div class="searchListCompTicker">
+									<span class="searchTerm">GOLD</span>
+								</div>
+								<div class="searchListCompName">
+									Ran
+									<span class="searchTerm">gold</span> Resources Ltd. ADS
+								</div>
+								<div class="searchListCompMarkets">
+									U.S.
+								</div>
+							</a>
+						</li>						
+					</ul>									
+				</div>
+			</div>
+			<div class="acFooter hidden">
+				<ul role="listbox" class="hdrSearchListSearch">
+					<li role="menuitem" class="">
+						<a class="footer" href="#">View All Search Results &raquo;</a>
+					</li>
+				</ul>
+			</div>
+			<div id="SearchSponsorBox" class="sponsorBox"></div>
+		</div>
+</textarea>
+
+</div>
+</div><div class="pageHeader"><style>
+
+.hdrSearch {
+  z-index: 2102;
+}
+
+div.pageHeader {
+    height: 134px;
+    clear: both;
+    width: 100%;
+    background-image: url(http://s2.wsj.net/img/barrons/bol_background_2012.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+}
+
+div.headerContainer {
+    width: 993px;
+    margin:0px auto;
+}
+
+.pageHeader div.headerMain {
+    background-image: url(http://s2.wsj.net/img/barrons/bol_background_2012.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+    width: 989px;
+    height: 93px;
+}
+
+.headerMain li {
+    float: left;
+    display: inline;
+    color: #fff;
+}
+
+.headerMain li a:link,.headerMain li a:visited,.headerMain li a:active {
+    color: #fff;
+}
+
+.headerMain li a:hover {
+    color: red;
+}
+
+.headerMain li.mainLogo {
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+.headerMain li.mainLogo a {
+    cursor: pointer;
+    background-image: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: block;
+    width: 255px;
+    height: 58px;
+    margin-top: 19px;
+}
+
+.headerMain li div.mainPromo {
+    width: auto;
+    height: 60px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.headerMain li div.mainPromo .adSummary {
+    margin-bottom: 0;
+}
+
+.headerMain li.mainSub {
+    float: right;
+    /*margin-top: 2px;*/
+    margin-top: 65px;
+    position: relative;
+}
+
+.headerMain li.mainSub ul li {
+    float: none;
+    font-size: 1.2em;
+    line-height: 1em;
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -59px no-repeat;
+    padding-right: 9px;
+    margin-right: 8px;
+}
+
+.headerMain li.mainSub ul.newMessage li.subAccount,.headerMain li.mainSub ul.alertMessage li.subAccount {
+    display: none;
+}
+
+.headerMain li.mainSub ul li.subName {
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -78px no-repeat;
+    padding-right: 12px;
+}
+
+.headerMain li.mainSub ul li.subName strong {
+    color: #a6e4fd;
+}
+
+.headerMain li.mainSub ul li.subCustomerCenter {
+    background: none;
+    margin-right: 75px;
+}
+
+.headerMain li.mainSub ul li.subCustomerCenter span {
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -120px no-repeat;
+    text-indent: -9999em;
+    width: 74px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: -9px;
+}
+
+.headerMain li.mainLogin {
+    float: right;
+    /*margin-top: 5px;*/
+    margin-right: 12px;
+}
+
+.headerMain li.mainLogin div.mainPromo{
+    min-height:60px;
+}
+
+.headerMain li.mainLogin ul li {
+    padding: 0;
+    color: #fff;
+}
+
+.headerMain li.mainLogin ul li input.username,.headerMain li.mainLogin ul li input.password {
+    width: 76px;
+}
+
+.headerMain li.mainLogin ul li.loginSubmit,.headerMain li.mainLogin ul li.loginPassword {
+    float: right;
+}
+
+.headerMain li.mainLogin ul li.loginHelp {
+    background-image: url(http://s3.wsj.net/img/barrons/dotted_grey.gif);
+    background-position: top left;
+    background-repeat: repeat-x;
+    width: 300px;
+}
+
+.headerMain li.mainLogin ul li.loginHelp ul li.helpSub {
+    background-image: url(http://s2.wsj.net/img/barrons/nav_inlineNav_bullet.gif);
+    background-position: 7px 7px;
+    background-repeat: no-repeat;
+    padding: 0 18px;
+}
+
+.headerMain li.mainLogin ul li input.logIn {
+    background-color: transparent;
+    background-image: url(http://s4.wsj.net/img/barrons/bol_small_arrow.gif);
+    background-repeat: no-repeat;
+    background-position: 35px 8px;
+    border: none;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 9px 1px 0;
+}
+
+.headerMain li.mainLogin ul li input.logIn:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.headerMain li.mainLogin ul.loginLinks li {
+    float: right;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1.2em;
+}
+
+.headerMain li.mainLogin ul.loginLinks li a {
+    display: block;
+    padding: 0 0 0px 10px;
+}
+
+.headerMain li.mainLogin ul.loginLinks li:first-child+li {
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -59px no-repeat;
+}
+
+.headerMain li.mainLogin ul.loginLinks li:first-child+li a {
+    padding-right: 10px;
+}
+
+.pageHeader div.headerNav {
+    background-color: #0092b5;
+    display: block;
+    width: 989px;
+    height: 41px;
+    position: relative;
+    z-index: 1999;
+}
+
+.headerNav > ul > li {
+    float: left;
+    border-right: 1px solid #c7c7c7;
+    height: 41px;
+    white-space: nowrap;
+    font-family: Arial,Helvetica,sans-serif;
+    position: relative;
+}
+
+.headerNav li.navHome {
+    width: 85px;
+}
+
+.headerNav li.navZine {
+    width: 123px;
+}
+
+.headerNav li.navAnalysis {
+    width: 93px;
+}
+
+.headerNav li.navInvesting {
+    width: 168px;
+}
+
+.headerNav li.navRanks {
+    width: 154px;
+}
+
+.headerNav li.navTools {
+    width: 148px;
+}
+
+.headerNav li.navAlert {
+    width: 130px;
+    border-right: none;
+}
+
+.headerNav li.navPenta {
+    width: 108px;
+}
+
+.headerNav li.navPaid {
+    width: 103px;
+    border-right: none;
+    background-color: #393;
+}
+
+.headerNav li h2 {
+    color: #fff;
+    font-weight: 700;
+    padding: 13px 0 0 19px;
+    font-size: 1.4em;
+    text-transform: uppercase;
+}
+
+.headerNav li.navPaid h2 {
+    font-size: 1.1em;
+    text-align: center;
+    padding: 9px 0 0 11px;
+}
+
+.headerNav li.navPaid h2 span {
+    font-size: 1.3em;
+    display: block;
+}
+
+.headerNav li.navRanks ul li {
+    width: 228px;
+}
+
+.headerNav li.navPenta h2 > a {
+    text-indent: -9999em;
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) left -120px no-repeat;
+    display: block;
+    width: 60px;
+    height: 20px;
+}
+
+.headerNav li.navPaid h2 > a {
+    background: none;
+}
+
+.headerNav li h2 > a {
+    color: #fff;
+}
+
+.headerNav li > h2 > a {
+    float: left;
+    padding-right: 12px;
+    background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -103px no-repeat;
+}
+
+.headerNav li a:hover {
+    color: #fff;
+}
+
+.headerNav li h2 a {
+    cursor: pointer;
+}
+
+.headerNav li.navHome h2 a {
+    cursor: pointer;
+    background: none;
+    padding-right: 0;
+}
+
+.headerNav li ul {
+    background-color: #004a6e;
+    display: none;
+    margin: 0;
+    position: absolute;
+    top: 41px;
+    z-index: 1000000;
+    left: 0;
+}
+
+.headerNav li.navPenta ul {
+    right: 0;
+    left: auto;
+}
+
+.headerNav li:hover,.headerNav li.over {
+    background-color: #004a6e;
+}
+
+.headerNav li:hover h2,.headerNav li.over h2 {
+    cursor: default;
+}
+
+.headerNav .navHome:hover h2,.headerNav .navHome.over h2 {
+    cursor: pointer;
+}
+
+* html .headerNav li.navHome h2 {
+    cursor: pointer;
+}
+
+.headerNav li:hover ul,.headerNav li.over ul {
+    display: block;
+    transition: opacity 1s ease 0 0 1s ease 0 0 1s ease 0 0 1s ease 0;
+}
+
+.headerNav li ul li {
+    float: none;
+    position: relative;
+    height: auto;
+    margin: 0;
+    line-height: 1.2em;
+    width: 210px;
+}
+
+.headerNav.dsaPromoNav li ul li:hover {
+    background-color: transparent;
+}
+
+.headerNav li ul li a {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 700;
+    display: block;
+    height: 21px;
+    padding: 11px 0 0 20px;
+    margin: 0;
+    border-top: 1px solid #004a6e;
+    border-bottom: 1px solid #004a6e;
+    text-transform: uppercase;
+}
+
+.headerNav li ul li a:hover {
+    color: #fff;
+    background-color: #0092b5;
+    border-color: #4aafc8;
+}
+
+.headerNav li.navAlert ul li {
+    width: 136px;
+    padding-right: 0;
+}
+
+.dsaPromoNav ul li.navTools {
+    width: 116px;
+    border-right: 0 none;
+}
+
+.dsaPromoNav li.navAlert ul {
+    background-color: #e9f3d0;
+}
+
+.dsaPromoNav li.navAlert {
+    background-image: url(http://s4.wsj.net/img/barrons/dsaPromo_navButton_dark-2.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-right: 0 none;
+    border-top: 0 none;
+    height: 25px;
+    width: 137px;
+}
+
+.dsaPromoNav li.navAlert h2 a:link,.dsaPromoNav li.navAlert h2 a:visited,.dsaPromoNav li.navAlert h2 a:active {
+    color: #fff;
+    font-weight: 700;
+}
+
+.dsaPromoNav li.navAlert h2 a:hover {
+    color: #fff;
+}
+
+.dsaPromoNav li.navAlert ul li a:link,.dsaPromoNav li.navAlert ul li a:visited,.dsaPromoNav li.navAlert ul li a:active {
+    color: #213882;
+}
+
+.dsaPromoNav li.navAlert ul li a:hover {
+    background-color: #fff;
+}
+
+.dsaPromoNav li.navAlert ul li span {
+    color: red;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    position: absolute;
+    right: 24px;
+    top: 1px;
+    text-transform: uppercase;
+    font-size: .9em;
+    line-height: 1em;
+}
+
+ul.subnav {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    min-height: 16px;
+    padding: 4px 8px;
+    display: block;
+    float: none;
+    background-color: #fff;
+    background: url(http://s3.wsj.net/img/barrons/fade_3pxSolid.png) repeat-x left bottom;
+}
+
+*+html ul.subnav {
+    padding-bottom: 6px;
+}
+
+ul.subnav_hide {
+    display: none;
+}
+
+ul.subnav li {
+    padding: 0;
+    margin: 0;
+    display: 0;
+    display: inline-block;
+    background: url(http://s4.wsj.net/img/barrons/subnav_separator.gif) center left no-repeat;
+    height: 13px;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 1.1em;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+ul.subnav li.listFirst,ul.subnav li.heading {
+    background-image: none;
+}
+
+ul.subnav li.heading {
+    padding-top: 0;
+    position: relative;
+    z-index: 2;
+    margin-right: -3px;
+}
+
+ul.subnav li.heading h6 {
+    background-color: #fff;
+}
+
+.subnav li a,.subnav li a:visited,.subnav li span,.subnav li h6 {
+    display: 0;
+    display: inline-block;
+    color: #0a3e73;
+    line-height: 1.1em;
+    height: 13px;
+    padding: 1px 7px;
+    text-transform: none;
+    margin-left: 1px;
+    font-weight: 700;
+    margin: 0;
+}
+
+ul.subnav li a,ul.subnav li a:visited,ul.subnav h6 {
+    margin: 0 -3px 0 1px;
+    padding: 1px 7px;
+}
+
+* html ul.subnav li a,* html ul.subnav li a:visited {
+    margin: 0 0 0 1px;
+    padding: 1px 7px 3px;
+}
+
+*+html ul.subnav li a,*+html ul.subnav li a:visited {
+    margin: 0 0 0 1px;
+    padding: 1px 7px 2px;
+}
+
+ul.subnav li a:hover {
+    background-color: #061238;
+    color: #fff;
+}
+
+ul.subnav li.selected a,ul.subnav li.selected a:visited {
+    background-color: #e36627;
+    color: #fff;
+}
+
+.subnav li h6 {
+    color: #333;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding: 1px 0;
+}
+
+* html .subnav li.heading h6 {
+    padding-top: 0;
+    margin-top: -2px;
+    margin-right: 2px;
+}
+
+*+html .subnav li.heading h6 {
+    padding-bottom: 3px;
+}
+
+/* Asia Overrides */
+
+.headerMain li.mainLogo {
+  margin-left: none;
+}
+
+.headerMain li.mainLogo a {
+  width: 394px;
+}
+
+.headerMain li.mainLogo.asia a {
+  background-image: url(http://s2.wsj.net/img/barrons/barrons_header_asia_sprite.png);
+}
+
+.headerMain li.mainSub {
+  padding-right: 70px;
+}
+
+.headerMain li.mainSub ul li.subCustomerCenter {
+  margin-right: 0px;
+}
+
+.headerMain li.mainLogin {
+  width: 570px;
+}
+
+.headerMain .mainPromo {
+  text-align: right;
+}
+
+.headerNav.asia li > h2 > a {
+  background: none;
+}
+
+.headerNav.asia li h2 {
+  padding: 13px 0 0 30px;
+}
+
+.headerNav.asia li.navHome {
+  width: 100px;
+}
+
+.headerNav.asia li.navInvesting {
+  width: 180px;
+}
+
+.headerNav.asia li.navPentaWealth {
+  width: 230px;
+}
+
+.headerNav.asia li.navBestMinds {
+  width: 195px;
+}
+
+.headerNav.asia li.navFunds {
+  width: 145px;
+}
+
+.headerNav.asia li.navMagazine {
+  width: 134px;
+  border-right: none;
+}
+
+.headerMain li.mainPromo .adSummary {
+  width: 400px;
+}
+
+/* End Asia Overrides */
+
+/* Edition Toggle */
+
+.headerMain li.mainLogo .editionToggle {
+  position: relative;
+  top: -60px;
+  height: 0px;
+  left: 280px;
+}
+
+.headerMain li.mainLogo .editionToggle a {
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 1px 1px 1px black;
+  line-height: 25px;
+  background-image:none;
+  background-color:#339933;
+  border:1px solid #00A600;
+  height: 24px;
+  width: 138px;
+  padding: 0 7px;
+  margin-left: 5px;
+  margin-top: 4px;
+}
+
+.headerMain li.mainLogo .editionToggle a:hover {
+  color: #fff;
+  border:1px solid #004A6E;
+}
+
+.headerMain li.mainLogo .editionToggle a.inactive {
+  font-size: 14px;
+  text-align: center;
+  line-height: 25px;
+  color: #708c9d;
+  background: #004b6e;
+  height: 24px;
+  width: 138px;
+  border:1px solid #3b5f7b;
+  margin-top: 4px;
+}
+
+.headerMain li.mainLogo .editionToggle a.inactive:hover {
+  color: #fff;
+  border:1px solid #004A6E;
+}
+
+.editionToggle #asia {
+  position: absolute;
+  top: 0px;
+}
+
+.editionToggle #us {
+  position: absolute;
+  top: 30px;
+}
+
+/* End Edition Toggle */
+
+
+</style>
+
+<div class="headerMain">
+  <ul>
+    <li class="mainLogo">
+      <a href="http://www.barrons.com/"></a>
+      <div class="editionToggle">
+        <a class="inactive" id="asia" href="http://www.barrons.com/asia">Asia Edition</a>
+        <a id="us" href="http://www.barrons.com/">U.S. Edition</a>
+      </div>
+    </li>
+    <li class="mainPromo hidden">
+      <div class="adSummary" id="headerPromoContainer"></div>
+    </li>
+    
+    <!-- UNHIDE WHEN USER IS NOT LOGGED IN -->
+    <li class="mainLogin hidden">
+      <ul class="loginLinks">
+        <li><a href="http://subscribe.wsj.com/barhpheader">Subscribe</a></li>
+        <li><a href="https://id.barrons.com/access/504643805a953dda59000001/latest/login_standalone.html" rel="nofollow" data-widget="LIFP.login" class="loginClass">Log In</a></li>
+      </ul>
+    </li>
+
+    <!-- UNHIDE WHEN USER IS LOGGED IN -->
+    <li class="mainSub hidden">
+      <ul>
+        <li class="timestamp hidden"><!--Wednesday, December 16, 2008 --></li>
+        <li class="subName">Welcome, <strong><span id="userName"></span></strong></li>
+        <li class="subAccount"><a href="https://customercenter.barrons.com/view/home.html?mod=BOL_header_MyAcct">Customer Center</a></li>
+        <li class="subLogout"><a href="http://www.barrons.com/logout?mod=BOL_header_logout">Logout</a></li>
+        <li class="subCustomerCenter"><a href="#" class="custChatLink"><span>Live Help</span></a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div class="headerNav">
+  <ul id="bolNav">
+    <li class="navHome" style="width:74px"><h2 style="padding:13px 0 0 16px"><a href="http://www.barrons.com/">Home</a></h2></li>
+    <li class="navZine" style="width:113px">
+      <h2 style="padding: 13px 0 0 12px"><a href="http://www.barrons.com/this_week?mod=BOL_Nav_MAG_other">Magazine</a></h2>
+      <ul>
+        <li><a href="http://www.barrons.com/this_week?mod=BOL_Nav_MAG_other">This Week's Edition</a></li>
+        <li><a href="http://www.barrons.com/page/pastedition.html?mod=BOL_Nav_MAG_other">Past Editions</a></li>
+        <li><a href="http://www.barrons.com/articles/barrons-cartoon-corner-1458151901?mod=BOL_Nav_MAG_hpp">New: Cartoons</a></li>
+      </ul>
+    </li>
+    <li class="navAnalysis"  style="width:85px">
+      <h2 style="padding:13px 0 0 16px"><a href="http://www.barrons.com/online_exclusives?mod=BOL_Nav_DAA_other">Daily</a></h2>
+      <ul>
+        <li><a href="http://www.barrons.com/online_exclusives?mod=BOL_Nav_DAA_other">All Coverage</a></li>
+        <li><a href="http://www.barrons.com/public/page/barrons-take.html?mod=BOL_Nav_DAA_other">Barron's Take</a></li>
+        <li><a href="http://www.barrons.com/public/page/weekday-trader.html?mod=BOL_Nav_DAA_other">Weekday Trader</a></li>
+        <li><a href="http://www.barrons.com/public/page/up-and-down-wall-street-daily.html?mod=BOL_Nav_DAA_other">Up &amp; Down Wall St. Daily</a></li>
+        <li><a href="http://www.barrons.com/public/page/getting-technical.html?mod=BOL_Nav_DAA_other">Getting Technical</a></li>
+        <li><a href="http://www.barrons.com/public/page/striking-price-daily.html?mod=BOL_Nav_DAA_other">Striking Price Daily</a></li>
+        <li><a href="http://www.barrons.com/public/page/wall-streets-best-minds.html?mod=BOL_Nav_DAA_other">Wall Street's Best Minds</a></li>
+        <li><a href="http://www.barrons.com/public/page/read-this-spike-that.html?mod=BOL_Nav_DAA_other">Read This, Spike That</a></li>
+        <li><a href="http://blogs.barrons.com/stockstowatchtoday?mod=BOL_Nav_DAA_other">Stocks to Watch Today</a></li>
+        <li><a href="http://blogs.barrons.com/asiastocks/?mod=BOL_Nav_DAA_other">Asia Stocks to Watch</a></li>
+        <li><a href="http://blogs.barrons.com/incomeinvesting?mod=BOL_Nav_DAA_other">Income Investing</a></li>
+        <li><a href="http://blogs.barrons.com/techtraderdaily?mod=BOL_Nav_DAA_other">Tech Trader Daily</a></li>
+        <li><a href="http://blogs.barrons.com/focusonfunds?mod=BOL_Nav_DAA_other">Focus on Funds</a></li>
+        <li><a href="http://blogs.barrons.com/emergingmarketsdaily?mod=BOL_Nav_DAA_other">Emerging Markets</a></li>
+        <li><a href="http://www.barrons.com/public/page/q-and-a.html?mod=BOL_Nav_DAA_other">Q&amp;A</a></li>
+        <li><a href="http://www.barrons.com/video/?mod=BOL_Nav_DAA_other">Video Center</a></li>
+      </ul>
+    </li>
+    <li class="navInvesting" style="width:163px">
+      <h2 style="padding: 13px 0 0 16px"><a href="http://www.barrons.com/public/page/investing-ideas.html?mod=BOL_Nav_INV_other">Investing Ideas</a></h2>
+      <ul>
+        <li><a href="http://www.barrons.com/public/page/investing-ideas.html?mod=BOL_Nav_INV_other">Overview</a></li>
+        <li><a href="http://www.barrons.com/stockpicks?mod=BOL_Nav_INV_other">Barron's Picks &amp; Pans</a></li>
+        <li><a href="http://www.barrons.com/funds?mod=BOL_Nav_INV_other">Mutual Funds / ETFs</a></li>
+        <li><a href="http://www.barrons.com/public/page/hedge-funds.html?mod=BOL_Nav_INV_other">Hedge Funds</a></li>
+        <li><a href="http://www.barrons.com/public/page/stocks.html?mod=BOL_Nav_INV_other">Stocks Center</a></li>
+        <li><a href="http://www.barrons.com/public/page/commodities.html?mod=BOL_Nav_INV_other">Commodities Center</a></li>
+        <li><a href="http://www.barrons.com/public/page/bonds.html?mod=BOL_Nav_INV_other">Bonds Center</a></li>
+        <li><a href="http://www.barrons.com/public/page/options.html?mod=BOL_Nav_INV_other">Options Center</a></li>
+        <li><a href="http://www.barrons.com/public/page/barrons-take.html?mod=BOL_Nav_INV_other">Barron's Take</a></li>
+        <li><a href="http://www.barrons.com/public/page/weekday-trader.html?mod=BOL_Nav_INV_other">Weekday Trader</a></li>
+        <li><a href="http://www.barrons.com/public/page/stock-alert.html?mod=BOL_Nav_INV_other">Stock Alert</a></li>
+        <li><a href="http://www.barrons.com/public/page/inside-scoop.html?mod=BOL_Nav_INV_other">Inside Scoop</a></li>
+        <li><a href="http://www.barrons.com/public/page/ahead-of-the-crowd.html?mod=BOL_Nav_INV_other">Ahead of the Crowd</a></li>
+        <li><a href="http://blogs.barrons.com/focusonfunds?mod=BOL_Nav_INV_other">Focus on Funds</a></li>
+        <li><a href="http://blogs.barrons.com/stockstowatchtoday?mod=BOL_Nav_INV_other">Stocks to Watch Today</a></li>
+        <li><a href="http://www.barrons.com/roundtable?mod=BOL_Nav_INV_other">Barron's Roundtable</a></li>
+      </ul>
+    </li>
+    <li class="navHome" style="width:155px">
+      <h2 style="padding: 13px 0 0 11px"><a href="http://www.barrons.com/advisorcenter?mod=BOL_Nav_TAD_other">Advisor Center</a></h2>
+    </li>
+    <li class="navTools"  style="width:143px">
+      <h2><a href="http://www.barrons.com/data?mod=BOL_Nav_MAR_other">Market Data</a></h2>
+      <ul>
+        <li><a href="http://www.barrons.com/data?mod=BOL_Nav_MAR_other">Market Data Center</a></li>
+        <li><a href="http://www.barrons.com/mktlab?mod=BOL_Nav_MAR_other">Market Lab</a></li>
+        <li><a href="http://www.barrons.com/mdc/public/page/9_3063-economicCalendar.html?mod=BOL_Nav_MAR_other">Economic Calendar</a></li>
+        <li><a href="http://www.barrons.com/watchlist?mod=BOL_Nav_MAR_other">Watchlist</a></li>
+        <li><a href="http://www.barrons.com/public/page/stock_grader_public.html?mod=BOL_Nav_MAR_other">Stock Grader</a></li>
+        <li><a href="http://www.barrons.com/listings-stock-funds?mod=BOL_Nav_MAR_other">Stock &amp; Fund Tables</a></li>
+        <li><a href="http://www.barrons.com/public/page/barrons_400.html">Barron's 400</a></li>
+      </ul>
+    </li>
+    <li class="navPenta" style="width:93px">
+      <h2><a style="height:16px;width:auto; background: url(http://s2.wsj.net/img/barrons/barrons_header_sprite.png) right -103px no-repeat;; text-indent: 0" href="http://www.barrons.com/public/page/penta.html?mod=BOL_Nav_PEN_other">PENTA</a></h2>
+      <ul>
+        <li><a href="http://www.barrons.com/public/page/penta.html?mod=BOL_Nav_PEN_other">Penta Magazine</a></li>
+        <li><a href="http://blogs.barrons.com/penta?mod=BOL_Nav_PEN_other">Penta Daily</a></li>
+        <li><a href="http://www.barrons.com/public/page/penta-pastedition-2016.html?mod=BOL_Nav_PEN_other">Penta Archives</a></li>
+      </ul>
+    </li>
+    <li class="navHome" style="width: 155px">
+      <h2><a href="http://www.barrons.com/next">Barron's Next</a></h2>
+    </li>
+  </ul>
+</div>
+</div>
+<!-- fastdynapage - sbkj2kapachep01 - Tue 10/18/16 - 14:53:39 EDT -->
+<div id="ad_64447" class="adSummary wideAd" > </div></div>
+<div class="col10wide margin-left-big">
+	    <div class="blogheaderbar   barronsheader stockstowatchtodayBlog">   
+        <div class="col6wide">
+                    <h5 class="blogtitle">
+                        <a href="http://blogs.barrons.com/stockstowatchtoday/">Stocks to Watch</a>
+                    </h5>
+                    <small>News and commentary about the stocks you need to know about today</small>
+            </div>
+            <div class="col4wide margin-left">
+                        <div class="searchform">
+                <form action="http://blogs.barrons.com/stockstowatchtoday/index.php" method="get" id="blgSearchFrm">
+                    <label for="s">Search Stocks to Watch2</label>
+                    <input type="text" id="blog_search_query" class="formtext unUsed" name="s" value="Search Stocks to Watch" size="30"/>
+                                    <input type="submit" value="SEARCH" class="searchsubmit"/>
+                            </form>
+            </div>
+        </div>
+        </div>
+</div>
+<div class="reallywide">
+      	<div class="mastertextCenter">
+		<div class="padding-left-big">
+             		<div class="col6wide colOverflowTruncated">
+             		       <div class="articleHeadlineBox headlineType-newswire">
+        <ul class="cMetadata metadataType-articleStamp">
+                    <li class="dateStamp first"><small>January 17, 2017, 1:49 P.M. ET</small></li>
+        </ul>                
+        <h1>Goldcorp Picked a Great Day to Release Its Production Update</h1>
+       </div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://s.wsj.net/blogs/js/sharrre.js"></script>
+<script type='text/javascript' src='https://b.st-hatena.com/js/bookmark_button.js' async='async'></script>
+
+
+<div class='wrapper'>
+<div class='tools1'>
+
+<a class='email' href='mailto:?subject=Goldcorp Picked a Great Day to Release Its Production Update&body=Here is something that might interest you:
+Goldcorp Picked a Great Day to Release Its Production Update
+http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/'><img width='54px' height='25px' src='http://s.wsj.net/blogs/img/email_icon.png'></img></a>
+ <a href='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/tab/print'><img src='http://s.wsj.net/blogs/img/print_icon.png'></img></a>
+ </div><div id='social_tools'>
+          <div id='facebook' data-url='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/'></div>
+          <div id='twitter' data-counturl='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/' data-url='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/'  data-text='Goldcorp Picked a Great Day to Release Its Production Update'></div>
+          <div id='googleplus' data-counturl='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/' data-url='http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/' data-text='Goldcorp Picked a Great Day to Release Its Production Update'></div></div>
+    </div><style>
+
+.social_count{
+  
+  letter-spacing: 1px;
+  display:none;
+  color: white ; 
+  font-size : 60%;
+  font:  Arial, sans-serif;
+  padding-bottom: 12px;
+  position: relative;
+  top: -5px; 
+  display: none;
+  
+}
+
+.icon{
+  width: 20px;
+  height: 18px;
+  padding-top: 1.5px;
+  
+}
+
+.fb{
+
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ; 
+  background-color: #01669C ;
+
+}
+
+.tw{
+  
+  left: 500px;
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ;
+  background-color:#00ACED;
+  
+}
+.gp{
+  
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ;
+  background-color: #D14836; 
+}
+.li{
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ; 
+  background-color: #01669C ;
+  
+}
+
+.mixi{
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ; 
+  background-color: #FF9900 ;
+  margin-left: 3px
+}
+
+.hatena {
+
+  display:inline-block;
+  width: 33px ; 
+  height: 22px ; 
+  background-color: #01669C ;
+
+}
+
+  #social_tools{
+  
+  margin-left: 20px ; 
+  display :inline-block;
+      
+ }
+     
+ .tools1 {
+      
+  width: 140px;
+  height: 28px;
+  display: inline-block;
+  border-right: 1px #d5d4cf solid ;
+  float : left;
+     }
+
+
+.tools1 img {display:inline}
+
+
+
+   
+ .wrapper{
+   
+    margin-bottom: 20px;
+    margin-left: 10px;
+   }
+
+  .sharrre {
+
+    display : inline-block;
+
+}
+
+
+   </style>
+
+    <div class="article story">
+            <div class="articlePage">
+                <!-- article start --><h3 class="byline">By Ben Levisohn</h3><p>Shares of <strong>Goldcorp</strong> (<a href="http://quotes.barrons.com/GG" target="_blank">GG</a>) are flying today after the gold miner <a href="http://www.prnewswire.com/news-releases/goldcorp-to-host-2017-investor-day-2016-production-and-cost-guidance-achieved-610866925.html" target="_blank">released its production update</a>. But is it the news or the market that&#8217;s sending its shares soaring today?</p>
+<div class="mceTemp " style="text-align: left">
+<dl class="wp-caption alignright caption-alignright " style="width: 262px">
+<dt class="wp-caption-dt"><img class="size-full wp-image-5" src="http://si.wsj.net/public/resources/images/ON-BY593_gold_D_20170103142457.jpg" alt="" width="262" height="174" /></dt>
+<dd class="wp-caption-dd wp-cite-dd" style="text-align: right">Pixabay</dd>
+</dl>
+</div>
+<p><strong>National Bank Financial Markets</strong> analyst <strong>Steve Parsons</strong> offers his take on Goldcorp&#8217;s production guidance:</p>
+<blockquote><p>As expected, Goldcorp revised its near-term production outlook to 2.5 mln oz/yr for 2017-18 (was 2.6-2.9 mln, ex Los Filos). Yet unexpected and positive was a production step higher to 2.7 mln oz in 2019 and 3.0 mln oz in 2020 (NBF est. 2.5k oz). The upward trend does not include Cochenour, HG Young, Century or NuevaUnión. G management see these other projects helping sustain the 3 mln oz/yr run-rate. Total cash costs and AISC trend lower over the five-year guidance period, and are substantially in line with NBF estimates, as cost optimization programs reach fruition. Capex spend is higher, however, at US$4.8 bln (NBF est. US$4.2 bln) in aggregate over five years. Given the updated plans to grow production to 3 mln oz/year from 2.5 mln oz/year, a revamped budget process, and likely colour on progress in respect to the US$250 mln/yr in efficiency gains, we see scope for the Investor Day to impart added confidence in the outlook and with that a renewed interested in Goldcorp shares. Thus, we take the view that Goldcorp’s updated guidance brings to bear a positive bias. This is our first blush and we look to the Investor Day on January 17 for further details.</p></blockquote>
+<p>But is it the guidance that has sent Goldcorp&#8217;s shares soaring? Unlikely. While its shares are up 3.7% at $15.14 at 1:44 p.m., the <strong>SPDR Gold Trust</strong> (<a href="http://quotes.barrons.com/GLD" target="_blank">GLD</a>) has risen 1.3% to $115.68. That&#8217;s helped the <strong>VanEck Vectors Gold Miners ETF</strong> (<a href="http://quotes.barrons.com/GDX" target="_blank">GDX</a>) jumped 3% to $23.43, with <strong>Barrick Gold</strong> (<a href="http://quotes.barrons.com/ABX" target="_blank">ABX</a>) having gained 2.5% to $17.29, and <strong>Newmont Mining</strong> (<a href="http://quotes.barrons.com/NEM" target="_blank">NEM</a>) having climbed 2.6% to $35.42.</p>
+<p>Just as some days it&#8217;s bad to be a bank, <a href="http://blogs.barrons.com/emergingmarketsdaily/2017/01/17/10-gold-themes-7-stock-picks-for-2017" target="_blank">sometimes there&#8217;s gold in being a gold miner</a>.</p>
+      <!-- article end -->
+            </div>
+          </div>
+    <ul class="blognav blogpostnav">
+        <li class="blognav_prev">
+            <a href="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/jpmorgan-some-days-its-just-bad-to-be-a-bank/" rel="prev"><strong>&laquo; Previous</strong> <br /> JPMorgan: Some Days, It&#8217;s Just Bad to Be a Bank</a>        </li>
+        <li class="blognav_next">
+            <a href="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/cbs-about-that-sony-entertainment-speculation/" rel="next"><strong>Next &raquo;</strong><br/> CBS: About That Sony Entertainment Speculation&#8230;</a>        </li>
+    </ul>
+
+<div class="bottomRow"><div class="more"><a href="http://blogs.barrons.com/stockstowatchtoday/">Stocks to Watch HOME PAGE</a></div></div><script>
+document.write('<iframe width="100%" height="300" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO src="//www.dianomi.com/smart_Barrons.epl?id=2647&url=\'escape(document.location.href)\'"></iframe>')
+</script><div class="adSummary msnlinks">
+                    <script id="mNCC" type="text/javascript">
+                        <!--
+                        medianet_width = "591";
+                        medianet_height = "250";
+                        medianet_crid = "858628938";
+                        medianet_versionId = "111299";
+                        document.write('<script type="text/javascript" id="mNSC" src="http://contextual.media.net/nmedianet.js?cid=8CU6CD37D"></'+'script>');
+                        //-->
+                    </script>
+                  </div><a name="commentform"></a><div class="commentform">  <h4>Add a Comment</h4>  <div class="alertMessage" style="display:none;" id="alertdiv" >    <p id="alertp">Error message</p>  </div>  <form method="post" action="http://blogs.barrons.com/stockstowatchtoday/wp-comments-post.php" id="comment_form">    <input type=hidden name="comment_post_ID" value="46252" />    <input type=hidden name="redirect_to" rel="nofollow" value="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/" />    <fieldset>      <div class="formBlock">        <div class="col3wide">          <label for="author">Name</label>          <input type="text" name="author" class="formtext" id="comment_name" maxlength=100 />        </div>        <span class="formnote">We welcome thoughtful comments from readers. Please comply with our <a href="http://online.barrons.com/public/page/9_1008.html">guidelines</a>. Our blogs do not require the use of your real name.</span>      </div>      <div class="formBlock">        <label for="comment">Comment</label>        <textarea name="comment" id="comment_text"></textarea>      </div>      <div class="formBlock blockType-buttons">        <input type="reset" class="formbtn" value="CLEAR" />        <input type="submit" class="formbtn" value="POST" />      </div>    </fieldset>  </form></div><div class="postcomments"><div class="messageBox boxType-noactivity"><p>Be the first to leave a comment on this blog.</p></div></div>             		</div>
+             		<div class="col4wide margin-left colOverFlowTruncated">
+             			<div id="rightRail" class="rightRail">
+                    			<div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/stockstowatchtoday">Most Recent Posts</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2017/01/18/decision-time-stocks-end-mixed-as-inauguration-looms/?mod=BOLBlog">Decision Time? Stocks End Mixed as Inauguration Looms</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2017/01/18/the-hot-stock-fastenal-jumps-5-8/?mod=BOLBlog">The Hot Stock: Fastenal Jumps 5.8%</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/stockstowatchtoday/2017/01/18/the-biggest-loser-mallinckrodt-slumps-5-8/?mod=BOLBlog">The Biggest Loser: Mallinckrodt Slumps 5.8%</a></h2>        </li><li class="more"><h2><a href="http://blogs.barrons.com/stockstowatchtoday/?recent=1">More Posts</a></h2></li>    </ul></div><div id="ad_61812" class="adSummary advertisement " data-cb-ad-id="TopRectangle" > </div>
+<!-- fastdynapage - secj2kentwap08 - Tue 01/17/17 - 00:31:19 EST -->
+
+	<div class="headlineSummary about">  
+	<div class="headerBox">    
+		<h3>About Stocks To Watch</h3>
+
+		<ul class="tools">      
+			<li class="listLbl"></li><li class="rssIcon"><a href="http://blogs.barrons.com/stockstowatchtoday/feed/"><span>RSS</span></a></li></ul>
+
+	</div>
+	<ul class="newsItem">    
+		<li>
+			<div class="newsImage"></div><p>Earnings reports, corporate strategies and analyst insights are all part of what moves stocks, and they&#8217;re all covered by the Stocks to Watch blog. We also look at macro issues, investor sentiments and hidden trends that are affecting the market. Stocks to Watch gives you the full picture of the U.S. stock markets, all day long.</p>
+<p>The blog is written by Ben Levisohn, a former stock trader who has covered financial markets for the Wall Street Journal, Bloomberg and BusinessWeek.</p>
+<p>Write to Ben at <a href="mailto:ben.levisohn@barrons.com">Ben.Levisohn@barrons.com</a></p>
+<p><a class="twitter-follow-button" href="https://twitter.com/ben_levisohn">Follow @ben_levisohn</a></p>
+<p><script type="text/javascript">// </script></p>
+
+		</li>
+	</ul>
+</div><div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/techtraderdaily">Barron's Tech Trader Daily</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2017/01/18/lam-amd-applied-tops-in-redstones-upbeat-chip-outlook/?mod=BOLBlog">Lam, AMD, Applied Tops in Redstone&#8217;s Upbeat Chip Outlook</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2017/01/18/oclaro-surges-8-raises-fyq2-outlook-on-100g-outlook/?mod=BOLBlog">Oclaro Surges 8%: Raises FYQ2 Outlook on 100G Strength</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/techtraderdaily/2017/01/18/netflix-surges-8-on-1-93m-domestic-net-adds/?mod=BOLBlog">Netflix Surges 8%: Adds 7M Members, Highest Ever</a></h2>        </li>    </ul></div><div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/focusonfunds">Focus on Funds</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/focusonfunds/2017/01/18/tcws-old-cef-a-better-deal-than-its-new-etf/?mod=BOLBlog">TCW&#8217;s Old CEF a Better Deal than its New ETF?</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/focusonfunds/2017/01/18/will-active-managers-make-a-comeback-in-2017/?mod=BOLBlog">Will Active Managers Make A Comeback In 2017?</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/focusonfunds/2017/01/18/hedge-funds-trump-spurs-extreme-positioning/?mod=BOLBlog">Hedge Funds: Trump Spurs Extreme Positioning</a></h2>        </li>    </ul></div><div class="headlineSummary relatedCollection">    <h3><a href="http://blogs.barrons.com/incomeinvesting">Income Investing</a></h3>    <ul class="newsItem">        <li class="listFirst " >            <h2><a href="http://blogs.barrons.com/incomeinvesting/2017/01/18/yellen-expects-a-few-rate-hikes-a-year-through-2019/?mod=BOLBlog">Yellen Expects &#8216;A Few&#8217; Rate Hikes a Year Through 2019</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/incomeinvesting/2017/01/18/china-sold-stunning-66b-in-u-s-treasuries-in-november/?mod=BOLBlog">China Sold &#8216;Stunning&#8217; $66B in U.S. Treasuries in November</a></h2>        </li>        <li class="" >            <h2><a href="http://blogs.barrons.com/incomeinvesting/2017/01/18/feds-beige-book-highlights-tight-labor-markets-pricing-pressures/?mod=BOLBlog">Fed&#8217;s Beige Book Highlights Tight Labor Markets, Pricing Pressures</a></h2>        </li>    </ul></div><div id="ad_35082" class="adSummary advertisement" data-cb-ad-id="BottomRectangle" > </div><style type="text/css">.sticky-ad { position: fixed; top: 0; width: 377px; }</style>             			</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--
+WSJ: 0.4.25M
+ 
+-->
+        <div class="reallywide clear-left"><div id="footer" class="pageFooter">        <div id="slice" class="hslice">
+
+                <div class="entry-title" style="display:none">Barrons.com: Headlines</div>
+
+                <a rel="entry-content" href="http://ie8.smoothfusion.com/Barrons/view.aspx" style="display: none;">Link to Barron's Slice.</a>
+
+                <a rel="bookmark" target="_blank" href="http://www.barrons.com" style="display: none;"></a>
+
+                <span class="ttl" style="display: none;">15</span>
+
+        </div>
+
+<!-- START: barrons_footer.html -->
+<div class="newFooterWrap"> 
+  <div class="newFooter">
+    <!--TOP BAR LINKS-->
+    <ul class="topLinks clearFix">
+      <li class="barronsLogo"><a href="http://www.barrons.com">Barron's</a></li>
+      <li class="socialLogo"><a class="facebook" href="http://www.facebook.com/barronsonline" title="Facebook">Facebook</a></li>
+      <li class="socialLogo"><a class="twitter" href="http://twitter.com/barronsonline" title="Twitter">Twitter</a></li>
+      <li class="socialLogo"><a class="gplus" rel="publisher" href="http://plus.google.com/u/0/b/109265374226274843318/109265374226274843318/posts" title="Google+" style="background-position: -96px 0px;">Googgle+</a></li>
+      <li class="socialLogo"><a class="linkedin" rel="publisher" href="http://www.linkedin.com/company/barron%27s" title="LinkedIn" style="background-position: -72px 0px;">LinkedIn</a></li>
+      <li class="socialLogo"><a class="youtube" rel="publisher" href="http://www.youtube.com/playlist?list=PLqQNt9DP_BNCy3ugmQulFTM0Lz3qxxVr1" title="YouTube" style="background-position: -120px 0px;">YouTube</a></li>
+      <li class="socialLogo"><a class="rssfeed" href="http://www.barrons.com/public/page/rssfeed.html" title="RSS">RSS Feed</a></li>
+      <li class="socialLogo"><a class="appstore" href="https://itunes.apple.com/us/app/barrons/id409882593?mt=8" title="AppStore">AppStore</a></li>
+      <li class="socialLogo"><a class="googleplay" href="https://play.google.com/store/apps/details?id=com.barrons.us" title="GooglePlay" style="width:67px;background-size:67px 22px;background-position:0 0;background-repeat:no-repeat;background-image:url('//s.wsj.net/img/barrons/google_play_footer.png');">Google Play</a></li>
+      <li class="backToTop"><a href="#top">Return to Top<span class="rotate">&laquo;</span></a></li>
+    </ul>
+    
+    <!--MIDDLE COLUMN LINKS-->
+    <ul class="contentLinks clearFix">
+      <li class="linksCol">
+        <h4>Customer Service</h4>
+        <ul>
+          <li><a href="https://customercenter.barrons.com/">Customer Center</a></li>
+          <li><a href="http://www.barrons.com/contact">Contact Us</a></li>
+          <li><a href="#" class="custChatLink">Live Help</a></li>
+       </ul>
+      </li>
+      <li class="linksCol">
+        <h4>Create an Account</h4>
+        <ul>
+          <li><a href="https://subscribe.wsj.com/barhpfooter">Subscribe to Barron's</a></li>
+          <li><a href="https://buy.barrons.com/shopandbuy/order/subscribe.jsp?trackCode=aap6y434">Magazine Subscribers:<br/>Activate Your Digital Access</a></li>
+        </ul>
+      </li>
+      <li class="linksCol">
+        <h4>About Barrons.com</h4>
+        <ul>
+          <li><div id="AD_FTR"></div></li>
+          <li><a href="http://www.barronsmag.com/advertise.html">Advertising</a></li>
+          <li><a href="http://www.barrons.com/public/page/editorial-staff.html">Masthead</a></li>
+          <li><a href="http://www.dowjones.com/privacy-policy/" target="_new">Privacy Policy</a></li>
+          <li><a rel="nofollow" href="http://new.dowjones.com/about/cookies-policy/" target="_new">Cookie Policy</a></li>
+          <li><a rel="nofollow" href="http://www.barrons.com/public/page/data_policy.html?mod=bar_footer">Data Policy</a></li>
+          <li><a href="http://www.barrons.com/public/page/copyright_policy.html">Copyright Policy</a></li>
+          <li><a href="http://www.barrons.com/public/page/subscriber-agreement.html">Subscriber Agreement<br />&amp; Terms of Use</a></li>
+          <li><a href="http://www.barrons.com/public/page/cookie_policy.html?mod=bar_footer#cookies_advertising">Your Ad Choices</a></li>
+          <li><a href="http://www.barrons.com/public/page/community-guidelines.html">Community Rules</a></li>        </ul>
+      </li>
+      <li class="linksCol">
+        <h4>Also From Barron's</h4>
+        <ul>
+          <li><a href="http://barronsmag.com/conferences/">Conferences</a></li>
+          <li><a href="http://www.djreprints.com/">Reprints</a></li>
+          <li><a href="http://www.barrons.com/public/page/classified_ads.html">Classifieds</a></li>
+          <li><a href="http://www.barronsmag.com/college.html">College Program</a></li>
+          <li><a href="http://www.barrons.com/public/page/brokercenter.html?reflink=djm_bolbrokercenter_footerlink">Find a Broker</a></li>
+          <li><a href="http://jp.wsj.com/public/page/japan-barrons.html">Barron's in Japanese</a></li>  
+        </ul>
+      </li>
+      <li class="linksCol">
+        <h4>Tools &amp; Services</h4>
+        <ul>
+          <li><a rel="nofollow" href="http://m.barrons.com" id="forceMobile">Mobile Site</a></li>
+          <li><a href="http://www.barrons.com/email">Email Newsletters</a></li>
+          <li><a href="http://www.barrons.com/public/page/ipad.html">Barron's on iPad/iPhone</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.barrons.us">Barron's on Android</a></li>
+          <li><a href="http://www.barrons.com/watchlist">Watchlist</a></li> <li><a href="https://portfolio.barrons.com">Portfolio</a></li><!-- <span class="lcHighlight">New</span> -->
+          <li><a href="http://www.barrons.com/video">Video</a></li>
+          <li><a href="http://www.barrons.com/public/page/stock_grader_public.html">StockGrader</a></li>
+        <li><a href="http://www.barrons.com/public/page/barrons_400.html">Barron's 400</a></li>         
+          <li><a href="http://www.barrons.com/mdc/public/page/9_3063-economicCalendar.html">Economic Calendar</a></li>
+          <li><a href="http://www.barrons.com/listings-stock-funds">Stock &amp; Mutual Fund Listings</a></li>
+          <li><a href="http://www.barrons.com/listings-commodities-options-annuities">Commodities, Options<br/>&amp; Annuities Listings</a></li>
+        </ul>
+      </li>
+    </ul>
+    
+    <!--FOOTNOTE LINKS-->
+    <ul class="footnoteLinks clearFix">
+      <li class="acap"><a href="http://the-acap.org/acap-enabled.php">ACAP Enabled</a></li>
+      <li class="copyright">Copyright &copy;2015 <a href="/">Dow Jones &amp; Company</a>, Inc. All Rights Reserved.</li>
+    </ul>
+  </div>
+<div id="cX-root" style="display:none"><!--PLEASE DO NOT REMOVE--></div>
+<div id='SI_73f3k49S18cgGAR'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div> 
+<!-- END: barrons_footer.html -->
+</div>
+<!-- fastdynapage - sbkj2kapachep02 - Thu 02/11/16 - 16:11:05 EST -->
+</div>
+    </div>
+    <div id="fb-root"></div>
+	<div id="emailThisScrim" class="scrimBol_overlay hidden">
+	<div class="scrimBol_wrapper">
+		<div class="scrimBol_inner">
+			<div class="scrim_email_this scrimBol_module loginModule">
+			  	<div class="headerStrap">
+		            <a href="#" class="closeBtn emailScrimCloseBtn">close</a>
+		        </div>
+			    <h3>Email This</h3>
+			    <div class="scrim-sponsor-bug">
+		        	<!--<iframe src="iframe.html" width="140" height="31" frameborder="0" scrolling="no"></iframe>-->
+			    </div>
+				<form id="emailForm" name="emailForm">
+					<fieldset>
+						<div class="login_row">
+							<span id="emailThisAddressToError" class="emailError hidden"></span>
+							<label class="login_id">
+								Recipient's Email Address <span class="smallNote">(Separate multiple address with commas)</span>
+							</label>
+							<input name="email" id="emailThisAddressTo" value="" type="text" class="login_id" tabindex="1">
+						</div>
+						<div class="login_row">
+							<span id="emailThisAddressFromError" class="emailError hidden"></span>
+							<label class="login_pw">
+								Your Email Address
+							</label>
+							<input value="" name="email" id="emailThisAddressFrom" class="login_pw" type="text" tabindex="2">
+						</div>
+						<div class="login_row">
+							<label class="login_pw">
+								Message <span>(Optional)</span>
+							</label>
+							<textarea id="emailThisMsg" class="message" maxlength="500" tabindex="3" ></textarea>
+						</div>
+						<div class="login_row">
+							<input id="ccMeChkBox" type="checkbox" checked="checked" class="login_checkbox selected" tabindex="4">
+							<label class="login_checkbox">
+								Send me a copy
+							</label>
+						</div>
+						<span id="recaptchaError" class="emailError hidden"></span>
+						<div id="recaptcha_div" class="captcha_row">						
+
+						</div>
+						<div class="login_row">
+							<input type="submit" class="login_submit emailScrimSubmit" value="Send" tabindex="5" id="emailScrimSubmit" tabindex="4">
+							<div class="cancelLink">or <a href="#" class="emailScrimCloseBtn" tabindex="5">Cancel</a></div>
+						</div>
+					</fieldset>
+				</form>
+			</div>
+
+
+		</div>
+	</div>
+</div>
+<div class="scrim-sponsor-wrapper hidden">
+	<div class="scrim-sponsor-hr"></div>
+	<div class="scrim-sponsor-med-rec hidden">
+			</div>
+	<div class="scrim-sponsor-lrg-rec">
+	</div>
+</div>
+<div id="emailConfScrim" class="scrimBol_overlay hidden">
+	<div class="scrimBol_wrapper">
+		<div class="scrimBol_inner">
+			<div id="emailConfScrim" class="scrim_thank_you scrimBol_module loginModule">
+				<div class="headerStrap">
+					<a id="emailConfScrimCloseBtn" href="#" class="closeBtn iframeOverlayCloseBtn">close</a>
+				</div>
+				<h3>Thank You</h3>
+				<p>Your email has been sent.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="emailErrorScrim" class="scrimBol_overlay hidden">
+	<div class="scrimBol_wrapper">
+		<div class="scrimBol_inner">
+			<div class="scrim_thank_you scrimBol_module loginModule scrim_error">
+				<div class="headerStrap">
+					<a id="emailErrorScrimCloseBtn" href="#" class="closeBtn iframeOverlayCloseBtn">close</a>
+				</div>
+				<h3>Error.</h3>
+				<p>An error has occured and your email has not been sent. <br />
+				Please <a id="reopenEmailScrimFromError" href="#">try again</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="hidden">
+	<div id="invalidEmailAddress" class="hidden">&bull; Invalid email address.</div>
+	<div id="tooManyEmailAddresses" class="hidden">&bull; You can't enter more than 20 emails.</div>
+	<div id="invalidDelimiter" class="hidden">&bull; Seperate multiple addresses with Commas.</div>
+	<div id="blankEmailAddress" class="hidden">&bull; Must enter an email address.</div>
+	<div id="emptyRecaptchaCd" class="hidden">&bull; You must enter the verification code below to send.</div>
+	<div id="invalidRecaptchaCd" class="hidden">&bull; Invalid entry: Please type the verification code again.</div>
+</div>
+
+<!-- fastdynapage - secj2kentwap09 - Wed 01/18/17 - 10:06:12 EST -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d20006d06b","applicationID":"6613515","transactionName":"ZQQDMREHWRcFBREPWFxOIAYXD1gKSxUMCFBeBA==","queueTime":0,"applicationTime":102,"ttGuid":"","agentToken":"","atts":"SUMAR1kdShk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<!-- Old file - <script type="text/javascript" src="http://barrons.wsj.net/djscript/require/bolGlobal,bolGlobalHat,accountscrim_loader,emailThis_js,acHeaderSearch/version/20130221184543.js"></script>
+-->
+<script type="text/javascript" src="http://s.wsj.net/blogs/djscript_bolGlobal.bolGlobalHat.accountscrim_loader.emailThis_js.acHeaderSearch.js"></script>
+<script type="text/javascript" src="http://blogs.wsj.com/static_js/djscript_vltArticleTools.js"></script>
+
+<script type="text/javascript" src="http://id.barrons.com/access/504643805a953dda59000001/latest/assets/lifp_prod.js"></script>
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/wsj_blogs_omniture.js"></script>
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/wsj_blogs.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!--[if IE 6]> 
+<script type="text/javascript" src="http://s.wsj.net/blogs/js/ie6Hoverfix.js"></script> 
+<![endif]-->
+<script type="text/javascript" src="http://online.barrons.com/barrons-media/newBarronsAutocompleteJSEXEC.js"></script>
+
+<script type="text/javascript">
+var d = new Image(1, 1);
+d.onerror = d.onload = function (){ d.onerror = d.onload = null; };
+d.src = [ "http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-403743h&cg=0&cc=1&si=", 
+          escape(window.location.href), 
+          "&rp=", 
+          escape(document.referrer), 
+          "&ts=compact&rnd=", 
+          (new Date()).getTime() ].join('');
+
+dj.module.header.autocomplete.searchExec();
+</script>
+
+<script type="text/javascript">
+
+var current_path = document.location.pathname;
+
+if (typeof current_path == "undefined") {
+    var current_path = "/";
+}
+
+var wsj_section = document.location.toString().split( "/", 4 )[3];
+
+var _sf_async_config={uid:8900,domain:"online.barrons.com",path:current_path, sections:wsj_section};
+
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<script src="http://mw1.wsj.net/MW5/content/analytics/hooks.js" type="text/javascript"></script>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <span id="parsely-cfg" data-parsely-site="barrons.com"></span>
+</div>
+<script>
+    (function(s, p, d) {
+      var h=d.location.protocol, i=p+"-"+s,
+          e=d.getElementById(i), r=d.getElementById(p+"-root"),
+          u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+          :"static."+p+".com";
+      if (e) return;
+      e = d.createElement(s); e.id = i; e.async = true;
+      e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+    })("script", "parsely", document);
+</script>
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/wsjdn/blogs-nonresponsive/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+<!-- END Parse.ly Include: Standard -->
+
+<script language="javascript1.2">clickURL="http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/?blog_id=53&post_id=46252";clickTitle="Goldcorp Picked a Great Day to Release Its Production Update";</script><script language="javascript1.2" src="http://btn.clickability.com/156116/button_1/button.js"></script><script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Goldcorp Picked a Great Day to Release Its Production Update",
+        "url": "http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/",
+        "thumbnailUrl": "//si.wsj.net/public/resources/images/ON-BY593_gold_D_20170103142457.jpg",
+        "dateCreated": "2017-01-17T13:49:41-05:00",
+        "articleSection": "Blog",
+        "creator": ["Ben Levisohn"],
+        "keywords": ["Stocks to Watch",""]
+      }
+</script> 
+<script type="text/javascript">
+    new dj.blogs.FacebookConnect( "" );
+
+    var tracking = new dj.blogs.Tracking(); 
+        tracking.site     = 'BOL';
+        tracking.channel  = 'Barrons Online';
+        tracking.showGeography = false;
+        tracking.blogName    = 'Stockstowatchblog';
+        tracking.title       = 'Goldcorp Picked a Great Day to Release Its Production Update';
+        tracking.section     = 'Blog';
+        tracking.subsection  = 'Stockstowatchtodayblog';
+        tracking.ad_zone     = 'blog_stockstowatchtoday';
+        tracking.publishTime = '2017-01-17 13:49';
+        tracking.pageType    = 'post';
+        tracking.articlePrivilege = '';
+        tracking.articlePrivilegeOrLoggedIn = '';
+        tracking.isSubscriberBlog    = 'free';
+        tracking.articleAuthor = 'Ben Levisohn';
+        tracking.articleID = '46252';
+        tracking.blogLanguage = 'english';		
+
+        tracking.firePixel();
+
+dj.blogs.AdManager.createAd(
+                                    'banner',
+                                    'ad_64447',
+                                    'iframe',
+                                    { width: 728,
+                                      height: 90,
+                                      size:'728x90',
+                                      site:'barrons.com',
+                                      zone:'blog_stockstowatchtoday',
+                                      adClass:'A',
+                                      title: 64447,
+                                      meta:'',
+                                      category:'',
+                                      frequency:'',
+                                      cacheId:'',
+                                      classEnabled:'true',
+                                      classValue:'adSummary ad_728',
+                                      styleValue:'',
+                                      conditionType:'',
+                                      conditionValue:'',
+                                      conditionalString:''});
+
+var short_url  = "http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/" ; 
+var url  = "http://blogs.barrons.com/stockstowatchtoday/2017/01/17/goldcorp-picked-a-great-day-to-release-its-production-update/" ; 
+var twitter_handle = "barronsonline" ; 
+/*
+$( ".email" ).click(function() {
+var topemailButton = new dj.widget.vlttools.Button('att.at.emailthis', function(){
+        var topEmail = new dj.widget.email.EmailThis('att.at.emailthis', {mod:"wsj_valettop_email"});
+        topEmail.init();
+      }, false);
+      topemailButton.init();
+
+    topemailButton.clickHandler()
+      
+});
+*/
+
+function count_display (social,count) {
+    
+    if(  count !== 0 && count <= 99 ){
+         $('.' + social).children()[1].style.display = 'inline-block' ; 
+       
+       }else if(count > 99 && count <= 999 ) {
+           $('.' + social).children()[1].style.display = 'inline-block' ; 
+           $('.' + social).css("width","37px");
+        }       
+      
+        else if(count > 999 ) {
+           $('.' + social).children()[1].style.display = 'inline-block' ; 
+           $('.' + social).css("width","43px");
+        }
+
+     }
+
+
+$( ".mixi" ).click(function() {
+   
+   mixi_url = 'http://mixi.jp/share.pl?u='+url+'&k=cb06210f9fbb7d10ad9d37664e4973a84ccf524f';
+   window.open(mixi_url,' share ', [ 'width = 632', 'height = 456','location = yes','resizable = yes','toolbar = no', 'menubar = no', 'scrollbars = no', 'status = no']. join (','));
+
+});
+
+
+
+
+var twitt = $('#twitter') ; 
+
+
+//mini wsj_pro hack
+if (typeof twitt.sharrre !== 'function') {
+      
+    sharrre_exec(jQuery, window , document );
+}
+   
+$('#twitter').sharrre({
+  share: {
+    twitter: true
+  },
+  template: '<a class="tw" href="#"><img class="icon" src="http://s.wsj.net/blogs/img/tweet1.png"><div class="social_count">{total}</div></a>',
+  enableHover: false,
+  enableTracking: true,
+  buttons: { twitter: { via: twitter_handle, url : short_url }},
+  render: function(api, options){
+    
+    window.tw_count = api.options.count.twitter  ; 
+    count_display('tw', tw_count );
+    
+  },
+
+click: function(api, options){
+    
+    api.simulateClick();
+    var tw_count2 =  $('.tw').children()[1].innerHTML ;
+    count_display('tw', tw_count2 );
+    api.openPopup('twitter');
+  }
+});
+$('#facebook').sharrre({
+  share: {
+    facebook: true
+  },
+  template: '<a class="fb"  href="#"><img class="icon" src="http://s.wsj.net/blogs/img/facebook1.png"></img><div class="social_count">{total}</div></a>',
+  enableHover: false,
+  
+  render: function(api, options){
+    
+    window.fb_count = api.options.count.facebook  ; 
+    count_display('fb', fb_count );
+
+  },
+  
+  click: function(api, options){
+   
+    api.simulateClick();
+    var fb_count2 =  $('.fb').children()[1].innerHTML ;
+    count_display('fb', fb_count2 );
+    api.openPopup('facebook');
+  
+  }
+});
+$('#googleplus').sharrre({
+  
+  share: {
+    googlePlus: true
+  },
+  template: '<a class="gp" href="#"><img class="icon" src="http://s.wsj.net/blogs/img/google1.png"><div class="social_count">{total}</div></a>',
+  enableHover: false,
+  render: function(api, options){
+    
+    window.gp_count = api.options.count.googlepplus  ; 
+    count_display('gp', gp_count );
+
+  },
+  click: function(api, options){
+    
+    api.simulateClick();
+    var gp_count2 =  $('.gp').children()[1].innerHTML ;
+    count_display('gp', gp_count2 );
+    api.openPopup('googlePlus');
+
+  }
+});
+
+//clone the tool from the top and add it to the bottom 
+   setTimeout(function () {
+
+     if($(".post-bottom-row").length > 0) {
+
+        $(".post-bottom-row").after($(".wrapper").clone(true)) ; 
+        $(".wrapper")[1].style.marginTop = '10px' ; 
+        $(".wrapper")[1].style.marginTop = '10px' ; 
+
+     }else {
+
+      $(".bottomRow").after($(".wrapper").clone(true)) ; 
+
+     }   
+  
+    }, 2000);
+ 
+new dj.blogs.CommentForm(); 
+
+
+             dj.blogs.AdManager.createAd(
+                                    'standard_top',
+                                    'ad_61812',
+                                    'js',
+                                    { width: 300,
+                                      height: 250,
+                                      size:'300x250,336x280,300x600,336x850,300x1050',
+                                      site:'barrons.com',
+                                      zone:'blog_stockstowatchtoday',
+                                      adClass:'A',
+                                      title: 61812,
+                                      meta:'',
+                                      category:'',
+                                      frequency:'',
+                                      cacheId:'',
+                                      classEnabled:'true',
+                                      classValue:'adSummary advertisement',
+                                      styleValue:'',
+                                      conditionType:'',
+                                      conditionValue:'',
+                                      conditionalString:''});
+ad_refresh('ad_61812') ; 
+
+
+
+function ad_loaded(ad_type) {
+
+    var ad_body = document.getElementById(ad_type).children[0] ;
+
+    if( (ad_body  !== undefined) && (ad_body.height > 0 ) ){
+      return true ;
+     } else {
+      return false ;
+    }
+
+ }
+
+function ad_refresh(ad_type) {
+
+        var ad_body = document.getElementById(ad_type).children[0] ;
+        var iframe_load =  setInterval(function(){
+              if(ad_loaded(ad_type)) {
+                  console.log( ad_type + ' will reload in 20sec') ;
+                  var AdChanger = setTimeout(function(){ refreshAd(ad_type); }, 20000);
+                  clearInterval(iframe_load);
+                    }
+
+                  }, 1000);
+
+             }
+              function refreshAd(ad_type) {
+                        document.getElementById(ad_type).children[0].contentWindow.location.reload();
+                        console.log(ad_type + ' has loaded ') ;
+                }
+dj.blogs.AdManager.inFocusAd(
+                                    'infocus',
+                                    'ad_35082',
+                                    'JS',
+                                    'width=300;height=250;size=300x250,336x280,300x600;site=bottom.barrons.com;zone=blog_stockstowatchtoday;adClass=A;title=35082;meta=;category=;frequency=;cacheId=;classEnabled=true;classValue=adSummary advertisement;styleValue=;conditionType=;conditionValue=;conditionalString=');
+addClassWhenOffTop(document.getElementById('ad_35082'), 'sticky-ad');
+
+// adds a class when top of element is off screen, removes class again when scrolling back up to that point
+function addClassWhenOffTop(el, classname) {
+  var scrollTopWhenAdded;
+
+
+  attachListeners(function() {
+    if (scrollTopWhenAdded === undefined) {
+      // class has not been added
+      if (el.getBoundingClientRect().top < 0) {
+        // it's off the top of the screen
+        el.className += ' ' + classname;
+        scrollTopWhenAdded = document.documentElement.scrollTop || document.body.scrollTop;
+      }
+    }
+    else {
+      if ((document.documentElement.scrollTop || document.body.scrollTop) <= scrollTopWhenAdded) {
+        // we've gone back up past it
+        el.className = el.className.replace(new RegExp('\\b'+classname+'\\b'), ''); // remove class. in PHP double-quoted string have to do 4 backslashes to get 2
+        scrollTopWhenAdded = undefined;
+      }
+    }
+  });
+}
+
+// okay fine we might have a duplicate declaration
+function attachListeners(fn) {
+  if (window.addEventListener) {
+    window.addEventListener('DOMContentLoaded', fn, false);
+    window.addEventListener('load', fn, false);
+    window.addEventListener('scroll', fn, false);
+    window.addEventListener('resize', fn, false);
+  } else if (window.attachEvent) { // IE fallback
+    window.attachEvent('DOMContentLoaded', fn);
+    window.attachEvent('load', fn);
+    window.attachEvent('onscroll', fn);
+    window.attachEvent('onresize', fn);
+  }
+}
+        
+ad_refresh('ad_35082') ; 
+</script>
+</html>
+
+<!-- Dynamic page generated in 0.075 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-01-18 22:45:35 -->
+
+<!-- super cache -->

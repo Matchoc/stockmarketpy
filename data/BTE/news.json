@@ -412,5 +412,14 @@
         "pubDate": "Tue, 17 Jan 2017 18:27:00 GMT",
         "source": "data\\BTE\\20170118.rss",
         "title": "Was Baytex Energy Corp's Fantastic Run in 2016 Too Much?"
+    },
+    {
+        "contents": "data\\BTE\\20170118-213708.news",
+        "description": null,
+        "guid": "yahoo_finance/2343324852",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=139apa6p8/*http://www.capitalcube.com/blog/index.php/baytex-energy-corp-value-analysis-torontobte-january-18-2017/",
+        "pubDate": "Wed, 18 Jan 2017 18:22:45 GMT",
+        "source": "data\\BTE\\20170118.rss",
+        "title": "Baytex Energy Corp. \u2013 Value Analysis (TORONTO:BTE) : January 18, 2017"
     }
 ]

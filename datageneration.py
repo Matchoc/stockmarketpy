@@ -5,6 +5,7 @@ import datetime
 import csv
 import urllib.request
 import urllib.error
+import http.client
 import xml.etree.ElementTree as ET
 from time import strftime
 from bs4 import BeautifulSoup
@@ -53,9 +54,9 @@ def downloadURL(url):
 				  (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1')
 		resp = urllib.request.urlopen(req)
 		data = resp.read()
-		#response = urllib.request.urlopen(url)
-		#data = response.read()      # a `bytes` object
-		myprint(data,0)
+		text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
+	except http.client.IncompleteRead as e:
+		data = e.partial
 		text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
 	except urllib.error.HTTPError as e:
 		myprint("URL failed : " + str(e.code) + " " + e.reason, 5)

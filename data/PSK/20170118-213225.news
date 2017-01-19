@@ -1,0 +1,1484 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]> <html class="ie7"> <![endif]--> 
+<!--[if IE 8 ]> <html class="ie8"> <![endif]--> 
+<!--[if IE 9 ]> <html class="ie9"> <![endif]-->
+<!--[if IE 10 ]> <html class="ie10"> <![endif]-->
+<!--[if IE 11 ]> <html class="ie11"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
+
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=iIikGkMuXBs8CWzKDAyjsQ%3D%3D"/>
+<link href="/_layouts/Mdc/Styles/Main.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" /><link href="/_layouts/Mdc/Styles/OptinPageStyle.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" /><link href="/_layouts/Mdc/Styles/thickbox.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" /><link href="/_layouts/Mdc/Styles/SaveSearchWidget.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" /><link href="/_layouts/Mdc/Styles/ContactUs.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" />
+
+		<script src="/_layouts/Mdc/Scripts/Library/jquery-1.10.2.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/json2.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/prototypes.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Library/jquery.plugins.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/jquery.bgiframe-2.1.1.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/jquery.tooltip.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/jquery.bxslider2.0.1.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/thickbox.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/URI-1.10.2.min.js" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Global/jquery.mdc.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+		<script src="/_layouts/Mdc/Scripts/Library/store-1.3.8.js" type="text/javascript"></script>
+        <script src="/_layouts/Mdc/Scripts/Library/jStorage/jstorage.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Global/mdc_main.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Global/webtrends.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/mdc_sociallinks_webtrends.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Global/mdc_savesearchwidget.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Global/mdc_flexobject.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script><script src="/_layouts/Mdc/Scripts/Global/mdc_gigya.js?key=2_BdYwEJFuaWfnH9QJC3Rig76OTukFZGTrhniMoffgr_HWDfl-qevKT2ivS7LY355j&providers=facebook%2ctwitter%2cyahoo%2cgoogleplus%2clinkedin&v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+    <link href="/_layouts/Mdc/Styles/OneColumn.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" />
+
+       
+	
+<link href="/_layouts/Mdc/Styles/ResearchDoc.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" />
+<link href="/_layouts/Mdc/Styles/mdc_ui.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" />
+<link href="/_layouts/Mdc/Styles/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    
+<script src="/_Layouts/MDC/Scripts/mdc_ui.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+<script src="/_layouts/Mdc/Scripts/mdc_re_doc_permission.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+<script src="/_layouts/Mdc/Scripts/mdc_researchdoc.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+<script src="/_layouts/Mdc/Scripts/Library/jquery.fancybox.js" type="text/javascript"></script>	            
+
+<meta name="mdc.sto" content="480" /><meta name="WT.dcsvid" content="000000000000000000000000000000000000" /><meta name="WT.z_usersource" content="0" /><meta name="WT.z_previouspage" content="/" /><meta name="WT.pn_sku" content="PR_360460" /><meta name="WT.tx_e" content="v" /><meta name="WT.dl" content="0" /><meta name="DCS.dcsvid" content="000000000000000000000000000000000000" /><meta name="WT.cg_n" content="RschHTML" /><meta name="WT.cg_s" content="PR_360460" /><meta name="WT.cg_sec5" content="en" /><meta name="WT.cg_sec6" content="global~global" /><meta property="og:site_name" content="Moodys.com" /><meta property="og:title" content="Moody's changes CNRL's Baa3 outlook to stable" /><meta property="og:type" content="article" /><meta property="og:image" content="https://www.moodys.com/favicon.ico" /><meta property="og:url" content="https://www.moodys.com/research/Moodys-changes-CNRLs-Baa3-outlook-to-stable--PR_360460" /><meta property="og:description" content="Rating Action" /><meta property="article:published_time" content="2017-01-10T18:50:52Z" /><meta property="article:modified_time" content="2017-01-10T18:52:04Z" /><meta property="article:section" /><title>
+	Moody's changes CNRL's Baa3 outlook to stable
+</title><style type="text/css">
+	.ctl00_ctl00_PlaceHolderMdcContent_PlaceHolderMdcCenter_BackToPreviousPageZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_ctl00_PlaceHolderMdcContent_PlaceHolderMdcCenter_ViewResearchDocument_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_ctl00_PlaceHolderMdcContent_PlaceHolderMdcCenter_BackToPreviousPageZoneBottom_0 { border-color:Black;border-width:1px;border-style:Solid; }
+
+</style></head>
+    
+<body onload="javascript:_spBodyOnLoadWrapper();" id="global_site">
+    <!-- Google Tag Manager -->
+        <noscript><iframe id="GTMIF" src="//www.googletagmanager.com/ns.html?id=GTM-WN5Q4F"
+                          height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+        <script>
+            (function (w, d, s, l) {
+                $.ajax({
+                    url: "/identity/GetGoogleAnalyticsTrackingId", type: "POST", success: function (i) {
+                        $("#GTMIF").attr("src", "//www.googletagmanager.com/ns.html?id=" + i);
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start':
+                                new Date().getTime(),
+                            event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src =
+                            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    }
+                });
+               
+            })(window, document, 'script', 'dataLayer');
+        </script>
+        <!-- End Google Tag Manager -->
+    
+    <style> body { display: none; } </style>
+    <script language="javascript" type="text/javascript">
+        // US92074 US83338, IE7 doesn't support the X-Frame-Options header
+        if ((self != top) && true) {            
+            top.location = self.location;
+        } else {
+            $("body").show();
+        }
+    </script>
+    
+    <form name="aspnetForm" method="post" action="/research/Moodys-changes-CNRLs-Baa3-outlook-to-stable--PR_360460?WT.mc_id=AM%7eWWFob29fRmluYW5jZV9TQl9SYXRpbmcgTmV3c19BbGxfRW5n%7e20170110_PR_360460" id="aspnetForm" onsubmit="return _spFormOnSubmitWrapper();">
+<div>
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Fh2TQ8/CeTSJVExUAsk+AgyHru28KuezsiCSMbqlB3JJIFUwZ2OHRiRm4+OsIfvW5adn+7SEi+/hE/8TM/RHk8EeOq8=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ONjqAq-wrHtjicweyGbZDKlQ8M1mZtarQGOxjO4ELjNFm6qGhAs9A2eSZ8b_zEAI0ZMbEZkKE3WzNvhfUqqU1QA0Lf81&amp;t=635588444026805809" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+if (typeof thePage === 'undefined') { thePage = {}; }
+thePage.locale = {"Country":{"Name":"Global","IsoName":"global"},"Language":{"Name":"English","IsoName":"en"},"IsDefaultLanguage":true,"IsRegionalSite":false,"IsGlobalSite":true};
+var g_presenceEnabled = true;var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4, alertsEnabled:false, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+<script type="text/javascript" src="/_layouts/1033/init.js?rev=BjQJs0OCQh3Zfydsdw2MYw%3D%3D"></script><script type="text/javascript">
+<!--
+var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script><script type="text/javascript" >
+<!--
+//-->
+</script>
+<script src="/ScriptResource.axd?d=qaBm6o45kMCskBGaVCyJ7vlvKbfT0fipbPx0wvKOLeCPNXm_9HIRm79kWCQEx8VA7R_oQR2CyHwZg1lA3SCzfImZHx8vB6MKQsPJAdniM1AHFot03feCBVqOe0Kuz0uBO4y4l4WCnUHgRjhV-q8ntzl2IdA1&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lH3ebaon6FkxKw43rIB48AAjA-znrBbLxONzQ0_3l4jOz9lPaMdjEYA62GTFwo5XDh0sUGBkmXRXSTn0DD5tfrAmlcdrE5n4czhqsf8ieI7JWctLmmk3IruvCARSq879KuumGEz6iQOj7SA6GwIaU_GJII3oqGZRKRpDt70QbjVBcbGu0&amp;t=2e2045e2" type="text/javascript"></script>
+        
+        
+        <div id="mdcContainer">
+
+            <div class="mdcTopPopupMsg" style=" display:none;">
+				<img src="/_layouts/mdc/images/icon_warn_black.png" alt="info" />
+				<p id="pBackToGlobalMsg"></p>
+				<a class="mdc-default-btn" id="btnBackToGlobalYes"><b><b><span>Yes</span></b></b></a>
+				<a class="mdc-default-btn" id="btnBackToGlobalNo"><b><b><span>No</span></b></b></a>
+			</div>
+
+            <div id="mdcRightDecorator">
+                <div id="mdcHead">
+                    
+
+
+<!-- Start Kampyle Css -->
+
+<!-- End Kampyle Css -->
+
+<!--Start Kampyle Feedback Form Button-->
+
+
+<!--Start The script file for click button and push effect-->
+
+<!--End The script file for click button and push effect-->
+
+
+                    <div id="mdcTypeAheadSpace">
+                    </div>
+                    <div id="mdcTypeAheadSpaceRight" class="mdcHide">
+                    </div>
+                    <div id="mdcTypeAheadSpaceBottom" class="mdcHide">
+                    </div>
+                    <div id="mdcLogo">
+                        <table cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td class="mdcHomeLinkColumn">
+                                    
+<div id="mdcHomeLink">
+    <div class="mdcHide">
+        <a href="/">
+            <img alt="" src="/_layouts/Mdc/Images/HomeLink.jpg" /></a>
+    </div>
+</div>
+
+                                </td>
+                                <td id="ctl00_ctl00_Td1" class="mdcLogoLinkColumn">
+                                    <div style="float: right;">
+                                        
+<div id="mdcLink" >
+    <input style="display: none; width: 0; height: 0;" type="text" />
+    <a class='topMenuParentAlink'  id='topMenuParent001' onclick="mdcTopMenuClick('001')">About Moody's<span class='topMenuarrow'></span></a><a class="isCrossLink" href="/careers">Careers</a><a class="isCrossLink" href="/Pages/reg001001.aspx">Regulatory Affairs</a><a class="isCrossLink" href="/termsofuseinfo.aspx?lang=en&cy=global">Terms of Use</a><a class="isCrossLink" href="/Pages/contactus.aspx">Contact Us</a><div id='topMenuSub001' class='topMenuSubClass mdcHide'><a class='topMenuParentAlinkCover' onclick="mdcTopMenuClick('001')">About Moody's<span class='topMenuarrow' ></span></a><ul><li><a class='isCrossLink' href='/Pages/atc.aspx' style='color: #1257C5;'>Company Overview</a></li><li><a class='isCrossLink' href='http://ir.moodys.com' style='color: #1257C5;'>Investor Relations</a></li><li><a class='isCrossLink' href='/Pages/mdr001.aspx' style='color: #1257C5;'>Media Relations</a></li><li><a class='isCrossLink' href='/Pages/itc001.aspx' style='color: #1257C5;'>Corporate Social Responsibility</a></li><li><a class='isCrossLink' href='https://www.moodysalumni.com/login' style='color: #1257C5;'>Alumni</a></li></ul></div
+</div>
+
+                                    </div>
+                                </td>
+
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="mdcSearch" style="float: left">
+                            
+<div >   
+    <input id="kw" autocomplete="off" disableautocomplete mdcSearchValue="Find ratings, research, analysts and more" maSearchValue="Find companies, research and more" contextCountry="global" style="" maxlength="900" size="20" type="text" value="Find ratings, research, analysts and more" onclick="$.mdc.validateSearch(this);"/>
+    <input id="searchfrom" type="hidden" value="GS" />
+    <input id="cy" type="hidden" value="global" />
+    <input id="spk" type="hidden" value="qs" />
+    <input id="tb" type="hidden" value="1" />
+    <a class="mdc-gray-btn" id="searchBarLink"
+       onclick="dcsMultiTrack('DCS.dcsuri','','WT.ti','','WT.oss','','WT.oss_r','','WT.cg_n','SearchGo','WT.cg_s','','WT.dl','99','WT.pn_id','/','WT.z_ReferringSource','SGO');
+           $.mdc.srp.setSearchResultPageReferringSource('','SGO');
+           $.mdc.validateSearch($('#kw')[0]);
+           $.mdc.submitGetForm('/page/search.aspx','cy','kw','searchfrom', 'spk', 'tb');
+           ">
+      <span>GO</span>
+    </a>  
+    
+    
+<div id="mdcSavedSearchText" class="mdcHide" href="javascript:void(0)" ><span id="mdcSavedSearchArrow" class="mdcHide"></span></div>
+<div id='mdcSaveSearchPopUpControl' class="mdcHide" > 
+    <div id="mdcSaveSearchPopUpBodyTab" class="mdcHide" href="javascript:void(0)" ><span id="mdcSavedSearchArrowTab"></span></div>
+    <div id="mdcSaveSearchPopUpBody">
+		
+	</div>
+</div>
+</div>
+
+
+                    </div>
+                    <div id="userProfileBar">
+                        
+
+<div id="userSessionFullPopupMessage" class='mdcHide'>
+    <iframe id="IframePopupBackground"></iframe>
+    <div id="PopupBackground">
+    </div>
+    <div id="UserFullWarningPopupDiv" class="UserSessionFullPopupDiv">
+        <div style="float: left; height: 8px; width: 8px">
+            <img src="/_layouts/Mdc/Images/RoundAngle-left1.gif" style="float: left;">
+        </div>
+        <div style="height: 8px; background-color: rgb(255, 255, 255); float: left;">
+            <div class="MdcWarningPopupHorizontalBorder" style="font-size: 0px;">
+            </div>
+        </div>
+        <div style="float: right; height: 8px; width: 8px">
+            <img src="/_layouts/Mdc/Images/RoundAngle-right1.gif" style="float: right;">
+        </div>
+        <div class="MdcWarningPopupClear">
+        </div>
+        <div class="MdcWarningPopupCenter">
+            <div>
+                <div style="background: #FFFFFF; padding-right: 7px; float: right; width: 17px;">
+                    <div style="height: 4px; font-size: 0px;">
+                    </div>
+                    <div id="UserSessionFullWarningCloseButton">
+                        <a href="#" style="text-decoration: none">
+                            <img src="/_layouts/Mdc/Images/close-button-gray.gif" onmouseover="this.src='/_layouts/Mdc/Images/close-button-blue.gif'"
+                                onmouseout="this.src='/_layouts/Mdc/Images/close-button-gray.gif'"></a>
+                    </div>
+                </div>
+            </div>
+            <div style="padding-top: 12px; float: left; font-family: Arial; font-weight: bold; font-size: 12px; color: #0028a0">There are too many sessions currently in use on this account</div>
+            <div style="padding-top: 33px;">
+                <table style="width: 410px;">
+                    <tr>
+                        <td style="width: 32px; padding-top: 11px;">
+                            <img src="/_layouts/Mdc/Images/icon-big-infor.png" /></td>
+                        <td>
+                            <div id="UserSessionFullPopupContent" class="MdcWarningPopupContent" style="padding-top: 6px;">
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div style="margin-top: 14px;">
+                <div style="float: left;" id="continueLoginButton">
+                    <a class="mdcCommonButton">
+                        <span>Log In</span>
+                    </a>
+
+                </div>
+                <div style="float: left; padding-left: 13px;" id="cancelLoginButton">
+                    <a class="mdcCommonButton">
+                        <span>Cancel</span>
+                    </a>
+                </div>
+                <div class="mdcCLClear">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div style="float: left; height: 8px; width: 8px">
+                <img src="/_layouts/Mdc/Images/RoundAngle-left2.gif" style="float: left;" />
+            </div>
+            <div style="height: 8px; background-color: rgb(255, 255, 255); float: left;">
+                <div style="padding-top: 6px; font-size: 0px;" class="MdcWarningPopupHorizontalBorder">
+                </div>
+            </div>
+            <div style="float: right; height: 8px; width: 8px">
+                <img src="/_layouts/Mdc/Images/RoundAngle-right2.gif" style="float: right;" />
+            </div>
+        </div>
+    </div>
+    <input type="hidden" id="userSessionsFullWarningMessage" value="Logging in will disconnect one of your sessions. For questions, please contact &lt;a href='https://www.moodys.com/Pages/contactus.aspx?Clicked=true'&gt;&lt;font style='color:#0E43BB'&gt;Moody's Client Services &amp; Support.&lt;/font&gt;&lt;/a&gt;" />
+    <input type="hidden" id="userHaveBeenLoggedWarningMessage" value="This session has been logged out. For questions, please contact &lt;a href='https://www.moodys.com/Pages/contactus.aspx?Clicked=true'&gt;&lt;font color='#0E43BB'&gt;Moody's Client Services &amp; Support.&lt;/font&gt;&lt;/a&gt;" />
+    <input type="hidden" id="localeInfoCurrentLanguage" value="en" />
+</div>
+
+<div id="mdcWelcome">
+    
+    
+        
+</div>
+
+                    </div>
+                </div>
+                <div>
+                    
+
+<div id="mdcToolBar">
+    <div id="navBar">
+        <div id="mdcNav">
+            
+<ul id="mdcMenu">
+	<li id="mdcResearchRatingsTab" class="mdcMenuTab">
+		<a class="TopMenu" href="javascript:void(0); ">
+			<h3>Research & Ratings<span class="arrow"></span></h3>
+		</a>
+		<div class='mdcMenuLayer'><div class='mdcMenuLayerContent'><div class='Col'><ul><li class='SubTitle'><a href='/researchandratings' data-eng-name="Overview" data-dimension-id="" >Overview</a></li><li><a href='/researchandratings/research-type/issuer-research/ratings-news/003004005/003004005/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Ratings News" data-dimension-id="" >Ratings News</a></li><li><a href='/researchandratings/methodology/003006001/rating-methodologies/methodology/003006001/003006001/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Rating Methodologies" data-dimension-id="" >Rating Methodologies</a></li><li><a href='/newsandevents/topics/ratings-disclosures/-/007017/007017/-/-1/0/-/0/-/-/-/-1/-/-/-/en/global/pdf/-/rra' data-eng-name="Ratings Disclosures" data-dimension-id="" >Ratings Disclosures</a></li><li><a href='/researchandratings/research-type/default-recovery-and-rating-transitions/003009/003009/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Ratings Performance" data-dimension-id="" >Ratings Performance</a></li><li class='Hr'><a href='/Pages/reg001001.aspx' data-eng-name="Regulatory Affairs" data-dimension-id="" >Regulatory Affairs</a></li><li><a href='/Pages/reg001003.aspx' data-eng-name="Code of Professional Conduct" data-dimension-id="" >Code of Professional Conduct</a></li><li class='Hr'><a href='/researchandratings/special-reports/003003004/industry-sector-research/special-reports/003003004/003003004/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Sector in Depth" data-dimension-id="" >Sector in Depth</a></li><li class='Hr'><a href='/page/lookuparating.aspx' data-eng-name="Look Up a Rating" data-dimension-id="" >Look Up a Rating</a></li><li><a href='/Page/findanalyst.aspx' data-eng-name="Find an Analyst" data-dimension-id="" >Find an Analyst</a></li><li><a href='/Pages/ChartroomOverviewPage.aspx' data-eng-name="Interactive Charts" data-dimension-id="" >Interactive Charts</a></li></ul></div><div class='Col'><ul><li class='SubTitle'><a href='/researchandratings/market-segment/home' data-eng-name="Market Segment" data-dimension-id="" >Market Segment</a></li><li><a href='/researchandratings/market-segment/corporates/005000/005000/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Corporates" data-dimension-id="" >Corporates</a></li><li><a href='/researchandratings/market-segment/financial-institutions/005001/005001/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Financial Institutions" data-dimension-id="" >Financial Institutions</a></li><li><a href='/researchandratings/market-segment/structured-finance/005006/005006/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Structured Finance" data-dimension-id="" >Structured Finance</a></li><li><a href='/researchandratings/market-segment/managed-investments/-/005002/005002/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Managed Investments" data-dimension-id="" >Managed Investments</a></li><li><a href='/researchandratings/market-segment/infrastructure-project-finance/005008/005008/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Infrastructure &amp; Project Finance" data-dimension-id="" >Infrastructure & Project Finance</a></li><li><a href='/researchandratings/market-segment/sovereign-supranational/-/005005/005005/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Sovereign &amp; Supranational" data-dimension-id="" >Sovereign & Supranational</a></li><li><a href='/researchandratings/market-segment/Sub-Sovereign/005007/005007/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Sub-Sovereign" data-dimension-id="" >Sub-Sovereign</a></li><li><a href='/researchandratings/market-segment/u.s.-public-finance/005003/005003/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="U.S. Public Finance" data-dimension-id="" >U.S. Public Finance</a></li></ul><ul><li class='SubTitle'><a href='/researchandratings/region/home' data-eng-name="Region" data-dimension-id="" >Region</a></li><li><a href='/researchandratings/region/north-america/004003/004003/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="North America" data-dimension-id="" >North America</a></li><li><a href='/researchandratings/region/latin-america-caribbean/004002/004002/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Latin America &amp; Caribbean" data-dimension-id="" >Latin America & Caribbean</a></li><li><a href='/researchandratings/region/europe-middle-east-africa/004001/004001/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Europe, Middle East &amp; Africa" data-dimension-id="" >Europe, Middle East & Africa</a></li><li><a href='/researchandratings/region/asia-pacific/004000/004000/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Asia Pacific" data-dimension-id="" >Asia Pacific</a></li></ul></div><div class='Col'><ul><li class='SubTitle'><a href='/researchandratings/research-type/home' data-eng-name="Research Type" data-dimension-id="" >Research Type</a></li><li><a href='/researchandratings/research-type/issuer-research/003004/003004/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Issuer Research" data-dimension-id="" >Issuer Research</a></li><li><a href='/researchandratings/research-type/industry-sector-research/003003/003003/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Industry / Sector Research" data-dimension-id="" >Industry / Sector Research</a></li><li><a href='/researchandratings/research-type/rating-methodologies/003006/003006/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Methodology" data-dimension-id="" >Methodology</a></li><li><a href='/researchandratings/research-type/capital-market-research/003008/003008/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Capital Markets Research" data-dimension-id="" >Capital Markets Research</a></li><li><a href='/researchandratings/research-type/default-recovery-and-rating-transitions/003009/003009/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Default &amp; Ratings Analytics" data-dimension-id="" >Default & Ratings Analytics</a></li><li><a href='/researchandratings/research-type/economic-research/-/003002/003002/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Economic Research" data-dimension-id="" >Economic Research</a></li><li><a href='/researchandratings/research-type/statistical-data/-/00300A/00300A/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Data Reports" data-dimension-id="" >Data Reports</a></li></ul><ul><li class='SubTitle'><a href='/researchandratings/political-economic-groups/home' data-eng-name="Political / Economic Group" data-dimension-id="" >Political / Economic Group</a></li><li><a href='/researchandratings/political-economic-groups/emerging-markets/-/035000/035000/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Emerging Markets" data-dimension-id="" >Emerging Markets</a></li><li><a href='/researchandratings/political-economic-groups/european-union/-/035006/035006/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="European Union" data-dimension-id="" >European Union</a></li><li><a href='/researchandratings/political-economic-groups/asia-pacific-economic-cooperation-(apec)/-/035004/035004/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Asia-Pacific Economic Cooperation (APEC)" data-dimension-id="" >Asia-Pacific Economic Cooperation (APEC)</a></li><li><a href='/researchandratings/political-economic-groups/association-of-southeast-asian-nations-(asean)/-/035007/035007/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Association of Southeast Asian Nations (ASEAN)" data-dimension-id="" >Association of Southeast Asian Nations (ASEAN)</a></li><li><a href='/researchandratings/political-economic-groups/commonwealth-of-independent-states/-/035001/035001/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Commonwealth of Independent States (CIS)" data-dimension-id="" >Commonwealth of Independent States (CIS)</a></li><li><a href='/researchandratings/political-economic-groups/eurozone/-/035008/035008/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Eurozone" data-dimension-id="" >Eurozone</a></li><li><a href='/researchandratings/political-economic-groups/gulf-cooperation-council/-/035005/035005/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Gulf Cooperation Council" data-dimension-id="" >Gulf Cooperation Council</a></li><li><a href='/researchandratings/political-economic-groups/mercosur/-/035002/035002/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Mercosur" data-dimension-id="" >Mercosur</a></li><li><a href='/researchandratings/political-economic-groups/organisation-for-economic-co-operation-and-development-(oecd)-/-/035003/035003/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Organisation for Economic Co-operation and Development  (OECD)" data-dimension-id="" >Organisation for Economic Co-operation and Development  (OECD)</a></li></ul></div><div class='Col'><ul><li class='SubTitle'><a href='/Pages/amr001001.aspx' data-eng-name="Credit Policy" data-dimension-id="" >Credit Policy</a></li><li><a href='/researchandratings/methodology/003006001/rating-methodologies/methodology/003006001/003006001/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Rating Methodologies" data-dimension-id="" >Rating Methodologies</a></li><li><a href='/researchandratings/research-type/methodology/request-for-comment/003006005/003006005/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Requests for Comment" data-dimension-id="" >Requests for Comment</a></li></ul><ul><li class='SubTitle'><a href='/Pages/amr002007.aspx' data-eng-name="The Commercial Group" data-dimension-id="" >The Commercial Group</a></li><li><a href='/Pages/amr002001.aspx' data-eng-name="How to Get Rated" data-dimension-id="" >How to Get Rated</a></li><li><a href='/Pages/amr002002.aspx' data-eng-name="Ratings Definitions" data-dimension-id="" >Ratings Definitions</a></li><li><a href='/Pages/amr002003.aspx' data-eng-name="Ratings Policy &amp; Approach" data-dimension-id="" >Ratings Policy & Approach</a></li></ul></div><div class='mdcClear'></div></div></div>
+	</li>
+	<li id="mdcProductsSolutionsTab" class="mdcMenuTab">
+		<a class="TopMenu" href="javascript:void(0);" >
+			<h3>Products & Solutions<span class="arrow"></span></h3>
+		</a>
+		<div class='mdcMenuLayer'><div class='mdcMenuLayerContent'><div class='Col'><ul><li class='SubTitle'><a href='/productandsolutions' data-eng-name="Overview" data-dimension-id="" >Overview</a></li></ul><ul><li class='SubTitle'><a href='http://www.moodysanalytics.com?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Moody's Analytics" data-dimension-id="" >Moody's Analytics</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Structured-Analytics-and-Valuation/Valuation-and-Advisory-Services.aspx?utm_medium=referral&utm_source=moodys.com' data-eng-name="Moody's Pricing &amp; Valuations Tools" data-dimension-id="" >Moody's Pricing & Valuations Tools</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Enterprise-Risk-Solutions/Advisory-and-Implementation-Services.aspx?utm_medium=referral&utm_source=moodys.com' data-eng-name="Moody's Advisory Services" data-dimension-id="" >Moody's Advisory Services</a></li><li><a href='http://www.economy.com?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Moody's Economy.com" data-dimension-id="" >Moody's Economy.com</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Training-Certification.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Moody’s Training &amp; Certification" data-dimension-id="" >Moody’s Training & Certification</a></li><li class='Hr'><a href='http://www.moodysanalytics.com/Products-and-Solutions/AZ-Product-List.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Products Listing by A - Z" data-dimension-id="" >Products Listing by A - Z</a></li></ul></div><div class='Col'><ul><li class='SubTitle NoLink'><a href='#' data-eng-name="Areas of Expertise" data-dimension-id="" >Areas of Expertise</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Credit-Research-Risk-Measurement.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Credit Research and Risk Measurement" data-dimension-id="" >Credit Research and Risk Measurement</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Economic-Consumer-Credit-Analytics.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Economic &amp; Consumer Credit Analytics" data-dimension-id="" >Economic & Consumer Credit Analytics</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Enterprise-Risk-Solutions.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Enterprise Risk Solutions" data-dimension-id="" >Enterprise Risk Solutions</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Structured-Analytics-and-Valuation.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Structured Analytics and Valuation" data-dimension-id="" >Structured Analytics and Valuation</a></li><li><a href='http://www.moodysanalytics.com/Products-and-Solutions/Training-Certification.aspx?utm_medium=referral&utm_source=moodys.com' target='_blank' data-eng-name="Training and Certification" data-dimension-id="" >Training and Certification</a></li></ul></div><div class='Col'><ul><li class='SubTitle NoLink'><a href='#' data-eng-name="Access Products" data-dimension-id="" >Access Products</a></li><li><a href='https://www.moodys.com/credit-model/report/history' target='_blank' data-eng-name="Credit Risk Calculator" data-dimension-id="" >Credit Risk Calculator</a></li><li><a href='https://www.moodys.com/credit-transition-model/rating-migration' target='_blank' data-eng-name="Credit Transition Model" data-dimension-id="" >Credit Transition Model</a></li><li><a href='http://credittrends.moodys.com' target='_blank' data-eng-name="Credit Trends" data-dimension-id="" >Credit Trends</a></li><li><a href='http://www.creditedge.com/' target='_blank' data-eng-name="CreditEdge&#174;" data-dimension-id="" >CreditEdge®</a></li><li><a href='http://www.moodys.com/Pages/Default-and-Recovery-Analytics.aspx' target='_blank' data-eng-name="Default Recovery Database (DRD)" data-dimension-id="" >Default Recovery Database (DRD)</a></li><li><a href='https://www.moodys.com/Pages/Default-and-Recovery-Analytics.aspx' target='_blank' data-eng-name="Default Risk Service - Structured" data-dimension-id="" >Default Risk Service - Structured</a></li><li><a href='http://www.moodys.com/fundsissuerportal' target='_blank' data-eng-name="Fund Monitoring" data-dimension-id="" >Fund Monitoring</a></li><li><a href='http://losscalc.moodyskmv.com/' target='_blank' data-eng-name="LossCalc™" data-dimension-id="" >LossCalc™</a></li><li><a href='https://www.moodys.com/Pages/MIR-Ratings-Analytics.aspx' target='_blank' data-eng-name="Market Implied Ratings (MIR&#174;)" data-dimension-id="" >Market Implied Ratings (MIR®)</a></li><li><a href='http://moodysfm.moodys.com/' target='_blank' data-eng-name="Moody's Financial Metrics™" data-dimension-id="" >Moody's Financial Metrics™</a></li><li><a href='https://projectfinance-models.moodys.com' target='_blank' data-eng-name="Moody's Project Finance Scorecard" data-dimension-id="" >Moody's Project Finance Scorecard</a></li><li><a href='https://www.moodys.com/moodysqrate' target='_blank' data-eng-name="Moody's Quantitative Ratings Estimator (QRATE)" data-dimension-id="" >Moody's Quantitative Ratings Estimator (QRATE)</a></li><li><a href='https://www.moodys.com/moodysmfra#/' target='_blank' data-eng-name="Municipal Financial Ratio Analysis" data-dimension-id="" >Municipal Financial Ratio Analysis</a></li><li><a href='https://www.moodys.com/portfolio-landing/savedsearch' target='_blank' data-eng-name="Ratings Interactive" data-dimension-id="" >Ratings Interactive</a></li><li><a href='http://riskcalcplus.moodysanalytics.com/' target='_blank' data-eng-name="RiskCalc™" data-dimension-id="" >RiskCalc™</a></li></ul></div><div class='mdcClear'></div></div></div>
+	</li>
+	<li id="mdcNewsEventsTab" class="mdcMenuTab">
+		<a class="TopMenu" href="javascript:void(0); " >
+			<h3>News & Events<span class="arrow"></span></h3>
+		</a>
+		<div class='mdcMenuLayer'><div class='mdcMenuLayerContent'><div class='Col'><ul><li class='SubTitle'><a href='/newsandevents' data-eng-name="Overview" data-dimension-id="" >Overview</a></li><li><a href='/researchandratings/research-type/issuer-research/ratings-news/003004005/003004005/-/-1/0/-/0/-/-/en/global/rr' data-eng-name="Ratings News" data-dimension-id="" >Ratings News</a></li><li><a href='/newsandevents/events' data-eng-name="Events" data-dimension-id="" >Events</a></li><li><a href='/newsandevents/events_/01C002/01C/0/StartDate/1/0/0/0/elv' data-eng-name="Training Events" data-dimension-id="" >Training Events</a></li><li><a href='/newsandevents/topics/home' data-eng-name="Topics" data-dimension-id="" >Topics</a></li></ul></div><div class='mdcClear'></div></div></div>
+	</li>
+</ul>
+
+        </div>
+    <div style="float:right">
+        
+
+
+<div id="mdcMyMoodys">
+   
+   
+    
+           <a id="LoginText" href="javascript:void(0)" onclick="LogInPopUp();return false;">Log In</a>
+           <a class='' id="RegisterText" onclick="dcsMultiTrack('DCS.dcsuri','Register/GlobalNav','WT.si_n','Registration','WT.si_x','0')" href="/registerinfo.aspx?from=Nav_Reg">Register</a>
+            
+</div>
+
+
+<div id="mdcLoginPopUpControl" class="mdcHide">
+    <div id="mdcLoginPopUpControlBorder">
+        <div class="mdcClose">
+            <a href='#' style="text-decoration: none" onclick='LogInPopUp();return false;'>
+                <img src="/_layouts/Mdc/Images/Close.gif" alt="Close" /></a></div>
+        <div class="mdcLoginTitle">
+            Log In </div>
+        <div id="mdcLoginPopupHint" class="mdcLoginSuccess">
+            Please log in for full access to your permissions. Password is case sensitive.</div>
+        
+<div id="mdcLoginPopUpErrorMsgControl" class="mdcHide">
+    <table>
+        <tr>
+            <td class="mdcErrorImg"><div><img src="/_layouts/Mdc/Images/ErrorAlert.gif" alt=""/></div></td>
+            <td class="mdcErrorText"></td>
+        </tr>
+    </table>
+</div>
+
+        <div id="mdcLoginNameAndPss">
+            <div class="mdcLonInUserName">
+                <b>
+                    User Name:</b></div>
+            <div class="mdcTBUserName">
+                <input type="text" id="MdcUserName" maxlength="100" name="MdcUserName" autocomplete="off"/>
+            </div>
+            <div class="mdcLogInPss">
+                <b>
+                    Password:</b></div>
+            <div class="mdcTBPassword">
+                <input type="password" id="MdcPassword" maxlength="32" name="MdcPassword" autocomplete="off"/>
+            </div>
+        </div>
+        <div class="mdcCBRememberMe">
+            <div class="mdcRememberMeChx">
+                <input type="checkbox" name="RememberMe" id="RememberMe" />
+            </div>
+            <div class="mdcRememberMeText">
+                Automatically log me in when I return</div>
+            <div class="mdcClear">
+            </div>
+        </div>
+        <div class="mdcLogInBtn">
+            <a href="#" onclick="$.mdc.login.submit(this, 'div#mdcLoginPopUpControl');return false;" class="mdc-blue-btn" id="LoginImageButton"><span>
+                Log In</span></a>
+        </div>
+        <div class="mdcClear">
+        </div>
+        <div class="mdcForgotLink">
+            <a href="/loginhelp.aspx?lang=en&cy=global"><b>
+                Forgot your Username or Password?</b></a></div>
+        <div class="mdcGigyaLine">
+        </div>
+        
+<div id="mdcGigyaSocialLoginControl">
+    <div class="mdcGigyaStatement">
+        Or Log In using:<br />
+    </div>
+    <div id="loginDiv">
+    </div>
+    <div id="status">
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>          
+    </div>
+
+</div>
+
+
+
+
+                </div>
+                <div id="mdcMinHeightRight">
+                </div>
+                <div id="mdcMiddle">
+                    
+
+<div id="mdcGlobalMessageBox">
+   <div id="mdcGlobalWarning">
+		
+<script >
+    $(function () {
+        var pathname = window.location.pathname;
+        $.ajax({
+            url: "/GlobalWarning/GetWarnings?pathName=" + pathname,
+            type: 'GET',
+            dataType: 'html',
+            success: function (html) { $("#mdcGlobalWarningsContainer").html(html); },
+            error: function (jqXhr) { $("#mdcGlobalWarningsContainer").html(jqXhr.responseText); }
+        });
+    });
+</script>
+<div id="mdcGlobalWarningsContainer"></div>
+   </div>
+    <div id="mdcKeywordRedirect">
+        
+<div id="mdcKeywordRedirectContainer" class="mdcHide">
+   <div id="mdcKeywordRedirectBox">        
+        <img src="/_layouts/Mdc/Images/icon_information.png" alt="" style="height:26px;width:26px;float:left;">             
+        <div style="float:right;padding-top:5px;">	        
+        		 <div id="mdcKeywordRedirectNote">Please Note</div>		
+	      </div>
+    </div>
+    <div id="mdcKeywordRedirectMsg">We brought you to this page based on your search query. If this isn't what you are looking for, you can <a href="/page/search.aspx?cy=global&kw=&rkw=0&tb=1"><font color="#1257C5" style="font-size:12px">continue to Search Results for </font><b><font color="#1257C5" style="font-size:12px">""</font></b></a></div>		
+    <div style="height:10px;"></div>	
+</div>
+
+    </div> 
+</div>
+                    
+<div id="mdcExportRatingOrgListWarning" class="mdcHide">
+	<div id="mdcCLTopBanner">
+		<div class="mdcCLLeftImageContainer"><img src="/_layouts/Mdc/Images/CL_TL.gif"></div>
+		<div class="mdcCLCenterImageContainer"><img src="/_layouts/Mdc/Images/CL_TC.gif" width="380px" height="10px"></div>
+		<div class="mdcCLRightImageContainer"><img src="/_layouts/Mdc/Images/CL_TR.gif"></div>
+		<div class="mdcCLClear"></div>
+	</div>
+	<div id="mdcCLCenter">
+	    <div >
+            <table width="100%">
+                <tr>
+                    <td ><img alt="" src="/_layouts/Mdc/Images/infor_icon.gif"/></td>
+                    <td style="padding-left:7px; font-size:12px;">The maximum number of items you can export is 3,000.
+  Please reduce your list by using the filtering tool to the left.</td>
+                </tr>
+            </table>
+   	    </div>
+    
+        <div id="mdcCLDownHalf" style="margin-top:4px;">  	
+       	    <div style="float:right; padding-right:150px">
+        	    <table>
+                    <tr>
+            	        <td>
+			                <div class="mdcBtnBackground">
+			        	        <div id="exportWarningClose" onclick="javascript:tb_remove();" >Close</div>
+			                </div>
+				        </td>
+                    </tr>
+                </table>
+            </div>
+       	    <div class="mdcCLClear"></div>
+        </div>
+    </div>   
+  <div class="mdcCLBottomBanner">
+		<div class="mdcCLLeftImageContainer"><img src="/_layouts/Mdc/Images/CL_BL.gif"></div>
+		<div class="mdcCLCenterImageContainer"><img  src="/_layouts/Mdc/Images/CL_BC.gif" width="380px" height="10px"></div>
+		<div class="mdcCLRightImageContainer"><img src="/_layouts/Mdc/Images/CL_BR.gif"></div>
+	</div>
+</div>
+                    
+<div id="mdcCrossLanguageWarning" class="mdcHide">
+	<div class="mdcCLTopBanner">
+		<div class="mdcCLLeftImageContainer"><img src="/_layouts/Mdc/Images/CL_TL.gif"></div>
+		<div class="mdcCLCenterImageContainer"><img src="/_layouts/Mdc/Images/CL_TC.gif" width="460px" height="10px"></div>
+		<div class="mdcCLRightImageContainer"><img src="/_layouts/Mdc/Images/CL_TR.gif"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+		<div id="mdcCLCenter" style="line-height:12px; font-size:12px;">
+				<div style="">
+            <table width="100%">
+                <tr>
+                    <td ><img alt="" src="/_layouts/Mdc/Images/infor_icon.gif"/></td>
+                    <td style="padding-left:7px; font-size:12px;"></td>
+                </tr>
+            </table>
+       	</div>
+       
+       
+        	<div id="clwUrl" class="mdcHide"></div><div id="clwWindow" class="mdcHide"></div>
+        	<div id="clwId" class="mdcHide"></div><div id="clwRegion" regionVal="en" class="mdcHide"></div>
+        
+        <div id="mdcCLDownHalf" style="margin-top:4px;">
+         	<div style="float:left; padding-left:12px;">
+        		<input id="rememberCrossLanguage" name="rememberCrossLanguage" type="checkbox" value="" text="" style="border:0px;"/>
+            <span style="vertical-align:top; padding-left:7px; font-size:12px;"></span>
+	       	</div>      	
+	       	<div style="float:right;">
+	        	<table>
+                    <tr>
+                	    <td>
+				            <div class="mdcBtnBackground">
+				        	    <div id="clwYes" onclick="javascript:tb_remove(); $.mdc.CrossLanguageWarning.ToUrl();" ></div>
+				            </div>
+					    				</td>
+                	    <td style="padding-left:10px;">
+			                <div class="mdcBtnBackground">
+		                        <div id="clwNo" onclick="$.mdc.CrossLanguageWarning.CancelCross();" ></div>
+			                </div>
+			              </td>
+                    </tr>
+                </table>
+	        </div>
+	       	<div class="mdcCLClear"></div>
+        </div>
+
+    </div>   
+  <div class="mdcCLBottomBanner">
+		<div class="mdcCLLeftImageContainer"><img src="/_layouts/Mdc/Images/CL_BL.gif"></div>
+		<div class="mdcCLCenterImageContainer"><img src="/_layouts/Mdc/Images/CL_BC.gif" width="460px" height="10px"></div>
+		<div class="mdcCLRightImageContainer"><img src="/_layouts/Mdc/Images/CL_BR.gif"></div>
+	</div>
+</div>
+                    <div>
+                        
+    <div id="mdcCenter">
+        <div id="mdcCenterContent">
+            
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$PlaceHolderMdcContent$PlaceHolderMdcCenter$ScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl00_MdcWebPartManager_GoToPreviousPage" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="false" id="WebPartctl00_ctl00_MdcWebPartManager_GoToPreviousPage" width="100%" class="ms-WPBody noindex" allowMinimize="false" allowRemove="false" allowDelete="false" style="" ><div id="ctl00_ctl00_MdcWebPartManager_GoToPreviousPage">
+					
+<div id="mdcBackPrevious">
+	<a href="javascript:history.back()">Back to Previous Page</a>
+</div>
+
+				</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="false" id="WebPartctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart" width="100%" class="ms-WPBody noindex" allowMinimize="false" allowRemove="false" allowDelete="false" style="" ><div id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart">
+					<script src="/_layouts/Mdc/Scripts/mdc_translations.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+<script type="text/javascript">
+    var documentId = "PR_360460";
+    function DoWebtrends() {
+        dcsMultiTrack('DCS.dcsuri', 'Share/Google/' + documentId, 'WT.cg_n', 'Share', 'WT.cg_s', 'Google~' + documentId, 'WT.mc_id', '', 'WT.z_referringsource', '');
+    }
+
+    function ExportPdfWebtrends() {
+        mdcCleanUpProps('WT.cg_n;WT.cg_s;WT.cg_sec3;WT.cg_sec4;WT.cg_sec5;WT.cg_sec6');
+        dcsMultiTrack({
+            'DCS.dcsuri': 'Research/HTML/Export/{0}'.format(documentId),
+            'DCS.dcsvid': $('meta[name=\'WT.dcsvid\']').attr('content'),
+            'WT.pn_sku': 'PDF~{0}'.format(documentId),
+            'WT.z_referringsource': 'Export~{0}'.format(documentId),
+            'WT.dl': '29',
+            'WT.ti': ''
+        });
+        mdcCleanUpProps('DCS.dcsuri;WT.z_referringsource;WT.dl');
+    }
+
+    $(function () {
+        $('#ExportPdf').click(function () {
+            ExportPdfWebtrends();
+            var form = {
+                action: '/printresearchdoctopdf.aspx',
+                target: '_blank'
+            }, data = {
+                'docid': 'PR_360460',
+                'OfficeId': '71',
+                'PublishDate': 'MTAgSmFuIDIwMTc=',
+                'DocTitle': 'TW9vZHkncyBjaGFuZ2VzIENOUkwncyBCYWEzIG91dGxvb2sgdG8gc3RhYmxl',
+                'ResearchType': 'UmF0aW5nIEFjdGlvbg=='
+            };
+            $.util.submitForm(form, data);
+        });
+    });
+</script>
+<link href="/_layouts/Mdc/Styles/Translations.css?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" rel="stylesheet" type="text/css" />
+<style type="text/css">
+    #transDiv {
+        left: 50px;
+    }
+</style>
+
+
+<script type="text/javascript">
+    var EmailControlName = 'ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_txtResearchEmail';
+</script> 
+
+<div id="mdcResearchEmail">
+    
+<div id="mdcInputLayer" class="mdcHide">
+<div id="mdcInputOuterBorder">
+    
+    <div id="mdcInputInnerBorder">
+        <div id="mdcInputContent">
+            <div class="mdcEmailClose"><img src="/_layouts/Mdc/Images/Close.gif" onclick="CloseAllLayers();ClearResearchEmailFields();" alt="Close"/></div>   
+                <div class="mdcEmailTitle">Email Research</div>				
+                <div class="mdcEmailBlurb">Recipient email addresses will not be used in mailing lists or redistributed.</div>
+                <div id="mdcInputErrorDiv" class="mdcEmailError mdcHide">
+                    <div class="mdcErrorImage">
+                    <img src="/_layouts/Mdc/Images/TriangleWarning.gif" /></div>
+                    <div class="mdcErrorText">
+                    <span id="txtValidationMessage" ></span></div>
+					<div style="clear:both;"></div> 
+                </div>                
+				<div><img  id="mdcLineSpacer" src="/_layouts/Mdc/Images/Spacer.gif"/ width="100%" height="5px" />	</div>
+		<div>
+		<div class="mdcLabelEmailList">Recipient's<br />Email</div>
+		<div class="mdcTextEmailList">
+			<textarea name="ctl00$ctl00$MdcWebPartManager$ResearchDocumentWebPart$ctl00$ResearchEmailControl1$txtResearchEmail" id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_txtResearchEmail" spellcheck="false" rows="10"></textarea>					
+			<br />
+			<span id="InstructionSpan">Use semicolon to separate each address, limit to 20 addresses.</span>
+			<div style="clear:both;"></div> 
+		</div>
+		</div>
+		
+		<div class="mdcCaptchaContainer">
+		<div class="mdcLabelCaptcha">Enter the<br />characters you see</div>
+		<div class="mdcCaptcha">
+			
+<div class="captchaDiv">
+    <div class="captchaImageDiv"><img id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_captchaControl_imgCaptcha" class="captchaImage" src="/Captcha/GenerateImg/=4XCrMWhGQobDp0FwCbx%7C6nsO3dQSiD0-8jGaHk6JKjADrQXaSTVQkIZfL4mudDTUKc34B%7Car22B6%7CMTE3OhEAw==" style="border-width:0px;" /></div>
+    <div class="captchaTextDiv"><input name="ctl00$ctl00$MdcWebPartManager$ResearchDocumentWebPart$ctl00$ResearchEmailControl1$captchaControl$txtCaptcha" type="text" id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_captchaControl_txtCaptcha" class="captchaText" /></div>
+    <div class="captchaTryNewDiv"><a class="captchaTryNewLink" ID="btnTryNewWords" onclick="TryNewLink('/Captcha')">Can't read? <br /> Try a new set</a></div>
+</div>
+<div class="hiddenCaptchaDiv">
+<input type="hidden" name="ctl00$ctl00$MdcWebPartManager$ResearchDocumentWebPart$ctl00$ResearchEmailControl1$captchaControl$hiddenCaptchaText" id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_captchaControl_hiddenCaptchaText" value="4XCrMWhGQobDp0FwCbx/6nsO3dQSiD0+8jGaHk6JKjADrQXaSTVQkIZfL4mudDTUKc34B/ar22B6/MTE3OhEAw==" />
+</div>
+
+		</div>
+		</div>
+
+		<div class="mdcButtons">
+			<a id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_ResearchEmailControl1_btnSendEmail" class="ResearchEmailButton" onclick="if (!ValidateEmailFormInput()){return false;} TrackEmailSendAction();" onmouseout="this.className='ResearchEmailButton'" onmouseover="this.className='ResearchEmailButtonOver'" onmousedown="this.className='ResearchEmailButtonDown'" alt="Send" href="javascript:__doPostBack('ctl00$ctl00$MdcWebPartManager$ResearchDocumentWebPart$ctl00$ResearchEmailControl1$btnSendEmail','')">
+			<b><b><span>Send</span></b></b></a>
+			
+			<img src="/_layouts/Mdc/Images/Spacer.gif"/ width="9" />	
+			<a class='ResearchEmailButton' onclick="CloseAllLayers();ClearResearchEmailFields();"
+			onmouseout="this.className='ResearchEmailButton'"  
+			onmouseover="this.className='ResearchEmailButtonOver'" 
+			onmousedown="this.className='ResearchEmailButtonDown'" alt="Cancel">
+			<b><b><span>Cancel</span></b></b></a>						
+		</div>
+                
+                <div id="hiddenSection" class="mdcHide">
+                    <input id="hidShowInput" type="hidden" value="False" />
+                    <input id="hidShowError" type="hidden" value="False" />
+                    <input id="hidErrorMsg" type="hidden" value="" />
+                    <input id="hidShowThankYou" type="hidden" value="False" />
+                    <input id="hidShowCannotShare" type="hidden" value="False" />
+                    <input id="hidIsLimitExceeded" type="hidden" value="False" />
+                    <input id="hidInputLeft" type="hidden" value="0" />
+                    <input id="hidThankYouLeft" type="hidden" value="0" />
+                    <input id="hidCannotShareLeft" type="hidden" value="0" />
+                </div>
+        </div>
+    </div>
+</div>
+</div>
+<div id="mdcCannotShareLayer" class="mdcHide">
+	<div id="mdcCannotShareOuterBorder">
+    </div>
+    <div id="mdcCannotShareInnerBorder">
+        <div id="mdcCannotShareContent">
+			<div class="mdcEmailClose"><img src="/_layouts/Mdc/Images/Close.gif" onclick="CloseAllLayers();" alt="Close"/></div>   
+			<div class="mdcEmailTitle">Email Research</div>
+			<div class="mdcEmailBlurb">Thank you for your interest in sharing Moody's Research. You have reached the daily limit of  Research email sharings.</div>
+			<div class="mdcButtons">
+				<a class='ResearchEmailButton' onclick="CloseAllLayers();"
+					onmouseout="this.className='ResearchEmailButton'"  
+					onmouseover="this.className='ResearchEmailButtonOver'" 
+					onmousedown="this.className='ResearchEmailButtonDown'" alt="OK">
+					<b><b><span>OK</span></b></b></a>	
+			</div>
+		</div>
+	</div>
+</div>
+<div id="mdcThankYouLayer" class="mdcHide">
+    <div id="mdcThankYouOuterBorder">
+    </div>
+    <div id="mdcThankYouInnerBorder">
+        <div id="mdcThankYouContent">
+            <div class="mdcEmailClose"><img src="/_layouts/Mdc/Images/Close.gif" onclick="TrackEmailThankYouAction();CloseAllLayers();ClearResearchEmailFields();$('#hidShowThankYou').val('False');" alt="Close"/></div>   
+            <div class="mdcEmailTitle">Thank you!</div>
+            <div class="mdcEmailBlurb">You have successfully sent the research.<br>
+				Please note: some research requires a paid subscription in order to access.</div>
+            <div class="mdcButtons">
+	            <a class='ResearchEmailButton' onclick="TrackEmailThankYouAction();CloseAllLayers();ClearResearchEmailFields();$('#hidShowThankYou').val('False');" alt="Ok"
+			            onmouseout="this.className='ResearchEmailButton'"  
+			            onmouseover="this.className='ResearchEmailButtonOver'" 
+			            onmousedown="this.className='ResearchEmailButtonDown'" >
+			            <b><b><span >OK</span></b></b></a>        
+            </div>
+        </div>
+    </div>
+</div>
+<div id="mdcPlaceHolder"></div>
+</div>
+
+<div id="ctl00_ctl00_MdcWebPartManager_ResearchDocumentWebPart_ctl00_UpdateProfileToViewResearchPopupControlPanel">
+
+					</div>
+<div id="mdcResearchDoc">
+    <div class="ResearchDocTopLogo">
+        <table>
+            <tr>
+                <td>
+                    <div id="ResearchDocTopLogoImg">
+                        
+                        <img style="padding-top: 10px;" src="/PublishingImages/researchdoc_logo.gif" />
+                        
+                    </div>
+                </td>
+                <td valign="bottom">
+                    <div id="mdcTools">
+                        <div id="ExportPdf" class="">
+                            <div class="viewResearchToolSeparator">
+                            </div>
+                            
+                            <a target="_blank">
+                                <img src="/_layouts/Mdc/Images/Pdf-icon.gif" /><div class="viewResearchToolText">
+                                    Export PDF
+                                </div>
+                            </a>
+                        </div>
+                        <div id="ExportCsv" class="mdcHide">
+                            <div class="viewResearchToolSeparator">
+                            </div>
+                            <a target="_blank" href="#">
+                                <img src="/_layouts/Mdc/Images/csv-icon.gif" /><div class="viewResearchToolText">
+                                    Export CSV
+                                </div>
+                            </a>
+                        </div>
+                        <div id="EmailDocument" onclick="OpenEmailLayer();" class="mdcHide">
+                            <div class="viewResearchToolSeparator">
+                            </div>
+                            <a href="#">
+                                <img src="/_layouts/Mdc/Images/Email-icon.png" /><div class="viewResearchToolText">
+                                    Email
+                                </div>
+                            </a>
+                        </div>
+                        <div id="PrintDocument">
+                            <a href="#">
+                                <img src="/_layouts/Mdc/Images/Print-icon.png" /><div class="viewResearchToolText">
+                                    Print
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </td>
+                <td width="234px">
+                    <div id="mdcDocSharingButtons" class="mdcDocSharingButtons">
+                        <div id="mdcDocsharingAddthis">
+                            <div id="componentDiv">
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <table>
+        <tr>
+            <td>
+                <div class="mdcDocLeftPartSeperator">
+                </div>
+            </td>
+        </tr>
+    </table>
+    <div class="mdcDocBody">
+        <div class="mdcFloatRight">
+            <div class="mdcDocRelatedOrg">
+                
+<div id="mdcRelatedResearch" class=''>
+    <div id="mdcRelatedResearchHead">
+    <table>
+    <tr>
+        <td><div style="font-size:12px;">Related Issuers</div></td>
+        <td><div id="mdcViewAll">
+			<span class="mdcHide">
+			    <img style="padding-top:0px;" class="mdcCollapse" src="/_layouts/Mdc/Images/expand.gif" /></span></div></td>
+    </tr>
+    </table>
+		    <div class="mdcClear">
+		    </div>
+    </div>
+    <div id="mdcRelatedResearchContent" class="">
+			<div>
+			<table cellpadding="0" cellspacing="0"><tr class='{0}'>
+<td>
+<span class="mdcRefEntityTitle">
+<a href='/credit-ratings/Canadian-Natural-Resources-Limited-credit-rating-600049386' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedOrg~PR_360460~1~600049386','DCS.dcsuri','RelatedOrg/PR_360460/1','WT.cg_n','','WT.cg_s','','WT.pn_sku','');">Canadian Natural Resources Limited</a>
+</span>
+</td>
+</tr>
+</table>
+		
+			</div>
+		</div>
+</div>
+            </div>
+            <div class="mdcDocRelatedStories">
+                
+<div id="mdcRelatedResearch" class=''>
+    <div id="mdcRelatedResearchHead">
+        Related Research
+    </div>
+    <div id="mdcRelatedResearchContent">
+        
+                <table>
+            
+                <tr class="mdcResearchSearchResultItem">
+                    <td>
+                    <input type="hidden" value='PBC_1055693' class="mdcDocumentId" />
+                    <img src="/_layouts/Mdc/Images/lock.png" class="mdcHide" title="The document is not a part of your current subscription."/></td>
+                    <td><a href='/research/Canadian-Natural-Resources-Limited-Update-Following-Recent-Change-in-Outlook--PBC_1055693' target='_blank' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedResearch~PR_360460~1~PBC_1055693','DCS.dcsuri','RelatedResearch/PR_360460/1','WT.cg_n','','WT.cg_s','','WT.mc_id','','WT.pn_sku','');">Credit Opinion: Canadian Natural Resources Limited: Update Following Recent Change in Outlook to Stable</a></td>
+                </tr>
+            
+                <tr class="mdcResearchSearchResultItem">
+                    <td>
+                    <input type="hidden" value='PBC_1054037' class="mdcDocumentId" />
+                    <img src="/_layouts/Mdc/Images/lock.png" class="mdcHide" title="The document is not a part of your current subscription."/></td>
+                    <td><a href='/research/Canadian-Natural-Resources-Limited-Q3-2016-Peer-Snapshot--PBC_1054037' target='_blank' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedResearch~PR_360460~2~PBC_1054037','DCS.dcsuri','RelatedResearch/PR_360460/2','WT.cg_n','','WT.cg_s','','WT.mc_id','','WT.pn_sku','');">Peer Snapshot: Canadian Natural Resources Limited - Q3 2016: Peer Snapshot</a></td>
+                </tr>
+            
+                <tr class="mdcResearchSearchResultItem">
+                    <td>
+                    <input type="hidden" value='PBC_1039688' class="mdcDocumentId" />
+                    <img src="/_layouts/Mdc/Images/lock.png" class="mdcHide" title="The document is not a part of your current subscription."/></td>
+                    <td><a href='/research/Canadian-Natural-Resources-Limited-Peer-Snapshot--PBC_1039688' target='_blank' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedResearch~PR_360460~3~PBC_1039688','DCS.dcsuri','RelatedResearch/PR_360460/3','WT.cg_n','','WT.cg_s','','WT.mc_id','','WT.pn_sku','');">Peer Snapshot: Canadian Natural Resources Limited: Peer Snapshot</a></td>
+                </tr>
+            
+                <tr class="mdcResearchSearchResultItem">
+                    <td>
+                    <input type="hidden" value='PR_344419' class="mdcDocumentId" />
+                    <img src="/_layouts/Mdc/Images/lock.png" class="mdcHide" title="The document is not a part of your current subscription."/></td>
+                    <td><a href='/research/Moodys-downgrades-Canadian-Natural-Resources-to-Baa3-outlook-negative--PR_344419' target='_blank' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedResearch~PR_360460~4~PR_344419','DCS.dcsuri','RelatedResearch/PR_360460/4','WT.cg_n','','WT.cg_s','','WT.mc_id','','WT.pn_sku','');">Rating Action: Moody's downgrades Canadian Natural Resources to Baa3; outlook negative</a></td>
+                </tr>
+            
+                <tr class="mdcResearchSearchResultItem">
+                    <td>
+                    <input type="hidden" value='PR_342867' class="mdcDocumentId" />
+                    <img src="/_layouts/Mdc/Images/lock.png" class="mdcHide" title="The document is not a part of your current subscription."/></td>
+                    <td><a href='/research/Moodys-reviews-the-short-term-Prime-ratings-of-select-Canadian--PR_342867' target='_blank' onmousedown="isRightClick(event);dcsMultiTrack('WT.z_referringsource','RelatedResearch~PR_360460~5~PR_342867','DCS.dcsuri','RelatedResearch/PR_360460/5','WT.cg_n','','WT.cg_s','','WT.mc_id','','WT.pn_sku','');">Rating Action: Moody's reviews the short-term Prime ratings of select Canadian energy issuers for downgrade</a></td>
+                </tr>
+            
+                </table>
+            
+    </div>
+</div>
+            </div>
+            <div class="mdcDocRelatedOrg">
+                
+                
+            </div>
+            
+        </div>
+        <div id="mdcMainContent" class="">
+            <div id="mdcmdcResearchDocHeader">
+                <!--<div class="mdcPageTitleSeperator">
+            </div> -->
+                <div id="mdcRDHeader">
+                    <span class="mdcPageType">Rating Action: </span><h1><span class="mdcPageTitle">Moody's changes CNRL's Baa3 outlook to stable</span></h1>
+                    
+                </div>
+                <div class="mdcClear">
+                </div>
+            </div>
+            
+            
+            <div id="mdcRDBottom">
+                <div class="mdcBodyHeader">
+                    Global Credit Research - 10 Jan 2017
+                </div>
+                <div id="wcoZoomImageContainer" class='mdcHide'>
+                    <img class="wcoFullImage" src="/_layouts/Mdc/Images/AjaxLoadingCircle.gif" />
+                </div>
+                <div id="wcoArticleCenter" class="">
+                    
+                    
+                    <div class="mdcNoIframe">
+                        
+                        
+
+<div id="mdcRDBottomContent">
+     
+<H4>
+Approximately $9 billion of debt affected
+</H4>
+<P>
+Toronto, January 10, 2017 -- Moody's Investors Service, (&quot;Moody's&quot;) changed 
+Canadian Natural Resources Limited's (CNRL) outlook to stable from negative. 
+Moody's affirmed CNRL's Baa3 senior unsecured rating, 
+(P)Baa3 senior unsecured shelf and MTN ratings and Prime-3 commercial 
+paper rating.
+</P>
+<P>
+</P>
+<P>
+&quot;The change in Canadian Natural Resources' outlook to stable reflects 
+declining leverage as the Horizon project advances, adding economic 
+production and boosting cash flow,&quot; said Terry Marshall, Moody's 
+Senior Vice President. &quot;Higher EBITDA and some debt reduction from 
+free cash flow generation will improve leverage to levels more reasonable 
+for the rating.&quot;
+</P>
+<P>
+</P>
+<P>
+Outlook Actions:
+</P>
+<P>
+..Issuer: Canadian Natural Resources Limited
+</P>
+<P>
+....Outlook, Changed To Stable From 
+Negative
+</P>
+<P>
+</P>
+<P>
+Affirmations:
+</P>
+<P>
+..Issuer: Canadian Natural Resources Limited
+</P>
+<P>
+....Senior Unsecured Commercial Paper (Foreign 
+Currency), Affirmed P-3
+</P>
+<P>
+....Senior Unsecured Medium-Term Note 
+Program (Local Currency), Affirmed (P)Baa3
+</P>
+<P>
+....Senior Unsecured Medium-Term Note 
+Program (Local Currency) Oct 22, 2017, Affirmed (P)Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Jun 3, 2024, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Aug 14, 2020, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Feb 1, 2025, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Jan 15, 2018, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Dec 3, 2019, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Apr 15, 2024, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Feb 11, 2022, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Jan 15, 2032, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Jun 30, 2033, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Nov 15, 2021, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Feb 15, 2037, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Feb 1, 2018, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Feb 1, 2039, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Jun 19, 2019, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Mar 15, 2038, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) May 15, 2017, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Local Currency) Aug 14, 2020, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Regular Bond/Debenture 
+(Foreign Currency) Feb 1, 2035, Affirmed Baa3
+</P>
+<P>
+....Senior Unsecured Shelf (Foreign Currency), 
+Affirmed (P)Baa3
+</P>
+<P>
+....Senior Unsecured Shelf (Foreign Currency) 
+Nov 22, 2017, Affirmed (P)Baa3
+</P>
+<P>
+</P>
+<P>
+RATINGS RATIONALE
+</P>
+<P>
+</P>
+<P>
+CNRL's Baa3 senior unsecured rating reflects its large, diversified, 
+low cost and low decline production platform and assets base offset by 
+liquidity management that relies on capital markets access and a high 
+debt level. CNRL produces about 800,000 barrels per day (bbls/d) 
+of roughly balanced natural gas, light and heavy oil, with 
+the proportion of high value synthetic crude oil production increasing 
+as the Horizon expansion has made significant progress towards full completion. 
+CNRL's long-lived mining oil sands reserves are a key support for 
+the rating, with expected production of 250,000 barrels per 
+day (bbls/d) in 2018 (up from about 160,000 bbls/d in October 2016). 
+With Horizon ramping up in 2017 and fully on-line in 2018, 
+we expect that the company's increased EBITDA together with modest 
+debt reduction will improve leverage metrics considerably, with 
+RCF to debt trending towards 30% and debt/EBITDA declining to below 
+3x in 2018. CNRL's liquidity management often leaves it with 
+insufficient cash flow and committed available liquidity to fund its debt 
+maturities over the next 12 to 18 months, an unusual position for 
+an investment grade company.
+</P>
+<P>
+</P>
+<P>
+CNRL's liquidity is inadequate. The approximately C$2 billion 
+of combined cash and availability under CNRL's credit facilities 
+plus free cash flow of about $500 million under Moody's price 
+estimates is insufficient to fund approximately C$4.1 billion 
+of debt maturities through April 30, 2018. At September 30, 
+2016, CNRL had negligible cash and approximately C$1.9 
+billion of availability (approximately C$2.0 billion of 
+revolver borrowings, C$650 million of commercial paper borrowings 
+after C$280 million of letters of credit) under two committed revolving 
+credit facilities totaling C$4.8 billion. Debt maturities 
+through April 2018 include a US$1.1 billion bond due in 
+May 2017, a US$600 million bond due in January 2018, 
+a US$400 million bond due in February 2018 and a C$1.5 
+billion term loan due in April 2018 . We expect that the maturities 
+will be funded through a combination of drawings under the revolvers, 
+free cash flow, debt capital markets issuance and alternate liquidity, 
+which includes cross currency swaps and ownership stakes in PrairieSky 
+Royalty Ltd. and Inter Pipeline. The revolving credit facilities 
+are comprised of two C$2.4 billion facilities that mature 
+in June 2019 and June 2020. CNRL's US$2.5 billion 
+US market commercial paper program (P-3) is backstopped by the 
+revolvers. CNRL will be well in compliance with its sole financial 
+covenant (Consolidated Debt to Total Capitalization to be less than 65%).
+</P>
+<P>
+</P>
+<P>
+The stable outlook reflects declining leverage in 2017 and 2018 as Horizon 
+ramps up and is fully completed in late 2017, which will add significant 
+economical production.
+</P>
+<P>
+</P>
+<P>
+We expect oil prices to remain in a range of $40 to $60 
+per barrel for the medium term with significant volatility both within 
+and outside that band. The rating could be upgraded if CNRL can 
+sustain RCF/Debt above 25% and an LFCR approaching 1.5x 
+at the low end of that commodity price range. An upgrade would 
+also be dependent on CNRL having sufficient cash, free cash flow 
+and committed available liquidity to fund the next two years of debt maturities.
+</P>
+<P>
+</P>
+<P>
+The rating could be downgraded to Ba1 if RCF/debt appears to stay sustainably 
+below 15%.
+</P>
+<P>
+</P>
+<P>
+Canadian Natural Resources Limited, headquartered in Calgary, 
+Alberta, is one of North America's largest independent exploration 
+and production companies with approximately 5 billion barrels of oil equivalent 
+(boe) proved reserves and 753,000 boe per day of production, 
+respectively.
+</P>
+<P>
+</P>
+<P>
+The principal methodology used in these ratings was Global Independent 
+Exploration and Production Industry published in December 2011. 
+Please see the Rating Methodologies page on www.moodys.com 
+for a copy of this methodology.
+</P>
+<P>
+</P>
+<P>
+REGULATORY DISCLOSURES
+</P>
+<P>
+</P>
+<P>
+For ratings issued on a program, series or category/class of debt, 
+this announcement provides certain regulatory disclosures in relation 
+to each rating of a subsequently issued bond or note of the same series 
+or category/class of debt or pursuant to a program for which the ratings 
+are derived exclusively from existing ratings in accordance with Moody's 
+rating practices. For ratings issued on a support provider, 
+this announcement provides certain regulatory disclosures in relation 
+to the credit rating action on the support provider and in relation to 
+each particular credit rating action for securities that derive their 
+credit ratings from the support provider's credit rating. 
+For provisional ratings, this announcement provides certain regulatory 
+disclosures in relation to the provisional rating assigned, and 
+in relation to a definitive rating that may be assigned subsequent to 
+the final issuance of the debt, in each case where the transaction 
+structure and terms have not changed prior to the assignment of the definitive 
+rating in a manner that would have affected the rating. For further 
+information please see the ratings tab on the issuer/entity page for the 
+respective issuer on www.moodys.com.
+</P>
+<P>
+</P>
+<P>
+For any affected securities or rated entities receiving direct credit 
+support from the primary entity(ies) of this credit rating action, 
+and whose ratings may change as a result of this credit rating action, 
+the associated regulatory disclosures will be those of the guarantor entity. 
+Exceptions to this approach exist for the following disclosures, 
+if applicable to jurisdiction: Ancillary Services, Disclosure 
+to rated entity, Disclosure from rated entity.
+</P>
+<P>
+</P>
+<P>
+The rating has been disclosed to the rated entity or its designated agent(s) 
+and issued with no amendment resulting from that disclosure.
+</P>
+<P>
+</P>
+<P>
+Moody's has not provided advisory services but may have provided 
+Ancillary or Other Permissible Service(s) to the rated entity, its 
+related third parties and/or the party that requested the rating within 
+the past two years (including during the most recently ended fiscal year). 
+Please see the special report &quot;Ancillary or other permissible services 
+provided to entities rated by MIS's credit rating agency in Canada&quot; 
+on the ratings disclosure page www.moodys.com/disclosures 
+on our website for further information.
+</P>
+<P>
+</P>
+<P>
+Regulatory disclosures contained in this press release apply to the credit 
+rating and, if applicable, the related rating outlook or rating 
+review.
+</P>
+<P>
+Please see www.moodys.com for any updates on changes to 
+the lead rating analyst and to the Moody's legal entity that has issued 
+the rating.
+</P>
+<P>
+Please see the ratings tab on the issuer/entity page on www.moodys.com 
+for additional regulatory disclosures for each credit rating.
+</P>
+<P>
+Terry Marshall<BR>
+Senior Vice President<BR>
+Corporate Finance Group<BR>
+Moody's Canada Inc.<BR>
+70 York Street<BR>
+Suite 1400<BR>
+Toronto, ON M5J 1S9<BR>
+Canada<BR>
+(416) 214-1635<BR>
+</P>
+<P>
+Donald S. Carter, CFA<BR>
+MD - Corporate Finance<BR>
+Corporate Finance Group<BR>
+(416) 214-1635<BR>
+</P>
+<P>
+Releasing Office:<BR>
+Moody's Canada Inc.<BR>
+70 York Street<BR>
+Suite 1400<BR>
+Toronto, ON M5J 1S9<BR>
+Canada<BR>
+(416) 214-1635<BR>
+</P>
+
+</div>
+                    </div>
+                </div>
+                <div id="NoResearchDocData" class="mdcHide">
+                    <font>No Related Data.</font>
+                </div>
+                <div id="mdcBottomLogo" class="mdcBottomLogo">
+                    
+                    <img style="padding-top: 10px;" src="/PublishingImages/researchdoc_logo.gif" />
+                    
+                </div>
+                <div class="mdcClear">
+                </div>
+                <div id="ratingComments">
+                </div>
+                <div class="mdcClear">
+                </div>
+                <div id="mdcRDCopyright">
+                    © 2017 Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “MOODY’S”). All rights reserved. <br /><br /><strong>CREDIT RATINGS ISSUED BY MOODY'S INVESTORS SERVICE, INC. AND ITS RATINGS AFFILIATES (“MIS”) ARE MOODY’S CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND MOODY’S PUBLICATIONS MAY INCLUDE MOODY’S CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES. MOODY’S DEFINES CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT MEET ITS CONTRACTUAL, FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED FINANCIAL LOSS IN THE EVENT OF DEFAULT. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK, INCLUDING BUT NOT LIMITED TO: LIQUIDITY RISK, MARKET VALUE RISK, OR PRICE VOLATILITY. CREDIT RATINGS AND MOODY’S OPINIONS INCLUDED IN MOODY’S PUBLICATIONS ARE NOT STATEMENTS OF CURRENT OR HISTORICAL FACT. MOODY’S PUBLICATIONS MAY ALSO INCLUDE QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED OPINIONS OR COMMENTARY PUBLISHED BY MOODY’S ANALYTICS, INC. CREDIT RATINGS AND MOODY’S PUBLICATIONS DO NOT CONSTITUTE OR PROVIDE INVESTMENT OR FINANCIAL ADVICE, AND CREDIT RATINGS AND MOODY’S PUBLICATIONS ARE NOT AND DO NOT PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR HOLD PARTICULAR SECURITIES. NEITHER CREDIT RATINGS NOR MOODY’S PUBLICATIONS COMMENT ON THE SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY’S ISSUES ITS CREDIT RATINGS AND PUBLISHES MOODY’S PUBLICATIONS WITH THE EXPECTATION AND UNDERSTANDING THAT EACH INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR PURCHASE, HOLDING, OR SALE.</strong> <br /><br />MOODY’S CREDIT RATINGS AND MOODY’S PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS AND INAPPROPRIATE FOR RETAIL INVESTORS TO USE MOODY’S CREDIT RATINGS OR MOODY’S PUBLICATIONS WHEN MAKING AN INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER PROFESSIONAL ADVISER. <br /><br />ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT. <br /><br />All information contained herein is obtained by MOODY’S from sources believed by it to be accurate and reliable. Because of the possibility of human or mechanical error as well as other factors, however, all information contained herein is provided “AS IS” without warranty of any kind. MOODY'S adopts all necessary measures so that the information it uses in assigning a credit rating is of sufficient quality and from sources MOODY'S considers to be reliable including, when appropriate, independent third-party sources. However, MOODY’S is not an auditor and cannot in every instance independently verify or validate information received in the rating process or in preparing the Moody’s publications. <br /><br />To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability to any person or entity for any indirect, special, consequential, or incidental losses or damages whatsoever arising from or in connection with the information contained herein or the use of or inability to use any such information, even if MOODY’S or any of its directors, officers, employees, agents, representatives, licensors or suppliers is advised in advance of the possibility of such losses or damages, including but not limited to: (a) any loss of present or prospective profits or (b) any loss or damage arising where the relevant financial instrument is not the subject of a particular credit rating assigned by MOODY’S. <br /><br />To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability for any direct or compensatory losses or damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, willful misconduct or any other type of liability that, for the avoidance of doubt, by law cannot be excluded) on the part of, or any contingency within or beyond the control of, MOODY’S or any of its directors, officers, employees, agents, representatives, licensors or suppliers, arising from or in connection with the information contained herein or the use of or inability to use any such information. <br /><br />NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OF ANY SUCH RATING OR OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY MOODY’S IN ANY FORM OR MANNER WHATSOEVER. <br /><br />Moody’s Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody’s Corporation (“MCO”), hereby discloses that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by Moody’s Investors Service, Inc. have, prior to assignment of any rating, agreed to pay to Moody’s Investors Service, Inc. for appraisal and rating services rendered by it fees ranging from $1,500 to approximately $2,500,000. MCO and MIS also maintain policies and procedures to address the independence of MIS’s ratings and rating processes. Information regarding certain affiliations that may exist between directors of MCO and rated entities, and between entities who hold ratings from MIS and have also publicly reported to the SEC an ownership interest in MCO of more than 5%, is posted annually at <a href="/Lists/MiscellaneousConfigurations/www.moodys.com">www.moodys.com</a> under the heading “Investor Relations — Corporate Governance — Director and Shareholder Affiliation Policy.” <br /><br />Additional terms for Australia only: Any publication into Australia of this document is pursuant to the Australian Financial Services License of MOODY’S affiliate, Moody’s Investors Service Pty Limited ABN 61 003 399 657AFSL 336969 and/or Moody’s Analytics Australia Pty Ltd ABN 94 105 136 972 AFSL 383569 (as applicable). This document is intended to be provided only to “wholesale clients” within the meaning of section 761G of the Corporations Act 2001. By continuing to access this document from within Australia, you represent to MOODY’S that you are, or are accessing the document as a representative of, a “wholesale client” and that neither you nor the entity you represent will directly or indirectly disseminate this document or its contents to “retail clients” within the meaning of section 761G of the Corporations Act 2001. MOODY’S credit rating is an opinion as to the creditworthiness of a debt obligation of the issuer, not on the equity securities of the issuer or any form of security that is available to retail investors. It would be reckless and inappropriate for retail investors to use MOODY’S credit ratings or publications when making an investment decision. If in doubt you should contact your financial or other professional adviser. <br /><br />Additional terms for Japan only: Moody's Japan K.K. (“MJKK”) is a wholly-owned credit rating agency subsidiary of Moody's Group Japan G.K., which is wholly-owned by Moody’s Overseas Holdings Inc., a wholly-owned subsidiary of MCO. Moody’s SF Japan K.K. (“MSFJ”) is a wholly-owned credit rating agency subsidiary of MJKK. MSFJ is not a Nationally Recognized Statistical Rating Organization (“NRSRO”). Therefore, credit ratings assigned by MSFJ are Non-NRSRO Credit Ratings. Non-NRSRO Credit Ratings are assigned by an entity that is not a NRSRO and, consequently, the rated obligation will not qualify for certain types of treatment under U.S. laws. MJKK and MSFJ are credit rating agencies registered with the Japan Financial Services Agency and their registration numbers are FSA Commissioner (Ratings) No. 2 and 3 respectively. <br /><br />MJKK or MSFJ (as applicable) hereby disclose that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by MJKK or MSFJ (as applicable) have, prior to assignment of any rating, agreed to pay to MJKK or MSFJ (as applicable) for appraisal and rating services rendered by it fees ranging from JPY200,000 to approximately JPY350,000,000. <br /><br />MJKK and MSFJ also maintain policies and procedures to address Japanese regulatory requirements. <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input id="mdcHiddenDocId" type="hidden" value="PR_360460" />
+<input id="mdcHiddenUserId" type="hidden" value='' />
+
+				</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl00_MdcWebPartManager_BottomGoToPreviousPage" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="false" id="WebPartctl00_ctl00_MdcWebPartManager_BottomGoToPreviousPage" width="100%" class="ms-WPBody noindex" allowMinimize="false" allowRemove="false" allowDelete="false" style="" ><div id="ctl00_ctl00_MdcWebPartManager_BottomGoToPreviousPage">
+					
+<div id="mdcBackPrevious">
+	<a href="javascript:history.back()">Back to Previous Page</a>
+</div>
+
+				</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+
+        </div>
+    </div>
+    <div class="mdcClear">
+    </div>
+
+                    </div>
+                </div>
+                <div id="mdcMinWidthBottom">
+                </div>
+                <div id="mdcFoot">
+                    <script src="/_Layouts/MDC/Scripts/Library/jquery.scrollTo.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+<div class="page-footer">
+    <div class="footer-top">
+        <div class="integrity-hotline">
+            <h4>Moody's Integrity Hotline</h4>
+            <h5>EU</h5>
+
+<pre>
+001-800-506-1440</pre>
+
+<h5>Japan</h5>
+
+<pre>
+KDDI: 00-539-111 then 888-320-1668
+NTT: 0034-811-001 then 888-320-1668</pre>
+
+<h5>Outside of the EU and Japan</h5>
+
+<pre>
+1-866-330-MDYS (6397)</pre>
+        </div>
+        
+        <div class="link-group-content">
+            <div class="link-group first">
+                <label>Browse By</label>
+                <a class="isCrossLink" href="/">Home</a><a class="isCrossLink" href="/researchandratings?lang=en&cy=global">Research & Ratings</a><a class="isCrossLink" href="/productandsolutions?lang=en&cy=global">Products & Solutions</a><a class="isCrossLink" href="/newsandevents?lang=en&cy=global">News & Events</a><a class="isCrossLink" href="/careers">Careers</a>
+            </div>
+            <div class="link-group">
+                <label>Contact Us</label>
+                <a class="isCrossLink" href="/pages/helpsupportfaq.aspx">Help & Support</a><a class="isCrossLink" href="/Pages/contactus.aspx">Contact Us</a><a class="isCrossLink" href="/Pages/reg001009.aspx">Submit a Complaint</a>
+            </div>
+            <div class="link-group last">
+                <label>Terms & Conditions</label>
+                <a class="isCrossLink" href="/termsofuseinfo.aspx?lang=en&cy=global">Terms of Use</a><a class="isCrossLink" href="/privatepolicy.aspx?lang=en&cy=global">Privacy Policy</a><a class="isCrossLink" href="/proprietaryrights.aspx?lang=en&cy=global">Proprietary Rights</a>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="footer-copyright">
+            © 2017 Moody's Investors Service, Inc., Moody’s Analytics, Inc. and/or their affiliates and licensors. All rights reserved.
+        </div>
+        <div id="mdcRegion" class="footer-regional-sites">
+           Regional Sites:
+            <select name="regionSite">
+                <option value='/' selected='selected'>Global</option><option value='/pages/default_ar.aspx'>Argentina</option><option value='/pages/default_as.aspx'>Asia</option><option value='/pages/default_au.aspx'>Australia</option><option value='/pages/default_ar.aspx?d=1'>Bolivia</option><option value='/pages/default_br.aspx'>Brazil</option><option value='/pages/default_ca.aspx'>Canada</option><option value='/pages/default_ce.aspx'>CEE</option><option value='/pages/default_ch.aspx'>China</option><option value='/pages/default_cz.aspx'>Czech Republic</option><option value='/pages/default_ee.aspx'>CIS</option><option value='/pages/default_em.aspx'>EMEA</option><option value='/pages/default_fr.aspx'>France</option><option value='/pages/default_de.aspx'>Germany</option><option value='http://www.moodysindonesia.com'>Indonesia</option><option value='http://www.moodys.co.in'>India</option><option value='/pages/default_it.aspx'>Italy</option><option value='/pages/default_ja.aspx'>Japan</option><option value='/pages/default_ko.aspx'>Korea</option><option value='/pages/default_mx.aspx'>Mexico</option><option value='/pages/default_me.aspx'>Middle East</option><option value='/pages/default_pl.aspx'>Poland</option><option value='/pages/default_sa.aspx'>South Africa</option><option value='/pages/default_es.aspx'>Spain</option><option value='/pages/default_tu.aspx'>Turkey</option><option value='/pages/default_tw.aspx'>Taiwan</option><option value='/pages/default_ar.aspx?d=2'>Uruguay</option>           
+            </select>
+        </div>
+    </div>
+</div>
+
+
+   
+
+                </div>
+            </div>
+            <div class="mdcClear"></div>
+        </div>
+        <div id="mdcBottomDecorator">
+        </div>
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vNoOKGv/+mIfrNVqwaYSsAGF8smWXJS9EdUvIvq8+0rQSYtv7lKy2ja2tjkN3Q9bRYEU1MTXGRuMdZbB8L73YDvtTujCTy0ixDUUGQ3hl2Ub2cFV" />
+</div>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script><script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");</script><script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy\u00252BA\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script><script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=1VDxRR0oL3\u00252FEtgWNP2\u00252BGbQ\u00253D\u00253D");</script>
+<script type="text/javascript">
+//<![CDATA[
+var _fV4UI = true;//]]>
+</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");</script><script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fie55up.js?rev=UgTcwUTI6YcRzTMBxD93Xg\u00253D\u00253D");</script>
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    
+    
+<div id="mdcRegActivationFlyoutMsgBox" class="mdcHide">
+
+</div>
+        
+	
+	
+    <script src="/_layouts/Mdc/Scripts/CreditModel/tabWebTrends.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var countryName = $.cookie("MDC.USER.REDIRECED_TO");
+            var bannerShowedName = "MDC.USER.REDIRECED_BANNER_SHOWED";
+            var bannerShowed = $.cookie(bannerShowedName);
+            if (countryName && countryName != 'N/A' && bannerShowed != "yes") {
+                $('#pBackToGlobalMsg').text('You are visiting Moodys.com ' + countryName + ' site. Would you like to go back to Global site?');
+                $('.mdcTopPopupMsg').show("slow");
+                
+                $.cookie(bannerShowedName, 'yes', { path: '/' });
+                
+                var originalUrl = $.cookie('X-Original-URL');
+                $.cookie('X-Original-URL', null, { path: '/' });
+
+                $('#btnBackToGlobalYes').click(function () {
+                    location.href = originalUrl;
+                });
+
+                $('#btnBackToGlobalNo').click(function () {    
+                    $('.mdcTopPopupMsg').hide();
+                });
+            }
+        });
+    </script>
+	<script src="/_layouts/Mdc/Scripts/Global/mdc_contactus.js?v=30.0.0.0_1228-6d1fc980-cb2f-11e6-87b9-2016d899931c" type="text/javascript"></script>
+
+    
+    
+
+    
+
+<script type="text/javascript">
+    (function ($, root, undefined) {
+        "use strict";
+
+        root._tag = new WebTrends('dcsipvjnz00000s10j9g1ag1w_3v2d', 'ap1.v3.moodys.com,e2e1.v3.moodys.com,e2e2.v3.moodys.com,e2e3.v3.moodys.com,e2e1.moodys.com,e2e2.moodys.com,e2e3.moodys.com,staging.v3.moodys.com,staging.moodys.com,v3.moodys.com,www.moodys.com');
+        root._tag.dcsGetIdSync($);
+    } (jQuery, window));
+</script>
+<noscript>
+    <div style='display: none'>
+        <img alt='DCSIMG' id='DCSIMG' width='1' height='1' src='//statse.webtrendslive.com/dcsnolwjk100008mm6kpnhg1w_6g2c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2' /></div>
+</noscript>
+
+    
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+    (function(){var g=function(e,h,f,g){
+        this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+        this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+        this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+        this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+        this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+        try{(new g(100,"r","QSI_S_ZN_50EkBw33KeDT6Kx","//zn50ekbw33kedt6kx-moodys.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_50EkBw33KeDT6Kx&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_50EkBw33KeDT6Kx'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+</body>
+</html>

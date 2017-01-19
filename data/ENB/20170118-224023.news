@@ -1,0 +1,2335 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Enbridge increases dividend by 10% - MarketWatch</title>
+  <link id="canonical-link" rel="canonical" href="http://www.marketwatch.com/story/enbridge-increases-dividend-by-10-2017-01-05" />
+  <link rel="amphtml" href="http://www.marketwatch.com/amp/story/guid/EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1" />
+      <link rel="alternate" href="mwatch://article?id=EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1" />
+      <meta name="apple-itunes-app" content="app-id=336693422,app-argument=mwatch://article?id=EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1" />
+    <link href='http://mw4.wsj.net/public/article.min-cb215dac8e.css' media='all' rel='stylesheet' type='text/css'/>
+    <script src='http://mw4.wsj.net/public/article.min-ebaf39a94a.js' type='text/javascript'></script>
+    <meta charset="utf-8" >
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" >
+<meta name="page.site" content="marketwatch" >
+<meta name="lifp_basePath" content="https://id.marketwatch.com/access" >
+<meta name="apple-itunes-app" content="app-id=336693422" >
+<meta name="fb:app_id" content="283204329838" >
+<meta property="og:site_name" content="MarketWatch" >
+<meta name="twitter:site:id" content="624413" >
+<meta name="twitter:domain" content="marketwatch.com" >
+<meta name="article.content_group" content="marketwatch" >
+<meta name="article.id" content="EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1" >
+<meta name="article.section" content="Industries" >
+<meta name="article:publisher" content="https://www.facebook.com/marketwatch" >
+<meta name="author" content="Claudia Assis" >
+<meta name="description" >
+<meta property="og:description" >
+<meta name="twitter:description" >
+<meta property="og:type" content="article" >
+<meta property="og:url" content="http://www.marketwatch.com/story/enbridge-increases-dividend-by-10-2017-01-05" >
+<meta property="og:title" content="Enbridge increases dividend by 10%" >
+<meta name="article.column" content="Market Pulse" >
+<meta name="article.doctype" content="91" >
+<meta name="article.template" content="Pulse" >
+<meta name="news_keywords" content="Gas/Utilities,Oil and Gas,Energy,US:ENB,US:SE" >
+<meta name="robots" content="noarchive,noodp" >
+<meta property="og:image" content="http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png" >
+<meta name="twitter:domain" content="marketwatch.com" >
+<meta name="twitter:image" content="http://mw3.wsj.net/mw5/content/logos/mw_mark.svg" >
+<meta name="twitter:image:width" content="1200" >
+<meta name="twitter:image:height" content="630" >
+<meta name="twitter:card" content="summary_large_image" >
+<meta name="twitter:creator" content="@ClaudiaAssisMW" >
+<meta name="parsely-title" content="Enbridge increases dividend by 10%" >
+<meta name="parsely-link" content="http://www.marketwatch.com/story/enbridge-increases-dividend-by-10-2017-01-05" >
+<meta name="parsely-type" content="post" >
+<meta name="parsely-section" content="Industries" >
+<meta name="parsely-author" content="Claudia Assis" >
+<meta name="parsely-pub-date" content="2017-01-05T17:28:00-05:00" >
+<meta name="parsely-tags" content="Market Pulse,91,Pulse,Gas/Utilities,Oil and Gas,Energy,US:ENB,US:SE" >
+  <script type="text/javascript">
+    window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);
+    ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"6e882eab2f",applicationID:"4126423",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}
+  </script>
+  <script>
+      var slotMachine = (function () {
+          var _slots = {};
+          return {
+              add: function(name, slot, id) {
+                  if (!_slots[name]) { _slots[name] = {} };
+                  _slots[name].slot = slot;
+                  _slots[name].id = id;
+              },
+              get: function(key) {
+                  if (typeof key === 'string') {
+                      return _slots[key];
+                  }
+                  else if (typeof key === 'object') {
+                      for (var name in _slots) {
+                          if (_slots.hasOwnProperty(name) && _slots[name].slot === key) {
+                              return name;
+                          }
+                      }
+                  }
+              },
+              getAll: function(device) {
+                  return _slots;
+              },
+              onRenderEnd: function (event) {
+                  var name = slotMachine.get(event.slot);
+                  if (_slots[name]) {
+                      _slots[name].rendered = true;
+                  }
+                  if ($) {
+                      //$(window).trigger('adRendered', { name: name, slot: event.slot });
+                      $('#' + _slots[name].id).trigger('rendered', { name: name, slot: event.slot });
+                  }
+              },
+              slots: _slots
+          }
+      })();
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().addEventListener('slotRenderEnded', slotMachine.onRenderEnd);
+        googletag.enableServices();
+    });
+
+
+        var prebidEnabled = true;
+  </script>
+
+
+  <script>
+    var _sf_startpt=(new Date()).getTime();
+  </script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body class="">
+
+<div id="banner-chrome">
+        <div class="container--bannerAd">
+                    <div id="ad-banner" class="ad      " data-name="Banner"  data-conditions="16" data-proximic="true"    
+                    size="728x90,970x66,970x90">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/marketwatch.com/industries_story', [[728, 90],[970, 66],[970, 90]], 'ad-banner')
+                                        .addService(googletag.pubads());
+                                    googletag.display('ad-banner');    
+                    slotMachine.add('Banner', slot, 'ad-banner');
+                            });
+                        </script>
+                    </div>
+        </div>
+
+<header id="site-header" role="banner" class="">
+    <div class="lame-content-wrapper">
+        <div id="latest-news">
+            <h3 class="module-header">
+                <a href="http://www.marketwatch.com/newsviewer/">Latest <b>News</b></a>
+                <div class="scroll-up fa fa-angle-up"></div>
+                <div class="scroll-down fa fa-angle-down"></div>
+            </h3>
+                <div class="header-data">
+                  <div id="market-overview-placeholder">
+                    <div id="market-overview" class="timer" data-timer-interval="10000" data-timer-selector="li">
+                      <ul class="fa-ul">
+                            <li class="down active">
+                              <div class="fa-li fa fa-circle icon"></div>
+                              <div class="instrument">
+                                <div class="display">Dow</div>
+                                <div class="quote bgQuote" data-channel="/quotes/zigman/627449/realtime" data-bgformat='{"last":"0,0"}'>
+                                  <span class="price bgLast">19,805</span>
+                                  <span class="change bgChange">-22.05</span>
+                                  <span class="change bgPercentChange">-0.11%</span>
+                                </div>
+                              </div>
+                            </li>
+                            <li class="up ">
+                              <div class="fa-li fa fa-circle icon"></div>
+                              <div class="instrument">
+                                <div class="display">Nasdaq</div>
+                                <div class="quote bgQuote" data-channel="/quotes/zigman/12633936/realtime" data-bgformat='{"last":"0,0"}'>
+                                  <span class="price bgLast">5,556</span>
+                                  <span class="change bgChange">+16.93</span>
+                                  <span class="change bgPercentChange">+0.31%</span>
+                                </div>
+                              </div>
+                            </li>
+                            <li class="up ">
+                              <div class="fa-li fa fa-circle icon"></div>
+                              <div class="instrument">
+                                <div class="display">S&amp;P 500</div>
+                                <div class="quote bgQuote" data-channel="/quotes/zigman/3870025/realtime" data-bgformat='{"last":"0,0"}'>
+                                  <span class="price bgLast">2,272</span>
+                                  <span class="change bgChange">+4.00</span>
+                                  <span class="change bgPercentChange">+0.18%</span>
+                                </div>
+                              </div>
+                            </li>
+                      </ul>
+                    </div>
+                  </div>
+                <div class="viewport">
+                    <ul class="headlines">
+                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869883" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Sonny Perdue tapped as Trump’s agriculture secretary" data-share-url="http://www.marketwatch.com/story/sonny-perdue-tapped-as-trumps-agriculture-secretary-2017-01-18">
+                            
+                              <span class="timestamp">10:26 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/sonny-perdue-tapped-as-trumps-agriculture-secretary-2017-01-18?mod=MW_story_latest_news">
+                                  Sonny Perdue tapped as Trump’s agriculture secretary
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869882" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Why Donald Trump is having such a hard time finding A-list celebrities to attend his inauguration" data-share-url="http://www.marketwatch.com/story/why-trump-is-having-such-a-hard-time-finding-celebrities-to-attend-his-inauguration-2017-01-17">
+                            
+                              <span class="timestamp">9:17 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/why-trump-is-having-such-a-hard-time-finding-celebrities-to-attend-his-inauguration-2017-01-17?mod=MW_story_latest_news">
+                                    <span class="label Updated">Updated</span>
+      Why Donald Trump is having such a hard time finding A-list celebrities to attend his inauguration
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869881" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Canadian Pacific CEO Hunter Harrison steps down early, targeting CSX takeover " data-share-url="http://www.marketwatch.com/story/canadian-pacific-ceo-hunter-harrison-steps-down-early-to-pursue-csx-2017-01-18">
+                            
+                              <span class="timestamp">8:13 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/canadian-pacific-ceo-hunter-harrison-steps-down-early-to-pursue-csx-2017-01-18?mod=MW_story_latest_news">
+                                    <span class="label Updated">Updated</span>
+      Canadian Pacific CEO Hunter Harrison steps down early, targeting CSX takeover 
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869877" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Nintendo says ‘Super Mario Run’ coming to Android in March" data-share-url="http://www.marketwatch.com/story/nintendo-says-super-mario-run-coming-to-android-in-march-2017-01-18">
+                            
+                              <span class="timestamp">7:22 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/nintendo-says-super-mario-run-coming-to-android-in-march-2017-01-18?mod=MW_story_latest_news">
+                                  Nintendo says ‘Super Mario Run’ coming to Android in March
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869876" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="President Obama&#39;s &quot;Eight for Eight&quot; Legacy " data-share-url="http://www.marketwatch.com/story/president-obamas-eight-for-eight-legacy-2017-01-18-19115451">
+                            
+                              <span class="timestamp">7:04 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/president-obamas-eight-for-eight-legacy-2017-01-18-19115451?mod=MW_story_latest_news">
+                                  President Obama&#39;s &quot;Eight for Eight&quot; Legacy 
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869875" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="After 90 years, Vegemite is Australian-owned once again" data-share-url="http://www.marketwatch.com/story/after-90-years-vegemite-is-australian-owned-once-again-2017-01-18">
+                            
+                              <span class="timestamp">7:03 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/after-90-years-vegemite-is-australian-owned-once-again-2017-01-18?mod=MW_story_latest_news">
+                                  After 90 years, Vegemite is Australian-owned once again
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869874" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Bill Gates at the World Economic Forum" data-share-url="http://www.marketwatch.com/story/bill-gates-at-the-world-economic-forum-2017-01-18">
+                            
+                              <span class="timestamp">7:01 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/bill-gates-at-the-world-economic-forum-2017-01-18?mod=MW_story_latest_news">
+                                  Bill Gates at the World Economic Forum
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869873" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Ukrainian President Seeks Meeting With President-Elect Trump" data-share-url="http://www.marketwatch.com/story/ukrainian-president-seeks-meeting-with-president-elect-trump-2017-01-18-19115120">
+                            
+                              <span class="timestamp">7:01 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/ukrainian-president-seeks-meeting-with-president-elect-trump-2017-01-18-19115120?mod=MW_story_latest_news">
+                                  Ukrainian President Seeks Meeting With President-Elect Trump
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869872" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="In effort to oust CFPB chief, GOP says he may have violated law" data-share-url="http://www.marketwatch.com/story/in-effort-to-oust-cfpb-chief-gop-says-he-may-have-violated-law-2017-01-18">
+                            
+                              <span class="timestamp">6:50 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/in-effort-to-oust-cfpb-chief-gop-says-he-may-have-violated-law-2017-01-18?mod=MW_story_latest_news">
+                                  In effort to oust CFPB chief, GOP says he may have violated law
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869871" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="CSX Corp. shares jump amid reports of activist targeting" data-share-url="http://www.marketwatch.com/story/csx-corp-shares-jump-amid-reports-of-activist-targeting-2017-01-18">
+                            
+                              <span class="timestamp">6:39 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/csx-corp-shares-jump-amid-reports-of-activist-targeting-2017-01-18?mod=MW_story_latest_news">
+                                    <span class="label Breaking">Breaking</span>
+      CSX Corp. shares jump amid reports of activist targeting
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869870" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Everybody&#39;s chasing Tesla for electric cars at CES" data-share-url="http://www.marketwatch.com/story/everybodys-chasing-tesla-for-electric-cars-at-ces-2017-01-04">
+                            
+                              <span class="timestamp">6:33 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/everybodys-chasing-tesla-for-electric-cars-at-ces-2017-01-04?mod=MW_story_latest_news">
+                                  Everybody&#39;s chasing Tesla for electric cars at CES
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869869" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Raines, Bagwell, Rodriguez elected to Baseball Hall of Fame" data-share-url="http://www.marketwatch.com/story/raines-bagwell-rodriguez-elected-to-baseball-hall-of-fame-2017-01-18">
+                            
+                              <span class="timestamp">6:22 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/raines-bagwell-rodriguez-elected-to-baseball-hall-of-fame-2017-01-18?mod=MW_story_latest_news">
+                                  Raines, Bagwell, Rodriguez elected to Baseball Hall of Fame
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869868" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="These dogs make up to $10K per social media post" data-share-url="http://www.marketwatch.com/story/these-dogs-make-up-to-10k-per-social-media-post-2016-12-09">
+                            
+                              <span class="timestamp">6:21 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/these-dogs-make-up-to-10k-per-social-media-post-2016-12-09?mod=MW_story_latest_news">
+                                  These dogs make up to $10K per social media post
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869867" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Gates Foundation Joins Fight Against Epidemics" data-share-url="http://www.marketwatch.com/story/gates-foundation-joins-fight-against-epidemics-2017-01-18">
+                            
+                              <span class="timestamp">5:58 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/gates-foundation-joins-fight-against-epidemics-2017-01-18?mod=MW_story_latest_news">
+                                  Gates Foundation Joins Fight Against Epidemics
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869866" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="U.S. bankruptcy judge OKs Hanjin’s sale of Long Beach terminal" data-share-url="http://www.marketwatch.com/story/us-bankruptcy-judge-oks-hanjins-sale-of-long-beach-terminal-2017-01-18">
+                            
+                              <span class="timestamp">5:46 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/us-bankruptcy-judge-oks-hanjins-sale-of-long-beach-terminal-2017-01-18?mod=MW_story_latest_news">
+                                  U.S. bankruptcy judge OKs Hanjin’s sale of Long Beach terminal
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869865" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Here&#39;s what Trump means for the tech industry" data-share-url="http://www.marketwatch.com/story/heres-what-trump-means-for-the-tech-industry-2017-01-10">
+                            
+                              <span class="timestamp">5:45 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/heres-what-trump-means-for-the-tech-industry-2017-01-10?mod=MW_story_latest_news">
+                                  Here&#39;s what Trump means for the tech industry
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869864" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Trump’s HHS Pick: No Cuts to Medicare, Medicaid Expected" data-share-url="http://www.marketwatch.com/story/trumps-hhs-pick-no-cuts-to-medicare-medicaid-expected-2017-01-18">
+                            
+                              <span class="timestamp">5:38 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/trumps-hhs-pick-no-cuts-to-medicare-medicaid-expected-2017-01-18?mod=MW_story_latest_news">
+                                  Trump’s HHS Pick: No Cuts to Medicare, Medicaid Expected
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869863" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Netflix earnings send stock to record high: Live blog recap" data-share-url="http://blogs.marketwatch.com/thetell/2017/01/18/netflix-earnings-to-show-payoff-for-original-content-spending-live-blog/">
+                            
+                              <span class="timestamp">5:38 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="http://blogs.marketwatch.com/thetell/2017/01/18/netflix-earnings-to-show-payoff-for-original-content-spending-live-blog/?mod=MW_story_latest_news">
+                                    <span class="label Updated">Updated</span>
+      Netflix earnings send stock to record high: Live blog recap
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869861" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Trump’s ‘bromance’ with Putin poses a major risk for U.S. corporations " data-share-url="http://www.marketwatch.com/story/trumps-bromance-with-putin-poses-a-major-risk-for-us-corporations-2017-01-18">
+                            
+                              <span class="timestamp">5:37 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/trumps-bromance-with-putin-poses-a-major-risk-for-us-corporations-2017-01-18?mod=MW_story_latest_news">
+                                    <span class="label Updated">Updated</span>
+      Trump’s ‘bromance’ with Putin poses a major risk for U.S. corporations 
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                            <li class="shareable" data-sequence="8c077dc4-5ad2-4f73-b9c3-a381c5fece05" data-number="869850" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="Kinder Morgan swings to profit, but sales down" data-share-url="http://www.marketwatch.com/story/kinder-morgan-swings-to-profit-but-sales-down-2017-01-18">
+                            
+                              <span class="timestamp">5:33 P.M. ET</span>
+                              <div class="headline">
+                                <a target="_blank" href="/story/kinder-morgan-swings-to-profit-but-sales-down-2017-01-18?mod=MW_story_latest_news">
+                                  Kinder Morgan swings to profit, but sales down
+                                </a>
+                                <div class="share-icons dark-matter">
+                                  <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+                                  <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+                                </div>
+                              </div>
+</li>                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="site-identity">
+            <a id="site-logo" href="//www.marketwatch.com/">
+                <img class="logo" src="http://mw3.wsj.net/mw5/content/logos/mw_logo_onDark.svg" />
+            </a>
+            <div id="site-share">
+                <div class="social-button facebook">
+                    <a href="https://www.facebook.com/MarketWatch" alt="Like & Follow MarketWatch on Facebook" target="_blank">
+                        <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 330.3 330.3" enable-background="new 0 0 330.3 330.3" xml:space="preserve">
+<path d="M0,0v330.3h330.3V0H0z M284.8,72.1h-30.2c-10.6,0-14.4,6-14.4,14.4v28.7h44.6l-5.3,50.6h-39.3V307h-59.7V165.7h-30.2v-50.6
+	h30.2V86.5c0-34,11.3-61.2,59.7-62.7h44.6V72.1z"/>
+</svg></span>
+                    </a>
+                </div>
+                <div class="social-button twitter">
+                    <a href="https://twitter.com/MarketWatch" alt="Follow MarketWatch on Twitter" target="_blank">
+                        <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 273.4 222.2" enable-background="new 0 0 273.4 222.2" xml:space="preserve">
+<path fill="#FFFFFF" d="M273.4,26.3c-10.1,4.5-20.9,7.5-32.2,8.8c11.6-6.9,20.5-17.9,24.7-31C255,10.5,243,15.2,230.2,17.7
+	C220,6.8,205.4,0,189.3,0c-31,0-56.1,25.1-56.1,56.1c0,4.4,0.5,8.7,1.5,12.8C88,66.5,46.7,44.2,19,10.3c-4.8,8.3-7.6,17.9-7.6,28.2
+	c0,19.5,9.9,36.6,25,46.7c-9.2-0.3-17.8-2.8-25.4-7c0,0.2,0,0.5,0,0.7c0,27.2,19.3,49.8,45,55c-4.7,1.3-9.7,2-14.8,2
+	c-3.6,0-7.1-0.4-10.6-1c7.1,22.3,27.9,38.5,52.4,39c-19.2,15-43.4,24-69.7,24c-4.5,0-9-0.3-13.4-0.8c24.8,15.9,54.3,25.2,86,25.2
+	c103.2,0,159.6-85.5,159.6-159.6c0-2.4-0.1-4.9-0.2-7.3C256.4,47.4,265.9,37.5,273.4,26.3z"/>
+</svg>
+</span>
+                    </a>
+                </div>
+                <div class="social-button linkedin">
+                    <a href="https://www.linkedin.com/company/marketwatch" alt="Follow MarketWatch on LinkedIn" target="_blank">
+                        <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 331.6 333.7" enable-background="new 0 0 331.6 333.7" xml:space="preserve">
+<path d="M178.3,150.5V150c-0.1,0.2-0.2,0.3-0.3,0.5H178.3z M307.1,0H24.5C11,0,0,10.7,0,23.9v285.9c0,13.2,11,23.9,24.5,23.9h282.6
+	c13.5,0,24.5-10.7,24.5-23.9V23.9C331.6,10.7,320.6,0,307.1,0z M100.5,279.3H50.4V128.7h50.1V279.3z M75.5,108.1h-0.3
+	c-16.8,0-27.7-11.6-27.7-26c0-14.8,11.2-26,28.3-26c17.1,0,27.7,11.3,28,26C103.8,96.5,92.9,108.1,75.5,108.1z M281.1,279.3H231
+	v-80.6c0-20.2-7.2-34.1-25.4-34.1c-13.8,0-22.1,9.3-25.7,18.3c-1.3,3.2-1.7,7.7-1.7,12.2v84.1h-50.1c0,0,0.7-136.5,0-150.7h50.1V150
+	c6.6-10.3,18.5-24.9,45.1-24.9c33,0,57.7,21.5,57.7,67.8V279.3z"/>
+</svg></span>
+                    </a>
+                </div>
+                <div class="social-button google-plus">
+                    <a href="https://plus.google.com/+MarketWatch" alt="Follow MarketWatch on Google Plus" target="_blank" rel="publisher">
+                        <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<path fill="#FFFFFF" d="M8.2,0.9c0.1,0.1,0.3,0.2,0.5,0.4c0.2,0.2,0.3,0.4,0.5,0.7c0.2,0.3,0.3,0.6,0.4,0.9C9.8,3.2,9.8,3.6,9.8,4
+	c0,0.8-0.2,1.5-0.5,2C9.1,6.3,8.9,6.5,8.7,6.8C8.5,7,8.3,7.2,8.1,7.4C7.9,7.5,7.8,7.7,7.7,7.9C7.5,8.1,7.5,8.3,7.5,8.6
+	c0,0.2,0.1,0.4,0.2,0.6C7.8,9.3,7.9,9.5,8,9.6l0.8,0.7c0.5,0.4,0.9,0.9,1.3,1.3c0.3,0.5,0.5,1.2,0.5,2c0,1.1-0.5,2.2-1.5,3
+	c-1,0.9-2.5,1.4-4.4,1.4c-1.6,0-2.8-0.4-3.6-1.1C0.4,16.3,0,15.5,0,14.6c0-0.4,0.1-0.9,0.4-1.5c0.3-0.5,0.7-1,1.4-1.4
+	c0.7-0.4,1.5-0.7,2.3-0.9c0.8-0.1,1.5-0.2,2-0.2c-0.2-0.2-0.3-0.5-0.4-0.7C5.5,9.7,5.4,9.4,5.4,9.1c0-0.2,0-0.4,0.1-0.5
+	c0.1-0.1,0.1-0.3,0.1-0.4c-0.3,0-0.5,0-0.7,0C3.7,8.2,2.8,7.8,2.1,7c-0.7-0.7-1-1.6-1-2.5c0-1.2,0.5-2.2,1.4-3.2
+	c0.6-0.6,1.3-0.9,2-1.1C5.3,0.1,5.9,0,6.5,0h4.6L9.7,0.9H8.2z M9.1,14.5c0-0.6-0.2-1.1-0.6-1.6c-0.4-0.4-1-0.9-1.9-1.6
+	c-0.1,0-0.3,0-0.5,0c-0.1,0-0.4,0-0.9,0c-0.5,0.1-1,0.2-1.4,0.3c-0.1,0-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.2-0.6,0.4
+	c-0.2,0.2-0.4,0.4-0.5,0.7c-0.2,0.3-0.2,0.7-0.2,1.1c0,0.8,0.4,1.5,1.1,2.1C3.7,16.7,4.6,17,5.8,17c1.1,0,1.9-0.3,2.5-0.7
+	C8.9,15.8,9.1,15.2,9.1,14.5z M6,7.5c0.6,0,1.1-0.2,1.5-0.7c0.2-0.3,0.3-0.6,0.4-0.9c0-0.3,0-0.6,0-0.8c0-0.9-0.2-1.9-0.7-2.8
+	C7,1.9,6.7,1.5,6.3,1.2C6,0.9,5.6,0.8,5.1,0.8C4.5,0.8,4,1.1,3.6,1.6C3.2,2.1,3,2.7,3.1,3.3c0,0.9,0.2,1.7,0.7,2.7
+	C4,6.4,4.3,6.8,4.7,7.1C5.1,7.4,5.5,7.5,6,7.5z"/>
+<path fill="#FFFFFF" d="M18,7.4h-2.4V5h-1.2v2.5H12v1.2h2.4v2.5h1.2V8.7H18V7.4z"/>
+</svg>
+</span>
+                    </a>
+                </div>
+            </div>
+              <a href="http://www.marketwatch.com" class="user" data-widget="LIFP.login"><i class="fa fa-user"></i>Log In</a>
+        </div>
+
+    </div>
+</header>
+<div id="site-nav-placeholder">
+  <nav id="site-nav" role="navigation">
+    <div class="lame-content-wrapper">
+      <div class="right-stuff">
+
+        <button id="site-search-button" class="fa fa-search"></button>
+      </div>
+      <div id="nav-burger">
+        <div class="nav-items">
+          <button class="close">
+            <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 792 612" overflow="scroll" xml:space="preserve">
+              <polygon fill="#FFFFFF" points="396,320.927 104.927,612 90,600.805 384.805,306 90,14.927 104.927,0 396,294.805 690.805,0 702,14.927 410.927,306 702,600.805 690.805,612 "/>
+            </svg>
+          </button>
+          <div class="nav-item nav-home  with-child" data-callout="FRONT PAGE CALLOUT"  >
+            <a href="/" data-track-click="MW_Nav_FP" class="site-nav-top trackable">Home</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/newsviewer">News Viewer</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/video">Video</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/video/sectorwatch">SectorWatch</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/topics/columns/money-markets-and-more">Podcasts</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/commentary/first-take">First Take</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/game">Games</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/myportfolio">Portfolio</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/my">My MarketWatch</a>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-home-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Home Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_front', [[280, 40]], 'ad-nav-home-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Home Sponsor', slot, 'ad-nav-home-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-news-viewer  "  data-channel="/news/metasearch/mktw/foxtrotlatestnews" data-news-viewer="true">
+            <a href="/newsviewer" data-track-click="MW_Nav_NV" class="site-nav-top trackable">News Viewer</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="news">
+                              <div id="ad-nav-news-viewer-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav News Viewer Sponsor" data-conditions="17" data-proximic="true"    
+                              size="280x40">
+                                  
+                                  <script>
+                                      googletag.cmd.push(function () {
+                                          var slot = googletag.defineSlot('/2/marketwatch.com/nav_newsviewer', [[280, 40]], 'ad-nav-news-viewer-sponsor')
+                                                  .addService(googletag.pubads());
+                                          slotMachine.add('Nav News Viewer Sponsor', slot, 'ad-nav-news-viewer-sponsor');
+                                      });
+                                  </script>
+                              </div>
+                      <div class="articles"></div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-markets  with-child"  data-channel="/news/metasearch/mktw/navdropmarkets" >
+            <a href="/markets" data-track-click="MW_Nav_MA" class="site-nav-top trackable">Markets</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/markets/us">U.S.</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/markets/europe-middle-east">Europe/Middle East</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/markets/emerging-markets">Emerging Markets</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/markets/asia">Asia</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/markets/canada">Canada</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/video/sectorwatch">SectorWatch</a>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Columns</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/market-snapshot">Market Snapshot</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/movers-and-shakers">Movers &amp; Shakers</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/the-tell">The Tell</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/currencies">Currencies</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/futures-movers">Futures Movers</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/need-to-know">Pre-Market News</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Tools</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/earningswall">Earnings Wall</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/marketsummary">Markets Overview</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/ipocalendar">IPO Calendar</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/earningscalendar">Earnings Calendar</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/investing/currencies/tools">Currency Tools</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/marketsummary/futures/contracts.asp">Futures Contracts</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/marketsummary/screener">Market Screener</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/hulbertinteractive">Hulbert Interactive</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-markets-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Markets Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_markets', [[280, 40]], 'ad-nav-markets-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Markets Sponsor', slot, 'ad-nav-markets-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-investing  with-child"  data-channel="/news/metasearch/mktw/navdropinvesting" >
+            <a href="/investing" data-track-click="MW_Nav_INV" class="site-nav-top trackable">Investing</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/investing/stocks">Stocks</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/mutual-funds">Mutual Funds</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/etf">ETFs</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/optionscenter">Options</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/bonds">Bonds</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/commodities">Commodities</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/currencies">Currencies</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/futures">Futures</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/hedge-funds">Hedge Funds/Insider Trades</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/pf/started/gettingstarted_default.asp">Getting Started</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/investing/marketwatch-adviser">MarketWatch Adviser</a>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Columns</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/marketwatch-options-trader?dist=IBILM1AUM">Options Trader</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/revolution-investing?dist=IBILM1AVV">Revolution Investing</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Tools</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/stockresearch/screener/">Stock Screener</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/mutual-fund/screener">Funds Finder</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/etfs/html-adv-screener.asp">ETF Screener</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/optionscenter/screener">Options Screener</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/ipocalendar">IPO Calendar</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/earningscalendar">Earnings Calendar</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/investing/research-tools">More...</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-investing-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Investing Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_investing', [[280, 40]], 'ad-nav-investing-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Investing Sponsor', slot, 'ad-nav-investing-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-trading-deck  "  data-channel="/news/metasearch/mktw/navdroptradingdeck" >
+            <a href="/trading-deck" data-track-click="MW_Nav_TD" class="site-nav-top trackable">Trading Deck</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        .
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-trading-deck-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Trading Deck Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_tradingdeck', [[280, 40]], 'ad-nav-trading-deck-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Trading Deck Sponsor', slot, 'ad-nav-trading-deck-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-personal-finance  with-child"  data-channel="/news/metasearch/mktw/navdroppersonalfinance" >
+            <a href="/personal-finance" data-track-click="MW_Nav_PF" class="site-nav-top trackable">Personal Finance</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/search?m=Column&amp;mp=10%20Things">10 Things</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/search?m=Column&amp;mp=Big%20Spender">Big Spender</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/real-estate">Real Estate</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/spending-saving">Spending &amp; Saving</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/search?m=Column&amp;mp=TaxWatch">Taxes</a>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Columns</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/the-moneyologist">The Moneyologist</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/search?m=Column&amp;mp=Brett%20Arends%27s%20ROI">Brett Arends</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/tax-guy">Bill Bischoff</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/amy-hoaks-home-economics">Amy Hoak</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/chuck-jaffe">Chuck Jaffe</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/jennifer-openshaw">Jennifer Openshaw</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/jennifer-waterss-consumer-confidential">Jennifer Waters</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Tools</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/mutual-fund/screener">Funds Finder</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/tools/pftools/">Today&#39;s Rates</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-personal-finance-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Personal Finance Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_personalfinance', [[280, 40]], 'ad-nav-personal-finance-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Personal Finance Sponsor', slot, 'ad-nav-personal-finance-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-retirement  with-child"  data-channel="/news/metasearch/mktw/navdropretirement" >
+            <a href="/retirement" data-track-click="MW_Nav_Retirement" class="site-nav-top trackable">Retirement</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/locations">Retire Here, Not There</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/topics/columns/encore">Encore</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/taxes">Taxes</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/guides">How-to Guides</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/social-security">Social Security</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/estate-planning">Estate Planning</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/retirement/events">Events</a>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Columns</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/robert-powells-retirement-portfolio">Robert Powell&#39;s Retirement Portfolio</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/andrea-coombes-working-retirement">Andrea Coombes&#39;s Working Retirement</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Tools</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/retirement/tools/retirement-planning-calculator">Retirement Planner</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/retirement/tools/retirement-savings-calculator">How long will my money last?</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-retirement-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Retirement Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_retirement', [[280, 40]], 'ad-nav-retirement-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Retirement Sponsor', slot, 'ad-nav-retirement-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-economy  with-child"  data-channel="/news/metasearch/mktw/navdropeconomypolitics" >
+            <a href="/economy-politics" data-track-click="MW_Nav_EP" class="site-nav-top trackable">Economy</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/topics/columns/the-fed">Federal Reserve</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/topics/columns/capitol-report">Capitol Report</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="/topics/columns/economic-report">Economic Report</a>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Columns</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/darrell-delamaides-political-capital">Darrell Delamaide</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/irwin-kellner">Irwin Kellner</a>
+                            </li>
+                            <li>
+                              <a class="site-nav-sub" href="/topics/columns/rex-nutting">Rex Nutting</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <span class="site-nav-label">Tools</span>
+                          <ul>
+                            <li>
+                              <a class="site-nav-sub" href="/economy-politics/calendars/economic">Economic Calendar</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-economy-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Economy Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_economypolitics', [[280, 40]], 'ad-nav-economy-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Economy Sponsor', slot, 'ad-nav-economy-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-item nav-real-estate  with-child"  data-channel="/news/metasearch/mktw/realestatenav" >
+            <a href="/real-estate" data-track-click="MW_Nav_RE" class="site-nav-top trackable">Real Estate</a>
+            <div class="nav-dropdown">
+              <button class="close fa fa-times-circle"></button>
+              <div class="so-many-wrappers">
+                  <div class="wrapper">
+                    <div class="other-wrapper">
+                      <ul class="nav-drop-children">
+                        <li>
+                          <a class="site-nav-sub" href="/real-estate/location-scouts">Location Scouts</a>
+                        </li>
+                        <li>
+                          <a class="site-nav-sub" href="http://www.realtor.com/">realtor.com</a>
+                        </li>
+                      </ul>
+                      <div class="news">
+                                <div id="ad-nav-real-estate-sponsor" class="ad      " data-name="Sponsor" data-alias="Nav Real Estate Sponsor" data-conditions="17" data-proximic="true"    
+                                size="280x40">
+                                    
+                                    <script>
+                                        googletag.cmd.push(function () {
+                                            var slot = googletag.defineSlot('/2/marketwatch.com/nav_realestate', [[280, 40]], 'ad-nav-real-estate-sponsor')
+                                                    .addService(googletag.pubads());
+                                            slotMachine.add('Nav Real Estate Sponsor', slot, 'ad-nav-real-estate-sponsor');
+                                        });
+                                    </script>
+                                </div>
+                        <div class="articles"></div>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div id="member-nav">
+          <span class="title">My MarketWatch</span>
+          <ul >
+            <li class="nav-item nav-watchlist">
+              <a href="/watchlist">Watchlist</a>
+            </li>
+            <li class="nav-item nav-alerts">
+              <a href="/tools/alerts/myalertsummary.asp?link=MW_Nav_AL">Alerts</a>
+            </li>
+            <li class="nav-item nav-games">
+              <a href="/game">Games</a>
+            </li>
+            <li class="nav-item nav-login">
+              <a href="http://www.marketwatch.com/login">Log In</a>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div id="share-tools-fixed">
+    <div id="share-tools-content"></div>
+  </div>
+</div></div>
+<div id="non-chrome">
+  <div id="content-cutout">
+    <div class="lame-content-wrapper">
+      <div id="market-overview-mobile-placeholder"></div>
+    </div>
+  </div>
+
+  <main id="main-hole" role="main">
+    <div class="lame-content-wrapper">
+
+      <div id="right-rail-cutout">
+      </div>
+
+      <div id="above">
+        <div class="breadcrumb-container">
+        <ol vocab="http://schema.org/" typeof="BreadcrumbList" class="nav--breadcrumb ">
+          <li property="itemListElement" typeof="ListItem" class="fa fa-angle-right breadcrumb_item">
+            <a property="item" typeof="WebPage" href="//www.marketwatch.com/">
+              <span property="name">Home</span>
+            </a>
+            <meta property="position" content="1">
+          </li>
+              <li property="itemListElement" typeof="ListItem" class="fa fa-angle-right breadcrumb_item">
+                  <h2>
+                    <a property="item" typeof="WebPage" href="//www.marketwatch.com/industries">
+                      <span property="name">Industries</span>
+                    </a>
+                  </h2>
+        <meta property="position" content="1">
+              </li>
+        </ol>
+            
+        </div>
+
+  <div class="article-headline-wrapper">
+    <h1 id="article-headline" itemprop="headline">
+         Enbridge increases dividend by 10%
+    </h1>
+  </div>
+      </div>
+
+      <div id="brass-rail">
+        <div id="ad-display-ad" class="ad module  sticky inactive  " data-name="Display Ad"  data-conditions="16" data-proximic="true"  data-sticky-lower-bound-id="brass-rail" data-scroll-padding="500" data-refresh="20000" data-refresh-once="true"
+        size="300x250,300x600,300x1050">
+            
+            <script>
+                googletag.cmd.push(function () {
+                    var slot = googletag.defineSlot('/2/marketwatch.com/industries_story', [[300, 250],[300, 600],[300, 1050]], 'ad-display-ad')
+                            .addService(googletag.pubads());
+                        slot.defineSizeMapping([[[1024, 0], [[300,250],[300,600],[300,1050]]], [[0,0], [[300,250]]]]);
+                        googletag.display('ad-display-ad');    
+                    slotMachine.add('Display Ad', slot, 'ad-display-ad');
+                });
+            </script>
+        </div>
+      </div>
+
+      <div id="topper">
+<div id="author-bylines" class="byline">
+    By
+        
+        <a rel="author" href="http://www.marketwatch.com/topics/journalists/claudia-assis">Claudia Assis</a>
+</div>
+
+    <p id="published-timestamp" class="timestamp">Published: <span>Jan 5, 2017 5:28 p.m. ET</span></p>
+
+<div id="share-bar" class="shareable" data-share-modprefix="mw_share_" data-share-text="Enbridge increases dividend by 10%">
+    <div class="total-shares">Share</div>
+    <div class="share-icons">
+        <div class="share-buttons-wrapper">
+            <button class="social-button facebook trackable" data-track-click="share_storytools_facebook">
+                <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 330.3 330.3" enable-background="new 0 0 330.3 330.3" xml:space="preserve">
+<path d="M0,0v330.3h330.3V0H0z M284.8,72.1h-30.2c-10.6,0-14.4,6-14.4,14.4v28.7h44.6l-5.3,50.6h-39.3V307h-59.7V165.7h-30.2v-50.6
+	h30.2V86.5c0-34,11.3-61.2,59.7-62.7h44.6V72.1z"/>
+</svg></span>
+                <span class="count"></span>
+            </button>
+            <button class="social-button twitter trackable" data-track-click="share_storytools_twitter">
+                <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 273.4 222.2" enable-background="new 0 0 273.4 222.2" xml:space="preserve">
+<path fill="#FFFFFF" d="M273.4,26.3c-10.1,4.5-20.9,7.5-32.2,8.8c11.6-6.9,20.5-17.9,24.7-31C255,10.5,243,15.2,230.2,17.7
+	C220,6.8,205.4,0,189.3,0c-31,0-56.1,25.1-56.1,56.1c0,4.4,0.5,8.7,1.5,12.8C88,66.5,46.7,44.2,19,10.3c-4.8,8.3-7.6,17.9-7.6,28.2
+	c0,19.5,9.9,36.6,25,46.7c-9.2-0.3-17.8-2.8-25.4-7c0,0.2,0,0.5,0,0.7c0,27.2,19.3,49.8,45,55c-4.7,1.3-9.7,2-14.8,2
+	c-3.6,0-7.1-0.4-10.6-1c7.1,22.3,27.9,38.5,52.4,39c-19.2,15-43.4,24-69.7,24c-4.5,0-9-0.3-13.4-0.8c24.8,15.9,54.3,25.2,86,25.2
+	c103.2,0,159.6-85.5,159.6-159.6c0-2.4-0.1-4.9-0.2-7.3C256.4,47.4,265.9,37.5,273.4,26.3z"/>
+</svg>
+</span>
+                <span class="count"></span>
+            </button>
+            <button class="social-button google-plus trackable" data-track-click="share_storytools_googleplus">
+                <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<path fill="#FFFFFF" d="M8.2,0.9c0.1,0.1,0.3,0.2,0.5,0.4c0.2,0.2,0.3,0.4,0.5,0.7c0.2,0.3,0.3,0.6,0.4,0.9C9.8,3.2,9.8,3.6,9.8,4
+	c0,0.8-0.2,1.5-0.5,2C9.1,6.3,8.9,6.5,8.7,6.8C8.5,7,8.3,7.2,8.1,7.4C7.9,7.5,7.8,7.7,7.7,7.9C7.5,8.1,7.5,8.3,7.5,8.6
+	c0,0.2,0.1,0.4,0.2,0.6C7.8,9.3,7.9,9.5,8,9.6l0.8,0.7c0.5,0.4,0.9,0.9,1.3,1.3c0.3,0.5,0.5,1.2,0.5,2c0,1.1-0.5,2.2-1.5,3
+	c-1,0.9-2.5,1.4-4.4,1.4c-1.6,0-2.8-0.4-3.6-1.1C0.4,16.3,0,15.5,0,14.6c0-0.4,0.1-0.9,0.4-1.5c0.3-0.5,0.7-1,1.4-1.4
+	c0.7-0.4,1.5-0.7,2.3-0.9c0.8-0.1,1.5-0.2,2-0.2c-0.2-0.2-0.3-0.5-0.4-0.7C5.5,9.7,5.4,9.4,5.4,9.1c0-0.2,0-0.4,0.1-0.5
+	c0.1-0.1,0.1-0.3,0.1-0.4c-0.3,0-0.5,0-0.7,0C3.7,8.2,2.8,7.8,2.1,7c-0.7-0.7-1-1.6-1-2.5c0-1.2,0.5-2.2,1.4-3.2
+	c0.6-0.6,1.3-0.9,2-1.1C5.3,0.1,5.9,0,6.5,0h4.6L9.7,0.9H8.2z M9.1,14.5c0-0.6-0.2-1.1-0.6-1.6c-0.4-0.4-1-0.9-1.9-1.6
+	c-0.1,0-0.3,0-0.5,0c-0.1,0-0.4,0-0.9,0c-0.5,0.1-1,0.2-1.4,0.3c-0.1,0-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.2-0.6,0.4
+	c-0.2,0.2-0.4,0.4-0.5,0.7c-0.2,0.3-0.2,0.7-0.2,1.1c0,0.8,0.4,1.5,1.1,2.1C3.7,16.7,4.6,17,5.8,17c1.1,0,1.9-0.3,2.5-0.7
+	C8.9,15.8,9.1,15.2,9.1,14.5z M6,7.5c0.6,0,1.1-0.2,1.5-0.7c0.2-0.3,0.3-0.6,0.4-0.9c0-0.3,0-0.6,0-0.8c0-0.9-0.2-1.9-0.7-2.8
+	C7,1.9,6.7,1.5,6.3,1.2C6,0.9,5.6,0.8,5.1,0.8C4.5,0.8,4,1.1,3.6,1.6C3.2,2.1,3,2.7,3.1,3.3c0,0.9,0.2,1.7,0.7,2.7
+	C4,6.4,4.3,6.8,4.7,7.1C5.1,7.4,5.5,7.5,6,7.5z"/>
+<path fill="#FFFFFF" d="M18,7.4h-2.4V5h-1.2v2.5H12v1.2h2.4v2.5h1.2V8.7H18V7.4z"/>
+</svg>
+</span>
+                <span class="count"></span>
+            </button>
+            <div class="social-button email trackable">
+                <a class="shareicon" href="/story/enbridge-increases-dividend-by-10-2017-01-05/email" title="Email this story">
+                    <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26.296 16.507" enable-background="new 0 0 26.296 16.507" xml:space="preserve">
+<path fill="#FFFFFF" d="M26.102,0H0.335L13.15,10.961L26.102,0z M13.145,12.941L0,1.697v14.81h26.296V1.81L13.145,12.941z"/>
+</svg></span>
+                </a>
+            </div>
+        </div>
+    </div>
+        <div class="comment-icons">
+            <button class="social-button comment trackable">
+                <span class="icon"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16.87px" height="16.94px" viewBox="0 0 16.87 16.94" enable-background="new 0 0 16.87 16.94" xml:space="preserve">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M16.87,1.18v10.63c0,0.66-0.529,1.19-1.18,1.19H7.88L3.17,16.94
+	L3.82,13H1.18C0.53,13,0,12.47,0,11.81V1.18C0,0.53,0.53,0,1.18,0h14.51C16.34,0,16.87,0.53,16.87,1.18z"/>
+</svg>
+</span>
+                <span class="count"></span>
+            </button>
+        </div>
+</div>
+
+<div id="article-tools">
+    <button class="tool text-resize">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        	 viewBox="0 0 34.969 20.191" enable-background="new 0 0 34.969 20.191" xml:space="preserve">
+        <g>
+        	<g>
+        		<path fill="#CED5D4" d="M6.338,0L0,19.919h5.767l0.983-3.719h6.311l0.956,3.719h5.74L13.34,0H6.338z M7.839,11.805
+        			C8.645,8.693,9.165,6.608,9.4,5.549C9.635,4.491,9.792,3.731,9.872,3.27c0.088,0.498,0.272,1.321,0.551,2.47
+        			c0.279,1.148,0.517,2.085,0.711,2.809l0.837,3.257H7.839z M33.381,5.74c-1.059-0.977-2.553-1.466-4.484-1.466
+        			c-2.675,0-4.889,0.461-6.643,1.384l1.502,3.501c1.691-0.76,3.086-1.14,4.185-1.14c1.223,0,1.833,0.633,1.833,1.9v0.217
+        			l-2.511,0.082c-2.117,0.1-3.733,0.549-4.849,1.351c-1.116,0.801-1.675,2.02-1.675,3.656c0,1.574,0.407,2.795,1.223,3.664
+        			c0.814,0.868,1.931,1.303,3.348,1.303c1.151,0,2.091-0.163,2.817-0.488c0.726-0.326,1.438-0.932,2.139-1.818h0.106l0.996,2.035
+        			h3.601V9.837C34.969,8.083,34.439,6.716,33.381,5.74z M29.801,14.248c0,0.651-0.225,1.18-0.671,1.588
+        			c-0.448,0.406-0.985,0.609-1.614,0.609c-0.983,0-1.475-0.469-1.475-1.41c0-1.222,0.854-1.863,2.563-1.928l1.196-0.054V14.248z"/>
+        	</g>
+        </g>
+        </svg>    </button>
+    <a href="/story/enbridge-increases-dividend-by-10-2017-01-05/print" class="tool print">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        	 viewBox="0 0 26.311 25.725" enable-background="new 0 0 26.311 25.725" xml:space="preserve">
+        <path fill="#D2D2D2" d="M20.545,0H5.766v4.243h14.779V0z M25.029,5.772H1.281C0.574,5.772,0,6.346,0,7.053v9.424h3.859v-5.721
+        	h18.592v5.721h3.859V7.053C26.311,6.346,25.738,5.772,25.029,5.772z M23.529,8.913c-0.566,0-1.025-0.459-1.025-1.025
+        	s0.459-1.024,1.025-1.024c0.564,0,1.023,0.458,1.023,1.024S24.094,8.913,23.529,8.913z M19.453,24.217h-6.186
+        	c-2.24,0-1.16-5.31-1.16-5.31s-5.18,1.258-5.246-1.116v-4.875H5.354v6.867l0.441,0.442l5.5,5.5h9.666V12.916h-1.508V24.217z"/>
+        </svg>    </a>
+</div>
+
+
+      </div>
+
+      <div id="content-hole">
+
+    <script type="text/javascript">
+      window.videoDomain = 'http://video-api.wsj.com';
+    </script>
+
+
+    <article id="article" class="pulse " itemscope itemtype="http://schema.org/NewsArticle" itemref="article-headline article-subhead">
+        <meta id="article-section" itemprop="articleSection" content="">
+        <meta id="thumbnail-url" itemprop="thumbnailUrl" content="">
+            <meta id="date-created" itemprop="dateCreated" content="Jan 5, 2017 5:28 p.m. ET">
+            <meta id="date-published" itemprop="datePublished" content="Jan 5, 2017 5:28 p.m. ET">
+
+
+        <div id="article-meat">
+            <div id="article-left-rail" class="left-rail">
+                <div id="author-dreds" class="first-author-has-dred">
+                        <div class="author-dred">
+                                        <a class="dred" href="http://www.marketwatch.com/topics/journalists/claudia-assis">
+                                    <img class="author-image" src="http://i.mktw.net/_newsimages/2014_dreds/claudiaAssis_100.png">
+                                        </a>
+                                    <p>By</p>
+                                    <a rel="author" title="Claudia Assis" class="author-link" href="http://www.marketwatch.com/topics/journalists/claudia-assis">
+                                <h3 class="module-header">
+                                        Claudia<b>Assis</b>
+                                </h3>
+                                    </a>
+
+                                <div class="author-title">Reporter</div>
+                                <div class="social">
+                                        <a class="social-link twitter fa fa-twitter" href="http://twitter.com/ClaudiaAssisMW" target="_blank"></a>
+                                        <a class="social-link email fa fa-envelope" href="mailto:cassis@marketwatch.com"></a>
+                                </div>
+                        </div>
+                </div>
+            </div>
+
+            <div id="article-body" itemprop="articleBody">
+                                  
+
+<p>Enbridge Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    <span class="quote down bgQuote" data-channel="/quotes/zigman/20592/composite" data-bgformat=''><a class="qt-chip trackable" data-fancyId="XNYSStockENB" href="/investing/stock/enb" data-track-mod="MW_story_quote">ENB, <span class="bgPercentChange">-1.60%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         said late Thursday its board of directors has authorized a 10% dividend increase, setting the dividend at 58.3 cents a share and payable March 1 to shareholders of record Feb. 15. The increase is independent of the company's planned acquisition of Spectra Energy Corp. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    <span class="quote down bgQuote" data-channel="/quotes/zigman/444495/composite" data-bgformat=''><a class="qt-chip trackable" data-fancyId="XNYSStockSE" href="/investing/stock/se" data-track-mod="MW_story_quote">SE, <span class="bgPercentChange">-1.45%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and as previously announced Enbridge expects to increase its dividend by about 15% once the deal closes, the company said. &quot;The merger with Spectra Energy brings together the highest quality liquids and natural gas infrastructure franchises in North America with the largest and most diversified growth projects in the industry,&quot; CEO Al Monaco said in a statement. &quot;The strength of this opportunity set gives us confidence that, following a 15 percent increase in 2017, we will be able to extend our industry leading dividend growth rate of 10-12 percent per annum through 2024.&quot; Enbridge and Spectra Energy announced their intention to merge in September, and the deal is expected to close in the first quarter. </p>
+
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+                
+
+
+
+            </div>
+        </div>
+                <div id="hero-chart" data-tickers="US:ENB,US:SE">
+                    <div class="loading-animation">
+                      <span class="small reverse fa fa-gear fa-spin"></span>
+                      <span class="medium fa fa-gear fa-spin"></span>
+                      <span class="large fa fa-gear fa-spin"></span>
+                    </div>
+                </div>
+    </article>
+
+
+
+        <div id="ad-realtor-ad-content" class="ad module     " data-name="Realtor Ad Content"  data-conditions="18" data-proximic="true"    
+        size="540x82,540x150">
+            
+            <script>
+                googletag.cmd.push(function () {
+                    var slot = googletag.defineSlot('/2/moveinc.marketwatch.com/pulse', [[540, 82],[540, 150]], 'ad-realtor-ad-content')
+                            .addService(googletag.pubads());
+                        slot.setTargeting('pos', '1');
+                        googletag.display('ad-realtor-ad-content');    
+                    slotMachine.add('Realtor Ad Content', slot, 'ad-realtor-ad-content');
+                });
+            </script>
+        </div>
+        <div id="ad-teads" class="ad module    pixel " data-name="Teads"  data-conditions="16" data-proximic="true"    
+        size="1x1">
+            
+            <script>
+                googletag.cmd.push(function () {
+                    var slot = googletag.defineSlot('/2/marketwatch.com/industries_story', [[1, 1]], 'ad-teads')
+                            .addService(googletag.pubads());
+                        slot.setTargeting('product', 'inarticlevid');
+                        googletag.display('ad-teads');    
+                    slotMachine.add('Teads', slot, 'ad-teads');
+                });
+            </script>
+        </div>
+      </div>
+
+      <div id="right-rail">
+    <div id="article-instruments" class="module">
+            <div class="lame-sponsor-wrapper">
+                        <div id="ad-stock-references-ad" class="ad      " data-name="Stock References Ad"  data-conditions="16" data-proximic="true"    data-refresh="360000" data-refresh-once="false"
+                        size="80x21">
+                            
+                            <script>
+                                googletag.cmd.push(function () {
+                                    var slot = googletag.defineSlot('/2/marketwatch.com/article_stock_module', [[80, 21]], 'ad-stock-references-ad')
+                                            .addService(googletag.pubads());
+                                        googletag.display('ad-stock-references-ad');    
+                    slotMachine.add('Stock References Ad', slot, 'ad-stock-references-ad');
+                                });
+                            </script>
+                        </div>
+            </div>
+        <h3 class="module-header">Quote <b>References</b></h3>
+        <ul>
+                    <li class="quote bgQuote down" data-channel="/quotes/zigman/20592/composite" data-bgformat=''>
+                        <a class="ticker trackable" href="/investing/stock/enb" data-track-mod="MW_story_stock_references">ENB</a>
+                        <div class="change">
+                                <span class="bgChange">-0.70</span>
+                                <span class="bgPercentChange">-1.60%</span>
+                        </div>
+                    </li>
+                    <li class="quote bgQuote down" data-channel="/quotes/zigman/444495/composite" data-bgformat=''>
+                        <a class="ticker trackable" href="/investing/stock/se" data-track-mod="MW_story_stock_references">SE</a>
+                        <div class="change">
+                                <span class="bgChange">-0.62</span>
+                                <span class="bgPercentChange">-1.45%</span>
+                        </div>
+                    </li>
+        </ul>
+    </div>
+<div id="moreNews" class="module">
+    <h3 class="module-header">Most Popular</h3>
+    <ul class="topStories">
+      <li>
+        <div class="thumbnail ">
+          <img src="http://s.marketwatch.com/public/resources/MWimages/MW-FD896_shale__MC_20170118122915.jpg">
+        </div>
+        <a href="/story/these-big-oil-stocks-are-expected-by-analysts-to-rise-up-to-41-in-2017-2017-01-18?mod=MW_story_top_stories">These big oil stocks are expected by analysts to rise up to 41% in 2017</a>
+      </li>
+      <li>
+        <div class="thumbnail ">
+          <img src="http://s.marketwatch.com/public/resources/MWimages/MW-ER829_netfli_MC_20160718205525.jpg">
+        </div>
+        <a href="/story/my-dad-talked-me-out-of-the-decades-best-investment-but-he-wasnt-wrong-2017-01-18?mod=MW_story_top_stories">My dad talked me out of the decade’s best investment, but he wasn’t wrong</a>
+      </li>
+      <li>
+        <div class="thumbnail ">
+          <img src="http://s.marketwatch.com/public/resources/MWimages/MW-FB600_DOLfid_MC_20161208110545.jpg">
+        </div>
+        <a href="/story/answers-to-17-questions-you-might-have-about-the-fiduciary-rule-2017-01-18?mod=MW_story_top_stories">Answers to 17 questions you might have about the fiduciary rule</a>
+      </li>
+      <li>
+        <div class="thumbnail ">
+          <img src="http://s.marketwatch.com/public/resources/MWimages/MW-FD956_3perce_MC_20170118191845.jpg">
+        </div>
+        <a href="/story/netflix-is-about-to-be-bigger-overseas-than-it-is-in-the-us-2017-01-18?mod=MW_story_top_stories">Netflix is about to be bigger overseas than it is in the U.S. </a>
+      </li>
+      <li>
+        <div class="thumbnail ">
+          <img src="http://s.marketwatch.com/public/resources/MWimages/MW-FD904_TrumpP_MC_20170118133506.jpg">
+        </div>
+        <a href="/story/trumps-bromance-with-putin-poses-a-major-risk-for-us-corporations-2017-01-18?mod=MW_story_top_stories">Trump’s ‘bromance’ with Putin poses a major risk for U.S. corporations </a>
+      </li>
+    </ul>
+</div>
+<div id="trading-center" class="module">
+    <h3 class="module-header">MarketWatch <b>Partner Center</b></h3>
+    <div class="nav">
+        <button class="fa fa-angle-left previous"></button>
+        <button class="fa fa-angle-right next"></button>
+    </div>
+    <div class="broker-buttons">
+                    <div id="ad-broker-button-1" class="ad      transparent " data-name="Broker Button 1"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-1')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '1');
+                        slot.setTargeting('tile', '10');
+                    slotMachine.add('Broker Button 1', slot, 'ad-broker-button-1');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-2" class="ad      initial " data-name="Broker Button 2"  data-conditions="16" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-2')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '2');
+                        slot.setTargeting('tile', '11');
+                        googletag.display('ad-broker-button-2');    
+                    slotMachine.add('Broker Button 2', slot, 'ad-broker-button-2');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-3" class="ad      transparent " data-name="Broker Button 3"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-3')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '3');
+                        slot.setTargeting('tile', '12');
+                    slotMachine.add('Broker Button 3', slot, 'ad-broker-button-3');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-4" class="ad      transparent " data-name="Broker Button 4"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-4')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '4');
+                        slot.setTargeting('tile', '13');
+                    slotMachine.add('Broker Button 4', slot, 'ad-broker-button-4');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-5" class="ad      transparent " data-name="Broker Button 5"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-5')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '5');
+                        slot.setTargeting('tile', '14');
+                    slotMachine.add('Broker Button 5', slot, 'ad-broker-button-5');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-6" class="ad      transparent " data-name="Broker Button 6"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-6')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '6');
+                        slot.setTargeting('tile', '15');
+                    slotMachine.add('Broker Button 6', slot, 'ad-broker-button-6');
+                            });
+                        </script>
+                    </div>
+                    <div id="ad-broker-button-7" class="ad      transparent " data-name="Broker Button 7"  data-conditions="17" data-proximic="true"    data-refresh="420000" data-refresh-once="false"
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/brokerbuttons.marketwatch.com/industries_story', [[288, 40]], 'ad-broker-button-7')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('pos', '7');
+                        slot.setTargeting('tile', '16');
+                    slotMachine.add('Broker Button 7', slot, 'ad-broker-button-7');
+                            });
+                        </script>
+                    </div>
+    </div>
+</div>        <div id="ad-bottom-display-ad" class="ad module in-view sticky   " data-name="Bottom Display Ad"  data-conditions="20" data-proximic="true"  data-sticky-lower-bound-id="main-hole"  
+        size="300x250,300x600">
+            
+            <script>
+                googletag.cmd.push(function () {
+                    var slot = googletag.defineSlot('/2/bottom.marketwatch.com/industries_story', [[300, 250],[300, 600]], 'ad-bottom-display-ad')
+                            .addService(googletag.pubads());
+                        googletag.display('ad-bottom-display-ad');    
+                    slotMachine.add('Bottom Display Ad', slot, 'ad-bottom-display-ad');
+                });
+            </script>
+        </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (typeof dianomiUnitCallback !== 'undefined') {
+                var dianomiCallback = new dianomiUnitCallback('articlerightrail', 2583, 'dianomiRightRail', '', '');
+                dianomiCallback.initialize('dianomiRightRail');
+            }
+        });
+    </script>
+    <div id="dianomiRightRail" class="dianomi-widget-dianomiRightRail sticky" data-sticky-lower-bound-id="main-hole"></div>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                if (window.MutationObserver) {  // arrive breaks if MutationObserver not supported by browser
+                    $("#dianomiRightRail").arrive(".dianomiContent", function () {
+                        $("#dianomiRightRail").unbindArrive();
+                        $("#dianomiRightRail").trigger("rendered");
+                    });
+                }
+                else {  // TODO ~ remove; listening to this event causes performance problems
+                    $("#dianomiRightRail").on('DOMNodeInserted', function () {
+                        $("#dianomiRightRail").off('DOMNodeInserted');
+                        $("#dianomiRightRail").trigger('rendered');
+                    });
+                }
+            });
+        </script>
+      </div>
+
+      <div id="little-hole">
+
+
+        <div id="sponsored-links">
+            <script id="mNCC" language="javascript">
+                (function () {
+                    var isSSL = 'https:' == document.location.protocol;
+                    window.nativeAdsContext = {
+                        appId: "CFEAB5E0AC88686BA597A26FB4B54555349E3478",
+                        apikey: "ARAPgnyc0MRHNRr40%2b9oSrfSwlZG5%2bAfMeBkG2%2fh9AatBHngxiuMRHpQ%2bFJ%2fxfgc2iE%3d",
+                        publisherId: "204461",
+                        publisherName: "MarketWatch",
+                        tracingtag: "mw-tracingtag",
+                        msNativeAdsScriptLoc: "//h6.msn.com/nativeads/ms-nativeads.min.js",
+                        pageCategory: "money",
+                        pageType: "articles",
+                        bingTrafficPercent: "50"
+                    };
+                    window.bingNACallBackToLoadOtherScript = function() {
+                        window.medianet_width = "600";
+                        window.medianet_height = "250";
+                        window.medianet_crid = "305312222";
+                        window.medianet_versionId = "111299";
+                        
+                        var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/nmedianet.js?cid=8CU6CD37D' + (isSSL ? '&https=1' : '');
+                        document.write('<scr' + 'ipt type="text/javascript" src="' + mnSrc + '"></scr' + 'ipt>');
+                    }                    
+                    var date = new Date();
+                    var concatDate = "?date=" + date.getFullYear() + "" + date.getMonth() + "" + date.getDate();
+                    var bingNAJS = (isSSL ? 'https:' : 'http:') + window.nativeAdsContext.msNativeAdsScriptLoc + concatDate;
+                    document.write('<scr' + 'ipt type="text/javascript" src="' + bingNAJS + '"></scr' + 'ipt>');     
+                })();                   
+            </script>
+        </div>
+    <div id="article-comments" data-article-id="EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1" data-config="http://mw4.wsj.net/mw5/content/livefyre/js/livefyre-config.js" data-tags="article,Market Pulse"></div>
+      </div>
+
+    </div>
+  </main>
+
+</div>
+<div style="margin-top: 40px;background: #e5e8e8 none;padding: 25px 10px;">
+    <ul class="traffic-driver__list">
+        <li class="traffic-driver__item">
+            <div class="td__column">
+                <a href="http://www.mansionglobal.com/articles/51318-from-pop-star-to-conservator-taylor-swift-s-quest-to-landmark-beverly-hills-home?link=TDheader_1" target="_blank">Luxury Real Estate</a>
+            </div>
+            <div class="td__image">
+                <a href="http://www.mansionglobal.com/articles/51318-from-pop-star-to-conservator-taylor-swift-s-quest-to-landmark-beverly-hills-home?link=TDimage_1" target="_blank" >
+                    <img src="http://static1.mansionglobal.com/production/media/article-images/50cea4bbdebf4b76f15caa9f58d70426/large_ISuggo8zuh3n630000000000.jpg" alt="From pop star to conservator: Taylor Swift’s quest to landmark Beverly Hills home">
+                </a>
+            </div>
+            <h3 class="td__headline">
+               <a href="http://www.mansionglobal.com/articles/51318-from-pop-star-to-conservator-taylor-swift-s-quest-to-landmark-beverly-hills-home?link=TDheadline_1" target="_blank" >From pop star to conservator: Taylor Swift’s quest to landmark Beverly Hills home</a>
+            </h3>
+            <div class="td__more">
+                <a href="http://www.mansionglobal.com/articles/51318-from-pop-star-to-conservator-taylor-swift-s-quest-to-landmark-beverly-hills-home?link=TDviewmore_1" target="_blank" >View More</a>
+            </div>
+        </li>
+        <li class="traffic-driver__item">
+            <div class="td__column">
+                <a href="http://www.marketwatch.com/video/sectorwatch/this-is-the-future-of-air-travel-says-klm-ceo/D5A75FDB-4E32-4C0A-96FA-9C47AAC9BD7E.html?link=TDheader_2" >SectorWatch</a>
+            </div>
+            <div class="td__image">
+                <a href="http://www.marketwatch.com/video/sectorwatch/this-is-the-future-of-air-travel-says-klm-ceo/D5A75FDB-4E32-4C0A-96FA-9C47AAC9BD7E.html?link=TDimage_2"  >
+                    <img src="http://s.wsj.net/public/resources/MWimages/MW-FD080_klm_fl_MG_20170104121640.jpg" alt="This is the future of air travel">
+                </a>
+            </div>
+            <h3 class="td__headline">
+               <a href="http://www.marketwatch.com/video/sectorwatch/this-is-the-future-of-air-travel-says-klm-ceo/D5A75FDB-4E32-4C0A-96FA-9C47AAC9BD7E.html?link=TDheadline_2"  >This is the future of air travel</a>
+            </h3>
+            <div class="td__more">
+                <a href="http://www.marketwatch.com/video/sectorwatch/this-is-the-future-of-air-travel-says-klm-ceo/D5A75FDB-4E32-4C0A-96FA-9C47AAC9BD7E.html?link=TDviewmore_2"  >View More</a>
+            </div>
+        </li>
+        <li class="traffic-driver__item">
+            <div class="td__column">
+                <a href="http://www.realtor.com/news/unique-homes/soaking-tubs-amazing-views/?link=TDheader_3" target="_blank">Real Estate </a>
+            </div>
+            <div class="td__image">
+                <a href="http://www.realtor.com/news/unique-homes/soaking-tubs-amazing-views/?link=TDimage_3" target="_blank" >
+                    <img src="http://rdcnewscdn.realtor.com/wp-content/uploads/2017/01/soaking-tubs-628x354.jpg" alt="Soak it in: 7 sumptuous tubs with amazing views">
+                </a>
+            </div>
+            <h3 class="td__headline">
+               <a href="http://www.realtor.com/news/unique-homes/soaking-tubs-amazing-views/?link=TDheadline_3" target="_blank" >Soak it in: 7 sumptuous tubs with amazing views</a>
+            </h3>
+            <div class="td__more">
+                <a href="http://www.realtor.com/news/unique-homes/soaking-tubs-amazing-views/?link=TDviewmore_3" target="_blank" >View More</a>
+            </div>
+        </li>
+        <li class="traffic-driver__item">
+            <div class="td__column">
+                <a href="http://www.barrons.com/articles/the-new-cold-currency-war-1483739642?link=TDheader_4" target="_blank">Sponsored Content</a>
+            </div>
+            <div class="td__image">
+                <a href="http://www.barrons.com/articles/the-new-cold-currency-war-1483739642?link=TDimage_4" target="_blank" >
+                    <img src="http://s.marketwatch.com/public/resources/MWimages/MW-ER837_aussie_MG_20160719025227.jpg" alt="A new cold war has begun, on currencies">
+                </a>
+            </div>
+            <h3 class="td__headline">
+               <a href="http://www.barrons.com/articles/the-new-cold-currency-war-1483739642?link=TDheadline_4" target="_blank" >A new cold war has begun, on currencies</a>
+            </h3>
+            <div class="td__more">
+                <a href="http://www.barrons.com/articles/the-new-cold-currency-war-1483739642?link=TDviewmore_4" target="_blank" >View More</a>
+            </div>
+        </li>
+    </ul>
+</div>
+<div id="moreHeadlines">
+    <div class="lame-header-wrapper">
+      <h3>Sponsored Headlines</h3>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (typeof dianomiUnitCallback !== 'undefined') {
+                var dianomiCallback = new dianomiUnitCallback('belowarticle', 2582, 'dianomiBelowArticle', 'traffic-driver__list', 'padding:10px');
+                dianomiCallback.initialize('dianomiBelowArticle');
+            }
+        });
+    </script>
+    <div id="dianomiBelowArticle"></div>
+</div>
+<footer id="site-footer" class="placeholder" role="contentinfo">
+    <div id="end-cap">
+        <div class="lame-content-wrapper">
+            <div class="link-list">
+                <span class="column">MarketWatch</span>
+                <ul>
+                    <li><a href="/site-index">Site Index</a></li>
+                    <li><a href="/topics">Topics</a></li>
+                    <li><a href="/help">Help</a></li>
+                    <li><a href="/support/feedback.asp">Feedback</a></li>
+                    <li><a href="/newsroom/roster">Newsroom Roster</a></li>
+                    <li><a href="http://live.wsj.com">Media Archive</a></li>
+                    <li><a href="/premium-newsletters?link=djmc_footer_multi">Premium Products</a></li>
+                    <li><a href="/mobile">Mobile</a></li>
+                </ul>
+            </div>
+            <div class="link-list">
+                <span class="column">Company</span>
+                <ul>
+                    <li><a href="/companyinfo">Company Info</a></li>
+                    <li><a href="http://www.dowjones.com/code-conduct/">Code of Conduct</a></li>
+                    <li><a href="/column/corrections">Corrections</a></li>
+                    <li><a href="http://dowjonesonline.com/">Advertising Media Kit</a></li>
+                    <li><a href="http://www.wsjlocal.com/">Advertise Locally</a></li>
+                    <li><a href="http://www.djreprints.com/">Reprints &amp; Licensing</a></li>
+                    <li><a href="/brokercenter?reflink=djm_mwbrokercenter_footer">Broker Center</a></li>
+                    <li><a href="/support/cookie.asp#cookies_advertising">Your Ad Choices</a></li>
+                </ul>
+            </div>
+            <div class="link-list">
+                <span class="column">Dow Jones Network</span>
+                <ul>
+                    <li><a href="http://online.wsj.com/">WSJ.com</a></li>
+                    <li><a href="http://online.barrons.com/">Barron's Online</a></li>
+                    <li><a href="http://www.bigcharts.com/">BigCharts</a></li>
+                    <li><a href="http://vse.marketwatch.com/">Virtual Stock Exchange</a></li>
+                    <li><a href="http://www.efinancialnews.com/">Financial News Online</a></li>
+                    <li><a href="http://guides.wsj.com/small-business/">WSJ.com Small Business</a></li>
+                    <li><a href="http://www.realtor.com/">realtor.com</a></li>
+                    <li><a href="http://www.mansionglobal.com/">Mansion Global</a></li>
+                </ul>
+            </div>
+            <div id="back-to-top">
+                <button id="back-to-top-button">Back to Top</button>
+            </div>
+            <div id="footer-app-store">
+                <a id="footer-apple-app-store" href="https://itunes.apple.com/app/marketwatch/id336693422?ign-mpt=uo%3D6&mt=8" target="_blank"></a>
+                <a id="footer-google-play" href="https://play.google.com/store/apps/details?id=com.marketwatch" target="_blank"></a>
+            </div>
+        </div>
+    </div>
+    <div id="legal-footer">
+        <div class="lame-content-wrapper">
+            <div id="footer-identity">
+                <div id="footer-logo">
+                    <img class="logo-on-dark" src="http://mw3.wsj.net/mw5/content/logos/mw_logo_onDark.svg" alt="MarketWatch" />
+                    <img class="logo-on-light" src="http://mw3.wsj.net/mw5/content/logos/mw_logo_onLight.svg" alt="MarketWatch" />
+                </div>
+              <div id="site-share-footer">
+                <div class="social-button facebook">
+                  <a href="https://www.facebook.com/MarketWatch" alt="Like & Follow MarketWatch on Facebook" target="_blank">
+                    <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 330.3 330.3" enable-background="new 0 0 330.3 330.3" xml:space="preserve">
+<path d="M0,0v330.3h330.3V0H0z M284.8,72.1h-30.2c-10.6,0-14.4,6-14.4,14.4v28.7h44.6l-5.3,50.6h-39.3V307h-59.7V165.7h-30.2v-50.6
+	h30.2V86.5c0-34,11.3-61.2,59.7-62.7h44.6V72.1z"/>
+</svg></span>
+                  </a>
+                </div>
+                <div class="social-button twitter">
+                  <a href="https://twitter.com/MarketWatch" alt="Follow MarketWatch on Twitter" target="_blank">
+                    <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 273.4 222.2" enable-background="new 0 0 273.4 222.2" xml:space="preserve">
+<path fill="#FFFFFF" d="M273.4,26.3c-10.1,4.5-20.9,7.5-32.2,8.8c11.6-6.9,20.5-17.9,24.7-31C255,10.5,243,15.2,230.2,17.7
+	C220,6.8,205.4,0,189.3,0c-31,0-56.1,25.1-56.1,56.1c0,4.4,0.5,8.7,1.5,12.8C88,66.5,46.7,44.2,19,10.3c-4.8,8.3-7.6,17.9-7.6,28.2
+	c0,19.5,9.9,36.6,25,46.7c-9.2-0.3-17.8-2.8-25.4-7c0,0.2,0,0.5,0,0.7c0,27.2,19.3,49.8,45,55c-4.7,1.3-9.7,2-14.8,2
+	c-3.6,0-7.1-0.4-10.6-1c7.1,22.3,27.9,38.5,52.4,39c-19.2,15-43.4,24-69.7,24c-4.5,0-9-0.3-13.4-0.8c24.8,15.9,54.3,25.2,86,25.2
+	c103.2,0,159.6-85.5,159.6-159.6c0-2.4-0.1-4.9-0.2-7.3C256.4,47.4,265.9,37.5,273.4,26.3z"/>
+</svg>
+</span>
+                  </a>
+                </div>
+                <div class="social-button linkedin">
+                  <a href="https://www.linkedin.com/company/marketwatch" alt="Follow MarketWatch on LinkedIn" target="_blank">
+                    <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 331.6 333.7" enable-background="new 0 0 331.6 333.7" xml:space="preserve">
+<path d="M178.3,150.5V150c-0.1,0.2-0.2,0.3-0.3,0.5H178.3z M307.1,0H24.5C11,0,0,10.7,0,23.9v285.9c0,13.2,11,23.9,24.5,23.9h282.6
+	c13.5,0,24.5-10.7,24.5-23.9V23.9C331.6,10.7,320.6,0,307.1,0z M100.5,279.3H50.4V128.7h50.1V279.3z M75.5,108.1h-0.3
+	c-16.8,0-27.7-11.6-27.7-26c0-14.8,11.2-26,28.3-26c17.1,0,27.7,11.3,28,26C103.8,96.5,92.9,108.1,75.5,108.1z M281.1,279.3H231
+	v-80.6c0-20.2-7.2-34.1-25.4-34.1c-13.8,0-22.1,9.3-25.7,18.3c-1.3,3.2-1.7,7.7-1.7,12.2v84.1h-50.1c0,0,0.7-136.5,0-150.7h50.1V150
+	c6.6-10.3,18.5-24.9,45.1-24.9c33,0,57.7,21.5,57.7,67.8V279.3z"/>
+</svg></span>
+                  </a>
+                </div>
+                <div class="social-button google-plus">
+                  <a href="https://plus.google.com/+MarketWatch" alt="Follow MarketWatch on Google Plus" target="_blank">
+                    <span class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<path fill="#FFFFFF" d="M8.2,0.9c0.1,0.1,0.3,0.2,0.5,0.4c0.2,0.2,0.3,0.4,0.5,0.7c0.2,0.3,0.3,0.6,0.4,0.9C9.8,3.2,9.8,3.6,9.8,4
+	c0,0.8-0.2,1.5-0.5,2C9.1,6.3,8.9,6.5,8.7,6.8C8.5,7,8.3,7.2,8.1,7.4C7.9,7.5,7.8,7.7,7.7,7.9C7.5,8.1,7.5,8.3,7.5,8.6
+	c0,0.2,0.1,0.4,0.2,0.6C7.8,9.3,7.9,9.5,8,9.6l0.8,0.7c0.5,0.4,0.9,0.9,1.3,1.3c0.3,0.5,0.5,1.2,0.5,2c0,1.1-0.5,2.2-1.5,3
+	c-1,0.9-2.5,1.4-4.4,1.4c-1.6,0-2.8-0.4-3.6-1.1C0.4,16.3,0,15.5,0,14.6c0-0.4,0.1-0.9,0.4-1.5c0.3-0.5,0.7-1,1.4-1.4
+	c0.7-0.4,1.5-0.7,2.3-0.9c0.8-0.1,1.5-0.2,2-0.2c-0.2-0.2-0.3-0.5-0.4-0.7C5.5,9.7,5.4,9.4,5.4,9.1c0-0.2,0-0.4,0.1-0.5
+	c0.1-0.1,0.1-0.3,0.1-0.4c-0.3,0-0.5,0-0.7,0C3.7,8.2,2.8,7.8,2.1,7c-0.7-0.7-1-1.6-1-2.5c0-1.2,0.5-2.2,1.4-3.2
+	c0.6-0.6,1.3-0.9,2-1.1C5.3,0.1,5.9,0,6.5,0h4.6L9.7,0.9H8.2z M9.1,14.5c0-0.6-0.2-1.1-0.6-1.6c-0.4-0.4-1-0.9-1.9-1.6
+	c-0.1,0-0.3,0-0.5,0c-0.1,0-0.4,0-0.9,0c-0.5,0.1-1,0.2-1.4,0.3c-0.1,0-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.2-0.6,0.4
+	c-0.2,0.2-0.4,0.4-0.5,0.7c-0.2,0.3-0.2,0.7-0.2,1.1c0,0.8,0.4,1.5,1.1,2.1C3.7,16.7,4.6,17,5.8,17c1.1,0,1.9-0.3,2.5-0.7
+	C8.9,15.8,9.1,15.2,9.1,14.5z M6,7.5c0.6,0,1.1-0.2,1.5-0.7c0.2-0.3,0.3-0.6,0.4-0.9c0-0.3,0-0.6,0-0.8c0-0.9-0.2-1.9-0.7-2.8
+	C7,1.9,6.7,1.5,6.3,1.2C6,0.9,5.6,0.8,5.1,0.8C4.5,0.8,4,1.1,3.6,1.6C3.2,2.1,3,2.7,3.1,3.3c0,0.9,0.2,1.7,0.7,2.7
+	C4,6.4,4.3,6.8,4.7,7.1C5.1,7.4,5.5,7.5,6,7.5z"/>
+<path fill="#FFFFFF" d="M18,7.4h-2.4V5h-1.2v2.5H12v1.2h2.4v2.5h1.2V8.7H18V7.4z"/>
+</svg>
+</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <p>Copyright &copy;2017 MarketWatch, Inc.  All rights reserved.</p>
+            <p>
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="/support/privacy.asp">Privacy Policy</a>, and <a href="/support/cookie.asp">Cookie Policy</a>.
+            </p>
+            <p class="data">
+                Intraday Data provided by SIX Financial Information and subject to <a href="/investing/terms-of-use">terms of use</a>.
+                Historical and current end-of-day data provided by SIX Financial Information. Intraday data
+                delayed per exchange requirements. S&amp;P/Dow Jones Indices (SM) from Dow Jones &amp; Company, Inc.
+                All quotes are in local exchange time. Real time last sale data provided by NASDAQ. More
+                information on <a href="http://www.nasdaq.com/markets/go-public.aspx">NASDAQ traded symbols</a> and their current financial status. Intraday
+                data delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. S&amp;P/Dow Jones Indices (SM)
+                from Dow Jones &amp; Company, Inc. SEHK intraday data is provided by SIX Financial Information and is
+                at least 60-minutes delayed. All quotes are in local exchange time.
+            </p>
+        </div>
+    </div>
+</footer>
+<div class="lightbox lightbox--search">
+    <div class="container search--container">
+        <div class="row search--bar">
+            <div class="col col--12">
+                <button class="close"><svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 792 612" overflow="scroll" xml:space="preserve"><polygon fill="#FFFFFF" points="396,320.927 104.927,612 90,600.805 384.805,306 90,14.927 104.927,0 396,294.805 690.805,0 702,14.927 410.927,306 702,600.805 690.805,612 "/></svg></button>
+                <input class="search__input" type="text" placeholder="Enter a symbol or keyword">
+                <i class="fa fa-search"></i>
+                <div class="search--advanced">
+                    <a href="/search?q=">Advanced Search</a>
+                </div>
+            </div>
+        </div>
+        <div class="row row--results search--results"></div>
+    </div>
+
+    <template id="sr-template">
+        <div id="search-stocks" class="col col--7 search--section">
+            <h3>Stocks</h3>
+        </div>
+        <div class="col col--5 search--editorial">
+            <div id="search-columns" class="search--section">
+                <h3>Columns</h3>
+            </div>
+            <div id="search-authors" class="search--section">
+                <h3>Authors</h3>
+            </div>
+            <div id="search-topics" class="search--section">
+                <h3>Topics</h3>
+            </div>
+        </div>
+    </template>
+
+    <template id="sr-result-count">
+        <span class="results-count"></span>
+    </template>
+
+    <template id="sr-no-results">
+        <div class="no-results">No results found</div>
+    </template>
+
+    <template id="sr-quote-result">
+        <a class="quote-box" href="">
+            <h4></h4>
+            <div class="company"></div>
+            <div class="quote">
+                <span class="price"></span>
+                <span class="net change"></span>
+                <span class="percent change"></span>
+            </div>
+        </a>
+    </template>
+
+    <template id="sr-editorial-result">
+        <div>
+            <a href=""></a>
+        </div>
+    </template>
+
+    <template id="sr-topic-result">
+        <div class="result-type"></div>
+        <div class="result-value">
+            <a href=""></a>
+        </div>
+    </template>
+</div><div id="media-swatch"></div>
+<div id="general-overlay">
+
+</div>
+  <div class="quote-tip bgDeferredQuote" data-channel="/quotes/zigman/20592/composite" data-bgformat='' id="qt-XNYSStockENB" data-symb="US:ENB">
+    <div class="tip-header">
+        <a class="name trackable" href="/investing/stock/enb" data-track-mod="MW_story_hoverquote">Enbridge Inc.</a>
+        <span class="exchange">U.S.: NYSE: ENB</span>
+    </div>
+    <div class="tip-data">
+      <div class="price-chart">
+        <div class="price down">
+            <div><span>$</span><span class="bglast">43.17</span></div>
+            <div class="change">
+                <span class="bgChange">-0.70</span>
+                <span class="bgPercentChange">(-1.60%)</span>
+            </div>
+        </div>
+        <div class="chartlink" data-quotelink="/investing/stock/enb" data-track-mod="MW_story_hoverchart">
+            <div class="chart" id="qt-XNYSStockENB-chart" data-tickers="STOCK/US/XNYS/ENB"></div>
+        </div>
+      </div>
+      <div class="financials">
+        <table>
+              <tr><td>Volume</td><td>1.9M</td></tr>
+              <tr><td>Open</td><td>$43.73</td></tr>
+              <tr><td>High</td><td>$43.92</td></tr>
+              <tr><td>Low</td><td>$43.07</td></tr>
+              <tr><td>P/E Ratio</td><td>21.16</td></tr>
+              <tr><td>Div Yield</td><td>4.06</td></tr>
+              <tr><td>Market Cap</td><td>53.8B</td></tr>
+        </table>
+      </div>
+    </div>
+    <div class="tip-news">
+      <ul></ul>
+    </div>
+    <div class="tip-ad">
+                    <div id="ad-quote-tip-xnysstockenb" class="ad  in-view    " data-name="Quote Tip Sponsor" data-alias="Quote Tip XNYSStockENB" data-conditions="21" data-proximic="true"    
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/marketwatch.com/sponsor_livequotes', [[288, 40]], 'ad-quote-tip-xnysstockenb')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('sym', 'ENB');
+                    slotMachine.add('Quote Tip XNYSStockENB', slot, 'ad-quote-tip-xnysstockenb');
+                            });
+                        </script>
+                    </div>
+    </div>
+  </div>
+  <div class="quote-tip bgDeferredQuote" data-channel="/quotes/zigman/444495/composite" data-bgformat='' id="qt-XNYSStockSE" data-symb="US:SE">
+    <div class="tip-header">
+        <a class="name trackable" href="/investing/stock/se" data-track-mod="MW_story_hoverquote">Spectra Energy Corp.</a>
+        <span class="exchange">U.S.: NYSE: SE</span>
+    </div>
+    <div class="tip-data">
+      <div class="price-chart">
+        <div class="price down">
+            <div><span>$</span><span class="bglast">42.19</span></div>
+            <div class="change">
+                <span class="bgChange">-0.62</span>
+                <span class="bgPercentChange">(-1.45%)</span>
+            </div>
+        </div>
+        <div class="chartlink" data-quotelink="/investing/stock/se" data-track-mod="MW_story_hoverchart">
+            <div class="chart" id="qt-XNYSStockSE-chart" data-tickers="STOCK/US/XNYS/SE"></div>
+        </div>
+      </div>
+      <div class="financials">
+        <table>
+              <tr><td>Volume</td><td>2.8M</td></tr>
+              <tr><td>Open</td><td>$42.72</td></tr>
+              <tr><td>High</td><td>$42.84</td></tr>
+              <tr><td>Low</td><td>$42.06</td></tr>
+              <tr><td>P/E Ratio</td><td>93.76</td></tr>
+              <tr><td>Div Yield</td><td>4.17</td></tr>
+              <tr><td>Market Cap</td><td>30.0B</td></tr>
+        </table>
+      </div>
+    </div>
+    <div class="tip-news">
+      <ul></ul>
+    </div>
+    <div class="tip-ad">
+                    <div id="ad-quote-tip-xnysstockse" class="ad  in-view    " data-name="Quote Tip Sponsor" data-alias="Quote Tip XNYSStockSE" data-conditions="21" data-proximic="true"    
+                    size="288x40">
+                        
+                        <script>
+                            googletag.cmd.push(function () {
+                                var slot = googletag.defineSlot('/2/marketwatch.com/sponsor_livequotes', [[288, 40]], 'ad-quote-tip-xnysstockse')
+                                        .addService(googletag.pubads());
+                                    slot.setTargeting('sym', 'SE');
+                    slotMachine.add('Quote Tip XNYSStockSE', slot, 'ad-quote-tip-xnysstockse');
+                            });
+                        </script>
+                    </div>
+    </div>
+  </div>
+<div id="latest-news-instruction">
+  <img src="http://mw2.wsj.net/public/svg/icons/ico_swipe_down_gesture.svg" width="44" height="86" alt="Swipe Down Gesture" />
+  <h3 class="module-header">Latest<b>News</b></h3>
+</div>
+<script>
+    var blueGrass2SilentTest = { enabled: true, endpoint: 'http://mw-silent.bgdev.dowjones.io/bg2' };
+</script>
+<script src='http://mw4.wsj.net/public/vendor.min-5b8c712dcb.js' type='text/javascript'></script>
+<script src='http://mw4.wsj.net/public/articletail.min-6c59517623.js' type='text/javascript'></script>
+    <script>
+        // copied from mw.module.ui, that doesn't load fast enough to use
+        function _trackingHacking() {
+            var z = $('#media-swatch').css('z-index');
+            switch (z) {
+                case '1':
+                    return 'desktop';
+                case '2':
+                    return 'tablet-landscape';
+                case '3':
+                    return 'tablet-portrait';
+                default:
+                    return 'phone';
+            }
+        }
+
+    if (typeof s != "undefined") {
+        s.channel = "MarketWatch";
+s.prop5 = "http://www.marketwatch.com/story/enbridge-increases-dividend-by-10-2017-01-05";
+s.prop6 = "http://www.marketwatch.com/story/enbridge-increases-dividend-by-10-2017-01-05?siteid=yhoof2";
+s.eVar11 = "MarketWatch";
+s.prop10 = "";
+s.prop11 = "yhoof2";
+s.server = "www.marketwatch.com";
+s.prop13 = "industries_story";
+s.prop27 = "nomem";
+s.prop1 = "Article";
+s.prop2 = "MW_Industries";
+s.prop3 = "MW_Article_Pulse";
+s.prop4 = "MW_Article_Pulse_Enbridge increases dividend by 10%";
+s.prop8 = "MarketWatch.com";
+s.prop19 = "article";
+s.prop20 = "EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1";
+s.prop21 = "Claudia Assis";
+s.prop22 = "MW_Article_Normal_Market Pulse";
+s.prop7 = "off";
+s.pageName = "MW_Article_Market Pulse_EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1";
+s.prop23 = "2017-01-05 17:28";
+s.events = "event12,event18";
+s.prop9 = "free";
+s.eVar4 = "MW_Article_Market Pulse_EBC77AD9-4BB5-4BE2-9C29-35D22DB841F1";
+s.prop52 = "MW_doctype_91";
+
+        s.prop8 += ' ' + _trackingHacking();
+        
+        (function () {            
+            var regexp = new RegExp("(?:^_ncg_id_|; *_ncg_id_)=(.*?)(?:;|$)", "g");
+            var result = regexp.exec(document.cookie);
+            var newsConCook = (result === null) ? null : result[1];
+            if (newsConCook && newsConCook.length > 0) {
+                s.eVar23 = newsConCook;
+            }
+        })();                 
+        
+        var s_code=s.t();if(s_code)document.write(s_code);
+     }
+    </script>
+<script>
+    window.__mw_inactiveSettings = {
+        isEnabled: true,
+        inactiveTime: 120000
+    };
+</script>
+<div data-module-id="11" data-module-name="mw.svc.page.Partials" class="zonedModule">
+
+<script data-template-id="../view/partials/_latest_news" type="text/mustache"><li class="shareable" data-sequence="{{Sequence}}" data-number="{{MessageNumber}}" data-share-modprefix="mw_latestnews_" data-share-hover="true" data-share-text="{{Headline}}" data-share-url="{{ShareUrl}}">
+
+  {{#Url}}
+  <span class="timestamp">{{FormattedTimestamp}}</span>
+  <div class="headline">
+    <a target="_blank" href="{{Url}}">
+      {{#Label}}
+        <span class="label {{Label}}">{{Label}}</span>
+      {{/Label}}
+      {{Headline}}
+    </a>
+    <div class="share-icons dark-matter">
+      <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_latestnews_facebook"></button>
+      <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_latestnews_twitter"></button>
+    </div>
+  </div>
+  {{/Url}}
+  {{^Url}}
+  <span class="timestamp no-social">{{FormattedTimestamp}}</span>
+  <span class="headline">{{Headline}}</span>
+  {{/Url}}
+</li></script>
+
+<script data-template-id="../view/partials/_search_results" type="text/mustache">{{#linker}}
+
+{{#results}}
+    <div id="site-search-stocks" class="site-search-section">
+        {{#symbolsResultsText}}
+            <span class="results-count">{{symbolsResultsText}}</span>
+        {{/symbolsResultsText}}
+        <h3>Stocks</h3>
+        {{#symbols}}
+            {{#quote}}
+                <a class="quote-box" href="{{quote.link}}">
+                    <h4 class="display">{{ticker}}</h4>
+                    <div class="company">{{company}}</div>
+                    <div class="quote">
+                        <span class="price">{{formattedLastPrice}}</span>
+                        <span class="change {{netChange}}">{{formattedNetChange}}</span>
+                        <span class="change {{changePercent}}">{{formattedChangePercent}}</span>
+                    </div>
+                </a>
+            {{/quote}}
+        {{/symbols}}
+        {{^symbols}}
+            <div class="no-results">No results found</div>
+        {{/symbols}}
+    </div>
+    <div id="site-search-editorial">
+        <div id="site-search-columns" class="site-search-section">
+            {{#columnsResultsText}}
+                <span class="results-count">{{columnsResultsText}}</span>
+            {{/columnsResultsText}}
+            <h3>Columns</h3>
+            {{#columns}}
+                <div>
+                    <a href="{{columnLink}}">{{title}}</a>
+                </div>
+            {{/columns}}
+            {{^columns}}
+                <div class="no-results">No results found</div>
+            {{/columns}}
+        </div>
+        <div id="site-search-authors" class="site-search-section">
+            {{#authorsResultsText}}
+                <span class="results-count">{{authorsResultsText}}</span>
+            {{/authorsResultsText}}
+            <h3>Authors</h3>
+            {{#authors}}
+                <div>
+                    <a href="{{authorLink}}">{{name}}</a>
+                </div>
+            {{/authors}}
+            {{^authors}}
+                <div class="no-results">No results found</div>
+            {{/authors}}
+        </div>
+        <div id="site-search-topics" class="site-search-section">
+            {{#topicsResultsText}}
+                <span class="results-count">{{topicsResultsText}}</span>
+            {{/topicsResultsText}}
+            <h3>Topics</h3>
+            {{#organizations}}
+                <div class="result-type">Organizations</div>
+                <div class="result-value">
+                    <a href="/organizations/{{link}}">{{name}}</a>
+                </div>
+            {{/organizations}}
+            {{#people}}
+                <div class="result-type">People</div>
+                <div class="result-value">
+                    <a href="/people/{{link}}">{{name}}</a>
+                </div>
+            {{/people}}
+            {{#subjects}}
+                <div class="result-type">Subjects</div>
+                <div class="result-value">
+                    <a href="/subjects/{{link}}">{{name}}</a>
+                </div>
+            {{/subjects}}
+            {{#companies}}
+                <div class="result-type">Companies</div>
+                <div class="result-value">
+                    <a href="/companies/{{link}}">{{name}}</a>
+                </div>
+            {{/companies}}
+            {{^topics}}
+                <div class="no-results">No results found</div>
+            {{/topics}}
+        </div>
+    </div>
+{{/results}}
+
+{{/linker}}</script>
+
+<script data-template-id="../view/partials/_nav_news" type="text/mustache">{{#headlines}}
+    <div class="article">
+        <a class="headline" href="{{Url}}">{{Headline}}</a>
+        <p class="summary">{{Abstract}}</p>
+    </div>
+{{/headlines}}</script>
+
+<script data-template-id="../view/partials/_nav_newsviewer" type="text/mustache">{{#headlines}}
+<div class="article shareable" data-share-hover="true" data-share-text="{{Headline}}" data-share-url="{{ShareUrl}}">
+  <span class="timestamp">{{FormattedTimestamp}}</span>
+  <div class="stuff">
+    {{#Url}}
+    {{#Label}}
+      <span class="label {{Label}}">{{Label}}</span>
+    {{/Label}}
+    <a class="headline trackable" target="_blank" href="{{Url}}" data-track-mod="MW_story_latest_news">{{Headline}}</a>
+    <div class="share-icons invisible">
+      <button class="social-button facebook fa fa-facebook-square trackable" data-track-click="social_navnewsviewer_facebook"></button>
+      <button class="social-button twitter fa fa-twitter trackable" data-track-click="social_navnewsviewer_twitter"></button>
+    </div>
+    {{/Url}}
+    {{^Url}}
+    <span class="headline">{{Headline}}</span>
+    {{/Url}}
+  </div>
+</div>
+{{/headlines}}</script>
+
+<script data-template-id="../../mw.module.article/view/partials/_qt_news" type="text/mustache"><li><span class="timestamp">{{FormattedTimestamp}}</span><a href="{{Url}}?mod=MW_story_hoverstory">{{Headline}}</a></li></script>
+
+<script data-template-id="../view/bulletin" type="text/mustache">{{#bulletins}}
+    {{^Expired}}
+    {{^closed}}
+        {{#Bulletin}}
+            <div class="notification bulletin {{bg}}">
+                <h3 class="module-header">Bulletin</h3>
+                {{^link}}
+                    <span class="message">{{Subject}}</span>
+                    <button class="bulletin-close"><img src="{{resources.content}}/svg/icons/ico-close-white.svg" alt="Close Bulletin" /></button>
+                {{/link}}
+                {{#link}}
+                    <a href="{{url}}">
+                        <span class="message">{{Subject}}</span>
+                    </a>
+                    <button class="bulletin-close"><img src="{{resources.content}}/svg/icons/ico-close-white.svg" alt="Close Bulletin" /></button>
+                    <div class="shareable" data-share-url="{{shareUrl}}" data-share-text="{{Subject}}">
+                        <button class="twitter"><img src="{{resources.content}}/svg/icons/ico-twitter-white.svg" alt="Share on Twitter" /></button>
+                        <button class="facebook"><img src="{{resources.content}}/svg/icons/ico-facebook-white.svg" alt="Share on Facebook" /></button>
+                    </div>
+                {{/link}}
+            </div>
+        {{/Bulletin}}
+    {{/closed}}
+    {{/Expired}}
+{{/bulletins}}</script>
+
+<script data-template-id="../view/investor_alert" type="text/mustache">{{#alert}}
+<div id="investor-alert" class="notification">
+  {{#text}}
+  <h3 class="module-header">Investor</h3>
+  <span class="message">
+    {{text}}
+    <span class="timestamp">{{time}}</span>
+  </span>
+  <div class="investor-alert-ad">
+    {{#sponsor}}
+    {{> ad}}
+    {{/sponsor}}
+  </div>
+  {{/text}}
+</div>
+{{/alert}}</script>
+
+</div> <!-- data-module-name="mw.svc.page.Partials" -->
+
+<script type="text/javascript">
+	(function(){
+        function loadDJInsightsHooks() {
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', "http://mw1.wsj.net/MW5/content/analytics/hooks.js");
+            document.body.appendChild(e);
+	    }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+        function() {
+            loadDJInsightsHooks();
+        } :
+        function() {
+            oldonload();
+            loadDJInsightsHooks();
+        }
+	})();
+</script>
+<div id="settings" data-e-bg="http://mwstream.wsj.net/bg2" data-e-c="http://www.marketwatch.com/community/commenting" data-e-m="http://api.wsj.net" data-e-ap="http://mw2.wsj.net/public" data-e-u="//www.marketwatch.com/" data-e-vd="http://video-api.wsj.com">
+</div>    <script>
+        var ScrillaZilla = {
+            number: '2',
+            site: 'marketwatch.com',
+            zone: 'industries_story'
+        }
+    </script>
+<!-- Begin BlueKai Tag -->
+    <iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+    <script src="http://sj.wsj.net/djscript/require/dmptags/version/20110919191631.js"></script>
+<!-- End BlueKai Tag -->
+<!-- Begin Proximic Tag -->
+  <script src="http://segment-data.zqtk.net/dowjones-d8s23j?url=http%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fenbridge-increases-dividend-by-10-2017-01-05"></script>
+<!-- End Proximic Tag -->
+<!-- Begin Tealium Tag -->
+    <script type="text/javascript" src="//tags.tiqcdn.com/utag/wsjdn/marketwatch/prod/utag.js"></script>
+<!-- End Tealium Tag -->
+<!-- Begin Dianomi Tag -->
+    <script src="//www.dianomi.com/partner/marketwatch/js/dianomi-marketwatch.js?v=1.1"></script>
+<!-- End Dianomi Tag -->
+</body>
+</html>
