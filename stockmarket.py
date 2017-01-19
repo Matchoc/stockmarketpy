@@ -40,9 +40,9 @@ def set_skip_symbol(x):
 	SKIP_SYMBOL = x
 
 PRINT_LEVEL=1
-def myprint(str, level=0):
+def myprint(msg, level=0):
 	if (level >= PRINT_LEVEL):
-		print(str)
+		sys.stdout.buffer.write((str(msg) + "\n").encode('UTF-8'))
 
 class MLModelError(Exception):
 	def __init__(self, error_msg, level):
@@ -711,7 +711,7 @@ def reorder_and_print_results(results):
 	timestr = strftime("%Y%m%d-%H%M%S")
 	pathcsv = os.path.join(result_dir, "prediction-" + timestr + ".csv")
 	
-	with open(pathcsv, 'w') as f:
+	with open(pathcsv, 'wb') as f:
 		title = []
 		title.append("symbol")
 		title.append("prediction $")
@@ -720,7 +720,7 @@ def reorder_and_print_results(results):
 		title.append("pudDate")
 		title.append("pudTime")
 		title.append("title")
-		f.write(";".join(title) + "\n")
+		f.write((";".join(title) + "\n").encode("utf-8", "ignore"))
 		for result in sorted_results:
 			line = []
 			line.append(result["symbol"])
@@ -733,7 +733,7 @@ def reorder_and_print_results(results):
 			line.append(pubdate.strftime("%Y-%m-%d"))
 			line.append(pubdate.strftime("%H:%M:%S"))
 			line.append(result["news"]["title"])
-			f.write(";".join(line) + "\n")
+			f.write((";".join(line) + "\n").encode("utf-8", "ignore"))
 	
 def print_ordered_all_words():
 	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
@@ -799,10 +799,10 @@ def graph_actual_vs_predicted():
 	
 	myprint("todo")
 	
-SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "FFH" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
 	#train_cross_variations()
-	#graph_actual_vs_predicted()
+	graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
