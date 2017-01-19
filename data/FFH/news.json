@@ -178,5 +178,599 @@
         "pubDate": "Wed, 21 Dec 2016 21:41:14 GMT",
         "source": "data\\FFH\\20170118.rss",
         "title": "CANADA STOCKS-TSX ends barely higher, industrial stocks led gains"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090503.news",
+        "description": null,
+        "guid": "yahoo_finance/3335365507",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=130uoqc6u/*http://www.wsj.com/articles/performance-sports-seeks-approval-of-bankruptcy-bonuses-1482350687?mod=yahoo_hs",
+        "pubDate": "Wed, 21 Dec 2016 20:04:50 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "[$$] Performance Sports Seeks Approval of Bankruptcy Bonuses"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090503.news",
+        "description": "[Reuters] - Canada's main stock index rose in morning trade on Wednesday, its fifth minor gain in a row, helped by rising energy and industrial stocks, with construction company SNC-Lavalin jumping after winning an oil sands service contract. SNC-Lavalin rose 3.9 percent to C$59.36. It said its subsidiary is part of a joint venture that won a five-year deal to supply engineering and procurement services to an unnamed \"prominent integrated oil company\" in the Athabasca region in Alberta.",
+        "guid": "yahoo_finance/16860014",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-energy-industrials-154204739.html",
+        "pubDate": "Wed, 21 Dec 2016 15:42:04 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "CANADA STOCKS-TSX up with energy and industrials; SNC-Lavalin jumps 3.9 pct"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090505.news",
+        "description": null,
+        "guid": "yahoo_finance/611779671",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/allied-world-m-best-radar-133601356.html",
+        "pubDate": "Wed, 21 Dec 2016 13:36:01 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Allied World on A.M. Best Radar After Merger Announcement"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090506.news",
+        "description": "[Business Wire] - A.M. Best has commented that the Long-Term Issuer Credit Rating of \u201cbbb\u201d and the Long-Term Issue Credit Ratings on the debt and preferred equity of Fairfax Financial Holdings Limited are unchanged following an announcement that it has entered into a merger agreement under which Fairfax will acquire Allied World Assurance Company Holdings AG for a total equity value ...",
+        "guid": "yahoo_finance/2045878574",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/m-best-comments-credit-ratings-220100057.html",
+        "pubDate": "Tue, 20 Dec 2016 22:01:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "A.M. Best Comments on Credit Ratings of Fairfax Financial Holdings Limited Following Acquisition Announcement of Allied World Assurance Company Holdings AG"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090508.news",
+        "description": null,
+        "guid": "yahoo_finance/1601158954",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/company-news-december-20-2016-151003645.html",
+        "pubDate": "Tue, 20 Dec 2016 15:10:03 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Company News for December 20, 2016"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090510.news",
+        "description": null,
+        "guid": "yahoo_finance/4045697210",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132vbq366/*http://www.fool.com/investing/2016/12/19/why-allied-world-assurance-co-holdings-ag-stock-is.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 19 Dec 2016 18:22:57 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Why Allied World Assurance Co. Holdings, AG. Stock Is Up 12% Today"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090511.news",
+        "description": null,
+        "guid": "yahoo_finance/529801294",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/watsa-says-trump-era-time-160205969.html",
+        "pubDate": "Mon, 19 Dec 2016 16:02:05 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Watsa Says Trump Era Time to Go on Offense With $4.9 Billion Bet"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090511.news",
+        "description": null,
+        "guid": "yahoo_finance/1748227388",
+        "link": "http://us.rd.yahoo.com/finance/external/investopedia/rss/SIG=135pem3nq/*http://www.investopedia.com/news/fairfax-reaches-deal-acquire-allied-world-assurance-49b-ffhto-awh/?partner=YahooSA",
+        "pubDate": "Mon, 19 Dec 2016 14:39:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Reaches Deal to Acquire Allied World Assurance For $4.9B (FFH.TO, AWH)"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090511.news",
+        "description": "[at noodls] - TORONTO, ONTARIO and ZUG, SWITZERLAND--(Marketwired - Dec. 18, 2016) - (Unless otherwise provided herein, all dollar amounts in this announcement are expressed in U.S. dollars) Highlights: -- Cash and ...",
+        "guid": "yahoo_finance/585310809",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kco4k0/*http://www.publicnow.com/view/0CC1820FF80099D4EB360D64F602346395205A68",
+        "pubDate": "Mon, 19 Dec 2016 14:01:12 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial to Acquire Allied World for $4.9 Billion in Cash and Stock"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090512.news",
+        "description": "[at noodls] - TORONTO, ONTARIO and ZUG, SWITZERLAND -- (Marketwired) -- 12/18/16 -- (Unless otherwise provided herein, all dollar amounts in this announcement are expressed in U.S. dollars) Highlights: Cash and share ...",
+        "guid": "yahoo_finance/3518226900",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12832da65/*http://www.publicnow.com/view/AC5AA385AD8E7E49CAEA5E1C7F77FC7EF4C1A154",
+        "pubDate": "Mon, 19 Dec 2016 01:40:08 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial to Acquire Allied World for $4.9 Billion in Cash and Stock"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090512.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Dec. 16, 2016) - NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) ...",
+        "guid": "yahoo_finance/1083365246",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12810jqvn/*http://www.publicnow.com/view/158CB559B6C6AC05C7F30FC8E3A496B224533CF2",
+        "pubDate": "Fri, 16 Dec 2016 20:50:13 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Completes C$450 Million Senior Notes Offering"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090512.news",
+        "description": null,
+        "guid": "yahoo_finance/729937507",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/m-best-assigns-issue-credit-210200765.html",
+        "pubDate": "Wed, 14 Dec 2016 21:02:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "A.M. Best Assigns Issue Credit Rating to Fairfax Financial Holdings Limited\u2019s Forthcoming Senior Unsecured Notes"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090514.news",
+        "description": null,
+        "guid": "yahoo_finance/3125947299",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-unit-sells-more-shares-093053801.html",
+        "pubDate": "Fri, 09 Dec 2016 09:30:53 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax unit sells more shares in Bank of Ireland"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090516.news",
+        "description": "[Reuters - UK Focus] - A subsidiary of Fairfax Financial Holdings, one of the shareholders who helped keep Bank of Ireland out of state hands in 2011, is selling half of its remaining stake in the Irish lender, the bank managing ...",
+        "guid": "yahoo_finance/368308252",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/fairfax-unit-sells-more-shares-091903428.html",
+        "pubDate": "Fri, 09 Dec 2016 09:19:03 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax unit sells more shares in Bank of Ireland"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090517.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Nov. 11, 2016) -Fairfax Financial Holdings Limited (TSX:FFH)(TSX:FFH.U) announces that after considering the effect of the recent U.S. elections and the potential for changes ...",
+        "guid": "yahoo_finance/1633355415",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283d9da5/*http://www.publicnow.com/view/B7DBA635F949FFEAD2DD7B3EF0B463AA4C524E46",
+        "pubDate": "Fri, 11 Nov 2016 18:57:05 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: Reduction in Defensive Equity Hedges"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": "[at noodls] - TORONTO, ONTARIO -- (Marketwired) -- 11/03/16 -- (Note: All dollar amounts in this news release are expressed in U.S. dollars except as otherwise noted. The financial results are prepared using the recognition ...",
+        "guid": "yahoo_finance/2646982688",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128nsc230/*http://www.publicnow.com/view/B3E8A6BA0725CBD3F1A8B3E61EDDCEF5FE194157",
+        "pubDate": "Thu, 03 Nov 2016 21:56:07 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: Third Quarter Financial Results"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Oct. 20, 2016) -Fairfax Financial Holdings Limited (TSX:FFH)(TSX:FFH.U) will hold a conference call at 8:30 a.m. Eastern Time on Friday, November 4, 2016 to discuss its ...",
+        "guid": "yahoo_finance/662866111",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jt0q5r/*http://www.publicnow.com/view/63F45AB847E39371E35F79B3114E82A6F3840DC7",
+        "pubDate": "Thu, 20 Oct 2016 19:29:01 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Conference Call"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": "[at noodls] - Fairfax to Service AIG Multinational Business in Acquired Countries TORONTO, ONTARIO -- (Marketwired) -- 10/18/16 -- Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) announced today ...",
+        "guid": "yahoo_finance/37969487",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286ggtkj/*http://www.publicnow.com/view/1C1DB9D1DC256BB54CBC14914D1592FB4CDC2B39",
+        "pubDate": "Tue, 18 Oct 2016 12:33:01 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax to Acquire Certain AIG Businesses in Latin America, Central and Eastern Europe"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Sept. 23, 2016) - Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) announces today that the Toronto Stock Exchange (the 'TSX') accepted a notice filed ...",
+        "guid": "yahoo_finance/94526095",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282r6kn4/*http://www.publicnow.com/view/0F050E9237E5F6A0020B79BFC056DB8C34299169",
+        "pubDate": "Fri, 23 Sep 2016 11:52:01 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: Intention to Make A Normal Course Issuer Bid for Subordinate Voting Shares and Preferred Shares"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Sept. 1, 2016) -Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) announces that it has declared the following quarterly dividends per share on its preferred ...",
+        "guid": "yahoo_finance/2643265457",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128i340np/*http://www.publicnow.com/view/644F70FCF3B32C2BE5AB68A334C46D1A4D46C1ED",
+        "pubDate": "Thu, 01 Sep 2016 21:23:04 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Quarterly Dividend on Series C, D, E, F, G, H, I, J, K and M Preferred Shares and Quarterly Dividend Rate for Series D, F, H and J Shares"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090518.news",
+        "description": null,
+        "guid": "yahoo_finance/771300788",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/blackberry-sell-605-million-convertible-183351781.html",
+        "pubDate": "Fri, 26 Aug 2016 18:55:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry to raise $605 million from shareholder Fairfax, others"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090520.news",
+        "description": null,
+        "guid": "yahoo_finance/887989346",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-sell-605-million-convertible-183351658.html",
+        "pubDate": "Fri, 26 Aug 2016 18:55:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry to raise $605 million from shareholder Fairfax, others"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO -- (Marketwired) -- 08/25/16 -- Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH) (TSX:FFH.U) announced today that it has acquired, through certain of its subsidiaries, a total ...",
+        "guid": "yahoo_finance/2488152216",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gse7h6/*http://www.publicnow.com/view/B9FB8DBC222C0544EBDB7AD58A250816DA5ECBEB",
+        "pubDate": "Thu, 25 Aug 2016 21:38:10 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Acquisition of Shares of Torstar"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO -- (Marketwired) -- 07/28/16 -- (Note: All dollar amounts in this news release are expressed in U.S. dollars except as otherwise noted. The financial results are prepared using the recognition ...",
+        "guid": "yahoo_finance/701096892",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284dnaro/*http://www.publicnow.com/view/AD640901BCE985AB84F040306D2A16C3C1168C74",
+        "pubDate": "Thu, 28 Jul 2016 21:38:06 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: Second Quarter Financial Results"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO -- (Marketwired) -- 07/14/16 -- Fairfax Financial Holdings Limited (TSX:FFH)(TSX:FFH.U) will hold a conference call at 8:30 a.m. Eastern Time on Friday, July 29, 2016 to discuss its 2016 ...",
+        "guid": "yahoo_finance/3535583281",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128v2i6gf/*http://www.publicnow.com/view/ED6A9476924428F5E624E674C03FC24678EFDB69",
+        "pubDate": "Thu, 14 Jul 2016 19:48:06 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Conference Call"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - July 6, 2016) -Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) announced today that it has entered into an agreement with Zurich Insurance Company Ltd ...",
+        "guid": "yahoo_finance/4010686161",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1280asfm8/*http://www.publicnow.com/view/847549A9DBB832E1194632FB891E203C7C567F1C",
+        "pubDate": "Thu, 07 Jul 2016 04:11:11 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax to Acquire South African Insurer"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - June 27, 2016) -Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) announced today that it has, through its wholly-owned subsidiary, Fairfax Asia Limited ...",
+        "guid": "yahoo_finance/243572580",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gs7od8/*http://www.publicnow.com/view/9C1286304C668C9426CA802F42C7D05557FB8618",
+        "pubDate": "Mon, 27 Jun 2016 11:31:04 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax to Acquire 80% Interest in Indonesian Insurer"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - June 2, 2016) -Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH) (TSX:FFH.U) announces that it has declared the following quarterly dividends per share on its preferred ...",
+        "guid": "yahoo_finance/1524177139",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qolvrg/*http://www.publicnow.com/view/FDB112C3900F1EC8EF313F246C429ABD46B11BFC",
+        "pubDate": "Thu, 02 Jun 2016 21:25:07 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Quarterly Dividend on Series C, D, E, F, G, H, I, J, K and M Preferred Shares and Quarterly Dividend Rate for Series D, F, H and J Shares"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090522.news",
+        "description": "[at noodls] - TORONTO, ONTARIO -- (Marketwired) -- 04/28/16 -- (Note: All dollar amounts in this news release are expressed in U.S. dollars except as otherwise noted. The financial results are prepared using the recognition ...",
+        "guid": "yahoo_finance/1281923415",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128c2vh8e/*http://www.publicnow.com/view/64D367C64F092FAA7C89FB1B60FC6D3F7B0AB1F8",
+        "pubDate": "Thu, 28 Apr 2016 21:31:08 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: First Quarter Financial Results"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090523.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - April 15, 2016) - Fairfax Financial Holdings Limited ('Fairfax') (TSX:FFH)(TSX:FFH.U) is pleased to announce the results of the vote on Directors at its April 14, 2016 ...",
+        "guid": "yahoo_finance/106618213",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1285e3ls3/*http://www.publicnow.com/view/21787ADF8C0677485D4F6A3861946C16132ECD39",
+        "pubDate": "Fri, 15 Apr 2016 21:27:10 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial Holdings Limited: Result of Voting for Directors at Annual Shareholders' Meeting"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090523.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - April 14, 2016) -Fairfax Financial Holdings Limited (TSX:FFH) (TSX:FFH.U) will hold a conference call at 8:30 a.m. Eastern Time on Friday, April 29, 2016 to discuss its ...",
+        "guid": "yahoo_finance/3975261399",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288i752o/*http://www.publicnow.com/view/8C2CE80A856917D9ADD905355C5C94F83DF086AF",
+        "pubDate": "Thu, 14 Apr 2016 19:21:30 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Announces Conference Call"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090523.news",
+        "description": null,
+        "guid": "yahoo_finance/3289790125",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/fairfax-talks-invest-300-million-032742883.html",
+        "pubDate": "Fri, 08 Apr 2016 03:27:42 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax in talks to invest about $300 million in Sanmar - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090524.news",
+        "description": null,
+        "guid": "yahoo_finance/917222300",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-talks-invest-300-million-032742991.html",
+        "pubDate": "Fri, 08 Apr 2016 03:27:42 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax in talks to invest about $300 million in Sanmar - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090526.news",
+        "description": null,
+        "guid": "yahoo_finance/1134054748",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/fairfax-talks-invest-300-million-225852774.html",
+        "pubDate": "Thu, 07 Apr 2016 22:58:52 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax in talks to invest about $300 million in Sanmar - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090531.news",
+        "description": null,
+        "guid": "yahoo_finance/419778697",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-talks-invest-300-million-225852536.html",
+        "pubDate": "Thu, 07 Apr 2016 22:58:52 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax in talks to invest about $300 million in Sanmar - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090533.news",
+        "description": null,
+        "guid": "yahoo_finance/150526870",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/gvk-sells-33-percent-stake-103106230.html",
+        "pubDate": "Mon, 28 Mar 2016 10:31:06 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "GVK sells 33 percent stake in Bengaluru airport to Fairfax for $323 million"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090535.news",
+        "description": null,
+        "guid": "yahoo_finance/98241680",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/gvk-sells-33-percent-stake-103106095.html",
+        "pubDate": "Mon, 28 Mar 2016 10:31:06 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "GVK sells 33 percent stake in Bengaluru airport to Fairfax for $323 million"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090537.news",
+        "description": null,
+        "guid": "yahoo_finance/2794617706",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/fairfax-financial-raise-c-735-005315798.html",
+        "pubDate": "Tue, 23 Feb 2016 00:53:15 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial to raise C$735 million via equity issuance"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090538.news",
+        "description": null,
+        "guid": "yahoo_finance/3399964568",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-financial-raise-c-735-005315915.html",
+        "pubDate": "Tue, 23 Feb 2016 00:53:15 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax Financial to raise C$735 million via equity issuance"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090543.news",
+        "description": null,
+        "guid": "yahoo_finance/577353625",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/power-producer-apr-gets-253-112527580.html",
+        "pubDate": "Mon, 26 Oct 2015 12:33:59 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Power producer APR to be taken private in 165 million-pound deal"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090545.news",
+        "description": null,
+        "guid": "yahoo_finance/219424447",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/power-producer-apr-taken-private-123012689.html",
+        "pubDate": "Mon, 26 Oct 2015 12:30:12 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Power producer APR to be taken private in $253 mln deal"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090547.news",
+        "description": null,
+        "guid": "yahoo_finance/2201957653",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/apr-energy-says-buyout-talks-101300896.html",
+        "pubDate": "Mon, 05 Oct 2015 12:15:20 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "APR Energy in buyout talks with largest shareholder"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090549.news",
+        "description": null,
+        "guid": "yahoo_finance/900992337",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/buzz-apr-energy-best-day-100524190.html",
+        "pubDate": "Mon, 05 Oct 2015 10:05:24 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BUZZ-APR Energy: best day ever on buyout talks"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090550.news",
+        "description": null,
+        "guid": "yahoo_finance/1699270680",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/irish-insurer-fbd-boosts-capital-192847847.html",
+        "pubDate": "Wed, 16 Sep 2015 19:28:47 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Irish insurer FBD boosts capital via Fairfax investment"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090555.news",
+        "description": null,
+        "guid": "yahoo_finance/1402550170",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/irish-insurer-fbd-boosts-capital-192459589.html",
+        "pubDate": "Wed, 16 Sep 2015 19:24:59 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Irish insurer FBD boosts capital via Fairfax investment"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090557.news",
+        "description": null,
+        "guid": "yahoo_finance/1745633507",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/fairfax-india-buy-74-percent-123009424.html",
+        "pubDate": "Mon, 20 Jul 2015 12:53:59 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax India to buy 74 pct stake in logistics firm NCMSL for $126 mln"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090601.news",
+        "description": null,
+        "guid": "yahoo_finance/3481556610",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-india-buy-74-percent-123009851.html",
+        "pubDate": "Mon, 20 Jul 2015 12:53:59 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax India to buy 74 pct stake in logistics firm NCMSL for $126 mln"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090606.news",
+        "description": null,
+        "guid": "yahoo_finance/3926802427",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-ceo-calls-greece-remove-225909892.html",
+        "pubDate": "Fri, 19 Jun 2015 22:59:09 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax CEO calls on Greece to remove uncertainty, clinch debt deal"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090610.news",
+        "description": null,
+        "guid": "yahoo_finance/1137569080",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-moves-protect-watsas-voting-182514426.html",
+        "pubDate": "Sat, 13 Jun 2015 18:25:14 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax moves to protect Watsa's voting stake"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090615.news",
+        "description": null,
+        "guid": "yahoo_finance/3327256775",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/greece-says-wants-debt-payments-184810342.html",
+        "pubDate": "Mon, 25 May 2015 18:48:10 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Greece says wants to make debt payments but needs aid urgently"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090617.news",
+        "description": null,
+        "guid": "yahoo_finance/2170887710",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/greece-says-wants-debt-payments-184810317.html",
+        "pubDate": "Mon, 25 May 2015 18:48:10 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Greece says wants to make debt payments but needs aid urgently"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090619.news",
+        "description": null,
+        "guid": "yahoo_finance/3413124420",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-sells-bank-ireland-stake-071520562.html",
+        "pubDate": "Tue, 31 Mar 2015 07:49:02 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Bank of Ireland shares fall 6 percent as Fairfax sells stake"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090621.news",
+        "description": null,
+        "guid": "yahoo_finance/31142479",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/bank-ireland-shares-fall-6-074708561.html",
+        "pubDate": "Tue, 31 Mar 2015 07:47:08 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Bank of Ireland shares fall 6 pct as Fairfax sells stake"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090622.news",
+        "description": null,
+        "guid": "yahoo_finance/3098657117",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/fairfax-sells-bank-ireland-stake-071132490.html",
+        "pubDate": "Tue, 31 Mar 2015 07:11:32 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax sells Bank of Ireland stake at 0.36 euros per share - source"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090624.news",
+        "description": null,
+        "guid": "yahoo_finance/1204843814",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-reports-fiscal-fourth-quarter-111538815.html",
+        "pubDate": "Fri, 27 Mar 2015 15:36:03 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry posts 4th-qtr profit; seeks to end revenue slide"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090626.news",
+        "description": null,
+        "guid": "yahoo_finance/3994703737",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-reports-fiscal-fourth-quarter-111526901.html",
+        "pubDate": "Fri, 27 Mar 2015 15:11:05 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry posts fourth-quarter profit; seeks to end revenue slide"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090628.news",
+        "description": null,
+        "guid": "yahoo_finance/3672489764",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-reports-fiscal-fourth-quarter-111737641.html",
+        "pubDate": "Fri, 27 Mar 2015 12:20:00 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry reports fourth-quarter profit; sales miss"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090633.news",
+        "description": null,
+        "guid": "yahoo_finance/3613901453",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/insurer-brit-posts-rising-profits-073244452.html",
+        "pubDate": "Wed, 25 Feb 2015 07:32:44 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Insurer Brit posts rising profits, special dividend"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090637.news",
+        "description": null,
+        "guid": "yahoo_finance/2211450758",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/insurer-brit-posts-rising-profits-073134066.html",
+        "pubDate": "Wed, 25 Feb 2015 07:31:34 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Insurer Brit posts rising profits, special dividend"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090639.news",
+        "description": null,
+        "guid": "yahoo_finance/1967655782",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-fairfax-buy-brit-plc-025810719.html",
+        "pubDate": "Tue, 17 Feb 2015 13:41:28 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Canada's Fairfax snaps up Lloyd's insurer Brit Plc for $1.88 billion"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090641.news",
+        "description": null,
+        "guid": "yahoo_finance/143231298",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadas-fairfax-buy-insurer-brit-042720953.html",
+        "pubDate": "Tue, 17 Feb 2015 13:38:16 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Canada's Fairfax snaps up Lloyd's insurer Brit Plc for $1.88 bln"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090643.news",
+        "description": null,
+        "guid": "yahoo_finance/3034111629",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadas-fairfax-buy-brit-plc-025312135.html",
+        "pubDate": "Tue, 17 Feb 2015 02:53:12 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Canada's Fairfax to buy Brit Plc for about $1.88 bln"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090645.news",
+        "description": null,
+        "guid": "yahoo_finance/3418918791",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-optimistic-prospects-eurobank-greece-190913389.html",
+        "pubDate": "Mon, 02 Feb 2015 19:09:13 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "Fairfax optimistic about prospects of Eurobank and Greece"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090647.news",
+        "description": null,
+        "guid": "yahoo_finance/504122341",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/blackberry-dismisses-demise-talk-says-190813763.html",
+        "pubDate": "Mon, 02 Dec 2013 19:08:13 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry dismisses demise talk, says 'very much alive'"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090649.news",
+        "description": null,
+        "guid": "yahoo_finance/2541731044",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/blackberry-scraps-bid-buyer-ousts-142121049.html",
+        "pubDate": "Mon, 04 Nov 2013 14:21:21 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry scraps bid for buyer, ousts CEO"
+    },
+    {
+        "contents": "data\\FFH\\20170119-090651.news",
+        "description": null,
+        "guid": "yahoo_finance/4160080745",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/blackberry-chief-heins-sale-abandoned-140751820.html",
+        "pubDate": "Mon, 04 Nov 2013 14:07:51 GMT",
+        "source": "data\\FFH\\20170119.rss",
+        "title": "BlackBerry chief Heins out, sale abandoned"
     }
 ]

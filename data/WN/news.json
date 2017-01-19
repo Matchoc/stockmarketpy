@@ -178,5 +178,23 @@
         "pubDate": "Wed, 14 Sep 2016 11:30:00 GMT",
         "source": "data\\WN\\20170118.rss",
         "title": "W. Galen Weston steps down as Executive Chairman, George Weston Limited; succeeded by Galen G. Weston, who also retains Loblaw responsibilities"
+    },
+    {
+        "contents": "data\\WN\\20170119-091501.news",
+        "description": null,
+        "guid": "yahoo_finance/3497763598",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-george-weston-appoints-galen-131652619.html",
+        "pubDate": "Thu, 19 Jan 2017 13:16:52 GMT",
+        "source": "data\\WN\\20170119.rss",
+        "title": "Canada's George Weston appoints Galen G. Weston CEO"
+    },
+    {
+        "contents": "data\\WN\\20170119-091502.news",
+        "description": null,
+        "guid": "yahoo_finance/1888344486",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/george-weston-limited-loblaw-companies-123000165.html",
+        "pubDate": "Thu, 19 Jan 2017 12:30:00 GMT",
+        "source": "data\\WN\\20170119.rss",
+        "title": "George Weston Limited and Loblaw Companies Limited Announce Management Succession"
     }
 ]

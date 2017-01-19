@@ -403,5 +403,14 @@
         "pubDate": "Fri, 06 Jan 2017 18:50:36 GMT",
         "source": "data\\SPB\\20170106.rss",
         "title": "Superior Plus Announces January 2017 Cash Dividend and Upcoming Events"
+    },
+    {
+        "contents": "data\\SPB\\20170119-090716.news",
+        "description": null,
+        "guid": "yahoo_finance/231558926",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14d5fu1eu/*http://www.capitalcube.com/blog/index.php/superior-plus-corp-breached-its-50-day-moving-average-in-a-bearish-manner-spb-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 13:56:12 GMT",
+        "source": "data\\SPB\\20170119.rss",
+        "title": "Superior Plus Corp. breached its 50 day moving average in a Bearish Manner : SPB-CA : January 19, 2017"
     }
 ]

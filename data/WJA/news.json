@@ -178,5 +178,14 @@
         "pubDate": "Mon, 05 Dec 2016 13:50:09 GMT",
         "source": "data\\WJA\\20170118.rss",
         "title": "Research Reports Initiated on Industrials Stocks Air Canada, WestJet Airlines, Chorus Aviation, and Exchange Income"
+    },
+    {
+        "contents": "data\\WJA\\20170119-090115.news",
+        "description": null,
+        "guid": "yahoo_finance/3192038915",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-inaugurates-mesa-arizona-110000223.html",
+        "pubDate": "Thu, 19 Jan 2017 11:00:00 GMT",
+        "source": "data\\WJA\\20170119.rss",
+        "title": "WestJet inaugurates service to Mesa, Arizona"
     }
 ]

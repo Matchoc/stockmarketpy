@@ -178,5 +178,14 @@
         "pubDate": "Fri, 18 Nov 2016 15:16:09 GMT",
         "source": "data\\MNW\\20170118.rss",
         "title": "Mitel Networks Corp. :MNW-CA: Earnings Analysis: Q3, 2016 By the Numbers : November 18, 2016"
+    },
+    {
+        "contents": "data\\MNW\\20170119-091120.news",
+        "description": "[GlobeNewswire] - Enables South African Businesses to Communicate and Collaborate Seamlessly. Enables productivity and a consistent user experience from virtually anywhere Mitel technology now powering cloud services for ...",
+        "guid": "yahoo_finance/2848933538",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mitel-launches-cloud-communications-portfolio-133000440.html",
+        "pubDate": "Thu, 19 Jan 2017 13:30:00 GMT",
+        "source": "data\\MNW\\20170119.rss",
+        "title": "Mitel Launches Cloud Communications Portfolio in South Africa With EOH"
     }
 ]

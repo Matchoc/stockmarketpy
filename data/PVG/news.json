@@ -178,5 +178,14 @@
         "pubDate": "Wed, 29 Jun 2016 09:00:00 GMT",
         "source": "data\\PVG\\20170118.rss",
         "title": "Pretium Resources Inc.: Brucejack Project Construction Update"
+    },
+    {
+        "contents": "data\\PVG\\20170119-091516.news",
+        "description": null,
+        "guid": "yahoo_finance/3826378430",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pretium-resources-pvg-continue-surge-120412237.html",
+        "pubDate": "Thu, 19 Jan 2017 12:04:12 GMT",
+        "source": "data\\PVG\\20170119.rss",
+        "title": "Will Pretium Resources (PVG) Continue to Surge Higher?"
     }
 ]

@@ -862,5 +862,14 @@
         "pubDate": "Tue, 17 Jan 2017 13:49:17 GMT",
         "source": "data\\POT\\20170117.rss",
         "title": "Israeli official opposes extension to ICL's Dead Sea mining permit"
+    },
+    {
+        "contents": "data\\POT\\20170119-091550.news",
+        "description": null,
+        "guid": "yahoo_finance/172118750",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14qs6uoji/*http://www.capitalcube.com/blog/index.php/potash-corp-of-saskatchewan-inc-breached-its-50-day-moving-average-in-a-bearish-manner-pot-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:08:45 GMT",
+        "source": "data\\POT\\20170119.rss",
+        "title": "Potash Corp. of Saskatchewan, Inc. breached its 50 day moving average in a Bearish Manner : POT-CA : January 19, 2017"
     }
 ]

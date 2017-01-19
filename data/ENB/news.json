@@ -178,5 +178,554 @@
         "pubDate": "Mon, 19 Dec 2016 13:06:52 GMT",
         "source": "data\\ENB\\20170118.rss",
         "title": "Enbridge, Inc. breached its 50 day moving average in a Bullish Manner : ENB-CA : December 19, 2016"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091157.news",
+        "description": null,
+        "guid": "yahoo_finance/4045747878",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13c1p1v2l/*http://www.bizjournals.com/houston/news/2016/12/16/shareholders-approve-enbridge-s-28b-acquisition-of.html?ana=yahoo",
+        "pubDate": "Fri, 16 Dec 2016 14:45:06 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Shareholders approve Enbridge\u2019s $28B acquisition of Spectra"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091157.news",
+        "description": "[Marketwired] - Enbridge Inc. announced that Enbridge shareholders overwhelmingly approved the required resolutions in connection with the merger transaction between Enbridge and Spectra Energy Corp at the Special Meeting ...",
+        "guid": "yahoo_finance/4065913300",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-inc-shareholders-overwhelmingly-support-222029672.html",
+        "pubDate": "Thu, 15 Dec 2016 22:20:29 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Inc. Shareholders Overwhelmingly Support Combination with Spectra Energy Corp"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091159.news",
+        "description": "[PR Newswire] - HOUSTON, Dec.15, 2016 /PRNewswire/ -- Spectra Energy Corp (SE) (\"Spectra Energy\") announced that during a special stockholder meeting held earlier today, Spectra Energy stockholders voted overwhelmingly to approve the previously announced combination of Spectra Energy with Enbridge Inc. (TSX, NYSE: ENB) (\"Enbridge\") in a stock-for-stock merger transaction. Approximately 73 percent of the total outstanding shares of Spectra Energy common stock, and approximately 98 percent of the total shares voted at the meeting, were voted in favor of the transaction.",
+        "guid": "yahoo_finance/3958863049",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/spectra-energy-stockholders-overwhelmingly-approve-221900239.html",
+        "pubDate": "Thu, 15 Dec 2016 22:19:00 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Spectra Energy Stockholders Overwhelmingly Approve Merger With Enbridge"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091200.news",
+        "description": null,
+        "guid": "yahoo_finance/263060199",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=130u7sg0l/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-enbridge-inc-december-12-2016/",
+        "pubDate": "Mon, 12 Dec 2016 16:02:21 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "ETFs with exposure to Enbridge, Inc. : December 12, 2016"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091201.news",
+        "description": null,
+        "guid": "yahoo_finance/2884146240",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=134495nk2/*http://www.insidermonkey.com/blog/sony-corp-adr-sne-are-hedge-funds-right-about-this-stock-501348/",
+        "pubDate": "Thu, 08 Dec 2016 01:36:44 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Sony Corp (ADR) (SNE): Are Hedge Funds Right About This Stock?"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091201.news",
+        "description": null,
+        "guid": "yahoo_finance/397048496",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12t1o1kik/*http://www.fool.com/investing/2016/12/05/3-top-dividend-aristocrats-to-buy-in-december.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 05 Dec 2016 14:16:06 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "3 Top Dividend Aristocrats to Buy in December"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091202.news",
+        "description": "[Marketwired] - Enbridge Inc. together with Enbridge Income Fund Holdings Inc. announced today that an affiliate of Enbridge Income Fund has closed its previously announced sale of the Fund's South Prairie Region assets ...",
+        "guid": "yahoo_finance/4040718857",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-inc-enbridge-income-fund-221500112.html",
+        "pubDate": "Thu, 01 Dec 2016 22:15:00 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Inc. and Enbridge Income Fund Holdings Inc. Announce Close of $1.075-billion Sale of South Prairie Region Assets"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091204.news",
+        "description": null,
+        "guid": "yahoo_finance/2485884262",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/canada-approves-pipelines-boost-exports-232911098.html",
+        "pubDate": "Tue, 29 Nov 2016 23:29:11 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada approves new pipelines to boost exports, greens ready to fight"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091207.news",
+        "description": null,
+        "guid": "yahoo_finance/1132949582",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-approves-pipelines-boost-exports-232911266.html",
+        "pubDate": "Tue, 29 Nov 2016 23:29:11 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada approves new pipelines to boost exports, greens ready to fight"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091211.news",
+        "description": "[Reuters - UK Focus] - * BAML floater dropped; almost 3 times covered * BP 12-year prices only 5bp tighter than IPT * Enbridge over 4 times covered * Most actively traded: TWC 8.75% '19s * Tuesday last issuance chance before ...",
+        "guid": "yahoo_finance/3201446916",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/highgrade-close-four-issuers-raise-211508906.html",
+        "pubDate": "Mon, 21 Nov 2016 21:15:08 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "HIGHGRADE CLOSE-Four issuers raise US$6bn in IG primary"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091213.news",
+        "description": "[Reuters - UK Focus] - Bank of America Merrill Lynch led four issuers in the US investment-grade new issue market on Monday, as borrowers grabbed an open issuance window ahead of the Thanksgiving holiday. Markets were more stable, with less volatility in US Treasuries than in recent sessions. Much of last week's much bigger than expected US$41.55bn of investment-grade supply was trading at or slightly inside reoffer, according to MarketAxess - giving issuers more impetus to bring deals.",
+        "guid": "yahoo_finance/4211860200",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/bank-america-leads-four-deals-161254815.html",
+        "pubDate": "Mon, 21 Nov 2016 16:12:54 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Bank of America leads four deals in US high-grade bond market"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091215.news",
+        "description": "[at noodls] - 11/3/2016 11:57:24 AM HOUSTON, TX -- (Marketwired) -- 11/03/16 -- Enbridge Energy Management, L.L.C. (NYSE: EEQ) ('Enbridge Management') today confirmed that its previously declared share distribution, ...",
+        "guid": "yahoo_finance/2543816002",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tpi2jc/*http://www.publicnow.com/view/2AFB6AD5BE16EA39BACABB5B01CC9BCB1AFBA93C",
+        "pubDate": "Thu, 03 Nov 2016 16:08:05 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Management, L.L.C. Confirms Amount of Share Distribution for Third Quarter 2016 more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091215.news",
+        "description": null,
+        "guid": "yahoo_finance/2267590188",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/pipeline-operator-enbridge-cuts-530-222623135.html",
+        "pubDate": "Wed, 19 Oct 2016 22:26:23 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Pipeline operator Enbridge cuts 530 jobs"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091217.news",
+        "description": null,
+        "guid": "yahoo_finance/2205937994",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/oil-rises-reported-u-crude-004314655.html",
+        "pubDate": "Wed, 19 Oct 2016 20:47:22 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Oil up over 2 percent; U.S. crude at 15-month high on big drawdown"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091222.news",
+        "description": null,
+        "guid": "yahoo_finance/1628736939",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/oil-rises-chinese-output-drops-093924971.html",
+        "pubDate": "Wed, 19 Oct 2016 20:41:10 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Oil up over 2 pct; U.S. crude at 15-month high on big drawdown"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091224.news",
+        "description": "[at noodls] - HOUSTON, TX -- (Marketwired) -- 10/14/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) ('Enbridge Partners') will host a webcast conference call to discuss its 2016 third quarter financial results as follows: ...",
+        "guid": "yahoo_finance/195058179",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288e0d9a/*http://www.publicnow.com/view/B5EA614CACCD1902EC8BE46AFF834F60C9BDD957",
+        "pubDate": "Fri, 14 Oct 2016 18:01:05 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. to Webcast Its 2016 Third Quarter Financial Results"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091224.news",
+        "description": "[at noodls] - 10/14/2016 1:42:28 PM HOUSTON, TX -- (Marketwired) -- 10/14/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) ('Enbridge Partners') will host a webcast conference call to discuss its 2016 third quarter ...",
+        "guid": "yahoo_finance/3152761024",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kuqmqo/*http://www.publicnow.com/view/718560CD1FD2FA00375ABB3093B1F2C891E50C5E",
+        "pubDate": "Fri, 14 Oct 2016 17:51:05 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. to Webcast Its 2016 Third Quarter Financial Results more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091224.news",
+        "description": null,
+        "guid": "yahoo_finance/4030166302",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadian-m-activity-hits-highest-133931176.html",
+        "pubDate": "Thu, 06 Oct 2016 13:39:31 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian M&A activity hits highest since financial crisis in Jan-Sept"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091226.news",
+        "description": null,
+        "guid": "yahoo_finance/2267272516",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/sunoco-behind-protested-dakota-pipeline-153110618.html",
+        "pubDate": "Fri, 23 Sep 2016 15:31:10 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Sunoco, behind protested Dakota pipeline, tops U.S. crude spill charts"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091227.news",
+        "description": null,
+        "guid": "yahoo_finance/1357901502",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/enbridge-buy-spectra-energy-c-104421042.html",
+        "pubDate": "Tue, 06 Sep 2016 19:26:36 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge buying Spectra in $28 billion deal"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091230.news",
+        "description": null,
+        "guid": "yahoo_finance/398906649",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/canadas-enbridge-buy-spectra-energy-144356829.html",
+        "pubDate": "Tue, 06 Sep 2016 16:48:42 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge buying Spectra in $28 billion deal"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091234.news",
+        "description": null,
+        "guid": "yahoo_finance/3245965466",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-enbridge-buy-spectra-energy-144356296.html",
+        "pubDate": "Tue, 06 Sep 2016 16:48:42 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge buying Spectra in $28 billion deal"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091236.news",
+        "description": null,
+        "guid": "yahoo_finance/2549565130",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadian-pipeline-giant-enbridge-buys-144115521.html",
+        "pubDate": "Tue, 06 Sep 2016 14:41:15 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian pipeline giant Enbridge buys US rival Spectra for $28 bn"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091238.news",
+        "description": null,
+        "guid": "yahoo_finance/1014938043",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadian-pipeline-giant-enbridge-buys-132106226.html",
+        "pubDate": "Tue, 06 Sep 2016 13:21:06 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian pipeline giant Enbridge buys US rival Spectra"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091240.news",
+        "description": "[AFP] - Canadian pipeline operator Enbridge will buy US rival Spectra Energy in a Can$37 billion (US$28 billion) deal that creates North America's largest energy infrastructure firm, the companies announced Tuesday. The all-stock deal will create a network of more than 86,000 kilometers (54,000 miles) of oil and gas pipelines serving most of Canada and the United States, with the exception of the US Southwest and California markets. The combined company, which will be based in Calgary in western Canada, would have annual revenues of more than Can$40 billion and earnings before interest and taxes of just under Can$6 billion, based on figures through June 30.",
+        "guid": "yahoo_finance/322507147",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/canadian-pipeline-giant-enbridge-buys-044115950.html",
+        "pubDate": "Tue, 06 Sep 2016 04:41:15 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian pipeline giant Enbridge buys US rival Spectra for $28 bn"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091245.news",
+        "description": "[AFP] - Canadian pipeline operator Enbridge will buy US rival Spectra Energy in a Can$37 billion (US$28 billion) deal that creates North America's largest energy infrastructure firm, the companies announced Tuesday. The all-stock deal will create an network of oil and gas pipelines serving most of Canada and the United States, with the exception of the US Southwest and California markets. The combined company, which will be based in Calgary in western Canada, would have annual revenues of more than Can$40 billion and earnings before interest and taxes of just under Can$6 billion, based on figures through June 30.",
+        "guid": "yahoo_finance/3266704076",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/canadian-pipeline-giant-enbridge-buys-032106181.html",
+        "pubDate": "Tue, 06 Sep 2016 03:21:06 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian pipeline giant Enbridge buys US rival Spectra"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091247.news",
+        "description": null,
+        "guid": "yahoo_finance/1127949536",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/enbridge-files-mixed-shelf-offering-163030880.html",
+        "pubDate": "Mon, 22 Aug 2016 17:15:35 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge files mixed shelf offering of up to $7 billion - U.S. SEC"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091249.news",
+        "description": null,
+        "guid": "yahoo_finance/3080660026",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/enbridges-sandpiper-looks-latest-victim-051303814.html",
+        "pubDate": "Thu, 04 Aug 2016 05:13:03 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge's Sandpiper looks to be latest victim of pipeline overbuild"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091251.news",
+        "description": "[at noodls] - 8/3/2016 12:16:21 PM HOUSTON, TX -- (Marketwired) -- 08/03/16 -- Enbridge Energy Management, L.L.C. (NYSE: EEQ) ('Enbridge Management') today confirmed that its previously declared share distribution, ...",
+        "guid": "yahoo_finance/287158702",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12861ievk/*http://www.publicnow.com/view/7B7F66A8649DBDA570E829906A7E7C195C9BC5C7",
+        "pubDate": "Wed, 03 Aug 2016 16:42:04 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Management, L.L.C. Confirms Amount of Share Distribution for Second Quarter 2016 more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091251.news",
+        "description": null,
+        "guid": "yahoo_finance/3296915298",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/enbridge-buy-stakes-two-us-121126397.html",
+        "pubDate": "Wed, 03 Aug 2016 12:11:26 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge to buy stakes in two US oil pipelines for $1.5 bn"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091253.news",
+        "description": "[AFP] - Canadian oil pipeline operator Enbridge said Tuesday it had formed a joint venture with Marathon Petroleum to take a minority stake in two large US pipelines for $1.5 billion. The joint venture between Enbridge, with a 75 percent stake, and Marathon Petroleum, with 25 percent, will hold 49 percent of the Bakken Pipeline oil company, majority owned by Texas-based Phillips 66, which specializes in refining and transporting petroleum products. Bakken owns two major pipelines, Dakota access (DAPL) and Energy transfer crude oil (ETCO), which are expected to be commissioned by the end of the year.",
+        "guid": "yahoo_finance/225261562",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/enbridge-buy-stakes-two-us-021126130.html",
+        "pubDate": "Wed, 03 Aug 2016 02:11:26 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge to buy stakes in two US oil pipelines for $1.5 bn"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091257.news",
+        "description": "[at noodls] - HOUSTON, TX and CALGARY, AB -- (Marketwired) -- 08/02/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) ('EEP') and Enbridge Inc. (TSX: ENB) (NYSE: ENB) ('Enbridge' or the 'Company'), announced today that ...",
+        "guid": "yahoo_finance/1813128592",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12802hicg/*http://www.publicnow.com/view/F34088CB6AAC774E9DCEF619228213E44C9B2100",
+        "pubDate": "Tue, 02 Aug 2016 23:52:07 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. and Enbridge Inc. Announce Agreement to Acquire Equity Interest in the Bakken Pipeline System Establishing New Path to the U.S. Gulf Coast"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091257.news",
+        "description": "[at noodls] - 8/2/2016 7:30:04 PM HOUSTON, TX and CALGARY, AB -- (Marketwired) -- 08/02/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) ('EEP') and Enbridge Inc. (TSX: ENB) (NYSE: ENB) ('Enbridge' or the 'Company'), ...",
+        "guid": "yahoo_finance/2241163778",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128q1s3e5/*http://www.publicnow.com/view/1E37DD3DD5F4E998D71B877B5B3340FDBA9D1E80",
+        "pubDate": "Tue, 02 Aug 2016 23:42:08 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. and Enbridge Inc. Announce Agreement to Acquire Equity Interest in the Bakken Pipeline System Establishing New Path to the U.S. Gulf Coast more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091257.news",
+        "description": null,
+        "guid": "yahoo_finance/3906770532",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/enbridge-profit-misses-slightly-hurt-180458525.html",
+        "pubDate": "Fri, 29 Jul 2016 18:04:58 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge profit misses slightly, hurt by Fort McMurray wildfire"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091259.news",
+        "description": null,
+        "guid": "yahoo_finance/1499730963",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/enbridge-pay-177-million-us-180218696.html",
+        "pubDate": "Wed, 20 Jul 2016 18:02:18 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge to pay $177 million for US oil pipeline spills"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091301.news",
+        "description": "[AFP] - Canadian pipeline giant Enbridge Inc. has agreed to pay $177 million to settle claims stemming from two major oil spills in the United States in 2010, US authorities announced Wednesday. The amount includes civil penalties of $62 million and a commitment to spend at least $110 million on spill-prevention measures and operational improvements for around 2,000 miles (3,200 kilometers) of oil pipeline in the Great Lakes region. The deal with the Department of Justice and the Environmental Protection Agency will resolve claims from the spills which fouled waters with more than 26,000 barrels of heavy crude in Marshall, Michigan, and Romeoville, Illinois.",
+        "guid": "yahoo_finance/2557426538",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/enbridge-pay-177-million-us-080218641.html",
+        "pubDate": "Wed, 20 Jul 2016 08:02:18 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge to pay $177 million for US oil pipeline spills"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091303.news",
+        "description": null,
+        "guid": "yahoo_finance/3397544192",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bank-englands-carney-says-climate-134256496.html",
+        "pubDate": "Fri, 15 Jul 2016 18:02:45 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "BoE's Carney warns of $7 trillion green infrastructure need"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091306.news",
+        "description": null,
+        "guid": "yahoo_finance/4120279342",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/boes-carney-says-g20-summit-152422727.html",
+        "pubDate": "Fri, 15 Jul 2016 17:39:19 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "BoE's Carney warns of $7 trillion green infrastructure need"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091307.news",
+        "description": null,
+        "guid": "yahoo_finance/2790156960",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-enbridge-macquarie-looking-stake-124206634.html",
+        "pubDate": "Fri, 15 Jul 2016 13:34:22 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Exclusive - Enbridge, Macquarie vying for stake in 2 billion euro German wind park - sources"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091310.news",
+        "description": null,
+        "guid": "yahoo_finance/101858052",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/williams-attracts-least-7-bidders-193349588.html",
+        "pubDate": "Thu, 14 Jul 2016 19:33:49 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Williams attracts at least 7 bidders for Canadian unit -sources"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091312.news",
+        "description": null,
+        "guid": "yahoo_finance/1777042758",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/williams-attracts-least-7-bidders-182010406.html",
+        "pubDate": "Thu, 14 Jul 2016 18:20:10 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Williams attracts at least 7 bidders for Canadian unit -sources"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091314.news",
+        "description": null,
+        "guid": "yahoo_finance/1847258157",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/destin-pipeline-aims-reroute-shippers-175101011.html",
+        "pubDate": "Wed, 29 Jun 2016 17:51:01 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Destin Pipeline aims to reroute shippers impacted by force majeure by Wednesday"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091316.news",
+        "description": null,
+        "guid": "yahoo_finance/2214914453",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadian-oil-prices-strengthen-fire-200658185.html",
+        "pubDate": "Tue, 17 May 2016 20:06:58 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canadian oil prices strengthen as fire envelopes more camps"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091317.news",
+        "description": null,
+        "guid": "yahoo_finance/2725854118",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canada-govt-says-confident-alberta-170851923.html",
+        "pubDate": "Tue, 17 May 2016 17:08:51 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada gov't says confident Alberta can fight widening fires"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091319.news",
+        "description": "[AAP] - A massive wildfire burning around the oil sands hub of Fort McMurray, Alberta, is about a kilometre away from Enbridge Inc's Cheecham crude oil tank farm, but is under control for now, emergency officials say. The blaze near the tank farm was stable because the wind was co-operating as Enbridge's industrial firefighters tackled the blaze, the officials said at a news conference on Monday. The entire population of Fort McMurray, about 90,000 people, were forced to flee the Canadian city nearly two weeks ago as the uncontrolled wildfire raged through some neighbourhoods and destroyed about 15 per cent of structures.",
+        "guid": "yahoo_finance/4048759185",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/canada-wildfire-nears-crude-oil-002007191.html",
+        "pubDate": "Tue, 17 May 2016 00:20:07 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada wildfire nears crude oil tank farm"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091321.news",
+        "description": null,
+        "guid": "yahoo_finance/1404668427",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadas-trudeau-tours-alberta-oil-163531992.html",
+        "pubDate": "Fri, 13 May 2016 16:35:31 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada's Trudeau tours Alberta oil town ravaged by wildfire"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091322.news",
+        "description": null,
+        "guid": "yahoo_finance/1914688028",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadas-trudeau-tour-alberta-oil-090001889.html",
+        "pubDate": "Fri, 13 May 2016 09:00:01 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada's Trudeau to tour Alberta oil town ravaged by wildfire"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091324.news",
+        "description": "[at noodls] - 5/4/2016 11:26:51 AM HOUSTON, TX -- (Marketwired) -- 05/04/16 -- Enbridge Energy Management, L.L.C. (NYSE: EEQ) ('Enbridge Management') today confirmed that its previously declared share distribution, ...",
+        "guid": "yahoo_finance/3127799594",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128t001a5/*http://www.publicnow.com/view/53342FAA6196602F9A084E6DE31AE389F5271E82",
+        "pubDate": "Wed, 04 May 2016 15:50:06 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Management, L.L.C. Confirms Amount of Share Distribution for First Quarter 2016 more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091324.news",
+        "description": "[at noodls] - 5/2/2016 6:00:50 AM HOUSTON, TX -- (Marketwired) -- 05/02/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) FIRST QUARTER HIGHLIGHTS Record liquids pipeline systems deliveries of 3.3 million barrels per ...",
+        "guid": "yahoo_finance/862114953",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12817nb7d/*http://www.publicnow.com/view/A6A0E25671F407952387604D79FE793C33514709",
+        "pubDate": "Mon, 02 May 2016 10:20:07 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. Reports Earnings for First Quarter 2016 more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091324.news",
+        "description": "[at noodls] - HOUSTON, TX -- (Marketwired) -- 05/02/16 -- Enbridge Energy Partners, L.P. (NYSE: EEP) FIRST QUARTER HIGHLIGHTS Record liquids pipeline systems deliveries of 3.3 million barrels per day in the first quarter; ...",
+        "guid": "yahoo_finance/2282458411",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tkuu7u/*http://www.publicnow.com/view/640772A94C8CE56A799255AD89BA738E44472AA7",
+        "pubDate": "Mon, 02 May 2016 10:10:04 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. Reports Earnings for First Quarter 2016"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091325.news",
+        "description": "[at noodls] - 1/29/2016 4:00:45 PM -- () -- -- (NYSE: EEP) ('Enbridge Partners') announced today that the board of directors of its general partner has declared a quarterly cash distribution of per unit, or per unit ...",
+        "guid": "yahoo_finance/3878844941",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128icjp7m/*http://www.publicnow.com/view/A7C6207CDD8F9FB9624C6A51120E6A52974A88F9",
+        "pubDate": "Fri, 29 Jan 2016 21:19:28 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. Declares Distribution for Fourth Quarter 2015 more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091325.news",
+        "description": "[at noodls] - CALGARY, ALBERTA--(Marketwired - Jan. 28, 2016) - Enbridge Inc. (TSX:ENB) (NYSE:ENB) and Enbridge Income Fund Holdings Inc. (TSX:ENF) will host a joint webcast conference call to discuss their 2015 fourth ...",
+        "guid": "yahoo_finance/603708413",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128165hje/*http://www.publicnow.com/view/CF874489E57BFE1039F1CCAF584C1B75BA4A5F75",
+        "pubDate": "Thu, 28 Jan 2016 22:58:32 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Inc. and Enbridge Income Fund Holdings Inc. to Webcast 2015 Fourth Quarter and Year End Financial Results more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091325.news",
+        "description": "[at noodls] - CALGARY, ALBERTA--(Marketwired - Jan. 27, 2016) - Enbridge Inc. (TSX:ENB) (NYSE:ENB) (the 'Company') today announced the $538 million acquisition of Tupper Main and Tupper West gas plants and associated ...",
+        "guid": "yahoo_finance/1311065830",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12814gbr7/*http://www.publicnow.com/view/425D275B7F8C9C7D83B8F305F585AAFF6799937F",
+        "pubDate": "Wed, 27 Jan 2016 22:37:08 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Acquires Montney Natural Gas Assets from Murphy Oil Corp. more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091325.news",
+        "description": null,
+        "guid": "yahoo_finance/3169601597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-extends-decision-period-oil-215233286.html",
+        "pubDate": "Wed, 27 Jan 2016 21:52:33 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Canada extends decision period for oil pipelines"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091328.news",
+        "description": "[at noodls] - 1/20/2016 10:56:50 AM -- () -- -- (NYSE: EEP) ('Enbridge Partners') will host a webcast conference call to discuss its 2015 fourth quarter financial results and 2016 guidance as follows: Webcast Information ...",
+        "guid": "yahoo_finance/2958186263",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12545tqi7/*http://www.noodls.com/view/C4F18892F2AA9DE0A70AB2E5B37981BAAEA0D24D",
+        "pubDate": "Wed, 20 Jan 2016 16:25:10 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Enbridge Energy Partners, L.P. to Webcast Its 2015 Fourth Quarter Financial Results and 2016 Guidance more"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091328.news",
+        "description": null,
+        "guid": "yahoo_finance/3485298410",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bp-seeking-bids-2-billion-215431107.html",
+        "pubDate": "Tue, 21 Apr 2015 21:54:31 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "BP seeking bids for $2 billion in U.S. pipeline operations - Bloomberg"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091333.news",
+        "description": null,
+        "guid": "yahoo_finance/1369884262",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-regulators-probing-bp-crude-235931577.html",
+        "pubDate": "Wed, 04 Feb 2015 23:59:31 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "U.S. regulators probing BP crude shipments on Enbridge pipeline"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091337.news",
+        "description": null,
+        "guid": "yahoo_finance/868012874",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/analysis-u-oil-tanks-barely-061601785.html",
+        "pubDate": "Mon, 12 Jan 2015 20:43:45 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Analysis - U.S. oil tanks barely one-third full beckon crude contango play"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091339.news",
+        "description": null,
+        "guid": "yahoo_finance/4101981995",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/high-noon-gulf-coast-canada-193124556.html",
+        "pubDate": "Tue, 06 Jan 2015 19:31:24 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "High Noon on the Gulf Coast - Canada, Saudi oil set for showdown"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091344.news",
+        "description": null,
+        "guid": "yahoo_finance/516889424",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/e-sells-majority-u-wind-080338805.html",
+        "pubDate": "Fri, 28 Nov 2014 08:03:38 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "E.ON sells majority in U.S. wind farms to Enbridge"
+    },
+    {
+        "contents": "data\\ENB\\20170119-091346.news",
+        "description": null,
+        "guid": "yahoo_finance/1810231215",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/pipeline-ahead-raises-risks-canadas-220914401.html",
+        "pubDate": "Wed, 18 Jun 2014 22:09:14 GMT",
+        "source": "data\\ENB\\20170119.rss",
+        "title": "Pipeline go-ahead raises risks for Canada's Conservatives"
     }
 ]

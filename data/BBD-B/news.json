@@ -178,5 +178,14 @@
         "pubDate": "Wed, 21 Dec 2016 17:46:43 GMT",
         "source": "data\\BBD-B\\20170118.rss",
         "title": "Bombardier Completes Redemption of its 7.50% Senior Notes due 2018"
+    },
+    {
+        "contents": "data\\BBD-B\\20170119-091620.news",
+        "description": "[Marketwired] - - Bombardier Inc. today announced that it has redeemed, as set forth in a notice of redemption issued on November 21, 2016 , all of its 5.50% Senior Notes due 2018 / ISIN No. USC10602AZ01 ) .",
+        "guid": "yahoo_finance/3938697585",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-completes-redemption-5-50-174043261.html",
+        "pubDate": "Wed, 21 Dec 2016 17:40:43 GMT",
+        "source": "data\\BBD-B\\20170119.rss",
+        "title": "Bombardier Completes Redemption of its 5.50% Senior Notes due 2018"
     }
 ]

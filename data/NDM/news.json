@@ -241,5 +241,14 @@
         "pubDate": "Thu, 12 Jan 2017 14:39:18 GMT",
         "source": "data\\NDM\\20170113.rss",
         "title": "Northern Dynasty Announces Increase to Bought Deal Offering of Common Shares"
+    },
+    {
+        "contents": "data\\NDM\\20170119-090242.news",
+        "description": null,
+        "guid": "yahoo_finance/3181172909",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13khcb4io/*http://www.bloomberg.com/news/articles/2017-01-19/trump-makes-canadian-mine-explorer-with-zero-revenue-great-again?cmpid=yhoo.headline",
+        "pubDate": "Thu, 19 Jan 2017 05:01:00 GMT",
+        "source": "data\\NDM\\20170119.rss",
+        "title": "Trump Makes Canadian Mine Explorer With Zero Revenue Great Again"
     }
 ]

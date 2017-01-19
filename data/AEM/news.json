@@ -178,5 +178,14 @@
         "pubDate": "Thu, 15 Dec 2016 12:35:02 GMT",
         "source": "data\\AEM\\20170118.rss",
         "title": "3 Top Gold Stocks to Buy Now"
+    },
+    {
+        "contents": "data\\AEM\\20170119-091123.news",
+        "description": null,
+        "guid": "yahoo_finance/691685905",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500719.html",
+        "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
+        "source": "data\\AEM\\20170119.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Agnico Eagle Mines, Pan American Silver, NovaGold Resources, and Lucara Diamond"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Mon, 27 Jun 2016 22:11:01 GMT",
         "source": "data\\NG\\20170118.rss",
         "title": "NOVAGOLD Advances Permitting of Donlin Gold and Maintains Strong Financial Position at the End of the Second Quarter 2016"
+    },
+    {
+        "contents": "data\\NG\\20170119-090358.news",
+        "description": null,
+        "guid": "yahoo_finance/691685905",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500719.html",
+        "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
+        "source": "data\\NG\\20170119.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Agnico Eagle Mines, Pan American Silver, NovaGold Resources, and Lucara Diamond"
     }
 ]

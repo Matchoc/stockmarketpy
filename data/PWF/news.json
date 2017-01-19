@@ -178,5 +178,14 @@
         "pubDate": "Tue, 27 Sep 2016 14:16:06 GMT",
         "source": "data\\PWF\\20170118.rss",
         "title": "ETF\u2019s with exposure to Power Financial Corp. : September 27, 2016"
+    },
+    {
+        "contents": "data\\PWF\\20170119-090755.news",
+        "description": null,
+        "guid": "yahoo_finance/886781182",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fs0oup5/*http://www.capitalcube.com/blog/index.php/power-financial-corp-breached-its-50-day-moving-average-in-a-bearish-manner-pwf-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:02:10 GMT",
+        "source": "data\\PWF\\20170119.rss",
+        "title": "Power Financial Corp. breached its 50 day moving average in a Bearish Manner : PWF-CA : January 19, 2017"
     }
 ]

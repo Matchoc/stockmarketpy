@@ -178,5 +178,32 @@
         "pubDate": "Thu, 03 Nov 2016 17:09:18 GMT",
         "source": "data\\CCA\\20170118.rss",
         "title": "Cogeco Inc. and Cogeco Communications Inc. Will Resume the Quarterly Earnings Conference Call Today to Discuss Results for the Fourth Quarter of Fiscal 2016"
+    },
+    {
+        "contents": "data\\CCA\\20170119-090749.news",
+        "description": null,
+        "guid": "yahoo_finance/2069556469",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cogeco-communications-inc-releases-results-011336292.html",
+        "pubDate": "Thu, 03 Nov 2016 01:13:36 GMT",
+        "source": "data\\CCA\\20170119.rss",
+        "title": "Cogeco Communications Inc. Releases Its Results for the Fourth Quarter of Fiscal 2016 and Increases Its Dividend"
+    },
+    {
+        "contents": "data\\CCA\\20170119-090751.news",
+        "description": null,
+        "guid": "yahoo_finance/88244859",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20161102.html?t=cca.to",
+        "pubDate": "Wed, 02 Nov 2016 11:07:02 GMT",
+        "source": "data\\CCA\\20170119.rss",
+        "title": "Q4 2016 Cogeco Communications Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\CCA\\20170119-090751.news",
+        "description": "[at noodls] - ACTON, Mass., Oct. 17, 2016 (GLOBE NEWSWIRE) -- SeaChange International, Inc. (NASDAQ:SEAC) today announced that Cogeco Connexion has rolled out its latest generation of on-demand television services on ...",
+        "guid": "yahoo_finance/399260025",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287h3f1i/*http://www.publicnow.com/view/3F23DD96F11496DB71B88FC91BEE5C295269BBC4",
+        "pubDate": "Mon, 17 Oct 2016 13:13:04 GMT",
+        "source": "data\\CCA\\20170119.rss",
+        "title": "Cogeco Connexion Deploys SeaChange for New Generation of Video Services"
     }
 ]

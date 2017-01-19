@@ -178,5 +178,23 @@
         "pubDate": "Wed, 19 Oct 2016 16:34:33 GMT",
         "source": "data\\KDX\\20170118.rss",
         "title": "ETF\u2019s with exposure to Klondex Mines Ltd. : October 19, 2016"
+    },
+    {
+        "contents": "data\\KDX\\20170119-091450.news",
+        "description": null,
+        "guid": "yahoo_finance/1951373274",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14c5hkur6/*http://www.capitalcube.com/blog/index.php/klondex-mines-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-kdx-ca-october-17-2016/",
+        "pubDate": "Mon, 17 Oct 2016 13:08:59 GMT",
+        "source": "data\\KDX\\20170119.rss",
+        "title": "Klondex Mines Ltd. breached its 50 day moving average in a Bearish Manner : KDX-CA : October 17, 2016"
+    },
+    {
+        "contents": "data\\KDX\\20170119-091456.news",
+        "description": "[Marketwired] - Klondex Mines Ltd. is pleased to report its preliminary production results for the third quarter of 2016 for its Fire Creek, Midas, and True North mines....",
+        "guid": "yahoo_finance/3401723958",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/klondex-reports-quarterly-production-37-211239876.html",
+        "pubDate": "Thu, 13 Oct 2016 21:12:39 GMT",
+        "source": "data\\KDX\\20170119.rss",
+        "title": "Klondex Reports Quarterly Production of ~37,000 GEOs"
     }
 ]

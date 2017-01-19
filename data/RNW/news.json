@@ -178,5 +178,14 @@
         "pubDate": "Fri, 02 Sep 2016 14:24:48 GMT",
         "source": "data\\RNW\\20170118.rss",
         "title": "ETF\u2019s with exposure to TransAlta Renewables, Inc. : September 2, 2016"
+    },
+    {
+        "contents": "data\\RNW\\20170119-091601.news",
+        "description": null,
+        "guid": "yahoo_finance/3492017099",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-utilities-stocks-131500484.html",
+        "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
+        "source": "data\\RNW\\20170119.rss",
+        "title": "Research Reports Initiated on Utilities Stocks TransAlta Renewables, Northland Power, Atlantic Power, and Alterra Power"
     }
 ]

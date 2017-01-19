@@ -178,5 +178,14 @@
         "pubDate": "Fri, 06 Jan 2017 15:52:44 GMT",
         "source": "data\\SJR-B\\20170118.rss",
         "title": "Canada's competition watchdog closes two-year Apple probe"
+    },
+    {
+        "contents": "data\\SJR-B\\20170119-092300.news",
+        "description": null,
+        "guid": "yahoo_finance/412111454",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1463asai6/*http://www.capitalcube.com/blog/index.php/shaw-communications-inc-sjr-b-ca-earnings-analysis-q1-2017-by-the-numbers-january-18-2017/",
+        "pubDate": "Wed, 18 Jan 2017 16:08:10 GMT",
+        "source": "data\\SJR-B\\20170119.rss",
+        "title": "Shaw Communications, Inc. :SJR.B-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 18, 2017"
     }
 ]

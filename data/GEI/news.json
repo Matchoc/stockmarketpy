@@ -178,5 +178,23 @@
         "pubDate": "Thu, 11 Aug 2016 17:05:38 GMT",
         "source": "data\\GEI\\20170118.rss",
         "title": "Gibsons Comments on Media Report"
+    },
+    {
+        "contents": "data\\GEI\\20170119-090118.news",
+        "description": null,
+        "guid": "yahoo_finance/595468638",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-gei-165900260.html",
+        "pubDate": "Thu, 11 Aug 2016 16:59:00 GMT",
+        "source": "data\\GEI\\20170119.rss",
+        "title": "IIROC Trading Halt - GEI"
+    },
+    {
+        "contents": "data\\GEI\\20170119-090120.news",
+        "description": null,
+        "guid": "yahoo_finance/1198997898",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-gei-165900192.html",
+        "pubDate": "Thu, 11 Aug 2016 16:59:00 GMT",
+        "source": "data\\GEI\\20170119.rss",
+        "title": "IIROC Trading Halt - GEI"
     }
 ]

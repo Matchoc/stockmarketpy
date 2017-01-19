@@ -790,5 +790,14 @@
         "pubDate": "Tue, 17 Jan 2017 16:33:00 GMT",
         "source": "data\\BNS\\20170118.rss",
         "title": "Sunnier days for the global economy: Scotiabank Economics Global Outlook"
+    },
+    {
+        "contents": "data\\BNS\\20170119-090741.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 19, 2017 /PRNewswire/ - Global car sales accelerated sharply in the final months of 2016, with sales supported by stronger global economic growth. \"In the United States, we see increased replacement demand, growing consumer confidence and attractive financing options, lifting sales for the third consecutive record year,\" said Carlos Gomes, Senior Economist and Auto Industry Specialist at Scotiabank. In contrast, after several years of record vehicle sales in Canada and Mexico, purchases are expected to edge lower in 2017.",
+        "guid": "yahoo_finance/691705377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/record-global-auto-sales-expected-133000677.html",
+        "pubDate": "Thu, 19 Jan 2017 13:30:00 GMT",
+        "source": "data\\BNS\\20170119.rss",
+        "title": "Record global auto sales expected in 2017: Scotiabank"
     }
 ]

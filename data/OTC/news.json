@@ -178,5 +178,14 @@
         "pubDate": "Tue, 13 Dec 2016 23:56:00 GMT",
         "source": "data\\OTC\\20170118.rss",
         "title": "OpenText Announces the Pricing of its Public Offering of U.S. $564 million of Common Shares"
+    },
+    {
+        "contents": "data\\OTC\\20170119-090347.news",
+        "description": "[PR Newswire] - WATERLOO, Ontario, Jan. 19, 2017 /PRNewswire/ -- OpenText\u2122 (NASDAQ: OTEX, TSX: OTC), a global leader in Enterprise Information Management (EIM), today announced that the Western Cape Department of Transport & Public Works is using OpenText Content Suite to improve its critical processing of public transport operating license applications and supplier payments. The Western Cape Department of Transport & Public Works is responsible for ensuring safe and efficient transport in the Western Cape province of South Africa.",
+        "guid": "yahoo_finance/4231263485",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/western-cape-department-transport-public-140000776.html",
+        "pubDate": "Thu, 19 Jan 2017 14:00:00 GMT",
+        "source": "data\\OTC\\20170119.rss",
+        "title": "Western Cape Department of Transport & Public Works Improves Effectiveness of Critical Service Delivery with OpenText"
     }
 ]

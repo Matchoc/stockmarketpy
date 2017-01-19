@@ -178,5 +178,14 @@
         "pubDate": "Wed, 21 Dec 2016 13:30:00 GMT",
         "source": "data\\SNC\\20170118.rss",
         "title": "SNC-Lavalin awarded five-year agreement for maintenance and sustainment projects in Alberta"
+    },
+    {
+        "contents": "data\\SNC\\20170119-091418.news",
+        "description": null,
+        "guid": "yahoo_finance/2862391238",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14g713qs2/*http://www.capitalcube.com/blog/index.php/snc-lavalin-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-snc-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:04:19 GMT",
+        "source": "data\\SNC\\20170119.rss",
+        "title": "SNC-Lavalin Group, Inc. breached its 50 day moving average in a Bearish Manner : SNC-CA : January 19, 2017"
     }
 ]

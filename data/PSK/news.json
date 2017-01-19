@@ -178,5 +178,23 @@
         "pubDate": "Mon, 17 Oct 2016 20:01:00 GMT",
         "source": "data\\PSK\\20170118.rss",
         "title": "PrairieSky Royalty Declares October Dividend and Announces Conference Call for Q3 2016 Results"
+    },
+    {
+        "contents": "data\\PSK\\20170119-091615.news",
+        "description": null,
+        "guid": "yahoo_finance/1967951624",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13nugilue/*http://www.capitalcube.com/blog/index.php/top-5-oil-and-gas-companies-with-high-free-cash-flow-margin-october-6-2016/",
+        "pubDate": "Thu, 06 Oct 2016 13:41:34 GMT",
+        "source": "data\\PSK\\20170119.rss",
+        "title": "Top 5 oil and gas companies with high Free Cash Flow Margin : October 6, 2016"
+    },
+    {
+        "contents": "data\\PSK\\20170119-091616.news",
+        "description": null,
+        "guid": "yahoo_finance/4239273227",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14qhcc6uu/*http://www.capitalcube.com/blog/index.php/prairiesky-royalty-ltd-psk-ca-dividend-analysis-september-30th-2016-record-date-by-the-numbers-october-5-2016/",
+        "pubDate": "Wed, 05 Oct 2016 16:42:15 GMT",
+        "source": "data\\PSK\\20170119.rss",
+        "title": "PrairieSky Royalty Ltd. : PSK-CA: Dividend Analysis : September 30th, 2016 (record date) : By the numbers : October 5, 2016"
     }
 ]

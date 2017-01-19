@@ -178,5 +178,50 @@
         "pubDate": "Wed, 18 Jan 2017 12:07:10 GMT",
         "source": "data\\CP\\20170118.rss",
         "title": "Q4 2016 Canadian Pacific Railway Ltd Earnings Release - 4:01 pm ET"
+    },
+    {
+        "contents": "data\\CP\\20170119-090315.news",
+        "description": null,
+        "guid": "yahoo_finance/528465166",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-pacific-cp-down-q4-121512256.html",
+        "pubDate": "Thu, 19 Jan 2017 12:15:12 GMT",
+        "source": "data\\CP\\20170119.rss",
+        "title": "Canadian Pacific (CP) Down on Q4 Earnings & Revenue Miss"
+    },
+    {
+        "contents": "data\\CP\\20170119-090316.news",
+        "description": null,
+        "guid": "yahoo_finance/3784897021",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=139qeklst/*https://www.thestreet.com/story/13957082/1/5-things-you-must-know-before-the-market-opens-thursday.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Thu, 19 Jan 2017 10:59:00 GMT",
+        "source": "data\\CP\\20170119.rss",
+        "title": "5 Things You Must Know Before the Market Opens Thursday"
+    },
+    {
+        "contents": "data\\CP\\20170119-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/1325377794",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-19-103628256.html",
+        "pubDate": "Thu, 19 Jan 2017 10:36:28 GMT",
+        "source": "data\\CP\\20170119.rss",
+        "title": "PRESS DIGEST- Canada - Jan 19"
+    },
+    {
+        "contents": "data\\CP\\20170119-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/141239841",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-cp-earnings-conference-051556043.html",
+        "pubDate": "Thu, 19 Jan 2017 05:15:56 GMT",
+        "source": "data\\CP\\20170119.rss",
+        "title": "Edited Transcript of CP.TO earnings conference call or presentation 18-Jan-17 9:30pm GMT"
+    },
+    {
+        "contents": "data\\CP\\20170119-090321.news",
+        "description": null,
+        "guid": "yahoo_finance/2229723838",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13i8h61ac/*http://www.bloomberg.com/news/articles/2017-01-19/outgoing-cp-rail-ceo-said-to-team-with-activist-to-take-on-csx?cmpid=yhoo.headline",
+        "pubDate": "Thu, 19 Jan 2017 01:59:01 GMT",
+        "source": "data\\CP\\20170119.rss",
+        "title": "Departing CP Rail CEO and Activist Said to Take Aim at CSX"
     }
 ]

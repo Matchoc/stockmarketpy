@@ -214,5 +214,14 @@
         "pubDate": "Thu, 05 Jan 2017 13:30:00 GMT",
         "source": "data\\XCT\\20170106.rss",
         "title": "exactEarth to Announce Fiscal 2016 Financial Results"
+    },
+    {
+        "contents": "data\\XCT\\20170119-091529.news",
+        "description": null,
+        "guid": "yahoo_finance/2486869103",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170119.html?t=xct.to",
+        "pubDate": "Thu, 19 Jan 2017 12:07:06 GMT",
+        "source": "data\\XCT\\20170119.rss",
+        "title": "Q4 2016 ExactEarth Ltd Earnings Release - 06:30 am ET"
     }
 ]

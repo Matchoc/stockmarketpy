@@ -178,5 +178,41 @@
         "pubDate": "Mon, 15 Aug 2016 14:00:00 GMT",
         "source": "data\\MST-UN\\20170118.rss",
         "title": "Milestone Apartments REIT Declares August 2016 Distribution"
+    },
+    {
+        "contents": "data\\MST-UN\\20170119-092354.news",
+        "description": null,
+        "guid": "yahoo_finance/2510136346",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/starwood-buy-canadas-milestone-apartments-135824081.html",
+        "pubDate": "Thu, 19 Jan 2017 13:58:24 GMT",
+        "source": "data\\MST-UN\\20170119.rss",
+        "title": "Starwood to buy Canada's Milestone Apartments REIT in $2.9 billion deal"
+    },
+    {
+        "contents": "data\\MST-UN\\20170119-092356.news",
+        "description": null,
+        "guid": "yahoo_finance/206438591",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/starwood-buy-canadas-milestone-apartments-135527282.html",
+        "pubDate": "Thu, 19 Jan 2017 13:55:27 GMT",
+        "source": "data\\MST-UN\\20170119.rss",
+        "title": "Starwood to buy Canada's Milestone Apartments REIT in $2.9 bln deal"
+    },
+    {
+        "contents": "data\\MST-UN\\20170119-092358.news",
+        "description": null,
+        "guid": "yahoo_finance/2187276765",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-mst-un-134900886.html",
+        "pubDate": "Thu, 19 Jan 2017 13:49:00 GMT",
+        "source": "data\\MST-UN\\20170119.rss",
+        "title": "IIROC Trade Resumption - MST.UN"
+    },
+    {
+        "contents": "data\\MST-UN\\20170119-092400.news",
+        "description": null,
+        "guid": "yahoo_finance/2365039532",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/starwood-acquire-milestone-apartments-2-133930606.html",
+        "pubDate": "Thu, 19 Jan 2017 13:39:30 GMT",
+        "source": "data\\MST-UN\\20170119.rss",
+        "title": "Starwood to Acquire Milestone Apartments in $2.85 Billion Deal"
     }
 ]

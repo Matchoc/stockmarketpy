@@ -178,5 +178,23 @@
         "pubDate": "Fri, 23 Dec 2016 17:00:00 GMT",
         "source": "data\\BMO\\20170118.rss",
         "title": "BMO Investments Inc. Announces Changes to Existing Funds"
+    },
+    {
+        "contents": "data\\BMO\\20170119-091442.news",
+        "description": "[Marketwired] - BMO Asset Management Inc. today announced the January 2017 cash distributions for certain BMO Exchange Traded Funds that distribute monthly. Unitholders of record of the BMO ETFs at the close of business ...",
+        "guid": "yahoo_finance/74584055",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-asset-management-inc-announces-133000411.html",
+        "pubDate": "Thu, 19 Jan 2017 13:30:00 GMT",
+        "source": "data\\BMO\\20170119.rss",
+        "title": "BMO Asset Management Inc. Announces Cash Distributions for BMO Exchange Traded Funds"
+    },
+    {
+        "contents": "data\\BMO\\20170119-091444.news",
+        "description": "[Marketwired] - BMO Harris Bank announced today its participation in the I-Refi refinance program designed to assist homeowners who owe more than the appraised value of their home. Administered through the Illinois Housing ...",
+        "guid": "yahoo_finance/1022226409",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-harris-bank-partners-illinois-130000777.html",
+        "pubDate": "Thu, 19 Jan 2017 13:00:00 GMT",
+        "source": "data\\BMO\\20170119.rss",
+        "title": "BMO Harris Bank Partners with Illinois Housing Development Authority to Assist Homeowners Who Owe More than the Home's Value"
     }
 ]

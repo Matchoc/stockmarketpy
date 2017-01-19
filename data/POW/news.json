@@ -232,5 +232,14 @@
         "pubDate": "Thu, 12 Jan 2017 19:23:10 GMT",
         "source": "data\\POW\\20170113.rss",
         "title": "ETFs with exposure to Power Corp. of Canada : January 12, 2017"
+    },
+    {
+        "contents": "data\\POW\\20170119-092014.news",
+        "description": null,
+        "guid": "yahoo_finance/2876187502",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fv8me4h/*http://www.capitalcube.com/blog/index.php/power-corp-of-canada-breached-its-50-day-moving-average-in-a-bearish-manner-pow-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:01:28 GMT",
+        "source": "data\\POW\\20170119.rss",
+        "title": "Power Corp. of Canada breached its 50 day moving average in a Bearish Manner : POW-CA : January 19, 2017"
     }
 ]

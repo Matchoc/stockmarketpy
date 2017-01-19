@@ -178,5 +178,32 @@
         "pubDate": "Wed, 27 Jul 2016 11:45:34 GMT",
         "source": "data\\ACO-X\\20170118.rss",
         "title": "ATCO Reports Second Quarter 2016 Earnings"
+    },
+    {
+        "contents": "data\\ACO-X\\20170119-090246.news",
+        "description": null,
+        "guid": "yahoo_finance/102841872",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12oamtlme/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-atco-ltd-july-20-2016/",
+        "pubDate": "Wed, 20 Jul 2016 16:04:56 GMT",
+        "source": "data\\ACO-X\\20170119.rss",
+        "title": "ETF\u2019s with exposure to ATCO Ltd. : July 20, 2016"
+    },
+    {
+        "contents": "data\\ACO-X\\20170119-090306.news",
+        "description": null,
+        "guid": "yahoo_finance/2282660405",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/atco-ltd-eligible-dividends-210500573.html",
+        "pubDate": "Thu, 14 Jul 2016 21:05:00 GMT",
+        "source": "data\\ACO-X\\20170119.rss",
+        "title": "ATCO Ltd. Eligible Dividends"
+    },
+    {
+        "contents": "data\\ACO-X\\20170119-090308.news",
+        "description": "[at noodls] - R. D. Southern Announcement Author: Marketwire CALGARY, ALBERTA--(Marketwired - Jan. 21, 2016) - Editor's Note: There is 1 image associated with this release. ... This is an abstract of the original noodl. ...",
+        "guid": "yahoo_finance/1264806742",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=125hbekju/*http://www.noodls.com/view/3A67EBF27F32B998B3D8DE9BCA7F0D5B2B6BC0D2",
+        "pubDate": "Thu, 21 Jan 2016 20:29:07 GMT",
+        "source": "data\\ACO-X\\20170119.rss",
+        "title": "R. D. Southern Announcement January 21, 2016 \u00bb PDF \u00bb HTML"
     }
 ]

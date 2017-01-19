@@ -178,5 +178,14 @@
         "pubDate": "Wed, 14 Dec 2016 22:36:53 GMT",
         "source": "data\\SU\\20170118.rss",
         "title": "CANADA STOCKS-TSX falls the most in one month as the Fed hikes rates"
+    },
+    {
+        "contents": "data\\SU\\20170119-091535.news",
+        "description": null,
+        "guid": "yahoo_finance/569721593",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=11tmkd7sk/*http://marketrealist.com/2016/12/segment-held-fort-bp-3q16/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 14 Dec 2016 14:35:32 GMT",
+        "source": "data\\SU\\20170119.rss",
+        "title": "Which Segment Held the Line for BP in 3Q16?"
     }
 ]

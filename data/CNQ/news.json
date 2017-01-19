@@ -178,5 +178,14 @@
         "pubDate": "Mon, 12 Dec 2016 13:45:00 GMT",
         "source": "data\\CNQ\\20170118.rss",
         "title": "Canadian Natural Resources Limited Announces the Sale of its Ownership Interest in the Cold Lake Pipeline"
+    },
+    {
+        "contents": "data\\CNQ\\20170119-091829.news",
+        "description": null,
+        "guid": "yahoo_finance/2136980661",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=134qd4glj/*https://www.thestreet.com/story/13958475/1/dow-chemical-honeywell-medtronic-not-done-rallying.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Thu, 19 Jan 2017 10:59:00 GMT",
+        "source": "data\\CNQ\\20170119.rss",
+        "title": "Dow Chemical, Honeywell, Medtronic Not Done Rallying"
     }
 ]

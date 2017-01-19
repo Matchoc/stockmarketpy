@@ -178,5 +178,14 @@
         "pubDate": "Mon, 03 Oct 2016 12:43:21 GMT",
         "source": "data\\ASR\\20170118.rss",
         "title": "Alacer Gold Corp. breached its 50 day moving average in a Bearish Manner : ASR-CA : October 3, 2016"
+    },
+    {
+        "contents": "data\\ASR\\20170119-091524.news",
+        "description": null,
+        "guid": "yahoo_finance/1032772425",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=135vf1n74/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-alacer-gold-corp-september-23-2016/",
+        "pubDate": "Fri, 23 Sep 2016 14:01:05 GMT",
+        "source": "data\\ASR\\20170119.rss",
+        "title": "ETF\u2019s with exposure to Alacer Gold Corp. : September 23, 2016"
     }
 ]

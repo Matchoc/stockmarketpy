@@ -43,5 +43,383 @@
         "pubDate": "Fri, 06 Jan 2017 15:52:44 GMT",
         "source": "data\\RCI-B\\20170118.rss",
         "title": "Canada's competition watchdog closes two-year Apple probe"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090914.news",
+        "description": null,
+        "guid": "yahoo_finance/1349627567",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14nph4j17/*http://www.capitalcube.com/blog/index.php/rogers-communications-inc-breached-its-50-day-moving-average-in-a-bullish-manner-rci-b-ca-december-30-2016/",
+        "pubDate": "Fri, 30 Dec 2016 13:36:32 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications, Inc. breached its 50 day moving average in a Bullish Manner : RCI.B-CA : December 30, 2016"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090914.news",
+        "description": "[at noodls] - TORONTO, Dec. 22, 2016/CNW/ - Rogers Communications Inc., Canada'sleading diversified communications and media company, plans to release its fourth quarter 2016 financial results on Thursday, January 26, ...",
+        "guid": "yahoo_finance/2464298836",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fqrpuu/*http://www.publicnow.com/view/6BAE396A0E38BBE780AC73E5C4317660211D9599",
+        "pubDate": "Thu, 22 Dec 2016 22:08:18 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications 4Q16 Investment Community Teleconference January 26, 2017 at 8:00 AM ET"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090914.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 22, 2016 /PRNewswire/ - Rogers Communications Inc., Canada's leading diversified communications and media company, plans to release its fourth quarter 2016 financial results on Thursday, January 26, 2017 before North American financial markets open.",
+        "guid": "yahoo_finance/2888574891",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-4q16-investment-community-220000968.html",
+        "pubDate": "Thu, 22 Dec 2016 22:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications 4Q16 Investment Community Teleconference January 26, 2017 at 8:00 AM ET"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090916.news",
+        "description": "[CNW Group] - Rogers Communications 4Q16 Investment Community Teleconference January 26, 2017 at 8:00 AM ET",
+        "guid": "yahoo_finance/1095281271",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-4q16-investment-community-220000609.html",
+        "pubDate": "Thu, 22 Dec 2016 22:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications 4Q16 Investment Community Teleconference January 26, 2017 at 8:00 AM ET"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090918.news",
+        "description": null,
+        "guid": "yahoo_finance/2809933053",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telecom-stock-roundup-verizon-may-213509149.html",
+        "pubDate": "Thu, 22 Dec 2016 21:35:09 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Telecom Stock Roundup: Verizon May Revise Yahoo Deal Terms, Rogers Communications Opts for X1"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090920.news",
+        "description": "[Reuters] - Broadband internet access will be considered a basic service in Canada, the country's telecom regulator ruled on Wednesday, paving the way for universal access to high-speed services in rural and isolated areas of the country. The Canadian Radio-television and Telecommunications Commission (CRTC) said it was establishing a fund providers will pay into to invest C$750 million ($560 million) over five years to build or upgrade broadband infrastructure to improve access in underserved areas. The CRTC set a target download speed of 50 megabits per second, 10 times its previous, and recommended providers offer unlimited data for fixed broadband.",
+        "guid": "yahoo_finance/3880221150",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-telecom-regulator-makes-broadband-213004147.html",
+        "pubDate": "Wed, 21 Dec 2016 23:35:10 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada telecoms regulator rules broadband basic service, sets up fund"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090922.news",
+        "description": "[Reuters] - Broadband internet access will be considered a basic service in Canada, the country's telecom regulator said on Wednesday, setting a higher target for download speeds and creating a fund that could see ...",
+        "guid": "yahoo_finance/158664325",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-telecom-regulator-makes-broadband-210918460.html",
+        "pubDate": "Wed, 21 Dec 2016 21:09:18 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's telecom regulator makes broadband a basic service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090924.news",
+        "description": null,
+        "guid": "yahoo_finance/1846892341",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-slips-sell-lags-113111384.html",
+        "pubDate": "Wed, 21 Dec 2016 11:31:11 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications Slips to Sell, Lags Industry Mark"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090925.news",
+        "description": null,
+        "guid": "yahoo_finance/3913492780",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=150o6o3r1/*http://www.capitalcube.com/blog/index.php/rogers-communications-inc-rci-b-ca-dividend-analysis-december-12th-2016-record-date-by-the-numbers-december-20-2016/",
+        "pubDate": "Tue, 20 Dec 2016 15:41:54 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications, Inc. : RCI.B-CA: Dividend Analysis : December 12th, 2016 (record date) : By the numbers : December 20, 2016"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090925.news",
+        "description": "[at noodls] - - The Canadian broadcast veteran will retire on May 31, 2017- TORONTO, Dec. 20, 2016/CNW/ - With a radio career spanning more than 40 years, Patrick Grierson, Founder and President of Canadian Broadcast ...",
+        "guid": "yahoo_finance/1804858510",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284kduiq/*http://www.publicnow.com/view/13B2E6DAA345AA2346139CFC98E40F30043B0E62",
+        "pubDate": "Tue, 20 Dec 2016 15:12:14 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian Broadcast Sales President Patrick Grierson Announces Retirement"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090926.news",
+        "description": "[CNW Group] - Canadian Broadcast Sales President Patrick Grierson Announces Retirement",
+        "guid": "yahoo_finance/480744292",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-broadcast-sales-president-patrick-150000643.html",
+        "pubDate": "Tue, 20 Dec 2016 15:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian Broadcast Sales President Patrick Grierson Announces Retirement"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090927.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 20, 2016 /CNW/ - With a radio career spanning more than 40 years, Patrick Grierson, Founder and President of Canadian Broadcast Sales (CBS), will retire as leader of the largest national radio sales organization in Canada on May 31, 2017. \"A true pioneer, Patrick's innovative spirit and visionary prowess has had a lasting impact on the Canadian radio landscape,\" said Julie Adam, Senior Vice President, Rogers Radio.",
+        "guid": "yahoo_finance/474429194",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-broadcast-sales-president-patrick-150000586.html",
+        "pubDate": "Tue, 20 Dec 2016 15:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian Broadcast Sales President Patrick Grierson Announces Retirement"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090929.news",
+        "description": null,
+        "guid": "yahoo_finance/4013346464",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-rci-drops-iptv-135001609.html",
+        "pubDate": "Mon, 19 Dec 2016 13:50:01 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications (RCI) Drops IPTV for Comcast's X1"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090931.news",
+        "description": null,
+        "guid": "yahoo_finance/359408830",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://news.investornetwork.com/2016/12/19/research-reports-initiated-on-communication-services-stocks-manitoba-telecom-services-rogers-communications-quebecor-and-neulion/?1=1&1482154952",
+        "pubDate": "Mon, 19 Dec 2016 13:42:32 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Research Reports Initiated on Communication Services Stocks Manitoba Telecom Services, Rogers Communications, Quebecor, and NeuLion"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090932.news",
+        "description": "[at noodls] - Roam Like Home customers using twice as much data in U.S., four times more internationally Study finds almost 90 per cent of Canadian travellers packing their smartphone TORONTO, Dec. 19, 2016/CNW/ - Rogers ...",
+        "guid": "yahoo_finance/1438048315",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12861iiuu/*http://www.publicnow.com/view/9F48198464ADAF8B3804F51A3845CE4BC37603A4",
+        "pubDate": "Mon, 19 Dec 2016 12:41:07 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "More Rogers Wireless customers can Roam Like Ho-Ho-Home this holiday"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090932.news",
+        "description": "[CNW Group] - More Rogers Wireless customers can Roam Like Ho-Ho-Home this holiday",
+        "guid": "yahoo_finance/2309695519",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/more-rogers-wireless-customers-roam-123000773.html",
+        "pubDate": "Mon, 19 Dec 2016 12:30:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "More Rogers Wireless customers can Roam Like Ho-Ho-Home this holiday"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090933.news",
+        "description": "[PR Newswire] - Now, in time for the busy winter travel season, more Canadians can use their wireless plan like they do at home when traveling to the U.S. and over 100 destinations around the world. \"Customers told us they wanted access to Roam Like Home no matter what wireless plan they were on and we listened,\" said Leroy Williams, Vice-President Wireless Marketing, Rogers Communications. According to a recent survey, almost three million Canadians plan on taking a trip this winter, and almost 90 per cent say they plan on bringing their smartphone. Canadians primarily bring their devices to stay connected, with 72 per cent using them as a way to keep in touch with their family and friends as well as a way to enhance their trip by searching the internet (54 per cent), sharing on social media (38 per cent) and using GPS and mapping (37 per cent).",
+        "guid": "yahoo_finance/3388421370",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/more-rogers-wireless-customers-roam-123000569.html",
+        "pubDate": "Mon, 19 Dec 2016 12:30:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "More Rogers Wireless customers can Roam Like Ho-Ho-Home this holiday"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090935.news",
+        "description": "[at noodls] - World-class solution provided by one of the world's largest media and technology companies delivers an innovative video product roadmap for Rogers customers TORONTO, Dec. 16, 2016/CNW/ - Rogers Communications ...",
+        "guid": "yahoo_finance/1066207593",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12874cv0v/*http://www.publicnow.com/view/43DD7C7006AD7B6E1D725C65D31A80061072F8E3",
+        "pubDate": "Fri, 16 Dec 2016 13:18:08 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers partners with Comcast to bring Rogers customers X1 next-gen IPTV service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090935.news",
+        "description": "[PR Newswire] - TORONTO, Dec. 16, 2016 /PRNewswire/ - Rogers Communications announced a long-term strategic partnership with Comcast to bring Rogers customers a best-in-class video experience by deploying Comcast's X1 IP-based video platform. \"This partnership is great news for our customers,\" said Alan Horn, Chairman and interim CEO, Rogers Communications.",
+        "guid": "yahoo_finance/1618957256",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-partners-comcast-bring-rogers-130000985.html",
+        "pubDate": "Fri, 16 Dec 2016 13:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers partners with Comcast to bring Rogers customers X1 next-gen IPTV service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090937.news",
+        "description": "[CNW Group] - Rogers partners with Comcast to bring Rogers customers X1 next-gen IPTV service",
+        "guid": "yahoo_finance/4142479340",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-partners-comcast-bring-rogers-130000549.html",
+        "pubDate": "Fri, 16 Dec 2016 13:00:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers partners with Comcast to bring Rogers customers X1 next-gen IPTV service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090938.news",
+        "description": "[CNW Group] - Canadian first: Rogers customers in New Brunswick save time by tracking tech to doorstep",
+        "guid": "yahoo_finance/3328476307",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-first-rogers-customers-brunswick-152400459.html",
+        "pubDate": "Thu, 15 Dec 2016 15:24:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian first: Rogers customers in New Brunswick save time by tracking tech to doorstep"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090940.news",
+        "description": "[PR Newswire] - MONCTON, NB, Dec. 15, 2016 /CNW/ - Today in New Brunswick, Rogers Communications launched Rogers EnRoute\u2122 a new tool that saves customers time by giving them the ability to track on their phone when a technician will arrive for an installation or service call. \"No one likes to sit around waiting for their technician to arrive,\" said Deepak Khandelwal, Chief Customer Officer, Rogers. \"We know our customers are busy and their time is valuable, so now they can track a technician's ETA right on their phone.",
+        "guid": "yahoo_finance/2389157376",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-first-rogers-customers-brunswick-152400652.html",
+        "pubDate": "Thu, 15 Dec 2016 15:24:00 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian first: Rogers customers in New Brunswick save time by tracking tech to doorstep"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090942.news",
+        "description": "[at noodls] - Rogers EnRoute eliminates need to call for an ETA, gives people comfort of knowing exactly when technician will arrive TORONTO, Nov. 14, 2016/CNW/ - In another first, Rogers Communications today announced ...",
+        "guid": "yahoo_finance/1025643533",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128k3am4h/*http://www.publicnow.com/view/4F1023B96C64FDE23C861169AA107D935239D3A4",
+        "pubDate": "Wed, 30 Nov 2016 05:30:48 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian first: Rogers customers save time by tracking tech to doorstep"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090942.news",
+        "description": "[at noodls] - Company puts customers in control and saves them time by eliminating the top reasons they call 72% increase in customer satisfaction with self-service through Facebook and Twitter TORONTO, Nov. 24, 2016/CNW/ ...",
+        "guid": "yahoo_finance/3932706673",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128khbl0g/*http://www.publicnow.com/view/532526ADD18D7FDABEEBEB20A2AA16A39D5FA248",
+        "pubDate": "Wed, 30 Nov 2016 05:30:48 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Complaints Against Rogers Drop for Fourth Consecutive Year: Down 53% in 2016"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090942.news",
+        "description": "[at noodls] - Internet of Things technology will provide real-time data that can be used to improve water-monitoring processes for rivers and streams Connected sensors will collect data every 30 minutes to complement ...",
+        "guid": "yahoo_finance/657430735",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128afpkjp/*http://www.publicnow.com/view/AADD79C35EC7954809BC3FE9EC582834DE0CAC6F",
+        "pubDate": "Wed, 30 Nov 2016 05:30:48 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Ericsson and Rogers pilot 'Connected Water' solution for water quality testing with the City of Ottawa"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090942.news",
+        "description": "[at noodls] - Rolling out in St. John'sneighbourhoods, Ignite Gigabit delivers what Internet customers want most: lightning speed and unlimited data ST. JOHN'S, Oct. 4, 2016/CNW/ - With download speeds up to one Gigabit ...",
+        "guid": "yahoo_finance/3131365840",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128k9bj0v/*http://www.publicnow.com/view/D2737AE30BA2BBC720150396FEACB84E6ABB0F24",
+        "pubDate": "Tue, 04 Oct 2016 13:08:05 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers brings Ignite Gigabit to Neighbourhoods across St. John's"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090942.news",
+        "description": null,
+        "guid": "yahoo_finance/4221690140",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rogers-communications-committed-dividend-growth-200904478.html",
+        "pubDate": "Tue, 27 Sep 2016 20:09:04 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Rogers Communications committed to dividend growth - deputy chairman"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090947.news",
+        "description": null,
+        "guid": "yahoo_finance/2466404606",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-rogers-shuts-shomi-streaming-211617205.html",
+        "pubDate": "Mon, 26 Sep 2016 22:16:54 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's Rogers expects losses in shutdown of streaming service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090950.news",
+        "description": null,
+        "guid": "yahoo_finance/414358471",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-rogers-shuts-shomi-streaming-210715365.html",
+        "pubDate": "Mon, 26 Sep 2016 21:51:13 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's Rogers expects losses in shutdown of streaming service"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090952.news",
+        "description": "[at noodls] - NEWMARKET, ON, Sept. 6, 2016/CNW/ - Mayor Tony Van Bynenof Newmarket, ONand Rogers Hometown Hockey co-hosts Ron MacLeanand Tara Slonecelebrate the launch of Year 3 of Rogers Hometown Hockey, kicking off ...",
+        "guid": "yahoo_finance/1872583929",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128o3fq4p/*http://www.publicnow.com/view/38B7DE34E26E4F9DC7B7C9F4AA190E602797A979",
+        "pubDate": "Wed, 07 Sep 2016 00:49:04 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Mayor Tony Van Bynen of Newmarket, ON and Rogers Hometown Hockey co-hosts Ron MacLean and Tara Slone celebrate the launch of Year 3 of Rogers Hometown Hockey, kicking off in Newmarket, Oct. 15-16"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090952.news",
+        "description": null,
+        "guid": "yahoo_finance/3370542473",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-buy-manitoba-telecom-c-115505114.html",
+        "pubDate": "Mon, 02 May 2016 19:14:01 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "BCE-Manitoba Telecom deal seen facing tough regulatory scrutiny"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090954.news",
+        "description": null,
+        "guid": "yahoo_finance/4084931992",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-tv-viewers-more-choice-202608973.html",
+        "pubDate": "Thu, 19 Mar 2015 21:24:30 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadians to be allowed to 'pick and pay' TV channels"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090956.news",
+        "description": null,
+        "guid": "yahoo_finance/1596630436",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/stop-threats-canadas-online-pirates-002925369.html",
+        "pubDate": "Sat, 10 Jan 2015 00:29:25 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Stop threats to Canada's online pirates, rights holders told"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-090958.news",
+        "description": null,
+        "guid": "yahoo_finance/1599224867",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-telus-says-wants-internet-050857344.html",
+        "pubDate": "Wed, 10 Dec 2014 05:08:57 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's Telus says wants in on 'Internet of things' growth"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091002.news",
+        "description": null,
+        "guid": "yahoo_finance/2360467967",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-wind-mobile-signs-roaming-200601328.html",
+        "pubDate": "Tue, 02 Dec 2014 20:59:08 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's Wind Mobile signs roaming deal, Telus likely partner"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091004.news",
+        "description": null,
+        "guid": "yahoo_finance/3408018396",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-broadcaster-bell-launch-rival-195237245.html",
+        "pubDate": "Thu, 30 Oct 2014 19:52:37 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canadian broadcaster Bell to launch service to rival Netflix, Shomi"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091009.news",
+        "description": null,
+        "guid": "yahoo_finance/2932183301",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rogers-communications-profit-falls-28-113309857.html",
+        "pubDate": "Thu, 23 Oct 2014 12:20:49 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's Rogers says profit falls 28 percent, eyes rebound"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091014.news",
+        "description": null,
+        "guid": "yahoo_finance/2321319159",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-tv-watchdog-ignore-netflix-235203885.html",
+        "pubDate": "Mon, 29 Sep 2014 23:52:03 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's TV watchdog to ignore Netflix, Google after data denial"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091018.news",
+        "description": null,
+        "guid": "yahoo_finance/1414610742",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/analysis-canadas-telcos-burst-banking-050726859.html",
+        "pubDate": "Fri, 01 Aug 2014 05:15:32 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Analysis - Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091021.news",
+        "description": null,
+        "guid": "yahoo_finance/1212034511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-telcos-burst-banking-healthcare-050618570.html",
+        "pubDate": "Fri, 01 Aug 2014 05:06:18 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091025.news",
+        "description": null,
+        "guid": "yahoo_finance/2822578311",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-bce-bell-aliant-private-112842345.html",
+        "pubDate": "Wed, 23 Jul 2014 16:28:38 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "BCE to take Bell Aliant private in $3.7 billion deal"
+    },
+    {
+        "contents": "data\\RCI-B\\20170119-091028.news",
+        "description": null,
+        "guid": "yahoo_finance/1003696401",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-launches-plan-extend-high-164427895.html",
+        "pubDate": "Tue, 22 Jul 2014 16:44:27 GMT",
+        "source": "data\\RCI-B\\20170119.rss",
+        "title": "Canada launches plan to extend high-speed Internet to remote areas"
     }
 ]

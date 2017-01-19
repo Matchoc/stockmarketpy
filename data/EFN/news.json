@@ -178,5 +178,14 @@
         "pubDate": "Thu, 20 Oct 2016 01:09:02 GMT",
         "source": "data\\EFN\\20170118.rss",
         "title": "Element Fleet Announces Debenture Conversion Price Adjustments"
+    },
+    {
+        "contents": "data\\EFN\\20170119-092333.news",
+        "description": null,
+        "guid": "yahoo_finance/2434815815",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14o62gjaj/*http://www.capitalcube.com/blog/index.php/element-fleet-management-corp-breached-its-50-day-moving-average-in-a-bearish-manner-efn-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:00:46 GMT",
+        "source": "data\\EFN\\20170119.rss",
+        "title": "Element Fleet Management Corp. breached its 50 day moving average in a Bearish Manner : EFN-CA : January 19, 2017"
     }
 ]

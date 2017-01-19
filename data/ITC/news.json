@@ -214,5 +214,14 @@
         "pubDate": "Mon, 16 Jan 2017 14:00:00 GMT",
         "source": "data\\ITC\\20170116.rss",
         "title": "Intrinsyc Announces New Product Development Agreement Received from Client Valued in excess of US$600,000"
+    },
+    {
+        "contents": "data\\ITC\\20170119-091641.news",
+        "description": null,
+        "guid": "yahoo_finance/3450135596",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-technology-stocks-131500203.html",
+        "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
+        "source": "data\\ITC\\20170119.rss",
+        "title": "Research Reports Initiated on Technology Stocks Altus Group, Espial Group, GoldMoney, and Intrinsyc Technologies"
     }
 ]

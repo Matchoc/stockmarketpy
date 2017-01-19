@@ -178,5 +178,140 @@
         "pubDate": "Mon, 26 Sep 2016 14:30:35 GMT",
         "source": "data\\ATD-B\\20170118.rss",
         "title": "CANADA STOCKS-TSX falls in broad retreat; energy, mining stocks gain"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091131.news",
+        "description": null,
+        "guid": "yahoo_finance/3949985491",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/report-voting-results-associated-annual-210000249.html",
+        "pubDate": "Wed, 21 Sep 2016 21:00:00 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Report on voting results associated to the Annual Meeting of Shareholders on September 20, 2016"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091133.news",
+        "description": null,
+        "guid": "yahoo_finance/2336492806",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/report-voting-results-associated-annual-210000413.html",
+        "pubDate": "Wed, 21 Sep 2016 21:00:00 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Report on voting results associated to the Annual Meeting of Shareholders on September 20, 2016"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": null,
+        "guid": "yahoo_finance/1848704022",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12sflpuol/*http://www.capitalcube.com/blog/index.php/top-5-canadian-food-retailers-september-21-2016/",
+        "pubDate": "Wed, 21 Sep 2016 17:26:16 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Top 5 Canadian food retailers : September 21, 2016"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - INVITATION TO THE MEDIA SHAREHOLDERS' ANNUAL MEETING Laval (Qu\u00e9bec) Canada - September 15, 2016 - Alimentation Couche-Tard Inc. (TSX: ATD.A ATD.B) is pleased to invite representatives of the media to its ...",
+        "guid": "yahoo_finance/2447287727",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287e52ac/*http://www.publicnow.com/view/D3C482DFFE4092FD9FCB7CF2203E7ECDA4E0D3A9",
+        "pubDate": "Thu, 15 Sep 2016 17:38:03 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Invitation to the Media - Shareholders' Annual Meeting"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - PRESS RELEASE Couche-Tard Receives Approval to Acquire Certain Imperial Oil Retail Assets in Ontario and Qu\u00e9bec Laval, Qu\u00e9bec, Canada, September 7, 2016 - Alimentation Couche-Tard Inc. (\"Couche-Tard\") ...",
+        "guid": "yahoo_finance/1615370309",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sap1gd/*http://www.publicnow.com/view/D8CC8D91A57CBE8C4914CE10A8DB0FCECB5F62E4",
+        "pubDate": "Mon, 12 Sep 2016 14:38:01 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard obtains approval to acquire certain Imperial Oil assets in Ontario and in Quebec"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - Couche-Tard announces its results for its first quarter of Fiscal Year 2017 The text version of this document is not available at the moment. The original content was posted at original link . Alimentation ...",
+        "guid": "yahoo_finance/1508591372",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128pidord/*http://www.publicnow.com/view/B764BF30BDC9C14CC4917887116A378B09B46EC0",
+        "pubDate": "Tue, 30 Aug 2016 14:13:02 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard announces its results for its first quarter of Fiscal Year 2017"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - PRESS RELEASE COUCHE-TARD BUYS 53 SITES IN LOUISIANA Laval, Qu\u00e9bec, Canada - August 29, 2016 - Alimentation Couche-Tard Inc. (\"Couche-Tard\") (TSX: ATD.A/ATD.B) announces today that it has signed, ...",
+        "guid": "yahoo_finance/1580899477",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sa6aa9/*http://www.publicnow.com/view/803380E781C0E7873035351FFD4868B87E9E19B3",
+        "pubDate": "Mon, 29 Aug 2016 14:43:05 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard announces the acquisition of 53 sites in Louisiana"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - PRESS RELEASE Couche-Tard Announces Definitive Merger Agreement with CST Brands, Inc. ... This is an abstract of the original noodl. To continue reading this document, click here for the original version....",
+        "guid": "yahoo_finance/1652044682",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cajuia/*http://www.publicnow.com/view/A1A3A78CE280DDFDA6EA13B5197146D16CFB59D1",
+        "pubDate": "Mon, 22 Aug 2016 12:28:07 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard annonces Definitive Merger Agreement with CST Brands, Inc."
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - Couche-Tard announces its results for its fourth quarter and fiscal year 2016 The text version of this document is not available at the moment. The original content was posted at original link . Alimentation ...",
+        "guid": "yahoo_finance/2482665049",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128dof88v/*http://www.publicnow.com/view/464879C5644F0BC3FDD568DA74FEB166CE1F72EB",
+        "pubDate": "Tue, 12 Jul 2016 14:53:05 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard announces its results for its fourth quarter and fiscal year 2016"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091135.news",
+        "description": "[at noodls] - 1fe102e6-c667-4e1b-83fb-fc078b573d65.pdf Couche-Tard will release its 2016 fourth quarter results on July 12th Laval, July 5, 2016 - Alimentation Couche-Tard Inc. (TSX: ATD.A ATD.B), will be issuing on ...",
+        "guid": "yahoo_finance/200460581",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128l01vq2/*http://www.publicnow.com/view/D5DC10632FCF90D6353A366C7B4E61F4057DA476",
+        "pubDate": "Mon, 11 Jul 2016 13:33:06 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard will release its 2016 fourth quarter results on July 12th"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091136.news",
+        "description": "[at noodls] - 58ca42d0-1488-4c42-a4e3-cca42b77405d.pdf PRESS RELEASE COUCHE-TARD BUYS ASSETS OF PREMIUM 7 NETWORK IN ESTONIA Laval, Qu\u00e9bec, Canada - June 20, 2016 - Alimentation Couche-Tard Inc. (\"Couche-Tard\") ...",
+        "guid": "yahoo_finance/3627512325",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128f7pjvf/*http://www.publicnow.com/view/51C8FFCAE1917FC99E0B64B0D1DA066CAB2BD08F",
+        "pubDate": "Tue, 21 Jun 2016 14:49:03 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard buys assets of Premium 7 Estonia"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091136.news",
+        "description": "[at noodls] - 35e1c3c5-4b71-4739-a71b-96f74d112fd5.pdf PRESS RELEASE ALIMENTATION COUCHE-TARD HAS ISSUED \u20ac750 MILLION OF SENIOR UNSECURED NOTES NOT FOR DISTRIBUTION TO U.S. NEWS SERVICES AND NOT FOR DISSEMINATION IN ...",
+        "guid": "yahoo_finance/1633516112",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128upqof2/*http://www.publicnow.com/view/9CD764D3F3818E56CDB1C74F54CFD3126F0CE82E",
+        "pubDate": "Fri, 06 May 2016 15:54:02 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Alimentation Couche-Tard has issued \u20ac750 million of senior unsecured notes"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091136.news",
+        "description": "[at noodls] - Alimentation Couche-Tard Prices \u20ac750 Million Offering of Senior Unsecured Notes",
+        "guid": "yahoo_finance/3957248457",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12867u5sj/*http://www.publicnow.com/view/C177739175C3CBA09759E47A619B5C16B56D623E",
+        "pubDate": "Thu, 28 Apr 2016 21:41:22 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Alimentation Couche-Tard Prices \u20ac750 Million Offering of Senior Unsecured Notes"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091136.news",
+        "description": "[at noodls] - 9a8de695-47f8-4e4f-8eb3-fe715edf4c22.pdf PRESS RELEASE COUCHE-TARD COMPLETES ACQUISITION OF TOPAZ IN IRELAND Laval, Qu\u00e9bec, Canada - February 1st, 2016 - Alimentation Couche-Tard Inc. (\"Couche-Tard\") ...",
+        "guid": "yahoo_finance/83776479",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128nntvpj/*http://www.publicnow.com/view/DAFAAB41A2B458CCE11F99BF2B8DCC4D07B1729F",
+        "pubDate": "Mon, 01 Feb 2016 17:01:13 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard completes acquisition of Topaz in Ireland"
+    },
+    {
+        "contents": "data\\ATD-B\\20170119-091136.news",
+        "description": "[at noodls] - c4714313-c32f-4c5c-b949-71edeb429507.pdf PRESS RELEASE Laval, Qu\u00e9bec, Canada, January 25, 2016 - Alimentation Couche-Tard Inc. (\"Couche- Tard\") (TSX: ATD.A/ATD.B) announces today the appointment ...",
+        "guid": "yahoo_finance/1150941203",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12859rjhv/*http://www.publicnow.com/view/68DBBAF08BC2659A3C62A57B2368ED33EA2A07B5",
+        "pubDate": "Mon, 25 Jan 2016 23:07:18 GMT",
+        "source": "data\\ATD-B\\20170119.rss",
+        "title": "Couche-Tard Welcomes Claude Tessier as Chief Financial Officer"
     }
 ]
