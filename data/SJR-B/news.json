@@ -187,5 +187,23 @@
         "pubDate": "Wed, 18 Jan 2017 16:08:10 GMT",
         "source": "data\\SJR-B\\20170119.rss",
         "title": "Shaw Communications, Inc. :SJR.B-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 18, 2017"
+    },
+    {
+        "contents": "data\\SJR-B\\20170120-091843.news",
+        "description": null,
+        "guid": "yahoo_finance/2180321715",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telecom-stock-roundup-t-raise-213909938.html",
+        "pubDate": "Thu, 19 Jan 2017 21:39:09 GMT",
+        "source": "data\\SJR-B\\20170120.rss",
+        "title": "Telecom Stock Roundup: AT&T to Raise Unlimited Data Plan Price, Qualcomm Faces Anti-Trust Suit"
+    },
+    {
+        "contents": "data\\SJR-B\\20170120-091845.news",
+        "description": null,
+        "guid": "yahoo_finance/2820471628",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13cjd47vf/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-shaw-communications-inc-january-19-2017-2/",
+        "pubDate": "Thu, 19 Jan 2017 18:57:10 GMT",
+        "source": "data\\SJR-B\\20170120.rss",
+        "title": "ETFs with exposure to Shaw Communications, Inc. : January 19, 2017"
     }
 ]

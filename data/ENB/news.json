@@ -727,5 +727,14 @@
         "pubDate": "Wed, 18 Jun 2014 22:09:14 GMT",
         "source": "data\\ENB\\20170119.rss",
         "title": "Pipeline go-ahead raises risks for Canada's Conservatives"
+    },
+    {
+        "contents": "data\\ENB\\20170120-091849.news",
+        "description": null,
+        "guid": "yahoo_finance/3862791914",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12qf5i60b/*http://www.fool.com/investing/2017/01/19/these-3-stocks-just-raised-their-dividends.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 19 Jan 2017 16:11:52 GMT",
+        "source": "data\\ENB\\20170120.rss",
+        "title": "These 3 Stocks Just Raised Their Dividends"
     }
 ]

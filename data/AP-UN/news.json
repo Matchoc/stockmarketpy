@@ -178,5 +178,14 @@
         "pubDate": "Thu, 20 Oct 2016 19:20:42 GMT",
         "source": "data\\AP-UN\\20170119.rss",
         "title": "Allied Properties REIT Announces Conference Call to Discuss Third-Quarter Results"
+    },
+    {
+        "contents": "data\\AP-UN\\20170120-091838.news",
+        "description": null,
+        "guid": "yahoo_finance/3722152404",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/allied-properties-real-estate-investment-200638564.html",
+        "pubDate": "Thu, 19 Jan 2017 20:06:38 GMT",
+        "source": "data\\AP-UN\\20170120.rss",
+        "title": "Allied Properties Real Estate Investment Trust Announces January Distribution"
     }
 ]

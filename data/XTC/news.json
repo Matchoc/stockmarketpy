@@ -277,5 +277,14 @@
         "pubDate": "Tue, 05 Apr 2016 12:50:11 GMT",
         "source": "data\\XTC\\20170118.rss",
         "title": "Exco Technologies Limited Acquires AFX Industries LLC"
+    },
+    {
+        "contents": "data\\XTC\\20170120-091603.news",
+        "description": null,
+        "guid": "yahoo_finance/1741854024",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14gsqfkno/*http://www.capitalcube.com/blog/index.php/exco-technologies-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-xtc-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:09:30 GMT",
+        "source": "data\\XTC\\20170120.rss",
+        "title": "Exco Technologies Ltd. breached its 50 day moving average in a Bearish Manner : XTC-CA : January 19, 2017"
     }
 ]

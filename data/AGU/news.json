@@ -178,5 +178,14 @@
         "pubDate": "Fri, 16 Dec 2016 14:05:38 GMT",
         "source": "data\\AGU\\20170118.rss",
         "title": "Is Agrium\u2019s Valuation Multiple Looking Expensive?"
+    },
+    {
+        "contents": "data\\AGU\\20170120-091257.news",
+        "description": null,
+        "guid": "yahoo_finance/1887918335",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1455aqidv/*http://www.capitalcube.com/blog/index.php/agrium-inc-breached-its-50-day-moving-average-in-a-bearish-manner-agu-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:08:04 GMT",
+        "source": "data\\AGU\\20170120.rss",
+        "title": "Agrium, Inc. breached its 50 day moving average in a Bearish Manner : AGU-CA : January 19, 2017"
     }
 ]

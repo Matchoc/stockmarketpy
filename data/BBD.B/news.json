@@ -916,5 +916,14 @@
         "pubDate": "Wed, 18 Jan 2017 10:36:38 GMT",
         "source": "data\\BBD.B\\20170118.rss",
         "title": "PRESS DIGEST- Canada - Jan 18"
+    },
+    {
+        "contents": "data\\BBD.B\\20170120-090404.news",
+        "description": null,
+        "guid": "yahoo_finance/2150328141",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/britain-seeks-bids-2-75-001032057.html",
+        "pubDate": "Fri, 20 Jan 2017 00:10:32 GMT",
+        "source": "data\\BBD.B\\20170120.rss",
+        "title": "Britain seeks bids for 2.75 billion pound high speed train contract"
     }
 ]

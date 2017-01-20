@@ -178,5 +178,14 @@
         "pubDate": "Mon, 31 Oct 2016 15:03:55 GMT",
         "source": "data\\NSU\\20170118.rss",
         "title": "Nevsun Resources Ltd. :NSU-CA: Earnings Analysis: Q3, 2016 By the Numbers : October 31, 2016"
+    },
+    {
+        "contents": "data\\NSU\\20170120-090929.news",
+        "description": null,
+        "guid": "yahoo_finance/2189118776",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fbhn4ob/*http://www.capitalcube.com/blog/index.php/nevsun-resources-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-nsu-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:05:47 GMT",
+        "source": "data\\NSU\\20170120.rss",
+        "title": "Nevsun Resources Ltd. breached its 50 day moving average in a Bearish Manner : NSU-CA : January 19, 2017"
     }
 ]

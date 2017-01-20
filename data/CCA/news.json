@@ -205,5 +205,14 @@
         "pubDate": "Mon, 17 Oct 2016 13:13:04 GMT",
         "source": "data\\CCA\\20170119.rss",
         "title": "Cogeco Connexion Deploys SeaChange for New Generation of Video Services"
+    },
+    {
+        "contents": "data\\CCA\\20170120-091155.news",
+        "description": null,
+        "guid": "yahoo_finance/3336539158",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13crth7o5/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-cogeco-communications-inc-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 17:33:57 GMT",
+        "source": "data\\CCA\\20170120.rss",
+        "title": "ETFs with exposure to Cogeco Communications, Inc. : January 19, 2017"
     }
 ]

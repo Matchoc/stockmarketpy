@@ -178,5 +178,14 @@
         "pubDate": "Wed, 16 Nov 2016 19:52:24 GMT",
         "source": "data\\SSO\\20170118.rss",
         "title": "Some Kirkland Lake shareholders urge miner to engage with bidders"
+    },
+    {
+        "contents": "data\\SSO\\20170120-091303.news",
+        "description": null,
+        "guid": "yahoo_finance/4058769128",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500972.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\SSO\\20170120.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Mega Uranium, Silver Standard Resources, Osisko Gold Royalties, and Dundee Precious Metals"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Fri, 18 Nov 2016 16:05:00 GMT",
         "source": "data\\MSI\\20170118.rss",
         "title": "Morneau Shepell Declares November 2016 Cash Dividend"
+    },
+    {
+        "contents": "data\\MSI\\20170120-091548.news",
+        "description": null,
+        "guid": "yahoo_finance/3157926830",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/morneau-shepell-declares-january-2017-154000389.html",
+        "pubDate": "Thu, 19 Jan 2017 15:40:00 GMT",
+        "source": "data\\MSI\\20170120.rss",
+        "title": "Morneau Shepell Declares January 2017 Cash Dividend"
     }
 ]

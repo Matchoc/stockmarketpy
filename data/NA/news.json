@@ -448,5 +448,14 @@
         "pubDate": "Tue, 17 Jan 2017 10:48:24 GMT",
         "source": "data\\NA\\20170117.rss",
         "title": "PRESS DIGEST- Canada - Jan 17"
+    },
+    {
+        "contents": "data\\NA\\20170120-091519.news",
+        "description": null,
+        "guid": "yahoo_finance/44083069",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=143i9fkug/*http://www.capitalcube.com/blog/index.php/national-bank-of-canada-na-ca-earnings-analysis-q4-2016-by-the-numbers-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 16:52:11 GMT",
+        "source": "data\\NA\\20170120.rss",
+        "title": "National Bank of Canada :NA-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 19, 2017"
     }
 ]

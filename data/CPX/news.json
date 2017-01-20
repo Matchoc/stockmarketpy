@@ -178,5 +178,14 @@
         "pubDate": "Tue, 04 Oct 2016 12:58:01 GMT",
         "source": "data\\CPX\\20170118.rss",
         "title": "Capital Power announces closing of C$200 million offering of 6.00% Cumulative Minimum Rate Reset Preferred Shares"
+    },
+    {
+        "contents": "data\\CPX\\20170120-090356.news",
+        "description": null,
+        "guid": "yahoo_finance/904663526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-utilities-stocks-131500674.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\CPX\\20170120.rss",
+        "title": "Research Reports Initiated on Utilities Stocks ATCO Ltd., Capital Power, Superior Plus, and Just Energy Group"
     }
 ]

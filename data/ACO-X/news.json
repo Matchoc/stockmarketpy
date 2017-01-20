@@ -205,5 +205,14 @@
         "pubDate": "Thu, 21 Jan 2016 20:29:07 GMT",
         "source": "data\\ACO-X\\20170119.rss",
         "title": "R. D. Southern Announcement January 21, 2016 \u00bb PDF \u00bb HTML"
+    },
+    {
+        "contents": "data\\ACO-X\\20170120-091932.news",
+        "description": null,
+        "guid": "yahoo_finance/904663526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-utilities-stocks-131500674.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\ACO-X\\20170120.rss",
+        "title": "Research Reports Initiated on Utilities Stocks ATCO Ltd., Capital Power, Superior Plus, and Just Energy Group"
     }
 ]

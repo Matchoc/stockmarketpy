@@ -178,5 +178,14 @@
         "pubDate": "Thu, 15 Dec 2016 13:17:44 GMT",
         "source": "data\\JE\\20170118.rss",
         "title": "Just Energy Group, Inc. breached its 50 day moving average in a Bearish Manner : JE-CA : December 15, 2016"
+    },
+    {
+        "contents": "data\\JE\\20170120-091949.news",
+        "description": null,
+        "guid": "yahoo_finance/904663526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-utilities-stocks-131500674.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\JE\\20170120.rss",
+        "title": "Research Reports Initiated on Utilities Stocks ATCO Ltd., Capital Power, Superior Plus, and Just Energy Group"
     }
 ]

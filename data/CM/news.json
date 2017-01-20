@@ -619,5 +619,41 @@
         "pubDate": "Wed, 18 Jan 2017 18:53:47 GMT",
         "source": "data\\CM\\20170118.rss",
         "title": "Value Investing Versus Growth Investing: CIBC"
+    },
+    {
+        "contents": "data\\CM\\20170120-091609.news",
+        "description": "[PR Newswire] - VANCOUVER, Jan. 19, 2017 /CNW/ - CIBC (TSX: CM) (NYSE: CM) will host its 20 th annual Whistler Institutional Investor Conference January 25-28, 2017. Scheduled to present are senior executives from over ...",
+        "guid": "yahoo_finance/2037388535",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/more-100-top-north-american-180000629.html",
+        "pubDate": "Thu, 19 Jan 2017 18:00:00 GMT",
+        "source": "data\\CM\\20170120.rss",
+        "title": "More than 100 top North American companies to present at CIBC's 20th Annual Whistler Institutional Investor Conference"
+    },
+    {
+        "contents": "data\\CM\\20170120-091611.news",
+        "description": null,
+        "guid": "yahoo_finance/217504847",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13lsfo40h/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-canadian-imperial-bank-of-commerce-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 17:41:36 GMT",
+        "source": "data\\CM\\20170120.rss",
+        "title": "ETFs with exposure to Canadian Imperial Bank of Commerce : January 19, 2017"
+    },
+    {
+        "contents": "data\\CM\\20170120-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/1095374327",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14edo3uhq/*http://www.capitalcube.com/blog/index.php/canadian-imperial-bank-of-commerce-cm-ca-earnings-analysis-q4-2016-by-the-numbers-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 16:50:11 GMT",
+        "source": "data\\CM\\20170120.rss",
+        "title": "Canadian Imperial Bank of Commerce :CM-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 19, 2017"
+    },
+    {
+        "contents": "data\\CM\\20170120-091630.news",
+        "description": null,
+        "guid": "yahoo_finance/4184470762",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-income-stocks-buy-144702524.html",
+        "pubDate": "Thu, 19 Jan 2017 14:47:02 GMT",
+        "source": "data\\CM\\20170120.rss",
+        "title": "Top Ranked Income Stocks to Buy for January 19th"
     }
 ]

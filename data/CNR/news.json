@@ -493,5 +493,14 @@
         "pubDate": "Thu, 19 Jan 2017 12:36:36 GMT",
         "source": "data\\CNR\\20170119.rss",
         "title": "Canadian National\u2019s Carloads: What\u2019s Offsetting the Coal Decline?"
+    },
+    {
+        "contents": "data\\CNR\\20170120-091534.news",
+        "description": null,
+        "guid": "yahoo_finance/708117436",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/surprise-coming-canadian-national-cni-133901344.html",
+        "pubDate": "Fri, 20 Jan 2017 13:39:01 GMT",
+        "source": "data\\CNR\\20170120.rss",
+        "title": "Is a Surprise Coming for Canadian National (CNI) This Earnings Season?"
     }
 ]

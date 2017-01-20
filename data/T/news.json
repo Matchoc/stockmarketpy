@@ -214,5 +214,23 @@
         "pubDate": "Wed, 04 Jan 2017 17:03:12 GMT",
         "source": "data\\T\\20170105.rss",
         "title": "TELUS invests $1 million to bring wireless service to Highway 29 between Hudson\u2019s Hope and the Highway 97 Junction"
+    },
+    {
+        "contents": "data\\T\\20170120-090901.news",
+        "description": null,
+        "guid": "yahoo_finance/1461975970",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-led-214832734.html",
+        "pubDate": "Thu, 19 Jan 2017 21:48:32 GMT",
+        "source": "data\\T\\20170120.rss",
+        "title": "CANADA STOCKS-TSX rises, led by CP Rail on railroad merger prospects"
+    },
+    {
+        "contents": "data\\T\\20170120-090903.news",
+        "description": null,
+        "guid": "yahoo_finance/2835324683",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-cp-155427805.html",
+        "pubDate": "Thu, 19 Jan 2017 15:54:27 GMT",
+        "source": "data\\T\\20170120.rss",
+        "title": "CANADA STOCKS-TSX rises as CP Rail and Cameco gain"
     }
 ]

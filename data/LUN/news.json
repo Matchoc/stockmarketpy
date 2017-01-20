@@ -178,5 +178,14 @@
         "pubDate": "Mon, 07 Nov 2016 15:39:45 GMT",
         "source": "data\\LUN\\20170118.rss",
         "title": "Lundin Mining Corp. :LUN-CA: Earnings Analysis: Q3, 2016 By the Numbers : November 7, 2016"
+    },
+    {
+        "contents": "data\\LUN\\20170120-091638.news",
+        "description": null,
+        "guid": "yahoo_finance/3892946934",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/third-avenue-management-comments-lundin-232227515.html",
+        "pubDate": "Thu, 19 Jan 2017 23:22:27 GMT",
+        "source": "data\\LUN\\20170120.rss",
+        "title": "Third Avenue Management Comments on Lundin Mining"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\NPI\\20170119.rss",
         "title": "Research Reports Initiated on Utilities Stocks TransAlta Renewables, Northland Power, Atlantic Power, and Alterra Power"
+    },
+    {
+        "contents": "data\\NPI\\20170120-091151.news",
+        "description": null,
+        "guid": "yahoo_finance/189769423",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northland-power-provides-global-adjustment-223000228.html",
+        "pubDate": "Thu, 19 Jan 2017 22:30:00 GMT",
+        "source": "data\\NPI\\20170120.rss",
+        "title": "Northland Power Provides Update on Global Adjustment Litigation"
     }
 ]

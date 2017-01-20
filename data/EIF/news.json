@@ -178,5 +178,14 @@
         "pubDate": "Mon, 17 Oct 2016 14:07:35 GMT",
         "source": "data\\EIF\\20170118.rss",
         "title": "ETF\u2019s with exposure to Exchange Income Corp. : October 17, 2016"
+    },
+    {
+        "contents": "data\\EIF\\20170120-091427.news",
+        "description": null,
+        "guid": "yahoo_finance/2016149778",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fmgutmu/*http://www.capitalcube.com/blog/index.php/exchange-income-corp-breached-its-50-day-moving-average-in-a-bearish-manner-eif-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:10:57 GMT",
+        "source": "data\\EIF\\20170120.rss",
+        "title": "Exchange Income Corp. breached its 50 day moving average in a Bearish Manner : EIF-CA : January 19, 2017"
     }
 ]

@@ -178,5 +178,41 @@
         "pubDate": "Mon, 12 Dec 2016 19:02:24 GMT",
         "source": "data\\AYA\\20170118.rss",
         "title": "ETFs with exposure to Amaya, Inc. : December 12, 2016"
+    },
+    {
+        "contents": "data\\AYA\\20170120-090130.news",
+        "description": null,
+        "guid": "yahoo_finance/1683442537",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/amaya-raises-2016-adjusted-profit-125502123.html",
+        "pubDate": "Fri, 20 Jan 2017 13:13:39 GMT",
+        "source": "data\\AYA\\20170120.rss",
+        "title": "Amaya raises 2016 adjusted profit forecast"
+    },
+    {
+        "contents": "data\\AYA\\20170120-090132.news",
+        "description": null,
+        "guid": "yahoo_finance/3415708053",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/amaya-raises-2016-adjusted-profit-125502662.html",
+        "pubDate": "Fri, 20 Jan 2017 13:13:39 GMT",
+        "source": "data\\AYA\\20170120.rss",
+        "title": "Amaya raises 2016 adjusted profit forecast"
+    },
+    {
+        "contents": "data\\AYA\\20170120-090133.news",
+        "description": null,
+        "guid": "yahoo_finance/101322040",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/amaya-raises-2016-adjusted-profit-125112167.html",
+        "pubDate": "Fri, 20 Jan 2017 12:51:12 GMT",
+        "source": "data\\AYA\\20170120.rss",
+        "title": "Amaya raises 2016 adjusted profit forecast, CFO to retire"
+    },
+    {
+        "contents": "data\\AYA\\20170120-090135.news",
+        "description": "[PR Newswire] - TSX: AYA) today updated its previously announced guidance ranges for the full year 2016, provided related performance and operational highlights, and announced the retirement of its Chief Financial Officer, Daniel Sebag. \"We also saw better than expected fourth quarter results from our casino offering, operational excellence program and a successful re-launch in Portugal, all while continuing to take an efficient and measured approach to marketing our product offerings.",
+        "guid": "yahoo_finance/185988007",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/amaya-provides-updated-full-2016-123000844.html",
+        "pubDate": "Fri, 20 Jan 2017 12:30:00 GMT",
+        "source": "data\\AYA\\20170120.rss",
+        "title": "Amaya Provides Updated Full Year 2016 Guidance and Related Highlights; Announces Retirement of Chief Financial Officer"
     }
 ]

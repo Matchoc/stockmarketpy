@@ -268,5 +268,14 @@
         "pubDate": "Wed, 11 May 2016 19:17:01 GMT",
         "source": "data\\ECI\\20170119.rss",
         "title": "American Capital Receives $244 Million from Sale of Portfolio Company Service Experts and Generates a 184% Return on Its Investment"
+    },
+    {
+        "contents": "data\\ECI\\20170120-091424.news",
+        "description": null,
+        "guid": "yahoo_finance/3106518791",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=133cm2pv5/*http://www.capitalcube.com/blog/index.php/enercare-inc-value-analysis-torontoeci-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 15:31:35 GMT",
+        "source": "data\\ECI\\20170120.rss",
+        "title": "EnerCare, Inc. \u2013 Value Analysis (TORONTO:ECI) : January 19, 2017"
     }
 ]

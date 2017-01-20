@@ -331,5 +331,14 @@
         "pubDate": "Tue, 17 Jan 2017 23:21:06 GMT",
         "source": "data\\MFC\\20170118.rss",
         "title": "Manulife's Greene: GOP Border-Tax Proposal a Scary One"
+    },
+    {
+        "contents": "data\\MFC\\20170120-091055.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 19, 2017 /PRNewswire/ -- John Hancock Investments today announced that Market Intelligence, an award-winning guide to the financial markets, is now available on iPad. Over the past two years, Market Intelligence has become a trusted market resource for financial advisors and other intermediaries. John Hancock Investments' multimanager approach to investing provides its dedicated in-house research team with a unique advantage: the ability to leverage the best market insight from its global network of more than 75 specialized asset managers and investment partners.",
+        "guid": "yahoo_finance/2709334860",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-launches-market-141000402.html",
+        "pubDate": "Thu, 19 Jan 2017 14:10:00 GMT",
+        "source": "data\\MFC\\20170120.rss",
+        "title": "John Hancock Investments launches Market Intelligence app for iPad"
     }
 ]

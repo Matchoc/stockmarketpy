@@ -700,5 +700,14 @@
         "pubDate": "Wed, 18 Jan 2017 22:31:57 GMT",
         "source": "data\\TD\\20170118.rss",
         "title": "TD Ameritrade CEO: Trump Rally 'Got Ahead of Itself'"
+    },
+    {
+        "contents": "data\\TD\\20170120-091237.news",
+        "description": null,
+        "guid": "yahoo_finance/2544054066",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=145r5prnv/*http://www.capitalcube.com/blog/index.php/the-toronto-dominion-bank-td-ca-earnings-analysis-q4-2016-by-the-numbers-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 16:48:21 GMT",
+        "source": "data\\TD\\20170120.rss",
+        "title": "The Toronto-Dominion Bank :TD-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 19, 2017"
     }
 ]

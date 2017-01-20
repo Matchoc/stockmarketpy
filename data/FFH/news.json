@@ -772,5 +772,50 @@
         "pubDate": "Mon, 04 Nov 2013 14:07:51 GMT",
         "source": "data\\FFH\\20170119.rss",
         "title": "BlackBerry chief Heins out, sale abandoned"
+    },
+    {
+        "contents": "data\\FFH\\20170120-090944.news",
+        "description": null,
+        "guid": "yahoo_finance/1539792708",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-may-sell-25-percent-120733687.html",
+        "pubDate": "Fri, 20 Jan 2017 12:07:33 GMT",
+        "source": "data\\FFH\\20170120.rss",
+        "title": "Fairfax may sell 25 percent of India's ICICI Lombard in up to $1 billion deal - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170120-090948.news",
+        "description": null,
+        "guid": "yahoo_finance/3863786228",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/fairfax-may-sell-25-percent-114908153.html",
+        "pubDate": "Fri, 20 Jan 2017 11:49:08 GMT",
+        "source": "data\\FFH\\20170120.rss",
+        "title": "Fairfax may sell 25 percent of India's ICICI Lombard in up to $1 billion deal - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170120-090951.news",
+        "description": null,
+        "guid": "yahoo_finance/2476464675",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/fairfax-may-sell-25-percent-114908629.html",
+        "pubDate": "Fri, 20 Jan 2017 11:49:08 GMT",
+        "source": "data\\FFH\\20170120.rss",
+        "title": "Fairfax may sell 25 percent of India's ICICI Lombard in up to $1 billion deal - sources"
+    },
+    {
+        "contents": "data\\FFH\\20170120-090953.news",
+        "description": "[Reuters] - Fairfax Financial Holdings (FFH.TO) is in early talks to sell 25 percent of India's largest private general insurer ICICI Lombard in a deal that could fetch up to $1 billion, as the Canadian firm looks to cash out and start a new insurance joint venture, sources familiar with the matter said. ICICI Lombard is a joint venture formed in 2001 between ICICI Bank (ICBK.NS), India's second largest bank, and Fairfax, which is led by Canadian billionaire Prem Watsa.",
+        "guid": "yahoo_finance/107914160",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fairfax-may-sell-25-percent-114458606.html",
+        "pubDate": "Fri, 20 Jan 2017 11:44:58 GMT",
+        "source": "data\\FFH\\20170120.rss",
+        "title": "Fairfax may sell 25 percent of India's ICICI Lombard in up to $1 billion deal: sources"
+    },
+    {
+        "contents": "data\\FFH\\20170120-090955.news",
+        "description": "[Reuters] - Fairfax Financial Holdings is in early talks to sell 25 percent of India's largest private general insurer ICICI Lombard in a deal that could fetch up to $1 billion, as the Canadian firm looks to cash out and start a new insurance joint venture, sources familiar with the matter said. ICICI Lombard is a joint venture formed in 2001 between ICICI Bank, India's second largest bank, and Fairfax, which is led by Canadian billionaire Prem Watsa.",
+        "guid": "yahoo_finance/4116092909",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fairfax-may-sell-25-pct-114254238.html",
+        "pubDate": "Fri, 20 Jan 2017 11:42:54 GMT",
+        "source": "data\\FFH\\20170120.rss",
+        "title": "Fairfax may sell 25 pct of India's ICICI Lombard in up to $1 bln deal-sources"
     }
 ]

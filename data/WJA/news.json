@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 11:00:00 GMT",
         "source": "data\\WJA\\20170119.rss",
         "title": "WestJet inaugurates service to Mesa, Arizona"
+    },
+    {
+        "contents": "data\\WJA\\20170120-090830.news",
+        "description": null,
+        "guid": "yahoo_finance/2422510790",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-westjet-present-cibc-133000971.html",
+        "pubDate": "Fri, 20 Jan 2017 13:30:00 GMT",
+        "source": "data\\WJA\\20170120.rss",
+        "title": "MEDIA ADVISORY - WestJet to present at the CIBC 20th Annual Whistler Institutional Investor Conference"
     }
 ]

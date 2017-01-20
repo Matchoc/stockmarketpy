@@ -277,5 +277,14 @@
         "pubDate": "Tue, 17 Jan 2017 21:01:51 GMT",
         "source": "data\\TRP\\20170118.rss",
         "title": "Exclusive - Canadian energy firms at bigger risk from cyber, bomb attacks - spy agency"
+    },
+    {
+        "contents": "data\\TRP\\20170120-091308.news",
+        "description": "[Marketwired] - TransCanada Corporation announced today the Federal Energy Regulatory Commission has issued an order approving the construction of the Leach XPress and Rayne XPress projects. The combined $1.8 billion ...",
+        "guid": "yahoo_finance/3968497411",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transcanada-receives-ferc-approval-construct-173753824.html",
+        "pubDate": "Thu, 19 Jan 2017 17:37:53 GMT",
+        "source": "data\\TRP\\20170120.rss",
+        "title": "TransCanada Receives FERC Approval to Construct Leach XPress and Rayne XPress Projects"
     }
 ]

@@ -799,5 +799,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:30:00 GMT",
         "source": "data\\BNS\\20170119.rss",
         "title": "Record global auto sales expected in 2017: Scotiabank"
+    },
+    {
+        "contents": "data\\BNS\\20170120-091820.news",
+        "description": "[PR Newswire] - LONDON, ON, Jan. 20, 2017 /CNW/ - Scotiabank has donated $1 million to Children's Health Foundation and London Health Sciences Foundation, fundraising partners of London Health Sciences Centre (LHSC), to fund The Scotiabank Family Assistance Program, which supports women, children and their families experiencing financial hardship during treatment. The Scotiabank Family Assistance Program is a vital patient and family-centred resource for both Children's Hospital (including children's inpatient care, neonatal care, paediatric critical care and paediatric ambulatory care) and in Women's Care (including gynecology/oncology surgery, inpatient gynecology surgery and obstetrical care) at LHSC.",
+        "guid": "yahoo_finance/222229450",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-donates-1-million-support-140000722.html",
+        "pubDate": "Fri, 20 Jan 2017 14:00:00 GMT",
+        "source": "data\\BNS\\20170120.rss",
+        "title": "Scotiabank donates $1 million to support families at London Health Sciences Centre"
     }
 ]

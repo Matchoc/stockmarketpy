@@ -178,5 +178,14 @@
         "pubDate": "Mon, 14 Nov 2016 13:53:24 GMT",
         "source": "data\\BAM-A\\20170118.rss",
         "title": "Brookfield Asset Management, Inc. breached its 50 day moving average in a Bearish Manner : BAM.A-CA : November 14, 2016"
+    },
+    {
+        "contents": "data\\BAM-A\\20170120-091016.news",
+        "description": null,
+        "guid": "yahoo_finance/1378567852",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13k6593f5/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-brookfield-asset-management-inc-january-17-2017-2/",
+        "pubDate": "Tue, 17 Jan 2017 15:55:16 GMT",
+        "source": "data\\BAM-A\\20170120.rss",
+        "title": "ETFs with exposure to Brookfield Asset Management, Inc. : January 17, 2017"
     }
 ]

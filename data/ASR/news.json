@@ -187,5 +187,14 @@
         "pubDate": "Fri, 23 Sep 2016 14:01:05 GMT",
         "source": "data\\ASR\\20170119.rss",
         "title": "ETF\u2019s with exposure to Alacer Gold Corp. : September 23, 2016"
+    },
+    {
+        "contents": "data\\ASR\\20170120-091337.news",
+        "description": null,
+        "guid": "yahoo_finance/4189124716",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alacer-gold-announces-release-date-160000375.html",
+        "pubDate": "Thu, 19 Jan 2017 16:00:00 GMT",
+        "source": "data\\ASR\\20170120.rss",
+        "title": "Alacer Gold Announces Release Date for 2016 Year-End Operational and Financial Results Conference Call"
     }
 ]

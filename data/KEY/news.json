@@ -178,5 +178,23 @@
         "pubDate": "Tue, 11 Oct 2016 21:30:00 GMT",
         "source": "data\\KEY\\20170118.rss",
         "title": "Keyera Announces October 2016 Dividend"
+    },
+    {
+        "contents": "data\\KEY\\20170120-090620.news",
+        "description": null,
+        "guid": "yahoo_finance/1982112593",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12tve35k5/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-keyera-corp-october-5-2016/",
+        "pubDate": "Wed, 05 Oct 2016 14:25:33 GMT",
+        "source": "data\\KEY\\20170120.rss",
+        "title": "ETF\u2019s with exposure to Keyera Corp. : October 5, 2016"
+    },
+    {
+        "contents": "data\\KEY\\20170120-090624.news",
+        "description": null,
+        "guid": "yahoo_finance/542543977",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14i5ouv6c/*http://www.capitalcube.com/blog/index.php/keyera-corp-key-ca-dividend-analysis-september-22nd-2016-record-date-by-the-numbers-september-30-2016/",
+        "pubDate": "Fri, 30 Sep 2016 15:14:14 GMT",
+        "source": "data\\KEY\\20170120.rss",
+        "title": "Keyera Corp. : KEY-CA: Dividend Analysis : September 22nd, 2016 (record date) : By the numbers : September 30, 2016"
     }
 ]

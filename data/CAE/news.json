@@ -178,5 +178,14 @@
         "pubDate": "Mon, 07 Nov 2016 12:54:11 GMT",
         "source": "data\\CAE\\20170118.rss",
         "title": "CAE celebrates the training of Ryanair\u2019s 2,000th cadet at its centre in Amsterdam"
+    },
+    {
+        "contents": "data\\CAE\\20170120-090126.news",
+        "description": "[Marketwired] - - CAE announced today a series of aviation training contracts valued at more than C$250 million with airlines and business aircraft operators worldwide. The contracts include cadet-to-captain training ...",
+        "guid": "yahoo_finance/1609058939",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cae-signs-series-commercial-business-141635264.html",
+        "pubDate": "Thu, 19 Jan 2017 14:16:35 GMT",
+        "source": "data\\CAE\\20170120.rss",
+        "title": "CAE signs a series of commercial and business aviation training solution contracts valued at more than C$250 million"
     }
 ]

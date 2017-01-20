@@ -178,5 +178,23 @@
         "pubDate": "Fri, 30 Sep 2016 12:42:04 GMT",
         "source": "data\\QBR-B\\20170118.rss",
         "title": "Quebecor, Inc. breached its 50 day moving average in a Bullish Manner : QBR.B-CA : September 30, 2016"
+    },
+    {
+        "contents": "data\\QBR-B\\20170120-091741.news",
+        "description": null,
+        "guid": "yahoo_finance/1057968597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-communication-services-131500739.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\QBR-B\\20170120.rss",
+        "title": "Research Reports Initiated on Communication Services Stocks Manitoba Telecom Services, NeuLion, Rogers Communications, and Quebecor"
+    },
+    {
+        "contents": "data\\QBR-B\\20170120-091743.news",
+        "description": null,
+        "guid": "yahoo_finance/2685441307",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=134boamp6/*http://www.capitalcube.com/blog/index.php/quebecor-inc-value-analysis-torontoqbr-b-january-9-2017/",
+        "pubDate": "Mon, 09 Jan 2017 16:25:13 GMT",
+        "source": "data\\QBR-B\\20170120.rss",
+        "title": "Quebecor, Inc. \u2013 Value Analysis (TORONTO:QBR.B) : January 9, 2017"
     }
 ]

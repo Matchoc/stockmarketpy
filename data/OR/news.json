@@ -178,5 +178,95 @@
         "pubDate": "Thu, 15 Sep 2016 14:26:35 GMT",
         "source": "data\\OR\\20170118.rss",
         "title": "ETF\u2019s with exposure to Osisko Gold Royalties Ltd. : September 15, 2016"
+    },
+    {
+        "contents": "data\\OR\\20170120-090424.news",
+        "description": null,
+        "guid": "yahoo_finance/4058769128",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500972.html",
+        "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Mega Uranium, Silver Standard Resources, Osisko Gold Royalties, and Dundee Precious Metals"
+    },
+    {
+        "contents": "data\\OR\\20170120-090426.news",
+        "description": null,
+        "guid": "yahoo_finance/493131161",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13b43utao/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-osisko-gold-royalties-ltd-august-23-2016/",
+        "pubDate": "Tue, 23 Aug 2016 16:16:30 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "ETF\u2019s with exposure to Osisko Gold Royalties Ltd. : August 23, 2016"
+    },
+    {
+        "contents": "data\\OR\\20170120-090443.news",
+        "description": "[Marketwired] - Osisko Gold Royalties Ltd reports that Messrs. John Burzynski, Senior Vice President New Business Development, and Robert Wares, Chief Geologist, have resigned from their executive positions with Osisko ...",
+        "guid": "yahoo_finance/1211118931",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/osisko-gold-royalties-ltd-corporate-120000055.html",
+        "pubDate": "Thu, 18 Aug 2016 12:00:00 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Osisko Gold Royalties Ltd.: Corporate Update"
+    },
+    {
+        "contents": "data\\OR\\20170120-090445.news",
+        "description": null,
+        "guid": "yahoo_finance/859178395",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/red-hot-rally-gold-silver-153319250.html",
+        "pubDate": "Fri, 15 Jul 2016 15:33:19 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Red-hot rally in gold and silver cools streaming deal bonanza"
+    },
+    {
+        "contents": "data\\OR\\20170120-090446.news",
+        "description": null,
+        "guid": "yahoo_finance/3657839344",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canadian-gold-miners-keen-tap-222432274.html",
+        "pubDate": "Mon, 22 Feb 2016 22:24:32 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Canadian gold miners keen to tap equity market as gold price pops"
+    },
+    {
+        "contents": "data\\OR\\20170120-090448.news",
+        "description": null,
+        "guid": "yahoo_finance/2048791750",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/private-equity-pension-funds-eye-205856408.html",
+        "pubDate": "Mon, 14 Dec 2015 20:58:56 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Private equity, pension funds eye more metal streaming deals"
+    },
+    {
+        "contents": "data\\OR\\20170120-090450.news",
+        "description": null,
+        "guid": "yahoo_finance/519217636",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/glencore-talks-streaming-deals-chile-211439171.html",
+        "pubDate": "Wed, 16 Sep 2015 21:14:39 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Glencore in talks on streaming deals on Chile, Peru mines -sources"
+    },
+    {
+        "contents": "data\\OR\\20170120-090452.news",
+        "description": null,
+        "guid": "yahoo_finance/3059090500",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/osisko-says-no-plans-acquire-204659792.html",
+        "pubDate": "Fri, 15 May 2015 20:46:59 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Osisko says no plans to acquire Labrador Iron Ore Royalty"
+    },
+    {
+        "contents": "data\\OR\\20170120-090454.news",
+        "description": null,
+        "guid": "yahoo_finance/917296426",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/osisko-says-no-plans-acquire-162423093.html",
+        "pubDate": "Fri, 15 May 2015 18:28:25 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "UPDATE 1-Osisko says no plans to acquire Labrador Iron Ore Royalty"
+    },
+    {
+        "contents": "data\\OR\\20170120-090456.news",
+        "description": null,
+        "guid": "yahoo_finance/3756156693",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/osisko-says-no-plans-acquire-155001362.html",
+        "pubDate": "Fri, 15 May 2015 15:50:01 GMT",
+        "source": "data\\OR\\20170120.rss",
+        "title": "Osisko says no plans to acquire Labrador Iron Ore Royalty"
     }
 ]

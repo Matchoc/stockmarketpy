@@ -178,5 +178,14 @@
         "pubDate": "Tue, 09 Aug 2016 18:17:49 GMT",
         "source": "data\\WPK\\20170118.rss",
         "title": "ETF\u2019s with exposure to Winpak Ltd. : August 9, 2016"
+    },
+    {
+        "contents": "data\\WPK\\20170120-092001.news",
+        "description": null,
+        "guid": "yahoo_finance/668836265",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1319h6u4i/*http://www.capitalcube.com/blog/index.php/winpak-ltd-value-analysis-torontowpk-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 16:42:28 GMT",
+        "source": "data\\WPK\\20170120.rss",
+        "title": "Winpak Ltd. \u2013 Value Analysis (TORONTO:WPK) : January 19, 2017"
     }
 ]

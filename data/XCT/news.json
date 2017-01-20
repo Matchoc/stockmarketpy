@@ -223,5 +223,14 @@
         "pubDate": "Thu, 19 Jan 2017 12:07:06 GMT",
         "source": "data\\XCT\\20170119.rss",
         "title": "Q4 2016 ExactEarth Ltd Earnings Release - 06:30 am ET"
+    },
+    {
+        "contents": "data\\XCT\\20170120-091507.news",
+        "description": null,
+        "guid": "yahoo_finance/3956193189",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-xct-earnings-conference-185631865.html",
+        "pubDate": "Thu, 19 Jan 2017 18:56:31 GMT",
+        "source": "data\\XCT\\20170120.rss",
+        "title": "Edited Transcript of XCT.TO earnings conference call or presentation 19-Jan-17 1:30pm GMT"
     }
 ]

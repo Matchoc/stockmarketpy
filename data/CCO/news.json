@@ -178,5 +178,32 @@
         "pubDate": "Fri, 30 Dec 2016 13:15:00 GMT",
         "source": "data\\CCO\\20170118.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks First Quantum Minerals, New Millennium Iron, Cameco, and Midas Gold"
+    },
+    {
+        "contents": "data\\CCO\\20170120-091205.news",
+        "description": null,
+        "guid": "yahoo_finance/610322021",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12vm1vohi/*http://www.bloomberg.com/news/videos/2017-01-19/cameco-suffers-worst-intraday-loss-since-2011?cmpid=yhoo.headline",
+        "pubDate": "Thu, 19 Jan 2017 22:36:06 GMT",
+        "source": "data\\CCO\\20170120.rss",
+        "title": "Cameco Suffers Worst Intraday Loss Since 2011"
+    },
+    {
+        "contents": "data\\CCO\\20170120-091206.news",
+        "description": null,
+        "guid": "yahoo_finance/1461975970",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-led-214832734.html",
+        "pubDate": "Thu, 19 Jan 2017 21:48:32 GMT",
+        "source": "data\\CCO\\20170120.rss",
+        "title": "CANADA STOCKS-TSX rises, led by CP Rail on railroad merger prospects"
+    },
+    {
+        "contents": "data\\CCO\\20170120-091208.news",
+        "description": null,
+        "guid": "yahoo_finance/2835324683",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-cp-155427805.html",
+        "pubDate": "Thu, 19 Jan 2017 15:54:27 GMT",
+        "source": "data\\CCO\\20170120.rss",
+        "title": "CANADA STOCKS-TSX rises as CP Rail and Cameco gain"
     }
 ]
