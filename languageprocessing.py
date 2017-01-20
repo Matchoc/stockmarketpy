@@ -56,6 +56,22 @@ def count_all_words(files):
 			ret_dict[word] += filewords[word]
 			
 	return ret_dict
+	
+def cleanup_all_words(all_words):
+	discard = []
+	for word in all_words:
+		num_digit = 0
+		if all_words[word] == 1:
+			discard.append(word)
+			continue
+		for l in word:
+			if l.isdigit():
+				num_digit += 1
+		if num_digit > 0.5 * len(word):
+			discard.append(word)
+	
+	for word in discard:
+		del all_words[word]
 			
 		
 if __name__ == '__main__':

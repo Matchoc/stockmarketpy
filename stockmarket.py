@@ -102,6 +102,7 @@ def generate_word_counts():
 	wordglob = os.path.join(DATA_FOLDER, "**", "*.words")
 	wordfiles = glob.glob(wordglob)
 	all_words = count_all_words(wordfiles)
+	cleanup_all_words(all_words)
 	
 	allwordspath = os.path.join(DATA_FOLDER, "allwords.json")
 	with open(allwordspath, 'w') as fo:
@@ -501,7 +502,7 @@ def train_machine(data, alpha, hidden_layer_sizes):
 	all_x = data["X"]
 	all_y = data["y"]
 	myprint("Start machine training (alpha=" + str(alpha) + ", layers = " + str(hidden_layer_sizes) + ")...", 3)
-	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=2000, verbose=True)
+	MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=alpha, hidden_layer_sizes=hidden_layer_sizes, random_state=1000, activation="relu", max_iter=6000, verbose=True)
 	#MACHINE_NEWS = MLPRegressor(solver='lbgfs', alpha=0.005, hidden_layer_sizes=(150, 29), random_state=1000, activation="relu", max_iter=400000, batch_size=590)
 	SCALER_NEWS = StandardScaler()
 	SCALER_NEWS.fit(all_x)
@@ -799,10 +800,10 @@ def graph_actual_vs_predicted():
 	
 	myprint("todo")
 	
-SKIP_SYMBOL = "FFH" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
+SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
 	#train_cross_variations()
-	graph_actual_vs_predicted()
+	#graph_actual_vs_predicted()
 	#update_symbol("BNS")
 	
 	# Update everything (word list, training, news, all the bang)
@@ -821,7 +822,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["dlnews", "processnews"])
 	#update_all_symbols(["processnews", "allwords"])
 	#update_all_symbols(["allwords"])
-	#update_all_symbols(["updateTraining", "train"])
+	#update_all_symbols(["train"])
 	#update_all_symbols(["train"])
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
