@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 14:00:00 GMT",
         "source": "data\\OTC\\20170119.rss",
         "title": "Western Cape Department of Transport & Public Works Improves Effectiveness of Critical Service Delivery with OpenText"
+    },
+    {
+        "contents": "data\\OTC\\20170121-090249.news",
+        "description": null,
+        "guid": "yahoo_finance/2168612756",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/7-stocks-2017-232225443.html",
+        "pubDate": "Fri, 20 Jan 2017 23:23:44 GMT",
+        "source": "data\\OTC\\20170121.rss",
+        "title": "7 Stocks for 2017"
     }
 ]

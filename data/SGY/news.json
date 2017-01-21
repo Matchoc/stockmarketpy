@@ -178,5 +178,14 @@
         "pubDate": "Thu, 29 Sep 2016 12:37:04 GMT",
         "source": "data\\SGY\\20170118.rss",
         "title": "Surge Energy, Inc. breached its 50 day moving average in a Bullish Manner : SGY-CA : September 29, 2016"
+    },
+    {
+        "contents": "data\\SGY\\20170121-090355.news",
+        "description": null,
+        "guid": "yahoo_finance/3636624621",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1336bgb0d/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-surge-energy-inc-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 19:00:20 GMT",
+        "source": "data\\SGY\\20170121.rss",
+        "title": "ETFs with exposure to Surge Energy, Inc. : January 20, 2017"
     }
 ]

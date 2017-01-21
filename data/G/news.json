@@ -178,5 +178,23 @@
         "pubDate": "Thu, 12 Jan 2017 13:42:00 GMT",
         "source": "data\\G\\20170118.rss",
         "title": "Goldcorp Announces Sale of Los Filos Mine"
+    },
+    {
+        "contents": "data\\G\\20170121-090351.news",
+        "description": null,
+        "guid": "yahoo_finance/3801686564",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132jssnic/*http://www.fool.com/investing/2017/01/19/these-2-words-uttered-by-trump-could-usher-in-a-ne.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 20 Jan 2017 17:29:06 GMT",
+        "source": "data\\G\\20170121.rss",
+        "title": "These 2 Words Uttered by Trump Could Usher in a New Bull Market for Gold"
+    },
+    {
+        "contents": "data\\G\\20170121-090351.news",
+        "description": null,
+        "guid": "yahoo_finance/3376268371",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/goldcorp-reports-preliminary-operating-results-150418812.html",
+        "pubDate": "Fri, 20 Jan 2017 15:04:18 GMT",
+        "source": "data\\G\\20170121.rss",
+        "title": "Goldcorp Reports Preliminary Operating Results for 2016"
     }
 ]

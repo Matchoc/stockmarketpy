@@ -178,5 +178,176 @@
         "pubDate": "Mon, 28 Nov 2016 15:10:03 GMT",
         "source": "data\\TA\\20170118.rss",
         "title": "Company News for November 28, 2016"
+    },
+    {
+        "contents": "data\\TA\\20170121-090154.news",
+        "description": null,
+        "guid": "yahoo_finance/2798018664",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=131ing3us/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-transalta-corp-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 19:07:34 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "ETFs with exposure to TransAlta Corp. : January 20, 2017"
+    },
+    {
+        "contents": "data\\TA\\20170121-090154.news",
+        "description": null,
+        "guid": "yahoo_finance/2679905805",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-momentum-stocks-buy-155203816.html",
+        "pubDate": "Fri, 20 Jan 2017 15:52:03 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "Top Ranked Momentum Stocks to Buy for January 20th"
+    },
+    {
+        "contents": "data\\TA\\20170121-090156.news",
+        "description": null,
+        "guid": "yahoo_finance/2147221003",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1320red89/*http://www.fool.com/investing/2016/11/28/why-cliffs-natural-resources-transalta-and-amaya-j.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 28 Nov 2016 14:02:29 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "Why Cliffs Natural Resources, TransAlta, and Amaya Jumped After the Holiday"
+    },
+    {
+        "contents": "data\\TA\\20170121-090157.news",
+        "description": null,
+        "guid": "yahoo_finance/4114687686",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1322unh7f/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-transalta-corp-november-25-2016/",
+        "pubDate": "Fri, 25 Nov 2016 15:27:52 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "ETFs with exposure to TransAlta Corp. : November 25, 2016"
+    },
+    {
+        "contents": "data\\TA\\20170121-090200.news",
+        "description": "[Marketwired] - TransAlta Corporation today announced that it has entered into an agreement with the Government of Alberta on transition payments for the cessation of coal-fired emissions from the Keephills 3, Genesee ...",
+        "guid": "yahoo_finance/3533564137",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transalta-reaches-agreement-government-alberta-025127695.html",
+        "pubDate": "Fri, 25 Nov 2016 02:51:27 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Reaches Agreement with the Government of Alberta on Transition Payments and Executes Memorandum of Understanding"
+    },
+    {
+        "contents": "data\\TA\\20170121-090202.news",
+        "description": null,
+        "guid": "yahoo_finance/2288202154",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149631ikd/*http://www.capitalcube.com/blog/index.php/transalta-corp-breached-its-50-day-moving-average-in-a-bullish-manner-ta-ca-november-24-2016/",
+        "pubDate": "Thu, 24 Nov 2016 12:19:44 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Corp. breached its 50 day moving average in a Bullish Manner : TA-CA : November 24, 2016"
+    },
+    {
+        "contents": "data\\TA\\20170121-090205.news",
+        "description": "[at noodls] - CALGARY, Alberta (November 21, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) today commented on the federal government's announcement for the acceleration of coal retirements ...",
+        "guid": "yahoo_finance/3340917948",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284u1d15/*http://www.publicnow.com/view/16F4C89DF94BED2817B183EEE79428E2E815BC8A",
+        "pubDate": "Tue, 22 Nov 2016 01:02:05 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Comments on Federal Plan for Coal Retirements and Coal-to-Gas Regulations"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (November 18, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) today reported that an independent arbitration panel has provided TransAlta force majeure ...",
+        "guid": "yahoo_finance/651961015",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cec7fe/*http://www.publicnow.com/view/DBE1536EAAE549C0A13ADDC25763BD69C3206299",
+        "pubDate": "Sat, 19 Nov 2016 02:30:04 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "Independent Arbitration Panel Concludes Favourably on TransAlta\u2019s Keephills 1 Force Majeure"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (November 4, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) today reported third quarter 2016 comparable EBITDAof $244 million and comparable FFO of ...",
+        "guid": "yahoo_finance/4091314511",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rrk79r/*http://www.publicnow.com/view/6360E3A456CAD058B52728A79F203876282BA9C0",
+        "pubDate": "Fri, 04 Nov 2016 12:16:04 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Reports Third Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (October 17, 2016) - The Board of Directors of TransAlta Corporation (TSX: TA; NYSE: TAC) today declared a quarterly dividend of $0.04 per common share payable on January 1, 2017 to shareholders ...",
+        "guid": "yahoo_finance/4004827652",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jhkm8p/*http://www.publicnow.com/view/9DCB0F9DDD31FADC31A9C71CA199A4C7663846C6",
+        "pubDate": "Mon, 17 Oct 2016 19:53:06 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Declares Dividends"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (September 30, 2016) - TransAlta Corporation (TSX: TA; NYSE: TAC) will release its third quarter 2016 results before market open on Friday, November 4, 2016. A conference call and webcast ...",
+        "guid": "yahoo_finance/3627960503",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283fi6uo/*http://www.publicnow.com/view/96C53A20DB98E295AC6ACA603B46FA2661F12F34",
+        "pubDate": "Fri, 30 Sep 2016 15:51:05 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Third Quarter 2016 Results and Conference Call"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (August 9, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) today reported second quarter 2016 comparable EBITDA of $248 million, an increase of $65 million ...",
+        "guid": "yahoo_finance/830164988",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sdh2gd/*http://www.publicnow.com/view/AC2C9AD117CC2B52884D661BE059F168FCE7130E",
+        "pubDate": "Tue, 09 Aug 2016 13:20:12 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Reports Second Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (May 3, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) today reported first quarter 2016 comparable EBITDA of $279 million and comparable FFO of $196 ...",
+        "guid": "yahoo_finance/3500055491",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gquu0j/*http://www.publicnow.com/view/03E3109CBA5D3DBF44265ADF5E04BEBA55D53439",
+        "pubDate": "Tue, 03 May 2016 12:50:05 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 27, 2016) - TransAlta is pleased to advise that it has signed a five-year agreement with the Government of Alberta to manage water on the Bow River at its Ghost reservoir facility ...",
+        "guid": "yahoo_finance/2156849514",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128o5opo4/*http://www.publicnow.com/view/23509D9F7A7E3A8E78F625B37EF699856C7E2E07",
+        "pubDate": "Wed, 27 Apr 2016 20:40:13 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta to Lower Ghost Reservoir: TransAlta and Alberta Government Sign 5-year Agreement To Manage Water through Ghost Reservoir and the Kananaskis Lakes System"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 22, 2016) - TransAlta Corporation ('TransAlta') (TSX: TA; NYSE: TAC) held its Annual and Special Meeting of Shareholders on April 22, 2016 in Calgary, Alberta. A total of 125,730,698 ...",
+        "guid": "yahoo_finance/1983024506",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vqiqsi/*http://www.publicnow.com/view/E78B28510B3E6531A093EB3B3654EB70C918028B",
+        "pubDate": "Fri, 22 Apr 2016 21:48:36 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta shareholders approve all resolutions at the Annual and Special Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\TA\\20170121-090206.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 22, 2016) - TransAlta Corporation ('TransAlta') (TSX: TA; NYSE: TAC) will hold its Annual and Special Meeting of Shareholders on Friday April 22, 2016 at 10:00 a.m. MT (12:00 p.m. ...",
+        "guid": "yahoo_finance/254228123",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1280od3p5/*http://www.publicnow.com/view/FB30CFE197F31FC82C221D1825860E149F24EF23",
+        "pubDate": "Fri, 22 Apr 2016 15:30:07 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "Media Advisory: TransAlta Corporation Announces Revised Dial-In Number for 2016 Annual and Special Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\TA\\20170121-090207.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 21, 2016) - The Board of Directors of TransAlta Corporation (TSX: TA; NYSE: TAC) today declared a quarterly dividend of $0.04 per common share payable on July 1, 2016 to shareholders ...",
+        "guid": "yahoo_finance/2104900026",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282k6v6s/*http://www.publicnow.com/view/CC13FB3319DC104CBEE1C427BF15CC6B4C887F9C",
+        "pubDate": "Thu, 21 Apr 2016 22:23:02 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Declares Dividends"
+    },
+    {
+        "contents": "data\\TA\\20170121-090207.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 5, 2016) - TransAlta Corporation ('TransAlta') (TSX: TA; NYSE: TAC) will hold its Annual and Special Meeting of Shareholders on Friday April 22, 2016 at 10:00 a.m. MT (12:00 p.m. ...",
+        "guid": "yahoo_finance/1003276755",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mvdkbq/*http://www.publicnow.com/view/EE2BB274AD0B5555EE437FF2CB433C33CEBE7842",
+        "pubDate": "Tue, 05 Apr 2016 21:48:40 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "Media Advisory: TransAlta Corporation Annual and Special Meeting of Shareholders, First Quarter 2016 Results and Conference Call"
+    },
+    {
+        "contents": "data\\TA\\20170121-090207.news",
+        "description": "[at noodls] - CALGARY, Alberta (March 31, 2016) - TransAlta Corporation ('TransAlta' or the 'Company') (TSX: TA; NYSE: TAC) announced today that 1,824,620 of its 12,000,000 Cumulative Redeemable Rate Reset Preferred ...",
+        "guid": "yahoo_finance/2267976298",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jjjs4u/*http://www.publicnow.com/view/C717C1A6903F6BE5FCB0EA743508FAA581FF8EF2",
+        "pubDate": "Thu, 31 Mar 2016 12:09:10 GMT",
+        "source": "data\\TA\\20170121.rss",
+        "title": "TransAlta Announces Listing of Series B Preferred Shares"
     }
 ]

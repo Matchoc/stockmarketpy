@@ -457,5 +457,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:52:11 GMT",
         "source": "data\\NA\\20170120.rss",
         "title": "National Bank of Canada :NA-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 19, 2017"
+    },
+    {
+        "contents": "data\\NA\\20170121-090218.news",
+        "description": null,
+        "guid": "yahoo_finance/1016605567",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/private-banking-1859-national-bank-232300453.html",
+        "pubDate": "Fri, 20 Jan 2017 23:23:00 GMT",
+        "source": "data\\NA\\20170121.rss",
+        "title": "Private Banking 1859 and National Bank Financial Official Opening of Calgary offices in their Permanent Location"
     }
 ]

@@ -736,5 +736,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:11:52 GMT",
         "source": "data\\ENB\\20170120.rss",
         "title": "These 3 Stocks Just Raised Their Dividends"
+    },
+    {
+        "contents": "data\\ENB\\20170121-090437.news",
+        "description": null,
+        "guid": "yahoo_finance/4073536377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-posts-two-221537319.html",
+        "pubDate": "Fri, 20 Jan 2017 22:15:37 GMT",
+        "source": "data\\ENB\\20170121.rss",
+        "title": "CANADA STOCKS-TSX posts two-week high as commodity prices rise"
     }
 ]

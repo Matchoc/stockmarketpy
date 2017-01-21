@@ -277,5 +277,14 @@
         "pubDate": "Tue, 19 Jan 2016 18:05:13 GMT",
         "source": "data\\D-UN\\20170119.rss",
         "title": "Dream Office REIT January 2016 Monthly Distribution"
+    },
+    {
+        "contents": "data\\D-UN\\20170121-090238.news",
+        "description": null,
+        "guid": "yahoo_finance/3589655451",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dream-office-reit-january-2017-192013483.html",
+        "pubDate": "Fri, 20 Jan 2017 19:20:13 GMT",
+        "source": "data\\D-UN\\20170121.rss",
+        "title": "Dream Office REIT January 2017 Monthly Distribution"
     }
 ]

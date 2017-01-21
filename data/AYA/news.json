@@ -214,5 +214,14 @@
         "pubDate": "Fri, 20 Jan 2017 12:30:00 GMT",
         "source": "data\\AYA\\20170120.rss",
         "title": "Amaya Provides Updated Full Year 2016 Guidance and Related Highlights; Announces Retirement of Chief Financial Officer"
+    },
+    {
+        "contents": "data\\AYA\\20170121-090247.news",
+        "description": null,
+        "guid": "yahoo_finance/1554363032",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=131234bbm/*https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Fri, 20 Jan 2017 15:55:00 GMT",
+        "source": "data\\AYA\\20170121.rss",
+        "title": "Amaya Stock Gains After Raising Profit Forecast"
     }
 ]

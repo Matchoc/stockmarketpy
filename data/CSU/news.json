@@ -178,5 +178,14 @@
         "pubDate": "Fri, 28 Oct 2016 14:57:32 GMT",
         "source": "data\\CSU\\20170118.rss",
         "title": "Constellation Software, Inc. :CSU-CA: Earnings Analysis: Q3, 2016 By the Numbers : October 28, 2016"
+    },
+    {
+        "contents": "data\\CSU\\20170121-090519.news",
+        "description": null,
+        "guid": "yahoo_finance/2142836266",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/constellation-software-inc-announces-annual-221459814.html",
+        "pubDate": "Fri, 20 Jan 2017 22:14:59 GMT",
+        "source": "data\\CSU\\20170121.rss",
+        "title": "Constellation Software Inc. Announces Annual Interest Rate for Series 1 Debentures"
     }
 ]

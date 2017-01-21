@@ -178,5 +178,14 @@
         "pubDate": "Tue, 04 Oct 2016 12:12:00 GMT",
         "source": "data\\CRR-UN\\20170118.rss",
         "title": "Crombie REIT Q3 fiscal 2016 conference call"
+    },
+    {
+        "contents": "data\\CRR-UN\\20170121-090150.news",
+        "description": null,
+        "guid": "yahoo_finance/1111410322",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/crombie-reit-announces-monthly-distribution-141300851.html",
+        "pubDate": "Fri, 20 Jan 2017 14:13:00 GMT",
+        "source": "data\\CRR-UN\\20170121.rss",
+        "title": "Crombie REIT announces monthly distribution"
     }
 ]

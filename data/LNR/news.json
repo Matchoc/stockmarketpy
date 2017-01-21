@@ -196,5 +196,23 @@
         "pubDate": "Mon, 19 Sep 2016 12:55:04 GMT",
         "source": "data\\LNR\\20170118.rss",
         "title": "Linamar Corp. breached its 50 day moving average in a Bearish Manner : LNR-CA : September 19, 2016"
+    },
+    {
+        "contents": "data\\LNR\\20170121-091533.news",
+        "description": null,
+        "guid": "yahoo_finance/591291751",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=130saf9qq/*http://www.barrons.com/articles/2017-roundtable-part-2-manual-for-a-mixed-up-market-1484976857?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Sat, 21 Jan 2017 05:01:00 GMT",
+        "source": "data\\LNR\\20170121.rss",
+        "title": "[$$] User's Manual for a Mixed-Up Market"
+    },
+    {
+        "contents": "data\\LNR\\20170121-091533.news",
+        "description": null,
+        "guid": "yahoo_finance/3716191693",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1474cvfon/*http://www.capitalcube.com/blog/index.php/linamar-corp-breached-its-50-day-moving-average-in-a-bearish-manner-lnr-ca-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:15:57 GMT",
+        "source": "data\\LNR\\20170121.rss",
+        "title": "Linamar Corp. breached its 50 day moving average in a Bearish Manner : LNR-CA : January 20, 2017"
     }
 ]

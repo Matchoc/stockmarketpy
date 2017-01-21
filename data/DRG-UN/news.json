@@ -178,5 +178,14 @@
         "pubDate": "Mon, 23 May 2016 16:20:06 GMT",
         "source": "data\\DRG-UN\\20170118.rss",
         "title": "Moody's Assigns Definitive Ratings to Notes Issued by Taurus 2016-2 DEU DAC."
+    },
+    {
+        "contents": "data\\DRG-UN\\20170121-090634.news",
+        "description": null,
+        "guid": "yahoo_finance/458998089",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dream-global-reit-january-2017-192133247.html",
+        "pubDate": "Fri, 20 Jan 2017 19:21:33 GMT",
+        "source": "data\\DRG-UN\\20170121.rss",
+        "title": "Dream Global REIT January 2017 Monthly Distribution"
     }
 ]

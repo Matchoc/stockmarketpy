@@ -196,5 +196,14 @@
         "pubDate": "Wed, 05 Oct 2016 16:42:15 GMT",
         "source": "data\\PSK\\20170119.rss",
         "title": "PrairieSky Royalty Ltd. : PSK-CA: Dividend Analysis : September 30th, 2016 (record date) : By the numbers : October 5, 2016"
+    },
+    {
+        "contents": "data\\PSK\\20170121-090707.news",
+        "description": null,
+        "guid": "yahoo_finance/3617732152",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hk32o5n/*http://www.capitalcube.com/blog/index.php/prairiesky-royalty-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-psk-ca-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:13:04 GMT",
+        "source": "data\\PSK\\20170121.rss",
+        "title": "PrairieSky Royalty Ltd. breached its 50 day moving average in a Bearish Manner : PSK-CA : January 20, 2017"
     }
 ]

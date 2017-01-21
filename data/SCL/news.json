@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 14:07:15 GMT",
         "source": "data\\SCL\\20170119.rss",
         "title": "ShawCor Ltd. breached its 50 day moving average in a Bearish Manner : SCL-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\SCL\\20170121-090242.news",
+        "description": null,
+        "guid": "yahoo_finance/1005807881",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=132187aia/*http://www.capitalcube.com/blog/index.php/shawcor-ltd-value-analysis-torontoscl-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 17:14:40 GMT",
+        "source": "data\\SCL\\20170121.rss",
+        "title": "ShawCor Ltd. \u2013 Value Analysis (TORONTO:SCL) : January 20, 2017"
     }
 ]

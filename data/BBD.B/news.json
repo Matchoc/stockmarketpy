@@ -925,5 +925,14 @@
         "pubDate": "Fri, 20 Jan 2017 00:10:32 GMT",
         "source": "data\\BBD.B\\20170120.rss",
         "title": "Britain seeks bids for 2.75 billion pound high speed train contract"
+    },
+    {
+        "contents": "data\\BBD.B\\20170121-091324.news",
+        "description": null,
+        "guid": "yahoo_finance/1180767594",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/japan-air-commuter-takes-first-234036492.html",
+        "pubDate": "Fri, 20 Jan 2017 23:40:36 GMT",
+        "source": "data\\BBD.B\\20170121.rss",
+        "title": "Japan Air Commuter takes first ATR in quest for foreign tourists"
     }
 ]

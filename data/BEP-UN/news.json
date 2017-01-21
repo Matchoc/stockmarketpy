@@ -178,5 +178,77 @@
         "pubDate": "Thu, 04 Aug 2016 17:34:47 GMT",
         "source": "data\\BEP-UN\\20170118.rss",
         "title": "Edited Transcript of BEP.UN.TO earnings conference call or presentation 4-Aug-16 1:00pm GMT"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091138.news",
+        "description": null,
+        "guid": "yahoo_finance/250668819",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13j833c1o/*http://www.bloomberg.com/news/articles/2016-08-04/brookfield-renewable-weighing-sale-of-canadian-irish-wind-farms?cmpid=yhoo.headline",
+        "pubDate": "Thu, 04 Aug 2016 15:14:44 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable CEO Says Weighing Sale of Wind Farms"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091139.news",
+        "description": "[Marketwired] - All amounts in US dollars unless otherwise indicated",
+        "guid": "yahoo_finance/963623900",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-announces-second-quarter-104500139.html",
+        "pubDate": "Thu, 04 Aug 2016 10:45:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Announces Second Quarter Results"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091142.news",
+        "description": "[Marketwired] - You are invited to participate in Brookfield Renewable Partners' Second Quarter Conference Call and Webcast on Thursday, August 4, 2016 at 9:00 a.m. to discuss results and current business initiatives ...",
+        "guid": "yahoo_finance/2285166310",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-partners-2016-second-130000944.html",
+        "pubDate": "Tue, 05 Jul 2016 13:00:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Partners 2016 Second Quarter Conference Call and Webcast for Investors and Analysts"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091144.news",
+        "description": "[Marketwired] - Brookfield Renewable Partners L.P. today announced the quarterly dividend on Brookfield Renewable Power Preferred Equity Inc.'s floating-rate Class A Preference Shares, Series 2 .",
+        "guid": "yahoo_finance/292656775",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-announces-quarterly-dividend-104500758.html",
+        "pubDate": "Mon, 04 Jul 2016 10:45:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Announces Quarterly Dividend Rate on Its Series 2 Preference Shares"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091146.news",
+        "description": null,
+        "guid": "yahoo_finance/2138380618",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12f6mruk1/*http://www.fool.com/investing/2016/07/02/3-reasons-to-love-energy-stocks.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Sat, 02 Jul 2016 15:00:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "3 Reasons to Love Energy Stocks"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091146.news",
+        "description": "[Marketwired] - Brookfield Renewable Partners L.P. today announced that the Toronto Stock Exchange accepted a notice filed by Brookfield Renewable Power Preferred Equity Inc. of its intention to renew its normal course ...",
+        "guid": "yahoo_finance/898021322",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-announces-renewal-normal-211500302.html",
+        "pubDate": "Tue, 21 Jun 2016 21:15:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Announces Renewal of Normal Course Issuer Bid for Preferred Shares"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091148.news",
+        "description": "[Marketwired] - All amounts in Canadian dollars unless otherwise noted",
+        "guid": "yahoo_finance/2159160152",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-announces-exercise-over-211000126.html",
+        "pubDate": "Wed, 15 Jun 2016 21:10:00 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Announces Exercise of Over-Allotment Option"
+    },
+    {
+        "contents": "data\\BEP-UN\\20170121-091150.news",
+        "description": "[Marketwired] - All amounts in Canadian dollars unless otherwise noted",
+        "guid": "yahoo_finance/3279245818",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-renewable-completes-cdn-800-130550910.html",
+        "pubDate": "Fri, 10 Jun 2016 13:05:50 GMT",
+        "source": "data\\BEP-UN\\20170121.rss",
+        "title": "Brookfield Renewable Completes CDN$800 Million Equity Offering"
     }
 ]

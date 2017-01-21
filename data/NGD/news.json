@@ -178,5 +178,14 @@
         "pubDate": "Sat, 29 Oct 2016 02:54:59 GMT",
         "source": "data\\NGD\\20170118.rss",
         "title": "Edited Transcript of NGD.TO earnings conference call or presentation 28-Oct-16 1:30pm GMT"
+    },
+    {
+        "contents": "data\\NGD\\20170121-091436.news",
+        "description": null,
+        "guid": "yahoo_finance/2449353339",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12rlnbp3o/*http://marketrealist.com/2017/01/mining-stocks-in-perspective-volatility-and-rsi-in-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 20 Jan 2017 16:31:21 GMT",
+        "source": "data\\NGD\\20170121.rss",
+        "title": "Mining Stocks in Perspective: Volatility and RSI in 2017"
     }
 ]

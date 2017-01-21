@@ -880,5 +880,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:33:17 GMT",
         "source": "data\\POT\\20170120.rss",
         "title": "PotashCorp Expected to Announce 4Q16 Earnings on January 26"
+    },
+    {
+        "contents": "data\\POT\\20170121-090510.news",
+        "description": null,
+        "guid": "yahoo_finance/2466709317",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13mm8cno9/*http://www.capitalcube.com/blog/index.php/potash-corp-of-saskatchewan-inc-value-analysis-torontopot-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 17:10:59 GMT",
+        "source": "data\\POT\\20170121.rss",
+        "title": "Potash Corp. of Saskatchewan, Inc. \u2013 Value Analysis (TORONTO:POT) : January 20, 2017"
     }
 ]

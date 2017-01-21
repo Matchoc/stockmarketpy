@@ -421,5 +421,14 @@
         "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
         "source": "data\\SPB\\20170120.rss",
         "title": "Research Reports Initiated on Utilities Stocks ATCO Ltd., Capital Power, Superior Plus, and Just Energy Group"
+    },
+    {
+        "contents": "data\\SPB\\20170121-091431.news",
+        "description": null,
+        "guid": "yahoo_finance/3024441850",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=139duvj9a/*http://www.capitalcube.com/blog/index.php/superior-plus-corp-value-analysis-torontospb-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 17:17:34 GMT",
+        "source": "data\\SPB\\20170121.rss",
+        "title": "Superior Plus Corp. \u2013 Value Analysis (TORONTO:SPB) : January 20, 2017"
     }
 ]

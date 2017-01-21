@@ -403,5 +403,14 @@
         "pubDate": "Mon, 16 Jan 2017 12:00:00 GMT",
         "source": "data\\MBA\\20170116.rss",
         "title": "CIBT Subsidiary Appoints New Executives to its Management Team"
+    },
+    {
+        "contents": "data\\MBA\\20170121-091521.news",
+        "description": null,
+        "guid": "yahoo_finance/214605470",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=145v0d94p/*http://www.capitalcube.com/blog/index.php/cibt-education-group-inc-mba-ca-earnings-analysis-q1-2017-by-the-numbers-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:29:31 GMT",
+        "source": "data\\MBA\\20170121.rss",
+        "title": "CIBT Education Group, Inc. :MBA-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 20, 2017"
     }
 ]

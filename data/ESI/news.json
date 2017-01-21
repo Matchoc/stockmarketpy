@@ -286,5 +286,14 @@
         "pubDate": "Mon, 02 May 2016 09:20:09 GMT",
         "source": "data\\ESI\\20170119.rss",
         "title": "Ensign Energy Services Inc. - First Quarter 2016 Earnings Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\ESI\\20170121-090524.news",
+        "description": null,
+        "guid": "yahoo_finance/3462024248",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14lj3cou8/*http://www.capitalcube.com/blog/index.php/ensign-energy-services-inc-breached-its-50-day-moving-average-in-a-bullish-manner-esi-ca-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:10:43 GMT",
+        "source": "data\\ESI\\20170121.rss",
+        "title": "Ensign Energy Services, Inc. breached its 50 day moving average in a Bullish Manner : ESI-CA : January 20, 2017"
     }
 ]

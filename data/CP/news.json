@@ -394,5 +394,14 @@
         "pubDate": "Thu, 19 Jan 2017 19:38:29 GMT",
         "source": "data\\CP\\20170120.rss",
         "title": "Meet Paul Hilal, The Activist Investor Taking on CSX"
+    },
+    {
+        "contents": "data\\CP\\20170121-091505.news",
+        "description": null,
+        "guid": "yahoo_finance/2502362836",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=148o0rvq1/*http://www.capitalcube.com/blog/index.php/canadian-pacific-railway-ltd-cp-ca-earnings-analysis-q4-2016-by-the-numbers-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 15:51:22 GMT",
+        "source": "data\\CP\\20170121.rss",
+        "title": "Canadian Pacific Railway Ltd. :CP-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 20, 2017"
     }
 ]

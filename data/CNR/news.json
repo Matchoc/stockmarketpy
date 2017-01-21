@@ -502,5 +502,14 @@
         "pubDate": "Fri, 20 Jan 2017 13:39:01 GMT",
         "source": "data\\CNR\\20170120.rss",
         "title": "Is a Surprise Coming for Canadian National (CNI) This Earnings Season?"
+    },
+    {
+        "contents": "data\\CNR\\20170121-091114.news",
+        "description": null,
+        "guid": "yahoo_finance/3291257661",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bill-gates-stock-portfolio-203833391.html",
+        "pubDate": "Fri, 20 Jan 2017 20:38:33 GMT",
+        "source": "data\\CNR\\20170121.rss",
+        "title": "Bill Gates' Stock Portfolio"
     }
 ]

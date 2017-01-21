@@ -1,0 +1,2553 @@
+
+<!DOCTYPE html>
+
+    
+
+
+
+<!--[if IE 8 ]>    <html lang="en" class="no-js no-css ie8" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js no-css ie9"    > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js no-css"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1024,  user-scalable=no">
+
+    <meta name="referrer" content="unsafe-url">
+    <title>Amaya Stock Gains After Raising Profit Forecast - TheStreet</title>
+    <meta property="fb:app_id" content="458919507482096"/>
+    <meta property="fb:pages" content="112877175855"/>
+    <link rel="apple-touch-icon" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-60x60-1ce2a07f2cd0044d4be697f2c83c3f8e.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-76x76-da7c70c55af776ef18aa89325e5583dd.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-120x120-381bbff5ed011c5d926c91cc7d21ac6d.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-152x152-00d54cad08ba45b77387b39f98eabe3c.png"/>
+    <script type="text/javascript">
+        var Keystone = Keystone || {};
+        Keystone.Cfg = {
+            appName:"thestreet-ng",
+            env:"production",
+            msBaseUrl:"https://www.thestreet.com",
+            tstBaseUrl:"https://www.thestreet.com",
+            betaBaseUrl:"https://www.thestreet.com",
+            commerceBaseUrl:"https://secure2.thestreet.com",
+            enablePromo:"false",
+            upmBaseUrl:"https://secure.thestreet.com",
+            siteName: 'TheStreet',
+            siteCode: 'TSC',
+            adSite: 'tsc-thestreet',
+            cookieDomain: '.thestreet.com',
+            siteUrl: 'http://www.thestreet.com',
+            disqusCommentsUrl: '//thestreet.disqus.com/embed.js',
+            disqusShortName: 'thestreet',
+            twitterHandle: 'TheStreet',
+            yieldMoMobileId: 'ym_977514524868026203',
+            yieldMoTabletId: '',
+            yieldMoMobileIdVideo: 'ym_1159944114266290993',
+            yieldVideoId: 'ym_1159944114266290993',
+            outbrainTextWidgetId: '',
+            outbrainImagesWidgetId: '',
+            outbrainImagesMobileWidgetId: 'MB_3',
+            kalturaPublisher: '105',
+            articleAppMappings: ['story/:id/:number(/:name)', 'slideshow/:id/:number/:name', 'video/:id/:name', 'story/*path'],
+            targetingValues :'' ,
+            ptnTargeting :''
+        };
+
+        Keystone.Tracking = {
+            recentTickers: {}
+        };
+        
+    </script>
+    
+
+    <script>
+/*! LAB.js (LABjs :: Loading And Blocking JavaScript)
+    v2.0.3 (c) Kyle Simpson
+    MIT License
+*/
+;(function(o){var K=o.$LAB,y="UseLocalXHR",z="AlwaysPreserveOrder",u="AllowDuplicates",A="CacheBust",B="BasePath",C=/^[^?#]*\//.exec(location.href)[0],D=/^\w+\:\/\/\/?[^\/]+/.exec(C)[0],i=document.head||document.getElementsByTagName("head"),L=(o.opera&&Object.prototype.toString.call(o.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),q=document.createElement("script"),E=typeof q.preload=="boolean",r=E||(q.readyState&&q.readyState=="uninitialized"),F=!r&&q.async===true,M=!r&&!F&&!L;function G(a){return Object.prototype.toString.call(a)=="[object Function]"}function H(a){return Object.prototype.toString.call(a)=="[object Array]"}function N(a,c){var b=/^\w+\:\/\//;if(/^\/\/\/?/.test(a)){a=location.protocol+a}else if(!b.test(a)&&a.charAt(0)!="/"){a=(c||"")+a}return b.test(a)?a:((a.charAt(0)=="/"?D:C)+a)}function s(a,c){for(var b in a){if(a.hasOwnProperty(b)){c[b]=a[b]}}return c}function O(a){var c=false;for(var b=0;b<a.scripts.length;b++){if(a.scripts[b].ready&&a.scripts[b].exec_trigger){c=true;a.scripts[b].exec_trigger();a.scripts[b].exec_trigger=null}}return c}function t(a,c,b,d){a.onload=a.onreadystatechange=function(){if((a.readyState&&a.readyState!="complete"&&a.readyState!="loaded")||c[b])return;a.onload=a.onreadystatechange=null;d()}}function I(a){a.ready=a.finished=true;for(var c=0;c<a.finished_listeners.length;c++){a.finished_listeners[c]()}a.ready_listeners=[];a.finished_listeners=[]}function P(d,f,e,g,h){setTimeout(function(){var a,c=f.real_src,b;if("item"in i){if(!i[0]){setTimeout(arguments.callee,25);return}i=i[0]}a=document.createElement("script");if(f.type)a.type=f.type;if(f.charset)a.charset=f.charset;if(h){if(r){e.elem=a;if(E){a.preload=true;a.onpreload=g}else{a.onreadystatechange=function(){if(a.readyState=="loaded")g()}}a.src=c}else if(h&&c.indexOf(D)==0&&d[y]){b=new XMLHttpRequest();b.onreadystatechange=function(){if(b.readyState==4){b.onreadystatechange=function(){};e.text=b.responseText+"\n//@ sourceURL="+c;g()}};b.open("GET",c);b.send()}else{a.type="text/cache-script";t(a,e,"ready",function(){i.removeChild(a);g()});a.src=c;i.insertBefore(a,i.firstChild)}}else if(F){a.async=false;t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}else{t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}},0)}function J(){var l={},Q=r||M,n=[],p={},m;l[y]=true;l[z]=false;l[u]=false;l[A]=false;l[B]="";function R(a,c,b){var d;function f(){if(d!=null){d=null;I(b)}}if(p[c.src].finished)return;if(!a[u])p[c.src].finished=true;d=b.elem||document.createElement("script");if(c.type)d.type=c.type;if(c.charset)d.charset=c.charset;t(d,b,"finished",f);if(b.elem){b.elem=null}else if(b.text){d.onload=d.onreadystatechange=null;d.text=b.text}else{d.src=c.real_src}i.insertBefore(d,i.firstChild);if(b.text){f()}}function S(c,b,d,f){var e,g,h=function(){b.ready_cb(b,function(){R(c,b,e)})},j=function(){b.finished_cb(b,d)};b.src=N(b.src,c[B]);b.real_src=b.src+(c[A]?((/\?.*$/.test(b.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!p[b.src])p[b.src]={items:[],finished:false};g=p[b.src].items;if(c[u]||g.length==0){e=g[g.length]={ready:false,finished:false,ready_listeners:[h],finished_listeners:[j]};P(c,b,e,((f)?function(){e.ready=true;for(var a=0;a<e.ready_listeners.length;a++){e.ready_listeners[a]()}e.ready_listeners=[]}:function(){I(e)}),f)}else{e=g[0];if(e.finished){j()}else{e.finished_listeners.push(j)}}}function v(){var e,g=s(l,{}),h=[],j=0,w=false,k;function T(a,c){a.ready=true;a.exec_trigger=c;x()}function U(a,c){a.ready=a.finished=true;a.exec_trigger=null;for(var b=0;b<c.scripts.length;b++){if(!c.scripts[b].finished)return}c.finished=true;x()}function x(){while(j<h.length){if(G(h[j])){try{h[j++]()}catch(err){}continue}else if(!h[j].finished){if(O(h[j]))continue;break}j++}if(j==h.length){w=false;k=false}}function V(){if(!k||!k.scripts){h.push(k={scripts:[],finished:true})}}e={script:function(){for(var f=0;f<arguments.length;f++){(function(a,c){var b;if(!H(a)){c=[a]}for(var d=0;d<c.length;d++){V();a=c[d];if(G(a))a=a();if(!a)continue;if(H(a)){b=[].slice.call(a);b.unshift(d,1);[].splice.apply(c,b);d--;continue}if(typeof a=="string")a={src:a};a=s(a,{ready:false,ready_cb:T,finished:false,finished_cb:U});k.finished=false;k.scripts.push(a);S(g,a,k,(Q&&w));w=true;if(g[z])e.wait()}})(arguments[f],arguments[f])}return e},wait:function(){if(arguments.length>0){for(var a=0;a<arguments.length;a++){h.push(arguments[a])}k=h[h.length-1]}else k=false;x();return e}};return{script:e.script,wait:e.wait,setOptions:function(a){s(a,g);return e}}}m={setGlobalDefaults:function(a){s(a,l);return m},setOptions:function(){return v().setOptions.apply(null,arguments)},script:function(){return v().script.apply(null,arguments)},wait:function(){return v().wait.apply(null,arguments)},queueScript:function(){n[n.length]={type:"script",args:[].slice.call(arguments)};return m},queueWait:function(){n[n.length]={type:"wait",args:[].slice.call(arguments)};return m},runQueue:function(){var a=m,c=n.length,b=c,d;for(;--b>=0;){d=n.shift();a=a[d.type].apply(null,d.args)}return a},noConflict:function(){o.$LAB=K;return m},sandbox:function(){return J()}};return m}o.$LAB=J();(function(a,c,b){if(document.readyState==null&&document[a]){document.readyState="loading";document[a](c,b=function(){document.removeEventListener(c,b,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
+
+</script>
+
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="//s.t.st/assets/thestreet-ngbeta/production/339/img/favicon-ae5ce35f39bb43a2889da8b791eab084.ico"/>
+    
+    <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/339/styles/base-44e832395db73d3bee9039c7a30383ab.css"/>
+    
+        <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/339/styles/article-7dfdaf279dd847587fa730a6db258e9a.css"/>
+    
+
+    <!-- Google Authorship and Publisher Markup -->
+    <link rel="publisher" href="https://plus.google.com/+TheStreet" />
+    
+        <meta name="layout" content="main"/>
+        
+        
+        <meta property="tst:article" content="desktop"/>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html" />
+<link rel="amphtml" href="https://www.thestreet.com/amp/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html">
+
+
+
+    <link rel="next" href="https://www.thestreet.com/story/13960580/2/amaya-stock-gains-after-raising-profit-forecast.html" />
+
+
+<meta name="date" content="2017-01-20T10:55Z"/>
+<meta name="description" content="Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations....AYA"/>
+<meta name="guid" content="13960580"/>
+<meta name="keywords" content="Financial, News, Stock, Market, Headlines, Investments, Quotes, Trading, TheStreet, Tony Owusu, Stocks ,AYA"/>
+<meta name="news_keywords" content="Amaya Inc, AYA, David Baazov, earnings, guidance"/>
+<meta name="author" content="Tony Owusu"/>
+<meta name="section" content="Stocks"/>
+<meta name="contentType" content="article"/>
+
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="&#64;TheStreet"/>
+<meta name="twitter:title" content="Amaya stock gains after raising profit forecast"/>
+<meta name="twitter:description" content="Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations."/>
+<meta name="twitter:url" content="https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html"/>
+
+
+<!-- Open Graph data -->
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Amaya stock gains after raising profit forecast"/>
+<meta property="og:url" content="https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html"/>
+<meta property="og:description" content="Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations."/>
+<meta property="og:site_name" content="TheStreet"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="article:author" content="https://www.thestreet.com/author/1548719/TonyOwusu/all.html"/>
+<meta property="article:section" content="Stocks"/>
+<meta property="article:publisher" content="https://www.facebook.com/TheStreet"/>
+<meta property="article:published_time" content="2017-01-20T10:55Z"/>
+
+    <meta property="article:modified_time" content="2017-01-20T23:30Z"/>
+
+
+    <meta property="article:tag" content="Amaya Inc"/>
+
+    <meta property="article:tag" content=" AYA"/>
+
+    <meta property="article:tag" content=" David Baazov"/>
+
+    <meta property="article:tag" content=" earnings"/>
+
+    <meta property="article:tag" content=" guidance"/>
+
+
+    
+    <meta property="og:image" content="http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg"/>
+    <meta property="og:image:secure_url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg"/>
+    <meta name="twitter:image" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg"/>
+    <meta name="twitter:image:src" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg"/>
+    <meta property="og:image:width" content="600"/>
+    <meta property="og:image:height" content="400"/>
+    <link rel="image_src" href="http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg" />
+
+
+    <script>
+        
+            
+            
+            
+        
+        Keystone.Cfg.targetingValues +="authors=Tony Owusu;";
+        Keystone.Cfg.targetingValues +="article=13960580;";
+        Keystone.Cfg.targetingValues +="storytype=Stocks;";
+        Keystone.Cfg.targetingValues +="section=Consumer;";
+        
+
+    </script>
+
+
+
+<script type="application/ld+json">
+        {
+            "@context": "schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+                 "@type": "WebPage",
+                  "@id": "https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html"
+             },
+             "headline": "Amaya Stock Gains After Raising Profit Forecast",
+            "publisher": {
+                "@type": "Organization",
+                "name": "TheStreet",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://s.t.st/files/tsc/TheStreet_logo.gif",
+                    "width": 80,
+                    "height": 30
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tony Owusu"
+            },
+
+            "genre": "Consumer",
+            "description": "Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations....AYA",
+            "datePublished": "2017-01-20T10:55Z",
+            "dateModified": "2017-01-20T23:30Z",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg",
+              "width": 1200,
+            "height": 800
+                }   ,
+                "keywords": ["Amaya Inc"," AYA"," David Baazov"," earnings"," guidance", "TheStreet"]
+
+
+
+        }
+    </script>
+
+
+
+
+
+    
+    
+    <!--[if lt IE 9]>
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/ie-8ac6b0e7bdda18ee4cf4aedc016d17c8.js" type="text/javascript" ></script>
+    <![endif]-->
+    
+
+<!--[if lt IE 10]>
+<script>requestAnimationFrame = window.requestAnimationFrame;</script>
+ <![endif]-->
+<script type='text/javascript'>
+    var forwardSlash = '/';
+ var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+    <script type="text/javascript">
+        (function (){
+            window.advBidxc = window.advBidxc || {};
+            window.advBidxc.renderAd = function (){};
+            window.advBidxc.startTime = new Date().getTime();
+            window.advBidxc.timeout = 300;
+            window.advBidxc.version = 3.1;
+            window.advBidxc.customerId = "8CU80A91U"; //Media.net Customer ID
+            function loadScript(tagSrc) {
+                if (tagSrc.substr(0, 4) !== 'http') {
+                    var isSSL = 'https:' == document.location.protocol;
+                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+                }
+                var scriptTag = document.createElement('script'),
+                    placeTag = document.getElementsByTagName("script")[0];
+                scriptTag.type = 'text/javascript';
+                scriptTag.async = true;
+                scriptTag.src = tagSrc;
+                placeTag.parentNode.insertBefore(scriptTag, placeTag);
+            }
+            function loadGPT(){
+                if(!window.advBidxc.isAdServerLoaded){
+                    loadScript('//www.googletagservices.com/tag/js/gpt.js');
+                    window.advBidxc.isAdServerLoaded = true;
+                }
+            }
+
+            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+
+            var isSSL = 'https:' == document.location.protocol;
+            var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid='  + window.advBidxc.customerId + '&version=' +    window.advBidxc.version + (isSSL ? '&https=1' : '');
+            loadScript(mnSrc);
+        })();
+    </script>
+
+
+
+    <script>
+
+    var Keystone = Keystone || {};
+
+    Keystone.onLibraryReady = function(libName, callback) {
+        var that = this;
+        var args = [].slice.call(arguments, 2);
+
+        document.addEventListener(libName + 'Loaded', function(e) {
+            if (typeof callback === 'function') {
+                callback.apply(that, args);
+            }
+        });
+    };
+
+
+    // Disqus
+    var disqus_identifier = '';
+
+    // GMT tracking
+    var dataLayer = [];
+
+
+</script>
+
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="robots" content="NOODP"/>
+    <!-- for google -->
+    <meta name="robots" content="NOYDIR"/>
+    <!-- for yahoo -->
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/essential-f8f611c27280129ec5fb761f346cc32d.js" type="text/javascript" ></script>
+</head>
+<body>
+
+
+<style>
+#welcomeOverlay  {
+    margin: 0px;
+    padding:0px;
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100000000;
+}
+
+
+#welcomeOverlay #adSection {
+    clear: both;
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#adSection .adDiv {
+    height: 100%;
+    width:auto;
+    min-width: 300px;
+    max-width: 640px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.headerRight{
+    color: #fff;
+}
+#adSection .adTitle {
+    padding: 10px 0;
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+}
+#welcomeOverlay_overlay {
+    background: #1d1d1d;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+</style>
+<div id="welcomeOverlay">
+    <div id="welcomeOverlay_overlay"></div>
+    <div id="adSection">
+        <div class="adDiv">
+            <div class="adTitle">
+                <span id="ctSite"><a href="javascript:Keystone.Utils.WelcomeOverlayUtil.remove();" class="headerRight">Continue to site &gt;&gt;</a> </span>
+                <span id="ctSiteCountDown" class="headerRight"></span>
+            </div>
+            <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-ad-welcome-overlay" data-ad-sizes="300,250|640,480|600,400|1,1"  data-ad-preload="true" data-ad-targeting="ptn=welcome"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+        </div>
+    </div>
+</div>
+
+
+<style>
+#welcomePromoOverlay  {
+    margin: 0px;
+    padding:0px;
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100000000;
+}
+
+
+#welcomePromoOverlay_overlay {
+    background: #1d1d1d;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+}
+#welcomePromoOverlay #nonadSection {
+    clear: both;
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div id="welcomePromoOverlay">
+    <div id="welcomePromoOverlay_overlay"></div>
+    <div id="nonadSection">
+             <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen width="640" height="380"  scrolling="no" frameborder="0"  id="promoiframe"></iframe>
+    </div>
+</div>
+
+
+
+<div class="site-wrapper">
+
+    <div id="form_overlay_opacity"></div>
+<div id="form_frame_holder"></div>
+
+    
+        
+        
+    
+    
+        
+        
+    
+
+
+    <!--[if lte IE 9]>
+    <div id="browsehappy" class="browsehappy">
+        <div class="browsehappy-content">
+            <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>You are using an <strong>outdated</strong> browser.
+            Please <a href="http://browsehappy.com/" rel="external" target="_blank">upgrade your browser</a> to improve your experience.
+        </div>
+        <span id="browsehappy-close" class="browsehappy-close fa fa-times" title="Close"></span>
+    </div>
+    <![endif]-->
+
+    <div class="print-header visible-print">
+        <p><img src="//s.t.st/assets/thestreet-ngbeta/production/339/img/logo_tst-1cb277d6a15a862f60d473a49043b423.svg" /></p>
+    </div>
+    <div class="site-header">
+        
+            
+
+    <div class="navbar navbar-fixed-top main-nav main-nav--desktop " role="navigation">
+
+        
+        <div id="header-wrap">
+            <div class="main-nav--top-row" >
+                <div class="main-nav__full-nav">
+                    <div class="row hidden-xs">
+                        <div class="col-md-12">
+                            <ul class="main-nav__user-links">
+                                <li class="main-nav__user-link"><a href="#" id="login" class="uppercase" title="Login">Login</a></li>
+                                <li class="main-nav__user-link main-nav__user-link--account"><i class="fa fa-user"></i> <a id="main_nav_myaccount" class="uppercase" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&url=https://www.thestreet.com/index.html&_ga=1.141642162.1881260853.1456123377" title="My Account">My Account</a></li>
+                                <li class="main-nav__user-link main-nav__user-link--alerts"><a id="getAlerts" href="/alerts" class="uppercase" title="Get Alerts">Get Alerts <i class="fa fa-angle-down"></i></a>
+                                    <div id="main-nav__alerts-dropdown" class="arrow-box main-nav__alerts-dropdown" style="display: none;">
+                                        
+                                        <div class="shareDiv">
+                                            <div class="main-nav__alerts-dropdown__heading-block">
+                                                <a id="alerts" class="main-nav__alerts-dropdown__heading" href="/alerts" title="TheStreet Alerts"><i class="fa fa-plus"></i> TheStreet Alerts</a>
+                                            </div>
+                                            <div class="social-links social-links--menu">
+                                                <a id="main_nav_facebook" target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links__item social-links__item--article fa fa-facebook"></i></a>
+                                                <a id="main_nav_google" target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links__item social-links__item--article fa fa-google-plus"></i></a>
+                                                <a id="main_nav_twitter" target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links__item social-links__item--article fa fa-twitter"></i></a>
+                                            </div>
+                                            <div class="main-nav__alerts-dropdown__email">
+                                                <div class="connectTST newsletterDiv">
+                                                    <h4>Email Newsletters</h4>
+                                                    <form class="connectFORM" name="newsletter-form">
+                                                        <p><label><input type="checkbox" name="products" value="E-TAB" id="E-TAB"> In Case You Missed It</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TBB" id="E-TBB"> Before the Bell</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TBY" id="E-TBY"> Jim Cramer's Daily Booyah</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-MDB" id="E-MDB"> Midday Bell</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TTT" id="E-TTT"> Top 10</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-WAL" id="E-WAL"> Winners &amp; Losers</label></p>
+                                                        <div class="nlmessage-container">
+                                                            <span class="nlmessage"></span>
+                                                            <span class="nlerror"></span>
+                                                        </div>
+                                                        <button id="newsletter_submit" type="button" class=" btn newsletterSubmit">Register For Newsletters</button>
+                                                    </form>
+                                                </div>
+                                            </div><!-- end of connectTST -->
+                                        </div><!-- end of shareDiv class-->
+                                    </div>
+                                </li>
+                                
+                                <li class="main-nav--search">
+                                    <div id="searchDesktopNav" class="search search--desktop-nav-top">
+                                        <div id="search-form" class="search__form search__form--desktop-nav-top">
+                                            
+                                            <form action="/find/results" method="get" role="search" class="noAutocomplete" >
+                                                <input type="text" name="q" id="select-term" placeholder="Search keyword" class="form-control form-control-search-text search__form--form repositories typeahead" data-position="fixed" data-tickers="true" data-authors="true" data-news="true" data-categories="true" data-zindex="1031" title="Search" required="required" maxlength="150" value="" />
+                                            </form>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="search__btn search__btn--desktop-top" id="nav-search--desktop">
+                                            <a id="main_nav_search" href="#" class="search-link" aria-label="Search" role="button"><span class="search__icon"></span></a>
+                                        </div>
+                                    </div>
+                                    <div id="searchDesktopNavQuote" class="search search--desktop-nav-top">
+                                        <div id="search-form-quote" class="search__form search__form--desktop-nav-top">
+                                            
+                                            <form action="/find/results" method="get" role="search" >
+                                                <input type="text" name="q" id="searchQuote" placeholder="Search symbol" class="form-control form-control-search-text search__form--form repositories typeahead" data-tickers="true" data-authors="false" data-news="false" data-categories="false" data-zindex="1031" data-position="fixed" data-target="main_nav_autocomp_quote" data-width="300" title="Search" required="required" maxlength="10" value="" />
+                                                <input type="hidden" name="redirectQuote" value="true" id="redirectQuote" />
+                                            </form>
+                                            <div id="main_nav_autocomp_quote"></div>
+                                        </div>
+                                        
+                                        <div class="search__btn search__btn--desktop-top" id="nav-search-quote--desktop">
+                                            <a href="#" class="search-link" aria-label="Search" role="button"><span class="search__icon"></span></a>
+                                        </div>
+                                    </div>
+                                </li>
+                                
+                                    
+                                
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-nav__full-nav" >
+                <div class="row">
+                    
+                    <div class="main-nav__content-container col-md-12">
+                        <div class="main-nav__content" >
+                            <header class="main-nav__header main-nav__header--desktop">
+                                <div class="inner">
+                                    <a id="main_nav_logo_desktop" class="main-nav__logo main-nav__logo--desktop" href="/" title="TheStreet"></a>
+                                    <nav id="nav-items--desktop" class="collapse navbar-collapse main-nav__items main-nav__items--desktop">
+                                        
+                                            
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+<ul class="nav navbar-nav main-nav__links">
+    <li class="main-nav__promo">
+        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-global-nav-premium">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    </li>
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="action_alerts_plus" href="/k/aap/_tscnav/index.html?cm_ven_int=navaapnew">Action Alerts PLUS</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu">
+                        <ul>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/k/aap/_tscnav/portfolio.html?cm_ven_int=subnavaap" id="action_alerts_plus_1" title="Charitable Trust Portfolio">Charitable Trust Portfolio</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="action_alerts_plus_2" title="Jim Cramer's Best Stocks of 2017">Jim Cramer's Best Stocks of 2017</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/k/aap/_tscsubnavnew/" id="action_alerts_plus_3" title="Most Recent Trade Alert">Most Recent Trade Alert</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033225&cm_ven_int=subnavaap" id="action_alerts_plus_4" title="25 Investing Rules">25 Investing Rules</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033226&cm_ven_int=subnavaap" id="action_alerts_plus_5" title="10 Trading Commandments">10 Trading Commandments</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/story/madmoneywrap.html?cm_ven_int=subnavcramer" id="action_alerts_plus_6" title="Mad Money Recap">Mad Money Recap</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="real_money" href="http://realmoney.thestreet.com/">Real Money</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu">
+                        <ul>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="real_money_1" title="Jim Cramer's Best Stocks of 2017">Jim Cramer's Best Stocks of 2017</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033993" id="real_money_2" title="25 Rules of investing">25 Rules of investing</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033994" id="real_money_3" title="10 Commandments">10 Commandments</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="http://www.thestreet.com/topic/48661/stressed-out.html" id="real_money_4" title="Stressed Out Stocks">Stressed Out Stocks</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="http://realmoney.thestreet.com/authors/jim-cramer?cm_ven_int=subnavcramer" id="real_money_5" title="Cramer's Blog">Cramer's Blog</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+        
+        
+    <li class="main-nav__item">
+        <a class="main-nav__link" id="investing" href="/investing">Investing</a>
+    </li>
+
+
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="much_more" href="#">Much More</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu main-nav__flyout--full">
+                        <ul>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/cramer-news" id="much_more_1" title="Cramer">Cramer</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/mad-money" id="much_more_2" title="Mad Money">Mad Money</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/biz-tv" id="much_more_3" title="BizTV">BizTV</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/election-2016" id="much_more_4" title="Election 2016">Election 2016</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/etfs" id="much_more_5" title="ETFs">ETFs</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/financial-advisor-center" id="much_more_6" title="Financial Advisor Center">Financial Advisor Center</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/futures" id="much_more_7" title="Futures">Futures</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/how-to-spend" id="much_more_8" title="How to Spend">How to Spend</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/banking" id="much_more_9" title="Banking">Banking</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/biotech" id="much_more_10" title="Biotech">Biotech</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/markets" id="much_more_11" title="Markets">Markets</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/options" id="much_more_12" title="Options">Options</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/personal-finance" id="much_more_13" title="Personal Finance">Personal Finance</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/retail" id="much_more_14" title="Retail">Retail</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/personal-finance/retirement" id="much_more_15" title="Retirement">Retirement</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/tech" id="much_more_16" title="Tech">Tech</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/stock-picks" id="much_more_17" title="Stock Picks">Stock Picks</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/video" id="much_more_18" title="Video">Video</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/latest-news" id="much_more_19" title="Latest News">Latest News</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+</ul>
+
+                                        
+                                    </nav>
+                                    <div id="main-nav_subscribe" class="main-nav__subscribe hidden-xs">
+                                        <button id="subscribe_premium" type="button" class=" btn btn-default btn-lg">Subscribe</button>
+                                        <ul id="tst_topnav_premiumMenu" class="main-nav__subscribe__dropdown">
+                                            <div class="main-nav__subscribe__services__block">
+                                                <div class="row">
+                                                    <div class="col-sm-7">
+                                                        <h3 class="main-nav__subscribe__header">SUBSCRIPTION SERVICES</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-6 no-gutter-right">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_1" href="https://www.thestreet.com/k/aap/_tscnavnew/" title="Action Alerts PLUS">Action Alerts PLUS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_2" href="https://www.thestreet.com/k/aao/_tscnavnew/" title="Action Alerts OPTIONS">Action Alerts OPTIONS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_3" href="https://www.thestreet.com/k/dst/_tscnavnew/" title="Daily Swing Trade">Daily Swing Trade</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_4" href="https://www.thestreet.com/k/dsa/_tscnavnew/" title="Dividend Stock Advisor">Dividend Stock Advisor</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_5" href="https://www.thestreet.com/k/bos/_tscnavnew/" title="Growth Seeker">Growth Seeker</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_6" href="https://www.thestreet.com/k/qr/_tscnavnew/" title="Quant Ratings">Quant Ratings</a></li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="col-sm-6">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_7" href="http://realmoney.thestreet.com" title="Real Money">Real Money</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_8" href="http://realmoneypro.thestreet.com" title="Real Money Pro">Real Money Pro</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_9" href="https://www.thestreet.com/k/su/_tscnavnew/" title="Stocks Under $10">Stocks Under $10</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_10" href="https://www.thestreet.com/k/ts/_tscnavnew/" title="Top Stocks">Top Stocks</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_11" href="https://www.thestreet.com/k/tf/_tscnavnew/" title="Trifecta Stocks">Trifecta Stocks</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-4 col-sm-offset-1">
+                                                        <h3 class="main-nav__subscribe__header">SUBSCRIPTION BUNDLES</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-12">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_1" href="https://www.thestreet.com/k/pp/_newlogin/" title="Portfolio PLUS">Portfolio PLUS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_2" href="https://www.thestreet.com/k/rmpp/_newlogin/" title="Real Money Pro Portfolio">Real Money Pro Portfolio</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_3" href="https://www.thestreet.com/k/ch/_newlogin/" title="Chairman's Club">Chairman's Club</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <h3 class="main-nav__subscribe__header vert-cushion-top-sm">FREE</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-12">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_free_1" href="/" title="TheStreet">TheStreet</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_free_2" href="https://www.mainstreet.com/" title="MainStreet">MainStreet</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="row">
+                                                    <div class="main-nav__subscribe__compare__block">
+                                                        <a id="compareLink" href="https://www.thestreet.com/staticFull/special-offers.html?cm_ven_int=hpservicestab" title="Compare All Subscription Services"><span>Compare All Subscription Services</span> <span class="arrowIcon"></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="main-nav__subscribe__premium-preview__block">
+                                                <h4 class="main-nav__subscribe__header main-nav__subscribe__header--preview">Real Money</h4>
+                                                <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - NEWS-GRID - NUMBER OF ARTICLES ==> 1  ***************  -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+        <div class="simple-list simple-list--feature" data-theme="simpleListFeatured">
+    
+        
+        <ul class="simple-list__list">
+            <li class="simple-list__item">
+                <a id="simple-list-real-money-top" class="simple-list__object-wrap " href="http://realmoney.thestreet.com/articles/01/20/2017/apples-1-billion-lawsuit-against-qualcomm-has-be-music-intels-ears">
+                
+                    
+                    <div class="simple-list__image-wrap">
+                        <img width="300" height="200" class="img-responsive simple-list__image simple-list__image--large " src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a1df380c-ac15-11e6-b915-6dd3d0350643_300x200.png" alt="Apple's $1 Billion Lawsuit Against Qualcomm Has to be Music to Intel's Ears" />
+                        
+                        <i class="fa fa-play"></i>
+                    </div>
+                    
+                
+                    <h3 class="simple-list__item-headline">Apple's $1 Billion Lawsuit Against Qualcomm Has to be Music to Intel's Ears</h3>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+
+
+
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY - NEWS-GRID  - NUMBER OF ARTICLES ==> 1     ************** -->
+<!-- *************************************************************************************************************** -->
+
+                                            </div>
+                                        </ul>
+                                    </div>
+                                    
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            
+                                        
+                                        
+                                        
+                                            
+                                        
+                                    
+                                </div>
+                            </header>
+                        </div>
+                    </div>
+                    <div class="main-nav__markets">
+                        <!-- *************************************************************************************************************** -->
+                     <!-- TICKER - COMPACT - NUMBER OF TICKERS ==> 3 -->
+                     <!-- *************************************************************************************************************** -->
+                     <!-- *************************************************************************************************************** -->
+                     <!-- TICKER - COMPACT THEME -->
+                     <!-- *************************************************************************************************************** -->
+<section class="market-data refresh-market-data market-indices market-indices--horizontal-list main-nav" id="ticker-39250804-0312-47b9-ba33-f13ba05f806f">
+    <div class="market-ad">
+        <!-- *************************************************************************************************************** -->
+        <!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+        <!-- *************************************************************************************************************** -->
+        <div   data-type="gpt-ad" class="googleAd center-text   top-buffer-sm bottom-buffer-sm  "
+               id="ad-div-1999120946"
+               ad-sizes="300,26"
+               data-ad-sizes="300,26"
+               data-ad-targeting="ptn=marketdata"
+               data-ad-label="marketdata"
+               data-ad-zone-override=""
+               data-custom-size-mapping=""
+               data-height=""
+               data-width=""
+               data-devices=""
+               data-is-placeholder="false"
+               data-ad-defer="false"> </div>
+        <!-- *************************************************************************************************************** -->
+        <!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+        <!-- *************************************************************************************************************** -->
+    </div>
+    <ul class="market-indices__list market-indices__list--main-nav">
+        <li class="market-indices__list-item market-indices__list-item--horizontal">
+            <div class="market-date-time market-ticker-data" data-ticker="^DJI">
+                <span class=" market-data-item" data-date-time-as-string="" data-field-name="dateTimeAsString"/>
+
+            </div>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^DJI market-ticker-data" data-ticker="^DJI">
+            <a href="/quote/%5EDJI.html" id="main_nav_djia" class="ticker-symbol market-data-item" data-symbol="^DJI" data-field-name="symbol" title="DJIA">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    DJIA
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^GSPC market-ticker-data" data-ticker="^GSPC">
+            <a href="/quote/%5EGSPC.html" id="main_nav_gspc" class="ticker-symbol market-data-item" data-symbol="^GSPC" data-field-name="symbol" title="S&amp;P 500">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    S&amp;P 500
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav  ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^IXIC market-ticker-data" data-ticker="^IXIC">
+            <a href="/quote/%5EIXIC.html" id="main_nav_ixic" class="ticker-symbol market-data-item" data-symbol="^IXIC" data-field-name="symbol" title="NASDAQ">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    NASDAQ
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav  ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+
+    </ul>
+    <div class="market-link"><a href="/markets" id="main_nav_markets_today">Markets Today</a></div>
+</section>
+
+                    </div>
+                    <div id="market-indices__detail" class="market-indices__detail"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="row main-nav__header-ad">
+    <div class="col-md-12">
+        
+        <div class="sticky-top-ad-spacer" id="sticky-top-ad-spacer">
+            <div class="sticky-top-ad-wrap start-as-sticky" id="sticky-top-ad-wrap">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text  center-block text-center " id="ad-div-top" data-ad-sizes="970,250|970,90|728,90"  data-ad-preload="" data-ad-targeting="ptn=banner-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    </div>
+    <div class="container-fluid container-sticky" id="outmost-container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="container-fluid container-content container-content--cmstagsarticle" id="container">
+                    <div class="row">
+                        <div id="pendingWrapper">
+                            <div id="pendingMessage"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        
+                            <div id="hiddenDash" style="display: none;">
+                                <div id="dashboard" class="dashboard">
+                                </div>
+                            </div>
+                            <div id="mainContent" class="col-md-12">
+                                
+        <div class="row">
+            <div class="col-md-12">
+                
+        <div id="article-app" itemscope itemtype="http://schema.org/NewsArticle">
+            <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html"/>
+        
+
+<div class="layout">
+    
+        
+            
+                <div class="row">
+    
+        
+
+
+    
+        <div class="col-md-12 col-sm-12 widget-block">
+            
+                
+                
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-breaking-news-alert-story">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                
+            
+        </div>
+    
+
+
+
+    
+</div>
+
+            
+                <div class="row">
+    
+        
+
+
+    
+        <div class="col-md-12 col-sm-12 widget-block">
+            
+                
+                
+                    <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - DEFAULT - NUMBER OF ARTICLES ==> 1********************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES ==> 1********************** -->
+<!-- *************************************************************************************************************** -->
+<style type="text/css">
+.sticky-block {
+    padding: 0 15px;
+}
+</style>
+
+    
+    
+    
+    <div class="row article-header-row article-standard-header-row">
+        <div class="col-md-12">
+            
+
+
+<header class="article__header article-standard__header" id="article-header">
+    <h1 class="article__headline article-standard__headline" itemprop="headline">Amaya Stock Gains After Raising Profit Forecast</h1>
+    <h2 class="article__callout article-standard__callout" itemprop="description">
+        <i id="add-bookmark-13960580" onclick="Keystone.UserWatchlistUtil.bookmarkStory('/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html', 'Amaya Stock Gains After Raising Profit Forecast', '13960580')"  class="fa fa-bookmark"></i>
+        Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations.</h2>
+    <div class="article__author-wrap article-standard__author-wrap">
+        <div class="article__byline article-standard__byline">
+            <div class="row">
+                <div class="col-md-12">
+                
+                
+                    
+                    <a href="/author/1548719/tony-owusu/all.html">
+                        <img class="article__author-image article__author-image--small article__byline-item article-standard__author-image article-standard__author-image--small article-standard__byline-item" src="//s.thestreet.com/files/tsc/v2008/authorHeadshots/1548719_187x169.gif" onerror="this.style.display='none';"  alt="Tony Owusu" />
+                    </a>
+                    
+                    <div class="article__author-name article__byline-item article-standard__author-name article-standard__byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <a href="/author/1548719/tony-owusu/all.html" itemprop="url" rel="author" class="article__author-link">
+                            <span itemprop="name">Tony Owusu</span>
+                        </a>
+                    </div>
+                    
+                    <a href="" class="follow article__byline-item article__author-follow article-standard__byline-item article-standard__author-follow" data-follow-key="authorId" data-follow-val="1548719" data-follow-display="Tony Owusu" alt="Follow Tony Owusu with alerts from TSC" title="Follow Tony Owusu with alerts from TSC"></a>
+                    
+                
+                
+                    <div class="article__publish-date  article-standard__publish-date article-standard__byline-item article__byline-item ">
+                        <time itemprop="datePublished" datetime="2017-01-20T10:55Z">Jan<span> </span>20,<span> </span>2017<span> </span>10:55<span> </span>AM<span> </span>EST</time>
+                            <meta itemprop="dateModified" content="2017-01-20T23:30:42.000Z"/>
+                    </div>
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit no-buffer article__byline-item article__subscribe-button    "
+       id="promo-div-article-byline">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text  no-buffer " id="ad-div--221283849" data-ad-sizes="120,30"  data-ad-preload="" data-ad-targeting="ptn=byline"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+<link itemprop="url" href="https://www.thestreet.com/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html" />
+<meta itemprop="articleSection" content="Stocks"/>
+<meta itemprop="keywords" content=""/>
+<meta itemprop="inLanguage" content="en-US"/>
+
+    <meta itemprop="pageStart" content="1"/>
+    <meta itemprop="pageEnd" content="2"/>
+
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="TheStreet"/>
+    <link itemprop="url" href="http://www.thestreet.com" />
+    <div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+        <link itemprop="url" href="//s.t.st/assets/thestreet-ngbeta/production/339/img/logo-2e1ae2285c07f3c95704e2af86115d3e.png" />
+    </div>
+</div>
+</header>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 article__main-container article-standard__main-container">
+            <main class="main-content--article main-content--article-article" id="article-main" role="main">
+                
+
+
+
+<article class="article article-standard" id="article-13960580" role="article">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="article__top article-standard__top">
+                
+                    
+                        
+
+
+
+    
+
+    
+        <figure class="article__figure " itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+            <img width="600" height="400" class="article__image  "  src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_600x400.jpg" alt="" />
+            <figcaption class="article-image-caption"></figcaption>
+            <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_600x400.jpg">
+            <meta itemprop="width" content="600"/>
+            <meta itemprop="height" content="400"/>
+        </figure>
+    
+
+
+
+                    
+                
+            </div>
+        </div>
+    </div>
+    <div class="row row--social_links">
+        <div class="col-md-12 col-lg-1">
+            <div class="social-links social-links--article social-links--article-standard" id="share-widget">
+    <span title="Share on Google+"><i class="social-links__item social-links__item--article  social-links__item--article-standard fa fa-google-plus share sharebtn s_plus" role="button"></i></span>
+    
+    <span title="Share on Twitter"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-twitter share sharebtn s_twitter" role="button"></i></span>
+    <span title="Share on Facebook"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-facebook share sharebtn s_facebook" role="button"></i></span>
+    <span title="Share on LinkedIn"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-linkedin share sharebtn s_linkedin" role="button"></i></span>
+    <span title="Share on Reddit"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-reddit share sharebtn s_reddit" role="button"></i></span>
+    <span title="Share on Email"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-envelope share sharebtn s_email no-popup" role="button"></i></span>
+    
+    <span class="hidden-xs" title="Print"><i class="social-links__item social-links__item--article  social-links__item--article-standard article-print-btn fa fa-print share sharebtn s_print no-popup" role="button"></i></span>
+    
+</div>
+
+        </div>
+        <div class="col-md-12 col-lg-11">
+            <div class="article__print article__print-before visible-print">
+                <div class="article__body-print"></div>
+            </div>
+            <div class="article__page article-standard__page">
+                <div class="article-standard__body article__body" itemprop="articleBody"><div data-paragraph-count="7" class="placement-fixed" id="div-placement-fixed-0.43715868977241845" data-total-word-count="279" data-article-has-video="false" data-article-fixed-placement="articleTop"></div><div id="div-placement-fixed-0.8025721746771736" class="placement-fixed" data-page-count="1" data-page-word-count-total="264" data-total-page-count="2" data-article-fixed-placement="pageTop"></div> <div id="div-placement-para-0.6452808307881569" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="46" data-page-paragraph-middle="false" data-page-word-count-so-far="0" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="1" data-article-word-count-so-far="0" data-article-word-count-total="279" data-article-paragraph-count-so-far="1" data-article-paragraph-count-total="7"></div><p><strong>Amaya </strong> (<a href="/quote/AYA.html">AYA</a>) , the Canadian online gaming company, raised its fiscal 2016 full year profit forecast to between $364 million and $374 million from between $344 million and $354 million, following a strong December quarter. The shares were up 3% to $13.70 in mid-Friday morning trading.&nbsp;</p> <div id="div-placement-para-0.07812705816851606" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="44" data-page-paragraph-middle="false" data-page-word-count-so-far="46" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="2" data-article-word-count-so-far="46" data-article-word-count-total="279" data-article-paragraph-count-so-far="2" data-article-paragraph-count-total="7"></div><p>Amaya raised its fiscal year revenue estimates to between $1.153 billion and $1.158 billion from its previous estimate between $1.137 billion and $1.157 billion, while also raising its EBITDA guidance to between $521 million and $526 million from between $500 million and $510 million.&nbsp;</p> <div id="div-placement-para-0.19437847749708326" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="38" data-page-paragraph-middle="false" data-page-word-count-so-far="90" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="3" data-article-word-count-so-far="90" data-article-word-count-total="279" data-article-paragraph-count-so-far="3" data-article-paragraph-count-total="7"></div><p>CEO Rafi Ashkenazi credited the company's strategy to improve its poker ecosystem for recreational players while also leveraging its competitive advantage as the largest online poker company in the world to garner new customers for the strong results.</p> <div id="div-placement-para-0.9800810928957643" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="52" data-page-paragraph-middle="true" data-page-word-count-so-far="128" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="4" data-article-word-count-so-far="128" data-article-word-count-total="279" data-article-paragraph-count-so-far="4" data-article-paragraph-count-total="7"></div><p>"We anticipate that 2016 will be a record year of revenues for Amaya," said Ashkenazi. "We also saw better than expected fourth quarter results from our casino offering, operational excellence program and a successful re-launch in Portugal, all while continuing to take an efficient and measured approach to marketing our product offerings."</p> <div id="div-placement-para-0.9353836602174297" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="26" data-page-paragraph-middle="false" data-page-word-count-so-far="180" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="5" data-article-word-count-so-far="180" data-article-word-count-total="279" data-article-paragraph-count-so-far="5" data-article-paragraph-count-total="7"></div><p>Last year was a tumultuous year for the company's management after former CEO David Baazov's $6.7 billion bid to purchase the company fell through in December.</p> <div id="div-placement-para-0.9484490211511741" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="57" data-page-paragraph-middle="false" data-page-word-count-so-far="206" data-page-word-count-total="264" data-page-paragraph-count-total="6" data-page-paragraph-count-so-far="6" data-article-word-count-so-far="206" data-article-word-count-total="279" data-article-paragraph-count-so-far="6" data-article-paragraph-count-total="7"></div><p>On November 14, Baazov proposed to purchase the Pointe-Claire, Quebec-based company for about C$24 per share ($22.09 based on mid-November conversion rates) following negotiations with the company's board. The bid, which valued Amaya's Toronto-listed equity at about C$3.4 billion based on 145 million shares outstanding, was an increase from Baazov's February 1 bid of C$21 per share.</p> <div data-paragraph-count="7" class="placement-fixed" id="div-placement-fixed-0.8274330339322605" data-total-word-count="279" data-article-has-video="false" data-article-fixed-placement="pageEnd"></div></div>
+                <div class="article__arrow-next article__arrow-next--hidden article-standard__arrow-next article-standard__arrow-next--hidden" id="next-page-arrow" title="Next page"><i class="fa fa-chevron-right"></i></div>
+            </div>
+            <footer class="article__footer article-standard__footer"></footer>
+            <div class="article__bottom article-standard__bottom"> </div>
+            
+
+
+
+
+
+    <div class="article__read-more ">
+
+        <!-- BEGIN ARTICLE PAGE NAVIGATION -->
+        <nav class="article__pagination" id="article-pagination">
+            <div class="article__pagination-wrap">
+                <div class="article__pagination-item">
+                    <a id="prev-page" class="nav-link article__pagination-link article__pagination-link--prev article__pagination-link--prev-disabled" href="" data-prev-page aria-label="Previous" title="Previous page">Prev</a>
+                    <span id="page-indicator" class="article__pagination-position--numeric">0 of 2</span>
+                    <a id="next-page" class="nav-link article__pagination-link article__pagination-link--next " href="/story/13960580/2/amaya-stock-gains-after-raising-profit-forecast.html" data-next-page aria-label="Next" title="Next page">Next</a>
+                </div>
+            </div>
+        </nav>
+        <!-- END ARTICLE PAGE NAVIGATION -->
+
+    </div>
+
+
+            <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--679391446" data-ad-sizes="1,1"  data-ad-preload="" data-ad-targeting="ptn=pxarticle"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            <!-- ARTICLE PRINT AFTER -->
+            <div class="article__print article__print-after visible-print">
+                <div class="article__body-print"></div>
+            </div>
+            <!-- ARTICLE PRINT AFTER -->
+        </div>
+    </div>
+    
+</article>
+<script defer>
+    document.addEventListener('jQueryLoaded', function () {
+        if (typeof $LAB !== 'undefined') {
+            $LAB.script(function () {
+                return '//s.t.st/assets/thestreet-ngbeta/production/339/js/article/article-c1248a4585f29fea1206b05dabd0a9f2.js';
+            });
+        }
+    });
+</script>
+
+
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit top-buffer-xl   "
+       id="promo-div-article-bottom">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                <!-- START PREMIUM MAIN-WELL PROMO -->
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 widget-block">
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-global-footer-premium-main-well">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    </div>
+                </div>
+                <!-- END PREMIUM MAIN-WELL PROMO -->
+                <div class="row top-buffer-sm">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="article__promo-wrap"><div class="article__promo" id="article-promo"></div></div>
+                        
+                            <div class="row top-buffer-sm">
+                                <div class="col-md-12">
+                                    
+                                    
+                                        
+                                    
+                                    <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 4 *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    
+    
+    
+
+
+
+    <div class="row news-list">
+
+        
+        
+        
+        <section class="col-xs-12 news-list__inner-wrap">
+
+            <h2 class="section-headline" style="border-top:1px solid #ccc; padding-top:15px;">If you liked this article you might like</h2>
+            
+
+            <div class="news-list__story-list">
+                <div>
+
+                    
+                        
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13933326">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-1" href="/video/13933326/david-baazov-withdraws-6-7-billion-bid-for-amaya.html" data-link-type="suggested" data-story-id="13933326" class="news-list__object-wrap news-list__object-wrap--video"
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0-7a9vkl2u_300x200.jpg" width="135" height="90" class="news-list__image news-list__image--small"  alt="David Baazov Withdraws $6.7 Billion Bid for Amaya" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0-7a9vkl2u_300x200.jpg">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-1" data-link-type="suggested" data-story-id="13933326" href="/video/13933326/david-baazov-withdraws-6-7-billion-bid-for-amaya.html">
+                                            <h3 itemprop="headline" class="news-list__headline ">David Baazov Withdraws $6.7 Billion Bid for Amaya</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">Amaya Gaming dropped after founder and former CEO David Baazov withdrew his offer due to a rising price tag.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="Tony Owusu" href="/author/1548719/tony-owusu/all.html"><span itemprop="name">Tony Owusu</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2016-12-20T16:31Z">Dec<span> </span>20,<span> </span>2016<span> </span>4:31<span> </span>PM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2016-12-20T16:31Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2016-12-20T16:31Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13932849">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-2" href="/story/13932849/1/former-amaya-founder-ends-bid-for-poker-stars-full-tilt-owner.html" data-link-type="suggested" data-story-id="13932849" class="news-list__object-wrap news-list__object-wrap--video"
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_300x200.jpg" width="135" height="90" class="news-list__image news-list__image--small"  alt="Former Amaya Founder Ends Bid for Poker Stars, Full Tilt Owner" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_300x200.jpg">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-2" data-link-type="suggested" data-story-id="13932849" href="/story/13932849/1/former-amaya-founder-ends-bid-for-poker-stars-full-tilt-owner.html">
+                                            <h3 itemprop="headline" class="news-list__headline ">Former Amaya Founder Ends Bid for Poker Stars, Full Tilt Owner</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">David Baazov ended his $6.7 billion bid for Amaya saying that the company's asking price was higher than he and his backers were willing to pay.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="Tony Owusu" href="/author/1548719/tony-owusu/all.html"><span itemprop="name">Tony Owusu</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2016-12-20T11:33Z">Dec<span> </span>20,<span> </span>2016<span> </span>11:33<span> </span>AM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2016-12-20T11:33Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2016-12-20T11:33Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13891852">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-3" href="/story/13891852/1/former-ceo-david-baazov-makes-bid-for-amaya-gaming.html" data-link-type="suggested" data-story-id="13891852" class="news-list__object-wrap "
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/879e050d-aaa3-11e6-80d8-1fcdd9a4d0ec_300x200.jpg" width="135" height="90" class="news-list__image news-list__image--small"  alt="Former CEO David Baazov Makes Bid for Amaya" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/879e050d-aaa3-11e6-80d8-1fcdd9a4d0ec_300x200.jpg">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-3" data-link-type="suggested" data-story-id="13891852" href="/story/13891852/1/former-ceo-david-baazov-makes-bid-for-amaya-gaming.html">
+                                            <h3 itemprop="headline" class="news-list__headline ">Former CEO David Baazov Makes Bid for Amaya</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">David Bazzov bid $2.56 billion for the company less than a year after he stepped down as CEO.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="Tony Owusu" href="/author/1548719/tony-owusu/all.html"><span itemprop="name">Tony Owusu</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2016-11-14T13:09Z">Nov<span> </span>14,<span> </span>2016<span> </span>1:09<span> </span>PM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2016-11-14T13:09Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2016-11-14T13:09Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+
+                
+                
+                
+
+
+                </div>
+
+            </div>
+        </section>
+
+    </div>
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY -  TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 4     ************** -->
+<!-- *************************************************************************************************************** -->
+
+
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+
+            </main>
+        </div>
+        <!-- END MAIN CONTENT COLUMN -->
+        <!-- BEGIN RIGHT RAIL  -->
+        <div class="col-md-4 article__aside-container hidden-print">
+            <aside class="article__rightRail article__aside rightRail" id="article-sidebar" role="complementary">
+                    
+                        
+                            
+
+    <div class="sidebar">
+        <div class="widgetSet">
+            <div class="widgetset-spacer"></div>
+
+    
+    
+         
+             
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--1574218069" data-ad-sizes="300,250|300,600"  data-ad-preload="" data-ad-targeting="ptn=box-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 0********************** -->
+<!-- *************************************************************************************************************** -->
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 0  ********************** -->
+<!-- *************************************************************************************************************** -->
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        
+<div style="background: #ffffff;width:100%;" class=" text__sponsors  hidden-xs">
+    <h3 class="section-list__section-headline" >Advertising Partners</h3>
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1810440126" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1390604109" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1501746241" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--2119446466" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    
+    
+</div>
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     sticky-ad "
+       id="promo-div-right-rail-sponsor-content">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-right-rail-graphiq">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--426240785" data-ad-sizes="300,600"  data-ad-preload="" data-ad-targeting="ptn=box-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-right-rail-free-report">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--1725232974" data-ad-sizes="300,250"  data-ad-preload="" data-ad-targeting="ptn=box-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--338077818" data-ad-sizes="300,250"  data-ad-preload="" data-ad-targeting="ptn=box-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+        
+            </div></div>  
+            <!-- END STICKY BLOCK -->
+        
+    
+
+    </div>
+</div>
+
+<!-- END WIDGET SET -->
+
+
+
+                        
+                    
+            </aside>
+        </div>
+        <!-- END RIGHT RAIL -->
+    </div>
+    <script type="text/x-handlebars-template" id="article-page-template">
+    <div class="article__body article-standard__body">{{{body}}}</div>
+    </script>
+    <script type="text/x-handlebars-template" id="article-top-template">
+    {{#if isFirstPage}}
+    {{#if videoStoryId}}
+    <div class="article__video article-standard__video">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" allowfullscreen webkitallowfullscreen mozallowfullscreen  data-video-id="{{videoStoryId}}"
+                    data-video-auto-play="false" data-video-show-ads="false" data-video-auto-mute="true"
+                    src="//s.t.st/embed/null.html?custParams=ptn%3darticle,site%3dTSC" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+    {{/if}}
+    {{#unless videoStoryId}}
+    {{#if largeThumbUrl}}
+    <figure class="article__figure article-standard__figure">
+        <meta itemprop="url" content="https:{{largeThumbUrl}}">
+        <img class="article__image article-standard__image" src="{{largeThumbUrl}}" />
+        <figcaption class="article-image-caption article-standard-image-caption">{{articleImageCaption}}</figcaption>
+    </figure>
+    {{/if}}
+    {{/unless}}
+    {{/if}}
+    </script>
+    <script type="text/x-handlebars-template" id="article-bottom-template">
+    <div class="article__teaser">{{{teaserText}}}</div>
+    </script>
+    <script type="text/x-handlebars-template" id="author-stories-template">
+    <h4>Recent Stories</h4>
+    <ul class="media-list news-list news-list--author-popup">
+        {{#stories}}
+        <li class="media news-list__item news-list__item--author-popup">
+            <div class="news-list__body news-list__body--author-popup">
+                <a href="{{url}}">
+                    <h5 class="author__recent-story-headline">{{{headline}}}</h5>
+                </a>
+                <div class="author__recent-story-publish-date">{{publishDateAsString}}</div>
+            </div>
+        </li>
+        {{/stories}}
+    </ul>
+    </script>
+    <script>
+        (function(){
+            var articleModel = {"slides":"[]","callout":"Amaya (AYA) shares were higher after the company increased its full year earnings, revenue and EBITDA expectations.","pagination":{"currentArticleUrl":"/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html","nextArticleUrl":"/json/article/related/1685906/13960580/1?excludeId=13960580","currentArticleDataUrl":"/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html?type=json","nextArticleDataUrl":"/json/article/related/1685906/13960580/1?type=json&excludeId=13960580"},"keywords":"[]","footer":"<BODY><\/BODY>","articleImageUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9.jpg","publishDate":new Date(1484927757000),"primaryAuthorUrl":"/author/1548719/tony-owusu/all.html","siteName":"TheStreet","mediumThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_300x200.jpg","leadTicker":"[\"AYA\"]","categoryName":"Consumer","publishDateFormatted":"2017-01-20T10:55:57.000Z","compactPubDate":"10:55 AM","numPages":2,"subcategoryName":"Stocks","lastPublishDate":"2017-01-20T10:55:57.000-0500","pages":{"0":{"number":1,"pageTitle":"Amaya Stock Gains After Raising Profit Forecast - TheStreet","isLastPage":false,"body":"<div data-paragraph-count=\"7\" class=\"placement-fixed\" id=\"div-placement-fixed-0.43715868977241845\" data-total-word-count=\"279\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleTop\"><\/div><div id=\"div-placement-fixed-0.8025721746771736\" class=\"placement-fixed\" data-page-count=\"1\" data-page-word-count-total=\"264\" data-total-page-count=\"2\" data-article-fixed-placement=\"pageTop\"><\/div> <div id=\"div-placement-para-0.6452808307881569\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"46\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"0\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"1\" data-article-word-count-so-far=\"0\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"1\" data-article-paragraph-count-total=\"7\"><\/div><p><strong>Amaya <\/strong> (<a href=\"/quote/AYA.html\">AYA<\/a>) , the Canadian online gaming company, raised its fiscal 2016 full year profit forecast to between $364 million and $374 million from between $344 million and $354 million, following a strong December quarter. The shares were up 3% to $13.70 in mid-Friday morning trading.&nbsp;<\/p> <div id=\"div-placement-para-0.07812705816851606\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"44\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"46\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"2\" data-article-word-count-so-far=\"46\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"2\" data-article-paragraph-count-total=\"7\"><\/div><p>Amaya raised its fiscal year revenue estimates to between $1.153 billion and $1.158 billion from its previous estimate between $1.137 billion and $1.157 billion, while also raising its EBITDA guidance to between $521 million and $526 million from between $500 million and $510 million.&nbsp;<\/p> <div id=\"div-placement-para-0.19437847749708326\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"38\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"90\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"3\" data-article-word-count-so-far=\"90\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"3\" data-article-paragraph-count-total=\"7\"><\/div><p>CEO Rafi Ashkenazi credited the company's strategy to improve its poker ecosystem for recreational players while also leveraging its competitive advantage as the largest online poker company in the world to garner new customers for the strong results.<\/p> <div id=\"div-placement-para-0.9800810928957643\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"52\" data-page-paragraph-middle=\"true\" data-page-word-count-so-far=\"128\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"4\" data-article-word-count-so-far=\"128\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"4\" data-article-paragraph-count-total=\"7\"><\/div><p>\"We anticipate that 2016 will be a record year of revenues for Amaya,\" said Ashkenazi. \"We also saw better than expected fourth quarter results from our casino offering, operational excellence program and a successful re-launch in Portugal, all while continuing to take an efficient and measured approach to marketing our product offerings.\"<\/p> <div id=\"div-placement-para-0.9353836602174297\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"26\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"180\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"5\" data-article-word-count-so-far=\"180\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"5\" data-article-paragraph-count-total=\"7\"><\/div><p>Last year was a tumultuous year for the company's management after former CEO David Baazov's $6.7 billion bid to purchase the company fell through in December.<\/p> <div id=\"div-placement-para-0.9484490211511741\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"57\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"206\" data-page-word-count-total=\"264\" data-page-paragraph-count-total=\"6\" data-page-paragraph-count-so-far=\"6\" data-article-word-count-so-far=\"206\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"6\" data-article-paragraph-count-total=\"7\"><\/div><p>On November 14, Baazov proposed to purchase the Pointe-Claire, Quebec-based company for about C$24 per share ($22.09 based on mid-November conversion rates) following negotiations with the company's board. The bid, which valued Amaya's Toronto-listed equity at about C$3.4 billion based on 145 million shares outstanding, was an increase from Baazov's February 1 bid of C$21 per share.<\/p> <div data-paragraph-count=\"7\" class=\"placement-fixed\" id=\"div-placement-fixed-0.8274330339322605\" data-total-word-count=\"279\" data-article-has-video=\"false\" data-article-fixed-placement=\"pageEnd\"><\/div>","isFirstPage":true,"url":"/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html"},"1":{"number":2,"pageTitle":"Amaya Stock Gains After Raising Profit Forecast - Pg.2 - TheStreet","isLastPage":true,"body":"<div id=\"div-placement-fixed-0.12369631971917516\" class=\"placement-fixed\" data-page-count=\"2\" data-page-word-count-total=\"17\" data-total-page-count=\"2\" data-article-fixed-placement=\"pageTop\"><\/div> <div id=\"div-placement-para-0.9045293355503958\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"16\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"0\" data-page-word-count-total=\"17\" data-page-paragraph-count-total=\"1\" data-page-paragraph-count-so-far=\"1\" data-article-word-count-so-far=\"263\" data-article-word-count-total=\"279\" data-article-paragraph-count-so-far=\"7\" data-article-paragraph-count-total=\"7\"><\/div><p>British gaming company <a title=\"Company Overview\" href=\"https://www.bloomberg.com/quote/WMH:LN\" target=\"_blank\">William Hill plc<\/a> and Amaya called off a separate acquisition deal in October.<\/p> <div data-paragraph-count=\"7\" class=\"placement-fixed\" id=\"div-placement-fixed-0.45531620351799995\" data-total-word-count=\"279\" data-article-has-video=\"false\" data-article-fixed-placement=\"pageEnd\"><\/div><div data-paragraph-count=\"7\" class=\"placement-fixed\" id=\"div-placement-fixed-0.09505956366797164\" data-total-word-count=\"279\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleEnd\"><\/div>","isFirstPage":false,"url":"/story/13960580/2/amaya-stock-gains-after-raising-profit-forecast.html"}},"subcategoryId":1685906,"id":13960580,"keyword":"[]","relatedStories":{},"headline":"Amaya Stock Gains After Raising Profit Forecast","contentType":"Text","headlineTwitter":"Amaya stock gains after raising profit forecast","smallThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_150x100.jpg","siteCode":"TSC","isVideo":false,"authorId":1548719,"largeThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/17baa7d1-c6ce-11e6-880c-e351ca7eb7e9_600x400.jpg","headlineFacebook":"Amaya stock gains after raising profit forecast","url":"/story/13960580/1/amaya-stock-gains-after-raising-profit-forecast.html","publishDateAsString":"Jan<span> <\/span>20,<span> <\/span>2017<span> <\/span>10:55<span> <\/span>AM<span> <\/span>EST","subcategorySlug":"stocks","isBrandedView":false,"authorName":"Tony Owusu","categoryId":1685520,"authors":"[{\"name\":\"Tony Owusu\",\"id\":1548719}]"};
+            Keystone.articleModelData ={ article: articleModel };
+        })();
+    </script>
+
+<!-- *************************************************************************************************************** -->
+<!-- ******************************     END - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES -    ********************* -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY - DEFAULT - NUMBER OF ARTICLES ==> 1  ********************** -->
+<!-- *************************************************************************************************************** -->
+
+                
+            
+        </div>
+    
+
+
+
+    
+</div>
+
+            
+        
+    
+</div>
+
+
+        </div>
+    
+            </div>
+        </div>
+    
+                            </div>
+                        
+                    </div>
+                    <p id="back-top" class="back-top">
+                        <a href="#top"><span class="fa fa-arrow-up"></span></a>
+                    </p>
+                </div> <!-- END CONTAINER -->
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+
+
+
+    
+<footer class="footer " id="footer" role="contentinfo">
+    <div class="inner">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-4">
+                            
+                                 
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    <h2 class="navigation__title">Hot Topics</h2>
+
+<ul class="nav navbar-nav footer__links">
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="pharma blue-chip" href="/story/13433034/1/this-big-pharma-blue-chip-is-a-bear-killer.html?kval=dontmiss">Pharma Blue-Chip</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="cramer on apple" href="/story/13432886/1/jim-cramer-apple-stock-could-hit-150-on-next-iphone-release.html?kval=dontmiss">Cramer on Apple</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="stocks under $10" href="http://www.thestreet.com/story/13407043/1/5-stocks-under-10-set-to-soar-must-see-charts.html">Stocks Under $10</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="best high-yielders" href="http://secure2.thestreet.com/cap/prm.do?OID=028531&_ga=1.164635254.89808808.1452118125">Best High-Yielders</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="tech stocks" href="/story/13432865/1/4-solid-tech-stocks-that-have-held-steady-despite-market-drops.html">Tech Stocks</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="top dividend stocks" href="http://secure2.thestreet.com/cap/prm.do?OID=028343&_ga=1.164635254.89808808.1452118125">Top Dividend Stocks</a>
+    </li>
+
+
+
+    
+</ul>
+
+                             
+                    </div>
+                    <div class="col-sm-4">
+                            
+                             
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+<ul class="nav navbar-nav footer--all-headers__links">
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="home" href="/index">Home</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="cramer" href="/cramer-news">Cramer</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="banking" href="/banking">Banking</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="biotech" href="/biotech">Biotech</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="election 2016" href="/election-2016">Election 2016</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="etfs" href="/etfs">ETFs</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="futures" href="/futures">Futures</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="investing" href="/investing">Investing</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="opinion" href="/opinion">Opinion</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="personal finance" href="/personal-finance">Personal Finance</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="retail" href="/retail">Retail</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="tech" href="/tech">Tech</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="video" href="/video">Video</a>
+    </li>
+
+
+
+    
+</ul>
+
+                            
+                            </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Featured Topics</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/author/269/JimCramer/all.html">Jim Cramer</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/mad-money/index.html">Mad Money</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/47781/stock-market-today.html">Stock Market Today</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/quote/%5EDJI.html">Dow Jones Today</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45661/income-investing.html">Dividend Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/43441/gold-price.html">Gold Price</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/44141/silver.html">Silver Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45621/copper-price.html">Copper Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45741/oil-prices.html">Oil Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/sections">Sections</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="footer__social">
+                                    <a href="/" class="footer__logo"></a>
+                                    <div class="social-links social-links--footer">
+                                        <a target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links__item social-links__item--footer fa fa-facebook"></i></a>
+                                        <a target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links__item social-links__item--footer fa fa-google-plus"></i></a>
+                                        <a target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links__item social-links__item--footer fa fa-twitter"></i></a>
+                                        <a target="_blank" href="https://www.linkedin.com/company/thestreet" title="LinkedIn"><i class="social-links__item social-links__item--footer fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="footer__legal">
+                                    <a class="copy" href="/" target="_blank">&copy;1996-2017 TheStreet, Inc. All rights reserved.</a>
+                                    <a class="copy" href="/" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Popular Pages</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/47501/stock-picks.html">Best Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45162/best-stocks-to-buy-now.html">Best Stocks to Buy</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/dividends/leaders/index.html">High Dividend Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/13407571/market-holidays-2016.html">Stock Market Holidays</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/event-calendar/index.html">Earnings Calendar</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/dividends/index.html">Ex Dividend Date</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/10575864/top-rated-etfs/top-rated-etfs.html">ETF Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/10571219/top-rated-mutual-funds/top-rated-mutual-funds.html">Mutual Fund Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/online-trading/compare-best-online-brokers.html">Best Online Brokers</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Subscriptions</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033201" data-link-name="bottom footer" data-link-order="0" data-link-type="product-signup" data-oid="033201" data-product-name="Action Alerts PLUS">Action Alerts PLUS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033202" data-link-name="bottom footer" data-link-order="1" data-link-type="product-signup" data-oid="033202" data-product-name="Action Alerts OPTIONS">Action Alerts OPTIONS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033203" data-link-name="bottom footer" data-link-order="2" data-link-type="product-signup" data-oid="033203" data-product-name="Daily Swing Trade">Daily Swing Trade</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033204" data-link-name="bottom footer" data-link-order="3" data-link-type="product-signup" data-oid="033204" data-product-name="Dividend Stock Advisor">Dividend Stock Advisor</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033205" data-link-name="bottom footer" data-link-order="4" data-link-type="product-signup" data-oid="033205" data-product-name="Growth Seeker">Growth Seeker</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033206" data-link-name="bottom footer" data-link-order="5" data-link-type="product-signup" data-oid="033206" data-product-name="Quant Ratings">Quant Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033207" data-link-name="bottom footer" data-link-order="6" data-link-type="product-signup" data-oid="033207" data-product-name="Real Money">Real Money</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033208" data-link-name="bottom footer" data-link-order="7" data-link-type="product-signup" data-oid="033208" data-product-name="Real Money Pro">Real Money Pro</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033209" data-link-name="bottom footer" data-link-order="8" data-link-type="product-signup" data-oid="033209" data-product-name="Stocks Under $10">Stocks Under $10</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033210" data-link-name="bottom footer" data-link-order="9" data-link-type="product-signup" data-oid="033210" data-product-name="Top Stocks">Top Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033211" data-link-name="bottom footer" data-link-order="10" data-link-type="product-signup" data-oid="033211" data-product-name="Trifecta Stocks">Trifecta Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021808" data-link-name="bottom footer" data-link-order="11" data-link-type="product-signup" data-oid="021808" data-product-name="Portfolio PLUS">Portfolio PLUS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=025907" data-link-name="bottom footer" data-link-order="12" data-link-type="product-signup" data-oid="025907" data-product-name="RMP Portfolio">RMP Portfolio</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021809" data-link-name="bottom footer" data-link-order="13" data-link-type="product-signup" data-oid="021809" data-product-name="Chairman's Club">Chairman's Club</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Stay Connected</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/contact-us">Feedback</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/">About Us</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://contributor.thestreet.com/users/register?_ga=1.127100429.1881260853.1456123377">Write For TheStreet</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://investor-relations.thestreet.com/">Investor Relations</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/tsc/pdfs/Web_Media_Kit.pdf">Advertise</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/reprints">Reprints</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&amp;url=https://www.thestreet.com/index.html">Customer Service</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/employment">Employment</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/privacy">Privacy Policy</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/terms">Terms of Use</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/topic/archive/a.html">Topic Archive</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/video/sitemap.html">Video Sitemap</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/data-providers.html">Data</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/affiliates.html">Affiliate</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://pressroom.thestreet.com/press-home.cfm">Press Room</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53VS2Q"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+
+    })(window,document,'script','dataLayer','GTM-53VS2Q');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/app-bottom-393fbf04fafb456a18e64e3418e59fa5.js" type="text/javascript" ></script>
+    
+
+
+    <div class="print-footer visible-print">
+        <p>
+            <a class="copy" href="/" target="_blank">&copy;1996-2017 TheStreet, Inc. All rights reserved.</a>
+            <a class="copy" href="/" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a>
+        </p>
+    </div>
+</div>
+
+
+    <div id="lower-ad-banner" class="hidden-print">
+        <div id="lower-ad-banner-inner">
+
+            <div class="lower-ad-banner-compare lower-ad-banner-item">
+                <a href="/online-trading/compare-best-online-brokers.html" class="compBrokers">Compare Brokers</a>
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--1362648302" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--1141117196" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1567115256" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1264626596" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-377560447" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-5"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+</body>
+</html>

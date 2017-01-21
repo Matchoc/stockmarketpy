@@ -421,5 +421,14 @@
         "pubDate": "Wed, 18 Jan 2017 18:22:45 GMT",
         "source": "data\\BTE\\20170118.rss",
         "title": "Baytex Energy Corp. \u2013 Value Analysis (TORONTO:BTE) : January 18, 2017"
+    },
+    {
+        "contents": "data\\BTE\\20170121-091107.news",
+        "description": "[Marketwired] - Baytex Energy Corp. announces the closing of its previously announced acquisition of heavy oil assets located in the Peace River area of northern Alberta. Cash consideration for the acquisition of $65 ...",
+        "guid": "yahoo_finance/807852358",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/baytex-announces-closing-peace-river-220808362.html",
+        "pubDate": "Fri, 20 Jan 2017 22:08:08 GMT",
+        "source": "data\\BTE\\20170121.rss",
+        "title": "Baytex Announces Closing of Peace River Acquisition"
     }
 ]

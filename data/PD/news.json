@@ -178,5 +178,14 @@
         "pubDate": "Tue, 01 Nov 2016 21:57:53 GMT",
         "source": "data\\PD\\20170118.rss",
         "title": "Precision Drilling Prices Private Offering of US$350 Million Senior Notes Due 2023"
+    },
+    {
+        "contents": "data\\PD\\20170121-090259.news",
+        "description": null,
+        "guid": "yahoo_finance/3448668142",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=133bbeol1/*http://marketrealist.com/2017/01/what-are-wall-streets-forecasts-for-flotek-before-4q16-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 20 Jan 2017 15:35:54 GMT",
+        "source": "data\\PD\\20170121.rss",
+        "title": "What Are Wall Street\u2019s Forecasts for Flotek before 4Q16 Earnings?"
     }
 ]

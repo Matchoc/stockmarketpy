@@ -178,5 +178,14 @@
         "pubDate": "Tue, 08 Nov 2016 17:45:59 GMT",
         "source": "data\\VSN\\20170118.rss",
         "title": "ETF\u2019s with exposure to Veresen, Inc. : November 8, 2016"
+    },
+    {
+        "contents": "data\\VSN\\20170121-090302.news",
+        "description": null,
+        "guid": "yahoo_finance/106541078",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/veresen-announces-common-share-dividend-210200434.html",
+        "pubDate": "Fri, 20 Jan 2017 21:02:00 GMT",
+        "source": "data\\VSN\\20170121.rss",
+        "title": "Veresen Announces Common Share Dividend for January 2017"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 14:05:47 GMT",
         "source": "data\\NSU\\20170120.rss",
         "title": "Nevsun Resources Ltd. breached its 50 day moving average in a Bearish Manner : NSU-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\NSU\\20170121-091400.news",
+        "description": null,
+        "guid": "yahoo_finance/1668173701",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13bdsr0mo/*http://www.capitalcube.com/blog/index.php/nevsun-resources-ltd-value-analysis-torontonsu-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 17:08:07 GMT",
+        "source": "data\\NSU\\20170121.rss",
+        "title": "Nevsun Resources Ltd. \u2013 Value Analysis (TORONTO:NSU) : January 20, 2017"
     }
 ]

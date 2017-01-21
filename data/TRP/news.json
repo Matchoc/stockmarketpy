@@ -286,5 +286,23 @@
         "pubDate": "Thu, 19 Jan 2017 17:37:53 GMT",
         "source": "data\\TRP\\20170120.rss",
         "title": "TransCanada Receives FERC Approval to Construct Leach XPress and Rayne XPress Projects"
+    },
+    {
+        "contents": "data\\TRP\\20170121-090456.news",
+        "description": null,
+        "guid": "yahoo_finance/4073536377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-posts-two-221537319.html",
+        "pubDate": "Fri, 20 Jan 2017 22:15:37 GMT",
+        "source": "data\\TRP\\20170121.rss",
+        "title": "CANADA STOCKS-TSX posts two-week high as commodity prices rise"
+    },
+    {
+        "contents": "data\\TRP\\20170121-090458.news",
+        "description": null,
+        "guid": "yahoo_finance/3716459754",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trump-advisers-draft-first-day-174000854.html",
+        "pubDate": "Fri, 20 Jan 2017 17:40:00 GMT",
+        "source": "data\\TRP\\20170121.rss",
+        "title": "Trump\u2019s Advisers Draft First-Day Energy Policy Changes"
     }
 ]

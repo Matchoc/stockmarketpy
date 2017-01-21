@@ -1087,5 +1087,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:00:00 GMT",
         "source": "data\\RY\\20170119.rss",
         "title": "RBC recognized as 'Best Trade Finance Provider in Canada' for fifth consecutive year by Global Finance magazine"
+    },
+    {
+        "contents": "data\\RY\\20170121-091346.news",
+        "description": null,
+        "guid": "yahoo_finance/2376737803",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12upga9pq/*http://www.bloomberg.com/news/videos/2017-01-20/why-canada-stands-to-lose-from-nafta-changes?cmpid=yhoo.headline",
+        "pubDate": "Fri, 20 Jan 2017 22:04:44 GMT",
+        "source": "data\\RY\\20170121.rss",
+        "title": "Why Canada Stands to Lose From NAFTA Changes"
     }
 ]

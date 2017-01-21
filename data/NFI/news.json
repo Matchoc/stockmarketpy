@@ -178,5 +178,14 @@
         "pubDate": "Thu, 10 Nov 2016 12:07:07 GMT",
         "source": "data\\NFI\\20170118.rss",
         "title": "Q3 2016 New Flyer Industries Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\NFI\\20170121-090638.news",
+        "description": null,
+        "guid": "yahoo_finance/1740466192",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14jvlp889/*http://www.capitalcube.com/blog/index.php/new-flyer-industries-inc-breached-its-50-day-moving-average-in-a-bearish-manner-nfi-ca-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:15:15 GMT",
+        "source": "data\\NFI\\20170121.rss",
+        "title": "New Flyer Industries, Inc. breached its 50 day moving average in a Bearish Manner : NFI-CA : January 20, 2017"
     }
 ]

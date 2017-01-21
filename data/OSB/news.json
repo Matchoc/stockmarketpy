@@ -178,5 +178,32 @@
         "pubDate": "Tue, 26 Jul 2016 10:00:00 GMT",
         "source": "data\\OSB\\20170118.rss",
         "title": "Norbord Reports Second Quarter 2016 Results; Declares Quarterly Dividend"
+    },
+    {
+        "contents": "data\\OSB\\20170121-091055.news",
+        "description": null,
+        "guid": "yahoo_finance/1589505606",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12rodlt8r/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-norbord-inc-july-21-2016/",
+        "pubDate": "Thu, 21 Jul 2016 18:20:32 GMT",
+        "source": "data\\OSB\\20170121.rss",
+        "title": "ETF\u2019s with exposure to Norbord, Inc. : July 21, 2016"
+    },
+    {
+        "contents": "data\\OSB\\20170121-091058.news",
+        "description": null,
+        "guid": "yahoo_finance/2709527627",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=143f3lcv7/*http://www.capitalcube.com/blog/index.php/norbord-inc-breached-its-50-day-moving-average-in-a-bearish-manner-osb-ca-july-15-2016/",
+        "pubDate": "Fri, 15 Jul 2016 12:39:09 GMT",
+        "source": "data\\OSB\\20170121.rss",
+        "title": "Norbord, Inc. breached its 50 day moving average in a Bearish Manner : OSB-CA : July 15, 2016"
+    },
+    {
+        "contents": "data\\OSB\\20170121-091101.news",
+        "description": null,
+        "guid": "yahoo_finance/2522200678",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1431u646m/*http://www.capitalcube.com/blog/index.php/norbord-inc-breached-its-50-day-moving-average-in-a-bearish-manner-osb-ca-june-27-2016/",
+        "pubDate": "Mon, 27 Jun 2016 15:30:00 GMT",
+        "source": "data\\OSB\\20170121.rss",
+        "title": "Norbord, Inc. breached its 50 day moving average in a Bearish Manner : OSB-CA : June 27, 2016"
     }
 ]

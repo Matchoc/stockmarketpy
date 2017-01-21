@@ -178,5 +178,14 @@
         "pubDate": "Thu, 08 Dec 2016 21:31:56 GMT",
         "source": "data\\AGI\\20170118.rss",
         "title": "Is It Time to Get Out of Alamos Gold Inc (USA) (AGI)?"
+    },
+    {
+        "contents": "data\\AGI\\20170121-090029.news",
+        "description": "[Marketwired] - All amounts are in United States dollars, unless otherwise stated.",
+        "guid": "yahoo_finance/3198278769",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alamos-gold-provides-notice-fourth-221008594.html",
+        "pubDate": "Fri, 20 Jan 2017 22:10:08 GMT",
+        "source": "data\\AGI\\20170121.rss",
+        "title": "Alamos Gold Provides Notice of Fourth Quarter and Year-End 2016 Financial Results and Conference Call"
     }
 ]

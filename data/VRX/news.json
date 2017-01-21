@@ -178,5 +178,14 @@
         "pubDate": "Tue, 10 Jan 2017 21:08:30 GMT",
         "source": "data\\VRX\\20170118.rss",
         "title": "CANADA STOCKS-TSX rises with financials and materials groups"
+    },
+    {
+        "contents": "data\\VRX\\20170121-090632.news",
+        "description": null,
+        "guid": "yahoo_finance/1761490894",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13oldae8l/*https://www.thestreet.com/story/13960921/1/short-seller-andrew-left-says-trump-should-target-this-aerospace-stock.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Fri, 20 Jan 2017 20:31:00 GMT",
+        "source": "data\\VRX\\20170121.rss",
+        "title": "Short-Seller Andrew Left Says Trump Should Target This Aerospace Stock"
     }
 ]

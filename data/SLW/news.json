@@ -178,5 +178,14 @@
         "pubDate": "Thu, 15 Dec 2016 23:59:00 GMT",
         "source": "data\\SLW\\20170118.rss",
         "title": "Why Silver Wheaton, Melco Crown, and Pacific Biosciences of California Slumped Today"
+    },
+    {
+        "contents": "data\\SLW\\20170121-090132.news",
+        "description": null,
+        "guid": "yahoo_finance/1195410434",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=130gje0d9/*http://marketrealist.com/2017/01/inside-the-gold-silver-ratio-where-its-trading-what-it-means/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 20 Jan 2017 19:35:48 GMT",
+        "source": "data\\SLW\\20170121.rss",
+        "title": "Inside the Gold-Silver Ratio: Where It\u2019s Trading, What It Means"
     }
 ]

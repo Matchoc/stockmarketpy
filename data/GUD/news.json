@@ -178,5 +178,14 @@
         "pubDate": "Thu, 29 Sep 2016 21:00:00 GMT",
         "source": "data\\GUD\\20170118.rss",
         "title": "Crescita Therapeutics\u2122 Announces Changes to the Board of Directors"
+    },
+    {
+        "contents": "data\\GUD\\20170121-091450.news",
+        "description": null,
+        "guid": "yahoo_finance/1527760784",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14i491tf4/*http://www.capitalcube.com/blog/index.php/knight-therapeutics-inc-breached-its-50-day-moving-average-in-a-bearish-manner-gud-ca-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 14:14:32 GMT",
+        "source": "data\\GUD\\20170121.rss",
+        "title": "Knight Therapeutics, Inc. breached its 50 day moving average in a Bearish Manner : GUD-CA : January 20, 2017"
     }
 ]
