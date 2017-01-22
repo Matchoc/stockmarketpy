@@ -337,20 +337,6 @@ def get_previous_valid_market_date(cur_date, prices):
 		return None
 	
 	return prev_day
-	
-def get_previous_close_price(cur_date, prices):
-	prev_day = cur_date - datetime.timedelta(days=1)
-	end_search = cur_date - datetime.timedelta(days=365)
-	pricedatefmt = prev_day.strftime("%Y-%m-%d")
-	while pricedatefmt not in prices and prev_day > end_search:
-		prev_day = prev_day - datetime.timedelta(days=1)
-		pricedatefmt = prev_day.strftime("%Y-%m-%d")
-	
-	if pricedatefmt not in prices:
-		# Should error ?
-		return 0
-	
-	return prices[pricedatefmt]["Adj Close"]
 			
 def get_today_previous_close_price(symbol, news, prices = None):
 	if prices is None:
@@ -554,14 +540,11 @@ def update_symbol(symbol, steps):
 	if "dlnews" in steps:
 		myprint("dlnews 5/7", 1)
 		download_all_news_page(symbol)
-	if "processnews" in steps:
+	if "processnews" in steps and "allwords" not in steps:
 		myprint("processnews 6/7", 1)
 		process_all_news(symbol)
-	if "updateTraining" in steps:
-		myprint("updateTraining 7/7", 1)
-		updateTraining_by_date(symbol)
 
-def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval", "today"]):
+def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dlnews", "processnews", "allwords", "updateTraining", "train", "crossval", "today", "updateCSV"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
@@ -575,6 +558,15 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		myprint("Generating allwords", 2)
 		ret = generate_word_counts()
 		myprint(sort_dict(ret), 0)
+		
+		#if recalculating allwords, must gather training AFTER since word count and thus X dimension might change.
+		if "updateTraining" in steps:
+			count = 0
+			for symbol in links:
+				count += 1
+				myprint("Update Training symbol " + symbol + " (" + str(count) + "/" + str(len(links)) + ")", 2)
+				updateTraining_by_date(symbol)
+		
 		
 	per = 1.0
 	if "crossval" in steps or "train" in steps:
@@ -601,6 +593,10 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 	if "today" in steps:
 		myprint("Predict today", 2)
 		predict_all_today()
+		
+	if "udpateCSV" in steps:
+		myprint("Update CSVs", 2)
+		update_morning_prices()
 		
 def train_cross_variations():
 	alphas = [0.000005, 0.00005, 0.005, 0.5, 25.0]
@@ -733,7 +729,7 @@ def reorder_and_print_results(results):
 			pubdate = utc_to_local(pubdate)
 			line.append(pubdate.strftime("%Y-%m-%d"))
 			line.append(pubdate.strftime("%H:%M:%S"))
-			line.append(result["news"]["title"])
+			line.append(result["news"]["title"].replace(";", ""))
 			f.write((";".join(line) + "\n").encode("utf-8", "ignore"))
 	
 def print_ordered_all_words():
@@ -800,6 +796,12 @@ def graph_actual_vs_predicted():
 	
 	myprint("todo")
 	
+def update_morning_prices():
+	predpath = os.path.join(DATA_FOLDER, "predictions", "*.csv")
+	predfiles = glob.glob(predpath)
+	for file in predfiles:
+		add_real_price_csv(file)
+	
 SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
 	#train_cross_variations()
@@ -827,5 +829,6 @@ if __name__ == '__main__':
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today"])
+	update_all_symbols(["udpateCSV"])
 	
 	myprint("done", 5)

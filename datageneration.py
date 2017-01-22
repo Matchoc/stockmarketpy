@@ -41,7 +41,7 @@ def get_yahoo_rss_url(symbol):
 def get_news_json_path(symbol):
 	return os.path.join(DATA_FOLDER, symbol, "news.json")
 
-PRINT_LEVEL=3
+PRINT_LEVEL=1
 def myprint(str, level=0):
 	if (level >= PRINT_LEVEL):
 		print(str)
@@ -199,7 +199,78 @@ def get_important_text_from_news(htmlpath):
 	paragraphs = soup.findAll('p')
 	words = [p.text for p in paragraphs]
 	return "".join(words)
-	#mystr = ""
-	#for p in paragraphs:
-	#	mystr += p.text
-	#return mystr
+
+def add_real_price_csv(csvpath):
+	filename, filedate, filetime = csvpath.split("-")
+	lookupdate = datetime.datetime.strptime(filedate, '%Y%m%d')
+	pricedatefmt = lookupdate.strftime("%Y-%m-%d")
+	newcsv = []
+	myprint("updating CSV " + csvpath, 1)
+	
+	with open(csvpath, newline='', errors="ignore") as csvfile:
+		csvreader = csv.reader(csvfile, delimiter=';')
+		info = next(csvreader, None)  # skip the headers
+		# 8 column means real price has already been updated.
+		if len(info) > 7:
+			myprint("CSV already up-to-date", 1)
+			return
+		if len(info) < 7:
+			myprint("CSV is legacy, skipping", 1)
+			return
+			
+		newcsv = [["symbol", "prediction $", "prediction %", "last close", "pubDate", "pubTime", "real $", "real %", "per wrong", "title"]]
+		while info is not None:
+			info = next(csvreader, None)
+			if info == None:
+				break
+				
+			#title.append("symbol")
+			#title.append("prediction $")
+			#title.append("prediction %")
+			#title.append("last close")
+			#title.append("pudDate")
+			#title.append("pudTime")
+			#title.append("title")
+		
+			symbol = info[0]
+			preddol = float(info[1])
+			predper = float(info[2])
+			predclose = float(info[3])
+			preddate = info[4]
+			predtime = info[5]
+			predtitle = info[6]
+			
+			prices = get_price_json(symbol)
+			if pricedatefmt not in prices:
+				myprint("price not found for " + symbol, 1)
+				return
+				
+			adjclosetoday = prices[pricedatefmt]["Adj Close"]
+			adjcloseyesterday = get_previous_close_price(lookupdate, prices)
+			
+			realchange = adjclosetoday - adjcloseyesterday
+			realper = realchange / predclose * 100.0
+			perwrong = (realchange - preddol) / preddol * 100.0
+			
+			result = [symbol, str(preddol), str(predper), str(predclose), preddate, predtime, str(realchange), str(realper), str(perwrong), predtitle]
+			myprint("updated line " + str(result), 1)
+			newcsv.append(result)
+			
+	with open(csvpath, 'wb') as f:
+		for line in newcsv:
+			f.write((";".join(line) + "\n").encode("utf-8", "ignore"))			
+			
+			
+def get_previous_close_price(cur_date, prices):
+	prev_day = cur_date - datetime.timedelta(days=1)
+	end_search = cur_date - datetime.timedelta(days=365)
+	pricedatefmt = prev_day.strftime("%Y-%m-%d")
+	while pricedatefmt not in prices and prev_day > end_search:
+		prev_day = prev_day - datetime.timedelta(days=1)
+		pricedatefmt = prev_day.strftime("%Y-%m-%d")
+	
+	if pricedatefmt not in prices:
+		# Should error ?
+		return 0
+	
+	return prices[pricedatefmt]["Adj Close"]

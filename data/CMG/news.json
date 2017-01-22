@@ -178,5 +178,23 @@
         "pubDate": "Tue, 30 Aug 2016 15:02:45 GMT",
         "source": "data\\CMG\\20170118.rss",
         "title": "ETF\u2019s with exposure to Computer Modelling Group Ltd. : August 30, 2016"
+    },
+    {
+        "contents": "data\\CMG\\20170122-090013.news",
+        "description": null,
+        "guid": "yahoo_finance/942273753",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ecdood8/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-computer-modelling-group-ltd-august-19-2016/",
+        "pubDate": "Fri, 19 Aug 2016 16:46:36 GMT",
+        "source": "data\\CMG\\20170122.rss",
+        "title": "ETF\u2019s with exposure to Computer Modelling Group Ltd. : August 19, 2016"
+    },
+    {
+        "contents": "data\\CMG\\20170122-090016.news",
+        "description": null,
+        "guid": "yahoo_finance/3929053193",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14831bh7t/*http://www.capitalcube.com/blog/index.php/computer-modelling-group-ltd-cmg-ca-earnings-analysis-q1-2017-by-the-numbers-august-18-2016/",
+        "pubDate": "Thu, 18 Aug 2016 16:14:08 GMT",
+        "source": "data\\CMG\\20170122.rss",
+        "title": "Computer Modelling Group Ltd. :CMG-CA: Earnings Analysis: Q1, 2017 By the Numbers : August 18, 2016"
     }
 ]

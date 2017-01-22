@@ -178,5 +178,23 @@
         "pubDate": "Fri, 11 Nov 2016 21:33:58 GMT",
         "source": "data\\H\\20170118.rss",
         "title": "Edited Transcript of H.TO earnings conference call or presentation 11-Nov-16 1:30pm GMT"
+    },
+    {
+        "contents": "data\\H\\20170122-090140.news",
+        "description": null,
+        "guid": "yahoo_finance/743734290",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20161111.html?t=h.to",
+        "pubDate": "Fri, 11 Nov 2016 12:07:02 GMT",
+        "source": "data\\H\\20170122.rss",
+        "title": "Q3 2016 Hydro One Ltd Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\H\\20170122-090140.news",
+        "description": "[PR Newswire] - Operational transformation of Hydro One set to accelerate with recent additions to leadership team TORONTO, Nov. 11, 2016 /PRNewswire/ - Hydro One Limited, Ontario's largest electricity transmission and ...",
+        "guid": "yahoo_finance/539390147",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hydro-one-reports-growing-third-120000589.html",
+        "pubDate": "Fri, 11 Nov 2016 12:00:00 GMT",
+        "source": "data\\H\\20170122.rss",
+        "title": "Hydro One Reports Growing Third Quarter Revenue and Earnings"
     }
 ]

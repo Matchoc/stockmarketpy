@@ -178,5 +178,104 @@
         "pubDate": "Thu, 15 Dec 2016 14:00:00 GMT",
         "source": "data\\IGM\\20170118.rss",
         "title": "IGM Financial Inc. Makes Additional Investment in Personal Capital"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090315.news",
+        "description": null,
+        "guid": "yahoo_finance/1846747995",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mackenzie-investments-announces-management-fee-140000663.html",
+        "pubDate": "Mon, 05 Dec 2016 14:00:00 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "Mackenzie Investments announces management fee reductions and a new automated service"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/1598244456",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/igm-financial-inc-announces-november-164816078.html",
+        "pubDate": "Fri, 02 Dec 2016 16:48:16 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. Announces November 2016 Mutual Fund Sales and Total Assets Under Management"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090319.news",
+        "description": null,
+        "guid": "yahoo_finance/2281083050",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/correction-source-igm-financial-inc-222105978.html",
+        "pubDate": "Fri, 25 Nov 2016 22:21:05 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "CORRECTION FROM SOURCE: IGM Financial Inc. to Release Fourth Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090321.news",
+        "description": null,
+        "guid": "yahoo_finance/382104821",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/igm-financial-inc-release-fourth-140000307.html",
+        "pubDate": "Fri, 25 Nov 2016 14:00:00 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. to Release Fourth Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090322.news",
+        "description": null,
+        "guid": "yahoo_finance/1144979995",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mackenzie-investments-announces-distributions-exchange-130000272.html",
+        "pubDate": "Thu, 24 Nov 2016 13:00:00 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "Mackenzie Investments Announces Distributions for its Exchange Traded Funds (MKB, MUB, MFT, MGB)"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090324.news",
+        "description": "[at noodls] - News Release Readers are referred to the disclaimer regarding Forward-Looking Statements and Additional IFRS Measures at the end of this Release. IGM FINANCIAL INC. REPORTS THIRD QUARTER EARNINGS Winnipeg ...",
+        "guid": "yahoo_finance/4013731625",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128op9h66/*http://www.publicnow.com/view/752662C4788D34DFB3B04EE571E242B311C47CCD",
+        "pubDate": "Thu, 03 Nov 2016 21:36:27 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. reports third quarter earnings"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090324.news",
+        "description": "[at noodls] - vx News Release IGM FINANCIAL INC. ANNOUNCES OCTOBER 2016 MUTUAL FUND SALES AND TOTAL ASSETS UNDER MANAGEMENT\u200c Winnipeg - November 2, 2016: IGM Financial Inc. (IGM) (TSX: IGM) today reported preliminary ...",
+        "guid": "yahoo_finance/642334346",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128eidlhe/*http://www.publicnow.com/view/0F552B0A1E9871CEC41FF199A3F0E2E5BBE137BE",
+        "pubDate": "Thu, 03 Nov 2016 15:18:04 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. announces October 2016 mutual fund sales and total assets under management"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090324.news",
+        "description": "[at noodls] - vx News Release IGM FINANCIAL INC. ANNOUNCES SEPTEMBER 2016 MUTUAL FUND SALES AND TOTAL ASSETS UNDER MANAGEMENT\u200c Winnipeg - October 4, 2016: IGM Financial Inc. (IGM) (TSX: IGM) today reported preliminary ...",
+        "guid": "yahoo_finance/963115883",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hghuun/*http://www.publicnow.com/view/B5224695BF3EBC918BE3D6A92154F0FCA2C26DC2",
+        "pubDate": "Wed, 05 Oct 2016 18:38:06 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. announces September 2016 mutual fund sales and total assets under management"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090324.news",
+        "description": "[at noodls] - Media Advisory WINNIPEG, September 12, 2016 - The news release announcing IGM Financial Inc.'s (TSX:IGM) third quarter 2016 results will be issued on Thursday, November 3, 2016. A live webcast of IGM Financial's ...",
+        "guid": "yahoo_finance/906385177",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hamu51/*http://www.publicnow.com/view/AEB498BDECA2D171DA698F937F0E30D5E2525824",
+        "pubDate": "Mon, 12 Sep 2016 21:48:04 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. to Release Third Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090325.news",
+        "description": "[at noodls] - News Release Winnipeg - September 7, 2016: Jeffrey R. Carney, President and Chief Executive Officer, IGM Financial Inc. (TSX: IGM) will participate in an asset management panel at the Scotiabank Financials ...",
+        "guid": "yahoo_finance/1715698452",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ms2qsc/*http://www.publicnow.com/view/8313F48967BC767D206661355FF36432234976B4",
+        "pubDate": "Mon, 12 Sep 2016 15:08:04 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. Live Webcast from Scotiabank Financials Summit 2016"
+    },
+    {
+        "contents": "data\\IGM\\20170122-090325.news",
+        "description": "[at noodls] - vx News Release IGM FINANCIAL INC. ANNOUNCES AUGUST 2016 MUTUAL FUND SALES AND TOTAL ASSETS UNDER MANAGEMENT\u200c Winnipeg - September 2, 2016: IGM Financial Inc. (IGM) (TSX: IGM) today reported preliminary ...",
+        "guid": "yahoo_finance/30817502",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128l7v1v0/*http://www.publicnow.com/view/9EBE048CB02201E4BF544A6C0B9696CA0B567F23",
+        "pubDate": "Mon, 12 Sep 2016 14:58:03 GMT",
+        "source": "data\\IGM\\20170122.rss",
+        "title": "IGM Financial Inc. announces August 2016 mutual fund sales and total assets under management"
     }
 ]
