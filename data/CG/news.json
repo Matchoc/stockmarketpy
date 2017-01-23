@@ -385,5 +385,23 @@
         "pubDate": "Sat, 21 Jan 2017 18:42:21 GMT",
         "source": "data\\CG\\20170122.rss",
         "title": "Royal Gold, Inc.'s Absolute Best Move in 2016"
+    },
+    {
+        "contents": "data\\CG\\20170123-091126.news",
+        "description": null,
+        "guid": "yahoo_finance/256988899",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14bgn8ins/*http://www.capitalcube.com/blog/index.php/centerra-gold-inc-breached-its-50-day-moving-average-in-a-bearish-manner-cg-ca-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 13:58:16 GMT",
+        "source": "data\\CG\\20170123.rss",
+        "title": "Centerra Gold, Inc. breached its 50 day moving average in a Bearish Manner : CG-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\CG\\20170123-091126.news",
+        "description": null,
+        "guid": "yahoo_finance/1573954589",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170123.html?t=cg.to",
+        "pubDate": "Mon, 23 Jan 2017 12:07:02 GMT",
+        "source": "data\\CG\\20170123.rss",
+        "title": "Q4 2016 Centerra Gold Inc Earnings Release - After Market Close"
     }
 ]

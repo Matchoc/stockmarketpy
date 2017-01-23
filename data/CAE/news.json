@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 14:16:35 GMT",
         "source": "data\\CAE\\20170120.rss",
         "title": "CAE signs a series of commercial and business aviation training solution contracts valued at more than C$250 million"
+    },
+    {
+        "contents": "data\\CAE\\20170123-090842.news",
+        "description": null,
+        "guid": "yahoo_finance/1001865701",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500918.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\CAE\\20170123.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Bombardier CAE Inc Student Transportation and Canadian Pacific Railway"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Wed, 02 Nov 2016 21:17:00 GMT",
         "source": "data\\HCG\\20170118.rss",
         "title": "Home Capital Reports Q3 2016 Results"
+    },
+    {
+        "contents": "data\\HCG\\20170123-090945.news",
+        "description": null,
+        "guid": "yahoo_finance/3726011995",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-banking-stocks-131500608.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\HCG\\20170123.rss",
+        "title": "Research Reports Initiated on Banking Stocks The Toronto-Dominion Bank, Royal Bank of Canada, Home Capital Group, and The Bank of Nova Scotia"
     }
 ]

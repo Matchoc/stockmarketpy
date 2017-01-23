@@ -178,5 +178,14 @@
         "pubDate": "Fri, 18 Nov 2016 08:00:00 GMT",
         "source": "data\\IVN\\20170118.rss",
         "title": "Ivanhoe Mines and Zijin Mining sign landmark agreement to transfer an additional 15% interest in the Kamoa-Kakula Copper Project to the government of the Democratic Republic of Congo"
+    },
+    {
+        "contents": "data\\IVN\\20170123-090226.news",
+        "description": "[Marketwired] - Ivanhoe Mines Executive Chairman Robert Friedland and Chief Executive Officer Lars-Eric Johansson today announced assay results from another 25 holes as part of the ongoing 2016-2017 drilling campaign ...",
+        "guid": "yahoo_finance/2113368864",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/drill-results-significantly-expand-kakula-123000959.html",
+        "pubDate": "Mon, 23 Jan 2017 12:30:00 GMT",
+        "source": "data\\IVN\\20170123.rss",
+        "title": "New drill results significantly expand Kakula Copper Discovery at the Kamoa-Kakula Project"
     }
 ]

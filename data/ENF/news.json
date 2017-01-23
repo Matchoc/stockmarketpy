@@ -178,5 +178,14 @@
         "pubDate": "Fri, 30 Sep 2016 21:38:23 GMT",
         "source": "data\\ENF\\20170119.rss",
         "title": "CANADA STOCKS-TSX slips on day, gains 0.9 pct in Sept and 4.7 pct in Q3"
+    },
+    {
+        "contents": "data\\ENF\\20170123-090829.news",
+        "description": null,
+        "guid": "yahoo_finance/3572031050",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500423.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\ENF\\20170123.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge Income Fund Holdings, NuVista Energy, Canyon Services Group, and Parkland Fuel"
     }
 ]

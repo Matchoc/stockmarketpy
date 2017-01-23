@@ -196,5 +196,14 @@
         "pubDate": "Sat, 21 Jan 2017 18:42:21 GMT",
         "source": "data\\SLW\\20170122.rss",
         "title": "Better Buy: Silver Wheaton Corp. vs. Vale SA"
+    },
+    {
+        "contents": "data\\SLW\\20170123-091248.news",
+        "description": null,
+        "guid": "yahoo_finance/3621760092",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12crhg00i/*http://marketrealist.com/2017/01/silvers-inflows-gauging-the-january-rise/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 23 Jan 2017 12:37:42 GMT",
+        "source": "data\\SLW\\20170123.rss",
+        "title": "Silver\u2019s Inflows: Gauging the January Rise"
     }
 ]

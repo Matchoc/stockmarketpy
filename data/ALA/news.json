@@ -178,5 +178,14 @@
         "pubDate": "Mon, 12 Dec 2016 13:45:00 GMT",
         "source": "data\\ALA\\20170118.rss",
         "title": "AltaGas Ltd. Announces Monthly Dividend"
+    },
+    {
+        "contents": "data\\ALA\\20170123-090331.news",
+        "description": null,
+        "guid": "yahoo_finance/3749685511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altagas-advances-midstream-strategy-134500634.html",
+        "pubDate": "Mon, 23 Jan 2017 13:45:00 GMT",
+        "source": "data\\ALA\\20170123.rss",
+        "title": "AltaGas Advances Its Midstream Strategy"
     }
 ]

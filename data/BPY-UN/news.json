@@ -178,5 +178,14 @@
         "pubDate": "Wed, 01 Jun 2016 20:30:00 GMT",
         "source": "data\\BPY-UN\\20170118.rss",
         "title": "Brookfield Office Properties Announces Reset Dividend Rate on Its Series N Preference Shares"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170123-090852.news",
+        "description": "[GlobeNewswire] - All dollar references are in Canadian dollars unless noted otherwise.. BROOKFIELD NEWS, Jan. 23, 2017-- Brookfield Property Partners L.P. announced today that it has made a proposal to Brookfield Canada ...",
+        "guid": "yahoo_finance/3452026907",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-property-partners-proposes-acquire-115000807.html",
+        "pubDate": "Mon, 23 Jan 2017 11:50:00 GMT",
+        "source": "data\\BPY-UN\\20170123.rss",
+        "title": "Brookfield Property Partners Proposes to Acquire All Units of Brookfield Canada Office Properties Not Currently Owned"
     }
 ]

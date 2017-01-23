@@ -934,5 +934,14 @@
         "pubDate": "Fri, 20 Jan 2017 23:40:36 GMT",
         "source": "data\\BBD.B\\20170121.rss",
         "title": "Japan Air Commuter takes first ATR in quest for foreign tourists"
+    },
+    {
+        "contents": "data\\BBD.B\\20170123-090631.news",
+        "description": null,
+        "guid": "yahoo_finance/1001865701",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500918.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\BBD.B\\20170123.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Bombardier CAE Inc Student Transportation and Canadian Pacific Railway"
     }
 ]

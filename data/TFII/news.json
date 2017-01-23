@@ -34,5 +34,14 @@
         "pubDate": "Mon, 09 Jan 2017 13:15:00 GMT",
         "source": "data\\TFII\\20170118.rss",
         "title": "Research Reports Initiated on Industrials Stocks Waste Connections, Alexco Resource, TFI International, and Canadian National Railway"
+    },
+    {
+        "contents": "data\\TFII\\20170123-090258.news",
+        "description": null,
+        "guid": "yahoo_finance/2022226482",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14h8rsneg/*http://www.capitalcube.com/blog/index.php/tfi-international-inc-breached-its-50-day-moving-average-in-a-bearish-manner-tfii-ca-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 13:59:42 GMT",
+        "source": "data\\TFII\\20170123.rss",
+        "title": "TFI International, Inc. breached its 50 day moving average in a Bearish Manner : TFII-CA : January 23, 2017"
     }
 ]

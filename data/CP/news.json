@@ -403,5 +403,23 @@
         "pubDate": "Fri, 20 Jan 2017 15:51:22 GMT",
         "source": "data\\CP\\20170121.rss",
         "title": "Canadian Pacific Railway Ltd. :CP-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 20, 2017"
+    },
+    {
+        "contents": "data\\CP\\20170123-090555.news",
+        "description": null,
+        "guid": "yahoo_finance/1644321763",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13hev8a4n/*http://www.bizjournals.com/jacksonville/news/2017/01/23/dominating-the-discussion-analysts-dig-into-csx-in.html?ana=yahoo",
+        "pubDate": "Mon, 23 Jan 2017 13:25:06 GMT",
+        "source": "data\\CP\\20170123.rss",
+        "title": "'Dominating the discussion:' Analysts dig into CSX in wake of railroad legend's interest"
+    },
+    {
+        "contents": "data\\CP\\20170123-090556.news",
+        "description": null,
+        "guid": "yahoo_finance/178911856",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13bsmrfnu/*https://www.thestreet.com/story/13961388/1/norfolk-southern-union-pacific-and-csx-jim-cramer-s-views.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 23 Jan 2017 06:00:00 GMT",
+        "source": "data\\CP\\20170123.rss",
+        "title": "Norfolk Southern, Union Pacific and CSX: Jim Cramer's Views"
     }
 ]

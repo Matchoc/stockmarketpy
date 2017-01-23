@@ -178,5 +178,23 @@
         "pubDate": "Wed, 07 Dec 2016 21:44:35 GMT",
         "source": "data\\AC\\20170118.rss",
         "title": "Air Canada adding nonstop flights between Denver and another Canadian city"
+    },
+    {
+        "contents": "data\\AC\\20170123-090723.news",
+        "description": "[Reuters] - The \"ground halt\", which the unit of United Continental Holdings Inc disclosed in a tweet at 8:06 pm ET and lifted about an hour later, follows a series of problems at United and other airlines last year. International flights were not affected, the Federal Aviation Administration said. United said it would waive change fees for passengers with a 'travel waiver' but passengers took their frustration to social media and the Chicago-based airline started responding to their tweets.",
+        "guid": "yahoo_finance/1855181011",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/united-flights-delayed-computer-glitch-043539671.html",
+        "pubDate": "Mon, 23 Jan 2017 04:37:00 GMT",
+        "source": "data\\AC\\20170123.rss",
+        "title": "United flights delayed after computer glitch grounds U.S. planes"
+    },
+    {
+        "contents": "data\\AC\\20170123-090727.news",
+        "description": "[Reuters] - A computer problem forced United Airlines to ground all domestic flights for about an hour on Sunday evening, causing a cascade of delays and annoying customers throughout the United States. The \"ground halt\", which the unit of United Continental Holdings Inc disclosed in a tweet at 8:06 pm ET and lifted about an hour later, follows a series of problems at United and other airlines last year. International flights were not affected, the Federal Aviation Administration said.",
+        "guid": "yahoo_finance/3607761124",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/united-resume-domestic-flights-tech-025050075.html",
+        "pubDate": "Mon, 23 Jan 2017 04:33:45 GMT",
+        "source": "data\\AC\\20170123.rss",
+        "title": "United flights delayed after computer glitch grounds U.S. planes"
     }
 ]

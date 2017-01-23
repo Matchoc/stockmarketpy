@@ -178,5 +178,14 @@
         "pubDate": "Thu, 27 Oct 2016 13:16:05 GMT",
         "source": "data\\PKI\\20170118.rss",
         "title": "Parkland Fuel Corporation Acquires the Assets of PNE Corporation and Three Service Stations in Wyoming"
+    },
+    {
+        "contents": "data\\PKI\\20170123-091207.news",
+        "description": null,
+        "guid": "yahoo_finance/3572031050",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500423.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\PKI\\20170123.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge Income Fund Holdings, NuVista Energy, Canyon Services Group, and Parkland Fuel"
     }
 ]

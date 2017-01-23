@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:30:00 GMT",
         "source": "data\\MNW\\20170119.rss",
         "title": "Mitel Launches Cloud Communications Portfolio in South Africa With EOH"
+    },
+    {
+        "contents": "data\\MNW\\20170123-090222.news",
+        "description": null,
+        "guid": "yahoo_finance/2280845417",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500220.html",
+        "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
+        "source": "data\\MNW\\20170123.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks Wi-LAN, BlackBerry, Mitel Networks, and Sandvine"
     }
 ]

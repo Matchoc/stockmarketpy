@@ -385,5 +385,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\AIF\\20170119.rss",
         "title": "Research Reports Initiated on Technology Stocks Altus Group, Espial Group, GoldMoney, and Intrinsyc Technologies"
+    },
+    {
+        "contents": "data\\AIF\\20170123-090048.news",
+        "description": null,
+        "guid": "yahoo_finance/1782840489",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/2017-real-confidence-university-challenge-133000480.html",
+        "pubDate": "Mon, 23 Jan 2017 13:30:00 GMT",
+        "source": "data\\AIF\\20170123.rss",
+        "title": "2017 Real Confidence University Challenge Reveals Top Real Estate Picks of Future Leaders"
     }
 ]

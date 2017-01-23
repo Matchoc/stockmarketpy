@@ -178,5 +178,14 @@
         "pubDate": "Wed, 26 Oct 2016 11:00:00 GMT",
         "source": "data\\PBH\\20170118.rss",
         "title": "Premium Brands Holdings Corporation Announces Third Quarter 2016 Conference Call"
+    },
+    {
+        "contents": "data\\PBH\\20170123-091307.news",
+        "description": null,
+        "guid": "yahoo_finance/2753222202",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14nufa6mh/*http://www.capitalcube.com/blog/index.php/premium-brands-holdings-corp-breached-its-50-day-moving-average-in-a-bullish-manner-pbh-ca-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 13:48:23 GMT",
+        "source": "data\\PBH\\20170123.rss",
+        "title": "Premium Brands Holdings Corp. breached its 50 day moving average in a Bullish Manner : PBH-CA : January 23, 2017"
     }
 ]

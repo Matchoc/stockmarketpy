@@ -889,5 +889,14 @@
         "pubDate": "Sun, 22 Jan 2017 03:29:23 GMT",
         "source": "data\\ABX\\20170122.rss",
         "title": "Why Barrick Gold Is a Long Term Pick"
+    },
+    {
+        "contents": "data\\ABX\\20170123-090458.news",
+        "description": null,
+        "guid": "yahoo_finance/3616483916",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-futures-trend-week-004209848.html",
+        "pubDate": "Mon, 23 Jan 2017 00:42:09 GMT",
+        "source": "data\\ABX\\20170123.rss",
+        "title": "Gold and Futures Trend Up for the Week"
     }
 ]

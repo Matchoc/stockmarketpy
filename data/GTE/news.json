@@ -178,5 +178,23 @@
         "pubDate": "Wed, 16 Nov 2016 16:51:59 GMT",
         "source": "data\\GTE\\20170118.rss",
         "title": "ETFs with exposure to Gran Tierra Energy, Inc. : November 16, 2016"
+    },
+    {
+        "contents": "data\\GTE\\20170123-090334.news",
+        "description": "[Marketwired] - Gran Tierra Energy Inc. , a company focused on oil exploration and production in Colombia, today announced the Company's 2016 year-end estimated reserves as evaluated by the Company's independent qualified ...",
+        "guid": "yahoo_finance/3547203957",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gran-tierra-energy-inc-completes-110100695.html",
+        "pubDate": "Mon, 23 Jan 2017 11:01:00 GMT",
+        "source": "data\\GTE\\20170123.rss",
+        "title": "Gran Tierra Energy Inc. Completes a Transformational Year and Announces a 91% Increase in 2P Reserves and a 146% increase in 3P Reserves"
+    },
+    {
+        "contents": "data\\GTE\\20170123-090337.news",
+        "description": "[Marketwired] - Gran Tierra Energy Inc. , a company focused on oil and gas exploration and production in Colombia, is pleased to provide today an operational update. All dollar amounts are in United States dollars, unless ...",
+        "guid": "yahoo_finance/1798479849",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gran-tierra-energy-inc-provides-110000117.html",
+        "pubDate": "Mon, 23 Jan 2017 11:00:00 GMT",
+        "source": "data\\GTE\\20170123.rss",
+        "title": "Gran Tierra Energy Inc. Provides Operational Update"
     }
 ]

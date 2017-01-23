@@ -178,5 +178,59 @@
         "pubDate": "Wed, 26 Oct 2016 12:50:08 GMT",
         "source": "data\\SPE\\20170118.rss",
         "title": "Spartan Energy Corp. breached its 50 day moving average in a Bearish Manner : SPE-CA : October 26, 2016"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091034.news",
+        "description": null,
+        "guid": "yahoo_finance/2862862607",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13618e0n7/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-spartan-energy-corp-october-12-2016/",
+        "pubDate": "Wed, 12 Oct 2016 14:01:12 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "ETF\u2019s with exposure to Spartan Energy Corp. : October 12, 2016"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091034.news",
+        "description": null,
+        "guid": "yahoo_finance/680790370",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13caokcla/*http://www.capitalcube.com/blog/index.php/spartan-energy-corp-value-analysis-torontospe-september-30-2016/",
+        "pubDate": "Fri, 30 Sep 2016 14:40:16 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "Spartan Energy Corp. \u2013 Value Analysis (TORONTO:SPE) : September 30, 2016"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091035.news",
+        "description": "[at noodls] - SPARTAN EXPLORATION LTD Suite 500, 850 - 2nd Street SW Calgary, AB T2P 0R8 Canada Ph.: (403) 355-8920 Fax: (403) 355-2779 SPARTAN ENERGY CORP. ANNOUNCES TWO CONSOLIDATING SOUTHEAST SASKATCHEWAN LIGHT OIL ...",
+        "guid": "yahoo_finance/2730709571",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bbjk6i/*http://www.publicnow.com/view/ADC3D6C9460C9CE4BC3893CBDCF9937693D2CF76",
+        "pubDate": "Wed, 29 Jun 2016 21:21:04 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "Spartan Energy Corp. Announces Two Consolidating Southeast Saskatchewan Light Oil Acquisitions and Bank Line Redetermination"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091035.news",
+        "description": "[at noodls] - b119c669-f508-43e9-a079-76c3bf41dea0.pdf Suite 500, 850 - 2nd Street SW Calgary, AB T2P 0R8 Canada Ph.: (403) 355-8920 Fax: (403) 355-2779 SPARTAN ENERGY CORP. ANNOUNCES CLOSING OF STRATEGIC SOUTHEAST ...",
+        "guid": "yahoo_finance/345664114",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1280nkg50/*http://www.publicnow.com/view/CED721EE99315981B0E8797F67A779F2F26CDC56",
+        "pubDate": "Fri, 24 Jun 2016 17:00:04 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "Spartan Energy Corp. Announces Closing of Strategic Southeast Saskatchewan Light Oil Acquisition"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091035.news",
+        "description": "[at noodls] - Microsoft Word - DOCS-#15568761-v6-Spartan_-_Project_Winchester_-_Press_Release.DOC Suite 500, 850 - 2nd Street SW Calgary, AB T2P 0R8 Canada Ph.: (403) 355-8920 Fax: (403) 355-2779 SPARTAN ENERGY CORP. ...",
+        "guid": "yahoo_finance/3370886557",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1285l6n36/*http://www.publicnow.com/view/8250313302FF281B01827FB7D1CC84849A13F62C",
+        "pubDate": "Thu, 02 Jun 2016 21:15:06 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "Spartan Energy Corp. Announces Strategic Southeast Saskatchewan Light Oil Acquisition"
+    },
+    {
+        "contents": "data\\SPE\\20170123-091035.news",
+        "description": "[at noodls] - Microsoft Word - Press Release - Q1 2016 Results v2.doc Suite 500, 850 - 2nd Street SW Calgary, AB T2P 0R8 Canada Ph.: (403) 355-8920 Fax: (403) 355-2779 SPARTAN ENERGY CORP. ANNOUNCES FIRST QUARTER FINANCIAL ...",
+        "guid": "yahoo_finance/2371875915",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12841s1fj/*http://www.publicnow.com/view/CA840C4F0F337655A8ECC5E929076228661CAB02",
+        "pubDate": "Wed, 11 May 2016 12:52:09 GMT",
+        "source": "data\\SPE\\20170123.rss",
+        "title": "Spartan Energy Corp. Announces First Quarter 2016 Financial and Operating Results, Highlighted by Record Quarterly Production of 9,683 boe/d"
     }
 ]

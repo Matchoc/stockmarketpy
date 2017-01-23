@@ -196,5 +196,14 @@
         "pubDate": "Fri, 20 Jan 2017 23:23:44 GMT",
         "source": "data\\OTC\\20170121.rss",
         "title": "7 Stocks for 2017"
+    },
+    {
+        "contents": "data\\OTC\\20170123-090625.news",
+        "description": "[PR Newswire] - WATERLOO, Ontario, Jan. 23, 2017 /PRNewswire/ -- OpenText\u2122 (NASDAQ: OTEX, TSX: OTC), a global leader in Enterprise Information Management (EIM), today announced that it has completed the closing of the ...",
+        "guid": "yahoo_finance/3991435268",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/opentext-buys-documentum-134500766.html",
+        "pubDate": "Mon, 23 Jan 2017 13:45:00 GMT",
+        "source": "data\\OTC\\20170123.rss",
+        "title": "OpenText Buys Documentum"
     }
 ]

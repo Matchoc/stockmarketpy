@@ -295,5 +295,14 @@
         "pubDate": "Mon, 30 Nov 2015 15:44:34 GMT",
         "source": "data\\APS\\20170110.rss",
         "title": "Should You Buy Aptose Biosciences Inc (APTO)?"
+    },
+    {
+        "contents": "data\\APS\\20170123-091117.news",
+        "description": "[GlobeNewswire] - Pauses APTO-253 to Elucidate Manufacturing Setback. --Company to Host Conference Call Today at 8:30 AM ET--. SAN DIEGO and TORONTO, Jan. 23, 2017-- Aptose Biosciences Inc., a clinical-stage company developing ...",
+        "guid": "yahoo_finance/3194694268",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/aptose-prioritizes-development-cg-806-120000032.html",
+        "pubDate": "Mon, 23 Jan 2017 12:00:00 GMT",
+        "source": "data\\APS\\20170123.rss",
+        "title": "Aptose Prioritizes Development of CG\u2019806 First-in Class FLT3/BTK Inhibitor"
     }
 ]

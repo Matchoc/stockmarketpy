@@ -196,5 +196,23 @@
         "pubDate": "Fri, 20 Jan 2017 15:04:18 GMT",
         "source": "data\\G\\20170121.rss",
         "title": "Goldcorp Reports Preliminary Operating Results for 2016"
+    },
+    {
+        "contents": "data\\G\\20170123-091250.news",
+        "description": null,
+        "guid": "yahoo_finance/3616483916",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-futures-trend-week-004209848.html",
+        "pubDate": "Mon, 23 Jan 2017 00:42:09 GMT",
+        "source": "data\\G\\20170123.rss",
+        "title": "Gold and Futures Trend Up for the Week"
+    },
+    {
+        "contents": "data\\G\\20170123-091252.news",
+        "description": null,
+        "guid": "yahoo_finance/1160906739",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12f0r45n1/*http://www.fool.com/investing/2017/01/21/these-stocks-could-soar-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Sun, 22 Jan 2017 14:28:22 GMT",
+        "source": "data\\G\\20170123.rss",
+        "title": "These Stocks Could Soar in 2017"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Wed, 14 Dec 2016 14:29:06 GMT",
         "source": "data\\RBA\\20170118.rss",
         "title": "3 Top Stocks Investors Continue to Overlook"
+    },
+    {
+        "contents": "data\\RBA\\20170123-090121.news",
+        "description": "[PR Newswire] - VANCOUVER, Jan. 23, 2017 /PRNewswire/ - Ritchie Bros. Auctioneers Incorporated (NYSE and TSX: RBA) announces that its Board of Directors has declared a quarterly cash dividend of US$0.17 per common share, ...",
+        "guid": "yahoo_finance/3285406644",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ritchie-bros-auctioneers-declares-quarterly-130000337.html",
+        "pubDate": "Mon, 23 Jan 2017 13:00:00 GMT",
+        "source": "data\\RBA\\20170123.rss",
+        "title": "Ritchie Bros. Auctioneers Declares Quarterly Dividend"
     }
 ]

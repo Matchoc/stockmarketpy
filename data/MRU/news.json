@@ -178,5 +178,14 @@
         "pubDate": "Wed, 16 Nov 2016 11:48:07 GMT",
         "source": "data\\MRU\\20170118.rss",
         "title": "Metro reports 2016 fourth-quarter results"
+    },
+    {
+        "contents": "data\\MRU\\20170123-091136.news",
+        "description": null,
+        "guid": "yahoo_finance/99912815",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-120000603.html",
+        "pubDate": "Mon, 23 Jan 2017 12:00:00 GMT",
+        "source": "data\\MRU\\20170123.rss",
+        "title": "/R E P E A T -- Metro Inc. to Release 2017 First Quarter Results/"
     }
 ]

@@ -331,5 +331,14 @@
         "pubDate": "Fri, 22 Jan 2016 04:53:01 GMT",
         "source": "data\\HBM\\20170119.rss",
         "title": "Hudbay to Attend Upcoming January Investor Conferences"
+    },
+    {
+        "contents": "data\\HBM\\20170123-091227.news",
+        "description": null,
+        "guid": "yahoo_finance/3509962034",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/uptrend-continue-hudbay-minerals-hbm-130201507.html",
+        "pubDate": "Mon, 23 Jan 2017 13:02:01 GMT",
+        "source": "data\\HBM\\20170123.rss",
+        "title": "Can The Uptrend Continue for Hudbay Minerals (HBM)?"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Wed, 02 Nov 2016 12:54:00 GMT",
         "source": "data\\IAG\\20170118.rss",
         "title": "IIROC Trade Resumption - IAG"
+    },
+    {
+        "contents": "data\\IAG\\20170123-090133.news",
+        "description": null,
+        "guid": "yahoo_finance/1267349454",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=15fqqjs13/*http://www.capitalcube.com/blog/index.php/industrial-alliance-insurance-financial-services-inc-breached-its-50-day-moving-average-in-a-bullish-manner-iag-ca-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 13:49:51 GMT",
+        "source": "data\\IAG\\20170123.rss",
+        "title": "Industrial Alliance Insurance & Financial Services, Inc. breached its 50 day moving average in a Bullish Manner : IAG-CA : January 23, 2017"
     }
 ]

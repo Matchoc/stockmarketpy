@@ -178,5 +178,32 @@
         "pubDate": "Thu, 08 Dec 2016 19:37:59 GMT",
         "source": "data\\EDV\\20170118.rss",
         "title": "ETFs with exposure to Endeavour Mining Corp. : December 8, 2016"
+    },
+    {
+        "contents": "data\\EDV\\20170123-090017.news",
+        "description": null,
+        "guid": "yahoo_finance/1964643093",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/endeavour-mining-sees-higher-gold-132632436.html",
+        "pubDate": "Mon, 23 Jan 2017 13:26:32 GMT",
+        "source": "data\\EDV\\20170123.rss",
+        "title": "Endeavour Mining sees higher gold production in 2017"
+    },
+    {
+        "contents": "data\\EDV\\20170123-090019.news",
+        "description": "[GlobeNewswire] - Unaudited Preliminary Financial and Operating Results. Endeavour Posts Record Performance in Q4, Meets 2016 Guidance and Expects Further Production Growth and AISC Reduction in 2017. View News Release ...",
+        "guid": "yahoo_finance/3280766591",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/endeavour-posts-record-performance-q4-122037223.html",
+        "pubDate": "Mon, 23 Jan 2017 12:20:37 GMT",
+        "source": "data\\EDV\\20170123.rss",
+        "title": "Endeavour Posts Record Performance in Q4, Meets 2016 Guidance and Expects Further Production Growth and AISC Reduction in 2017"
+    },
+    {
+        "contents": "data\\EDV\\20170123-090021.news",
+        "description": "[GlobeNewswire] - Unaudited Preliminary Financial and Operating Results Endeavour Posts Record Performance in Q4, Meets 2016 Guidance and Expects Further Production Growth and AISC Reduction in 2017 View News Release in ...",
+        "guid": "yahoo_finance/775592213",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/endeavour-posts-record-performance-q4-121802648.html",
+        "pubDate": "Mon, 23 Jan 2017 12:18:02 GMT",
+        "source": "data\\EDV\\20170123.rss",
+        "title": "Endeavour Posts Record Performance in Q4, Meets 2016 Guidance and Expects Further Production Growth and AISC Reduction in 2017"
     }
 ]
