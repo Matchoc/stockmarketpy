@@ -187,5 +187,23 @@
         "pubDate": "Mon, 23 Jan 2017 12:00:00 GMT",
         "source": "data\\MRU\\20170123.rss",
         "title": "/R E P E A T -- Metro Inc. to Release 2017 First Quarter Results/"
+    },
+    {
+        "contents": "data\\MRU\\20170124-090602.news",
+        "description": null,
+        "guid": "yahoo_finance/2592067130",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170124.html?t=mru.to",
+        "pubDate": "Tue, 24 Jan 2017 12:07:03 GMT",
+        "source": "data\\MRU\\20170124.rss",
+        "title": "Q1 2017 Metro Inc Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\MRU\\20170124-090602.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Jan. 24, 2017 /CNW Telbec/ - METRO INC. (TSX: MRU) today announced its results for the first quarter of fiscal 2017 ended December 17, 2016. 2017 FIRST QUARTER HIGHLIGHTS Fully diluted net earnings ...",
+        "guid": "yahoo_finance/3272526935",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/metro-reports-2017-first-quarter-120000771.html",
+        "pubDate": "Tue, 24 Jan 2017 12:00:00 GMT",
+        "source": "data\\MRU\\20170124.rss",
+        "title": "METRO reports 2017 first quarter results"
     }
 ]

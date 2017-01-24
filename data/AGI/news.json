@@ -187,5 +187,167 @@
         "pubDate": "Fri, 20 Jan 2017 22:10:08 GMT",
         "source": "data\\AGI\\20170121.rss",
         "title": "Alamos Gold Provides Notice of Fourth Quarter and Year-End 2016 Financial Results and Conference Call"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090408.news",
+        "description": null,
+        "guid": "yahoo_finance/3850550707",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ef07ure/*http://marketrealist.com/2016/11/analyzing-the-correlation-of-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 28 Nov 2016 13:06:10 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Analyzing the Correlation of Mining Stocks"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090409.news",
+        "description": null,
+        "guid": "yahoo_finance/3220989278",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12s9njtef/*http://marketrealist.com/2016/11/assessing-mining-companies-recent-correlations-with-gold/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 16 Nov 2016 19:04:22 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Assessing Mining Companies\u2019 Recent Correlations with Gold"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090410.news",
+        "description": null,
+        "guid": "yahoo_finance/3631364945",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=133g6eucj/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-alamos-gold-inc-november-16-2016/",
+        "pubDate": "Wed, 16 Nov 2016 17:34:34 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "ETFs with exposure to Alamos Gold, Inc. : November 16, 2016"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090412.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Nov. 10, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported its ...",
+        "guid": "yahoo_finance/3500630065",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1280qopoe/*http://www.publicnow.com/view/250C983A6173F379E077940DDD222219162B2DF1",
+        "pubDate": "Thu, 10 Nov 2016 11:11:05 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports Third Quarter 2016 Results and Provides Exploration Update at La Yaqui"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090412.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Oct. 21, 2016) -Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today announced the purchase of 25,300,000 common shares (the 'Shares') of Corex Gold Corp. ...",
+        "guid": "yahoo_finance/1801948885",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ovdtls/*http://www.publicnow.com/view/E6BB7F2753EC3E93033BB28056C2DA355D09D948",
+        "pubDate": "Fri, 21 Oct 2016 11:09:01 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Announces Investment in Corex Gold Corp."
+    },
+    {
+        "contents": "data\\AGI\\20170124-090412.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Oct. 11, 2016) -Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') plans to release its third quarter 2016 financial results before the start of trading on ...",
+        "guid": "yahoo_finance/2100045757",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128htj63l/*http://www.publicnow.com/view/972EFF2EE4888E822683068EDABB5DC30FB8F123",
+        "pubDate": "Tue, 11 Oct 2016 21:25:01 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Provides Notice of Third Quarter 2016 Results and Conference Call"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Oct. 6, 2016) -Alamos Gold Inc.(TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported it has received final approval of the Environmental Impact Assessment ('EIA') ...",
+        "guid": "yahoo_finance/3731271946",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gkb8rv/*http://www.publicnow.com/view/ABB08B7B5EB588576D13E9C2A59E108D15B69BAC",
+        "pubDate": "Thu, 06 Oct 2016 11:09:02 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Receives EIA Approval for La Yaqui Project"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Sept. 30, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today announced that ...",
+        "guid": "yahoo_finance/2779367114",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128leeq9l/*http://www.publicnow.com/view/E75D2B0A369B1AA5B93F26C106EAC2815090D738",
+        "pubDate": "Fri, 30 Sep 2016 11:11:05 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Declares Semi-Annual Dividend"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Sept. 12, 2016) - Alamos Gold Inc.(TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported an updated National Instrument 43-101 compliant mineral resource estimate ...",
+        "guid": "yahoo_finance/2631367053",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128aij7fc/*http://www.publicnow.com/view/17D1360ECAD6BC73C9AC2F05AB5CA21E46BE4B0C",
+        "pubDate": "Mon, 12 Sep 2016 10:08:03 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports Significant Interim Increase in Mineral Resources at La Yaqui"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Aug. 10, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc.(TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported its financial ...",
+        "guid": "yahoo_finance/860548767",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rn9uvs/*http://www.publicnow.com/view/647F30D65FFCBF8EE84D2171679345E43BAF0D35",
+        "pubDate": "Wed, 10 Aug 2016 11:40:32 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports Second Quarter 2016 Results and Provides Exploration Update at Mulatos"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - June 30, 2016) -Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') plans to release its second quarter 2016 financial results before the start of trading ...",
+        "guid": "yahoo_finance/3438715962",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ribkqf/*http://www.publicnow.com/view/2546512AADF1462D8B57CF522EAF06640E5988B8",
+        "pubDate": "Thu, 30 Jun 2016 15:31:03 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Provides Notice of Second Quarter 2016 Results and Conference Call"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - May 16, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc.(TSX:AGI) (NYSE:AGI) ('Alamos' or the 'Company') is providing a summary ...",
+        "guid": "yahoo_finance/3500564891",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286pet9c/*http://www.publicnow.com/view/45AADDF1FC058DD3F173209E2E4532BAB16C7573",
+        "pubDate": "Mon, 16 May 2016 16:12:03 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Announces Results of the Annual General and Special Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - May 12, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc.(TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported its financial ...",
+        "guid": "yahoo_finance/1607746348",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gualnh/*http://www.publicnow.com/view/B108E4FCD1222A6E6B39E0C72E3AA2CA9840DB38",
+        "pubDate": "Thu, 12 May 2016 10:17:07 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - April 4, 2016) - All amounts are in United States dollars, unless otherwise stated. ... This is an abstract of the original noodl. To continue reading this document, click ...",
+        "guid": "yahoo_finance/2362791953",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128eph7oi/*http://www.publicnow.com/view/D08553E90B9925ABE2BCC9735ACD72C70A2F9DF6",
+        "pubDate": "Mon, 04 Apr 2016 21:33:06 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Provides Notice of First Quarter 2016 Results and Conference Call, Annual Meeting of Shareholders and Completion of Annual Filings"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090413.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - March 29, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc.(TSX:AGI) (NYSE:AGI) ('Alamos' or the 'Company') today announced that ...",
+        "guid": "yahoo_finance/1402459387",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128paneg0/*http://www.publicnow.com/view/AE2B78A0B9D5BCCE2B5BB0E5E6806201A03948D7",
+        "pubDate": "Tue, 29 Mar 2016 15:44:10 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Declares Semi-Annual Dividend"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090414.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - March 24, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported its ...",
+        "guid": "yahoo_finance/1793705043",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128u0dhen/*http://www.publicnow.com/view/FFD1FC7A938D8E8DC2D3A9C6D8CE171AE3096495",
+        "pubDate": "Thu, 24 Mar 2016 10:31:56 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports Mineral Reserves and Resources for the Year-Ended 2015"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090414.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - March 24, 2016) - All amounts are in United States dollars, unless otherwise stated. Alamos Gold Inc. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') today reported financial ...",
+        "guid": "yahoo_finance/590174253",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128urgeoh/*http://www.publicnow.com/view/F78219B9DE518F5AE6648B2DBB5FA774DAF3C89C",
+        "pubDate": "Thu, 24 Mar 2016 10:31:56 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Reports Fourth Quarter and Year-End 2015 Results"
+    },
+    {
+        "contents": "data\\AGI\\20170124-090414.news",
+        "description": "[at noodls] - --( - ) - All amounts are in dollars, unless otherwise stated. (TSX:AGI)(NYSE:AGI) ('Alamos' or the 'Company') plans to release its fourth quarter and year-end 2015 financial results before the start of ...",
+        "guid": "yahoo_finance/1047624081",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128p55c40/*http://www.publicnow.com/view/D12B4A6FF7D05C9F7089EF3AA92CF437DE9B9EE9",
+        "pubDate": "Thu, 28 Jan 2016 19:52:27 GMT",
+        "source": "data\\AGI\\20170124.rss",
+        "title": "Alamos Gold Provides Notice of Fourth Quarter and Year-End 2015 Financial Results and Conference Call"
     }
 ]

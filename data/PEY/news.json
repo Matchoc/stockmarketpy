@@ -367,5 +367,14 @@
         "pubDate": "Fri, 15 Apr 2016 20:57:17 GMT",
         "source": "data\\PEY\\20170120.rss",
         "title": "Peyto confirms Q2 dividends"
+    },
+    {
+        "contents": "data\\PEY\\20170124-090628.news",
+        "description": null,
+        "guid": "yahoo_finance/2313855686",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-energy-stocks-lead-153931120.html",
+        "pubDate": "Mon, 23 Jan 2017 15:39:31 GMT",
+        "source": "data\\PEY\\20170124.rss",
+        "title": "CANADA STOCKS-Energy stocks lead broad declines, miners buck trend"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:38:53 GMT",
         "source": "data\\VET\\20170120.rss",
         "title": "Vermilion Energy, Inc. \u2013 Value Analysis (TORONTO:VET) : January 19, 2017"
+    },
+    {
+        "contents": "data\\VET\\20170124-091343.news",
+        "description": null,
+        "guid": "yahoo_finance/1474432971",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500569.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\VET\\20170124.rss",
+        "title": "Research Reports Initiated on Energy Stocks Painted Pony Petroleum, Vermilion Energy, Seven Generations Energy, and Cardinal Energy"
     }
 ]

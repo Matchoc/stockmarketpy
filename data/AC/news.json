@@ -196,5 +196,14 @@
         "pubDate": "Mon, 23 Jan 2017 04:33:45 GMT",
         "source": "data\\AC\\20170123.rss",
         "title": "United flights delayed after computer glitch grounds U.S. planes"
+    },
+    {
+        "contents": "data\\AC\\20170124-090915.news",
+        "description": "[PR Newswire] - MONTREAL, Jan. 23, 2017 /CNW Telbec/ - Air Canada has launched its new, completely re-designed website www.aircanada.com which now offers a simple, intuitive user experience that is fully accessible across all devices and screen sizes, enhanced functionality and an easier-than-ever booking process. \"Thank you to the thousands of customers and Air Canada employees whose feedback drove our redesign efforts,\" said Lucie Guillemette, Executive Vice President and Chief Commercial Officer. \"The site's new features include an easier flight shopping experience by eliminating about half of the steps required to make a booking, enhanced accessibility for customers with special needs, and streamlined, simple and easier-to-find information.",
+        "guid": "yahoo_finance/1668519498",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/designed-aircanada-com-website-offers-143300462.html",
+        "pubDate": "Mon, 23 Jan 2017 14:33:00 GMT",
+        "source": "data\\AC\\20170124.rss",
+        "title": "Re-designed aircanada.com Website Offers Modern Digital Customer Experience and Enhanced Functionality"
     }
 ]

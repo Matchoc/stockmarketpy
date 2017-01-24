@@ -178,5 +178,14 @@
         "pubDate": "Wed, 06 Jul 2016 21:13:00 GMT",
         "source": "data\\HR-UN\\20170118.rss",
         "title": "H&R announces July and August distributions"
+    },
+    {
+        "contents": "data\\HR-UN\\20170124-091102.news",
+        "description": null,
+        "guid": "yahoo_finance/2993688400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-real-estate-131500859.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\HR-UN\\20170124.rss",
+        "title": "Research Reports Initiated on Real Estate Stocks RioCan REIT, H and R REIT, Brookfield Property Partners, and First Capital Realty"
     }
 ]

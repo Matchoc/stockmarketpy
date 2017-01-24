@@ -196,5 +196,23 @@
         "pubDate": "Thu, 03 Nov 2016 12:00:00 GMT",
         "source": "data\\DHX-B\\20170118.rss",
         "title": "DHX Media Receives CRTC Approval to Permit Advertising on Family Channel"
+    },
+    {
+        "contents": "data\\DHX-B\\20170124-091346.news",
+        "description": null,
+        "guid": "yahoo_finance/1419349220",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dhx-medias-wildbrain-manage-grow-130000558.html",
+        "pubDate": "Tue, 24 Jan 2017 13:00:00 GMT",
+        "source": "data\\DHX-B\\20170124.rss",
+        "title": "DHX Media's WildBrain to manage and grow key Moose Toys' YouTube channels globally"
+    },
+    {
+        "contents": "data\\DHX-B\\20170124-091348.news",
+        "description": null,
+        "guid": "yahoo_finance/2394422986",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14arpb9s8/*http://www.capitalcube.com/blog/index.php/dhx-media-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-dhx-b-ca-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 13:56:46 GMT",
+        "source": "data\\DHX-B\\20170124.rss",
+        "title": "DHX Media Ltd. breached its 50 day moving average in a Bearish Manner : DHX.B-CA : January 23, 2017"
     }
 ]

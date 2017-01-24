@@ -178,5 +178,158 @@
         "pubDate": "Thu, 27 Oct 2016 12:06:08 GMT",
         "source": "data\\CTC-A\\20170118.rss",
         "title": "Media Advisory - Canadian Tire Corporation Third Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090341.news",
+        "description": null,
+        "guid": "yahoo_finance/2656151694",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-canadian-tire-corporation-120000820.html",
+        "pubDate": "Thu, 27 Oct 2016 12:00:00 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Media Advisory - Canadian Tire Corporation Third Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090343.news",
+        "description": null,
+        "guid": "yahoo_finance/3934276117",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-canadian-tire-corporation-120000542.html",
+        "pubDate": "Thu, 27 Oct 2016 12:00:00 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Media Advisory - Canadian Tire Corporation Third Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090344.news",
+        "description": null,
+        "guid": "yahoo_finance/3726505435",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-photo-opportunity-canadas-153900504.html",
+        "pubDate": "Thu, 20 Oct 2016 15:39:00 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Media Advisory/Photo Opportunity - Canada's Sports Hall of Fame Induction Celebrations"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090347.news",
+        "description": null,
+        "guid": "yahoo_finance/1765291834",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-tire-corporations-mary-turner-151300372.html",
+        "pubDate": "Wed, 12 Oct 2016 15:13:00 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation's Mary Turner to Retire From Canadian Tire Bank"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090349.news",
+        "description": "[at noodls] - Full-size digital experience connects families, friends and fans of Olympians in Canadawith athletes in Rio TORONTO, Aug. 10, 2016/CNW/ - For the first time ever, Canadians will be given the opportunity ...",
+        "guid": "yahoo_finance/849099466",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12834n4v0/*http://www.publicnow.com/view/4EDC7B5E9DB05967C2DCB9E8BD9B190C8327C755",
+        "pubDate": "Wed, 10 Aug 2016 19:51:02 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire's Red Door to Rio Provides Unprecedented Connection to Canada Olympic House"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090349.news",
+        "description": "[at noodls] - Same store sales up in all core retail banners: 2.9% at Canadian Tire Retail 7.2% at Sport Chek 4.6% at Mark's Second quarter diluted earnings per share was $2.46, up 14.5% Retail EBITDA increased by 11.2% ...",
+        "guid": "yahoo_finance/1262462498",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287r2os5/*http://www.publicnow.com/view/FCA15544B369B7D0E78BB86C328899AA113F7EB1",
+        "pubDate": "Thu, 04 Aug 2016 16:12:06 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation Delivers Strong Q2 Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - TORONTO, July 28, 2016/CNW/ - Sport Chek today opens its 80,000 square foot flagship retail location at CF Sherway Gardens - the company's sixth flagship location and the third in the Greater Toronto Area(GTA) ...",
+        "guid": "yahoo_finance/4067509281",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128g7g876/*http://www.publicnow.com/view/60C5B7FFF6165EE167111F2D4C037B60BF4FF43E",
+        "pubDate": "Thu, 28 Jul 2016 11:18:16 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Sport Chek Unveils World-Class Retail Experience At New Sherway Gardens Flagship Store In Toronto"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - TORONTO, July 13, 2016/CNW/ - The Board of Directors of Canadian Tire Corporation today announced the appointment of Stephen Wetmoreas President and CEO of the Company, effective immediately. Mr. Wetmore ...",
+        "guid": "yahoo_finance/362060559",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ibkou3/*http://www.publicnow.com/view/17501D59D4419C873056AE09C873F0499E172CB0",
+        "pubDate": "Wed, 13 Jul 2016 10:43:03 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation Calls Back Transformational Leader"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - First Canadian company to win under the Creative Data category CALGARY, June 24, 2016/CNW/ - Earlier this week, Mark's (@MarksCanada) was recognized as a world leader in innovative, real-time marketing ...",
+        "guid": "yahoo_finance/2015677092",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hngfj9/*http://www.publicnow.com/view/080A795E96D52EED2390CA3C2033299A28F78261",
+        "pubDate": "Fri, 24 Jun 2016 16:20:04 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Mark's Wins Prestigious Cannes Lions Award"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - Equipment Donation to be Celebrated with Six Base Tour During Canadian Armed Forces Recreation Month TORONTO, June 13, 2016/CNW/ - As part of a $300,000commitment, Canadian Tire will embark on a military ...",
+        "guid": "yahoo_finance/1810189320",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287nhnci/*http://www.publicnow.com/view/D8BDD1635472E0A4AF2213DD6664ECE1198369A5",
+        "pubDate": "Mon, 13 Jun 2016 14:19:07 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Partners with Canadian Forces Morale and Welfare Services Supporting Military Families to Live Healthy, Active Lifestyles"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - TORONTO, June 10, 2016/CNW/ - Canadian Tire is voluntarily recalling select units of the Mastercraft Work Platform (Product #061-1015) manufactured in 2013 due to potential safety concerns. Only the following ...",
+        "guid": "yahoo_finance/2753427728",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uvb0kk/*http://www.publicnow.com/view/7C260D457B88936518842EB06188473A363E0298",
+        "pubDate": "Fri, 10 Jun 2016 21:19:03 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire voluntarily recalls select units of Mastercraft Work Platform"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090350.news",
+        "description": "[at noodls] - TORONTO, May 31, 2016/CNW/ - Canadian Tire Corporation, Limited ('CTC') announces today that since the initial public offering of CT Real Estate Investment Trust (the 'REIT') on October 23, 2013(the 'IPO'), ...",
+        "guid": "yahoo_finance/3586874721",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128sgur4l/*http://www.publicnow.com/view/26E82EE9B0776BFF848325421DCAE427445A0F45",
+        "pubDate": "Tue, 31 May 2016 22:03:05 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation reports its holdings in CT Real Estate Investment Trust"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090351.news",
+        "description": "[at noodls] - TORONTO, May 12, 2016/CNW/ - Canadian Tire Corporation, Limited (the 'Company') (TSX:CTC) (TSX:CTC.a) announced today that each of the sixteen director nominees listed in the Company's Management Information ...",
+        "guid": "yahoo_finance/1314323737",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128erbi82/*http://www.publicnow.com/view/FF44B3984F9AFCFFF4BF2E8650CB3FE80440A660",
+        "pubDate": "Thu, 12 May 2016 21:27:04 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation Announces Election of Directors"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090351.news",
+        "description": "[at noodls] - Same store sales up in all core retail banners: 1.0% at Canadian Tire Retail 12.3% at Sport Chek 0.8% at Mark's Retail EBITDA increased by 8.8% First quarter diluted earnings per share was $0.90, up 2.6% ...",
+        "guid": "yahoo_finance/1502516060",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128re6inv/*http://www.publicnow.com/view/62647002CCEEC14F49B141E75738F8600F1E385E",
+        "pubDate": "Thu, 12 May 2016 10:37:08 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Canadian Tire Corporation Delivers Strong Q1 Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090351.news",
+        "description": "[at noodls] - Your Better Starts At Sport Chek's New Location On Popular Robson Street VANCOUVER, May 9, 2016/CNW/ - Sport Chek (@SportChek), Canada'slargest sporting goods retailer, opened its doors today to a new ...",
+        "guid": "yahoo_finance/848017408",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128olnjvc/*http://www.publicnow.com/view/D26B56C3F2627919E262D9DECC265B168B74D67F",
+        "pubDate": "Mon, 09 May 2016 13:28:04 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Sport Chek Expands Presence In Greater Vancouver With New Flagship Store"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090351.news",
+        "description": "[at noodls] - TORONTO, April 28, 2016/CNW/ - Canadian Tire Corporation, Limited (CTC, CTC.A) will hold its Annual General Meeting of Shareholders and report first quarter 2016 results. ... This is an abstract of the ...",
+        "guid": "yahoo_finance/1788386560",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284jvhdn/*http://www.publicnow.com/view/F6D4F15B0842F387758098FA0C80AA01E04A5898",
+        "pubDate": "Thu, 28 Apr 2016 13:26:36 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Media Advisory: Canadian Tire Corporation Annual General Meeting of Shareholders and First Quarter Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170124-090351.news",
+        "description": "[at noodls] - TORONTO, April 15, 2016/CNW/ - Zhejiang Sojoy Auto is recalling one model of its heated seat cushions due to the potential of overheating. Affected units were sold exclusively at Canadian Tire stores across ...",
+        "guid": "yahoo_finance/395934941",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128dfagie/*http://www.publicnow.com/view/B568A0F89BDD496E07B60638A5B5D212B1095230",
+        "pubDate": "Fri, 15 Apr 2016 20:27:06 GMT",
+        "source": "data\\CTC-A\\20170124.rss",
+        "title": "Consumer Recall: AutoTrends Heated Seat Cushion"
     }
 ]

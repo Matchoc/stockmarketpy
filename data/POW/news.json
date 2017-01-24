@@ -241,5 +241,14 @@
         "pubDate": "Thu, 19 Jan 2017 14:01:28 GMT",
         "source": "data\\POW\\20170119.rss",
         "title": "Power Corp. of Canada breached its 50 day moving average in a Bearish Manner : POW-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\POW\\20170124-090610.news",
+        "description": null,
+        "guid": "yahoo_finance/928279990",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-insurance-stocks-131500326.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\POW\\20170124.rss",
+        "title": "Research Reports Initiated on Insurance Stocks Industrial Alliance Insurance and Financial Services, Power Corp of Canada, Power Financial, and Manulife Financial"
     }
 ]

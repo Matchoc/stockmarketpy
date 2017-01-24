@@ -178,5 +178,14 @@
         "pubDate": "Wed, 14 Sep 2016 20:00:00 GMT",
         "source": "data\\FRU\\20170118.rss",
         "title": "Freehold Royalties Ltd. Declares Dividend for October 2016"
+    },
+    {
+        "contents": "data\\FRU\\20170124-090540.news",
+        "description": null,
+        "guid": "yahoo_finance/2868557136",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hf035cr/*http://www.capitalcube.com/blog/index.php/freehold-royalties-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-fru-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:51:03 GMT",
+        "source": "data\\FRU\\20170124.rss",
+        "title": "Freehold Royalties Ltd. breached its 50 day moving average in a Bearish Manner : FRU-CA : January 24, 2017"
     }
 ]

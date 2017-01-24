@@ -322,5 +322,14 @@
         "pubDate": "Thu, 28 Jan 2016 02:01:34 GMT",
         "source": "data\\MX\\20170120.rss",
         "title": "Methanex Reports Fourth Quarter Results"
+    },
+    {
+        "contents": "data\\MX\\20170124-090014.news",
+        "description": null,
+        "guid": "yahoo_finance/3652492755",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-methanex-corporation-meoh-stock-134501672.html",
+        "pubDate": "Mon, 23 Jan 2017 13:45:01 GMT",
+        "source": "data\\MX\\20170124.rss",
+        "title": "Why Methanex Corporation (MEOH) Stock Might be a Great Pick"
     }
 ]

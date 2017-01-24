@@ -826,5 +826,14 @@
         "pubDate": "Mon, 23 Nov 2015 23:39:19 GMT",
         "source": "data\\VRX\\20170122.rss",
         "title": "Exclusive - ValueAct gains for the year wiped out by Valeant loss"
+    },
+    {
+        "contents": "data\\VRX\\20170124-090428.news",
+        "description": null,
+        "guid": "yahoo_finance/2584452764",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=132thmf0q/*https://www.thestreet.com/story/13962492/1/analysts-dismiss-citron-s-sour-take-on-transdigm.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 23 Jan 2017 19:45:00 GMT",
+        "source": "data\\VRX\\20170124.rss",
+        "title": "Analysts dismiss Citron's sour take on TransDigm"
     }
 ]

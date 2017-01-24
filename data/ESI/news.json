@@ -295,5 +295,14 @@
         "pubDate": "Fri, 20 Jan 2017 14:10:43 GMT",
         "source": "data\\ESI\\20170121.rss",
         "title": "Ensign Energy Services, Inc. breached its 50 day moving average in a Bullish Manner : ESI-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\ESI\\20170124-090947.news",
+        "description": null,
+        "guid": "yahoo_finance/1579787110",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13hd8fo60/*http://www.capitalcube.com/blog/index.php/ensign-energy-services-inc-value-analysis-torontoesi-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 16:48:30 GMT",
+        "source": "data\\ESI\\20170124.rss",
+        "title": "Ensign Energy Services, Inc. \u2013 Value Analysis (TORONTO:ESI) : January 23, 2017"
     }
 ]

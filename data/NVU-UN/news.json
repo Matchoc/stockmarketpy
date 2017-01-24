@@ -178,5 +178,14 @@
         "pubDate": "Fri, 15 Jul 2016 21:15:50 GMT",
         "source": "data\\NVU-UN\\20170119.rss",
         "title": "Northview Apartment REIT Announces July 2016 Distribution"
+    },
+    {
+        "contents": "data\\NVU-UN\\20170124-091117.news",
+        "description": null,
+        "guid": "yahoo_finance/1189579061",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northview-apartment-reit-announces-timing-192936752.html",
+        "pubDate": "Mon, 23 Jan 2017 19:29:36 GMT",
+        "source": "data\\NVU-UN\\20170124.rss",
+        "title": "Northview Apartment REIT Announces Timing of 2016 Fourth Quarter and Year End Earnings Report"
     }
 ]

@@ -358,5 +358,14 @@
         "pubDate": "Thu, 31 Mar 2016 14:35:19 GMT",
         "source": "data\\CWB\\20170121.rss",
         "title": "CWB announces closing of preferred share offering"
+    },
+    {
+        "contents": "data\\CWB\\20170124-091003.news",
+        "description": null,
+        "guid": "yahoo_finance/3538785437",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cwb-redeem-75-million-subordinated-220622622.html",
+        "pubDate": "Mon, 23 Jan 2017 22:06:22 GMT",
+        "source": "data\\CWB\\20170124.rss",
+        "title": "CWB to redeem $75 million of subordinated debentures"
     }
 ]

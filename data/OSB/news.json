@@ -205,5 +205,14 @@
         "pubDate": "Mon, 27 Jun 2016 15:30:00 GMT",
         "source": "data\\OSB\\20170121.rss",
         "title": "Norbord, Inc. breached its 50 day moving average in a Bearish Manner : OSB-CA : June 27, 2016"
+    },
+    {
+        "contents": "data\\OSB\\20170124-090649.news",
+        "description": null,
+        "guid": "yahoo_finance/2613728607",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-basic-materials-131500096.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\OSB\\20170124.rss",
+        "title": "Research Reports Initiated on Basic Materials Stocks West Fraser Timber, Norbord, Canfor, and Supremex"
     }
 ]

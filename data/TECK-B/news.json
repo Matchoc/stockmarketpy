@@ -61,5 +61,32 @@
         "pubDate": "Wed, 14 Dec 2016 13:04:45 GMT",
         "source": "data\\TECK-B\\20170118.rss",
         "title": "Teck Resources Ltd. breached its 50 day moving average in a Bearish Manner : TECK.B-CA : December 14, 2016"
+    },
+    {
+        "contents": "data\\TECK-B\\20170124-090048.news",
+        "description": "[Marketwired] - Teck Resources Limited President and Chief Executive Officer, Don Lindsay will be speaking at the CIBC Whistler Institutional Investor Conference on Thursday, January 26, 2017 at 11:00 a.m. Eastern/8:00 ...",
+        "guid": "yahoo_finance/3945211952",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/teck-media-investor-audiocast-advisory-001137192.html",
+        "pubDate": "Tue, 24 Jan 2017 00:11:37 GMT",
+        "source": "data\\TECK-B\\20170124.rss",
+        "title": "Teck Media and Investor Audiocast Advisory"
+    },
+    {
+        "contents": "data\\TECK-B\\20170124-090050.news",
+        "description": null,
+        "guid": "yahoo_finance/3224970229",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=135aegvll/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-teck-resources-ltd-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 19:05:39 GMT",
+        "source": "data\\TECK-B\\20170124.rss",
+        "title": "ETFs with exposure to Teck Resources Ltd. : January 19, 2017"
+    },
+    {
+        "contents": "data\\TECK-B\\20170124-090050.news",
+        "description": null,
+        "guid": "yahoo_finance/2093283866",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ger3p20/*http://www.capitalcube.com/blog/index.php/teck-resources-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-teck-b-ca-january-12-2017/",
+        "pubDate": "Thu, 12 Jan 2017 13:09:07 GMT",
+        "source": "data\\TECK-B\\20170124.rss",
+        "title": "Teck Resources Ltd. breached its 50 day moving average in a Bullish Manner : TECK.B-CA : January 12, 2017"
     }
 ]

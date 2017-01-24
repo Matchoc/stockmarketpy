@@ -430,5 +430,14 @@
         "pubDate": "Fri, 20 Jan 2017 22:08:08 GMT",
         "source": "data\\BTE\\20170121.rss",
         "title": "Baytex Announces Closing of Peace River Acquisition"
+    },
+    {
+        "contents": "data\\BTE\\20170124-090644.news",
+        "description": "[Marketwired] - Baytex Energy Corp. is pleased to announce that Edward LaFehr, President, will be presenting at the CIBC Whistler Institutional Investor Conference on Friday, January 27, 2017 at 8:35 am PST in Whistler, ...",
+        "guid": "yahoo_finance/2653926391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/baytex-present-cibc-whistler-conference-221500588.html",
+        "pubDate": "Mon, 23 Jan 2017 22:15:00 GMT",
+        "source": "data\\BTE\\20170124.rss",
+        "title": "Baytex to Present at CIBC Whistler Conference"
     }
 ]

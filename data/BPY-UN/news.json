@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 11:50:00 GMT",
         "source": "data\\BPY-UN\\20170123.rss",
         "title": "Brookfield Property Partners Proposes to Acquire All Units of Brookfield Canada Office Properties Not Currently Owned"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170124-090733.news",
+        "description": null,
+        "guid": "yahoo_finance/2993688400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-real-estate-131500859.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\BPY-UN\\20170124.rss",
+        "title": "Research Reports Initiated on Real Estate Stocks RioCan REIT, H and R REIT, Brookfield Property Partners, and First Capital Realty"
     }
 ]

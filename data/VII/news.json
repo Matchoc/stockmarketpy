@@ -196,5 +196,23 @@
         "pubDate": "Tue, 20 Sep 2016 11:50:15 GMT",
         "source": "data\\VII\\20170119.rss",
         "title": "PRESS DIGEST- Canada- Sept 20"
+    },
+    {
+        "contents": "data\\VII\\20170124-091353.news",
+        "description": null,
+        "guid": "yahoo_finance/1474432971",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500569.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\VII\\20170124.rss",
+        "title": "Research Reports Initiated on Energy Stocks Painted Pony Petroleum, Vermilion Energy, Seven Generations Energy, and Cardinal Energy"
+    },
+    {
+        "contents": "data\\VII\\20170124-091355.news",
+        "description": null,
+        "guid": "yahoo_finance/496993502",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/seven-generations-energys-annual-strategic-233626746.html",
+        "pubDate": "Mon, 23 Jan 2017 23:36:26 GMT",
+        "source": "data\\VII\\20170124.rss",
+        "title": "Seven Generations Energy's Annual Strategic Update confirms improving well performance and growth capacity"
     }
 ]

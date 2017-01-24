@@ -178,5 +178,104 @@
         "pubDate": "Thu, 11 Aug 2016 16:42:59 GMT",
         "source": "data\\DII-B\\20170118.rss",
         "title": "ETF\u2019s with exposure to Dorel Industries, Inc. : August 11, 2016"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091222.news",
+        "description": null,
+        "guid": "yahoo_finance/1428224449",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-dii-b-earnings-221807231.html",
+        "pubDate": "Fri, 05 Aug 2016 22:18:07 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Edited Transcript of DII.B.TO earnings conference call or presentation 4-Aug-16 5:00pm GMT"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091224.news",
+        "description": "[at noodls] - Montreal, Quebec - 8/4/2016 Dorel Industries Inc. (TSX: DII.B, DII.A) today announced results for the second quarter and six months ended June 30, 2016. Second quarter revenue was US$637.3 million, down ...",
+        "guid": "yahoo_finance/1568582990",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288is683/*http://www.publicnow.com/view/4D8FF7AE27B42F4A56AA17BD7968DFC628268E94",
+        "pubDate": "Thu, 04 Aug 2016 14:42:03 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Reports Second Quarter Results"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091224.news",
+        "description": null,
+        "guid": "yahoo_finance/1181732096",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dorel-reports-second-quarter-results-121843319.html",
+        "pubDate": "Thu, 04 Aug 2016 12:18:43 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Reports Second Quarter Results"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091226.news",
+        "description": null,
+        "guid": "yahoo_finance/1756810070",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-furnishing-stocks-q2-earnings-141102072.html",
+        "pubDate": "Wed, 03 Aug 2016 14:11:02 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Home Furnishing Stocks Q2 Earnings on Aug 4: MHK, DIIBF, LBY"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091228.news",
+        "description": null,
+        "guid": "yahoo_finance/4131344994",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/reminder-dorel-industries-hold-conference-123000165.html",
+        "pubDate": "Wed, 03 Aug 2016 12:30:00 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "REMINDER-Dorel Industries Will Hold a Conference Call to Discuss Its Second Quarter Results"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": "[at noodls] - Montreal, Quebec - 7/28/2016 DATE: Thursday, August 4, 2016 TIME: 1:00 PM Eastern Time CALL: 1-877-223-4471 The press release will be published before market opens the day of the conference call, through ...",
+        "guid": "yahoo_finance/1287153064",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12854otdd/*http://www.publicnow.com/view/B3E9CB9F985B733F59348E4BD47B9DF6BD4AF6AF",
+        "pubDate": "Thu, 28 Jul 2016 14:08:09 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Industries will hold a conference call to discuss its second quarter results"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": "[at noodls] - Montreal, Quebec - 6/20/2016 Dorel Industries Inc., (TSX: DII.B; DII.A) today announced it is launching a vigorous appeal to the trial court, and if necessary, the 5th Circuit Court of Appeals, following ...",
+        "guid": "yahoo_finance/2778958843",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281e63tu/*http://www.publicnow.com/view/4460AEC8E182490FE701012897BD0C2F7B7FB18E",
+        "pubDate": "Mon, 20 Jun 2016 20:29:02 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Plans Vigorous Appeal of U.S. Car Seat Judgment"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": "[at noodls] - Montreal, Quebec - 5/26/2016 Dorel Industries Inc. (TSX: DII.B, DII.A) is pleased to announce that all of the nominees listed in its management proxy circular dated April 15, 2016 were re-elected as directors ...",
+        "guid": "yahoo_finance/4248839552",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283ddhoo/*http://www.publicnow.com/view/14886EB7A9C9B51F9D352B992FBF0A61659148F0",
+        "pubDate": "Thu, 26 May 2016 20:57:03 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Industries Announces Results of Annual Meeting"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": "[at noodls] - Montreal, Quebec - 5/6/2016 Dorel Industries Inc. (TSX: DII.B, DII.A) today released results for the first quarter ended March 31, 2016. Total revenue was US$645.9 million, down 2.9% from US$665.5 million ...",
+        "guid": "yahoo_finance/1040620715",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128et320b/*http://www.publicnow.com/view/BD4B6FCEE588036B67EA37769ABA51B4948FFC8E",
+        "pubDate": "Fri, 06 May 2016 13:14:10 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel reports improved first quarter 2016 results"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": "[at noodls] - Montreal, Quebec - 4/28/2016 CONFERENCE CALL: OPEN TO: Analysts, investors and all interested parties DATE: Friday, May 6, 2016 TIME: 1:00 PM Eastern Time CALL: 1-877-223-4471 THE PRESS RELEASE WILL BE ...",
+        "guid": "yahoo_finance/2968378796",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jgbcvf/*http://www.publicnow.com/view/5A3FC29F1B75A3EEEB844A8A426CC52C1D6E61AA",
+        "pubDate": "Thu, 28 Apr 2016 14:34:07 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "Dorel Industries Will Hold A Conference Call To Discuss Its First Quarter Results And Announces Annual Meeting Of Shareholders"
+    },
+    {
+        "contents": "data\\DII-B\\20170124-091230.news",
+        "description": null,
+        "guid": "yahoo_finance/1004514968",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/popularity-golf-wanes-fund-managers-165112818.html",
+        "pubDate": "Fri, 13 Feb 2015 16:51:12 GMT",
+        "source": "data\\DII-B\\20170124.rss",
+        "title": "As popularity of golf wanes, fund managers bet on cycling"
     }
 ]

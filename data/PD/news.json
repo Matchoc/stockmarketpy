@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 15:35:54 GMT",
         "source": "data\\PD\\20170121.rss",
         "title": "What Are Wall Street\u2019s Forecasts for Flotek before 4Q16 Earnings?"
+    },
+    {
+        "contents": "data\\PD\\20170124-090436.news",
+        "description": "[Marketwired] - Precision Drilling Corporation intends to release its 2016 fourth quarter results before the market opens on Thursday, February 9, 2017 and has scheduled a conference call and webcast to begin promptly ...",
+        "guid": "yahoo_finance/2129865900",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/precision-drilling-corporation-2016-fourth-210748412.html",
+        "pubDate": "Mon, 23 Jan 2017 21:07:48 GMT",
+        "source": "data\\PD\\20170124.rss",
+        "title": "Precision Drilling Corporation 2016 Fourth Quarter and End of Year Results Conference Call and Webcast"
     }
 ]

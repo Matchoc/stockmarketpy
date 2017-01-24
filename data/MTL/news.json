@@ -376,5 +376,14 @@
         "pubDate": "Mon, 21 Mar 2016 20:43:37 GMT",
         "source": "data\\MTL\\20170122.rss",
         "title": "Mullen Group Ltd. Announces Declaration of Monthly Dividend"
+    },
+    {
+        "contents": "data\\MTL\\20170124-091333.news",
+        "description": null,
+        "guid": "yahoo_finance/1109130850",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14bafl50j/*http://www.capitalcube.com/blog/index.php/mullen-group-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-mtl-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:58:04 GMT",
+        "source": "data\\MTL\\20170124.rss",
+        "title": "Mullen Group Ltd. breached its 50 day moving average in a Bearish Manner : MTL-CA : January 24, 2017"
     }
 ]

@@ -457,5 +457,14 @@
         "pubDate": "Mon, 16 Jan 2017 15:06:00 GMT",
         "source": "data\\ELD\\20170116.rss",
         "title": "Brazil's Eldorado raises wood pulp prices by $30/tn"
+    },
+    {
+        "contents": "data\\ELD\\20170124-091241.news",
+        "description": null,
+        "guid": "yahoo_finance/2250936943",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/eldorado-gold-plans-increase-production-222529955.html",
+        "pubDate": "Mon, 23 Jan 2017 22:25:29 GMT",
+        "source": "data\\ELD\\20170124.rss",
+        "title": "Eldorado Gold Plans to Increase Production by 60%"
     }
 ]

@@ -232,5 +232,23 @@
         "pubDate": "Thu, 19 Jan 2017 18:56:31 GMT",
         "source": "data\\XCT\\20170120.rss",
         "title": "Edited Transcript of XCT.TO earnings conference call or presentation 19-Jan-17 1:30pm GMT"
+    },
+    {
+        "contents": "data\\XCT\\20170124-091339.news",
+        "description": null,
+        "guid": "yahoo_finance/1289083326",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13r7uiah9/*http://www.capitalcube.com/blog/index.php/exactearth-ltd-xct-ca-earnings-analysis-q4-2016-by-the-numbers-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 14:14:44 GMT",
+        "source": "data\\XCT\\20170124.rss",
+        "title": "exactEarth Ltd. :XCT-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 23, 2017"
+    },
+    {
+        "contents": "data\\XCT\\20170124-091340.news",
+        "description": null,
+        "guid": "yahoo_finance/2340723452",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13om3pkur/*http://www.capitalcube.com/blog/index.php/exactearth-ltd-xct-ca-earnings-analysis-2016-by-the-numbers-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 14:08:16 GMT",
+        "source": "data\\XCT\\20170124.rss",
+        "title": "exactEarth Ltd. :XCT-CA: Earnings Analysis: 2016 By the Numbers : January 23, 2017"
     }
 ]

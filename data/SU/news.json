@@ -187,5 +187,23 @@
         "pubDate": "Wed, 14 Dec 2016 14:35:32 GMT",
         "source": "data\\SU\\20170119.rss",
         "title": "Which Segment Held the Line for BP in 3Q16?"
+    },
+    {
+        "contents": "data\\SU\\20170124-091315.news",
+        "description": "[Marketwired] - Editor's Note: There is a photo associated with this release.",
+        "guid": "yahoo_finance/3650762227",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-foundation-invests-enhanced-234217260.html",
+        "pubDate": "Mon, 23 Jan 2017 23:42:17 GMT",
+        "source": "data\\SU\\20170124.rss",
+        "title": "Suncor Energy Foundation invests in enhanced training at Lambton College"
+    },
+    {
+        "contents": "data\\SU\\20170124-091317.news",
+        "description": null,
+        "guid": "yahoo_finance/125769679",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12jciua9j/*http://marketrealist.com/2017/01/how-have-exxonmobils-segmental-dynamics-evolved/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 23 Jan 2017 15:35:43 GMT",
+        "source": "data\\SU\\20170124.rss",
+        "title": "How Have ExxonMobil\u2019s Segmental Dynamics Evolved?"
     }
 ]

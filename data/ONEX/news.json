@@ -115,5 +115,14 @@
         "pubDate": "Wed, 16 Nov 2016 14:30:21 GMT",
         "source": "data\\ONEX\\20170118.rss",
         "title": "ONEX Corp. :ONEX-CA: Earnings Analysis: Q3, 2016 By the Numbers : November 16, 2016"
+    },
+    {
+        "contents": "data\\ONEX\\20170124-090814.news",
+        "description": null,
+        "guid": "yahoo_finance/796959100",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/onex-announce-fourth-quarter-full-213000601.html",
+        "pubDate": "Mon, 23 Jan 2017 21:30:00 GMT",
+        "source": "data\\ONEX\\20170124.rss",
+        "title": "Onex to Announce Fourth-Quarter and Full-Year Results on February 24, 2017"
     }
 ]

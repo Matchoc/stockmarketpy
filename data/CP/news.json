@@ -421,5 +421,23 @@
         "pubDate": "Mon, 23 Jan 2017 06:00:00 GMT",
         "source": "data\\CP\\20170123.rss",
         "title": "Norfolk Southern, Union Pacific and CSX: Jim Cramer's Views"
+    },
+    {
+        "contents": "data\\CP\\20170124-090033.news",
+        "description": null,
+        "guid": "yahoo_finance/926095956",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1338u20da/*http://marketrealist.com/2017/01/what-led-to-the-decline-in-canadian-pacifics-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 24 Jan 2017 12:37:06 GMT",
+        "source": "data\\CP\\20170124.rss",
+        "title": "What Led to the Decline in Canadian Pacific\u2019s Intermodal Volumes?"
+    },
+    {
+        "contents": "data\\CP\\20170124-090035.news",
+        "description": null,
+        "guid": "yahoo_finance/2368472490",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/outgoing-cp-rail-boss-barred-232543622.html",
+        "pubDate": "Mon, 23 Jan 2017 23:25:43 GMT",
+        "source": "data\\CP\\20170124.rss",
+        "title": "Outgoing CP Rail boss barred from hiring managers except chief of staff"
     }
 ]

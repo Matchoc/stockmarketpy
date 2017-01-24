@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 14:14:32 GMT",
         "source": "data\\GUD\\20170121.rss",
         "title": "Knight Therapeutics, Inc. breached its 50 day moving average in a Bearish Manner : GUD-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\GUD\\20170124-090722.news",
+        "description": null,
+        "guid": "yahoo_finance/3418933650",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ei9lnd0/*http://www.capitalcube.com/blog/index.php/knight-therapeutics-inc-value-analysis-torontogud-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 16:55:41 GMT",
+        "source": "data\\GUD\\20170124.rss",
+        "title": "Knight Therapeutics, Inc. \u2013 Value Analysis (TORONTO:GUD) : January 23, 2017"
     }
 ]

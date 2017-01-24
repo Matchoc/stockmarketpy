@@ -205,5 +205,14 @@
         "pubDate": "Fri, 20 Jan 2017 14:13:04 GMT",
         "source": "data\\PSK\\20170121.rss",
         "title": "PrairieSky Royalty Ltd. breached its 50 day moving average in a Bearish Manner : PSK-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\PSK\\20170124-090300.news",
+        "description": null,
+        "guid": "yahoo_finance/2249494240",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13dho0u04/*http://www.capitalcube.com/blog/index.php/prairiesky-royalty-ltd-value-analysis-torontopsk-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 17:19:01 GMT",
+        "source": "data\\PSK\\20170124.rss",
+        "title": "PrairieSky Royalty Ltd. \u2013 Value Analysis (TORONTO:PSK) : January 23, 2017"
     }
 ]

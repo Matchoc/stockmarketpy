@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:45:00 GMT",
         "source": "data\\ALA\\20170123.rss",
         "title": "AltaGas Advances Its Midstream Strategy"
+    },
+    {
+        "contents": "data\\ALA\\20170124-091018.news",
+        "description": null,
+        "guid": "yahoo_finance/1720014349",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-altagas-jointly-build-natgas-150151013.html",
+        "pubDate": "Mon, 23 Jan 2017 15:01:51 GMT",
+        "source": "data\\ALA\\20170124.rss",
+        "title": "Canada's AltaGas to jointly build natgas processing plant"
     }
 ]

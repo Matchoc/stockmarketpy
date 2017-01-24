@@ -520,5 +520,32 @@
         "pubDate": "Mon, 23 Jan 2017 12:32:12 GMT",
         "source": "data\\CNR\\20170123.rss",
         "title": "Transportation Stock Q4 Earnings on Jan 24: CNI, HTLD, MRTN"
+    },
+    {
+        "contents": "data\\CNR\\20170124-090328.news",
+        "description": null,
+        "guid": "yahoo_finance/495458517",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170124.html?t=cnr.to",
+        "pubDate": "Tue, 24 Jan 2017 12:07:02 GMT",
+        "source": "data\\CNR\\20170124.rss",
+        "title": "Q4 2016 Canadian National Railway Co Earnings Release - 4:01 pm ET"
+    },
+    {
+        "contents": "data\\CNR\\20170124-090328.news",
+        "description": null,
+        "guid": "yahoo_finance/2062010124",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12nivf5tr/*http://marketrealist.com/2017/01/understanding-canadian-nationals-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 23 Jan 2017 15:37:44 GMT",
+        "source": "data\\CNR\\20170124.rss",
+        "title": "Understanding Canadian National\u2019s Intermodal Volumes"
+    },
+    {
+        "contents": "data\\CNR\\20170124-090329.news",
+        "description": "[PR Newswire] - MONTREAL, Jan. 23, 2017 /PRNewswire/ - CN (TSX: CNR) (NYSE: CNI) will issue its fourth-quarter and year-end 2016 financial and operating results tomorrow, Jan. 24, 2017, at 4.01 p.m. Eastern Time (ET). ...",
+        "guid": "yahoo_finance/3597078344",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/advisory-cn-report-fourth-quarter-140000918.html",
+        "pubDate": "Mon, 23 Jan 2017 14:00:00 GMT",
+        "source": "data\\CNR\\20170124.rss",
+        "title": "ADVISORY - CN to report fourth-quarter and year-end 2016 financial and operating results on Jan. 24, 2017"
     }
 ]

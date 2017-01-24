@@ -277,5 +277,14 @@
         "pubDate": "Thu, 21 Apr 2016 14:57:02 GMT",
         "source": "data\\MEG\\20170120.rss",
         "title": "Sulphur Recovery Unit fire update"
+    },
+    {
+        "contents": "data\\MEG\\20170124-091311.news",
+        "description": null,
+        "guid": "yahoo_finance/3492478036",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-meg-r-133100882.html",
+        "pubDate": "Tue, 24 Jan 2017 13:31:00 GMT",
+        "source": "data\\MEG\\20170124.rss",
+        "title": "IIROC Trade Resumption - MEG.R"
     }
 ]

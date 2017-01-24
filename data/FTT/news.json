@@ -178,5 +178,14 @@
         "pubDate": "Wed, 19 Oct 2016 16:03:16 GMT",
         "source": "data\\FTT\\20170118.rss",
         "title": "ETF\u2019s with exposure to Finning International, Inc. : October 19, 2016"
+    },
+    {
+        "contents": "data\\FTT\\20170124-090140.news",
+        "description": null,
+        "guid": "yahoo_finance/2305636100",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ksf539k/*http://www.capitalcube.com/blog/index.php/finning-international-inc-breached-its-50-day-moving-average-in-a-bearish-manner-ftt-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:47:49 GMT",
+        "source": "data\\FTT\\20170124.rss",
+        "title": "Finning International, Inc. breached its 50 day moving average in a Bearish Manner : FTT-CA : January 24, 2017"
     }
 ]

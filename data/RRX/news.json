@@ -178,5 +178,14 @@
         "pubDate": "Thu, 29 Sep 2016 12:38:04 GMT",
         "source": "data\\RRX\\20170118.rss",
         "title": "Raging River Exploration, Inc. breached its 50 day moving average in a Bullish Manner : RRX-CA : September 29, 2016"
+    },
+    {
+        "contents": "data\\RRX\\20170124-090831.news",
+        "description": null,
+        "guid": "yahoo_finance/2946883017",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14pvq96kb/*http://www.capitalcube.com/blog/index.php/raging-river-exploration-inc-breached-its-50-day-moving-average-in-a-bearish-manner-rrx-ca-september-14-2016/",
+        "pubDate": "Wed, 14 Sep 2016 13:01:51 GMT",
+        "source": "data\\RRX\\20170124.rss",
+        "title": "Raging River Exploration, Inc. breached its 50 day moving average in a Bearish Manner : RRX-CA : September 14, 2016"
     }
 ]

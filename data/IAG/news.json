@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:49:51 GMT",
         "source": "data\\IAG\\20170123.rss",
         "title": "Industrial Alliance Insurance & Financial Services, Inc. breached its 50 day moving average in a Bullish Manner : IAG-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\IAG\\20170124-091056.news",
+        "description": null,
+        "guid": "yahoo_finance/928279990",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-insurance-stocks-131500326.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\IAG\\20170124.rss",
+        "title": "Research Reports Initiated on Insurance Stocks Industrial Alliance Insurance and Financial Services, Power Corp of Canada, Power Financial, and Manulife Financial"
     }
 ]

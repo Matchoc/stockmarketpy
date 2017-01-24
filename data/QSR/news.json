@@ -178,5 +178,14 @@
         "pubDate": "Fri, 25 Nov 2016 23:23:17 GMT",
         "source": "data\\QSR\\20170118.rss",
         "title": "Is Now the Time to Buy Restaurant Brands International Inc (QSR)?"
+    },
+    {
+        "contents": "data\\QSR\\20170124-091238.news",
+        "description": null,
+        "guid": "yahoo_finance/2476665428",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/carrols-restaurant-group-potential-upside-160523457.html",
+        "pubDate": "Mon, 23 Jan 2017 16:05:23 GMT",
+        "source": "data\\QSR\\20170124.rss",
+        "title": "Carrols Restaurant Group Has Potential Upside"
     }
 ]

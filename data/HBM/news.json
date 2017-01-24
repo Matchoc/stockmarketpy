@@ -340,5 +340,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:02:01 GMT",
         "source": "data\\HBM\\20170123.rss",
         "title": "Can The Uptrend Continue for Hudbay Minerals (HBM)?"
+    },
+    {
+        "contents": "data\\HBM\\20170124-091131.news",
+        "description": null,
+        "guid": "yahoo_finance/2313855686",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-energy-stocks-lead-153931120.html",
+        "pubDate": "Mon, 23 Jan 2017 15:39:31 GMT",
+        "source": "data\\HBM\\20170124.rss",
+        "title": "CANADA STOCKS-Energy stocks lead broad declines, miners buck trend"
     }
 ]

@@ -196,5 +196,14 @@
         "pubDate": "Fri, 30 Sep 2016 15:14:14 GMT",
         "source": "data\\KEY\\20170120.rss",
         "title": "Keyera Corp. : KEY-CA: Dividend Analysis : September 22nd, 2016 (record date) : By the numbers : September 30, 2016"
+    },
+    {
+        "contents": "data\\KEY\\20170124-090232.news",
+        "description": null,
+        "guid": "yahoo_finance/539317850",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146krauls/*http://www.capitalcube.com/blog/index.php/keyera-corp-breached-its-50-day-moving-average-in-a-bearish-manner-key-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:51:47 GMT",
+        "source": "data\\KEY\\20170124.rss",
+        "title": "Keyera Corp. breached its 50 day moving average in a Bearish Manner : KEY-CA : January 24, 2017"
     }
 ]

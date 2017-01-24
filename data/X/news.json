@@ -178,5 +178,14 @@
         "pubDate": "Wed, 07 Dec 2016 15:05:00 GMT",
         "source": "data\\X\\20170118.rss",
         "title": "TMX Group Equity Financing Statistics - November 2016"
+    },
+    {
+        "contents": "data\\X\\20170124-091351.news",
+        "description": null,
+        "guid": "yahoo_finance/1476950898",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146ms0rfc/*http://www.capitalcube.com/blog/index.php/tmx-group-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-x-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:53:18 GMT",
+        "source": "data\\X\\20170124.rss",
+        "title": "TMX Group Ltd. breached its 50 day moving average in a Bearish Manner : X-CA : January 24, 2017"
     }
 ]

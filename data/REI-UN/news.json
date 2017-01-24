@@ -178,5 +178,23 @@
         "pubDate": "Mon, 03 Oct 2016 12:00:00 GMT",
         "source": "data\\REI-UN\\20170118.rss",
         "title": "RioCan Real Estate Investment Trust Announces Date of Third Quarter 2016 Earnings Release, Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\REI-UN\\20170124-091148.news",
+        "description": null,
+        "guid": "yahoo_finance/2993688400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-real-estate-131500859.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\REI-UN\\20170124.rss",
+        "title": "Research Reports Initiated on Real Estate Stocks RioCan REIT, H and R REIT, Brookfield Property Partners, and First Capital Realty"
+    },
+    {
+        "contents": "data\\REI-UN\\20170124-091150.news",
+        "description": null,
+        "guid": "yahoo_finance/3928517025",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/riocan-real-estate-investment-trust-130000740.html",
+        "pubDate": "Tue, 24 Jan 2017 13:00:00 GMT",
+        "source": "data\\REI-UN\\20170124.rss",
+        "title": "RioCan Real Estate Investment Trust Succeeds in Continuing to Fill Former Target Canada Locations"
     }
 ]

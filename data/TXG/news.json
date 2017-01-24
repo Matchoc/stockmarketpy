@@ -178,5 +178,14 @@
         "pubDate": "Tue, 06 Sep 2016 13:00:00 GMT",
         "source": "data\\TXG\\20170118.rss",
         "title": "Gold Surges After Disappointing Economic Reports"
+    },
+    {
+        "contents": "data\\TXG\\20170124-091359.news",
+        "description": "[at noodls] - August 11, 2016 TORONTO, Ontario, August 11, 2016 - Torex Gold Resources Inc. (the 'Company' or 'Torex') (TSX:TXG) announced today its financial and operational results for the three and six months ended ...",
+        "guid": "yahoo_finance/3242566462",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128dor2j6/*http://www.publicnow.com/view/B1A60B1446A7E5E52AAF920D001C7030C47BDEB4",
+        "pubDate": "Thu, 11 Aug 2016 10:11:03 GMT",
+        "source": "data\\TXG\\20170124.rss",
+        "title": "Torex Announces Q2 2016 Financial And Operational Results"
     }
 ]

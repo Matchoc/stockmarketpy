@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 15:40:00 GMT",
         "source": "data\\MSI\\20170120.rss",
         "title": "Morneau Shepell Declares January 2017 Cash Dividend"
+    },
+    {
+        "contents": "data\\MSI\\20170124-091257.news",
+        "description": null,
+        "guid": "yahoo_finance/3697311239",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/morneau-shepell-finds-organizational-change-130000923.html",
+        "pubDate": "Tue, 24 Jan 2017 13:00:00 GMT",
+        "source": "data\\MSI\\20170124.rss",
+        "title": "Morneau Shepell finds organizational change linked to physical and mental health sick leave"
     }
 ]

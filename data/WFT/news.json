@@ -286,5 +286,14 @@
         "pubDate": "Wed, 30 Mar 2016 21:47:01 GMT",
         "source": "data\\WFT\\20170120.rss",
         "title": "Notice of First Quarter Results - Conference Call"
+    },
+    {
+        "contents": "data\\WFT\\20170124-090536.news",
+        "description": null,
+        "guid": "yahoo_finance/2613728607",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-basic-materials-131500096.html",
+        "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
+        "source": "data\\WFT\\20170124.rss",
+        "title": "Research Reports Initiated on Basic Materials Stocks West Fraser Timber, Norbord, Canfor, and Supremex"
     }
 ]

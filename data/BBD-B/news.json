@@ -214,5 +214,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\BBD-B\\20170123.rss",
         "title": "Research Reports Initiated on Industrials Stocks Bombardier CAE Inc Student Transportation and Canadian Pacific Railway"
+    },
+    {
+        "contents": "data\\BBD-B\\20170124-090640.news",
+        "description": "[Marketwired] - Bombardier Commercial Aircraft today announced that Dublin-based regional carrier, CityJet has signed a conditional purchase agreement for six CRJ900 aircraft and has also taken options on an additional ...",
+        "guid": "yahoo_finance/2901529997",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-cityjet-sign-conditional-purchase-081522926.html",
+        "pubDate": "Tue, 24 Jan 2017 08:15:22 GMT",
+        "source": "data\\BBD-B\\20170124.rss",
+        "title": "Bombardier and CityJet Sign Conditional Purchase Agreement for up to 10 CRJ900 Aircraft"
     }
 ]

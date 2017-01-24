@@ -214,5 +214,14 @@
         "pubDate": "Fri, 20 Jan 2017 14:15:57 GMT",
         "source": "data\\LNR\\20170121.rss",
         "title": "Linamar Corp. breached its 50 day moving average in a Bearish Manner : LNR-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\LNR\\20170124-091129.news",
+        "description": null,
+        "guid": "yahoo_finance/3600058969",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13330kfdf/*http://www.capitalcube.com/blog/index.php/linamar-corp-value-analysis-torontolnr-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 17:04:27 GMT",
+        "source": "data\\LNR\\20170124.rss",
+        "title": "Linamar Corp. \u2013 Value Analysis (TORONTO:LNR) : January 23, 2017"
     }
 ]

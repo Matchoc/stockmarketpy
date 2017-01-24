@@ -376,5 +376,14 @@
         "pubDate": "Thu, 24 Mar 2016 13:44:23 GMT",
         "source": "data\\FVI\\20170119.rss",
         "title": "Fortuna Updates Reserves and Resources"
+    },
+    {
+        "contents": "data\\FVI\\20170124-090212.news",
+        "description": "[Marketwired] - Fortuna Silver Mines Inc. announces that it has entered into an agreement with a syndicate of underwriters, co-led by Raymond James Ltd., BMO Capital Markets and Scotia Capital Inc. , pursuant to which ...",
+        "guid": "yahoo_finance/3234811045",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fortuna-announces-us-65-million-212300639.html",
+        "pubDate": "Mon, 23 Jan 2017 21:23:00 GMT",
+        "source": "data\\FVI\\20170124.rss",
+        "title": "Fortuna Announces US$65 Million Bought Deal Financing"
     }
 ]

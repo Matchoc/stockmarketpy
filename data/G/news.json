@@ -214,5 +214,14 @@
         "pubDate": "Sun, 22 Jan 2017 14:28:22 GMT",
         "source": "data\\G\\20170123.rss",
         "title": "These Stocks Could Soar in 2017"
+    },
+    {
+        "contents": "data\\G\\20170124-090800.news",
+        "description": null,
+        "guid": "yahoo_finance/3668381677",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/miner-teck-eyes-sharing-port-225532279.html",
+        "pubDate": "Mon, 23 Jan 2017 22:55:32 GMT",
+        "source": "data\\G\\20170124.rss",
+        "title": "Miner Teck eyes sharing port with Anglo American in Chile"
     }
 ]

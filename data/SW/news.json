@@ -394,5 +394,32 @@
         "pubDate": "Fri, 20 Jan 2017 14:12:20 GMT",
         "source": "data\\SW\\20170121.rss",
         "title": "Sierra Wireless, Inc. breached its 50 day moving average in a Bearish Manner : SW-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\SW\\20170124-091247.news",
+        "description": null,
+        "guid": "yahoo_finance/2043609555",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-wireless-swir-focus-stock-132501535.html",
+        "pubDate": "Tue, 24 Jan 2017 13:25:01 GMT",
+        "source": "data\\SW\\20170124.rss",
+        "title": "Sierra Wireless (SWIR) In Focus: Stock Adds 8.9% in Session"
+    },
+    {
+        "contents": "data\\SW\\20170124-091249.news",
+        "description": null,
+        "guid": "yahoo_finance/3844417536",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12marduea/*http://www.fool.com/investing/2017/01/23/why-sierra-wireless-stock-popped-today.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Mon, 23 Jan 2017 21:37:00 GMT",
+        "source": "data\\SW\\20170124.rss",
+        "title": "Why Sierra Wireless Stock Popped Today"
+    },
+    {
+        "contents": "data\\SW\\20170124-091250.news",
+        "description": null,
+        "guid": "yahoo_finance/3924182145",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=139bd6s6h/*http://www.capitalcube.com/blog/index.php/sierra-wireless-inc-value-analysis-torontosw-january-23-2017/",
+        "pubDate": "Mon, 23 Jan 2017 17:27:13 GMT",
+        "source": "data\\SW\\20170124.rss",
+        "title": "Sierra Wireless, Inc. \u2013 Value Analysis (TORONTO:SW) : January 23, 2017"
     }
 ]

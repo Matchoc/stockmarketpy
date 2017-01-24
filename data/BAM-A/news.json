@@ -385,5 +385,23 @@
         "pubDate": "Mon, 02 Nov 2015 03:21:09 GMT",
         "source": "data\\BAM-A\\20170121.rss",
         "title": "Santos exits Stag field in sale to Malaysia's Sona Petroleum"
+    },
+    {
+        "contents": "data\\BAM-A\\20170124-090953.news",
+        "description": "[Marketwired] - You are invited to participate in Brookfield Asset Management's 2016 Fourth Quarter Conference Call & Webcast on Thursday, February 9, 2017 at 11:00 a.m. to discuss with members of senior management our ...",
+        "guid": "yahoo_finance/3453394810",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-asset-management-inc-notice-150236624.html",
+        "pubDate": "Mon, 23 Jan 2017 15:02:36 GMT",
+        "source": "data\\BAM-A\\20170124.rss",
+        "title": "Brookfield Asset Management Inc. Notice of 2016 Q4 Results Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\BAM-A\\20170124-090955.news",
+        "description": null,
+        "guid": "yahoo_finance/621201042",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13jmtfehh/*http://www.bloomberg.com/news/articles/2017-01-23/brookfield-in-exclusive-talks-to-buy-terraform-power-and-global?cmpid=yhoo.headline",
+        "pubDate": "Mon, 23 Jan 2017 13:57:51 GMT",
+        "source": "data\\BAM-A\\20170124.rss",
+        "title": "Brookfield in Exclusive Talks to Buy SunEdison\u2019s TerraForms"
     }
 ]

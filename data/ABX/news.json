@@ -898,5 +898,14 @@
         "pubDate": "Mon, 23 Jan 2017 00:42:09 GMT",
         "source": "data\\ABX\\20170123.rss",
         "title": "Gold and Futures Trend Up for the Week"
+    },
+    {
+        "contents": "data\\ABX\\20170124-090846.news",
+        "description": null,
+        "guid": "yahoo_finance/3560790818",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12cssjhug/*http://marketrealist.com/2017/01/analyzing-george-soross-largest-holdings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 23 Jan 2017 16:05:43 GMT",
+        "source": "data\\ABX\\20170124.rss",
+        "title": "What Are George Soros\u2019s Largest Holdings?"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Fri, 19 Aug 2016 16:58:54 GMT",
         "source": "data\\KEL\\20170118.rss",
         "title": "ETF\u2019s with exposure to Kelt Exploration Ltd. : August 19, 2016"
+    },
+    {
+        "contents": "data\\KEL\\20170124-091200.news",
+        "description": null,
+        "guid": "yahoo_finance/2102409790",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fo7d9md/*http://www.capitalcube.com/blog/index.php/kelt-exploration-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-kel-ca-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 13:50:08 GMT",
+        "source": "data\\KEL\\20170124.rss",
+        "title": "Kelt Exploration Ltd. breached its 50 day moving average in a Bearish Manner : KEL-CA : January 24, 2017"
     }
 ]

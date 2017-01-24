@@ -259,5 +259,23 @@
         "pubDate": "Thu, 28 Jul 2016 10:48:10 GMT",
         "source": "data\\PNT\\20170113.rss",
         "title": "CPI Card Group Appoints Tom Knaus as VP and GM of Financial Card Operations"
+    },
+    {
+        "contents": "data\\PNT\\20170124-090129.news",
+        "description": null,
+        "guid": "yahoo_finance/726777171",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/cpi-card-group-proxama-announce-221500893.html",
+        "pubDate": "Mon, 23 Jan 2017 22:15:00 GMT",
+        "source": "data\\PNT\\20170124.rss",
+        "title": "CPI Card Group and Proxama Announce Strategic Relationship"
+    },
+    {
+        "contents": "data\\PNT\\20170124-090131.news",
+        "description": "[Business Wire] - Proxama PLC , the international digital and mobile commerce company specialising in end-to-end payment solutions for card issuers and processors, is delighted to announce a joint agreement with CPI Card Group , a global leader in financial and EMV chip card production and related services, to deliver innovative financial and payments products to CPI\u2019s growing North American customer base.",
+        "guid": "yahoo_finance/4112648159",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cpi-card-group-proxama-announce-221500581.html",
+        "pubDate": "Mon, 23 Jan 2017 22:15:00 GMT",
+        "source": "data\\PNT\\20170124.rss",
+        "title": "CPI Card Group and Proxama Announce Strategic Relationship"
     }
 ]
