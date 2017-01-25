@@ -829,6 +829,6 @@ if __name__ == '__main__':
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today"])
-	update_all_symbols(["udpateCSV"])
+	update_all_symbols(["dlprice", "price2json", "udpateCSV"])
 	
 	myprint("done", 5)

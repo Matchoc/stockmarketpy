@@ -87,6 +87,7 @@ def download_year_prices(symbol):
 		
 	#timestr = "-{year}{month:02d}{day:02d}".format(year=year, month=month, day=day)
 	csvpath = get_price_csv_path(symbol)
+	myprint(text[0:180], 1)
 	with open(csvpath, 'w') as csvfile:
 		csvfile.write(text)
 		
