@@ -448,5 +448,59 @@
         "pubDate": "Wed, 25 Jan 2017 13:34:01 GMT",
         "source": "data\\RCI-B\\20170125.rss",
         "title": "Media Stocks Q4 Earnings to Watch on Jan 26: CMCSA & RCI"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090226.news",
+        "description": null,
+        "guid": "yahoo_finance/1915219910",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-profit-beats-more-wireless-124531674.html",
+        "pubDate": "Thu, 26 Jan 2017 12:45:31 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers profit beats on more wireless and internet customers"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090228.news",
+        "description": null,
+        "guid": "yahoo_finance/2952943698",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-posts-quarterly-loss-impairment-120936599.html",
+        "pubDate": "Thu, 26 Jan 2017 12:09:36 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers posts quarterly loss after impairment charge"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090230.news",
+        "description": "[PR Newswire] - April 3, 2017 Payment Date Following March 13, 2017 Record Date Quarterly Dividend of 48 Cents per Share Declared by Board TORONTO, Jan. 26, 2017 /PRNewswire/ - Rogers Communications Inc. (\"Rogers\") ...",
+        "guid": "yahoo_finance/3944275770",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-declares-48-cents-115500594.html",
+        "pubDate": "Thu, 26 Jan 2017 11:55:00 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers Communications Declares 48 Cents per Share Quarterly Dividend"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090232.news",
+        "description": "[CNW Group] - Rogers Communications Declares 48 Cents per Share Quarterly Dividend",
+        "guid": "yahoo_finance/357123999",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-declares-48-cents-115500221.html",
+        "pubDate": "Thu, 26 Jan 2017 11:55:00 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers Communications Declares 48 Cents per Share Quarterly Dividend"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090235.news",
+        "description": "[PR Newswire] - Rogers closes 2016 with continued strong revenue growth and solid flow through to adjusted operating profit and free cash flow: Total service revenue and adjusted operating profit both up 3% Wireless service ...",
+        "guid": "yahoo_finance/139929537",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-reports-fourth-quarter-115300394.html",
+        "pubDate": "Thu, 26 Jan 2017 11:53:00 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers Communications Reports Fourth Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\RCI-B\\20170126-090238.news",
+        "description": "[CNW Group] - Rogers Communications Reports Fourth Quarter 2016 Results",
+        "guid": "yahoo_finance/3478359108",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-reports-fourth-quarter-115300267.html",
+        "pubDate": "Thu, 26 Jan 2017 11:53:00 GMT",
+        "source": "data\\RCI-B\\20170126.rss",
+        "title": "Rogers Communications Reports Fourth Quarter 2016 Results"
     }
 ]

@@ -268,5 +268,32 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\ALA\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\ALA\\20170126-091635.news",
+        "description": null,
+        "guid": "yahoo_finance/278796481",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146jiql10/*http://www.capitalcube.com/blog/index.php/altagas-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-ala-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:03:33 GMT",
+        "source": "data\\ALA\\20170126.rss",
+        "title": "AltaGas Ltd. breached its 50 day moving average in a Bullish Manner : ALA-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\ALA\\20170126-091635.news",
+        "description": null,
+        "guid": "yahoo_finance/890191691",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-ala-132400544.html",
+        "pubDate": "Thu, 26 Jan 2017 13:24:00 GMT",
+        "source": "data\\ALA\\20170126.rss",
+        "title": "IIROC Trade Resumption - ALA"
+    },
+    {
+        "contents": "data\\ALA\\20170126-091637.news",
+        "description": null,
+        "guid": "yahoo_finance/2438116031",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-ala-132400908.html",
+        "pubDate": "Thu, 26 Jan 2017 13:24:00 GMT",
+        "source": "data\\ALA\\20170126.rss",
+        "title": "IIROC Trade Resumption - ALA"
     }
 ]

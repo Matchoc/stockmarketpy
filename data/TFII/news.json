@@ -61,5 +61,14 @@
         "pubDate": "Tue, 24 Jan 2017 18:16:32 GMT",
         "source": "data\\TFII\\20170125.rss",
         "title": "ETFs with exposure to TFI International, Inc. : January 24, 2017"
+    },
+    {
+        "contents": "data\\TFII\\20170126-091224.news",
+        "description": "[Marketwired] - TFI International Inc. , formerly known as TransForce Inc. , a North American leader in the transportation and logistics industry, today announced that it will issue its financial results for the fourth ...",
+        "guid": "yahoo_finance/2550110619",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tfi-international-inc-hold-conference-133000034.html",
+        "pubDate": "Thu, 26 Jan 2017 13:30:00 GMT",
+        "source": "data\\TFII\\20170126.rss",
+        "title": "TFI International Inc. will Hold a Conference Call to Discuss its Fourth Quarter Results"
     }
 ]

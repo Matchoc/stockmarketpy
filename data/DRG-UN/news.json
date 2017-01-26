@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 19:21:33 GMT",
         "source": "data\\DRG-UN\\20170121.rss",
         "title": "Dream Global REIT January 2017 Monthly Distribution"
+    },
+    {
+        "contents": "data\\DRG-UN\\20170126-091228.news",
+        "description": null,
+        "guid": "yahoo_finance/3870734761",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dream-global-reit-may-2016-201624737.html",
+        "pubDate": "Thu, 19 May 2016 20:16:24 GMT",
+        "source": "data\\DRG-UN\\20170126.rss",
+        "title": "Dream Global REIT May 2016 Monthly Distribution"
     }
 ]

@@ -196,5 +196,41 @@
         "pubDate": "Fri, 29 Jan 2016 19:28:00 GMT",
         "source": "data\\TMB\\20161227.rss",
         "title": "Tembec reports on Shareholders' voting results for the election of Directors"
+    },
+    {
+        "contents": "data\\TMB\\20170126-091422.news",
+        "description": null,
+        "guid": "yahoo_finance/3885045172",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tembec-reports-financial-results-first-132500424.html",
+        "pubDate": "Thu, 26 Jan 2017 13:25:00 GMT",
+        "source": "data\\TMB\\20170126.rss",
+        "title": "Tembec reports financial results for its first fiscal quarter ended December 24, 2016"
+    },
+    {
+        "contents": "data\\TMB\\20170126-091424.news",
+        "description": null,
+        "guid": "yahoo_finance/105062169",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-130000189.html",
+        "pubDate": "Thu, 26 Jan 2017 13:00:00 GMT",
+        "source": "data\\TMB\\20170126.rss",
+        "title": "/R E P E A T -- Media Advisory - Tembec will hold a meeting with the press immediately preceding its Annual and Special Meeting of Shareholders/"
+    },
+    {
+        "contents": "data\\TMB\\20170126-091426.news",
+        "description": null,
+        "guid": "yahoo_finance/1359150716",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-130000494.html",
+        "pubDate": "Thu, 26 Jan 2017 13:00:00 GMT",
+        "source": "data\\TMB\\20170126.rss",
+        "title": "/R E P E A T -- Tembec to hold a conference call - Financial results for the first fiscal quarter ended December 24, 2016/"
+    },
+    {
+        "contents": "data\\TMB\\20170126-091428.news",
+        "description": null,
+        "guid": "yahoo_finance/1249428377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170126.html?t=tmb.to",
+        "pubDate": "Thu, 26 Jan 2017 12:07:08 GMT",
+        "source": "data\\TMB\\20170126.rss",
+        "title": "Q1 2017 Tembec Inc Earnings Release - Before Market Open"
     }
 ]

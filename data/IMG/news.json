@@ -178,5 +178,14 @@
         "pubDate": "Mon, 19 Dec 2016 04:47:26 GMT",
         "source": "data\\IMG\\20170118.rss",
         "title": "How to Invest in Gold in 2017"
+    },
+    {
+        "contents": "data\\IMG\\20170126-090648.news",
+        "description": null,
+        "guid": "yahoo_finance/1259098233",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/malis-industrial-gold-production-beats-102759681.html",
+        "pubDate": "Thu, 26 Jan 2017 10:27:59 GMT",
+        "source": "data\\IMG\\20170126.rss",
+        "title": "Mali's industrial gold production beats forecasts"
     }
 ]

@@ -88,5 +88,14 @@
         "pubDate": "Thu, 12 Jan 2017 13:09:07 GMT",
         "source": "data\\TECK-B\\20170124.rss",
         "title": "Teck Resources Ltd. breached its 50 day moving average in a Bullish Manner : TECK.B-CA : January 12, 2017"
+    },
+    {
+        "contents": "data\\TECK-B\\20170126-090718.news",
+        "description": "[Marketwired] - Teck Resources Limited announced today that it has entered into an agreement to sell its 49 per cent interest in the Wintering Hills wind power facility to IKEA Canada for CAD $58.6 million. The joint ...",
+        "guid": "yahoo_finance/3612825989",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/teck-announces-sale-wintering-hills-140000428.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\TECK-B\\20170126.rss",
+        "title": "Teck Announces Sale of Wintering Hills Wind Power Facility"
     }
 ]

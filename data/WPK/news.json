@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:42:28 GMT",
         "source": "data\\WPK\\20170120.rss",
         "title": "Winpak Ltd. \u2013 Value Analysis (TORONTO:WPK) : January 19, 2017"
+    },
+    {
+        "contents": "data\\WPK\\20170126-091418.news",
+        "description": null,
+        "guid": "yahoo_finance/1837650362",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-consumer-cyclical-131500187.html",
+        "pubDate": "Thu, 26 Jan 2017 13:15:00 GMT",
+        "source": "data\\WPK\\20170126.rss",
+        "title": "Research Reports Initiated on Consumer Cyclical Stocks Intertape Polymer Group, Winpak, New Flyer Industries, and BRP Inc."
     }
 ]

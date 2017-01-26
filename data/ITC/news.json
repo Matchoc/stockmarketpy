@@ -223,5 +223,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\ITC\\20170119.rss",
         "title": "Research Reports Initiated on Technology Stocks Altus Group, Espial Group, GoldMoney, and Intrinsyc Technologies"
+    },
+    {
+        "contents": "data\\ITC\\20170126-090300.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development of embedded and Internet of Things products, today announced the receipt of orders this month from...",
+        "guid": "yahoo_finance/1371395669",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-announces-orders-companys-open-140000245.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\ITC\\20170126.rss",
+        "title": "Intrinsyc Announces New Orders for Company's Open-Q(TM) Embedded Computing Modules"
     }
 ]

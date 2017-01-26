@@ -376,5 +376,23 @@
         "pubDate": "Wed, 25 Jan 2017 02:19:00 GMT",
         "source": "data\\MFC\\20170125.rss",
         "title": "John Hancock Financial Opportunities Fund; John Hancock Hedged Equity & Income Fund; John Hancock Preferred Income Fund; John Hancock Preferred Income Fund II; John Hancock Preferred Income Fund III; John Hancock Premium Dividend Fund; John"
+    },
+    {
+        "contents": "data\\MFC\\20170126-091520.news",
+        "description": "[PR Newswire] - TSX/NYSE/PSE: MFC SEHK:945 TORONTO, Jan. 26, 2017 /PRNewswire/ - Manulife Financial Corporation will release its fourth quarter and year end 2016 financial results on the morning of Thursday, February ...",
+        "guid": "yahoo_finance/4116573862",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-release-fourth-quarter-end-133000667.html",
+        "pubDate": "Thu, 26 Jan 2017 13:30:00 GMT",
+        "source": "data\\MFC\\20170126.rss",
+        "title": "Manulife to Release Fourth Quarter and Year End 2016 Financial Results"
+    },
+    {
+        "contents": "data\\MFC\\20170126-091521.news",
+        "description": "[CNW Group] - Manulife to Release Fourth Quarter and Year End 2016 Financial Results",
+        "guid": "yahoo_finance/1358673730",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-release-fourth-quarter-end-133000458.html",
+        "pubDate": "Thu, 26 Jan 2017 13:30:00 GMT",
+        "source": "data\\MFC\\20170126.rss",
+        "title": "Manulife to Release Fourth Quarter and Year End 2016 Financial Results"
     }
 ]

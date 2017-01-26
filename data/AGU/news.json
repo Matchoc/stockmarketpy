@@ -214,5 +214,32 @@
         "pubDate": "Tue, 24 Jan 2017 17:33:47 GMT",
         "source": "data\\AGU\\20170125.rss",
         "title": "Farm Report: Deere Stock Rated a Sell, While Agrium's a Buy"
+    },
+    {
+        "contents": "data\\AGU\\20170126-091538.news",
+        "description": null,
+        "guid": "yahoo_finance/2727083752",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-agriculture-stocks-131500251.html",
+        "pubDate": "Thu, 26 Jan 2017 13:15:00 GMT",
+        "source": "data\\AGU\\20170126.rss",
+        "title": "Research Reports Initiated on Agriculture Stocks Agrium, Potash Corp of Saskatchewan, Karnalyte Resources, and Stonegate Agricom"
+    },
+    {
+        "contents": "data\\AGU\\20170126-091540.news",
+        "description": null,
+        "guid": "yahoo_finance/250297258",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/potash-corp-posts-lower-expected-121823933.html",
+        "pubDate": "Thu, 26 Jan 2017 12:18:23 GMT",
+        "source": "data\\AGU\\20170126.rss",
+        "title": "Potash Corp posts lower-than-expected profit, shares fall"
+    },
+    {
+        "contents": "data\\AGU\\20170126-091542.news",
+        "description": null,
+        "guid": "yahoo_finance/669780863",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12u9dtr5o/*http://www.wsj.com/articles/potash-corp-revenue-falls-on-fertilizer-price-decline-1485432977?mod=yahoo_hs",
+        "pubDate": "Thu, 26 Jan 2017 12:16:24 GMT",
+        "source": "data\\AGU\\20170126.rss",
+        "title": "[$$] Potash Corp. Revenue Falls On Fertilizer Price Decline"
     }
 ]

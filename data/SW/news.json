@@ -421,5 +421,14 @@
         "pubDate": "Mon, 23 Jan 2017 17:27:13 GMT",
         "source": "data\\SW\\20170124.rss",
         "title": "Sierra Wireless, Inc. \u2013 Value Analysis (TORONTO:SW) : January 23, 2017"
+    },
+    {
+        "contents": "data\\SW\\20170126-090912.news",
+        "description": "[Business Wire] - Sierra Wireless will release financial results for the fourth quarter and year ended December 31, 2016, after market close on Thursday, February 9, 2017.",
+        "guid": "yahoo_finance/4060637427",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-wireless-report-fourth-quarter-130000008.html",
+        "pubDate": "Thu, 26 Jan 2017 13:00:00 GMT",
+        "source": "data\\SW\\20170126.rss",
+        "title": "Sierra Wireless to report Fourth Quarter and Full Year 2016 results on February 9, 2017"
     }
 ]

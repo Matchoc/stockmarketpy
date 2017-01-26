@@ -214,5 +214,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\OSB\\20170124.rss",
         "title": "Research Reports Initiated on Basic Materials Stocks West Fraser Timber, Norbord, Canfor, and Supremex"
+    },
+    {
+        "contents": "data\\OSB\\20170126-091647.news",
+        "description": null,
+        "guid": "yahoo_finance/1523952852",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146isa18a/*http://www.capitalcube.com/blog/index.php/norbord-inc-breached-its-50-day-moving-average-in-a-bullish-manner-osb-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:09:38 GMT",
+        "source": "data\\OSB\\20170126.rss",
+        "title": "Norbord, Inc. breached its 50 day moving average in a Bullish Manner : OSB-CA : January 26, 2017"
     }
 ]

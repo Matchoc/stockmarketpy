@@ -358,5 +358,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\TA\\20170123.rss",
         "title": "Research Reports Initiated on Utilities Stocks TransAlta, Innergex Renewable Energy, Alaska Hydro, and Polaris Infrastructure"
+    },
+    {
+        "contents": "data\\TA\\20170126-091349.news",
+        "description": "[CNW Group] - TransAlta Announces Sale of Interest in Wintering Hills Facility",
+        "guid": "yahoo_finance/700562055",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transalta-announces-sale-interest-wintering-140000212.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\TA\\20170126.rss",
+        "title": "TransAlta Announces Sale of Interest in Wintering Hills Facility"
     }
 ]

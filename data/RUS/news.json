@@ -178,5 +178,23 @@
         "pubDate": "Fri, 07 Oct 2016 14:55:00 GMT",
         "source": "data\\RUS\\20170118.rss",
         "title": "Russel Metals Inc. Notice - 2016 Third Quarter Results Conference Call"
+    },
+    {
+        "contents": "data\\RUS\\20170126-090816.news",
+        "description": null,
+        "guid": "yahoo_finance/717603960",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=133mnc7pg/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-russel-metals-inc-october-3-2016/",
+        "pubDate": "Mon, 03 Oct 2016 15:23:49 GMT",
+        "source": "data\\RUS\\20170126.rss",
+        "title": "ETF\u2019s with exposure to Russel Metals, Inc. : October 3, 2016"
+    },
+    {
+        "contents": "data\\RUS\\20170126-090824.news",
+        "description": null,
+        "guid": "yahoo_finance/128915244",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=136513tgb/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-russel-metals-inc-september-23-2016/",
+        "pubDate": "Fri, 23 Sep 2016 14:38:30 GMT",
+        "source": "data\\RUS\\20170126.rss",
+        "title": "ETF\u2019s with exposure to Russel Metals, Inc. : September 23, 2016"
     }
 ]

@@ -376,5 +376,23 @@
         "pubDate": "Wed, 25 Jan 2017 21:45:00 GMT",
         "source": "data\\AGI\\20170125.rss",
         "title": "IIROC Trading Halt - AGI (all issues)"
+    },
+    {
+        "contents": "data\\AGI\\20170126-091328.news",
+        "description": null,
+        "guid": "yahoo_finance/1052468828",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-agi-130300594.html",
+        "pubDate": "Thu, 26 Jan 2017 13:03:00 GMT",
+        "source": "data\\AGI\\20170126.rss",
+        "title": "IIROC Trade Resumption - AGI"
+    },
+    {
+        "contents": "data\\AGI\\20170126-091330.news",
+        "description": null,
+        "guid": "yahoo_finance/1757542167",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-agi-130300898.html",
+        "pubDate": "Thu, 26 Jan 2017 13:03:00 GMT",
+        "source": "data\\AGI\\20170126.rss",
+        "title": "IIROC Trade Resumption - AGI"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Wed, 25 Jan 2017 14:08:53 GMT",
         "source": "data\\MRE\\20170125.rss",
         "title": "Martinrea International, Inc. breached its 50 day moving average in a Bullish Manner : MRE-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\MRE\\20170126-091029.news",
+        "description": null,
+        "guid": "yahoo_finance/45440481",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/martinrea-international-inc-announce-second-210100712.html",
+        "pubDate": "Tue, 26 Jul 2016 21:01:00 GMT",
+        "source": "data\\MRE\\20170126.rss",
+        "title": "Martinrea International Inc. to Announce Second Quarter Results on August 2, 2016"
     }
 ]

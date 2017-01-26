@@ -961,5 +961,23 @@
         "pubDate": "Fri, 21 Nov 2014 17:31:54 GMT",
         "source": "data\\TRP\\20170125.rss",
         "title": "Canadian aboriginal group signs deal to support LNG pipeline"
+    },
+    {
+        "contents": "data\\TRP\\20170126-091358.news",
+        "description": null,
+        "guid": "yahoo_finance/3033896208",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-26-112454967.html",
+        "pubDate": "Thu, 26 Jan 2017 11:24:54 GMT",
+        "source": "data\\TRP\\20170126.rss",
+        "title": "PRESS DIGEST-Canada - Jan 26"
+    },
+    {
+        "contents": "data\\TRP\\20170126-091400.news",
+        "description": "[Reuters] - TransCanada Corp has yet to discuss the Keystone XL oil pipeline with shippers and is not certain if all were still in support of it, the company's CEO said on Wednesday in his first public comments since President Donald Trump revived the project. The new U.S. president signed an order on Tuesday that allowed TransCanada (TRP.TO) to reapply for a permit for Keystone XL, after it was rejected in 2015 by then-President Barack Obama on environmental concerns.",
+        "guid": "yahoo_finance/87747522",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transcanada-shippers-still-behind-keystone-025249960.html",
+        "pubDate": "Thu, 26 Jan 2017 09:14:01 GMT",
+        "source": "data\\TRP\\20170126.rss",
+        "title": "TransCanada has not yet broached Keystone XL with shippers: CEO"
     }
 ]

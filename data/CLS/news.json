@@ -187,5 +187,23 @@
         "pubDate": "Thu, 20 Oct 2016 20:15:00 GMT",
         "source": "data\\CLS\\20170122.rss",
         "title": "Celestica Announces Third Quarter 2016 Financial Results"
+    },
+    {
+        "contents": "data\\CLS\\20170126-090753.news",
+        "description": null,
+        "guid": "yahoo_finance/314108223",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1486h7hd8/*http://www.capitalcube.com/blog/index.php/celestica-inc-breached-its-50-day-moving-average-in-a-bullish-manner-cls-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:02:48 GMT",
+        "source": "data\\CLS\\20170126.rss",
+        "title": "Celestica, Inc. breached its 50 day moving average in a Bullish Manner : CLS-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\CLS\\20170126-090802.news",
+        "description": null,
+        "guid": "yahoo_finance/119079538",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170126.html?t=cls.to",
+        "pubDate": "Thu, 26 Jan 2017 12:07:06 GMT",
+        "source": "data\\CLS\\20170126.rss",
+        "title": "Q4 2016 Celestica Inc Earnings Release-Tentative - 4:15 pm ET"
     }
 ]

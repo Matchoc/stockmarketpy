@@ -331,5 +331,14 @@
         "pubDate": "Thu, 28 Jan 2016 00:19:22 GMT",
         "source": "data\\FSV\\20170122.rss",
         "title": "FirstService to Announce Fourth Quarter and Annual Results for 2015 on February 10, 2016"
+    },
+    {
+        "contents": "data\\FSV\\20170126-090158.news",
+        "description": "[GlobeNewswire] - TORONTO, Jan. 26, 2017-- FirstService Corporation announced today that it will release its financial results for the fourth quarter ended December 31, 2016 by press release on Friday, February 10, 2017 ...",
+        "guid": "yahoo_finance/3509683627",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/firstservice-announce-fourth-quarter-annual-123000902.html",
+        "pubDate": "Thu, 26 Jan 2017 12:30:00 GMT",
+        "source": "data\\FSV\\20170126.rss",
+        "title": "FirstService to Announce Fourth Quarter and Annual Results for 2016 on February 10, 2017"
     }
 ]

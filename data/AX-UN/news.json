@@ -178,5 +178,14 @@
         "pubDate": "Wed, 28 Sep 2016 16:16:47 GMT",
         "source": "data\\AX-UN\\20170118.rss",
         "title": "Artis REIT to sell Alberta retail, industrial assets -sources"
+    },
+    {
+        "contents": "data\\AX-UN\\20170126-090741.news",
+        "description": null,
+        "guid": "yahoo_finance/477870956",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/artis-real-estate-investment-trust-140000161.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\AX-UN\\20170126.rss",
+        "title": "Artis Real Estate Investment Trust Announces Redemption of Series G Convertible Debentures Effective February 28, 2017"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Mon, 23 Jan 2017 12:18:02 GMT",
         "source": "data\\EDV\\20170123.rss",
         "title": "Endeavour Posts Record Performance in Q4, Meets 2016 Guidance and Expects Further Production Growth and AISC Reduction in 2017"
+    },
+    {
+        "contents": "data\\EDV\\20170126-090303.news",
+        "description": null,
+        "guid": "yahoo_finance/1259098233",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/malis-industrial-gold-production-beats-102759681.html",
+        "pubDate": "Thu, 26 Jan 2017 10:27:59 GMT",
+        "source": "data\\EDV\\20170126.rss",
+        "title": "Mali's industrial gold production beats forecasts"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 18:09:26 GMT",
         "source": "data\\DOO\\20170121.rss",
         "title": "ETFs with exposure to BRP, Inc. : January 20, 2017"
+    },
+    {
+        "contents": "data\\DOO\\20170126-090908.news",
+        "description": null,
+        "guid": "yahoo_finance/1837650362",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-consumer-cyclical-131500187.html",
+        "pubDate": "Thu, 26 Jan 2017 13:15:00 GMT",
+        "source": "data\\DOO\\20170126.rss",
+        "title": "Research Reports Initiated on Consumer Cyclical Stocks Intertape Polymer Group, Winpak, New Flyer Industries, and BRP Inc."
     }
 ]

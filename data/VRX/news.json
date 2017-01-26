@@ -835,5 +835,14 @@
         "pubDate": "Mon, 23 Jan 2017 19:45:00 GMT",
         "source": "data\\VRX\\20170124.rss",
         "title": "Analysts dismiss Citron's sour take on TransDigm"
+    },
+    {
+        "contents": "data\\VRX\\20170126-091148.news",
+        "description": null,
+        "guid": "yahoo_finance/395233618",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bear-day-valeant-pharmaceuticals-vrx-120012015.html",
+        "pubDate": "Thu, 26 Jan 2017 12:00:12 GMT",
+        "source": "data\\VRX\\20170126.rss",
+        "title": "Bear of the Day: Valeant Pharmaceuticals (VRX)"
     }
 ]

@@ -385,5 +385,14 @@
         "pubDate": "Mon, 16 Jan 2017 12:30:00 GMT",
         "source": "data\\S\\20170116.rss",
         "title": "Sherritt Provides an Update on Ambatovy Joint Venture Negotiations"
+    },
+    {
+        "contents": "data\\S\\20170126-090832.news",
+        "description": null,
+        "guid": "yahoo_finance/3928461770",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sherritt-provides-notice-release-fourth-123000168.html",
+        "pubDate": "Thu, 26 Jan 2017 12:30:00 GMT",
+        "source": "data\\S\\20170126.rss",
+        "title": "Sherritt Provides Notice of Release of Fourth Quarter and Year End 2016 Results, Conference Call, and Webcast"
     }
 ]

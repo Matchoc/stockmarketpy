@@ -196,5 +196,14 @@
         "pubDate": "Thu, 19 Jan 2017 16:00:00 GMT",
         "source": "data\\ASR\\20170120.rss",
         "title": "Alacer Gold Announces Release Date for 2016 Year-End Operational and Financial Results Conference Call"
+    },
+    {
+        "contents": "data\\ASR\\20170126-090358.news",
+        "description": null,
+        "guid": "yahoo_finance/3092113528",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13fil8tfm/*http://www.capitalcube.com/blog/index.php/alacer-gold-corp-gathering-momentum-can-it-sustain-its-performance/",
+        "pubDate": "Tue, 13 Sep 2016 20:24:24 GMT",
+        "source": "data\\ASR\\20170126.rss",
+        "title": "Alacer Gold Corp.: Gathering momentum, can it sustain its performance?"
     }
 ]
