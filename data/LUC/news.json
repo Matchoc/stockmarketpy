@@ -394,5 +394,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\LUC\\20170119.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Agnico Eagle Mines, Pan American Silver, NovaGold Resources, and Lucara Diamond"
+    },
+    {
+        "contents": "data\\LUC\\20170125-233010.news",
+        "description": null,
+        "guid": "yahoo_finance/603956774",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/lucara-appoints-mining-contractor-224500653.html",
+        "pubDate": "Tue, 24 Jan 2017 22:45:00 GMT",
+        "source": "data\\LUC\\20170125.rss",
+        "title": "Lucara Appoints New Mining Contractor"
     }
 ]

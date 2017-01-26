@@ -295,5 +295,14 @@
         "pubDate": "Mon, 02 May 2016 15:20:05 GMT",
         "source": "data\\ARE\\20170119.rss",
         "title": "Aecon schedules first quarter 2016 financial results and conference call"
+    },
+    {
+        "contents": "data\\ARE\\20170125-233036.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\ARE\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

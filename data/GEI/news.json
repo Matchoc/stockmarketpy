@@ -196,5 +196,14 @@
         "pubDate": "Thu, 11 Aug 2016 16:59:00 GMT",
         "source": "data\\GEI\\20170119.rss",
         "title": "IIROC Trading Halt - GEI"
+    },
+    {
+        "contents": "data\\GEI\\20170125-232330.news",
+        "description": null,
+        "guid": "yahoo_finance/3437435724",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=134iock5s/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-gibson-energy-inc-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 18:16:07 GMT",
+        "source": "data\\GEI\\20170125.rss",
+        "title": "ETFs with exposure to Gibson Energy, Inc. : January 25, 2017"
     }
 ]

@@ -178,5 +178,23 @@
         "pubDate": "Thu, 15 Sep 2016 21:00:00 GMT",
         "source": "data\\ZZZ\\20170118.rss",
         "title": "Sleep Country Canada Announces Inclusion in the S&P/TSX Composite Index"
+    },
+    {
+        "contents": "data\\ZZZ\\20170125-231530.news",
+        "description": null,
+        "guid": "yahoo_finance/4191399386",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dijq5bc/*http://www.capitalcube.com/blog/index.php/sleep-country-canada-holdings-inc-zzz-ca-earnings-analysis-q2-2016-by-the-numbers-august-23-2016/",
+        "pubDate": "Tue, 23 Aug 2016 13:30:23 GMT",
+        "source": "data\\ZZZ\\20170125.rss",
+        "title": "Sleep Country Canada Holdings, Inc. :ZZZ-CA: Earnings Analysis: Q2, 2016 By the Numbers : August 23, 2016"
+    },
+    {
+        "contents": "data\\ZZZ\\20170125-231536.news",
+        "description": null,
+        "guid": "yahoo_finance/173534319",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sleep-country-brings-better-sleep-131500636.html",
+        "pubDate": "Wed, 03 Aug 2016 13:15:00 GMT",
+        "source": "data\\ZZZ\\20170125.rss",
+        "title": "Sleep Country Brings Better Sleep to Lloydminster, Alberta"
     }
 ]

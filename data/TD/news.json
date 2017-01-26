@@ -727,5 +727,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\TD\\20170123.rss",
         "title": "Research Reports Initiated on Banking Stocks The Toronto-Dominion Bank, Royal Bank of Canada, Home Capital Group, and The Bank of Nova Scotia"
+    },
+    {
+        "contents": "data\\TD\\20170125-232450.news",
+        "description": "[PR Newswire] - CHERRY HILL, N.J., Jan. 25, 2017 /PRNewswire/ -- TD Bank, America's Most Convenient Bank, in partnership with Cardtronics, recently branded 189 ATMs in Walgreens locations across Florida, specifically ...",
+        "guid": "yahoo_finance/3716467571",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/td-nearly-doubles-atms-florida-153600958.html",
+        "pubDate": "Wed, 25 Jan 2017 15:36:00 GMT",
+        "source": "data\\TD\\20170125.rss",
+        "title": "TD nearly doubles ATMs in Florida with expansion to select Walgreens locations"
     }
 ]

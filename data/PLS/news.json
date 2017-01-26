@@ -286,5 +286,23 @@
         "pubDate": "Fri, 22 Jan 2016 05:53:03 GMT",
         "source": "data\\PLS\\20161228.rss",
         "title": "Polaris Materials Announces Annual Business Update, 2016 Outlook And Executive Appointment"
+    },
+    {
+        "contents": "data\\PLS\\20170125-232809.news",
+        "description": "[PR Newswire] - VANCOUVER, Jan. 24, 2017 /PRNewswire/ - Polaris Materials Corporation (\"Polaris\" or the \"Company\") (PLS.TO) reports that sales volumes for the twelve months ended December 31, 2016 were 3.02 million tons, an increase of approximately 2.6% versus 2015 and within our revised target range for the full year. Growth in sales volumes reflects the start-up of our Long Beach terminal and increased domestic sales, offsetting a modest decline in volumes sold into San Francisco versus 2015. Polaris increased its cash from US$10.5 million (C$14.5 million) as of December 31, 2015. Polaris entered into a supplier finance program with Bank of America and Cemex in late December 2016 which is expected to return the payment schedule to its original terms and allow both parties to optimize their working capital.",
+        "guid": "yahoo_finance/2187290805",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/polaris-materials-announces-2016-operating-224500452.html",
+        "pubDate": "Tue, 24 Jan 2017 22:45:00 GMT",
+        "source": "data\\PLS\\20170125.rss",
+        "title": "Polaris Materials Announces 2016 Operating Results, 2017 Preliminary Outlook"
+    },
+    {
+        "contents": "data\\PLS\\20170125-232811.news",
+        "description": null,
+        "guid": "yahoo_finance/1512567305",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/polaris-materials-announces-2016-operating-224500988.html",
+        "pubDate": "Tue, 24 Jan 2017 22:45:00 GMT",
+        "source": "data\\PLS\\20170125.rss",
+        "title": "Polaris Materials Announces 2016 Operating Results, 2017 Preliminary Outlook"
     }
 ]

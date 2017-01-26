@@ -196,5 +196,50 @@
         "pubDate": "Thu, 19 Jan 2017 13:00:00 GMT",
         "source": "data\\BMO\\20170119.rss",
         "title": "BMO Harris Bank Partners with Illinois Housing Development Authority to Assist Homeowners Who Owe More than the Home's Value"
+    },
+    {
+        "contents": "data\\BMO\\20170125-231209.news",
+        "description": "[Marketwired] - BMO Financial Group today announced that it is one of 52 firms recognized in the 2017 Bloomberg Financial Services Gender-Equality Index. The index provides investors and organizations with standardized ...",
+        "guid": "yahoo_finance/3832315039",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-financial-group-recognized-bloomberg-140000765.html",
+        "pubDate": "Wed, 25 Jan 2017 14:00:00 GMT",
+        "source": "data\\BMO\\20170125.rss",
+        "title": "BMO Financial Group Recognized in Bloomberg Financial Services Gender-Equality Index"
+    },
+    {
+        "contents": "data\\BMO\\20170125-231211.news",
+        "description": null,
+        "guid": "yahoo_finance/246839391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-banking-stocks-131500675.html",
+        "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
+        "source": "data\\BMO\\20170125.rss",
+        "title": "Research Reports Initiated on Banking Stocks Bank of Montreal, National Bank of Canada, Diversified Royalty, and Canadian Western Bank"
+    },
+    {
+        "contents": "data\\BMO\\20170125-231213.news",
+        "description": "[Marketwired] - BMO Harris Bank today announced the release of People Pay, a secure way to send money to friends and family using the BMO Harris Mobile Banking App. People Pay is the latest investment the bank has made ...",
+        "guid": "yahoo_finance/3254769326",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-harris-bank-introduces-people-120000088.html",
+        "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
+        "source": "data\\BMO\\20170125.rss",
+        "title": "BMO Harris Bank Introduces People Pay"
+    },
+    {
+        "contents": "data\\BMO\\20170125-231215.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\BMO\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\BMO\\20170125-231221.news",
+        "description": "[Marketwired] - To mark its 200th year, BMO Financial Group today announced it would fulfill a number of wishes both big and small to thank the communities where the bank does business.",
+        "guid": "yahoo_finance/2020005048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/help-200-years-counting-bmo-184721967.html",
+        "pubDate": "Tue, 24 Jan 2017 18:47:21 GMT",
+        "source": "data\\BMO\\20170125.rss",
+        "title": "Here to Help - 200 Years and Counting: BMO Unveils a Modern Way to Wish It Forward"
     }
 ]

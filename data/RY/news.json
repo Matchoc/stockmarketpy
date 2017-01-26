@@ -1105,5 +1105,59 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\RY\\20170123.rss",
         "title": "Research Reports Initiated on Banking Stocks The Toronto-Dominion Bank, Royal Bank of Canada, Home Capital Group, and The Bank of Nova Scotia"
+    },
+    {
+        "contents": "data\\RY\\20170125-232401.news",
+        "description": null,
+        "guid": "yahoo_finance/349943518",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-just-short-221646091.html",
+        "pubDate": "Wed, 25 Jan 2017 22:16:46 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "CANADA STOCKS-TSX just short of all-time high as financials, energy stocks gain"
+    },
+    {
+        "contents": "data\\RY\\20170125-232403.news",
+        "description": "[Reuters] - Royal Bank of Canada wants to spend at least 40 percent of its overall technology budget on innovation, such as artificial intelligence and blockchain, rather than maintaining old systems, its CEO said. \"A couple of years ago more than 80 percent of our spend was on running the bank, maintaining our old legacy systems. RBC does not make public its overall technology spend but McKay said the shift in focus over the past two years had seen a significant increase in spending on new technology.",
+        "guid": "yahoo_finance/3738205549",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-targets-more-fintech-spending-165633867.html",
+        "pubDate": "Wed, 25 Jan 2017 16:56:33 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "RBC targets more fintech spending, less on old systems"
+    },
+    {
+        "contents": "data\\RY\\20170125-232405.news",
+        "description": null,
+        "guid": "yahoo_finance/822379348",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rbc-targets-40-percent-total-162749026.html",
+        "pubDate": "Wed, 25 Jan 2017 16:27:49 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "RBC targets 40 percent of total technology spend for innovation"
+    },
+    {
+        "contents": "data\\RY\\20170125-232407.news",
+        "description": "[Reuters] - Royal Bank of Canada wants to spend at least 40 percent of its overall technology budget on innovation, such as artificial intelligence and blockchain, rather than maintaining old systems, its CEO said. \"A couple of years ago more than 80 percent of our spend was on running the bank, maintaining our old legacy systems.",
+        "guid": "yahoo_finance/1245121542",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-targets-40-percent-total-162447458.html",
+        "pubDate": "Wed, 25 Jan 2017 16:24:47 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "RBC targets 40 percent of total technology spend for innovation"
+    },
+    {
+        "contents": "data\\RY\\20170125-232408.news",
+        "description": null,
+        "guid": "yahoo_finance/3315065933",
+        "link": "http://us.rd.yahoo.com/finance/external/cbsm/rss/SIG=11iiumket/*http://www.marketwatch.com/News/Story/Story.aspx?guid=7B7D794C-E271-11E6-8287-0AA12271B319&siteid=yhoof2",
+        "pubDate": "Wed, 25 Jan 2017 14:29:55 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "Custody firms back away from foreign business in a bid to reduce regulatory risk"
+    },
+    {
+        "contents": "data\\RY\\20170125-232409.news",
+        "description": null,
+        "guid": "yahoo_finance/3218134709",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=137r4h2mi/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-royal-bank-of-canada-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 18:06:21 GMT",
+        "source": "data\\RY\\20170125.rss",
+        "title": "ETFs with exposure to Royal Bank of Canada : January 24, 2017"
     }
 ]

@@ -547,5 +547,131 @@
         "pubDate": "Mon, 23 Jan 2017 14:00:00 GMT",
         "source": "data\\CNR\\20170124.rss",
         "title": "ADVISORY - CN to report fourth-quarter and year-end 2016 financial and operating results on Jan. 24, 2017"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233311.news",
+        "description": null,
+        "guid": "yahoo_finance/349943518",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-just-short-221646091.html",
+        "pubDate": "Wed, 25 Jan 2017 22:16:46 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CANADA STOCKS-TSX just short of all-time high as financials, energy stocks gain"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233313.news",
+        "description": null,
+        "guid": "yahoo_finance/907669387",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-momentum-stocks-buy-160004185.html",
+        "pubDate": "Wed, 25 Jan 2017 16:00:04 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "Top Ranked Momentum Stocks to Buy for January 25th"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233315.news",
+        "description": null,
+        "guid": "yahoo_finance/2716310497",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-national-cni-beats-q4-113611754.html",
+        "pubDate": "Wed, 25 Jan 2017 11:36:11 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "Canadian National (CNI) Beats on Q4 Earnings; Ups Dividend"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233317.news",
+        "description": null,
+        "guid": "yahoo_finance/3935861317",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-cnr-earnings-conference-065605517.html",
+        "pubDate": "Wed, 25 Jan 2017 06:56:05 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "Edited Transcript of CNR.TO earnings conference call or presentation 24-Jan-17 9:30pm GMT"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233319.news",
+        "description": null,
+        "guid": "yahoo_finance/1488433544",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132s8nq7c/*http://www.fool.com/investing/2017/01/24/canadian-national-railway-reports-record-net-incom.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 25 Jan 2017 00:16:05 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "Canadian National Railway Reports Record Net Income, Boosts Dividend"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233320.news",
+        "description": null,
+        "guid": "yahoo_finance/2523901292",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12fpbpotb/*http://www.wsj.com/articles/canadian-national-railway-profit-rises-1485296148?mod=yahoo_hs",
+        "pubDate": "Tue, 24 Jan 2017 23:48:44 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "[$$] Canadian National Railway Profit Rises"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233320.news",
+        "description": null,
+        "guid": "yahoo_finance/3003678285",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-rail-revenue-rises-two-211716577.html",
+        "pubDate": "Tue, 24 Jan 2017 23:22:12 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN Rail fourth-quarter revenues rise two percent on higher freight volumes"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233322.news",
+        "description": null,
+        "guid": "yahoo_finance/2901593618",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-rail-revenue-rises-2-213811439.html",
+        "pubDate": "Tue, 24 Jan 2017 23:20:30 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN Rail Q4 revenues rise 2 pct on higher freight volumes"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233324.news",
+        "description": null,
+        "guid": "yahoo_finance/2467588167",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/cn-beats-4q-profit-forecasts-212231817.html",
+        "pubDate": "Tue, 24 Jan 2017 21:22:31 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233326.news",
+        "description": null,
+        "guid": "yahoo_finance/1453811154",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-beats-4q-profit-forecasts-212231272.html",
+        "pubDate": "Tue, 24 Jan 2017 21:22:31 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233328.news",
+        "description": null,
+        "guid": "yahoo_finance/4242000285",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-rail-revenue-rises-2-211006959.html",
+        "pubDate": "Tue, 24 Jan 2017 21:10:06 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN Rail revenue rises 2 pct on higher freight volumes"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233329.news",
+        "description": "[PR Newswire] - MONTREAL, Jan. 24, 2017 /PRNewswire/ - CN (CNR.TO) (CNI) announced today that its Board of Directors has approved a 10 per cent increase in the Company's quarterly cash dividend. With this increase, CN's dividend on an annualized basis is C$1.65 per common share. Ghislain Houle, CN executive vice-president and chief financial officer, said: \"CN delivered strong results through challenging economic conditions in 2016.",
+        "guid": "yahoo_finance/3600140731",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-announces-10-per-cent-210200464.html",
+        "pubDate": "Tue, 24 Jan 2017 21:02:00 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN announces 10 per cent increase in quarterly cash dividend"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233331.news",
+        "description": "[PR Newswire] - Quarter caps solid full-year financial and operating performance, including significant improvements in safety MONTREAL, Jan. 24, 2017 /PRNewswire/ - CN (TSX: CNR) (NYSE: CNI) today reported its financial ...",
+        "guid": "yahoo_finance/1656073422",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cn-reports-record-q4-2016-210100512.html",
+        "pubDate": "Tue, 24 Jan 2017 21:01:00 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "CN reports record Q4-2016 net income of C$1,018 million, with diluted earnings per share (EPS) up 12 per cent to C$1.32 and up four per cent to C$1.23 on an adjusted basis (1)"
+    },
+    {
+        "contents": "data\\CNR\\20170125-233334.news",
+        "description": null,
+        "guid": "yahoo_finance/1197432221",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12giefgro/*http://marketrealist.com/2017/01/why-canadian-national-railways-carloads-rose/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 24 Jan 2017 15:37:14 GMT",
+        "source": "data\\CNR\\20170125.rss",
+        "title": "Why Canadian National Railway\u2019s Carloads Rose"
     }
 ]

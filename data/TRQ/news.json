@@ -583,5 +583,14 @@
         "pubDate": "Thu, 20 Nov 2014 12:43:00 GMT",
         "source": "data\\TRQ\\20170122.rss",
         "title": "SouthGobi seeks funds to make interest payment"
+    },
+    {
+        "contents": "data\\TRQ\\20170125-231657.news",
+        "description": null,
+        "guid": "yahoo_finance/4193776318",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12lju61kn/*http://marketrealist.com/2017/01/do-analysts-see-value-in-turquoise-hill-resources/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 14:07:01 GMT",
+        "source": "data\\TRQ\\20170125.rss",
+        "title": "Do Analysts See Value in Turquoise Hill Resources?"
     }
 ]

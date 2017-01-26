@@ -574,5 +574,23 @@
         "pubDate": "Mon, 23 Jan 2017 22:27:21 GMT",
         "source": "data\\YRI\\20170124.rss",
         "title": "Yamana Gold Jumped 46% in 2016: Can It Jump Even Higher in 2017?"
+    },
+    {
+        "contents": "data\\YRI\\20170125-231549.news",
+        "description": null,
+        "guid": "yahoo_finance/2970159900",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12lhogo56/*http://marketrealist.com/2017/01/what-are-the-volatility-figures-for-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 18:17:00 GMT",
+        "source": "data\\YRI\\20170125.rss",
+        "title": "What Are the Volatility Figures for Mining Stocks?"
+    },
+    {
+        "contents": "data\\YRI\\20170125-231550.news",
+        "description": null,
+        "guid": "yahoo_finance/3363048792",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1264hm07o/*http://www.fool.com/investing/2017/01/24/3-top-stocks-under-5-2.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Tue, 24 Jan 2017 14:25:00 GMT",
+        "source": "data\\YRI\\20170125.rss",
+        "title": "3 Top Stocks Under $5"
     }
 ]

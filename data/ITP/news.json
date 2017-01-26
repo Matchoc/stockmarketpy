@@ -295,5 +295,14 @@
         "pubDate": "Fri, 22 Jan 2016 22:13:06 GMT",
         "source": "data\\ITP\\20170123.rss",
         "title": "Intertape Polymer Group\u00ae Innovates with New Random Auto H20 Semi-Automatic Water-Activited Case Sealer Providing Increased Throughput"
+    },
+    {
+        "contents": "data\\ITP\\20170125-231159.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\ITP\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

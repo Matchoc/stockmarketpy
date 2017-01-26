@@ -403,5 +403,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:57:51 GMT",
         "source": "data\\BAM-A\\20170124.rss",
         "title": "Brookfield in Exclusive Talks to Buy SunEdison\u2019s TerraForms"
+    },
+    {
+        "contents": "data\\BAM-A\\20170125-231245.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\BAM-A\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Tue, 02 Aug 2016 21:01:00 GMT",
         "source": "data\\MRE\\20170118.rss",
         "title": "Martinrea International Inc. Releases Second Quarter Results and Announces Dividend"
+    },
+    {
+        "contents": "data\\MRE\\20170125-233620.news",
+        "description": null,
+        "guid": "yahoo_finance/3413224312",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14m8a05p3/*http://www.capitalcube.com/blog/index.php/martinrea-international-inc-breached-its-50-day-moving-average-in-a-bullish-manner-mre-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:08:53 GMT",
+        "source": "data\\MRE\\20170125.rss",
+        "title": "Martinrea International, Inc. breached its 50 day moving average in a Bullish Manner : MRE-CA : January 25, 2017"
     }
 ]

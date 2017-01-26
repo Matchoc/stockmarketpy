@@ -196,5 +196,23 @@
         "pubDate": "Fri, 20 Jan 2017 16:36:27 GMT",
         "source": "data\\AGU\\20170121.rss",
         "title": "Agrium, Inc. \u2013 Value Analysis (TORONTO:AGU) : January 20, 2017"
+    },
+    {
+        "contents": "data\\AGU\\20170125-233430.news",
+        "description": null,
+        "guid": "yahoo_finance/2921242534",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12chkdsa2/*http://marketrealist.com/2017/01/analysts-recommend-agrium-next-12-months/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 12:37:38 GMT",
+        "source": "data\\AGU\\20170125.rss",
+        "title": "What Analysts Recommend for Agrium over the Next 12 Months"
+    },
+    {
+        "contents": "data\\AGU\\20170125-233430.news",
+        "description": null,
+        "guid": "yahoo_finance/1024228448",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1312qek0h/*http://www.fool.com/investing/2017/01/24/farm-report-deere-stock-rated-a-sell-agrium-stock.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 24 Jan 2017 17:33:47 GMT",
+        "source": "data\\AGU\\20170125.rss",
+        "title": "Farm Report: Deere Stock Rated a Sell, While Agrium's a Buy"
     }
 ]

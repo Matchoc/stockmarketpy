@@ -205,5 +205,50 @@
         "pubDate": "Tue, 24 Jan 2017 12:00:00 GMT",
         "source": "data\\MRU\\20170124.rss",
         "title": "METRO reports 2017 first quarter results"
+    },
+    {
+        "contents": "data\\MRU\\20170125-231030.news",
+        "description": null,
+        "guid": "yahoo_finance/3856010832",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/metro-inc-announces-voting-results-180600426.html",
+        "pubDate": "Wed, 25 Jan 2017 18:06:00 GMT",
+        "source": "data\\MRU\\20170125.rss",
+        "title": "METRO INC. announces the voting results on the election of its directors"
+    },
+    {
+        "contents": "data\\MRU\\20170125-231032.news",
+        "description": null,
+        "guid": "yahoo_finance/2260213321",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/metro-inc-announces-voting-results-180600919.html",
+        "pubDate": "Wed, 25 Jan 2017 18:06:00 GMT",
+        "source": "data\\MRU\\20170125.rss",
+        "title": "METRO INC. announces the voting results on the election of its directors"
+    },
+    {
+        "contents": "data\\MRU\\20170125-231102.news",
+        "description": null,
+        "guid": "yahoo_finance/1587693216",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13mmbfkre/*http://www.capitalcube.com/blog/index.php/metro-inc-mru-ca-earnings-analysis-q1-2017-by-the-numbers-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 16:21:25 GMT",
+        "source": "data\\MRU\\20170125.rss",
+        "title": "Metro, Inc. :MRU-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 25, 2017"
+    },
+    {
+        "contents": "data\\MRU\\20170125-231102.news",
+        "description": null,
+        "guid": "yahoo_finance/340719636",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-mru-earnings-conference-210350813.html",
+        "pubDate": "Tue, 24 Jan 2017 21:03:50 GMT",
+        "source": "data\\MRU\\20170125.rss",
+        "title": "Edited Transcript of MRU.TO earnings conference call or presentation 24-Jan-17 7:00pm GMT"
+    },
+    {
+        "contents": "data\\MRU\\20170125-231104.news",
+        "description": null,
+        "guid": "yahoo_finance/2754098008",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12sjq95fp/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-metro-inc-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 17:44:45 GMT",
+        "source": "data\\MRU\\20170125.rss",
+        "title": "ETFs with exposure to Metro, Inc. : January 24, 2017"
     }
 ]

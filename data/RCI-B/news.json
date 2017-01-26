@@ -439,5 +439,14 @@
         "pubDate": "Fri, 20 Jan 2017 12:06:12 GMT",
         "source": "data\\RCI-B\\20170120.rss",
         "title": "What Awaits Rogers Communications (RCI) in Q4 Earnings?"
+    },
+    {
+        "contents": "data\\RCI-B\\20170125-231258.news",
+        "description": null,
+        "guid": "yahoo_finance/2140767563",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-stocks-q4-earnings-watch-133401334.html",
+        "pubDate": "Wed, 25 Jan 2017 13:34:01 GMT",
+        "source": "data\\RCI-B\\20170125.rss",
+        "title": "Media Stocks Q4 Earnings to Watch on Jan 26: CMCSA & RCI"
     }
 ]

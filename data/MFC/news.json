@@ -349,5 +349,32 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\MFC\\20170124.rss",
         "title": "Research Reports Initiated on Insurance Stocks Industrial Alliance Insurance and Financial Services, Power Corp of Canada, Power Financial, and Manulife Financial"
+    },
+    {
+        "contents": "data\\MFC\\20170125-231457.news",
+        "description": null,
+        "guid": "yahoo_finance/349943518",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-just-short-221646091.html",
+        "pubDate": "Wed, 25 Jan 2017 22:16:46 GMT",
+        "source": "data\\MFC\\20170125.rss",
+        "title": "CANADA STOCKS-TSX just short of all-time high as financials, energy stocks gain"
+    },
+    {
+        "contents": "data\\MFC\\20170125-231459.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 24, 2017 /PRNewswire/ -- At their annual meetings held today, shareholders of John Hancock Income Securities Trust (NYSE: JHS) and John Hancock Investors Trust (NYSE: JHI), each a closed-end ...",
+        "guid": "yahoo_finance/2246837046",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-income-securities-trust-022200493.html",
+        "pubDate": "Wed, 25 Jan 2017 02:22:00 GMT",
+        "source": "data\\MFC\\20170125.rss",
+        "title": "John Hancock Income Securities Trust, John Hancock Investors Trust Announce Results Of Annual Meetings Of Shareholders"
+    },
+    {
+        "contents": "data\\MFC\\20170125-231501.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 24, 2017 /PRNewswire/ -- The following eight closed-end funds managed by John Hancock Advisers, LLC announced the results of their annual shareholder meetings: John Hancock Financial Opportunities ...",
+        "guid": "yahoo_finance/3918884212",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-financial-opportunities-fund-021900970.html",
+        "pubDate": "Wed, 25 Jan 2017 02:19:00 GMT",
+        "source": "data\\MFC\\20170125.rss",
+        "title": "John Hancock Financial Opportunities Fund; John Hancock Hedged Equity & Income Fund; John Hancock Preferred Income Fund; John Hancock Preferred Income Fund II; John Hancock Preferred Income Fund III; John Hancock Premium Dividend Fund; John"
     }
 ]

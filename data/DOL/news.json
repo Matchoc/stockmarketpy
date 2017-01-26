@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:53:38 GMT",
         "source": "data\\DOL\\20170123.rss",
         "title": "Dollarama, Inc. breached its 50 day moving average in a Bullish Manner : DOL-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\DOL\\20170125-232355.news",
+        "description": null,
+        "guid": "yahoo_finance/1820032861",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1306lv97d/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-dollarama-inc-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 17:19:35 GMT",
+        "source": "data\\DOL\\20170125.rss",
+        "title": "ETFs with exposure to Dollarama, Inc. : January 24, 2017"
     }
 ]

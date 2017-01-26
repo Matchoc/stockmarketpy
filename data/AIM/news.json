@@ -178,5 +178,14 @@
         "pubDate": "Tue, 08 Nov 2016 23:02:00 GMT",
         "source": "data\\AIM\\20170118.rss",
         "title": "Aimia Declares Dividends"
+    },
+    {
+        "contents": "data\\AIM\\20170125-233433.news",
+        "description": null,
+        "guid": "yahoo_finance/1585376400",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144csa2ql/*http://www.capitalcube.com/blog/index.php/aimia-inc-breached-its-50-day-moving-average-in-a-bullish-manner-aim-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 13:59:52 GMT",
+        "source": "data\\AIM\\20170125.rss",
+        "title": "Aimia, Inc. breached its 50 day moving average in a Bullish Manner : AIM-CA : January 25, 2017"
     }
 ]

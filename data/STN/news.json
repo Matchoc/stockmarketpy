@@ -178,5 +178,14 @@
         "pubDate": "Thu, 10 Nov 2016 12:07:06 GMT",
         "source": "data\\STN\\20170118.rss",
         "title": "Q3 2016 Stantec Inc Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\STN\\20170125-233419.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\STN\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

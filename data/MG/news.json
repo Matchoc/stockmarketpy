@@ -178,5 +178,14 @@
         "pubDate": "Fri, 16 Dec 2016 17:49:46 GMT",
         "source": "data\\MG\\20170118.rss",
         "title": "Magna International, Inc. : MG-CA: Dividend Analysis : November 25th, 2016 (record date) : By the numbers : December 16, 2016"
+    },
+    {
+        "contents": "data\\MG\\20170125-232426.news",
+        "description": "[Reuters] - Some of Canada's largest corporations and top executives launched two separate initiatives this week, investing millions of dollars into startup programs they hope will help stem a brain drain in fields like artificial intelligence and financial technology. NextAI, which was unveiled on Wednesday, and Diagram, announced on Tuesday, both aim to halt the loss of the country's best technology talent by helping to launch new Canadian-based companies through seed funding and mentorship. Industry leaders are concerned that without capital, private and public sector support, Canada will be unable to attract skilled tech entrepreneurs, while existing workers and students will be pulled away by global tech giants.",
+        "guid": "yahoo_finance/2671625179",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/startup-investments-aim-stem-canadian-203819041.html",
+        "pubDate": "Wed, 25 Jan 2017 20:38:19 GMT",
+        "source": "data\\MG\\20170125.rss",
+        "title": "New startup investments aim to stem Canadian tech brain drain"
     }
 ]

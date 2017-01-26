@@ -889,5 +889,50 @@
         "pubDate": "Fri, 20 Jan 2017 17:10:59 GMT",
         "source": "data\\POT\\20170121.rss",
         "title": "Potash Corp. of Saskatchewan, Inc. \u2013 Value Analysis (TORONTO:POT) : January 20, 2017"
+    },
+    {
+        "contents": "data\\POT\\20170125-231605.news",
+        "description": null,
+        "guid": "yahoo_finance/2691232743",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/following-cowen-upgrade-potash-gets-221123174.html",
+        "pubDate": "Wed, 25 Jan 2017 22:11:23 GMT",
+        "source": "data\\POT\\20170125.rss",
+        "title": "Following Cowen Upgrade, Potash Gets A Vetr Downgrade"
+    },
+    {
+        "contents": "data\\POT\\20170125-231607.news",
+        "description": "[PR Newswire] - PotashCorp is the world's largest crop nutrient company and plays an integral role in global food production. PotashCorp is the largest producer, by capacity, of potash and one of the largest producers of nitrogen and phosphate. Common shares of Potash Corporation of Saskatchewan Inc. are listed on the Toronto Stock Exchange and the New York Stock Exchange.",
+        "guid": "yahoo_finance/2482501350",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/potash-corporation-saskatchewan-inc-declares-213800408.html",
+        "pubDate": "Wed, 25 Jan 2017 21:38:00 GMT",
+        "source": "data\\POT\\20170125.rss",
+        "title": "Potash Corporation of Saskatchewan Inc. Declares Quarterly Dividend"
+    },
+    {
+        "contents": "data\\POT\\20170125-231609.news",
+        "description": "[CNW Group] - Potash Corporation of Saskatchewan Inc. Declares Quarterly Dividend",
+        "guid": "yahoo_finance/4196735632",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/potash-corporation-saskatchewan-inc-declares-213800613.html",
+        "pubDate": "Wed, 25 Jan 2017 21:38:00 GMT",
+        "source": "data\\POT\\20170125.rss",
+        "title": "Potash Corporation of Saskatchewan Inc. Declares Quarterly Dividend"
+    },
+    {
+        "contents": "data\\POT\\20170125-231610.news",
+        "description": null,
+        "guid": "yahoo_finance/3405556684",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/potash-corp-pot-q4-earnings-143602788.html",
+        "pubDate": "Wed, 25 Jan 2017 14:36:02 GMT",
+        "source": "data\\POT\\20170125.rss",
+        "title": "Potash Corp. (POT) Q4 Earnings: Is a Beat in the Cards?"
+    },
+    {
+        "contents": "data\\POT\\20170125-231612.news",
+        "description": null,
+        "guid": "yahoo_finance/4044868579",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-earnings-season-could-great-134201467.html",
+        "pubDate": "Wed, 25 Jan 2017 13:42:01 GMT",
+        "source": "data\\POT\\20170125.rss",
+        "title": "Why Earnings Season Could Be Great for Potash Corp. (POT)"
     }
 ]

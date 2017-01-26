@@ -223,5 +223,14 @@
         "pubDate": "Mon, 23 Jan 2017 17:04:27 GMT",
         "source": "data\\LNR\\20170124.rss",
         "title": "Linamar Corp. \u2013 Value Analysis (TORONTO:LNR) : January 23, 2017"
+    },
+    {
+        "contents": "data\\LNR\\20170125-232252.news",
+        "description": null,
+        "guid": "yahoo_finance/365996122",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12vabc3fr/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-linamar-corp-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 17:43:17 GMT",
+        "source": "data\\LNR\\20170125.rss",
+        "title": "ETFs with exposure to Linamar Corp. : January 24, 2017"
     }
 ]

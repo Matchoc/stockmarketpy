@@ -376,5 +376,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:54:53 GMT",
         "source": "data\\NVC\\20170124.rss",
         "title": "Neovasc, Inc. breached its 50 day moving average in a Bearish Manner : NVC-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\NVC\\20170125-230927.news",
+        "description": null,
+        "guid": "yahoo_finance/1759862587",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=132kpmom7/*http://www.capitalcube.com/blog/index.php/neovasc-inc-value-analysis-torontonvc-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 17:38:21 GMT",
+        "source": "data\\NVC\\20170125.rss",
+        "title": "Neovasc, Inc. \u2013 Value Analysis (TORONTO:NVC) : January 25, 2017"
     }
 ]

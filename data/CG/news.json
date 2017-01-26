@@ -403,5 +403,14 @@
         "pubDate": "Mon, 23 Jan 2017 12:07:02 GMT",
         "source": "data\\CG\\20170123.rss",
         "title": "Q4 2016 Centerra Gold Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\CG\\20170125-230953.news",
+        "description": null,
+        "guid": "yahoo_finance/110340888",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/centerra-gold-hedges-portion-2017-223000867.html",
+        "pubDate": "Tue, 24 Jan 2017 22:30:00 GMT",
+        "source": "data\\CG\\20170125.rss",
+        "title": "Centerra Gold Hedges Portion of 2017 Copper Production"
     }
 ]

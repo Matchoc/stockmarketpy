@@ -187,5 +187,14 @@
         "pubDate": "Thu, 13 Oct 2016 11:10:03 GMT",
         "source": "data\\AKG\\20170119.rss",
         "title": "Asanko Gold Produces 53,986 oz in Q3 2016"
+    },
+    {
+        "contents": "data\\AKG\\20170125-233441.news",
+        "description": null,
+        "guid": "yahoo_finance/3429252049",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500382.html",
+        "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
+        "source": "data\\AKG\\20170125.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Harte Gold, Asanko Gold, and Northern Dynasty Minerals"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:47:49 GMT",
         "source": "data\\FTT\\20170124.rss",
         "title": "Finning International, Inc. breached its 50 day moving average in a Bearish Manner : FTT-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\FTT\\20170125-233453.news",
+        "description": null,
+        "guid": "yahoo_finance/1051817041",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/finning-participate-cibc-20th-annual-220000003.html",
+        "pubDate": "Wed, 25 Jan 2017 22:00:00 GMT",
+        "source": "data\\FTT\\20170125.rss",
+        "title": "Finning to participate in CIBC 20th Annual Whistler Institutional Investor Conference on January 26, 2017"
     }
 ]

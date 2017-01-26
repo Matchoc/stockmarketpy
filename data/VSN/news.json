@@ -376,5 +376,14 @@
         "pubDate": "Thu, 05 May 2016 12:51:06 GMT",
         "source": "data\\VSN\\20170122.rss",
         "title": "Veresen Announces Voting Results for the Election of Directors"
+    },
+    {
+        "contents": "data\\VSN\\20170125-231205.news",
+        "description": null,
+        "guid": "yahoo_finance/464609309",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alliance-puts-safety-first-two-160000958.html",
+        "pubDate": "Tue, 24 Jan 2017 16:00:00 GMT",
+        "source": "data\\VSN\\20170125.rss",
+        "title": "Alliance Puts Safety First with Two New Community Investment Initiatives"
     }
 ]

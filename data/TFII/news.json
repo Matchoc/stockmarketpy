@@ -43,5 +43,23 @@
         "pubDate": "Mon, 23 Jan 2017 13:59:42 GMT",
         "source": "data\\TFII\\20170123.rss",
         "title": "TFI International, Inc. breached its 50 day moving average in a Bearish Manner : TFII-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\TFII\\20170125-232926.news",
+        "description": null,
+        "guid": "yahoo_finance/2647382898",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=13f1dirg5/*http://www.wsj.com/articles/donald-trumps-tough-talk-on-trade-with-mexico-weighs-on-logistics-boom-1485371268?mod=yahoo_hs",
+        "pubDate": "Wed, 25 Jan 2017 19:20:43 GMT",
+        "source": "data\\TFII\\20170125.rss",
+        "title": "Trump's Tough Talk on Trade With Mexico Weighs on Logistics Boom"
+    },
+    {
+        "contents": "data\\TFII\\20170125-232927.news",
+        "description": null,
+        "guid": "yahoo_finance/4200016889",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=138epr0au/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-tfi-international-inc-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 18:16:32 GMT",
+        "source": "data\\TFII\\20170125.rss",
+        "title": "ETFs with exposure to TFI International, Inc. : January 24, 2017"
     }
 ]

@@ -466,5 +466,23 @@
         "pubDate": "Fri, 20 Jan 2017 23:23:00 GMT",
         "source": "data\\NA\\20170121.rss",
         "title": "Private Banking 1859 and National Bank Financial Official Opening of Calgary offices in their Permanent Location"
+    },
+    {
+        "contents": "data\\NA\\20170125-231715.news",
+        "description": null,
+        "guid": "yahoo_finance/246839391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-banking-stocks-131500675.html",
+        "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
+        "source": "data\\NA\\20170125.rss",
+        "title": "Research Reports Initiated on Banking Stocks Bank of Montreal, National Bank of Canada, Diversified Royalty, and Canadian Western Bank"
+    },
+    {
+        "contents": "data\\NA\\20170125-231717.news",
+        "description": null,
+        "guid": "yahoo_finance/455397503",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13a9cr843/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-national-bank-of-canada-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 17:48:18 GMT",
+        "source": "data\\NA\\20170125.rss",
+        "title": "ETFs with exposure to National Bank of Canada : January 24, 2017"
     }
 ]

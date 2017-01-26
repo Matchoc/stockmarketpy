@@ -178,5 +178,14 @@
         "pubDate": "Wed, 09 Nov 2016 21:31:08 GMT",
         "source": "data\\CIX\\20170118.rss",
         "title": "Portfolio manager commentary on the U.S. election"
+    },
+    {
+        "contents": "data\\CIX\\20170125-231329.news",
+        "description": null,
+        "guid": "yahoo_finance/722614163",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14cg7is4r/*http://www.capitalcube.com/blog/index.php/ci-financial-corp-breached-its-50-day-moving-average-in-a-bullish-manner-cix-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:05:50 GMT",
+        "source": "data\\CIX\\20170125.rss",
+        "title": "CI Financial Corp. breached its 50 day moving average in a Bullish Manner : CIX-CA : January 25, 2017"
     }
 ]

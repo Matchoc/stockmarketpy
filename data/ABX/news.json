@@ -907,5 +907,41 @@
         "pubDate": "Mon, 23 Jan 2017 16:05:43 GMT",
         "source": "data\\ABX\\20170124.rss",
         "title": "What Are George Soros\u2019s Largest Holdings?"
+    },
+    {
+        "contents": "data\\ABX\\20170125-232434.news",
+        "description": null,
+        "guid": "yahoo_finance/2563237778",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=13idk34a8/*http://blogs.barrons.com/stockstowatchtoday/2017/01/25/barrick-gold-falling-gold-prices-trump-better-production/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Wed, 25 Jan 2017 16:52:00 GMT",
+        "source": "data\\ABX\\20170125.rss",
+        "title": "Barrick Gold: Falling Gold Prices Trump Better Production"
+    },
+    {
+        "contents": "data\\ABX\\20170125-232434.news",
+        "description": null,
+        "guid": "yahoo_finance/4277038329",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/barrick-gold-estimates-gold-output-131902965.html",
+        "pubDate": "Wed, 25 Jan 2017 13:19:02 GMT",
+        "source": "data\\ABX\\20170125.rss",
+        "title": "Barrick Gold estimates gold output dropped 9.8 percent in 2016"
+    },
+    {
+        "contents": "data\\ABX\\20170125-232436.news",
+        "description": null,
+        "guid": "yahoo_finance/2140986067",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/barrick-gold-estimates-gold-output-131606652.html",
+        "pubDate": "Wed, 25 Jan 2017 13:16:06 GMT",
+        "source": "data\\ABX\\20170125.rss",
+        "title": "Barrick Gold estimates gold output dropped 9.8 pct in 2016"
+    },
+    {
+        "contents": "data\\ABX\\20170125-232438.news",
+        "description": "[Marketwired] - Barrick Gold Corporation today announced preliminary full-year gold production of 5.52 million ounces for 2016, at the high end of the Company's guidance of 5.25-5.55 million ounces. The Company produced ...",
+        "guid": "yahoo_finance/2989190557",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/barrick-achieves-2016-production-guidance-124928879.html",
+        "pubDate": "Wed, 25 Jan 2017 12:49:28 GMT",
+        "source": "data\\ABX\\20170125.rss",
+        "title": "Barrick Achieves 2016 Production Guidance"
     }
 ]

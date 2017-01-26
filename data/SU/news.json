@@ -205,5 +205,14 @@
         "pubDate": "Mon, 23 Jan 2017 15:35:43 GMT",
         "source": "data\\SU\\20170124.rss",
         "title": "How Have ExxonMobil\u2019s Segmental Dynamics Evolved?"
+    },
+    {
+        "contents": "data\\SU\\20170125-233525.news",
+        "description": null,
+        "guid": "yahoo_finance/2013272972",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-keystone-155943127.html",
+        "pubDate": "Tue, 24 Jan 2017 15:59:43 GMT",
+        "source": "data\\SU\\20170125.rss",
+        "title": "CANADA STOCKS-TSX rises as Keystone owner leads energy gains"
     }
 ]

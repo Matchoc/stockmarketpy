@@ -187,5 +187,41 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\NG\\20170119.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Agnico Eagle Mines, Pan American Silver, NovaGold Resources, and Lucara Diamond"
+    },
+    {
+        "contents": "data\\NG\\20170125-233543.news",
+        "description": null,
+        "guid": "yahoo_finance/3871409013",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/novagold-reports-4q-loss-002345758.html",
+        "pubDate": "Thu, 26 Jan 2017 00:23:45 GMT",
+        "source": "data\\NG\\20170125.rss",
+        "title": "Novagold reports 4Q loss"
+    },
+    {
+        "contents": "data\\NG\\20170125-233545.news",
+        "description": null,
+        "guid": "yahoo_finance/908720824",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/novagold-reports-4q-loss-002345975.html",
+        "pubDate": "Thu, 26 Jan 2017 00:23:45 GMT",
+        "source": "data\\NG\\20170125.rss",
+        "title": "Novagold reports 4Q loss"
+    },
+    {
+        "contents": "data\\NG\\20170125-233546.news",
+        "description": "[GlobeNewswire] - Donlin Gold is nearing the end of the Environmental Impact Statement process as the project\u2019 s lead permitting agency, the U.S. Army Corps of Engineers, works on the final EIS NOVAGOLD\u2019 s strong balance ...",
+        "guid": "yahoo_finance/4236635482",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/novagold-reports-excellent-2016-results-221049753.html",
+        "pubDate": "Wed, 25 Jan 2017 22:10:49 GMT",
+        "source": "data\\NG\\20170125.rss",
+        "title": "NOVAGOLD Reports Excellent 2016 Results: Advances toward Final Environmental Impact Statement for Donlin Gold"
+    },
+    {
+        "contents": "data\\NG\\20170125-233548.news",
+        "description": null,
+        "guid": "yahoo_finance/1146417422",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170125.html?t=ng.to",
+        "pubDate": "Wed, 25 Jan 2017 12:07:04 GMT",
+        "source": "data\\NG\\20170125.rss",
+        "title": "Q4 2016 NovaGold Resources Inc Earnings Release - After Market Close"
     }
 ]

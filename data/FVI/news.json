@@ -385,5 +385,23 @@
         "pubDate": "Mon, 23 Jan 2017 21:23:00 GMT",
         "source": "data\\FVI\\20170124.rss",
         "title": "Fortuna Announces US$65 Million Bought Deal Financing"
+    },
+    {
+        "contents": "data\\FVI\\20170125-232458.news",
+        "description": null,
+        "guid": "yahoo_finance/4012170294",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14jc5hr5m/*http://www.capitalcube.com/blog/index.php/fortuna-silver-mines-inc-breached-its-50-day-moving-average-in-a-bearish-manner-fvi-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:13:32 GMT",
+        "source": "data\\FVI\\20170125.rss",
+        "title": "Fortuna Silver Mines, Inc. breached its 50 day moving average in a Bearish Manner : FVI-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\FVI\\20170125-232513.news",
+        "description": null,
+        "guid": "yahoo_finance/2447684734",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13241i3ll/*http://www.fool.com/investing/2017/01/24/why-fortuna-silver-mines-straight-path-communicati.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Tue, 24 Jan 2017 22:21:00 GMT",
+        "source": "data\\FVI\\20170125.rss",
+        "title": "Why Fortuna Silver Mines, Straight Path Communications, and BT Group Slumped Today"
     }
 ]

@@ -251,7 +251,12 @@ def add_real_price_csv(csvpath):
 			
 			realchange = adjclosetoday - adjcloseyesterday
 			realper = realchange / predclose * 100.0
-			perwrong = (realchange - preddol) / preddol * 100.0
+			if realchange == 0:
+				realchange = 0.0000001
+			perwrong = (realchange - preddol) / realchange
+			perwrong = abs(perwrong)
+			if (realchange > 0 and preddol < 0) or (realchange < 0 and preddol > 0):
+				perwrong = perwrong * -1.0
 			
 			result = [symbol, str(preddol), str(predper), str(predclose), preddate, predtime, str(realchange), str(realper), str(perwrong), predtitle]
 			myprint("updated line " + str(result), 1)

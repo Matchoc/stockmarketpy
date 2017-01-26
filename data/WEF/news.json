@@ -178,5 +178,14 @@
         "pubDate": "Mon, 03 Oct 2016 17:49:16 GMT",
         "source": "data\\WEF\\20170118.rss",
         "title": "Western Forest Products, Inc. : WEF-CA: Dividend Analysis : September 01st, 2016 (record date) : By the numbers : October 3, 2016"
+    },
+    {
+        "contents": "data\\WEF\\20170125-232321.news",
+        "description": null,
+        "guid": "yahoo_finance/71675321",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/western-forest-products-inc-announces-003000448.html",
+        "pubDate": "Thu, 26 Jan 2017 00:30:00 GMT",
+        "source": "data\\WEF\\20170125.rss",
+        "title": "Western Forest Products Inc. Announces Remanufacturing Consolidation"
     }
 ]

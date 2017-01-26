@@ -394,5 +394,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:30:00 GMT",
         "source": "data\\AIF\\20170123.rss",
         "title": "2017 Real Confidence University Challenge Reveals Top Real Estate Picks of Future Leaders"
+    },
+    {
+        "contents": "data\\AIF\\20170125-233616.news",
+        "description": null,
+        "guid": "yahoo_finance/3972668550",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altus-group-releases-2017-construction-143000011.html",
+        "pubDate": "Wed, 25 Jan 2017 14:30:00 GMT",
+        "source": "data\\AIF\\20170125.rss",
+        "title": "Altus Group Releases 2017 Construction Cost Guide"
     }
 ]

@@ -232,5 +232,221 @@
         "pubDate": "Thu, 19 Jan 2017 15:54:27 GMT",
         "source": "data\\T\\20170120.rss",
         "title": "CANADA STOCKS-TSX rises as CP Rail and Cameco gain"
+    },
+    {
+        "contents": "data\\T\\20170125-231727.news",
+        "description": null,
+        "guid": "yahoo_finance/4035945529",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12t23c8t2/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-telus-corp-november-8-2016/",
+        "pubDate": "Tue, 08 Nov 2016 17:40:02 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "ETF\u2019s with exposure to TELUS Corp. : November 8, 2016"
+    },
+    {
+        "contents": "data\\T\\20170125-231730.news",
+        "description": null,
+        "guid": "yahoo_finance/3364411276",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=143c3ucpl/*http://www.capitalcube.com/blog/index.php/telus-corp-breached-its-50-day-moving-average-in-a-bullish-manner-t-ca-november-8-2016/",
+        "pubDate": "Tue, 08 Nov 2016 13:32:06 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS Corp. breached its 50 day moving average in a Bullish Manner : T-CA : November 8, 2016"
+    },
+    {
+        "contents": "data\\T\\20170125-231732.news",
+        "description": "[at noodls] - Hundreds of hours of Netflix content now available in 4K, including Stranger Things, Marvel's Luke Cage, Narcos and new series The Crown Vancouver - TELUS customers can now access some of the biggest and ...",
+        "guid": "yahoo_finance/2490939059",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1285vvdqg/*http://www.publicnow.com/view/1B96E215B3E5EE2F1D8A76D9B2D84EE5E69B4B0E",
+        "pubDate": "Mon, 07 Nov 2016 15:44:08 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS unleashes Netflix 4K programming on Optik TV"
+    },
+    {
+        "contents": "data\\T\\20170125-231732.news",
+        "description": "[at noodls] - Consolidated operating revenue up 2.6 per cent and EBITDA up 5.8 per cent Strong customer loading in all key segments with 115,000 net new postpaid wireless, Internet and TELUS TV customer additions Industry-leading ...",
+        "guid": "yahoo_finance/129832597",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kqqeml/*http://www.publicnow.com/view/B515693069DE50B704174E4048D25A2478C88455",
+        "pubDate": "Fri, 04 Nov 2016 10:16:03 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS reports strong results for third quarter 2016"
+    },
+    {
+        "contents": "data\\T\\20170125-231732.news",
+        "description": "[at noodls] - Direct fibre connection dramatically boosts data capacity, with even faster speeds for businesses, healthcare providers and schools Port Hardy, B.C. - TELUS is investing more than $13 million to connect ...",
+        "guid": "yahoo_finance/1786795081",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bsksme/*http://www.publicnow.com/view/401C3CF3793DED335B10257897268818A0028C48",
+        "pubDate": "Thu, 27 Oct 2016 18:26:08 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS investing $13 million to connect Port Hardy and Port McNeill homes and businesses directly to advanced fibre optic network"
+    },
+    {
+        "contents": "data\\T\\20170125-231732.news",
+        "description": "[at noodls] - Low-cost Internet pilot program offers $9.95 monthly Internet service to single-parent families receiving income or disability assistance from the provincial government Vancouver, B.C. - TELUS announced ...",
+        "guid": "yahoo_finance/3608923757",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128h2tv80/*http://www.publicnow.com/view/677CA240AE65F52C1A6FC89D6350F922E6CBAD5E",
+        "pubDate": "Fri, 14 Oct 2016 19:01:01 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS launches Internet for Good pilot to support 18,000 British Columbian families"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - Trials of 5G mobile technology at the TELUS and Huawei '5G Living Lab' in Vancouver have achieved ground-breaking wireless speeds of nearly 30 Gbps - 200 times faster than today's LTE standard Vancouver ...",
+        "guid": "yahoo_finance/3288066264",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128skp8ee/*http://www.publicnow.com/view/396099325A226B40885378DC56C0082009EA7FB5",
+        "pubDate": "Tue, 04 Oct 2016 14:48:04 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS achieves blazing-fast results with next generation of wireless technology"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - Vancouver, B.C. - TELUS and the Telecommunications Workers Union, United Steelworkers Local 1944 (TWU) have agreed to the terms of a tentative collective agreement, covering approximately 10,800 TELUS ...",
+        "guid": "yahoo_finance/2171588098",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ur77l1/*http://www.publicnow.com/view/2C329753CBF47E05B2D94908E6227C2823E37A40",
+        "pubDate": "Mon, 03 Oct 2016 14:26:01 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS and TWU reach tentative collective agreement"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - 61 new projects from Western Canadian content creators supported through TELUS' local programming fund Vancouver - TELUS, through its local programming fund, continues to support local content producers ...",
+        "guid": "yahoo_finance/1628983877",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281kr04j/*http://www.publicnow.com/view/8DD55FE7EB5061F7B693B45E5BC4D4F03393A286",
+        "pubDate": "Thu, 29 Sep 2016 15:30:01 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS supports B.C. and Alberta productions with more than $3.2 million in grants"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - With passion for using organic local ingredients and supporting their local community, a neighborhood bakery from Hamilton, ON has won a $100,000 award from TELUS Toronto - TELUS and The Globe and Mail ...",
+        "guid": "yahoo_finance/4030869417",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tftmdo/*http://www.publicnow.com/view/1FCE136000A3DDA15D5FA8C8FF45594DA323457D",
+        "pubDate": "Thu, 22 Sep 2016 16:01:00 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Cake & Loaf Bakery takes home the dough in this year\u2019s Small Business Challenge"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - Proceeds to repay outstanding commercial paper and for general corporate purposes Vancouver, British Columbia - TELUS announced today an offering of U.S.$600 million senior unsecured notes with a 10-year ...",
+        "guid": "yahoo_finance/3738585901",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128e64ih9/*http://www.publicnow.com/view/C76D608E1EE5729E30CC9C0C8E65582A01FA34F3",
+        "pubDate": "Wed, 14 Sep 2016 23:08:09 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "U.S.$600 million notes with 2.80 per cent interest rate maturing in 2027"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - The jointly developed solutions will help Quebec legal professionals optimize their practices MONTREAL (Qu\u00e9bec) - TELUS and Juris Concept are collaborating to offer legal practitioners in Quebec and across ...",
+        "guid": "yahoo_finance/3704046845",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lfbj9n/*http://www.publicnow.com/view/255BE6F5F8D4D904934D9C027A09B8DBD90A4A56",
+        "pubDate": "Tue, 13 Sep 2016 15:18:03 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Juris Concept and TELUS to accelerate the digitalization of legal tools"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - Toronto - TELUS today announced it will offer iPhone 7 and iPhone 7 Plus, the best, most advanced iPhone ever, featuring an all-new advanced camera system, dust and water resistant design, stereo speaker ...",
+        "guid": "yahoo_finance/3013927133",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128530fuh/*http://www.publicnow.com/view/3C574EF0CF029FAC0725B2EC6BA34CBB5543E723",
+        "pubDate": "Fri, 09 Sep 2016 11:20:02 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS to Offer iPhone 7 and iPhone 7 Plus Beginning Friday September 16"
+    },
+    {
+        "contents": "data\\T\\20170125-231733.news",
+        "description": "[at noodls] - Acquisition broadens company's electronic medical records customer base in Ontario and Atlantic Canada further advancing Canada's connected healthcare ecosystem Toronto - TELUS Health announced today that ...",
+        "guid": "yahoo_finance/1026506908",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ou1lki/*http://www.publicnow.com/view/E5D8D5AC40E1359095A2B1F4C31C0011E1B6A831",
+        "pubDate": "Thu, 08 Sep 2016 15:49:12 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS Health acquires Nightingale\u2019s Canadian EMR operations"
+    },
+    {
+        "contents": "data\\T\\20170125-231734.news",
+        "description": "[at noodls] - Strong customer loading in all key segments with 92,000 net new postpaid wireless, Internet and TELUS TV customer additions Industry-leading wireless monthly postpaid churn of 0.90 per cent, ARPU growth ...",
+        "guid": "yahoo_finance/2586165953",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ieukm1/*http://www.publicnow.com/view/5B0DDDC5AB57B9CD36D79F449B0FF70A80805E81",
+        "pubDate": "Fri, 05 Aug 2016 10:24:07 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "TELUS reports strong results for second quarter 2016"
+    },
+    {
+        "contents": "data\\T\\20170125-231734.news",
+        "description": "[at noodls] - New study reveals that one-third of Canadians don't agree their workplace is safe and inclusive for LGBTQ employees; more than half of LGBTQ employees aren't 'out' at work Vancouver - A new study commissioned ...",
+        "guid": "yahoo_finance/1053852720",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hcfij7/*http://www.publicnow.com/view/AFD16B8263DFC7A31B5BE83300C30ED6983F4B15",
+        "pubDate": "Tue, 26 Jul 2016 13:28:04 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "LGBTQ Canadians still face challenges at work"
+    },
+    {
+        "contents": "data\\T\\20170125-231734.news",
+        "description": null,
+        "guid": "yahoo_finance/2334007204",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-telus-divest-stake-unit-101428119.html",
+        "pubDate": "Thu, 05 May 2016 10:18:59 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Canada's Telus to divest stake in unit"
+    },
+    {
+        "contents": "data\\T\\20170125-231736.news",
+        "description": null,
+        "guid": "yahoo_finance/1188372212",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/telus-shares-sunk-rival-shaws-191832979.html",
+        "pubDate": "Thu, 17 Dec 2015 19:18:32 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Telus shares sunk by rival Shaw's move on Wind"
+    },
+    {
+        "contents": "data\\T\\20170125-231738.news",
+        "description": null,
+        "guid": "yahoo_finance/3787027562",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/telus-wireless-internet-growth-boost-115322584.html",
+        "pubDate": "Thu, 05 Nov 2015 15:37:48 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Telus eyes job cuts as wireless growth slows; shares fall"
+    },
+    {
+        "contents": "data\\T\\20170125-231740.news",
+        "description": null,
+        "guid": "yahoo_finance/4188261068",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-mobilicity-bid-upcoming-spectrum-151534273.html",
+        "pubDate": "Tue, 27 Jan 2015 15:15:34 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Canada's Mobilicity to bid in upcoming spectrum auction"
+    },
+    {
+        "contents": "data\\T\\20170125-231935.news",
+        "description": null,
+        "guid": "yahoo_finance/2360467967",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-wind-mobile-signs-roaming-200601328.html",
+        "pubDate": "Tue, 02 Dec 2014 20:59:08 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Canada's Wind Mobile signs roaming deal, Telus likely partner"
+    },
+    {
+        "contents": "data\\T\\20170125-231937.news",
+        "description": null,
+        "guid": "yahoo_finance/1414610742",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/analysis-canadas-telcos-burst-banking-050726859.html",
+        "pubDate": "Fri, 01 Aug 2014 05:15:32 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Analysis - Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\T\\20170125-231939.news",
+        "description": null,
+        "guid": "yahoo_finance/1212034511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-telcos-burst-banking-healthcare-050618570.html",
+        "pubDate": "Fri, 01 Aug 2014 05:06:18 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Canada's telcos burst into banking, healthcare in hunt for growth"
+    },
+    {
+        "contents": "data\\T\\20170125-231943.news",
+        "description": null,
+        "guid": "yahoo_finance/1003696401",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canada-launches-plan-extend-high-164427895.html",
+        "pubDate": "Tue, 22 Jul 2014 16:44:27 GMT",
+        "source": "data\\T\\20170125.rss",
+        "title": "Canada launches plan to extend high-speed Internet to remote areas"
     }
 ]

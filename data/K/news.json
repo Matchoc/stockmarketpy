@@ -547,5 +547,14 @@
         "pubDate": "Tue, 17 Jan 2017 12:15:21 GMT",
         "source": "data\\K\\20170117.rss",
         "title": "Kinross Gold Corp. breached its 50 day moving average in a Bullish Manner : K-CA : January 17, 2017"
+    },
+    {
+        "contents": "data\\K\\20170125-233640.news",
+        "description": null,
+        "guid": "yahoo_finance/4084725907",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13131bg7s/*http://www.fool.com/investing/2017/01/25/kinross-gold-soared-65-in-2016-but-it-still-looks.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 25 Jan 2017 13:12:54 GMT",
+        "source": "data\\K\\20170125.rss",
+        "title": "Kinross Gold Soared 65% in 2016, but It Still Looks Cheap"
     }
 ]

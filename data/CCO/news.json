@@ -214,5 +214,23 @@
         "pubDate": "Sun, 22 Jan 2017 20:24:14 GMT",
         "source": "data\\CCO\\20170123.rss",
         "title": "What Investors Might Have Missed in the Markets This Week"
+    },
+    {
+        "contents": "data\\CCO\\20170125-232709.news",
+        "description": null,
+        "guid": "yahoo_finance/58403586",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132qlr484/*http://www.fool.com/investing/2017/01/24/how-will-the-trump-presidency-affect-uranium-produ.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 25 Jan 2017 15:43:56 GMT",
+        "source": "data\\CCO\\20170125.rss",
+        "title": "How Will the Trump Presidency Affect Uranium Producer Cameco Corp.?"
+    },
+    {
+        "contents": "data\\CCO\\20170125-232709.news",
+        "description": null,
+        "guid": "yahoo_finance/643975220",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cameco-ccj-continue-surge-higher-134701450.html",
+        "pubDate": "Wed, 25 Jan 2017 13:47:01 GMT",
+        "source": "data\\CCO\\20170125.rss",
+        "title": "Will Cameco (CCJ) Continue to Surge Higher?"
     }
 ]

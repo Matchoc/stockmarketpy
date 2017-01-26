@@ -178,5 +178,14 @@
         "pubDate": "Wed, 30 Nov 2016 12:07:06 GMT",
         "source": "data\\DSG\\20170118.rss",
         "title": "Q3 2017 Descartes Systems Group Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\DSG\\20170125-233529.news",
+        "description": null,
+        "guid": "yahoo_finance/4171436334",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14qpkpjaj/*http://www.capitalcube.com/blog/index.php/the-descartes-systems-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-dsg-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:10:28 GMT",
+        "source": "data\\DSG\\20170125.rss",
+        "title": "The Descartes Systems Group, Inc. breached its 50 day moving average in a Bullish Manner : DSG-CA : January 25, 2017"
     }
 ]

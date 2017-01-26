@@ -817,5 +817,23 @@
         "pubDate": "Fri, 20 Jan 2017 11:42:54 GMT",
         "source": "data\\FFH\\20170120.rss",
         "title": "Fairfax may sell 25 pct of India's ICICI Lombard in up to $1 bln deal-sources"
+    },
+    {
+        "contents": "data\\FFH\\20170125-233626.news",
+        "description": "[Reuters] - The following are mergers under review by the European Commission and a brief guide to the EU merger process: APPROVALS AND WITHDRAWALS -- U.S. medical devices maker Abbott Laboratories to acquire U.S. ...",
+        "guid": "yahoo_finance/2892475163",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/eu-mergers-takeovers-jan-25-171254708.html",
+        "pubDate": "Wed, 25 Jan 2017 17:12:54 GMT",
+        "source": "data\\FFH\\20170125.rss",
+        "title": "EU mergers and takeovers (Jan 25)"
+    },
+    {
+        "contents": "data\\FFH\\20170125-233628.news",
+        "description": null,
+        "guid": "yahoo_finance/4048095318",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/omers-said-commit-1-billion-175909981.html",
+        "pubDate": "Tue, 24 Jan 2017 17:59:09 GMT",
+        "source": "data\\FFH\\20170125.rss",
+        "title": "OMERS Said to Commit $1 Billion to Fairfax\u2019s Allied Buy"
     }
 ]

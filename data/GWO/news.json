@@ -178,5 +178,14 @@
         "pubDate": "Wed, 12 Oct 2016 13:50:21 GMT",
         "source": "data\\GWO\\20170118.rss",
         "title": "ETF\u2019s with exposure to Great-West Lifeco, Inc. : October 12, 2016"
+    },
+    {
+        "contents": "data\\GWO\\20170125-233017.news",
+        "description": null,
+        "guid": "yahoo_finance/416467879",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/great-west-lifeco-release-fourth-211500226.html",
+        "pubDate": "Wed, 25 Jan 2017 21:15:00 GMT",
+        "source": "data\\GWO\\20170125.rss",
+        "title": "Great-West Lifeco to release fourth quarter 2016 results"
     }
 ]

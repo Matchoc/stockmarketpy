@@ -178,5 +178,14 @@
         "pubDate": "Mon, 26 Sep 2016 15:11:40 GMT",
         "source": "data\\NWC\\20170118.rss",
         "title": "ETF\u2019s with exposure to The North West Co., Inc. : September 26, 2016"
+    },
+    {
+        "contents": "data\\NWC\\20170125-231024.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\NWC\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

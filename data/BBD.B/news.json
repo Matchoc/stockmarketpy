@@ -952,5 +952,23 @@
         "pubDate": "Tue, 24 Jan 2017 08:15:22 GMT",
         "source": "data\\BBD.B\\20170124.rss",
         "title": "Bombardier and CityJet Sign Conditional Purchase Agreement for up to 10 CRJ900 Aircraft"
+    },
+    {
+        "contents": "data\\BBD.B\\20170125-232007.news",
+        "description": null,
+        "guid": "yahoo_finance/1287170759",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-announces-organizational-changes-support-124101967.html",
+        "pubDate": "Wed, 25 Jan 2017 12:41:01 GMT",
+        "source": "data\\BBD.B\\20170125.rss",
+        "title": "Bombardier Announces Organizational Changes to Support Turnaround Plan"
+    },
+    {
+        "contents": "data\\BBD.B\\20170125-232009.news",
+        "description": "[Marketwired] - Bombardier today announced the following changes in responsibilities for members of its senior management team. Effective immediately, Nico Buchholz will assume a new role as Senior Vice President, Strategic ...",
+        "guid": "yahoo_finance/2703998535",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-announces-organizational-changes-support-120000996.html",
+        "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
+        "source": "data\\BBD.B\\20170125.rss",
+        "title": "Bombardier Announces Organizational Changes to Support Turnaround Plan"
     }
 ]

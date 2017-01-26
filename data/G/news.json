@@ -223,5 +223,59 @@
         "pubDate": "Mon, 23 Jan 2017 22:55:32 GMT",
         "source": "data\\G\\20170124.rss",
         "title": "Miner Teck eyes sharing port with Anglo American in Chile"
+    },
+    {
+        "contents": "data\\G\\20170125-231226.news",
+        "description": null,
+        "guid": "yahoo_finance/2795722983",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12dpv4ahr/*http://marketrealist.com/2017/01/goldcorps-take-deleveraging-balance-sheet/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 15:36:48 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "What Is Goldcorp\u2019s Take on Deleveraging Its Balance Sheet Further?"
+    },
+    {
+        "contents": "data\\G\\20170125-231228.news",
+        "description": null,
+        "guid": "yahoo_finance/326390234",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12fgirbam/*http://marketrealist.com/2017/01/goldcorp-looking-mergers-acquisitions-space/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 14:07:43 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "What Is Goldcorp Seeking in the Mergers and Acquisitions Space?"
+    },
+    {
+        "contents": "data\\G\\20170125-231229.news",
+        "description": null,
+        "guid": "yahoo_finance/19997605",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12k2otf8m/*http://marketrealist.com/2017/01/will-goldcorps-costs-play-catch-lower-costs-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 12:37:42 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "Can Goldcorp\u2019s Costs Play Catch-Up to Lower Its Costs in 2017?"
+    },
+    {
+        "contents": "data\\G\\20170125-231230.news",
+        "description": null,
+        "guid": "yahoo_finance/1790483457",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12om0uom0/*http://marketrealist.com/2017/01/goldcorp-outlined-impressive-plan-grow-gold-reserves/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 24 Jan 2017 21:05:43 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "Goldcorp Outlined an Impressive Plan to Grow Its Gold Reserves"
+    },
+    {
+        "contents": "data\\G\\20170125-231231.news",
+        "description": null,
+        "guid": "yahoo_finance/3567988261",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kji51h3/*http://marketrealist.com/2017/01/goldcorps-production-growth-looks-like-long-term/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 24 Jan 2017 19:36:08 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "How Does Goldcorp\u2019s Production Growth Look in the Long Term?"
+    },
+    {
+        "contents": "data\\G\\20170125-231232.news",
+        "description": null,
+        "guid": "yahoo_finance/1410502354",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12g1nc3le/*http://marketrealist.com/2017/01/will-2017-mark-turnaround-goldcorps-fortunes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 24 Jan 2017 17:39:53 GMT",
+        "source": "data\\G\\20170125.rss",
+        "title": "Will 2017 Mark a Turnaround in Goldcorp\u2019s Fortunes?"
     }
 ]

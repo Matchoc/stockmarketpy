@@ -196,5 +196,77 @@
         "pubDate": "Mon, 23 Jan 2017 15:01:51 GMT",
         "source": "data\\ALA\\20170124.rss",
         "title": "Canada's AltaGas to jointly build natgas processing plant"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231004.news",
+        "description": null,
+        "guid": "yahoo_finance/2924297281",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13eduo6nm/*http://www.bizjournals.com/washington/news/2017/01/25/washington-gas-parent-to-be-acquired-in-6-4b-deal.html?ana=yahoo",
+        "pubDate": "Wed, 25 Jan 2017 23:21:58 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "Washington Gas parent to be acquired in $6.4B deal"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231005.news",
+        "description": null,
+        "guid": "yahoo_finance/4232692214",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12kj93amc/*https://www.thestreet.com/story/13967150/1/altagas-buying-wgl-for-6-4-billion.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Wed, 25 Jan 2017 23:21:00 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "AltaGas Buying WGL for $6.4 Billion"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231005.news",
+        "description": "[Reuters] - Canadian energy infrastructure company AltaGas Ltd said it would buy U.S.-based WGL Holdings Inc in a deal valued at C$8.4 billion ($6.42 billion), the latest company pushing deeper into natural gas distribution. AltaGas will offer WGL Holdings shareholders $88.25 per share held, a 12 percent premium to the stock's Wednesday close. WGL Holdings's shares were trading at $81.60 in after-market trading.",
+        "guid": "yahoo_finance/2714273579",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altagas-buy-wgl-c-8-230214923.html",
+        "pubDate": "Wed, 25 Jan 2017 23:02:14 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "AltaGas to buy WGL in C$8.4 bln deal in gas distribution push"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231007.news",
+        "description": "[Reuters] - Energy infrastructure company AltaGas Ltd said on Wednesday it would buy WGL Holdings Inc in a deal valued at C$8.4 billion . WGL Holdings, the parent of natural-gas utility Washington Gas, provides natural ...",
+        "guid": "yahoo_finance/3772528334",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altagas-buy-wgl-holdings-c-220227710.html",
+        "pubDate": "Wed, 25 Jan 2017 22:02:27 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "AltaGas to buy WGL Holdings for about C$8.4 billion"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231009.news",
+        "description": null,
+        "guid": "yahoo_finance/3753477657",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-ala-issues-215700377.html",
+        "pubDate": "Wed, 25 Jan 2017 21:57:00 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "IIROC Trading Halt - ALA (all issues)"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231011.news",
+        "description": null,
+        "guid": "yahoo_finance/1570592655",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-ala-issues-215700858.html",
+        "pubDate": "Wed, 25 Jan 2017 21:57:00 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "IIROC Trading Halt - ALA (all issues)"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231013.news",
+        "description": null,
+        "guid": "yahoo_finance/1496586617",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13inqujap/*http://www.bloomberg.com/news/articles/2017-01-25/altagas-buying-utility-owner-wgl-in-deal-valued-at-6-4-billion?cmpid=yhoo.headline",
+        "pubDate": "Wed, 25 Jan 2017 21:43:54 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "AltaGas Joins Canada\u2019s Buying Spree in U.S. With WGL Deal"
+    },
+    {
+        "contents": "data\\ALA\\20170125-231014.news",
+        "description": "[CNW Group] - S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices",
+        "guid": "yahoo_finance/2963309316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/p-dow-jones-indices-announces-221500090.html",
+        "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
+        "source": "data\\ALA\\20170125.rss",
+        "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
     }
 ]

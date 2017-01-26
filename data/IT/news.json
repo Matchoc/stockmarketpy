@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 18:12:57 GMT",
         "source": "data\\IT\\20170120.rss",
         "title": "ETFs with exposure to The Intertain Group Ltd. : January 19, 2017"
+    },
+    {
+        "contents": "data\\IT\\20170125-232340.news",
+        "description": "[CNW Group] - Jackpotjoy plc and Intertain announce completion of London listing and plan of arrangement",
+        "guid": "yahoo_finance/1872783920",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/jackpotjoy-plc-intertain-announce-completion-080100015.html",
+        "pubDate": "Wed, 25 Jan 2017 08:01:00 GMT",
+        "source": "data\\IT\\20170125.rss",
+        "title": "Jackpotjoy plc and Intertain announce completion of London listing and plan of arrangement"
     }
 ]

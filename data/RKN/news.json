@@ -250,5 +250,23 @@
         "pubDate": "Thu, 21 Jan 2016 12:15:20 GMT",
         "source": "data\\RKN\\20170113.rss",
         "title": "Redknee Solutions Inc. to Host Fiscal First Quarter 2016 Investor Conference Call on February 11, 2016"
+    },
+    {
+        "contents": "data\\RKN\\20170125-232241.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 25, 2017 /CNW/ - Redknee Solutions Inc. (\" Redknee \" or the \" Company \") (TSX: RKN) is pleased to announce that at the special meeting (\" Meeting \") of holders ...",
+        "guid": "yahoo_finance/2653013343",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-announces-shareholder-approval-private-204300334.html",
+        "pubDate": "Wed, 25 Jan 2017 20:43:00 GMT",
+        "source": "data\\RKN\\20170125.rss",
+        "title": "Redknee Announces Shareholder Approval of Private Placement"
+    },
+    {
+        "contents": "data\\RKN\\20170125-232242.news",
+        "description": null,
+        "guid": "yahoo_finance/1961003170",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-announces-shareholder-approval-private-204300243.html",
+        "pubDate": "Wed, 25 Jan 2017 20:43:00 GMT",
+        "source": "data\\RKN\\20170125.rss",
+        "title": "Redknee Announces Shareholder Approval of Private Placement"
     }
 ]

@@ -277,5 +277,14 @@
         "pubDate": "Mon, 12 Sep 2016 14:58:03 GMT",
         "source": "data\\IGM\\20170122.rss",
         "title": "IGM Financial Inc. announces August 2016 mutual fund sales and total assets under management"
+    },
+    {
+        "contents": "data\\IGM\\20170125-232256.news",
+        "description": null,
+        "guid": "yahoo_finance/1913414133",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mackenzie-investments-announces-distributions-active-140000898.html",
+        "pubDate": "Wed, 25 Jan 2017 14:00:00 GMT",
+        "source": "data\\IGM\\20170125.rss",
+        "title": "Mackenzie Investments Announces Distributions for its Active Exchange Traded Funds (MKB, MUB, MFT, MGB)"
     }
 ]

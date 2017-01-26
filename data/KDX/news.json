@@ -196,5 +196,23 @@
         "pubDate": "Thu, 13 Oct 2016 21:12:39 GMT",
         "source": "data\\KDX\\20170119.rss",
         "title": "Klondex Reports Quarterly Production of ~37,000 GEOs"
+    },
+    {
+        "contents": "data\\KDX\\20170125-233538.news",
+        "description": "[Marketwired] - The release of Klondex Mines Ltd.'s full-year and fourth-quarter numbers for 2016, as well as limited guidance for 2017, prompted commentary by analysts following the company's operations in both the United ...",
+        "guid": "yahoo_finance/3247112980",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-report-examines-klondexs-end-140000300.html",
+        "pubDate": "Wed, 25 Jan 2017 14:00:00 GMT",
+        "source": "data\\KDX\\20170125.rss",
+        "title": "The Gold Report Examines Klondex's Year-End Update and Guidance for 2017"
+    },
+    {
+        "contents": "data\\KDX\\20170125-233539.news",
+        "description": "[Marketwired] - Klondex Mines Ltd. is pleased to provide an update on underground drilling at its True North Gold Mine in Manitoba, Canada. The following drill results are not included in the...",
+        "guid": "yahoo_finance/3762622784",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/klondex-announces-discovery-true-north-004856954.html",
+        "pubDate": "Wed, 25 Jan 2017 00:48:56 GMT",
+        "source": "data\\KDX\\20170125.rss",
+        "title": "Klondex Announces New Discovery at True North; Drilling Continues to Extend Known Mineralization"
     }
 ]

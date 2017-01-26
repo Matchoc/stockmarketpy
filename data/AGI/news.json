@@ -349,5 +349,32 @@
         "pubDate": "Thu, 28 Jan 2016 19:52:27 GMT",
         "source": "data\\AGI\\20170124.rss",
         "title": "Alamos Gold Provides Notice of Fourth Quarter and Year-End 2015 Financial Results and Conference Call"
+    },
+    {
+        "contents": "data\\AGI\\20170125-231116.news",
+        "description": "[Marketwired] - All amounts are in United States dollars, unless otherwise stated.",
+        "guid": "yahoo_finance/2592038396",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alamos-gold-announces-us-250-214722432.html",
+        "pubDate": "Wed, 25 Jan 2017 21:47:22 GMT",
+        "source": "data\\AGI\\20170125.rss",
+        "title": "Alamos Gold Announces US$250 Million Bought Deal Financing"
+    },
+    {
+        "contents": "data\\AGI\\20170125-231118.news",
+        "description": null,
+        "guid": "yahoo_finance/2530150240",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-agi-issues-214500176.html",
+        "pubDate": "Wed, 25 Jan 2017 21:45:00 GMT",
+        "source": "data\\AGI\\20170125.rss",
+        "title": "IIROC Trading Halt - AGI (all issues)"
+    },
+    {
+        "contents": "data\\AGI\\20170125-231120.news",
+        "description": null,
+        "guid": "yahoo_finance/626948714",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-agi-issues-214500035.html",
+        "pubDate": "Wed, 25 Jan 2017 21:45:00 GMT",
+        "source": "data\\AGI\\20170125.rss",
+        "title": "IIROC Trading Halt - AGI (all issues)"
     }
 ]

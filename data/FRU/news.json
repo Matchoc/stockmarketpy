@@ -187,5 +187,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:51:03 GMT",
         "source": "data\\FRU\\20170124.rss",
         "title": "Freehold Royalties Ltd. breached its 50 day moving average in a Bearish Manner : FRU-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\FRU\\20170125-230902.news",
+        "description": null,
+        "guid": "yahoo_finance/4205764786",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13dc7fhv9/*http://www.capitalcube.com/blog/index.php/freehold-royalties-ltd-value-analysis-torontofru-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 17:20:25 GMT",
+        "source": "data\\FRU\\20170125.rss",
+        "title": "Freehold Royalties Ltd. \u2013 Value Analysis (TORONTO:FRU) : January 25, 2017"
     }
 ]

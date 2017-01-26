@@ -178,5 +178,23 @@
         "pubDate": "Tue, 15 Nov 2016 12:00:00 GMT",
         "source": "data\\IFC\\20170118.rss",
         "title": "Intact Financial Corporation announces Executive Committee changes"
+    },
+    {
+        "contents": "data\\IFC\\20170125-231651.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 25, 2017 /CNW/ - Intact Financial Corporation (TSX: IFC) will announce its 2016 fourth quarter and year-end results on Wednesday, February 8, at approximately 7:00 a.m. ET and host a conference ...",
+        "guid": "yahoo_finance/3042945711",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-intact-financial-corporation-120000596.html",
+        "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
+        "source": "data\\IFC\\20170125.rss",
+        "title": "Media Advisory - Intact Financial Corporation to Release 2016 Fourth Quarter and Year-End Results on February 8"
+    },
+    {
+        "contents": "data\\IFC\\20170125-231652.news",
+        "description": null,
+        "guid": "yahoo_finance/138107064",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-intact-financial-corporation-120000377.html",
+        "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
+        "source": "data\\IFC\\20170125.rss",
+        "title": "Media Advisory - Intact Financial Corporation to Release 2016 Fourth Quarter and Year-End Results on February 8"
     }
 ]

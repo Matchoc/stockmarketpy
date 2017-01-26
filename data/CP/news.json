@@ -439,5 +439,86 @@
         "pubDate": "Mon, 23 Jan 2017 23:25:43 GMT",
         "source": "data\\CP\\20170124.rss",
         "title": "Outgoing CP Rail boss barred from hiring managers except chief of staff"
+    },
+    {
+        "contents": "data\\CP\\20170125-232647.news",
+        "description": null,
+        "guid": "yahoo_finance/2700278500",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/csx-shareholder-backs-harrison-ceo-201041850.html",
+        "pubDate": "Wed, 25 Jan 2017 20:10:41 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "CSX shareholder backs Harrison for CEO as activist swoops in"
+    },
+    {
+        "contents": "data\\CP\\20170125-232649.news",
+        "description": null,
+        "guid": "yahoo_finance/3364655182",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1304s96pa/*http://www.wsj.com/articles/norfolk-southern-profit-rises-as-cost-cutting-continues-1485353144?mod=yahoo_hs",
+        "pubDate": "Wed, 25 Jan 2017 18:40:53 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "[$$] Norfolk Southern Profit Rises"
+    },
+    {
+        "contents": "data\\CP\\20170125-232649.news",
+        "description": null,
+        "guid": "yahoo_finance/4023186722",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=130nmhpjv/*https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Wed, 25 Jan 2017 14:52:00 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "This One Legendary Executive Makes CSX Shares a Must Watch for 2017"
+    },
+    {
+        "contents": "data\\CP\\20170125-232650.news",
+        "description": null,
+        "guid": "yahoo_finance/274754093",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=131f910oq/*http://marketrealist.com/2017/01/why-canadian-pacifics-carloads-slumped-in-second-week-of-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 25 Jan 2017 12:36:19 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "Why Canadian Pacific\u2019s Carloads Slumped in Second Week of 2017"
+    },
+    {
+        "contents": "data\\CP\\20170125-232651.news",
+        "description": null,
+        "guid": "yahoo_finance/4115434024",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/csx-may-not-only-rail-201533465.html",
+        "pubDate": "Tue, 24 Jan 2017 22:12:17 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "CSX may not be the only rail target for activist investor"
+    },
+    {
+        "contents": "data\\CP\\20170125-232653.news",
+        "description": null,
+        "guid": "yahoo_finance/1188234157",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/csx-may-not-only-rail-201533433.html",
+        "pubDate": "Tue, 24 Jan 2017 22:12:17 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "CSX may not be the only rail target for activist investor"
+    },
+    {
+        "contents": "data\\CP\\20170125-232655.news",
+        "description": null,
+        "guid": "yahoo_finance/1171595638",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13fbple5o/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-canadian-pacific-railway-ltd-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 17:14:36 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "ETFs with exposure to Canadian Pacific Railway Ltd. : January 24, 2017"
+    },
+    {
+        "contents": "data\\CP\\20170125-232659.news",
+        "description": null,
+        "guid": "yahoo_finance/1337627826",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-csx-isnt-only-m-164916061.html",
+        "pubDate": "Tue, 24 Jan 2017 16:49:16 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "Why CSX Isn't The Only M&A Target In The Rail Space Right Now"
+    },
+    {
+        "contents": "data\\CP\\20170125-232700.news",
+        "description": null,
+        "guid": "yahoo_finance/178848502",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13j0ej63i/*https://www.thestreet.com/story/13962457/1/why-canadian-pacific-railway-is-the-top-bet-in-the-railroad-group.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Tue, 24 Jan 2017 15:57:00 GMT",
+        "source": "data\\CP\\20170125.rss",
+        "title": "Why Canadian Pacific Railway Is the Top Bet in the Railroad Group"
     }
 ]

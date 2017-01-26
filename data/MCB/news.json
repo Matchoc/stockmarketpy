@@ -241,5 +241,14 @@
         "pubDate": "Wed, 04 Jan 2017 14:00:00 GMT",
         "source": "data\\MCB\\20170105.rss",
         "title": "McCoy Global Inc. announces strategic asset acquisition of 3PS, Inc."
+    },
+    {
+        "contents": "data\\MCB\\20170125-231509.news",
+        "description": "[Reuters] - Canadian exporters are scrambling to find ways to avoid a potential 10 percent import tax promised by U.S. President-elect Donald Trump, including the possible shifting of production or supply lines south of the border. Amid warnings from the Bank of Canada on Wednesday that protectionist policies brought in by Trump could drive companies to invest in the United States rather than Canada, executives said their search for options has already begun.",
+        "guid": "yahoo_finance/1279035542",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-exporters-fearing-border-tax-204950373.html",
+        "pubDate": "Wed, 25 Jan 2017 20:48:18 GMT",
+        "source": "data\\MCB\\20170125.rss",
+        "title": "Canadian exporters, fearing border tax, scramble to shift production"
     }
 ]

@@ -367,5 +367,23 @@
         "pubDate": "Mon, 23 Jan 2017 22:06:22 GMT",
         "source": "data\\CWB\\20170124.rss",
         "title": "CWB to redeem $75 million of subordinated debentures"
+    },
+    {
+        "contents": "data\\CWB\\20170125-231350.news",
+        "description": null,
+        "guid": "yahoo_finance/1741269919",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14gden9vb/*http://www.capitalcube.com/blog/index.php/canadian-western-bank-breached-its-50-day-moving-average-in-a-bullish-manner-cwb-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:05:05 GMT",
+        "source": "data\\CWB\\20170125.rss",
+        "title": "Canadian Western Bank breached its 50 day moving average in a Bullish Manner : CWB-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\CWB\\20170125-231407.news",
+        "description": null,
+        "guid": "yahoo_finance/246839391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-banking-stocks-131500675.html",
+        "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
+        "source": "data\\CWB\\20170125.rss",
+        "title": "Research Reports Initiated on Banking Stocks Bank of Montreal, National Bank of Canada, Diversified Royalty, and Canadian Western Bank"
     }
 ]

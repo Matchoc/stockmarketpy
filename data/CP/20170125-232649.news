@@ -1,0 +1,2596 @@
+
+<!DOCTYPE html>
+
+    
+
+
+
+<!--[if IE 8 ]>    <html lang="en" class="no-js no-css ie8" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js no-css ie9"    > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js no-css"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1024,  user-scalable=no">
+
+    <meta name="referrer" content="unsafe-url">
+    <title>This One Legendary Executive Makes CSX Shares a Must Watch for 2017 - TheStreet</title>
+    <meta property="fb:app_id" content="458919507482096"/>
+    <meta property="fb:pages" content="112877175855"/>
+    <link rel="apple-touch-icon" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-60x60-1ce2a07f2cd0044d4be697f2c83c3f8e.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-76x76-da7c70c55af776ef18aa89325e5583dd.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-120x120-381bbff5ed011c5d926c91cc7d21ac6d.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="//s.t.st/assets/thestreet-ngbeta/production/339/icon-links/thestreet-152x152-00d54cad08ba45b77387b39f98eabe3c.png"/>
+    <script type="text/javascript">
+        var Keystone = Keystone || {};
+        Keystone.Cfg = {
+            appName:"thestreet-ng",
+            env:"production",
+            msBaseUrl:"https://www.thestreet.com",
+            tstBaseUrl:"https://www.thestreet.com",
+            betaBaseUrl:"https://www.thestreet.com",
+            commerceBaseUrl:"https://secure2.thestreet.com",
+            enablePromo:"false",
+            upmBaseUrl:"https://secure.thestreet.com",
+            siteName: 'TheStreet',
+            siteCode: 'TSC',
+            adSite: 'tsc-thestreet',
+            cookieDomain: '.thestreet.com',
+            siteUrl: 'http://www.thestreet.com',
+            disqusCommentsUrl: '//thestreet.disqus.com/embed.js',
+            disqusShortName: 'thestreet',
+            twitterHandle: 'TheStreet',
+            yieldMoMobileId: 'ym_977514524868026203',
+            yieldMoTabletId: '',
+            yieldMoMobileIdVideo: 'ym_1159944114266290993',
+            yieldVideoId: 'ym_1159944114266290993',
+            outbrainTextWidgetId: '',
+            outbrainImagesWidgetId: '',
+            outbrainImagesMobileWidgetId: 'MB_3',
+            kalturaPublisher: '105',
+            articleAppMappings: ['story/:id/:number(/:name)', 'slideshow/:id/:number/:name', 'video/:id/:name', 'story/*path'],
+            targetingValues :'' ,
+            ptnTargeting :''
+        };
+
+        Keystone.Tracking = {
+            recentTickers: {}
+        };
+        
+    </script>
+    
+
+    <script>
+/*! LAB.js (LABjs :: Loading And Blocking JavaScript)
+    v2.0.3 (c) Kyle Simpson
+    MIT License
+*/
+;(function(o){var K=o.$LAB,y="UseLocalXHR",z="AlwaysPreserveOrder",u="AllowDuplicates",A="CacheBust",B="BasePath",C=/^[^?#]*\//.exec(location.href)[0],D=/^\w+\:\/\/\/?[^\/]+/.exec(C)[0],i=document.head||document.getElementsByTagName("head"),L=(o.opera&&Object.prototype.toString.call(o.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),q=document.createElement("script"),E=typeof q.preload=="boolean",r=E||(q.readyState&&q.readyState=="uninitialized"),F=!r&&q.async===true,M=!r&&!F&&!L;function G(a){return Object.prototype.toString.call(a)=="[object Function]"}function H(a){return Object.prototype.toString.call(a)=="[object Array]"}function N(a,c){var b=/^\w+\:\/\//;if(/^\/\/\/?/.test(a)){a=location.protocol+a}else if(!b.test(a)&&a.charAt(0)!="/"){a=(c||"")+a}return b.test(a)?a:((a.charAt(0)=="/"?D:C)+a)}function s(a,c){for(var b in a){if(a.hasOwnProperty(b)){c[b]=a[b]}}return c}function O(a){var c=false;for(var b=0;b<a.scripts.length;b++){if(a.scripts[b].ready&&a.scripts[b].exec_trigger){c=true;a.scripts[b].exec_trigger();a.scripts[b].exec_trigger=null}}return c}function t(a,c,b,d){a.onload=a.onreadystatechange=function(){if((a.readyState&&a.readyState!="complete"&&a.readyState!="loaded")||c[b])return;a.onload=a.onreadystatechange=null;d()}}function I(a){a.ready=a.finished=true;for(var c=0;c<a.finished_listeners.length;c++){a.finished_listeners[c]()}a.ready_listeners=[];a.finished_listeners=[]}function P(d,f,e,g,h){setTimeout(function(){var a,c=f.real_src,b;if("item"in i){if(!i[0]){setTimeout(arguments.callee,25);return}i=i[0]}a=document.createElement("script");if(f.type)a.type=f.type;if(f.charset)a.charset=f.charset;if(h){if(r){e.elem=a;if(E){a.preload=true;a.onpreload=g}else{a.onreadystatechange=function(){if(a.readyState=="loaded")g()}}a.src=c}else if(h&&c.indexOf(D)==0&&d[y]){b=new XMLHttpRequest();b.onreadystatechange=function(){if(b.readyState==4){b.onreadystatechange=function(){};e.text=b.responseText+"\n//@ sourceURL="+c;g()}};b.open("GET",c);b.send()}else{a.type="text/cache-script";t(a,e,"ready",function(){i.removeChild(a);g()});a.src=c;i.insertBefore(a,i.firstChild)}}else if(F){a.async=false;t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}else{t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}},0)}function J(){var l={},Q=r||M,n=[],p={},m;l[y]=true;l[z]=false;l[u]=false;l[A]=false;l[B]="";function R(a,c,b){var d;function f(){if(d!=null){d=null;I(b)}}if(p[c.src].finished)return;if(!a[u])p[c.src].finished=true;d=b.elem||document.createElement("script");if(c.type)d.type=c.type;if(c.charset)d.charset=c.charset;t(d,b,"finished",f);if(b.elem){b.elem=null}else if(b.text){d.onload=d.onreadystatechange=null;d.text=b.text}else{d.src=c.real_src}i.insertBefore(d,i.firstChild);if(b.text){f()}}function S(c,b,d,f){var e,g,h=function(){b.ready_cb(b,function(){R(c,b,e)})},j=function(){b.finished_cb(b,d)};b.src=N(b.src,c[B]);b.real_src=b.src+(c[A]?((/\?.*$/.test(b.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!p[b.src])p[b.src]={items:[],finished:false};g=p[b.src].items;if(c[u]||g.length==0){e=g[g.length]={ready:false,finished:false,ready_listeners:[h],finished_listeners:[j]};P(c,b,e,((f)?function(){e.ready=true;for(var a=0;a<e.ready_listeners.length;a++){e.ready_listeners[a]()}e.ready_listeners=[]}:function(){I(e)}),f)}else{e=g[0];if(e.finished){j()}else{e.finished_listeners.push(j)}}}function v(){var e,g=s(l,{}),h=[],j=0,w=false,k;function T(a,c){a.ready=true;a.exec_trigger=c;x()}function U(a,c){a.ready=a.finished=true;a.exec_trigger=null;for(var b=0;b<c.scripts.length;b++){if(!c.scripts[b].finished)return}c.finished=true;x()}function x(){while(j<h.length){if(G(h[j])){try{h[j++]()}catch(err){}continue}else if(!h[j].finished){if(O(h[j]))continue;break}j++}if(j==h.length){w=false;k=false}}function V(){if(!k||!k.scripts){h.push(k={scripts:[],finished:true})}}e={script:function(){for(var f=0;f<arguments.length;f++){(function(a,c){var b;if(!H(a)){c=[a]}for(var d=0;d<c.length;d++){V();a=c[d];if(G(a))a=a();if(!a)continue;if(H(a)){b=[].slice.call(a);b.unshift(d,1);[].splice.apply(c,b);d--;continue}if(typeof a=="string")a={src:a};a=s(a,{ready:false,ready_cb:T,finished:false,finished_cb:U});k.finished=false;k.scripts.push(a);S(g,a,k,(Q&&w));w=true;if(g[z])e.wait()}})(arguments[f],arguments[f])}return e},wait:function(){if(arguments.length>0){for(var a=0;a<arguments.length;a++){h.push(arguments[a])}k=h[h.length-1]}else k=false;x();return e}};return{script:e.script,wait:e.wait,setOptions:function(a){s(a,g);return e}}}m={setGlobalDefaults:function(a){s(a,l);return m},setOptions:function(){return v().setOptions.apply(null,arguments)},script:function(){return v().script.apply(null,arguments)},wait:function(){return v().wait.apply(null,arguments)},queueScript:function(){n[n.length]={type:"script",args:[].slice.call(arguments)};return m},queueWait:function(){n[n.length]={type:"wait",args:[].slice.call(arguments)};return m},runQueue:function(){var a=m,c=n.length,b=c,d;for(;--b>=0;){d=n.shift();a=a[d.type].apply(null,d.args)}return a},noConflict:function(){o.$LAB=K;return m},sandbox:function(){return J()}};return m}o.$LAB=J();(function(a,c,b){if(document.readyState==null&&document[a]){document.readyState="loading";document[a](c,b=function(){document.removeEventListener(c,b,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
+
+</script>
+
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="//s.t.st/assets/thestreet-ngbeta/production/339/img/favicon-ae5ce35f39bb43a2889da8b791eab084.ico"/>
+    
+    <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/339/styles/base-44e832395db73d3bee9039c7a30383ab.css"/>
+    
+        <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/339/styles/article-7dfdaf279dd847587fa730a6db258e9a.css"/>
+    
+
+    <!-- Google Authorship and Publisher Markup -->
+    <link rel="publisher" href="https://plus.google.com/+TheStreet" />
+    
+        <meta name="layout" content="main"/>
+        
+        
+        <meta property="tst:article" content="desktop"/>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html" />
+<link rel="amphtml" href="https://www.thestreet.com/amp/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html">
+
+
+
+    <link rel="next" href="https://www.thestreet.com/story/13964192/2/here-s-why-csx-is-the-railway-to-watch-in-2017.html" />
+
+
+<meta name="date" content="2017-01-25T09:52Z"/>
+<meta name="description" content="A shake-up could be coming....CSX"/>
+<meta name="guid" content="13964192"/>
+<meta name="keywords" content="Financial, News, Stock, Market, Headlines, Investments, Quotes, Trading, TheStreet, Chad Fraser, Stocks ,CSX"/>
+<meta name="news_keywords" content="Canadian Pacific Railway, Canadian National Railway, CSX, Hunter Harrison, railroad, Fla, NYSE, Railroads, Warren Buffett, Activision"/>
+<meta name="author" content="Chad Fraser"/>
+<meta name="section" content="Stocks"/>
+<meta name="contentType" content="article"/>
+
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="&#64;TheStreet"/>
+<meta name="twitter:title" content="This one legendary executive makes CSX shares a must watch for 2017 $CSX"/>
+<meta name="twitter:description" content="A shake-up could be coming."/>
+<meta name="twitter:url" content="https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html"/>
+
+
+<!-- Open Graph data -->
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="This one legendary executive makes CSX shares a must watch for 2017"/>
+<meta property="og:url" content="https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html"/>
+<meta property="og:description" content="A shake-up could be coming."/>
+<meta property="og:site_name" content="TheStreet"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="article:author" content="https://www.thestreet.com/author/1669909/ChadFraser/all.html"/>
+<meta property="article:section" content="Stocks"/>
+<meta property="article:publisher" content="https://www.facebook.com/TheStreet"/>
+<meta property="article:published_time" content="2017-01-25T09:52Z"/>
+
+    <meta property="article:modified_time" content="2017-01-25T23:00Z"/>
+
+
+    <meta property="article:tag" content="Canadian Pacific Railway"/>
+
+    <meta property="article:tag" content=" Canadian National Railway"/>
+
+    <meta property="article:tag" content=" CSX"/>
+
+    <meta property="article:tag" content=" Hunter Harrison"/>
+
+    <meta property="article:tag" content=" railroad"/>
+
+    <meta property="article:tag" content=" Fla"/>
+
+    <meta property="article:tag" content=" NYSE"/>
+
+    <meta property="article:tag" content=" Railroads"/>
+
+    <meta property="article:tag" content=" Warren Buffett"/>
+
+    <meta property="article:tag" content=" Activision"/>
+
+
+    
+    <meta property="og:image" content="http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png"/>
+    <meta property="og:image:secure_url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png"/>
+    <meta name="twitter:image" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png"/>
+    <meta name="twitter:image:src" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png"/>
+    <meta property="og:image:width" content="600"/>
+    <meta property="og:image:height" content="400"/>
+    <link rel="image_src" href="http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png" />
+
+
+    <script>
+        
+            
+            
+            
+        
+        Keystone.Cfg.targetingValues +="authors=Chad Fraser;";
+        Keystone.Cfg.targetingValues +="article=13964192;";
+        Keystone.Cfg.targetingValues +="storytype=Stocks;";
+        Keystone.Cfg.targetingValues +="section=Transportation;";
+        
+
+    </script>
+
+
+
+<script type="application/ld+json">
+        {
+            "@context": "schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+                 "@type": "WebPage",
+                  "@id": "https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html"
+             },
+             "headline": "This One Legendary Executive Makes CSX Shares a Must Watch for 2017",
+            "publisher": {
+                "@type": "Organization",
+                "name": "TheStreet",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://s.t.st/files/tsc/TheStreet_logo.gif",
+                    "width": 80,
+                    "height": 30
+                }
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chad Fraser"
+            },
+
+            "genre": "Transportation",
+            "description": "A shake-up could be coming....CSX",
+            "datePublished": "2017-01-25T09:52Z",
+            "dateModified": "2017-01-25T23:00Z",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png",
+              "width": 1200,
+            "height": 800
+                }   ,
+                "keywords": ["Canadian Pacific Railway"," Canadian National Railway"," CSX"," Hunter Harrison"," railroad"," Fla"," NYSE"," Railroads"," Warren Buffett"," Activision", "TheStreet"]
+
+
+
+        }
+    </script>
+
+
+
+
+
+    
+    
+    <!--[if lt IE 9]>
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/ie-8ac6b0e7bdda18ee4cf4aedc016d17c8.js" type="text/javascript" ></script>
+    <![endif]-->
+    
+
+<!--[if lt IE 10]>
+<script>requestAnimationFrame = window.requestAnimationFrame;</script>
+ <![endif]-->
+<script type='text/javascript'>
+    var forwardSlash = '/';
+ var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+    <script type="text/javascript">
+        (function (){
+            window.advBidxc = window.advBidxc || {};
+            window.advBidxc.renderAd = function (){};
+            window.advBidxc.startTime = new Date().getTime();
+            window.advBidxc.timeout = 300;
+            window.advBidxc.version = 3.1;
+            window.advBidxc.customerId = "8CU80A91U"; //Media.net Customer ID
+            function loadScript(tagSrc) {
+                if (tagSrc.substr(0, 4) !== 'http') {
+                    var isSSL = 'https:' == document.location.protocol;
+                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+                }
+                var scriptTag = document.createElement('script'),
+                    placeTag = document.getElementsByTagName("script")[0];
+                scriptTag.type = 'text/javascript';
+                scriptTag.async = true;
+                scriptTag.src = tagSrc;
+                placeTag.parentNode.insertBefore(scriptTag, placeTag);
+            }
+            function loadGPT(){
+                if(!window.advBidxc.isAdServerLoaded){
+                    loadScript('//www.googletagservices.com/tag/js/gpt.js');
+                    window.advBidxc.isAdServerLoaded = true;
+                }
+            }
+
+            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+
+            var isSSL = 'https:' == document.location.protocol;
+            var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid='  + window.advBidxc.customerId + '&version=' +    window.advBidxc.version + (isSSL ? '&https=1' : '');
+            loadScript(mnSrc);
+        })();
+    </script>
+
+
+
+    <script>
+
+    var Keystone = Keystone || {};
+
+    Keystone.onLibraryReady = function(libName, callback) {
+        var that = this;
+        var args = [].slice.call(arguments, 2);
+
+        document.addEventListener(libName + 'Loaded', function(e) {
+            if (typeof callback === 'function') {
+                callback.apply(that, args);
+            }
+        });
+    };
+
+
+    // Disqus
+    var disqus_identifier = '';
+
+    // GMT tracking
+    var dataLayer = [];
+
+
+</script>
+
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="robots" content="NOODP"/>
+    <!-- for google -->
+    <meta name="robots" content="NOYDIR"/>
+    <!-- for yahoo -->
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/essential-f8f611c27280129ec5fb761f346cc32d.js" type="text/javascript" ></script>
+</head>
+<body>
+
+
+<style>
+#welcomeOverlay  {
+    margin: 0px;
+    padding:0px;
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100000000;
+}
+
+
+#welcomeOverlay #adSection {
+    clear: both;
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#adSection .adDiv {
+    height: 100%;
+    width:auto;
+    min-width: 300px;
+    max-width: 640px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.headerRight{
+    color: #fff;
+}
+#adSection .adTitle {
+    padding: 10px 0;
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+}
+#welcomeOverlay_overlay {
+    background: #1d1d1d;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+</style>
+<div id="welcomeOverlay">
+    <div id="welcomeOverlay_overlay"></div>
+    <div id="adSection">
+        <div class="adDiv">
+            <div class="adTitle">
+                <span id="ctSite"><a href="javascript:Keystone.Utils.WelcomeOverlayUtil.remove();" class="headerRight">Continue to site &gt;&gt;</a> </span>
+                <span id="ctSiteCountDown" class="headerRight"></span>
+            </div>
+            <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-ad-welcome-overlay" data-ad-sizes="300,250|640,480|600,400|1,1"  data-ad-preload="true" data-ad-targeting="ptn=welcome"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+        </div>
+    </div>
+</div>
+
+
+<style>
+#welcomePromoOverlay  {
+    margin: 0px;
+    padding:0px;
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100000000;
+}
+
+
+#welcomePromoOverlay_overlay {
+    background: #1d1d1d;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+}
+#welcomePromoOverlay #nonadSection {
+    clear: both;
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div id="welcomePromoOverlay">
+    <div id="welcomePromoOverlay_overlay"></div>
+    <div id="nonadSection">
+             <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen width="640" height="380"  scrolling="no" frameborder="0"  id="promoiframe"></iframe>
+    </div>
+</div>
+
+
+
+<div class="site-wrapper">
+
+    <div id="form_overlay_opacity"></div>
+<div id="form_frame_holder"></div>
+
+    
+        
+        
+    
+    
+        
+        
+    
+
+
+    <!--[if lte IE 9]>
+    <div id="browsehappy" class="browsehappy">
+        <div class="browsehappy-content">
+            <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>You are using an <strong>outdated</strong> browser.
+            Please <a href="http://browsehappy.com/" rel="external" target="_blank">upgrade your browser</a> to improve your experience.
+        </div>
+        <span id="browsehappy-close" class="browsehappy-close fa fa-times" title="Close"></span>
+    </div>
+    <![endif]-->
+
+    <div class="print-header visible-print">
+        <p><img src="//s.t.st/assets/thestreet-ngbeta/production/339/img/logo_tst-1cb277d6a15a862f60d473a49043b423.svg" /></p>
+    </div>
+    <div class="site-header">
+        
+            
+
+    <div class="navbar navbar-fixed-top main-nav main-nav--desktop " role="navigation">
+
+        
+        <div id="header-wrap">
+            <div class="main-nav--top-row" >
+                <div class="main-nav__full-nav">
+                    <div class="row hidden-xs">
+                        <div class="col-md-12">
+                            <ul class="main-nav__user-links">
+                                <li class="main-nav__user-link"><a href="#" id="login" class="uppercase" title="Login">Login</a></li>
+                                <li class="main-nav__user-link main-nav__user-link--account"><i class="fa fa-user"></i> <a id="main_nav_myaccount" class="uppercase" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&url=https://www.thestreet.com/index.html&_ga=1.141642162.1881260853.1456123377" title="My Account">My Account</a></li>
+                                <li class="main-nav__user-link main-nav__user-link--alerts"><a id="getAlerts" href="/alerts" class="uppercase" title="Get Alerts">Get Alerts <i class="fa fa-angle-down"></i></a>
+                                    <div id="main-nav__alerts-dropdown" class="arrow-box main-nav__alerts-dropdown" style="display: none;">
+                                        
+                                        <div class="shareDiv">
+                                            <div class="main-nav__alerts-dropdown__heading-block">
+                                                <a id="alerts" class="main-nav__alerts-dropdown__heading" href="/alerts" title="TheStreet Alerts"><i class="fa fa-plus"></i> TheStreet Alerts</a>
+                                            </div>
+                                            <div class="social-links social-links--menu">
+                                                <a id="main_nav_facebook" target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links__item social-links__item--article fa fa-facebook"></i></a>
+                                                <a id="main_nav_google" target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links__item social-links__item--article fa fa-google-plus"></i></a>
+                                                <a id="main_nav_twitter" target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links__item social-links__item--article fa fa-twitter"></i></a>
+                                            </div>
+                                            <div class="main-nav__alerts-dropdown__email">
+                                                <div class="connectTST newsletterDiv">
+                                                    <h4>Email Newsletters</h4>
+                                                    <form class="connectFORM" name="newsletter-form">
+                                                        <p><label><input type="checkbox" name="products" value="E-TAB" id="E-TAB"> In Case You Missed It</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TBB" id="E-TBB"> Before the Bell</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TBY" id="E-TBY"> Jim Cramer's Daily Booyah</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-MDB" id="E-MDB"> Midday Bell</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-TTT" id="E-TTT"> Top 10</label></p>
+                                                        <p><label><input type="checkbox" name="products" value="E-WAL" id="E-WAL"> Winners &amp; Losers</label></p>
+                                                        <div class="nlmessage-container">
+                                                            <span class="nlmessage"></span>
+                                                            <span class="nlerror"></span>
+                                                        </div>
+                                                        <button id="newsletter_submit" type="button" class=" btn newsletterSubmit">Register For Newsletters</button>
+                                                    </form>
+                                                </div>
+                                            </div><!-- end of connectTST -->
+                                        </div><!-- end of shareDiv class-->
+                                    </div>
+                                </li>
+                                
+                                <li class="main-nav--search">
+                                    <div id="searchDesktopNav" class="search search--desktop-nav-top">
+                                        <div id="search-form" class="search__form search__form--desktop-nav-top">
+                                            
+                                            <form action="/find/results" method="get" role="search" class="noAutocomplete" >
+                                                <input type="text" name="q" id="select-term" placeholder="Search keyword" class="form-control form-control-search-text search__form--form repositories typeahead" data-position="fixed" data-tickers="true" data-authors="true" data-news="true" data-categories="true" data-zindex="1031" title="Search" required="required" maxlength="150" value="" />
+                                            </form>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="search__btn search__btn--desktop-top" id="nav-search--desktop">
+                                            <a id="main_nav_search" href="#" class="search-link" aria-label="Search" role="button"><span class="search__icon"></span></a>
+                                        </div>
+                                    </div>
+                                    <div id="searchDesktopNavQuote" class="search search--desktop-nav-top">
+                                        <div id="search-form-quote" class="search__form search__form--desktop-nav-top">
+                                            
+                                            <form action="/find/results" method="get" role="search" >
+                                                <input type="text" name="q" id="searchQuote" placeholder="Search symbol" class="form-control form-control-search-text search__form--form repositories typeahead" data-tickers="true" data-authors="false" data-news="false" data-categories="false" data-zindex="1031" data-position="fixed" data-target="main_nav_autocomp_quote" data-width="300" title="Search" required="required" maxlength="10" value="" />
+                                                <input type="hidden" name="redirectQuote" value="true" id="redirectQuote" />
+                                            </form>
+                                            <div id="main_nav_autocomp_quote"></div>
+                                        </div>
+                                        
+                                        <div class="search__btn search__btn--desktop-top" id="nav-search-quote--desktop">
+                                            <a href="#" class="search-link" aria-label="Search" role="button"><span class="search__icon"></span></a>
+                                        </div>
+                                    </div>
+                                </li>
+                                
+                                    
+                                
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-nav__full-nav" >
+                <div class="row">
+                    
+                    <div class="main-nav__content-container col-md-12">
+                        <div class="main-nav__content" >
+                            <header class="main-nav__header main-nav__header--desktop">
+                                <div class="inner">
+                                    <a id="main_nav_logo_desktop" class="main-nav__logo main-nav__logo--desktop" href="/" title="TheStreet"></a>
+                                    <nav id="nav-items--desktop" class="collapse navbar-collapse main-nav__items main-nav__items--desktop">
+                                        
+                                            
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+<ul class="nav navbar-nav main-nav__links">
+    <li class="main-nav__promo">
+        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-global-nav-premium">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    </li>
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="action_alerts_plus" href="/k/aap/_tscnav/index.html?cm_ven_int=navaapnew">Action Alerts PLUS</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu">
+                        <ul>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/k/aap/_tscnav/portfolio.html?cm_ven_int=subnavaap" id="action_alerts_plus_1" title="Charitable Trust Portfolio">Charitable Trust Portfolio</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="action_alerts_plus_2" title="Jim Cramer's Best Stocks of 2017">Jim Cramer's Best Stocks of 2017</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/k/aap/_tscsubnavnew/" id="action_alerts_plus_3" title="Most Recent Trade Alert">Most Recent Trade Alert</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033225&cm_ven_int=subnavaap" id="action_alerts_plus_4" title="25 Investing Rules">25 Investing Rules</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033226&cm_ven_int=subnavaap" id="action_alerts_plus_5" title="10 Trading Commandments">10 Trading Commandments</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="/story/madmoneywrap.html?cm_ven_int=subnavcramer" id="action_alerts_plus_6" title="Mad Money Recap">Mad Money Recap</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="real_money" href="http://realmoney.thestreet.com/">Real Money</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu">
+                        <ul>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="real_money_1" title="Jim Cramer's Best Stocks of 2017">Jim Cramer's Best Stocks of 2017</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033993" id="real_money_2" title="25 Rules of investing">25 Rules of investing</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="https://secure2.thestreet.com/cap/prm.do?OID=033994" id="real_money_3" title="10 Commandments">10 Commandments</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="http://www.thestreet.com/topic/48661/stressed-out.html" id="real_money_4" title="Stressed Out Stocks">Stressed Out Stocks</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem">
+                                    <a href="http://realmoney.thestreet.com/authors/jim-cramer?cm_ven_int=subnavcramer" id="real_money_5" title="Cramer's Blog">Cramer's Blog</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+        
+        
+    <li class="main-nav__item">
+        <a class="main-nav__link" id="investing" href="/investing">Investing</a>
+    </li>
+
+
+    
+        
+        
+    
+
+    <li class="main-nav__item" ><a class="main-nav__link" id="much_more" href="#">Much More</a>
+        <div class="main-nav__flyout">
+            <div class="row">
+
+                
+                    <div class="col-md-12 main-nav__flyout--submenu main-nav__flyout--full">
+                        <ul>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/cramer-news" id="much_more_1" title="Cramer">Cramer</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/mad-money" id="much_more_2" title="Mad Money">Mad Money</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/biz-tv" id="much_more_3" title="BizTV">BizTV</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/election-2016" id="much_more_4" title="Election 2016">Election 2016</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/etfs" id="much_more_5" title="ETFs">ETFs</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/financial-advisor-center" id="much_more_6" title="Financial Advisor Center">Financial Advisor Center</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/futures" id="much_more_7" title="Futures">Futures</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/how-to-spend" id="much_more_8" title="How to Spend">How to Spend</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/banking" id="much_more_9" title="Banking">Banking</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/biotech" id="much_more_10" title="Biotech">Biotech</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/markets" id="much_more_11" title="Markets">Markets</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/options" id="much_more_12" title="Options">Options</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/personal-finance" id="much_more_13" title="Personal Finance">Personal Finance</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/retail" id="much_more_14" title="Retail">Retail</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/personal-finance/retirement" id="much_more_15" title="Retirement">Retirement</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/tech" id="much_more_16" title="Tech">Tech</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/stock-picks" id="much_more_17" title="Stock Picks">Stock Picks</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem ">
+                                    <a href="/video" id="much_more_18" title="Video">Video</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                                <li class="main-nav__subitem odd_subitem">
+                                    <a href="/latest-news" id="much_more_19" title="Latest News">Latest News</a>
+                                    <div class="arrow-left"></div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </li>
+
+
+    
+</ul>
+
+                                        
+                                    </nav>
+                                    <div id="main-nav_subscribe" class="main-nav__subscribe hidden-xs">
+                                        <button id="subscribe_premium" type="button" class=" btn btn-default btn-lg">Subscribe</button>
+                                        <ul id="tst_topnav_premiumMenu" class="main-nav__subscribe__dropdown">
+                                            <div class="main-nav__subscribe__services__block">
+                                                <div class="row">
+                                                    <div class="col-sm-7">
+                                                        <h3 class="main-nav__subscribe__header">SUBSCRIPTION SERVICES</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-6 no-gutter-right">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_1" href="https://www.thestreet.com/k/aap/_tscnavnew/" title="Action Alerts PLUS">Action Alerts PLUS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_2" href="https://www.thestreet.com/k/aao/_tscnavnew/" title="Action Alerts OPTIONS">Action Alerts OPTIONS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_3" href="https://www.thestreet.com/k/dst/_tscnavnew/" title="Daily Swing Trade">Daily Swing Trade</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_4" href="https://www.thestreet.com/k/dsa/_tscnavnew/" title="Dividend Stock Advisor">Dividend Stock Advisor</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_5" href="https://www.thestreet.com/k/bos/_tscnavnew/" title="Growth Seeker">Growth Seeker</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_6" href="https://www.thestreet.com/k/qr/_tscnavnew/" title="Quant Ratings">Quant Ratings</a></li>
+                                                                </ul>
+                                                            </div>
+                                                            <div class="col-sm-6">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_7" href="http://realmoney.thestreet.com" title="Real Money">Real Money</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_8" href="http://realmoneypro.thestreet.com" title="Real Money Pro">Real Money Pro</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_9" href="https://www.thestreet.com/k/su/_tscnavnew/" title="Stocks Under $10">Stocks Under $10</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_10" href="https://www.thestreet.com/k/ts/_tscnavnew/" title="Top Stocks">Top Stocks</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_services_11" href="https://www.thestreet.com/k/tf/_tscnavnew/" title="Trifecta Stocks">Trifecta Stocks</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-4 col-sm-offset-1">
+                                                        <h3 class="main-nav__subscribe__header">SUBSCRIPTION BUNDLES</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-12">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_1" href="https://www.thestreet.com/k/pp/_newlogin/" title="Portfolio PLUS">Portfolio PLUS</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_2" href="https://www.thestreet.com/k/rmpp/_newlogin/" title="Real Money Pro Portfolio">Real Money Pro Portfolio</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_bundles_3" href="https://www.thestreet.com/k/ch/_newlogin/" title="Chairman's Club">Chairman's Club</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <h3 class="main-nav__subscribe__header vert-cushion-top-sm">FREE</h3>
+                                                        <div class="row">
+                                                            <div class="col-sm-12">
+                                                                <ul>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_free_1" href="/" title="TheStreet">TheStreet</a></li>
+                                                                    <li class="main-nav__subscribe__link"><a id="main_nav_subscription_free_2" href="https://www.mainstreet.com/" title="MainStreet">MainStreet</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="row">
+                                                    <div class="main-nav__subscribe__compare__block">
+                                                        <a id="compareLink" href="https://www.thestreet.com/staticFull/special-offers.html?cm_ven_int=hpservicestab" title="Compare All Subscription Services"><span>Compare All Subscription Services</span> <span class="arrowIcon"></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="main-nav__subscribe__premium-preview__block">
+                                                <h4 class="main-nav__subscribe__header main-nav__subscribe__header--preview">Real Money</h4>
+                                                <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - NEWS-GRID - NUMBER OF ARTICLES ==> 1  ***************  -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+        <div class="simple-list simple-list--feature" data-theme="simpleListFeatured">
+    
+        
+        <ul class="simple-list__list">
+            <li class="simple-list__item">
+                <a id="simple-list-real-money-top" class="simple-list__object-wrap " href="http://realmoney.thestreet.com/articles/01/25/2017/qualcomms-battles-apple-and-regulators-take-precedence-over-its-numbers">
+                
+                    
+                    <div class="simple-list__image-wrap">
+                        <img width="300" height="200" class="img-responsive simple-list__image simple-list__image--large " src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/81a2aae4-ddb1-11e6-b4fa-ad4d6455a280_300x200.png" alt="Qualcomm's Battles with Apple and Regulators Take Precedence Over its Numbers" />
+                        
+                        <i class="fa fa-play"></i>
+                    </div>
+                    
+                
+                    <h3 class="simple-list__item-headline">Qualcomm's Battles with Apple and Regulators Take Precedence Over its Numbers</h3>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+
+
+
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY - NEWS-GRID  - NUMBER OF ARTICLES ==> 1     ************** -->
+<!-- *************************************************************************************************************** -->
+
+                                            </div>
+                                        </ul>
+                                    </div>
+                                    
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            
+                                        
+                                        
+                                        
+                                            
+                                        
+                                    
+                                </div>
+                            </header>
+                        </div>
+                    </div>
+                    <div class="main-nav__markets">
+                        <!-- *************************************************************************************************************** -->
+                     <!-- TICKER - COMPACT - NUMBER OF TICKERS ==> 3 -->
+                     <!-- *************************************************************************************************************** -->
+                     <!-- *************************************************************************************************************** -->
+                     <!-- TICKER - COMPACT THEME -->
+                     <!-- *************************************************************************************************************** -->
+<section class="market-data refresh-market-data market-indices market-indices--horizontal-list main-nav" id="ticker-39250804-0312-47b9-ba33-f13ba05f806f">
+    <div class="market-ad">
+        <!-- *************************************************************************************************************** -->
+        <!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+        <!-- *************************************************************************************************************** -->
+        <div   data-type="gpt-ad" class="googleAd center-text   top-buffer-sm bottom-buffer-sm  "
+               id="ad-div-1999120946"
+               ad-sizes="300,26"
+               data-ad-sizes="300,26"
+               data-ad-targeting="ptn=marketdata"
+               data-ad-label="marketdata"
+               data-ad-zone-override=""
+               data-custom-size-mapping=""
+               data-height=""
+               data-width=""
+               data-devices=""
+               data-is-placeholder="false"
+               data-ad-defer="false"> </div>
+        <!-- *************************************************************************************************************** -->
+        <!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+        <!-- *************************************************************************************************************** -->
+    </div>
+    <ul class="market-indices__list market-indices__list--main-nav">
+        <li class="market-indices__list-item market-indices__list-item--horizontal">
+            <div class="market-date-time market-ticker-data" data-ticker="^DJI">
+                <span class=" market-data-item" data-date-time-as-string="" data-field-name="dateTimeAsString"/>
+
+            </div>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^DJI market-ticker-data" data-ticker="^DJI">
+            <a href="/quote/%5EDJI.html" id="main_nav_djia" class="ticker-symbol market-data-item" data-symbol="^DJI" data-field-name="symbol" title="DJIA">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    DJIA
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^GSPC market-ticker-data" data-ticker="^GSPC">
+            <a href="/quote/%5EGSPC.html" id="main_nav_gspc" class="ticker-symbol market-data-item" data-symbol="^GSPC" data-field-name="symbol" title="S&amp;P 500">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    S&amp;P 500
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav  ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+        <li class="market-indices__list-item market-indices__list-item--horizontal ticker-^IXIC market-ticker-data" data-ticker="^IXIC">
+            <a href="/quote/%5EIXIC.html" id="main_nav_ixic" class="ticker-symbol market-data-item" data-symbol="^IXIC" data-field-name="symbol" title="NASDAQ">
+                <div class="market-indices__item market-indices__item--symbol--main-nav">
+                    NASDAQ
+                </div>
+                <div class="market-indices__item market-indices__item--net-change--main-nav  ticker-netChange market-data-item" data-net-change="" data-field-name="netChange">
+
+                </div>
+            </a>
+        </li>
+
+    </ul>
+    <div class="market-link"><a href="/markets" id="main_nav_markets_today">Markets Today</a></div>
+</section>
+
+                    </div>
+                    <div id="market-indices__detail" class="market-indices__detail"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="row main-nav__header-ad">
+    <div class="col-md-12">
+        
+        <div class="sticky-top-ad-spacer" id="sticky-top-ad-spacer">
+            <div class="sticky-top-ad-wrap start-as-sticky" id="sticky-top-ad-wrap">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text  center-block text-center " id="ad-div-top" data-ad-sizes="970,250|970,90|728,90"  data-ad-preload="" data-ad-targeting="ptn=banner-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    </div>
+    <div class="container-fluid container-sticky" id="outmost-container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="container-fluid container-content container-content--cmstagsarticle" id="container">
+                    <div class="row">
+                        <div id="pendingWrapper">
+                            <div id="pendingMessage"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        
+                            <div id="hiddenDash" style="display: none;">
+                                <div id="dashboard" class="dashboard">
+                                </div>
+                            </div>
+                            <div id="mainContent" class="col-md-12">
+                                
+        <div class="row">
+            <div class="col-md-12">
+                
+        <div id="article-app" itemscope itemtype="http://schema.org/NewsArticle">
+            <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html"/>
+        
+
+<div class="layout">
+    
+        
+            
+                <div class="row">
+    
+        
+
+
+    
+        <div class="col-md-12 col-sm-12 widget-block">
+            
+                
+                
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-breaking-news-alert-story">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                
+            
+        </div>
+    
+
+
+
+    
+</div>
+
+            
+                <div class="row">
+    
+        
+
+
+    
+        <div class="col-md-12 col-sm-12 widget-block">
+            
+                
+                
+                    <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - DEFAULT - NUMBER OF ARTICLES ==> 1********************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES ==> 1********************** -->
+<!-- *************************************************************************************************************** -->
+<style type="text/css">
+.sticky-block {
+    padding: 0 15px;
+}
+</style>
+
+    
+    
+    
+    <div class="row article-header-row article-standard-header-row">
+        <div class="col-md-12">
+            
+
+
+<header class="article__header article-standard__header" id="article-header">
+    <h1 class="article__headline article-standard__headline" itemprop="headline">This One Legendary Executive Makes CSX Shares a Must Watch for 2017</h1>
+    <h2 class="article__callout article-standard__callout" itemprop="description">
+        <i id="add-bookmark-13964192" onclick="Keystone.UserWatchlistUtil.bookmarkStory('/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html', 'This One Legendary Executive Makes CSX Shares a Must Watch for 2017', '13964192')"  class="fa fa-bookmark"></i>
+        A shake-up could be coming.</h2>
+    <div class="article__author-wrap article-standard__author-wrap">
+        <div class="article__byline article-standard__byline">
+            <div class="row">
+                <div class="col-md-12">
+                
+                
+                    
+                    <a href="/author/1669909/chad-fraser/all.html">
+                        <img class="article__author-image article__author-image--small article__byline-item article-standard__author-image article-standard__author-image--small article-standard__byline-item" src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/cfrasier-75x100.jpg" onerror="this.style.display='none';"  alt="Chad Fraser" />
+                    </a>
+                    
+                    <div class="article__author-name article__byline-item article-standard__author-name article-standard__byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <a href="/author/1669909/chad-fraser/all.html" itemprop="url" rel="author" class="article__author-link">
+                            <span itemprop="name">Chad Fraser</span>
+                        </a>
+                    </div>
+                    
+                    <a href="" class="follow article__byline-item article__author-follow article-standard__byline-item article-standard__author-follow" data-follow-key="authorId" data-follow-val="1669909" data-follow-display="Chad Fraser" alt="Follow Chad Fraser with alerts from TSC" title="Follow Chad Fraser with alerts from TSC"></a>
+                    
+                
+                
+                    <div class="article__publish-date  article-standard__publish-date article-standard__byline-item article__byline-item ">
+                        <time itemprop="datePublished" datetime="2017-01-25T09:52Z">Jan<span> </span>25,<span> </span>2017<span> </span>9:52<span> </span>AM<span> </span>EST</time>
+                            <meta itemprop="dateModified" content="2017-01-25T23:00:42.000Z"/>
+                    </div>
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit no-buffer article__byline-item article__subscribe-button    "
+       id="promo-div-article-byline">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text  no-buffer " id="ad-div--1930243037" data-ad-sizes="120,30"  data-ad-preload="" data-ad-targeting="ptn=byline"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+<link itemprop="url" href="https://www.thestreet.com/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html" />
+<meta itemprop="articleSection" content="Stocks"/>
+<meta itemprop="keywords" content="Services, Transportation, Stock Picks, Deal News"/>
+<meta itemprop="inLanguage" content="en-US"/>
+
+    <meta itemprop="pageStart" content="1"/>
+    <meta itemprop="pageEnd" content="2"/>
+
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="TheStreet"/>
+    <link itemprop="url" href="http://www.thestreet.com" />
+    <div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+        <link itemprop="url" href="//s.t.st/assets/thestreet-ngbeta/production/339/img/logo-2e1ae2285c07f3c95704e2af86115d3e.png" />
+    </div>
+</div>
+</header>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 article__main-container article-standard__main-container">
+            <main class="main-content--article main-content--article-article" id="article-main" role="main">
+                
+
+
+
+<article class="article article-standard" id="article-13964192" role="article">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="article__top article-standard__top">
+                
+                    
+                        
+
+
+
+    
+
+    
+        <figure class="article__figure " itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+            <img width="600" height="400" class="article__image  "  src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_600x400.png" alt="" />
+            <figcaption class="article-image-caption">A CSX train</figcaption>
+            <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_600x400.png">
+            <meta itemprop="width" content="600"/>
+            <meta itemprop="height" content="400"/>
+        </figure>
+    
+
+
+
+                    
+                
+            </div>
+        </div>
+    </div>
+    <div class="row row--social_links">
+        <div class="col-md-12 col-lg-1">
+            <div class="social-links social-links--article social-links--article-standard" id="share-widget">
+    <span title="Share on Google+"><i class="social-links__item social-links__item--article  social-links__item--article-standard fa fa-google-plus share sharebtn s_plus" role="button"></i></span>
+    
+    <span title="Share on Twitter"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-twitter share sharebtn s_twitter" role="button"></i></span>
+    <span title="Share on Facebook"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-facebook share sharebtn s_facebook" role="button"></i></span>
+    <span title="Share on LinkedIn"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-linkedin share sharebtn s_linkedin" role="button"></i></span>
+    <span title="Share on Reddit"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-reddit share sharebtn s_reddit" role="button"></i></span>
+    <span title="Share on Email"><i class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard fa fa-envelope share sharebtn s_email no-popup" role="button"></i></span>
+    
+    <span class="hidden-xs" title="Print"><i class="social-links__item social-links__item--article  social-links__item--article-standard article-print-btn fa fa-print share sharebtn s_print no-popup" role="button"></i></span>
+    
+</div>
+
+        </div>
+        <div class="col-md-12 col-lg-11">
+            <div class="article__print article__print-before visible-print">
+                <div class="article__body-print"></div>
+            </div>
+            <div class="article__page article-standard__page">
+                <div class="article-standard__body article__body" itemprop="articleBody"><div data-paragraph-count="23" class="placement-fixed" id="div-placement-fixed-0.7462061602764123" data-total-word-count="683" data-article-has-video="false" data-article-fixed-placement="articleTop"></div><div id="div-placement-fixed-0.9246310823161286" class="placement-fixed" data-page-count="1" data-page-word-count-total="214" data-total-page-count="2" data-article-fixed-placement="pageTop"></div> <div id="div-placement-para-0.05094018247158494" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="29" data-page-paragraph-middle="false" data-page-word-count-so-far="0" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="1" data-article-word-count-so-far="0" data-article-word-count-total="683" data-article-paragraph-count-so-far="1" data-article-paragraph-count-total="23"></div><p>The ground shifted beneath the railroad sector last week, when <strong>Canadian Pacific Railway </strong> ( <a href="/quote/CP.html">CP</a>) <a href="http://pipeline.thedeal.com/tdd/ViewArticle.dl?id=13958861" target="_blank">announced that CEO Hunter Harrison</a>&nbsp;would step down from the top job, effective Jan. 31. <br> </p> <div id="div-placement-para-0.800432220657073" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="31" data-page-paragraph-middle="false" data-page-word-count-so-far="29" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="2" data-article-word-count-so-far="29" data-article-word-count-total="683" data-article-paragraph-count-so-far="2" data-article-paragraph-count-total="23"></div><p>But the 72-year-old railroader, who was chief executive at CP's main rival, <strong>Canadian National Railway</strong>, before taking over at CP in June 2012, doesn't look like he'll be retiring just yet.</p> <div id="div-placement-para-0.03091282941018003" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="34" data-page-paragraph-middle="false" data-page-word-count-so-far="60" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="3" data-article-word-count-so-far="60" data-article-word-count-total="683" data-article-paragraph-count-so-far="3" data-article-paragraph-count-total="23"></div><p>That's more than hinted at in CP's announcement, which reads that Harrison's discussions with CP's board included "modifications to his employment arrangements that would allow him to pursue opportunities involving other Class 1 railroads."</p> <div id="div-placement-para-0.6400762310524523" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="41" data-page-paragraph-middle="true" data-page-word-count-so-far="94" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="4" data-article-word-count-so-far="94" data-article-word-count-total="683" data-article-paragraph-count-so-far="4" data-article-paragraph-count-total="23"></div><p>Another big hint: Harrison was already slated to stand down as CP's chief executive on July 1, and he's giving up a lot just to bump up the date: some C$118 million in stock options and other benefits, <a href="http://www.cbc.ca/news/canada/calgary/hunter-harrison-stepping-down-immediately-cp-rail-1.3941745" target="_blank">according to CBC.ca</a>.</p> <div id="div-placement-para-0.9458702934511722" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="11" data-page-paragraph-middle="false" data-page-word-count-so-far="135" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="5" data-article-word-count-so-far="135" data-article-word-count-total="683" data-article-paragraph-count-so-far="5" data-article-paragraph-count-total="23"></div><p><a href="http://www.reuters.com/article/us-investment-funds-paul-hilal-idUSKBN153035" target="_blank"><em>Reuters</em> says</a>&nbsp;says Harrison could be headed to Florida-based <strong>CSX</strong>&nbsp; (<a href="/quote/CSX.html">CSX</a>) .</p> <div id="div-placement-para-0.04479361306326979" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="39" data-page-paragraph-middle="false" data-page-word-count-so-far="146" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="6" data-article-word-count-so-far="146" data-article-word-count-total="683" data-article-paragraph-count-so-far="6" data-article-paragraph-count-total="23"></div><p>The news agency says Harrison is in talks with activist investor Paul Hilal, who has reportedly raised more than $1 billion for an investment in the carrier. As part of the arrangement, Harrison would become CSX's new chief executive.</p> <div id="div-placement-para-0.13791554325036548" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="26" data-page-paragraph-middle="false" data-page-word-count-so-far="185" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="7" data-article-word-count-so-far="185" data-article-word-count-total="683" data-article-paragraph-count-so-far="7" data-article-paragraph-count-total="23"></div><p>Investors sent CSX shares up 23%, to $45.51, on Jan. 19, the day after the news broke. The stock increased again slightly on Tuesday to $46.75.</p> <div id="div-placement-para-0.06810594382768997" data-image-at-index="0" class="placement-para" data-paragraph-word-count-total="1" data-page-paragraph-middle="false" data-page-word-count-so-far="211" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="8" data-article-word-count-so-far="211" data-article-word-count-total="683" data-article-paragraph-count-so-far="8" data-article-paragraph-count-total="23"></div><p><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8dbea8ac-de6e-11e6-a6c9-dd84b8f66277.png" alt=""> </p> <div id="div-placement-para-0.6294239268132964" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="2" data-page-paragraph-middle="false" data-page-word-count-so-far="212" data-page-word-count-total="214" data-page-paragraph-count-total="9" data-page-paragraph-count-so-far="9" data-article-word-count-so-far="212" data-article-word-count-total="683" data-article-paragraph-count-so-far="9" data-article-paragraph-count-total="23"></div><p><em>Hunter Harrison</em></p> <div data-paragraph-count="23" class="placement-fixed" id="div-placement-fixed-0.8537988894798144" data-total-word-count="683" data-article-has-video="false" data-article-fixed-placement="pageEnd"></div></div>
+                <div class="article__arrow-next article__arrow-next--hidden article-standard__arrow-next article-standard__arrow-next--hidden" id="next-page-arrow" title="Next page"><i class="fa fa-chevron-right"></i></div>
+            </div>
+            <footer class="article__footer article-standard__footer"></footer>
+            <div class="article__bottom article-standard__bottom"> </div>
+            
+
+
+
+
+
+    <div class="article__read-more ">
+
+        <!-- BEGIN ARTICLE PAGE NAVIGATION -->
+        <nav class="article__pagination" id="article-pagination">
+            <div class="article__pagination-wrap">
+                <div class="article__pagination-item">
+                    <a id="prev-page" class="nav-link article__pagination-link article__pagination-link--prev article__pagination-link--prev-disabled" href="" data-prev-page aria-label="Previous" title="Previous page">Prev</a>
+                    <span id="page-indicator" class="article__pagination-position--numeric">0 of 2</span>
+                    <a id="next-page" class="nav-link article__pagination-link article__pagination-link--next " href="/story/13964192/2/here-s-why-csx-is-the-railway-to-watch-in-2017.html" data-next-page aria-label="Next" title="Next page">Next</a>
+                </div>
+            </div>
+        </nav>
+        <!-- END ARTICLE PAGE NAVIGATION -->
+
+    </div>
+
+
+            <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1699046421" data-ad-sizes="1,1"  data-ad-preload="" data-ad-targeting="ptn=pxarticle"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            <!-- ARTICLE PRINT AFTER -->
+            <div class="article__print article__print-after visible-print">
+                <div class="article__body-print"></div>
+            </div>
+            <!-- ARTICLE PRINT AFTER -->
+        </div>
+    </div>
+    
+</article>
+<script defer>
+    document.addEventListener('jQueryLoaded', function () {
+        if (typeof $LAB !== 'undefined') {
+            $LAB.script(function () {
+                return '//s.t.st/assets/thestreet-ngbeta/production/339/js/article/article-c1248a4585f29fea1206b05dabd0a9f2.js';
+            });
+        }
+    });
+</script>
+
+
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit top-buffer-xl   "
+       id="promo-div-article-bottom">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                <!-- START PREMIUM MAIN-WELL PROMO -->
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 widget-block">
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-global-footer-premium-main-well">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    </div>
+                </div>
+                <!-- END PREMIUM MAIN-WELL PROMO -->
+                <div class="row top-buffer-sm">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="article__promo-wrap"><div class="article__promo" id="article-promo"></div></div>
+                        
+                            <div class="row top-buffer-sm">
+                                <div class="col-md-12">
+                                    
+                                    
+                                        
+                                    
+                                    <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 4 *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    
+    
+    
+
+
+
+    <div class="row news-list">
+
+        
+        
+        
+        <section class="col-xs-12 news-list__inner-wrap">
+
+            <h2 class="section-headline" style="border-top:1px solid #ccc; padding-top:15px;">If you liked this article you might like</h2>
+            
+
+            <div class="news-list__story-list">
+                <div>
+
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13965106">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-0" href="http://realmoneypro.thestreet.com/articles/01/25/2017/csx-chugging-right-along" data-link-type="suggested" data-story-id="13965106" class="news-list__object-wrap "
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_300x200.png" width="135" height="90" class="news-list__image news-list__image--small"  alt="CSX Is Chugging Right Along" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_300x200.png">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-0" data-link-type="suggested" data-story-id="13965106" href="http://realmoneypro.thestreet.com/articles/01/25/2017/csx-chugging-right-along">
+                                            <h3 itemprop="headline" class="news-list__headline ">CSX Is Chugging Right Along</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">This stock bolted higher on enormous turnover.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="Bob Lang" href="/author/1140689/bob-lang/all.html"><span itemprop="name">Bob Lang</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2017-01-25T10:00Z">Jan<span> </span>25,<span> </span>2017<span> </span>10:00<span> </span>AM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2017-01-25T10:00Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2017-01-25T10:00Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+                        
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13961416">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-2" href="/story/13961416/1/csx-could-be-peaking-now.html" data-link-type="suggested" data-story-id="13961416" class="news-list__object-wrap news-list__object-wrap--video"
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_300x200.png" width="135" height="90" class="news-list__image news-list__image--small"  alt="CSX Could Be Peaking Now" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_300x200.png">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-2" data-link-type="suggested" data-story-id="13961416" href="/story/13961416/1/csx-could-be-peaking-now.html">
+                                            <h3 itemprop="headline" class="news-list__headline ">CSX Could Be Peaking Now</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">CSX has shot up in 2017. Investors are wondering if there is more upside in the stock.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="Chris Laudani" href="/author/1100552/chris-laudani/all.html"><span itemprop="name">Chris Laudani</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2017-01-23T10:11Z">Jan<span> </span>23,<span> </span>2017<span> </span>10:11<span> </span>AM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2017-01-23T10:11Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2017-01-23T10:11Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+                        
+
+                            <div class="news-list__item" data-story-id="13961701">
+                                <div class="news-list__block" itemscope="itemscope" itemtype="https://schema.org/NewsArticle">
+                                    
+                                        <a id="news-list-related-stories-3" href="/story/13961701/1/analysts-actions-csx-dish-qualcomm-verizon-and-more.html" data-link-type="suggested" data-story-id="13961701" class="news-list__object-wrap news-list__object-wrap--video"
+                                            itemprop="mainEntityOfPage">
+                                            <figure class="news-list__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/analystsactions600x405600x400600x400-600x400_300x200.jpg" width="135" height="90" class="news-list__image news-list__image--small"  alt="Analysts' Actions -- CSX, Dish, Qualcomm, Verizon and More" />
+                                                <meta itemprop="url" content="https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/analystsactions600x405600x400600x400-600x400_300x200.jpg">
+                                                <meta itemprop="width" content="135">
+                                                <meta itemprop="height" content="90">
+                                            </figure><i class="fa fa-play"></i>
+                                        </a>
+                                    
+                                    <div class="news-list__body">
+                                        <a itemprop="url" id="news-list-h3-related-stories-3" data-link-type="suggested" data-story-id="13961701" href="/story/13961701/1/analysts-actions-csx-dish-qualcomm-verizon-and-more.html">
+                                            <h3 itemprop="headline" class="news-list__headline ">Analysts' Actions -- CSX, Dish, Qualcomm, Verizon and More</h3></a>
+                                        
+                                            <p itemprop="description" class="news-list__callout hidden-xs">Here are Monday's top research calls, including upgrades for CSX and Dish Network, and downgrades for Qualcomm and Verizon.</p>
+                                        
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <div class="news-list__author-name" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            <a itemprop="url" title="TheStreet Staff" href="/author/1165878/thestreet-staff/all.html"><span itemprop="name">TheStreet Staff</span></a></div>
+                                        <div class="news-list__publish-date">
+                                            <time datetime="2017-01-23T08:10Z">Jan<span> </span>23,<span> </span>2017<span> </span>8:10<span> </span>AM<span> </span>EST</time>
+                                            <meta itemprop="datePublished" content="2017-01-23T08:10Z">
+
+                                            
+                                                <meta itemprop="dateModified" content="2017-01-23T08:10Z">
+                                            
+
+                                        </div>
+                                    </div>
+
+                                    <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                                        <meta itemprop="name" content="TheStreet">
+                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="https://s.t.st/files/tsc/TheStreet_logo.gif">
+                                            <meta itemprop="width" content="200">
+                                            <meta itemprop="height" content="42">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        
+                    
+
+                
+                
+                
+
+
+                </div>
+
+            </div>
+        </section>
+
+    </div>
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY -  TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 4     ************** -->
+<!-- *************************************************************************************************************** -->
+
+
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+
+            </main>
+        </div>
+        <!-- END MAIN CONTENT COLUMN -->
+        <!-- BEGIN RIGHT RAIL  -->
+        <div class="col-md-4 article__aside-container hidden-print">
+            <aside class="article__rightRail article__aside rightRail" id="article-sidebar" role="complementary">
+                    
+                        
+                            
+
+    <div class="sidebar">
+        <div class="widgetSet">
+            <div class="widgetset-spacer"></div>
+
+    
+    
+         
+             
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--156107784" data-ad-sizes="300,250|300,600"  data-ad-preload="" data-ad-targeting="ptn=box-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 5********************** -->
+<!-- *************************************************************************************************************** -->
+
+    <section class="most-popular section-list">
+        
+            <a href="/most-popular"><h2  style="margin-bottom: 15px;" class="section-list__section-headline">Trending</h2></a>
+        
+            <div class="section-list--tertiary">
+                
+                    
+                        
+                            <a id="trending-tertiary-0" data-link-type="trending" data-story-id="13962500" class="section-list--default" href="/story/13962500/1/why-investing-guru-warren-buffett-loves-these-4-small-cap-stocks.html">
+                                <div class="section-list--default__headline">Billionaire Warren Buffett Loves These 4 Small-Cap Stocks, Should You?</div>
+                            </a>
+                        
+                            <a id="trending-tertiary-1" data-link-type="trending" data-story-id="13967055" class="section-list--default" href="/story/13967055/1/risks-to-this-dow-20-000-rally-cramer-s-mad-money-recap-wednesday-1-25-17.html">
+                                <div class="section-list--default__headline">Risks to This Dow 20,000 Rally: Cramer's 'Mad Money' Recap (Wednesday 1/25/17)</div>
+                            </a>
+                        
+                            <a id="trending-tertiary-2" data-link-type="trending" data-story-id="13335121" class="section-list--default" href="/story/13335121/1/if-donald-trump-was-president-here-s-what-would-happen-to-the-u-s-economy.html">
+                                <div class="section-list--default__headline">With Donald Trump as President, Here's What Will Happen to the U.S. Economy</div>
+                            </a>
+                        
+                            <a id="trending-tertiary-3" data-link-type="trending" data-story-id="13967173" class="section-list--default" href="/story/13967173/1/walt-disney-cramer-s-top-takeaways.html">
+                                <div class="section-list--default__headline">Walt Disney: Cramer's Top Takeaways</div>
+                            </a>
+                        
+                            <a id="trending-tertiary-4" data-link-type="trending" data-story-id="13966404" class="section-list--default" href="/story/13966404/1/here-s-how-to-trade-bank-of-america-freeport-mcmoran-seagate-right-now.html">
+                                <div class="section-list--default__headline">Here's How to Trade Bank of America, Freeport-McMoRan, Seagate Right Now</div>
+                            </a>
+                        
+                    
+                
+            </div>
+    </section>
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 5  ********************** -->
+<!-- *************************************************************************************************************** -->
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        
+<div style="background: #ffffff;width:100%;" class=" text__sponsors  hidden-xs">
+    <h3 class="section-list__section-headline" >Advertising Partners</h3>
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--730157212" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-176775606" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-375169483" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--829030884" data-ad-sizes="300,40"  data-ad-preload="" data-ad-targeting="ptn=textlink-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+    
+    
+</div>
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     sticky-ad "
+       id="promo-div-right-rail-sponsor-content">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-right-rail-graphiq">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--1579144884" data-ad-sizes="300,600"  data-ad-preload="" data-ad-targeting="ptn=box-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<div   data-type="promo" class="promo-unit     "
+       id="promo-div-right-rail-free-report">
+</div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -     ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+                
+                    
+                   </div></div>  
+                
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+                
+            
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--525956430" data-ad-sizes="300,250"  data-ad-preload="" data-ad-targeting="ptn=box-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+             
+            <div class="row">
+                <div class="col-md-12 widget-block">
+                     
+                        <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1872833475" data-ad-sizes="300,250"  data-ad-preload="" data-ad-targeting="ptn=box-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                    
+                </div>
+            </div>
+        
+        
+            </div></div>  
+            <!-- END STICKY BLOCK -->
+        
+    
+
+    </div>
+</div>
+
+<!-- END WIDGET SET -->
+
+
+
+                        
+                    
+            </aside>
+        </div>
+        <!-- END RIGHT RAIL -->
+    </div>
+    <script type="text/x-handlebars-template" id="article-page-template">
+    <div class="article__body article-standard__body">{{{body}}}</div>
+    </script>
+    <script type="text/x-handlebars-template" id="article-top-template">
+    {{#if isFirstPage}}
+    {{#if videoStoryId}}
+    <div class="article__video article-standard__video">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" allowfullscreen webkitallowfullscreen mozallowfullscreen  data-video-id="{{videoStoryId}}"
+                    data-video-auto-play="false" data-video-show-ads="false" data-video-auto-mute="true"
+                    src="//s.t.st/embed/null.html?custParams=ptn%3darticle,site%3dTSC" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+    {{/if}}
+    {{#unless videoStoryId}}
+    {{#if largeThumbUrl}}
+    <figure class="article__figure article-standard__figure">
+        <meta itemprop="url" content="https:{{largeThumbUrl}}">
+        <img class="article__image article-standard__image" src="{{largeThumbUrl}}" />
+        <figcaption class="article-image-caption article-standard-image-caption">{{articleImageCaption}}</figcaption>
+    </figure>
+    {{/if}}
+    {{/unless}}
+    {{/if}}
+    </script>
+    <script type="text/x-handlebars-template" id="article-bottom-template">
+    <div class="article__teaser">{{{teaserText}}}</div>
+    </script>
+    <script type="text/x-handlebars-template" id="author-stories-template">
+    <h4>Recent Stories</h4>
+    <ul class="media-list news-list news-list--author-popup">
+        {{#stories}}
+        <li class="media news-list__item news-list__item--author-popup">
+            <div class="news-list__body news-list__body--author-popup">
+                <a href="{{url}}">
+                    <h5 class="author__recent-story-headline">{{{headline}}}</h5>
+                </a>
+                <div class="author__recent-story-publish-date">{{publishDateAsString}}</div>
+            </div>
+        </li>
+        {{/stories}}
+    </ul>
+    </script>
+    <script>
+        (function(){
+            var articleModel = {"slides":"[]","callout":"A shake-up could be coming.","pagination":{"currentArticleUrl":"/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html","nextArticleUrl":"/json/article/related/1686011/13964192/1?excludeId=13964192","currentArticleDataUrl":"/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html?type=json","nextArticleDataUrl":"/json/article/related/1686011/13964192/1?type=json&excludeId=13964192"},"keywords":"[1047701, 1047716, 1121104, 1304217]","footer":"<BODY><footer> \n <em>The author is an independent contributor who at the time of publication owned none of the stocks mentioned.<\/em> \n<\/footer><\/BODY>","articleImageUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734.png","publishDate":new Date(1485355956000),"primaryAuthorUrl":"/author/1669909/chad-fraser/all.html","siteName":"TheStreet","mediumThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_300x200.png","leadTicker":"[\"CSX\",\"CP\"]","categoryName":"Transportation","publishDateFormatted":"2017-01-25T09:52:36.000Z","compactPubDate":"9:52 AM","numPages":2,"subcategoryName":"Stocks","lastPublishDate":"2017-01-25T09:52:36.000-0500","pages":{"0":{"number":1,"pageTitle":"This One Legendary Executive Makes CSX Shares a Must Watch for 2017 - TheStreet","isLastPage":false,"body":"<div data-paragraph-count=\"23\" class=\"placement-fixed\" id=\"div-placement-fixed-0.7462061602764123\" data-total-word-count=\"683\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleTop\"><\/div><div id=\"div-placement-fixed-0.9246310823161286\" class=\"placement-fixed\" data-page-count=\"1\" data-page-word-count-total=\"214\" data-total-page-count=\"2\" data-article-fixed-placement=\"pageTop\"><\/div> <div id=\"div-placement-para-0.05094018247158494\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"29\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"0\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"1\" data-article-word-count-so-far=\"0\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"1\" data-article-paragraph-count-total=\"23\"><\/div><p>The ground shifted beneath the railroad sector last week, when <strong>Canadian Pacific Railway <\/strong> ( <a href=\"/quote/CP.html\">CP<\/a>) <a href=\"http://pipeline.thedeal.com/tdd/ViewArticle.dl?id=13958861\" target=\"_blank\">announced that CEO Hunter Harrison<\/a>&nbsp;would step down from the top job, effective Jan. 31. <br> <\/p> <div id=\"div-placement-para-0.800432220657073\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"31\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"29\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"2\" data-article-word-count-so-far=\"29\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"2\" data-article-paragraph-count-total=\"23\"><\/div><p>But the 72-year-old railroader, who was chief executive at CP's main rival, <strong>Canadian National Railway<\/strong>, before taking over at CP in June 2012, doesn't look like he'll be retiring just yet.<\/p> <div id=\"div-placement-para-0.03091282941018003\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"34\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"60\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"3\" data-article-word-count-so-far=\"60\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"3\" data-article-paragraph-count-total=\"23\"><\/div><p>That's more than hinted at in CP's announcement, which reads that Harrison's discussions with CP's board included \"modifications to his employment arrangements that would allow him to pursue opportunities involving other Class 1 railroads.\"<\/p> <div id=\"div-placement-para-0.6400762310524523\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"41\" data-page-paragraph-middle=\"true\" data-page-word-count-so-far=\"94\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"4\" data-article-word-count-so-far=\"94\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"4\" data-article-paragraph-count-total=\"23\"><\/div><p>Another big hint: Harrison was already slated to stand down as CP's chief executive on July 1, and he's giving up a lot just to bump up the date: some C$118 million in stock options and other benefits, <a href=\"http://www.cbc.ca/news/canada/calgary/hunter-harrison-stepping-down-immediately-cp-rail-1.3941745\" target=\"_blank\">according to CBC.ca<\/a>.<\/p> <div id=\"div-placement-para-0.9458702934511722\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"11\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"135\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"5\" data-article-word-count-so-far=\"135\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"5\" data-article-paragraph-count-total=\"23\"><\/div><p><a href=\"http://www.reuters.com/article/us-investment-funds-paul-hilal-idUSKBN153035\" target=\"_blank\"><em>Reuters<\/em> says<\/a>&nbsp;says Harrison could be headed to Florida-based <strong>CSX<\/strong>&nbsp; (<a href=\"/quote/CSX.html\">CSX<\/a>) .<\/p> <div id=\"div-placement-para-0.04479361306326979\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"39\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"146\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"6\" data-article-word-count-so-far=\"146\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"6\" data-article-paragraph-count-total=\"23\"><\/div><p>The news agency says Harrison is in talks with activist investor Paul Hilal, who has reportedly raised more than $1 billion for an investment in the carrier. As part of the arrangement, Harrison would become CSX's new chief executive.<\/p> <div id=\"div-placement-para-0.13791554325036548\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"26\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"185\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"7\" data-article-word-count-so-far=\"185\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"7\" data-article-paragraph-count-total=\"23\"><\/div><p>Investors sent CSX shares up 23%, to $45.51, on Jan. 19, the day after the news broke. The stock increased again slightly on Tuesday to $46.75.<\/p> <div id=\"div-placement-para-0.06810594382768997\" data-image-at-index=\"0\" class=\"placement-para\" data-paragraph-word-count-total=\"1\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"211\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"8\" data-article-word-count-so-far=\"211\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"8\" data-article-paragraph-count-total=\"23\"><\/div><p><img src=\"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8dbea8ac-de6e-11e6-a6c9-dd84b8f66277.png\" alt=\"\"> <\/p> <div id=\"div-placement-para-0.6294239268132964\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"2\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"212\" data-page-word-count-total=\"214\" data-page-paragraph-count-total=\"9\" data-page-paragraph-count-so-far=\"9\" data-article-word-count-so-far=\"212\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"9\" data-article-paragraph-count-total=\"23\"><\/div><p><em>Hunter Harrison<\/em><\/p> <div data-paragraph-count=\"23\" class=\"placement-fixed\" id=\"div-placement-fixed-0.8537988894798144\" data-total-word-count=\"683\" data-article-has-video=\"false\" data-article-fixed-placement=\"pageEnd\"><\/div>","isFirstPage":true,"url":"/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html"},"1":{"number":2,"pageTitle":"This One Legendary Executive Makes CSX Shares a Must Watch for 2017 - Pg.2 - TheStreet","isLastPage":true,"body":"<div id=\"div-placement-fixed-0.7147064602001684\" class=\"placement-fixed\" data-page-count=\"2\" data-page-word-count-total=\"472\" data-total-page-count=\"2\" data-article-fixed-placement=\"pageTop\"><\/div> <div id=\"div-placement-para-0.01200929567975273\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"15\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"0\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"1\" data-article-word-count-so-far=\"214\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"10\" data-article-paragraph-count-total=\"23\"><\/div><p>Who is Hunter Harrison and can he turn CSX into a <a href=\"https://www2.investingdaily.com/glp-pf-seconds-crg/?campaigncode=WL1158&amp;src=editorial-secondscrg-thestreet-cf_csx_012417\" target=\"_blank\">winning proposition for investors<\/a>?<\/p> <div id=\"div-placement-para-0.22617087457032792\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"6\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"15\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"2\" data-article-word-count-so-far=\"229\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"11\" data-article-paragraph-count-total=\"23\"><\/div><p>CP shareholders would undoubtedly say yes.<\/p> <div id=\"div-placement-para-0.026052510420402464\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"42\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"21\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"3\" data-article-word-count-so-far=\"235\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"12\" data-article-paragraph-count-total=\"23\"><\/div><p>Since he took over nearly five years ago, The Canadian carrier's stock has roughly doubled on the New York Stock Exchange&nbsp;and jumped 169% on its home Toronto Stock Exchange. Earnings per share have surged from C$3.34 in 2011 to C$10.63 in 2016.<\/p> <div id=\"div-placement-para-0.9348201604348675\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"34\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"63\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"4\" data-article-word-count-so-far=\"277\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"13\" data-article-paragraph-count-total=\"23\"><\/div><p>If you've researched railroad stocks, you likely know the importance of the operating ratio. It's a key industry metric that compares operating costs with revenue (the lower the ratio, the more efficient the railway).<\/p> <div id=\"div-placement-para-0.9028700077958013\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"45\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"97\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"5\" data-article-word-count-so-far=\"311\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"14\" data-article-paragraph-count-total=\"23\"><\/div><p>It's also one of the clearest indicators of Harrison's performance at CP: in the first quarter of 2012, the last full quarter before he took over, the company's ratio stood at 80.1%. By the fourth quarter of 2016, it had been whittled down to 56.2%.<\/p> <div id=\"div-placement-para-0.983392181111983\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"30\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"142\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"6\" data-article-word-count-so-far=\"356\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"15\" data-article-paragraph-count-total=\"23\"><\/div><p>CP <a href=\"http://www.cpr.ca/en/investors/precision-railroading-philosophy-can-build-a-leading-transcontinental-railway\" target=\"_blank\">credits that success<\/a>&nbsp;to Harrison's \"precision railroading\" philosophy, under which the company smooths out connections, cuts the number of stops and generally keeps the trains rolling more and idling less.<\/p> <div id=\"div-placement-para-0.3947646724134304\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"23\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"172\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"7\" data-article-word-count-so-far=\"386\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"16\" data-article-paragraph-count-total=\"23\"><\/div><p>And according to <a href=\"http://www.bnn.ca/harrison-teaming-with-investor-paul-hilal-to-target-csx-railroad-report-1.653878\" target=\"_blank\">Canada's BNN.ca<\/a>, that's exactly what's happened, with CP's average train speeds rising 40% since 2011, to 23.5 miles per hour.<\/p> <div id=\"div-placement-para-0.6679466510895166\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"7\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"195\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"8\" data-article-word-count-so-far=\"409\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"17\" data-article-paragraph-count-total=\"23\"><\/div><p>Could Harrison repeat that success with CSX?<\/p> <div id=\"div-placement-para-0.2937602232249804\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"59\" data-page-paragraph-middle=\"true\" data-page-word-count-so-far=\"202\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"9\" data-article-word-count-so-far=\"416\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"18\" data-article-paragraph-count-total=\"23\"><\/div><p>Some analysts think so, but there is at least one key difference: CSX is already more <a href=\"http://fortune.com/2017/01/21/csx-hunter-harrison-railroad/\">efficient than CP<\/a>&nbsp;was when Harrison came aboard, with an operating ratio of 69.4% (as of the end of the fourth quarter). However, the gap between CP's current ratio and CSX's is still wide, and BMO Capital Markets analyst Fadi Chamoun thinks it's closable.<\/p> <div id=\"div-placement-para-0.8104340866467853\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"42\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"261\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"10\" data-article-word-count-so-far=\"475\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"19\" data-article-paragraph-count-total=\"23\"><\/div><p>According to the <a href=\"http://business.financialpost.com/investing/trading-desk/csx-upgraded-to-outperform-on-high-probability-of-harrison-becoming-ceo-bmo?__lsa=9545-10c3\" target=\"_blank\"><em>Financial Post<\/em><\/a><em>,<\/em> Chamoun says if he takes over, Harrison could aim for an operating ratio in the 58% to 60% range in three to five years. In light of that, BMO has upped its price target on the shares.<\/p> <div id=\"div-placement-para-0.9074064009265025\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"41\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"303\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"11\" data-article-word-count-so-far=\"517\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"20\" data-article-paragraph-count-total=\"23\"><\/div><p>\"We are upgrading CSX shares to outperform from market perform and raising our target price to $55 from $38,\" Chamoun and fellow analyst Tarun Jochi wrote in a <a href=\"http://blogs.barrons.com/stockstowatchtoday/2017/01/23/the-hot-stock-csx-jumps-3-7/\">note quoted by<\/a>&nbsp;<em>Barron's.<\/em> \"We see upside to around $80 in the medium term.\"<\/p> <div id=\"div-placement-para-0.027475848098817424\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"51\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"344\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"12\" data-article-word-count-so-far=\"558\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"21\" data-article-paragraph-count-total=\"23\"><\/div><p>Of course, there's no guarantee Harrison will be successfully installed as CSX's new chief exec. But if he is, it would be <a href=\"https://www2.investingdaily.com/glp-pf-seconds-crg/?campaigncode=WL1158&amp;src=editorial-secondscrg-thestreet-cf_csx_012417\" target=\"_blank\">a big plus for investors<\/a>&nbsp;over the long run. So put the stock on your watch list now-and keep a close eye on it as this corner-office saga plays out.<\/p> <div id=\"div-placement-para-0.4023748564093532\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"1\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"395\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"13\" data-article-word-count-so-far=\"609\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"22\" data-article-paragraph-count-total=\"23\"><\/div><p>---<\/p> <div id=\"div-placement-para-0.1303054836431592\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"75\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"396\" data-page-word-count-total=\"472\" data-page-paragraph-count-total=\"14\" data-page-paragraph-count-so-far=\"14\" data-article-word-count-so-far=\"610\" data-article-word-count-total=\"683\" data-article-paragraph-count-so-far=\"23\" data-article-paragraph-count-total=\"23\"><\/div><p><em>Despite its upside potential, CSX could easily get sideswiped if US exports take a hit under President Trump. You won't have to worry about nasty surprises like that if you try our new investing system. A genius trader used it to turn $50,000 into $5 million, and for a limited time, he's guaranteeing you $67,548 per year in profitable trades if you follow his simple step-by-step process. <\/em><a href=\"https://www2.investingdaily.com/glp-pf-seconds-crg/?campaigncode=WL1158&amp;src=editorial-secondscrg-thestreet-cf_csx_012417\" target=\"_blank\"><em>Go right here to get full details now<\/em><\/a><em>.<\/em><\/p> <div data-paragraph-count=\"23\" class=\"placement-fixed\" id=\"div-placement-fixed-0.6559570264895807\" data-total-word-count=\"683\" data-article-has-video=\"false\" data-article-fixed-placement=\"pageEnd\"><\/div><div data-paragraph-count=\"23\" class=\"placement-fixed\" id=\"div-placement-fixed-0.09134686798849945\" data-total-word-count=\"683\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleEnd\"><\/div>","isFirstPage":false,"url":"/story/13964192/2/here-s-why-csx-is-the-railway-to-watch-in-2017.html"}},"subcategoryId":1686011,"id":13964192,"keyword":"[\"Services\",\"Transportation\",\"Stock Picks\",\"Deal News\"]","relatedStories":{"0":{"siteCode":"TSC","absoluteUrl":"http://www.thestreet.com/story/13961416/1/csx-could-be-peaking-now.html","id":13961416,"headline":"CSX Could Be Peaking Now","url":"csx-could-be-peaking-now"},"1":{"siteCode":"TSC","absoluteUrl":"http://www.thestreet.com/story/13961388/1/norfolk-southern-union-pacific-and-csx-jim-cramer-s-views.html","id":13961388,"headline":"Norfolk Southern, Union Pacific and CSX: Jim Cramer's Views","url":"norfolk-southern-union-pacific-and-csx-jim-cramer-s-views"}},"headline":"This One Legendary Executive Makes CSX Shares a Must Watch for 2017","contentType":"Text","headlineTwitter":"This one legendary executive makes CSX shares a must watch for 2017 $CSX","smallThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_150x100.png","siteCode":"TSC","isVideo":false,"authorId":1669909,"largeThumbUrl":"//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9c71ec3c-de8f-11e6-a6c9-2357fff18734_600x400.png","headlineFacebook":"This one legendary executive makes CSX shares a must watch for 2017","url":"/story/13964192/1/here-s-why-csx-is-the-railway-to-watch-in-2017.html","articleImageCaption":"A CSX train","publishDateAsString":"Jan<span> <\/span>25,<span> <\/span>2017<span> <\/span>9:52<span> <\/span>AM<span> <\/span>EST","subcategorySlug":"stocks","isBrandedView":false,"authorName":"Chad Fraser","categoryId":1685517,"authors":"[{\"name\":\"Chad Fraser\",\"id\":1669909}]"};
+            Keystone.articleModelData ={ article: articleModel };
+        })();
+    </script>
+
+<!-- *************************************************************************************************************** -->
+<!-- ******************************     END - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES -    ********************* -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY - DEFAULT - NUMBER OF ARTICLES ==> 1  ********************** -->
+<!-- *************************************************************************************************************** -->
+
+                
+            
+        </div>
+    
+
+
+
+    
+</div>
+
+            
+        
+    
+</div>
+
+
+        </div>
+    
+            </div>
+        </div>
+    
+                            </div>
+                        
+                    </div>
+                    <p id="back-top" class="back-top">
+                        <a href="#top"><span class="fa fa-arrow-up"></span></a>
+                    </p>
+                </div> <!-- END CONTAINER -->
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+
+
+
+    
+<footer class="footer " id="footer" role="contentinfo">
+    <div class="inner">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-4">
+                            
+                                 
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    <h2 class="navigation__title">Hot Topics</h2>
+
+<ul class="nav navbar-nav footer__links">
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="pharma blue-chip" href="/story/13433034/1/this-big-pharma-blue-chip-is-a-bear-killer.html?kval=dontmiss">Pharma Blue-Chip</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="cramer on apple" href="/story/13432886/1/jim-cramer-apple-stock-could-hit-150-on-next-iphone-release.html?kval=dontmiss">Cramer on Apple</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="stocks under $10" href="http://www.thestreet.com/story/13407043/1/5-stocks-under-10-set-to-soar-must-see-charts.html">Stocks Under $10</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="best high-yielders" href="http://secure2.thestreet.com/cap/prm.do?OID=028531&_ga=1.164635254.89808808.1452118125">Best High-Yielders</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="tech stocks" href="/story/13432865/1/4-solid-tech-stocks-that-have-held-steady-despite-market-drops.html">Tech Stocks</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer__item">
+        <a class="main-nav__link" id="top dividend stocks" href="http://secure2.thestreet.com/cap/prm.do?OID=028343&_ga=1.164635254.89808808.1452118125">Top Dividend Stocks</a>
+    </li>
+
+
+
+    
+</ul>
+
+                             
+                    </div>
+                    <div class="col-sm-4">
+                            
+                             
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - DEFAULT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+<ul class="nav navbar-nav footer--all-headers__links">
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="home" href="/index">Home</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="cramer" href="/cramer-news">Cramer</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="banking" href="/banking">Banking</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="biotech" href="/biotech">Biotech</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="election 2016" href="/election-2016">Election 2016</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="etfs" href="/etfs">ETFs</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="futures" href="/futures">Futures</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="investing" href="/investing">Investing</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="opinion" href="/opinion">Opinion</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="personal finance" href="/personal-finance">Personal Finance</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="retail" href="/retail">Retail</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="tech" href="/tech">Tech</a>
+    </li>
+
+
+
+    
+        
+    <li class="footer--all-headers__item">
+        <a class="main-nav__link" id="video" href="/video">Video</a>
+    </li>
+
+
+
+    
+</ul>
+
+                            
+                            </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Featured Topics</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/author/269/JimCramer/all.html">Jim Cramer</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/mad-money/index.html">Mad Money</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/47781/stock-market-today.html">Stock Market Today</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/quote/%5EDJI.html">Dow Jones Today</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45661/income-investing.html">Dividend Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/43441/gold-price.html">Gold Price</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/44141/silver.html">Silver Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45621/copper-price.html">Copper Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45741/oil-prices.html">Oil Prices</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/sections">Sections</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="footer__social">
+                                    <a href="/" class="footer__logo"></a>
+                                    <div class="social-links social-links--footer">
+                                        <a target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links__item social-links__item--footer fa fa-facebook"></i></a>
+                                        <a target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links__item social-links__item--footer fa fa-google-plus"></i></a>
+                                        <a target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links__item social-links__item--footer fa fa-twitter"></i></a>
+                                        <a target="_blank" href="https://www.linkedin.com/company/thestreet" title="LinkedIn"><i class="social-links__item social-links__item--footer fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="footer__legal">
+                                    <a class="copy" href="/" target="_blank">&copy;1996-2017 TheStreet, Inc. All rights reserved.</a>
+                                    <a class="copy" href="/" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Popular Pages</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/47501/stock-picks.html">Best Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/topic/45162/best-stocks-to-buy-now.html">Best Stocks to Buy</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/dividends/leaders/index.html">High Dividend Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/13407571/market-holidays-2016.html">Stock Market Holidays</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/event-calendar/index.html">Earnings Calendar</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/dividends/index.html">Ex Dividend Date</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/10575864/top-rated-etfs/top-rated-etfs.html">ETF Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/stock-market-news/10571219/top-rated-mutual-funds/top-rated-mutual-funds.html">Mutual Fund Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/online-trading/compare-best-online-brokers.html">Best Online Brokers</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Subscriptions</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033201" data-link-name="bottom footer" data-link-order="0" data-link-type="product-signup" data-oid="033201" data-product-name="Action Alerts PLUS">Action Alerts PLUS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033202" data-link-name="bottom footer" data-link-order="1" data-link-type="product-signup" data-oid="033202" data-product-name="Action Alerts OPTIONS">Action Alerts OPTIONS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033203" data-link-name="bottom footer" data-link-order="2" data-link-type="product-signup" data-oid="033203" data-product-name="Daily Swing Trade">Daily Swing Trade</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033204" data-link-name="bottom footer" data-link-order="3" data-link-type="product-signup" data-oid="033204" data-product-name="Dividend Stock Advisor">Dividend Stock Advisor</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033205" data-link-name="bottom footer" data-link-order="4" data-link-type="product-signup" data-oid="033205" data-product-name="Growth Seeker">Growth Seeker</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033206" data-link-name="bottom footer" data-link-order="5" data-link-type="product-signup" data-oid="033206" data-product-name="Quant Ratings">Quant Ratings</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033207" data-link-name="bottom footer" data-link-order="6" data-link-type="product-signup" data-oid="033207" data-product-name="Real Money">Real Money</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033208" data-link-name="bottom footer" data-link-order="7" data-link-type="product-signup" data-oid="033208" data-product-name="Real Money Pro">Real Money Pro</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033209" data-link-name="bottom footer" data-link-order="8" data-link-type="product-signup" data-oid="033209" data-product-name="Stocks Under $10">Stocks Under $10</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033210" data-link-name="bottom footer" data-link-order="9" data-link-type="product-signup" data-oid="033210" data-product-name="Top Stocks">Top Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033211" data-link-name="bottom footer" data-link-order="10" data-link-type="product-signup" data-oid="033211" data-product-name="Trifecta Stocks">Trifecta Stocks</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021808" data-link-name="bottom footer" data-link-order="11" data-link-type="product-signup" data-oid="021808" data-product-name="Portfolio PLUS">Portfolio PLUS</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=025907" data-link-name="bottom footer" data-link-order="12" data-link-type="product-signup" data-oid="025907" data-product-name="RMP Portfolio">RMP Portfolio</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021809" data-link-name="bottom footer" data-link-order="13" data-link-type="product-signup" data-oid="021809" data-product-name="Chairman's Club">Chairman's Club</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Stay Connected</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="/contact-us">Feedback</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/">About Us</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://contributor.thestreet.com/users/register?_ga=1.127100429.1881260853.1456123377">Write For TheStreet</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://investor-relations.thestreet.com/">Investor Relations</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/tsc/pdfs/Web_Media_Kit.pdf">Advertise</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/reprints">Reprints</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&amp;url=https://www.thestreet.com/index.html">Customer Service</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/employment">Employment</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/privacy">Privacy Policy</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://corporate.thestreet.com/terms">Terms of Use</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/topic/archive/a.html">Topic Archive</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/video/sitemap.html">Video Sitemap</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/data-providers.html">Data</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/affiliates.html">Affiliate</a>
+                            </li>
+                            <li class="footer__item">
+                                <a target="new" class="main-nav__link" href="http://pressroom.thestreet.com/press-home.cfm">Press Room</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53VS2Q"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+
+    })(window,document,'script','dataLayer','GTM-53VS2Q');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+    <script src="//s.t.st/assets/thestreet-ngbeta/production/339/js/app-bottom-393fbf04fafb456a18e64e3418e59fa5.js" type="text/javascript" ></script>
+    
+
+
+    <div class="print-footer visible-print">
+        <p>
+            <a class="copy" href="/" target="_blank">&copy;1996-2017 TheStreet, Inc. All rights reserved.</a>
+            <a class="copy" href="/" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a>
+        </p>
+    </div>
+</div>
+
+
+    <div id="lower-ad-banner" class="hidden-print">
+        <div id="lower-ad-banner-inner">
+
+            <div class="lower-ad-banner-compare lower-ad-banner-item">
+                <a href="/online-trading/compare-best-online-brokers.html" class="compBrokers">Compare Brokers</a>
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--676214975" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-24359597" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--660149119" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-28122350" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+            <div class="lower-ad-banner-item">
+                <!-- *************************************************************************************************************** -->
+<!-- ******************************************* START - ADS BY SIZE - DEFAULT -     ********************************-->
+<!-- *************************************************************************************************************** -->
+
+
+
+<div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--1451734634" data-ad-sizes="170,40"  data-ad-preload="" data-ad-targeting="ptn=brokerage-5"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+<!-- *************************************************************************************************************** -->
+<!-- ******************************************* END - ADS BY SIZE - DEFAULT -      ******************************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+</body>
+</html>

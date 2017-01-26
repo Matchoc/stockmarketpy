@@ -178,5 +178,14 @@
         "pubDate": "Thu, 27 Oct 2016 12:42:45 GMT",
         "source": "data\\TOU\\20170118.rss",
         "title": "Tourmaline Oil Corp. breached its 50 day moving average in a Bearish Manner : TOU-CA : October 27, 2016"
+    },
+    {
+        "contents": "data\\TOU\\20170125-231624.news",
+        "description": null,
+        "guid": "yahoo_finance/1597820066",
+        "link": "http://us.rd.yahoo.com/finance/external/xmoodys/rss/SIG=11h21r4n8/*http://www.moodys.com/page/viewresearchdoc.aspx?docid=PR_360825&WT.mc_id=AM~WWFob29fRmluYW5jZV9TQl9SYXRpbmcgTmV3c19BbGxfRW5n~20170124_PR_360825",
+        "pubDate": "Tue, 24 Jan 2017 15:17:03 GMT",
+        "source": "data\\TOU\\20170125.rss",
+        "title": "Perpetual Energy Inc. -- Moody's Assigns Caa3 to Perpetual's 2022 Notes"
     }
 ]

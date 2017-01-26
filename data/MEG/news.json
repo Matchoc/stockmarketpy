@@ -286,5 +286,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:31:00 GMT",
         "source": "data\\MEG\\20170124.rss",
         "title": "IIROC Trade Resumption - MEG.R"
+    },
+    {
+        "contents": "data\\MEG\\20170125-233050.news",
+        "description": null,
+        "guid": "yahoo_finance/1686222699",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-meg-r-131400774.html",
+        "pubDate": "Tue, 24 Jan 2017 13:14:00 GMT",
+        "source": "data\\MEG\\20170125.rss",
+        "title": "IIROC Trading Halt - MEG.R"
     }
 ]

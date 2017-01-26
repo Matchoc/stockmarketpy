@@ -817,5 +817,23 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\BNS\\20170123.rss",
         "title": "Research Reports Initiated on Banking Stocks The Toronto-Dominion Bank, Royal Bank of Canada, Home Capital Group, and The Bank of Nova Scotia"
+    },
+    {
+        "contents": "data\\BNS\\20170125-233040.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 25, 2017 /CNW/ - As part of its growing leadership in the digital economy, today Scotiabank announced a three-year sponsorship of NextAI to support Canadian youth and entrepreneurship in the growing field of artificial intelligence (AI). The sponsorship is one of the many strategic investments the organization is making to drive a vibrant, globally competitive AI ecosystem in Canada. Launched in October 2016 by Next Canada, NextAI brings together Canadian and international talent to develop AI solutions by providing access to capital, mentorship, education and networks.",
+        "guid": "yahoo_finance/11429406",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-supports-nextai-latest-move-140700546.html",
+        "pubDate": "Wed, 25 Jan 2017 14:07:00 GMT",
+        "source": "data\\BNS\\20170125.rss",
+        "title": "Scotiabank supports NextAI in latest move to build artificial intelligence ecosystem in Canada"
+    },
+    {
+        "contents": "data\\BNS\\20170125-233042.news",
+        "description": "[CNW Group] - Scotiabank supports NextAI in latest move to build artificial intelligence ecosystem in Canada",
+        "guid": "yahoo_finance/3987255391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-supports-nextai-latest-move-140700523.html",
+        "pubDate": "Wed, 25 Jan 2017 14:07:00 GMT",
+        "source": "data\\BNS\\20170125.rss",
+        "title": "Scotiabank supports NextAI in latest move to build artificial intelligence ecosystem in Canada"
     }
 ]

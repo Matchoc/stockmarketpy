@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 14:15:15 GMT",
         "source": "data\\NFI\\20170121.rss",
         "title": "New Flyer Industries, Inc. breached its 50 day moving average in a Bearish Manner : NFI-CA : January 20, 2017"
+    },
+    {
+        "contents": "data\\NFI\\20170125-231948.news",
+        "description": null,
+        "guid": "yahoo_finance/469746577",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/houston-metro-awards-mci-three-124500026.html",
+        "pubDate": "Wed, 25 Jan 2017 12:45:00 GMT",
+        "source": "data\\NFI\\20170125.rss",
+        "title": "Houston METRO awards MCI a three-year contract with options for 169 commuter coaches"
     }
 ]

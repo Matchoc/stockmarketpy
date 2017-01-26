@@ -27,10 +27,8 @@ Ideas for inputs (in no particular order or logic) :
  - Dividend % ?
  
  todo :
-   0.3 automatically update csv with actual results on the next day.
    0.7 parallelize downloading news and updating training.
    0.5 Try to fix link errors when downloading news (user-agent, post ?)
-   1. work on presentation (would be nice to output a table that I could import in excel and sort by price variation, percentage variation, symbol, news date, etc.)
    3. Fetch twitter feed with tag $<symbol>
    4. Create new separate machine for twitter results.
    5. Create compound machine with news result and twitter results.

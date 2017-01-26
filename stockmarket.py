@@ -594,7 +594,7 @@ def update_all_symbols(steps=["dlprice", "dlrss", "price2json", "rss2json", "dln
 		myprint("Predict today", 2)
 		predict_all_today()
 		
-	if "udpateCSV" in steps:
+	if "updateCSV" in steps:
 		myprint("Update CSVs", 2)
 		update_morning_prices()
 		
@@ -828,7 +828,7 @@ if __name__ == '__main__':
 	#update_all_symbols(["train"])
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
-	#update_all_symbols(["today"])
-	update_all_symbols(["dlprice", "price2json", "udpateCSV"])
+	#update_all_symbols(["today", "updateCSV"])
+	update_all_symbols(["dlprice", "price2json", "updateCSV"])
 	
 	myprint("done", 5)

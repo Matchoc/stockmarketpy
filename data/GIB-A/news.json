@@ -439,5 +439,32 @@
         "pubDate": "Wed, 28 Jan 2015 17:14:23 GMT",
         "source": "data\\GIB-A\\20170120.rss",
         "title": "CGI reports 25 percent jump in profit"
+    },
+    {
+        "contents": "data\\GIB-A\\20170125-231630.news",
+        "description": "[CNW Group] - CGI announces details for its Annual General Meeting of Shareholders and release of fiscal 2017 first quarter results",
+        "guid": "yahoo_finance/2767523848",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-announces-details-annual-general-153000349.html",
+        "pubDate": "Wed, 25 Jan 2017 15:30:00 GMT",
+        "source": "data\\GIB-A\\20170125.rss",
+        "title": "CGI announces details for its Annual General Meeting of Shareholders and release of fiscal 2017 first quarter results"
+    },
+    {
+        "contents": "data\\GIB-A\\20170125-231633.news",
+        "description": null,
+        "guid": "yahoo_finance/3302683235",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=136b5llca/*http://www.capitalcube.com/blog/index.php/cgi-group-inc-value-analysis-torontogib-a-january-20-2017/",
+        "pubDate": "Fri, 20 Jan 2017 16:52:16 GMT",
+        "source": "data\\GIB-A\\20170125.rss",
+        "title": "CGI Group, Inc. \u2013 Value Analysis (TORONTO:GIB.A) : January 20, 2017"
+    },
+    {
+        "contents": "data\\GIB-A\\20170125-231636.news",
+        "description": null,
+        "guid": "yahoo_finance/2366178533",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14aeep8rg/*http://www.capitalcube.com/blog/index.php/cgi-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-gib-a-ca-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 14:10:15 GMT",
+        "source": "data\\GIB-A\\20170125.rss",
+        "title": "CGI Group, Inc. breached its 50 day moving average in a Bearish Manner : GIB.A-CA : January 19, 2017"
     }
 ]

@@ -178,5 +178,14 @@
         "pubDate": "Fri, 05 Aug 2016 17:08:29 GMT",
         "source": "data\\SRU-UN\\20170118.rss",
         "title": "Edited Transcript of SRU.UN.TO earnings conference call or presentation 5-Aug-16 1:00pm GMT"
+    },
+    {
+        "contents": "data\\SRU-UN\\20170125-233353.news",
+        "description": null,
+        "guid": "yahoo_finance/3394442155",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/revival-629-film-studios-announces-210000804.html",
+        "pubDate": "Wed, 25 Jan 2017 21:00:00 GMT",
+        "source": "data\\SRU-UN\\20170125.rss",
+        "title": "Revival 629 Film Studios Announces New Studio Concept: Revival XP"
     }
 ]

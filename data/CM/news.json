@@ -664,5 +664,14 @@
         "pubDate": "Tue, 24 Jan 2017 09:00:00 GMT",
         "source": "data\\CM\\20170124.rss",
         "title": "Nearly half of Canadians lack a financial plan, putting their goals at risk: CIBC Poll"
+    },
+    {
+        "contents": "data\\CM\\20170125-231236.news",
+        "description": null,
+        "guid": "yahoo_finance/1433579466",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-income-stocks-buy-155103408.html",
+        "pubDate": "Wed, 25 Jan 2017 15:51:03 GMT",
+        "source": "data\\CM\\20170125.rss",
+        "title": "Top Ranked Income Stocks to Buy for January 25th"
     }
 ]

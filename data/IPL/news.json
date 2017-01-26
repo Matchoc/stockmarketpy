@@ -376,5 +376,14 @@
         "pubDate": "Thu, 09 Jun 2016 15:29:02 GMT",
         "source": "data\\IPL\\20170118.rss",
         "title": "June 9, 2016 Inter Pipeline Announces June 2016 Cash Dividend"
+    },
+    {
+        "contents": "data\\IPL\\20170125-233602.news",
+        "description": null,
+        "guid": "yahoo_finance/1854217208",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14db6docp/*http://www.capitalcube.com/blog/index.php/inter-pipeline-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-ipl-ca-january-25-2017/",
+        "pubDate": "Wed, 25 Jan 2017 14:07:22 GMT",
+        "source": "data\\IPL\\20170125.rss",
+        "title": "Inter Pipeline Ltd. breached its 50 day moving average in a Bullish Manner : IPL-CA : January 25, 2017"
     }
 ]

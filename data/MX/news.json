@@ -331,5 +331,59 @@
         "pubDate": "Mon, 23 Jan 2017 13:45:01 GMT",
         "source": "data\\MX\\20170124.rss",
         "title": "Why Methanex Corporation (MEOH) Stock Might be a Great Pick"
+    },
+    {
+        "contents": "data\\MX\\20170125-231127.news",
+        "description": null,
+        "guid": "yahoo_finance/3008604969",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/methanex-beats-4q-profit-forecasts-234411265.html",
+        "pubDate": "Wed, 25 Jan 2017 23:44:11 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Methanex beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\MX\\20170125-231129.news",
+        "description": null,
+        "guid": "yahoo_finance/827080357",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/methanex-beats-4q-profit-forecasts-234411528.html",
+        "pubDate": "Wed, 25 Jan 2017 23:44:11 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Methanex beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\MX\\20170125-231131.news",
+        "description": "[Marketwired] - For the fourth quarter of 2016, Methanex reported net income attributable to Methanex shareholders of $24 million compared to a net loss of $11 million in the third quarter of 2016. Adjusted EBITDA for ...",
+        "guid": "yahoo_finance/4263919924",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/methanex-reports-higher-fourth-quarter-220500769.html",
+        "pubDate": "Wed, 25 Jan 2017 22:05:00 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Methanex Reports Higher Fourth Quarter 2016 Earnings and Record Production and Sales Volume"
+    },
+    {
+        "contents": "data\\MX\\20170125-231133.news",
+        "description": null,
+        "guid": "yahoo_finance/4270320684",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170125.html?t=mx.to",
+        "pubDate": "Wed, 25 Jan 2017 12:07:05 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Q4 2016 Methanex Corp Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\MX\\20170125-231134.news",
+        "description": null,
+        "guid": "yahoo_finance/279349619",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sell-methanex-corporation-meoh-earnings-135401251.html",
+        "pubDate": "Tue, 24 Jan 2017 13:54:01 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Should You Sell Methanex Corporation (MEOH) Before Earnings?"
+    },
+    {
+        "contents": "data\\MX\\20170125-231136.news",
+        "description": null,
+        "guid": "yahoo_finance/1210324306",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-methanex-corporation-meoh-could-134501421.html",
+        "pubDate": "Tue, 24 Jan 2017 13:45:01 GMT",
+        "source": "data\\MX\\20170125.rss",
+        "title": "Why Methanex Corporation (MEOH) Could Shock the Market Soon"
     }
 ]

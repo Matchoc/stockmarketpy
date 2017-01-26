@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:49:06 GMT",
         "source": "data\\MFI\\20170123.rss",
         "title": "Maple Leaf Foods, Inc. breached its 50 day moving average in a Bullish Manner : MFI-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\MFI\\20170125-231957.news",
+        "description": null,
+        "guid": "yahoo_finance/316702940",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13bq11iha/*http://www.capitalcube.com/blog/index.php/maple-leaf-foods-inc-value-analysis-torontomfi-january-24-2017/",
+        "pubDate": "Tue, 24 Jan 2017 15:32:45 GMT",
+        "source": "data\\MFI\\20170125.rss",
+        "title": "Maple Leaf Foods, Inc. \u2013 Value Analysis (TORONTO:MFI) : January 24, 2017"
     }
 ]
