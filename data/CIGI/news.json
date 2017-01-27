@@ -133,5 +133,14 @@
         "pubDate": "Thu, 17 Nov 2016 16:18:07 GMT",
         "source": "data\\CIGI\\20170118.rss",
         "title": "Colliers International Group, Inc. :CIGI-CA: Earnings Analysis: Q3, 2016 By the Numbers : November 17, 2016"
+    },
+    {
+        "contents": "data\\CIGI\\20170127-091757.news",
+        "description": null,
+        "guid": "yahoo_finance/1725155025",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14s851ec5/*http://www.capitalcube.com/blog/index.php/colliers-international-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-cigi-ca-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 13:14:44 GMT",
+        "source": "data\\CIGI\\20170127.rss",
+        "title": "Colliers International Group, Inc. breached its 50 day moving average in a Bearish Manner : CIGI-CA : January 27, 2017"
     }
 ]

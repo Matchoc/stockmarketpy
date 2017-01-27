@@ -565,5 +565,32 @@
         "pubDate": "Tue, 19 Aug 2014 08:40:24 GMT",
         "source": "data\\FM\\20170122.rss",
         "title": "BHP Billiton says in talks to sell Nickel West unit"
+    },
+    {
+        "contents": "data\\FM\\20170127-091426.news",
+        "description": null,
+        "guid": "yahoo_finance/380544647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-quantum-release-fourth-quarter-160000416.html",
+        "pubDate": "Thu, 26 Jan 2017 16:00:00 GMT",
+        "source": "data\\FM\\20170127.rss",
+        "title": "First Quantum to Release Fourth Quarter and Year 2016 Financial and Operating Results on February 16, 2017"
+    },
+    {
+        "contents": "data\\FM\\20170127-091428.news",
+        "description": null,
+        "guid": "yahoo_finance/2630225028",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-quantum-minerals-provides-2017-160000116.html",
+        "pubDate": "Thu, 26 Jan 2017 16:00:00 GMT",
+        "source": "data\\FM\\20170127.rss",
+        "title": "First Quantum Minerals Provides 2017-2019 Market Guidance"
+    },
+    {
+        "contents": "data\\FM\\20170127-091430.news",
+        "description": null,
+        "guid": "yahoo_finance/4205830349",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-quantum-minerals-announces-2016-160000978.html",
+        "pubDate": "Thu, 26 Jan 2017 16:00:00 GMT",
+        "source": "data\\FM\\20170127.rss",
+        "title": "First Quantum Minerals Announces Its 2016 Production and Sales"
     }
 ]

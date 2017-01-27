@@ -349,5 +349,14 @@
         "pubDate": "Tue, 26 Jan 2016 12:29:23 GMT",
         "source": "data\\TCL-A\\20170124.rss",
         "title": "TC Media and M\u00e9tro newspaper ink an exclusive distribution agreement with the STM"
+    },
+    {
+        "contents": "data\\TCL-A\\20170127-090835.news",
+        "description": null,
+        "guid": "yahoo_finance/2429415581",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=137m3pe3e/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-transcontinental-inc-january-19-2017/",
+        "pubDate": "Thu, 19 Jan 2017 19:04:57 GMT",
+        "source": "data\\TCL-A\\20170127.rss",
+        "title": "ETFs with exposure to Transcontinental, Inc. : January 19, 2017"
     }
 ]

@@ -673,5 +673,14 @@
         "pubDate": "Tue, 24 Jan 2017 15:37:14 GMT",
         "source": "data\\CNR\\20170125.rss",
         "title": "Why Canadian National Railway\u2019s Carloads Rose"
+    },
+    {
+        "contents": "data\\CNR\\20170127-091100.news",
+        "description": null,
+        "guid": "yahoo_finance/4029542611",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1497av6hp/*http://www.capitalcube.com/blog/index.php/canadian-national-railway-co-cnr-ca-earnings-analysis-q4-2016-by-the-numbers-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 15:23:22 GMT",
+        "source": "data\\CNR\\20170127.rss",
+        "title": "Canadian National Railway Co. :CNR-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 26, 2017"
     }
 ]

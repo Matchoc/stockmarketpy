@@ -178,5 +178,41 @@
         "pubDate": "Tue, 13 Dec 2016 20:30:36 GMT",
         "source": "data\\THO\\20170118.rss",
         "title": "RBC Capital Updates Multiple Gold Stocks"
+    },
+    {
+        "contents": "data\\THO\\20170127-091656.news",
+        "description": "[Reuters] - A Canadian court ruled on Thursday that a lawsuit against Tahoe Resources Inc filed by Guatemalan men who claim to have been shot by the miner's private security guards can proceed in British Columbia, according to a copy of the judgment seen by Reuters. The decision by the Court of Appeal for British Columbia, which reverses a 2015 provincial Supreme Court ruling, said that Vancouver-based Tahoe had not proven Guatemala was a more appropriate forum for the case.",
+        "guid": "yahoo_finance/4014960144",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-set-jurisdiction-guatemalan-suit-003051113.html",
+        "pubDate": "Fri, 27 Jan 2017 00:30:51 GMT",
+        "source": "data\\THO\\20170127.rss",
+        "title": "Canada set as jurisdiction for Guatemalan suit against Tahoe Resources -court"
+    },
+    {
+        "contents": "data\\THO\\20170127-091658.news",
+        "description": "[PR Newswire] - NYSE: TAHO) today responded to a ruling by the Court of Appeal for British Columbia (the \"Court of Appeal\") that a legal action filed by claimants from Guatemala against the Company in June 2014 can be heard in the British Columbia court system.",
+        "guid": "yahoo_finance/3752502433",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tahoe-resources-responds-jurisdictional-ruling-233400443.html",
+        "pubDate": "Thu, 26 Jan 2017 23:34:00 GMT",
+        "source": "data\\THO\\20170127.rss",
+        "title": "Tahoe Resources Responds To Jurisdictional Ruling"
+    },
+    {
+        "contents": "data\\THO\\20170127-091700.news",
+        "description": "[CNW Group] - Tahoe Resources Responds To Jurisdictional Ruling",
+        "guid": "yahoo_finance/2218400149",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tahoe-resources-responds-jurisdictional-ruling-233400775.html",
+        "pubDate": "Thu, 26 Jan 2017 23:34:00 GMT",
+        "source": "data\\THO\\20170127.rss",
+        "title": "Tahoe Resources Responds To Jurisdictional Ruling"
+    },
+    {
+        "contents": "data\\THO\\20170127-091701.news",
+        "description": "[Reuters] - A Canadian court ruled on Thursday that a lawsuit against Tahoe Resources Inc by Guatemalan men claiming they were shot by the miner's private security guards can proceed in British Columbia, according to a copy of the judgment seen by Reuters. The decision by the Court of Appeal for British Columbia, which reverses a 2015 B.C. Supreme Court ruling, said that Vancouver-based Tahoe had not proven Guatemala was a more appropriate forum for the case.",
+        "guid": "yahoo_finance/1044925465",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/court-sets-canada-jurisdiction-guatemalan-201037094.html",
+        "pubDate": "Thu, 26 Jan 2017 20:10:37 GMT",
+        "source": "data\\THO\\20170127.rss",
+        "title": "Court sets Canada as jurisdiction for Guatemalan suit against Tahoe"
     }
 ]

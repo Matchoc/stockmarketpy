@@ -187,5 +187,14 @@
         "pubDate": "Wed, 14 Sep 2016 13:01:51 GMT",
         "source": "data\\RRX\\20170124.rss",
         "title": "Raging River Exploration, Inc. breached its 50 day moving average in a Bearish Manner : RRX-CA : September 14, 2016"
+    },
+    {
+        "contents": "data\\RRX\\20170127-090640.news",
+        "description": null,
+        "guid": "yahoo_finance/3799836293",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500538.html",
+        "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
+        "source": "data\\RRX\\20170127.rss",
+        "title": "Research Reports Initiated on Energy Stocks Paramount Resources, Raging River Exploration, Freehold Royalties, and Petrus Resources"
     }
 ]

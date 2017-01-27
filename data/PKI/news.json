@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\PKI\\20170123.rss",
         "title": "Research Reports Initiated on Energy Stocks Enbridge Income Fund Holdings, NuVista Energy, Canyon Services Group, and Parkland Fuel"
+    },
+    {
+        "contents": "data\\PKI\\20170127-091233.news",
+        "description": null,
+        "guid": "yahoo_finance/1127832069",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14d5rq6q7/*http://www.capitalcube.com/blog/index.php/parkland-fuel-corp-breached-its-50-day-moving-average-in-a-bearish-manner-pki-ca-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 13:13:56 GMT",
+        "source": "data\\PKI\\20170127.rss",
+        "title": "Parkland Fuel Corp. breached its 50 day moving average in a Bearish Manner : PKI-CA : January 27, 2017"
     }
 ]

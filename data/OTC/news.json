@@ -205,5 +205,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:45:00 GMT",
         "source": "data\\OTC\\20170123.rss",
         "title": "OpenText Buys Documentum"
+    },
+    {
+        "contents": "data\\OTC\\20170127-091828.news",
+        "description": null,
+        "guid": "yahoo_finance/3459874904",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1499thr1s/*http://www.capitalcube.com/blog/index.php/open-text-corp-breached-its-50-day-moving-average-in-a-bearish-manner-otc-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:15:01 GMT",
+        "source": "data\\OTC\\20170127.rss",
+        "title": "Open Text Corp. breached its 50 day moving average in a Bearish Manner : OTC-CA : January 26, 2017"
     }
 ]

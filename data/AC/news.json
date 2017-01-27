@@ -322,5 +322,32 @@
         "pubDate": "Mon, 01 Dec 2014 12:09:16 GMT",
         "source": "data\\AC\\20170125.rss",
         "title": "Deutsche Bahn seeks $2.6 bln damages from airlines"
+    },
+    {
+        "contents": "data\\AC\\20170127-090901.news",
+        "description": "[CNW Group] - Media Advisory - Air Canada to Host 2017 Investor Day on September 19 in Toronto",
+        "guid": "yahoo_finance/545254487",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-air-canada-host-140000190.html",
+        "pubDate": "Fri, 27 Jan 2017 14:00:00 GMT",
+        "source": "data\\AC\\20170127.rss",
+        "title": "Media Advisory - Air Canada to Host 2017 Investor Day on September 19 in Toronto"
+    },
+    {
+        "contents": "data\\AC\\20170127-090902.news",
+        "description": "[PR Newswire] - MONTREAL, Jan. 26, 2017 /CNW Telbec/ - Air Canada has been recognized by the Finance and Sustainability Initiative (FSI) with the \"2017 Award for Best Corporate Sustainability Report - Transportation\" in Canada. Air Canada was selected to receive this honour for its 2015 Corporate Social Responsibility Report, Citizens of the World, updated annually on www.aircanada.com/csr. It was prepared in accordance with principles of the Global Reporting Initiative G4 guidelines, an internationally recognized standard for sustainability reporting.",
+        "guid": "yahoo_finance/576275696",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/air-canada-receives-award-best-210900224.html",
+        "pubDate": "Thu, 26 Jan 2017 21:09:00 GMT",
+        "source": "data\\AC\\20170127.rss",
+        "title": "Air Canada Receives Award for Best Corporate Sustainability Report - Transportation from the Finance and Sustainability Initiative"
+    },
+    {
+        "contents": "data\\AC\\20170127-090904.news",
+        "description": null,
+        "guid": "yahoo_finance/3524815776",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144d51809/*http://www.capitalcube.com/blog/index.php/air-canada-breached-its-50-day-moving-average-in-a-bullish-manner-ac-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:11:09 GMT",
+        "source": "data\\AC\\20170127.rss",
+        "title": "Air Canada breached its 50 day moving average in a Bullish Manner : AC-CA : January 26, 2017"
     }
 ]

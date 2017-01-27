@@ -286,5 +286,23 @@
         "pubDate": "Wed, 25 Jan 2017 14:00:00 GMT",
         "source": "data\\IGM\\20170125.rss",
         "title": "Mackenzie Investments Announces Distributions for its Active Exchange Traded Funds (MKB, MUB, MFT, MGB)"
+    },
+    {
+        "contents": "data\\IGM\\20170127-091456.news",
+        "description": null,
+        "guid": "yahoo_finance/1032858348",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mackenzie-investments-recognized-fund-performance-140000844.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\IGM\\20170127.rss",
+        "title": "Mackenzie Investments recognized for fund performance at Fundata Awards"
+    },
+    {
+        "contents": "data\\IGM\\20170127-091457.news",
+        "description": null,
+        "guid": "yahoo_finance/3334215998",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mackenzie-investments-recognized-fund-performance-140000385.html",
+        "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
+        "source": "data\\IGM\\20170127.rss",
+        "title": "Mackenzie Investments recognized for fund performance at Fundata Awards"
     }
 ]

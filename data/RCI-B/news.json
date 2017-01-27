@@ -502,5 +502,59 @@
         "pubDate": "Thu, 26 Jan 2017 11:53:00 GMT",
         "source": "data\\RCI-B\\20170126.rss",
         "title": "Rogers Communications Reports Fourth Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090030.news",
+        "description": null,
+        "guid": "yahoo_finance/3500225407",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-rci-b-earnings-152531418.html",
+        "pubDate": "Thu, 26 Jan 2017 15:25:31 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Edited Transcript of RCI.B.TO earnings conference call or presentation 26-Jan-17 1:00pm GMT"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090032.news",
+        "description": null,
+        "guid": "yahoo_finance/1301661892",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-rci-q4-earnings-152503330.html",
+        "pubDate": "Thu, 26 Jan 2017 15:25:03 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Rogers Communications (RCI) Q4 Earnings & Revenues Top"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090034.news",
+        "description": null,
+        "guid": "yahoo_finance/809061808",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/rogers-communication-reports-4q-loss-142827325.html",
+        "pubDate": "Thu, 26 Jan 2017 14:28:27 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Rogers Communication reports 4Q loss"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/1353996819",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communication-reports-4q-loss-142827472.html",
+        "pubDate": "Thu, 26 Jan 2017 14:28:27 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Rogers Communication reports 4Q loss"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090038.news",
+        "description": null,
+        "guid": "yahoo_finance/2828226560",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-comm-rci-beats-earnings-141002993.html",
+        "pubDate": "Thu, 26 Jan 2017 14:10:02 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Rogers Comm. (RCI) Beats on Earnings and Revenues in Q4"
+    },
+    {
+        "contents": "data\\RCI-B\\20170127-090039.news",
+        "description": null,
+        "guid": "yahoo_finance/2316290338",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13g2veabf/*http://www.bloomberg.com/news/articles/2017-01-26/rogers-beats-estimates-as-wireless-subcriber-surge-continues?cmpid=yhoo.headline",
+        "pubDate": "Thu, 26 Jan 2017 12:02:04 GMT",
+        "source": "data\\RCI-B\\20170127.rss",
+        "title": "Rogers Signals Wireless Growth to Keep Rolling; Shares Surge"
     }
 ]

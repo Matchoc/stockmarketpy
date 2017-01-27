@@ -376,5 +376,14 @@
         "pubDate": "Mon, 16 May 2016 20:52:05 GMT",
         "source": "data\\LB\\20170111.rss",
         "title": "Publication of Laurentian Bank's 2nd quarter 2016 results"
+    },
+    {
+        "contents": "data\\LB\\20170127-090451.news",
+        "description": null,
+        "guid": "yahoo_finance/1005484291",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/laurentian-bank-proud-partner-ski-165700739.html",
+        "pubDate": "Thu, 26 Jan 2017 16:57:00 GMT",
+        "source": "data\\LB\\20170127.rss",
+        "title": "Laurentian Bank proud partner of Ski Qu\u00e9bec alpin"
     }
 ]

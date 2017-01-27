@@ -403,5 +403,14 @@
         "pubDate": "Wed, 25 Jan 2017 14:30:00 GMT",
         "source": "data\\AIF\\20170125.rss",
         "title": "Altus Group Releases 2017 Construction Cost Guide"
+    },
+    {
+        "contents": "data\\AIF\\20170127-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/746736715",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/record-breaking-greater-toronto-real-123000122.html",
+        "pubDate": "Fri, 27 Jan 2017 12:30:00 GMT",
+        "source": "data\\AIF\\20170127.rss",
+        "title": "Record Breaking Year for Greater Toronto Real Estate Market"
     }
 ]

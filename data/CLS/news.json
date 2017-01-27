@@ -205,5 +205,77 @@
         "pubDate": "Thu, 26 Jan 2017 12:07:06 GMT",
         "source": "data\\CLS\\20170126.rss",
         "title": "Q4 2016 Celestica Inc Earnings Release-Tentative - 4:15 pm ET"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090726.news",
+        "description": null,
+        "guid": "yahoo_finance/1316513940",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-osp-dfn-125100385.html",
+        "pubDate": "Fri, 27 Jan 2017 12:51:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "IIROC Trade Resumption - OSP; DFN; CLS"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090728.news",
+        "description": null,
+        "guid": "yahoo_finance/104356195",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-osp-dfn-125100843.html",
+        "pubDate": "Fri, 27 Jan 2017 12:51:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "IIROC Trade Resumption - OSP; DFN; CLS"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090729.news",
+        "description": null,
+        "guid": "yahoo_finance/24222642",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/celestica-tops-street-4q-forecasts-220852515.html",
+        "pubDate": "Thu, 26 Jan 2017 22:08:52 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "Celestica tops Street 4Q forecasts"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090731.news",
+        "description": null,
+        "guid": "yahoo_finance/3620167812",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/celestica-tops-street-4q-forecasts-220852357.html",
+        "pubDate": "Thu, 26 Jan 2017 22:08:52 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "Celestica tops Street 4Q forecasts"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090733.news",
+        "description": "[Marketwired] - Celestica Inc. , a global leader in the delivery of end-to-end product lifecycle solutions, today announced that its Annual General Shareholders' Meeting will be held on Thursday, April 20, 2017 at 9:30 ...",
+        "guid": "yahoo_finance/299499570",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/celestica-announces-2017-annual-general-220000443.html",
+        "pubDate": "Thu, 26 Jan 2017 22:00:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "Celestica Announces 2017 Annual General Shareholders' Meeting"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090734.news",
+        "description": null,
+        "guid": "yahoo_finance/4021620029",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-cls-211600717.html",
+        "pubDate": "Thu, 26 Jan 2017 21:16:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "IIROC Trading Halt - CLS"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090736.news",
+        "description": null,
+        "guid": "yahoo_finance/2938878906",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trading-halt-cls-211600491.html",
+        "pubDate": "Thu, 26 Jan 2017 21:16:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "IIROC Trading Halt - CLS"
+    },
+    {
+        "contents": "data\\CLS\\20170127-090738.news",
+        "description": "[Marketwired] - Celestica Inc. , a global leader in the delivery of end-to-end product lifecycle solutions, today announced financial results for the fourth quarter and fiscal year ended December 31, 2016.Fourth Quarter ...",
+        "guid": "yahoo_finance/3380974455",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/celestica-announces-fourth-quarter-fiscal-211500952.html",
+        "pubDate": "Thu, 26 Jan 2017 21:15:00 GMT",
+        "source": "data\\CLS\\20170127.rss",
+        "title": "Celestica Announces Fourth Quarter and Fiscal Year 2016 Financial Results"
     }
 ]

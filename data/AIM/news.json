@@ -187,5 +187,14 @@
         "pubDate": "Wed, 25 Jan 2017 13:59:52 GMT",
         "source": "data\\AIM\\20170125.rss",
         "title": "Aimia, Inc. breached its 50 day moving average in a Bullish Manner : AIM-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\AIM\\20170127-090722.news",
+        "description": null,
+        "guid": "yahoo_finance/724164682",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500436.html",
+        "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
+        "source": "data\\AIM\\20170127.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Aimia, EnerCare, Ballard Power Systems, and Aecon Group"
     }
 ]

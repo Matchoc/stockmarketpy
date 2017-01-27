@@ -844,5 +844,23 @@
         "pubDate": "Thu, 26 Jan 2017 12:57:37 GMT",
         "source": "data\\FFH\\20170126.rss",
         "title": "With no new bids, Bauer owner Performance Sports to sell assets to Sagard, Fairfax"
+    },
+    {
+        "contents": "data\\FFH\\20170127-091043.news",
+        "description": null,
+        "guid": "yahoo_finance/985769426",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/omers-commits-invest-us-1-123000991.html",
+        "pubDate": "Fri, 27 Jan 2017 12:30:00 GMT",
+        "source": "data\\FFH\\20170127.rss",
+        "title": "OMERS Commits to Invest US$1 Billion in Allied World Transaction With Fairfax"
+    },
+    {
+        "contents": "data\\FFH\\20170127-091044.news",
+        "description": null,
+        "guid": "yahoo_finance/445348321",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=13624hf5e/*http://www.wsj.com/articles/performance-sports-cancels-auction-to-pursue-575-million-sale-1485455906?mod=yahoo_hs",
+        "pubDate": "Thu, 26 Jan 2017 19:17:39 GMT",
+        "source": "data\\FFH\\20170127.rss",
+        "title": "[$$] Performance Sports Cancels Auction to Pursue $575 Million Sale"
     }
 ]

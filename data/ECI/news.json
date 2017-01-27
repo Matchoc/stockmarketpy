@@ -277,5 +277,14 @@
         "pubDate": "Thu, 19 Jan 2017 15:31:35 GMT",
         "source": "data\\ECI\\20170120.rss",
         "title": "EnerCare, Inc. \u2013 Value Analysis (TORONTO:ECI) : January 19, 2017"
+    },
+    {
+        "contents": "data\\ECI\\20170127-090226.news",
+        "description": null,
+        "guid": "yahoo_finance/724164682",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500436.html",
+        "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
+        "source": "data\\ECI\\20170127.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Aimia, EnerCare, Ballard Power Systems, and Aecon Group"
     }
 ]

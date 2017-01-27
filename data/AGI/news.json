@@ -394,5 +394,14 @@
         "pubDate": "Thu, 26 Jan 2017 13:03:00 GMT",
         "source": "data\\AGI\\20170126.rss",
         "title": "IIROC Trade Resumption - AGI"
+    },
+    {
+        "contents": "data\\AGI\\20170127-090445.news",
+        "description": null,
+        "guid": "yahoo_finance/2520128951",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12slkq9bc/*http://www.fool.com/investing/2017/01/26/why-alamos-gold-stock-tumbled-13-on-thursday.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 26 Jan 2017 17:41:21 GMT",
+        "source": "data\\AGI\\20170127.rss",
+        "title": "Why Alamos Gold Stock Tumbled 13% on Thursday"
     }
 ]

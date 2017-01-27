@@ -178,5 +178,23 @@
         "pubDate": "Fri, 21 Oct 2016 14:00:01 GMT",
         "source": "data\\MIC\\20170118.rss",
         "title": "Canada lays out possible changes to spread housing risk"
+    },
+    {
+        "contents": "data\\MIC\\20170127-091513.news",
+        "description": null,
+        "guid": "yahoo_finance/212769285",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-schedules-220900889.html",
+        "pubDate": "Thu, 26 Jan 2017 22:09:00 GMT",
+        "source": "data\\MIC\\20170127.rss",
+        "title": "Genworth MI Canada Inc. Schedules Fourth Quarter 2016 Earnings Conference Call for February 8th, 2017"
+    },
+    {
+        "contents": "data\\MIC\\20170127-091517.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 26, 2017 /CNW/ - Genworth MI Canada Inc. (the \"Company\") (MIC.TO) today announced it will issue its earnings release and financial supplement containing the quarterly results after the market closes on February 7th, 2017. Investor materials will be available on the Company's website, http://investor.genworthmicanada.ca, in advance of the call. Genworth MI Canada Inc.'s conference call will be accessible via telephone and via webcast on the Company's website.",
+        "guid": "yahoo_finance/3730098126",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-schedules-220900831.html",
+        "pubDate": "Thu, 26 Jan 2017 22:09:00 GMT",
+        "source": "data\\MIC\\20170127.rss",
+        "title": "Genworth MI Canada Inc. Schedules Fourth Quarter 2016 Earnings Conference Call for February 8th, 2017"
     }
 ]

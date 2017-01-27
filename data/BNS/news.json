@@ -835,5 +835,32 @@
         "pubDate": "Wed, 25 Jan 2017 14:07:00 GMT",
         "source": "data\\BNS\\20170125.rss",
         "title": "Scotiabank supports NextAI in latest move to build artificial intelligence ecosystem in Canada"
+    },
+    {
+        "contents": "data\\BNS\\20170127-090120.news",
+        "description": null,
+        "guid": "yahoo_finance/3867058172",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/scotiabank-seeks-advantage-over-rivals-042352557.html",
+        "pubDate": "Fri, 27 Jan 2017 04:23:52 GMT",
+        "source": "data\\BNS\\20170127.rss",
+        "title": "Scotiabank seeks advantage over rivals with new fintech space"
+    },
+    {
+        "contents": "data\\BNS\\20170127-090122.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 26, 2017 /PRNewswire/ - Scotiabank officially opened the doors today to its Canadian Digital Factory, a dedicated digital production facility designed to drive collaboration and creativity as well as to improve our customers' experience in areas such as mobile and digital banking transactions, account openings, loan adjudication and mortgage lending. The 70,000 square foot facility, located in Toronto just a few blocks away from Scotiabank's global corporate headquarters, will employ digital, design, engineering and agile specialists. The space is designed to facilitate collaboration, creativity and real-time direct customer input to develop innovative solutions.",
+        "guid": "yahoo_finance/1506748233",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-digital-factory-commences-production-223200085.html",
+        "pubDate": "Thu, 26 Jan 2017 22:32:00 GMT",
+        "source": "data\\BNS\\20170127.rss",
+        "title": "Scotiabank Digital Factory commences production in Canada"
+    },
+    {
+        "contents": "data\\BNS\\20170127-090123.news",
+        "description": "[CNW Group] - Scotiabank Digital Factory commences production in Canada",
+        "guid": "yahoo_finance/3638319783",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-digital-factory-commences-production-223200234.html",
+        "pubDate": "Thu, 26 Jan 2017 22:32:00 GMT",
+        "source": "data\\BNS\\20170127.rss",
+        "title": "Scotiabank Digital Factory commences production in Canada"
     }
 ]

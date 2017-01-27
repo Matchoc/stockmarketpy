@@ -394,5 +394,32 @@
         "pubDate": "Thu, 26 Jan 2017 13:30:00 GMT",
         "source": "data\\MFC\\20170126.rss",
         "title": "Manulife to Release Fourth Quarter and Year End 2016 Financial Results"
+    },
+    {
+        "contents": "data\\MFC\\20170127-091612.news",
+        "description": "[CNW Group] - Manulife U.S. Monthly High Income Fund Celebrates Three Year Anniversary with Morningstar's 4-Star Rating",
+        "guid": "yahoo_finance/3048642090",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-u-monthly-high-income-140000143.html",
+        "pubDate": "Fri, 27 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170127.rss",
+        "title": "Manulife U.S. Monthly High Income Fund Celebrates Three Year Anniversary with Morningstar's 4-Star Rating"
+    },
+    {
+        "contents": "data\\MFC\\20170127-091614.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 27, 2017 /CNW/ - Manulife Investments today announced the three year Morningstar Rating for its Manulife U.S. Monthly High Income Fund. This Fund, launched on December 24, 2013 has achieved a 4-Star rating1 from Morningstar, has over $1.1 billion in assets under management and has achieved top-quartile performance in Morningstar's Global Neutral balanced category with over 840 competitors, since inception. The popularity of the Manulife Monthly High Income Fund2 and the long-term success of the investment strategy made it an obvious choice to extend to the U.S. market in 2013,\" said Alan Wicks, Senior Managing Director and Senior Portfolio Manager, Manulife Asset Management Limited.",
+        "guid": "yahoo_finance/3086761095",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-u-monthly-high-income-140000265.html",
+        "pubDate": "Fri, 27 Jan 2017 14:00:00 GMT",
+        "source": "data\\MFC\\20170127.rss",
+        "title": "Manulife U.S. Monthly High Income Fund Celebrates Three Year Anniversary with Morningstar's 4-Star Rating"
+    },
+    {
+        "contents": "data\\MFC\\20170127-091616.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 26, 2017 /PRNewswire/ -- John Hancock Hedged Equity & Income Fund (NYSE: HEQ) and John Hancock Financial Opportunities Fund (NYSE: BTO) announced earnings for the period ended December ...",
+        "guid": "yahoo_finance/2572066892",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-hedged-equity-income-011000800.html",
+        "pubDate": "Fri, 27 Jan 2017 01:10:00 GMT",
+        "source": "data\\MFC\\20170127.rss",
+        "title": "John Hancock Hedged Equity & Income Fund and John Hancock Financial Opportunities Fund Release Earnings Data"
     }
 ]

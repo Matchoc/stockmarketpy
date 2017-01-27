@@ -268,5 +268,23 @@
         "pubDate": "Wed, 25 Jan 2017 20:43:00 GMT",
         "source": "data\\RKN\\20170125.rss",
         "title": "Redknee Announces Shareholder Approval of Private Placement"
+    },
+    {
+        "contents": "data\\RKN\\20170127-090105.news",
+        "description": null,
+        "guid": "yahoo_finance/1893396643",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-announces-closing-private-placement-183900534.html",
+        "pubDate": "Thu, 26 Jan 2017 18:39:00 GMT",
+        "source": "data\\RKN\\20170127.rss",
+        "title": "Redknee Announces Closing of Private Placement and Changes to Board of Directors"
+    },
+    {
+        "contents": "data\\RKN\\20170127-090108.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 26, 2017 /CNW/ - Redknee Solutions Inc. (\"Redknee\" or the \"Company\") (RKN.TO) is pleased to announce that, further to its press release on January 25, 2017, it has successfully completed a private placement to Wave Systems Corp. (the \"Investor\"), an affiliate of ESW Capital, LLC (\"ESW Capital\"), of 800,000 Series A Preferred Shares (the \"Preferred Shares\") of the Company and a warrant (the \"Warrant\") to purchase 46,285,582 common shares in the capital of the Company (\"Common Shares\") for an exercise price of US$1.2963 per Common Share for gross proceeds of US$83.2 million (the \"Transaction\") pursuant to the terms of a subscription agreement (the \"Subscription Agreement\") among the Company, ESW Capital and the Investor. On January 25, 2017, the Company announced that the Transaction received shareholder approval at a special meeting of shareholders held earlier that day (the \"Meeting\").",
+        "guid": "yahoo_finance/1740779369",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-announces-closing-private-placement-183900701.html",
+        "pubDate": "Thu, 26 Jan 2017 18:39:00 GMT",
+        "source": "data\\RKN\\20170127.rss",
+        "title": "Redknee Announces Closing of Private Placement and Changes to Board of Directors"
     }
 ]

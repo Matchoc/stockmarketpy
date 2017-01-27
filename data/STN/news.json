@@ -187,5 +187,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\STN\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\STN\\20170127-090053.news",
+        "description": null,
+        "guid": "yahoo_finance/48094523",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146nc3mue/*http://www.capitalcube.com/blog/index.php/stantec-inc-breached-its-50-day-moving-average-in-a-bullish-manner-stn-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:05:50 GMT",
+        "source": "data\\STN\\20170127.rss",
+        "title": "Stantec, Inc. breached its 50 day moving average in a Bullish Manner : STN-CA : January 26, 2017"
     }
 ]

@@ -241,5 +241,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:16:24 GMT",
         "source": "data\\AGU\\20170126.rss",
         "title": "[$$] Potash Corp. Revenue Falls On Fertilizer Price Decline"
+    },
+    {
+        "contents": "data\\AGU\\20170127-091355.news",
+        "description": null,
+        "guid": "yahoo_finance/3965903368",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13hqvn7oq/*http://www.bloomberg.com/news/articles/2017-01-26/potash-corp-earnings-miss-estimates-amid-slump-in-fertilizers?cmpid=yhoo.headline",
+        "pubDate": "Thu, 26 Jan 2017 11:04:47 GMT",
+        "source": "data\\AGU\\20170127.rss",
+        "title": "Potash Corp. Profit Forecast Disappoints Amid Tough Markets"
     }
 ]

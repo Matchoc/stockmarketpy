@@ -187,5 +187,23 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\HR-UN\\20170124.rss",
         "title": "Research Reports Initiated on Real Estate Stocks RioCan REIT, H and R REIT, Brookfield Property Partners, and First Capital Realty"
+    },
+    {
+        "contents": "data\\HR-UN\\20170127-090345.news",
+        "description": null,
+        "guid": "yahoo_finance/2320376920",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/h-r-announces-july-august-211300988.html",
+        "pubDate": "Wed, 06 Jul 2016 21:13:00 GMT",
+        "source": "data\\HR-UN\\20170127.rss",
+        "title": "H&R announces July and August distributions"
+    },
+    {
+        "contents": "data\\HR-UN\\20170127-090347.news",
+        "description": null,
+        "guid": "yahoo_finance/1047661838",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dream-office-reit-sell-50-232733937.html",
+        "pubDate": "Mon, 20 Jun 2016 23:27:33 GMT",
+        "source": "data\\HR-UN\\20170127.rss",
+        "title": "Dream Office REIT to sell 50 pct interest in Scotia Plaza to KingSett, AIMCo"
     }
 ]

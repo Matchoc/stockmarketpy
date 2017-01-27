@@ -385,5 +385,14 @@
         "pubDate": "Wed, 25 Jan 2017 14:07:22 GMT",
         "source": "data\\IPL\\20170125.rss",
         "title": "Inter Pipeline Ltd. breached its 50 day moving average in a Bullish Manner : IPL-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\IPL\\20170127-090907.news",
+        "description": null,
+        "guid": "yahoo_finance/1343297647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/inter-pipeline-announces-2016-end-174500612.html",
+        "pubDate": "Thu, 26 Jan 2017 17:45:00 GMT",
+        "source": "data\\IPL\\20170127.rss",
+        "title": "Inter Pipeline Announces 2016 Year End Conference Call and Webcast"
     }
 ]

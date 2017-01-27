@@ -241,5 +241,14 @@
         "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
         "source": "data\\BBD-B\\20170125.rss",
         "title": "Bombardier Announces Organizational Changes to Support Turnaround Plan"
+    },
+    {
+        "contents": "data\\BBD-B\\20170127-091318.news",
+        "description": "[Reuters] - Canada has signaled it is willing to negotiate with Brazil to resolve a feud over funding for jet maker Bombardier Inc that threatens to turn into an international trade dispute, Brazilian Trade Minister Marcos Pereira said Thursday. In December, Brazil said it will start proceedings against Canada at the World Trade Organization over what it calls unfair support worth $2.5 billion for Bombardier from the province of Quebec.",
+        "guid": "yahoo_finance/3856146352",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brazil-minister-says-canada-signals-174720530.html",
+        "pubDate": "Thu, 26 Jan 2017 17:47:20 GMT",
+        "source": "data\\BBD-B\\20170127.rss",
+        "title": "Brazil minister says Canada signals it wants deal on Bombardier funding"
     }
 ]

@@ -277,5 +277,32 @@
         "pubDate": "Mon, 23 Jan 2017 22:15:00 GMT",
         "source": "data\\PNT\\20170124.rss",
         "title": "CPI Card Group and Proxama Announce Strategic Relationship"
+    },
+    {
+        "contents": "data\\PNT\\20170127-091637.news",
+        "description": null,
+        "guid": "yahoo_finance/3431054496",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/cpi-card-group-announces-20-201600029.html",
+        "pubDate": "Wed, 11 May 2016 20:16:00 GMT",
+        "source": "data\\PNT\\20170127.rss",
+        "title": "CPI Card Group Announces $20 Million Stock Repurchase Program"
+    },
+    {
+        "contents": "data\\PNT\\20170127-091639.news",
+        "description": null,
+        "guid": "yahoo_finance/3959520284",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/cpi-card-group-inc-reports-201500328.html",
+        "pubDate": "Wed, 11 May 2016 20:15:00 GMT",
+        "source": "data\\PNT\\20170127.rss",
+        "title": "CPI Card Group Inc. Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\PNT\\20170127-091641.news",
+        "description": null,
+        "guid": "yahoo_finance/1901776906",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/cpi-card-group-initiates-quarterly-211000656.html",
+        "pubDate": "Wed, 24 Feb 2016 21:10:00 GMT",
+        "source": "data\\PNT\\20170127.rss",
+        "title": "CPI Card Group Initiates Quarterly Dividend"
     }
 ]

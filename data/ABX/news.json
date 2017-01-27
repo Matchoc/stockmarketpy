@@ -943,5 +943,14 @@
         "pubDate": "Wed, 25 Jan 2017 12:49:28 GMT",
         "source": "data\\ABX\\20170125.rss",
         "title": "Barrick Achieves 2016 Production Guidance"
+    },
+    {
+        "contents": "data\\ABX\\20170127-090237.news",
+        "description": null,
+        "guid": "yahoo_finance/195765745",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/barrick-gold-reports-preliminary-operating-210202407.html",
+        "pubDate": "Thu, 26 Jan 2017 21:02:02 GMT",
+        "source": "data\\ABX\\20170127.rss",
+        "title": "Barrick Gold Reports Preliminary Operating Results for 2016"
     }
 ]

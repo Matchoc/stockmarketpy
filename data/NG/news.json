@@ -223,5 +223,14 @@
         "pubDate": "Wed, 25 Jan 2017 12:07:04 GMT",
         "source": "data\\NG\\20170125.rss",
         "title": "Q4 2016 NovaGold Resources Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\NG\\20170127-090410.news",
+        "description": null,
+        "guid": "yahoo_finance/3786357610",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-ng-earnings-conference-171302172.html",
+        "pubDate": "Thu, 26 Jan 2017 17:13:02 GMT",
+        "source": "data\\NG\\20170127.rss",
+        "title": "Edited Transcript of NG.TO earnings conference call or presentation 26-Jan-17 4:00pm GMT"
     }
 ]

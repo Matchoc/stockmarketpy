@@ -187,5 +187,14 @@
         "pubDate": "Thu, 26 Jan 2017 00:30:00 GMT",
         "source": "data\\WEF\\20170125.rss",
         "title": "Western Forest Products Inc. Announces Remanufacturing Consolidation"
+    },
+    {
+        "contents": "data\\WEF\\20170127-090607.news",
+        "description": null,
+        "guid": "yahoo_finance/2622846074",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14middaqt/*http://www.capitalcube.com/blog/index.php/western-forest-products-inc-breached-its-50-day-moving-average-in-a-bullish-manner-wef-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:08:05 GMT",
+        "source": "data\\WEF\\20170127.rss",
+        "title": "Western Forest Products, Inc. breached its 50 day moving average in a Bullish Manner : WEF-CA : January 26, 2017"
     }
 ]

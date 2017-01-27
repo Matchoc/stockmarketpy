@@ -340,5 +340,23 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\FCR\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\FCR\\20170127-090457.news",
+        "description": null,
+        "guid": "yahoo_finance/1065069799",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/first-capital-posts-4q-profit-100333581.html",
+        "pubDate": "Fri, 27 Jan 2017 10:03:33 GMT",
+        "source": "data\\FCR\\20170127.rss",
+        "title": "First Capital posts 4Q profit"
+    },
+    {
+        "contents": "data\\FCR\\20170127-090459.news",
+        "description": null,
+        "guid": "yahoo_finance/2995848251",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-capital-posts-4q-profit-100333572.html",
+        "pubDate": "Fri, 27 Jan 2017 10:03:33 GMT",
+        "source": "data\\FCR\\20170127.rss",
+        "title": "First Capital posts 4Q profit"
     }
 ]

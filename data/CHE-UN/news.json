@@ -376,5 +376,23 @@
         "pubDate": "Thu, 11 Aug 2016 21:21:07 GMT",
         "source": "data\\CHE-UN\\20170119.rss",
         "title": "Chemtrade Announces Expansion of Texas Potassium Chloride Facility"
+    },
+    {
+        "contents": "data\\CHE-UN\\20170127-091858.news",
+        "description": null,
+        "guid": "yahoo_finance/2161467514",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/chemtrade-announces-closing-400-million-135000138.html",
+        "pubDate": "Fri, 27 Jan 2017 13:50:00 GMT",
+        "source": "data\\CHE-UN\\20170127.rss",
+        "title": "Chemtrade Announces Closing of the $400 Million Subscription Receipt Offering"
+    },
+    {
+        "contents": "data\\CHE-UN\\20170127-091900.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 27, 2017 /CNW/ - Chemtrade Logistics Income Fund (CHE-UN.TO) (\"Chemtrade\" or the \"Fund\") announced today that it has completed its previously announced offering of subscription receipts (the \"Subscription Receipts\") (TSX:CHE.R) at a price of $18.35 per Subscription Receipt (the \"Offering\"). The Offering was undertaken on a bought deal basis by a syndicate of underwriters led by BMO Capital Markets. On closing, Chemtrade issued 21.8 million Subscription Receipts, resulting in aggregate gross proceeds of approximately $400 million.",
+        "guid": "yahoo_finance/3104748751",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/chemtrade-announces-closing-400-million-135000393.html",
+        "pubDate": "Fri, 27 Jan 2017 13:50:00 GMT",
+        "source": "data\\CHE-UN\\20170127.rss",
+        "title": "Chemtrade Announces Closing of the $400 Million Subscription Receipt Offering"
     }
 ]

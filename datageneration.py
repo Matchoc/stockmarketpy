@@ -265,7 +265,7 @@ def add_real_price_csv(csvpath):
 	with open(csvpath, 'wb') as f:
 		for line in newcsv:
 			f.write((";".join(line) + "\n").encode("utf-8", "ignore"))			
-			
+				
 			
 def get_previous_close_price(cur_date, prices):
 	prev_day = cur_date - datetime.timedelta(days=1)
@@ -280,3 +280,6 @@ def get_previous_close_price(cur_date, prices):
 		return 0
 	
 	return prices[pricedatefmt]["Adj Close"]
+	
+def get_info_from_yahoo(symbol):
+	pass

@@ -889,5 +889,32 @@
         "pubDate": "Thu, 26 Jan 2017 13:04:00 GMT",
         "source": "data\\BCE\\20170126.rss",
         "title": "Bell Let's Talk Day 2017 is one for the record books with 131,705,010 total messages of support - and $6,585,250.50 more funding for Canadian mental health"
+    },
+    {
+        "contents": "data\\BCE\\20170127-091906.news",
+        "description": null,
+        "guid": "yahoo_finance/2944601118",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-communication-services-131500688.html",
+        "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
+        "source": "data\\BCE\\20170127.rss",
+        "title": "Research Reports Initiated on Communication Services Stocks BCE Inc, Shaw Communications, Cogeco Communications, and TELUS"
+    },
+    {
+        "contents": "data\\BCE\\20170127-091908.news",
+        "description": "[CNW Group] - BCE Q4 2016 results and 2017 guidance to be announced February 2, 2017",
+        "guid": "yahoo_finance/907060454",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-q4-2016-results-2017-210500207.html",
+        "pubDate": "Thu, 26 Jan 2017 21:05:00 GMT",
+        "source": "data\\BCE\\20170127.rss",
+        "title": "BCE Q4 2016 results and 2017 guidance to be announced February 2, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170127-091909.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Jan. 26, 2016 /PRNewswire/ - BCE Inc. (TSX, NYSE: BCE) will hold its fourth-quarter 2016 results and 2017 guidance conference call with the financial community on Thursday, February 2, 2017 at ...",
+        "guid": "yahoo_finance/1375540027",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-q4-2016-results-2017-210500958.html",
+        "pubDate": "Thu, 26 Jan 2017 21:05:00 GMT",
+        "source": "data\\BCE\\20170127.rss",
+        "title": "BCE Q4 2016 results and 2017 guidance to be announced February 2, 2017"
     }
 ]

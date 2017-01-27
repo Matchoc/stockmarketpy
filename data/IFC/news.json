@@ -196,5 +196,14 @@
         "pubDate": "Wed, 25 Jan 2017 12:00:00 GMT",
         "source": "data\\IFC\\20170125.rss",
         "title": "Media Advisory - Intact Financial Corporation to Release 2016 Fourth Quarter and Year-End Results on February 8"
+    },
+    {
+        "contents": "data\\IFC\\20170127-091721.news",
+        "description": null,
+        "guid": "yahoo_finance/3290229671",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14gr53t2g/*http://www.capitalcube.com/blog/index.php/intact-financial-corp-breached-its-50-day-moving-average-in-a-bullish-manner-ifc-ca-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 13:12:20 GMT",
+        "source": "data\\IFC\\20170127.rss",
+        "title": "Intact Financial Corp. breached its 50 day moving average in a Bullish Manner : IFC-CA : January 27, 2017"
     }
 ]

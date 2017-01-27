@@ -313,5 +313,14 @@
         "pubDate": "Thu, 26 Jan 2017 13:15:00 GMT",
         "source": "data\\ITP\\20170126.rss",
         "title": "Research Reports Initiated on Consumer Cyclical Stocks Intertape Polymer Group, Winpak, New Flyer Industries, and BRP Inc."
+    },
+    {
+        "contents": "data\\ITP\\20170127-091414.news",
+        "description": null,
+        "guid": "yahoo_finance/1908386284",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14mmoc1vr/*http://www.capitalcube.com/blog/index.php/intertape-polymer-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-itp-ca-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 13:16:17 GMT",
+        "source": "data\\ITP\\20170127.rss",
+        "title": "Intertape Polymer Group, Inc. breached its 50 day moving average in a Bearish Manner : ITP-CA : January 27, 2017"
     }
 ]

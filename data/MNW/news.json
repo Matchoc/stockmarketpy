@@ -196,5 +196,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\MNW\\20170123.rss",
         "title": "Research Reports Initiated on Info Tech Stocks Wi-LAN, BlackBerry, Mitel Networks, and Sandvine"
+    },
+    {
+        "contents": "data\\MNW\\20170127-090802.news",
+        "description": null,
+        "guid": "yahoo_finance/1691824102",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14e8ohvf7/*http://www.capitalcube.com/blog/index.php/mitel-networks-corp-breached-its-50-day-moving-average-in-a-bearish-manner-mnw-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:12:00 GMT",
+        "source": "data\\MNW\\20170127.rss",
+        "title": "Mitel Networks Corp. breached its 50 day moving average in a Bearish Manner : MNW-CA : January 26, 2017"
     }
 ]

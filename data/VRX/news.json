@@ -844,5 +844,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:00:12 GMT",
         "source": "data\\VRX\\20170126.rss",
         "title": "Bear of the Day: Valeant Pharmaceuticals (VRX)"
+    },
+    {
+        "contents": "data\\VRX\\20170127-090937.news",
+        "description": null,
+        "guid": "yahoo_finance/1271719484",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/broadcom-valeant-pharmaceuticals-apple-amazon-143002926.html",
+        "pubDate": "Thu, 26 Jan 2017 14:30:02 GMT",
+        "source": "data\\VRX\\20170127.rss",
+        "title": "Broadcom, Valeant Pharmaceuticals, Apple, Amazon and Netflix highlighted as Zacks Bull and Bear of the Day Broadcom, Valeant Pharmaceuticals, Apple, Amazon and Netflix highlighted as Zacks Bull and Bear of the Day"
     }
 ]

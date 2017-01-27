@@ -754,5 +754,23 @@
         "pubDate": "Tue, 24 Jan 2017 13:56:29 GMT",
         "source": "data\\ENB\\20170124.rss",
         "title": "Enbridge, Inc. breached its 50 day moving average in a Bearish Manner : ENB-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\ENB\\20170127-091621.news",
+        "description": "[Marketwired] - Enbridge Energy Partners, L.P. announced today that the Board of Directors of the delegate of the Partnership's general partner has declared a quarterly cash distribution of $0.583 per unit, or $2.332 ...",
+        "guid": "yahoo_finance/934838573",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-energy-partners-l-p-110100963.html",
+        "pubDate": "Fri, 27 Jan 2017 11:01:00 GMT",
+        "source": "data\\ENB\\20170127.rss",
+        "title": "Enbridge Energy Partners, L.P. Declares Distribution for Fourth Quarter 2016; Announces 2017 Financial Outlook and Strategic Review Update"
+    },
+    {
+        "contents": "data\\ENB\\20170127-091624.news",
+        "description": "[Marketwired] - Enbridge Inc. announced today that it has entered into a merger agreement through a wholly-owned subsidiary, whereby it will take private Midcoast Energy Partners LP by acquiring all of the outstanding ...",
+        "guid": "yahoo_finance/743350740",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-announces-privatization-midcoast-energy-110000500.html",
+        "pubDate": "Fri, 27 Jan 2017 11:00:00 GMT",
+        "source": "data\\ENB\\20170127.rss",
+        "title": "Enbridge Announces Privatization of Midcoast Energy Partners LP and Provides Update on Enbridge Energy Partners Strategic Review"
     }
 ]

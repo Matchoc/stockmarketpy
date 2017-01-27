@@ -259,5 +259,23 @@
         "pubDate": "Wed, 25 Jan 2017 17:12:54 GMT",
         "source": "data\\POW\\20170125.rss",
         "title": "EU mergers and takeovers (Jan 25)"
+    },
+    {
+        "contents": "data\\POW\\20170127-091707.news",
+        "description": null,
+        "guid": "yahoo_finance/106992726",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/power-corporation-issue-debentures-213600337.html",
+        "pubDate": "Thu, 26 Jan 2017 21:36:00 GMT",
+        "source": "data\\POW\\20170127.rss",
+        "title": "Power Corporation - Issue of Debentures"
+    },
+    {
+        "contents": "data\\POW\\20170127-091709.news",
+        "description": "[PR Newswire] - Readers are referred to the section \"Forward-Looking Statements\" at the end of this release. MONTR\u00c9AL, Jan. 26, 2017 /CNW Telbec/ - Power Corporation of Canada (Power Corporation) (POW.TO) today announced that it has priced the issuance of $250 million aggregate principal amount of 4.81% debentures due January 31, 2047 (the \"Debentures\"). The Debentures will be offered through a group of agents to be co-led by BMO Capital Markets, Scotiabank and RBC Capital Markets.",
+        "guid": "yahoo_finance/1727238607",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/power-corporation-issue-debentures-213600741.html",
+        "pubDate": "Thu, 26 Jan 2017 21:36:00 GMT",
+        "source": "data\\POW\\20170127.rss",
+        "title": "Power Corporation - Issue of Debentures"
     }
 ]

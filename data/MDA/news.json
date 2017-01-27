@@ -376,5 +376,14 @@
         "pubDate": "Tue, 06 Sep 2016 21:39:02 GMT",
         "source": "data\\MDA\\20170123.rss",
         "title": "MDA to Establish Operational Support for ViaSat Communication Terminals for the Canadian Department of National Defence"
+    },
+    {
+        "contents": "data\\MDA\\20170127-091728.news",
+        "description": null,
+        "guid": "yahoo_finance/2304753889",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mda-signs-security-control-agreement-222300471.html",
+        "pubDate": "Thu, 26 Jan 2017 22:23:00 GMT",
+        "source": "data\\MDA\\20170127.rss",
+        "title": "MDA signs a Security Control Agreement with the U.S. Department of Defense"
     }
 ]

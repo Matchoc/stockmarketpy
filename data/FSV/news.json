@@ -340,5 +340,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:30:00 GMT",
         "source": "data\\FSV\\20170126.rss",
         "title": "FirstService to Announce Fourth Quarter and Annual Results for 2016 on February 10, 2017"
+    },
+    {
+        "contents": "data\\FSV\\20170127-090201.news",
+        "description": null,
+        "guid": "yahoo_finance/339742548",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ea8d19j/*http://www.capitalcube.com/blog/index.php/firstservice-corp-fsv-ca-earnings-analysis-q1-2016-by-the-numbers/",
+        "pubDate": "Fri, 29 Apr 2016 14:15:54 GMT",
+        "source": "data\\FSV\\20170127.rss",
+        "title": "FirstService Corp. :FSV-CA: Earnings Analysis: Q1, 2016 By the Numbers"
     }
 ]

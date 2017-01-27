@@ -196,5 +196,131 @@
         "pubDate": "Tue, 24 Jan 2017 17:19:35 GMT",
         "source": "data\\DOL\\20170125.rss",
         "title": "ETFs with exposure to Dollarama, Inc. : January 24, 2017"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090814.news",
+        "description": "[PR Newswire] - MONTREAL, Dec. 7, 2016 /PRNewswire/ - Dollarama Inc. (TSX: DOL) (\"Dollarama\" or the \"Corporation\") today reported increases in sales and net earnings for the third quarter ended October ...",
+        "guid": "yahoo_finance/4014813038",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dollarama-reports-third-quarter-results-120000548.html",
+        "pubDate": "Wed, 07 Dec 2016 12:00:00 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama reports third quarter results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090816.news",
+        "description": null,
+        "guid": "yahoo_finance/3260204119",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13160sj1k/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-dollarama-inc-november-25-2016/",
+        "pubDate": "Fri, 25 Nov 2016 15:11:28 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "ETFs with exposure to Dollarama, Inc. : November 25, 2016"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090822.news",
+        "description": "[at noodls] - For immediate distribution DOLLARAMA TO REPORT THIRD QUARTER FISCAL 2017 RESULTS MONTREAL, QC, November 10, 2016 - Dollarama Inc. (TSX: DOL) will release its third quarter financial results for the period ...",
+        "guid": "yahoo_finance/399843866",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12885hpor/*http://www.publicnow.com/view/4AAA8AAB6179104E1F583A7D9A2D44B572B00236",
+        "pubDate": "Fri, 11 Nov 2016 22:17:13 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama to Report Third Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - TORONTO, ONTARIO--(Marketwired - Sept. 16, 2016) - Partners Real Estate Investment Trust (the 'REIT,' or 'Partners') (TSX:PAR.UN) is pleased to announce that that the REIT has signed a Letter of Intent ...",
+        "guid": "yahoo_finance/3837814977",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ocso53/*http://www.publicnow.com/view/5E80CB81B4B2E77907C2A13421B3C004126B95D2",
+        "pubDate": "Fri, 16 Sep 2016 12:28:06 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Partners Announces That Dollarama Will Bolster Tenant Roster at Cornwall Square"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - For immediate distribution DOLLARAMA REPORTS SECOND QUARTER RESULTS MONTREAL, Quebec, September 1, 2016 - Dollarama Inc. (TSX: DOL) (\"Dollarama\" or the \"Corporation\") today reported ...",
+        "guid": "yahoo_finance/3351016707",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128vf7qi6/*http://www.publicnow.com/view/EA9C69BD512D22CDABE79EA8543364749913DAF5",
+        "pubDate": "Thu, 01 Sep 2016 12:33:08 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama Reports Second Quarter Results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - For immediate distribution DOLLARAMA TO REPORT SECOND QUARTER FISCAL 2017 RESULTS MONTREAL, QC, August 11, 2016 - Dollarama Inc. (\"Dollarama\" or the \"Corporation\") (TSX: DOL) announces ...",
+        "guid": "yahoo_finance/932657585",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283mcqrc/*http://www.publicnow.com/view/B74A005C273AB6D607035F0F67A6DFF79BB0E9C9",
+        "pubDate": "Fri, 12 Aug 2016 02:21:01 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama to Report Second Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - DRAFT ONLY: NOT APPROVED; NOT FOR DISTRIBUTION For immediate distribution DOLLARAMA ANNOUNCES ELECTION OF DIRECTORS MONTREAL, QC, June 8, 2016 - Dollarama Inc. (TSX: DOL) (\"Dollarama\") announced ...",
+        "guid": "yahoo_finance/3723552768",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128nu1bna/*http://www.publicnow.com/view/02C66E3F4E9F3B0EDD01FA7C8B7E0E2937AF5E05",
+        "pubDate": "Thu, 09 Jun 2016 18:19:05 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama Announces Election of Directors"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - DRAFT ONLY: NOT APPROVED; NOT FOR DISTRIBUTION For immediate distribution DOLLARAMA REPORTS STRONG FIRST QUARTER RESULTS AND RENEWS NORMAL COURSE ISSUER BID MONTREAL, Quebec, June 8, 2016 - Dollarama Inc. ...",
+        "guid": "yahoo_finance/2287178292",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lbl8bs/*http://www.publicnow.com/view/FC4C14CF25AD4940D941FC0BA9DB8DBA9F1E4438",
+        "pubDate": "Wed, 08 Jun 2016 12:08:04 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama reports strong first quarter results and renews normal course issuer bid"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - DRAFT ONLY: NOT APPROVED; NOT FOR DISTRIBUTION For immediate distribution DOLLARAMA ANNOUNCES RENEWAL OF NORMAL COURSE ISSUER BID MONTREAL, QC, June 8, 2016 - Dollarama Inc. (TSX: DOL) (\"Dollarama\" ...",
+        "guid": "yahoo_finance/3404164210",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281170lq/*http://www.publicnow.com/view/F1CE424ECC0980C78A9054EF13D7105ADE31FC1B",
+        "pubDate": "Wed, 08 Jun 2016 12:08:04 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama Announces Renewal of Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - Press Release For immediate distribution\u200c DOLLARAMA ACCEPTING EMERGENCY PRE-LOADED DEBIT/CREDIT CARDS IN ALBERTA MONTREAL, QC, May 14, 2016 - In response to customer requests, Dollarama Inc. (\"Dollarama\") ...",
+        "guid": "yahoo_finance/3454102442",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12815maps/*http://www.publicnow.com/view/F73007A80D87DDEFC995C0CC158A352EE4588C9D",
+        "pubDate": "Mon, 16 May 2016 16:12:03 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama Accepting Emergency Pre-Loaded Debit/Credit Cards in Alberta"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - Press Release For immediate distribution\u200c DOLLARAMA TO HOLD ANNUAL MEETING OF SHAREHOLDERS AND TO REPORT FIRST QUARTER FISCAL 2017 RESULTS MONTREAL, QC, May 13, 2016 - Dollarama Inc. (\"Dollarama\" ...",
+        "guid": "yahoo_finance/2034771074",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128voflq5/*http://www.publicnow.com/view/1F46B345D8A5D4E8C74AFFB0C50217570DF018D1",
+        "pubDate": "Sun, 15 May 2016 16:32:06 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama to Hold Annual Meeting of Shareholders and to Report First Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090823.news",
+        "description": "[at noodls] - Press Release For immediate distribution NEIL ROSSY TO BECOME PRESIDENT AND CEO OF DOLLARAMA To succeed Larry Rossy who will remain active as Executive Chairman MONTR\u00c9AL, Qu\u00e9bec, March 30, 2016 - Dollarama ...",
+        "guid": "yahoo_finance/3367792287",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286jl45n/*http://www.publicnow.com/view/C82ECCD428F36094F2D622831DF8FEA8B4CB7F80",
+        "pubDate": "Wed, 30 Mar 2016 13:21:28 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Neil Rossy to become President and CEO of Dollarama"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090824.news",
+        "description": "[at noodls] - Press Release DOLLARAMA TO REPORT FOURTH QUARTER AND FISCAL YEAR 2016 RESULTS MONTREAL, QC, March 4, 2016 - Dollarama Inc. (\"Dollarama\" or the \"Corporation\") (TSX: DOL) announces that ...",
+        "guid": "yahoo_finance/4001599724",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128o2omrc/*http://www.publicnow.com/view/9461047FFC2DBD8FC0DA0F5101925A913E0F1166",
+        "pubDate": "Wed, 30 Mar 2016 13:21:28 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama to Report Fourth Quarter and Fiscal Year 2016 Results"
+    },
+    {
+        "contents": "data\\DOL\\20170127-090824.news",
+        "description": "[at noodls] - DRAFT ONLY: NOT APPROVED; NOT FOR DISTRIBUTION For immediate distribution DOLLARAMA REPORTS STRONG RESULTS FOR THE FOURTH QUARTER & FULL YEAR OF FISCAL 2016 Diluted net earnings per share increased by ...",
+        "guid": "yahoo_finance/2766016051",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qno7sk/*http://www.publicnow.com/view/66540FCB0489E4E6C6BAA513C6DA931934A8E752",
+        "pubDate": "Wed, 30 Mar 2016 13:21:28 GMT",
+        "source": "data\\DOL\\20170127.rss",
+        "title": "Dollarama Reports Strong Results for the Fourth Quarter & Full Year of Fiscal 2016"
     }
 ]

@@ -286,5 +286,32 @@
         "pubDate": "Thu, 26 Jan 2017 12:36:29 GMT",
         "source": "data\\G\\20170126.rss",
         "title": "Can Analysts Reconsider Goldcorp\u2019s Ratings after Its Investor Day Outlook?"
+    },
+    {
+        "contents": "data\\G\\20170127-091034.news",
+        "description": null,
+        "guid": "yahoo_finance/1828682201",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-dips-shares-213054386.html",
+        "pubDate": "Thu, 26 Jan 2017 21:30:54 GMT",
+        "source": "data\\G\\20170127.rss",
+        "title": "CANADA STOCKS-TSX dips as resource shares weigh; remains shy of record high"
+    },
+    {
+        "contents": "data\\G\\20170127-091038.news",
+        "description": null,
+        "guid": "yahoo_finance/214890199",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-edges-lower-160948197.html",
+        "pubDate": "Thu, 26 Jan 2017 16:09:48 GMT",
+        "source": "data\\G\\20170127.rss",
+        "title": "CANADA STOCKS-TSX edges lower as materials stocks weigh, earnings in focus"
+    },
+    {
+        "contents": "data\\G\\20170127-091039.news",
+        "description": null,
+        "guid": "yahoo_finance/120672900",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12tsv24ue/*http://marketrealist.com/2017/01/can-goldcorp-maintain-valuation-premium-versus-peers-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 26 Jan 2017 14:06:08 GMT",
+        "source": "data\\G\\20170127.rss",
+        "title": "Can Goldcorp Maintain Its Valuation Premium versus Its Peers in 2017?"
     }
 ]

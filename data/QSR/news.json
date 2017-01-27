@@ -421,5 +421,41 @@
         "pubDate": "Wed, 25 Feb 2015 11:56:29 GMT",
         "source": "data\\QSR\\20170125.rss",
         "title": "Unions, charity accuse McDonald's of avoiding 1 bln euros in tax"
+    },
+    {
+        "contents": "data\\QSR\\20170127-090139.news",
+        "description": null,
+        "guid": "yahoo_finance/3003907",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-restaurants-stocks-131500934.html",
+        "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
+        "source": "data\\QSR\\20170127.rss",
+        "title": "Research Reports Initiated on Restaurants Stocks Boston Pizza Royalties Income Fund, Imvescor Restaurant Group, The Keg Royalties Income Fund, and Restaurant Brands International"
+    },
+    {
+        "contents": "data\\QSR\\20170127-090141.news",
+        "description": null,
+        "guid": "yahoo_finance/180174443",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/restaurant-brands-launch-tim-hortons-110320259.html",
+        "pubDate": "Fri, 27 Jan 2017 11:03:20 GMT",
+        "source": "data\\QSR\\20170127.rss",
+        "title": "Restaurant Brands to launch Tim Hortons in Mexico"
+    },
+    {
+        "contents": "data\\QSR\\20170127-090143.news",
+        "description": "[CNW Group] - Restaurant Brands International Inc. Announces Master Franchise Joint Venture to Launch the Tim Hortons\u00ae Brand in Mexico",
+        "guid": "yahoo_finance/3874415358",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/restaurant-brands-international-inc-announces-100000089.html",
+        "pubDate": "Fri, 27 Jan 2017 10:00:00 GMT",
+        "source": "data\\QSR\\20170127.rss",
+        "title": "Restaurant Brands International Inc. Announces Master Franchise Joint Venture to Launch the Tim Hortons\u00ae Brand in Mexico"
+    },
+    {
+        "contents": "data\\QSR\\20170127-090145.news",
+        "description": "[PR Newswire] - OAKVILLE, ON, Jan. 27, 2017 /PRNewswire/ - Restaurant Brands International Inc. (\"RBI\") (TSX/NYSE: QSR, TSX: QSP) has announced the establishment of a master franchise joint venture with a group of investors in Mexico. The joint venture company will be the master franchisee of the TIM HORTONS\u00ae brand in Mexico, responsible for developing and growing the brand in the country. \"We are continuing to build on our commitment of taking the TIM HORTONS\u00ae brand and Canada's favourite coffee around the world,\" said Daniel Schwartz, CEO of Restaurant Brands International.",
+        "guid": "yahoo_finance/4199819811",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/restaurant-brands-international-inc-announces-100000529.html",
+        "pubDate": "Fri, 27 Jan 2017 10:00:00 GMT",
+        "source": "data\\QSR\\20170127.rss",
+        "title": "Restaurant Brands International Inc. Announces Master Franchise Joint Venture to Launch the Tim Hortons\u00ae Brand in Mexico"
     }
 ]

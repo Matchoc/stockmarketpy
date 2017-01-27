@@ -385,5 +385,41 @@
         "pubDate": "Tue, 24 Jan 2017 13:45:01 GMT",
         "source": "data\\MX\\20170125.rss",
         "title": "Why Methanex Corporation (MEOH) Could Shock the Market Soon"
+    },
+    {
+        "contents": "data\\MX\\20170127-090428.news",
+        "description": null,
+        "guid": "yahoo_finance/2381129940",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-mx-earnings-conference-234555460.html",
+        "pubDate": "Thu, 26 Jan 2017 23:45:55 GMT",
+        "source": "data\\MX\\20170127.rss",
+        "title": "Edited Transcript of MX.TO earnings conference call or presentation 26-Jan-17 5:00pm GMT"
+    },
+    {
+        "contents": "data\\MX\\20170127-090430.news",
+        "description": "[Marketwired] - Methanex Corporation announced today that its Board of Directors has declared a quarterly dividend of US$0.275 per share that will be payable on March 31, 2017 to holders of common shares of record on ...",
+        "guid": "yahoo_finance/397161744",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/methanex-corporation-notice-cash-dividend-220000230.html",
+        "pubDate": "Thu, 26 Jan 2017 22:00:00 GMT",
+        "source": "data\\MX\\20170127.rss",
+        "title": "Methanex Corporation - Notice of Cash Dividend"
+    },
+    {
+        "contents": "data\\MX\\20170127-090432.news",
+        "description": null,
+        "guid": "yahoo_finance/1828682201",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-dips-shares-213054386.html",
+        "pubDate": "Thu, 26 Jan 2017 21:30:54 GMT",
+        "source": "data\\MX\\20170127.rss",
+        "title": "CANADA STOCKS-TSX dips as resource shares weigh; remains shy of record high"
+    },
+    {
+        "contents": "data\\MX\\20170127-090434.news",
+        "description": null,
+        "guid": "yahoo_finance/214890199",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-edges-lower-160948197.html",
+        "pubDate": "Thu, 26 Jan 2017 16:09:48 GMT",
+        "source": "data\\MX\\20170127.rss",
+        "title": "CANADA STOCKS-TSX edges lower as materials stocks weigh, earnings in focus"
     }
 ]

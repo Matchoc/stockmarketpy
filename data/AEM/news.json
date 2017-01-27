@@ -322,5 +322,32 @@
         "pubDate": "Wed, 03 Sep 2014 19:20:58 GMT",
         "source": "data\\AEM\\20170125.rss",
         "title": "Analysis - Cost-cuts put gold miners between rock and a hard place"
+    },
+    {
+        "contents": "data\\AEM\\20170127-091330.news",
+        "description": null,
+        "guid": "yahoo_finance/3524638499",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=130dni3bm/*http://marketrealist.com/2017/01/reading-the-upward-and-downward-correlation-of-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 14:08:02 GMT",
+        "source": "data\\AEM\\20170127.rss",
+        "title": "Reading the Upward and Downward Correlation of Mining Stocks"
+    },
+    {
+        "contents": "data\\AEM\\20170127-091331.news",
+        "description": null,
+        "guid": "yahoo_finance/308920907",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=127b899ec/*http://marketrealist.com/2017/01/volatility-among-the-miners-in-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 12:38:25 GMT",
+        "source": "data\\AEM\\20170127.rss",
+        "title": "Volatility among the Miners in 2017"
+    },
+    {
+        "contents": "data\\AEM\\20170127-091332.news",
+        "description": null,
+        "guid": "yahoo_finance/1498987185",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12d1tndmd/*http://marketrealist.com/2017/01/mining-stock-volatility-and-what-it-means/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 26 Jan 2017 20:05:43 GMT",
+        "source": "data\\AEM\\20170127.rss",
+        "title": "Mining Stock Volatility and What It Means"
     }
 ]

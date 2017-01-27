@@ -187,5 +187,23 @@
         "pubDate": "Thu, 19 Jan 2017 14:00:46 GMT",
         "source": "data\\EFN\\20170119.rss",
         "title": "Element Fleet Management Corp. breached its 50 day moving average in a Bearish Manner : EFN-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\EFN\\20170127-091815.news",
+        "description": null,
+        "guid": "yahoo_finance/507623749",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/adjusted-cost-allocation-following-completion-222811028.html",
+        "pubDate": "Wed, 19 Oct 2016 22:28:11 GMT",
+        "source": "data\\EFN\\20170127.rss",
+        "title": "Adjusted Cost Base Allocation Following Completion of the Recent Plan of Arrangement"
+    },
+    {
+        "contents": "data\\EFN\\20170127-091817.news",
+        "description": null,
+        "guid": "yahoo_finance/2181641808",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13g8rdm8i/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-element-fleet-management-corp-october-10-2016/",
+        "pubDate": "Mon, 10 Oct 2016 13:38:57 GMT",
+        "source": "data\\EFN\\20170127.rss",
+        "title": "ETF\u2019s with exposure to Element Fleet Management Corp. : October 10, 2016"
     }
 ]

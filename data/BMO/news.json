@@ -241,5 +241,14 @@
         "pubDate": "Tue, 24 Jan 2017 18:47:21 GMT",
         "source": "data\\BMO\\20170125.rss",
         "title": "Here to Help - 200 Years and Counting: BMO Unveils a Modern Way to Wish It Forward"
+    },
+    {
+        "contents": "data\\BMO\\20170127-090542.news",
+        "description": "[Marketwired] - BMO Global Asset Management today announced the inclusion of two funds in the Charles Schwab Mutual Fund OneSource Select List for the first quarter of 2017: the BMO Low Volatility Equity Fund and the ...",
+        "guid": "yahoo_finance/1067170663",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/two-bmo-global-asset-management-160500688.html",
+        "pubDate": "Thu, 26 Jan 2017 16:05:00 GMT",
+        "source": "data\\BMO\\20170127.rss",
+        "title": "Two BMO Global Asset Management Funds Named to Schwab Mutual Fund OneSource Select List(R) for Q1 2017"
     }
 ]

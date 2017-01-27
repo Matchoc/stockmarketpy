@@ -979,5 +979,122 @@
         "pubDate": "Thu, 26 Jan 2017 09:14:01 GMT",
         "source": "data\\TRP\\20170126.rss",
         "title": "TransCanada has not yet broached Keystone XL with shippers: CEO"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090316.news",
+        "description": null,
+        "guid": "yahoo_finance/2563854877",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-jan-27-102932275.html",
+        "pubDate": "Fri, 27 Jan 2017 10:29:32 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "PRESS DIGEST-Canada - Jan 27"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/3436326955",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/transcanada-makes-application-keystone-xl-224916292.html",
+        "pubDate": "Fri, 27 Jan 2017 00:07:55 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "TransCanada makes new application for Keystone XL"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090320.news",
+        "description": null,
+        "guid": "yahoo_finance/3857325025",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transcanada-makes-application-keystone-xl-224916645.html",
+        "pubDate": "Fri, 27 Jan 2017 00:07:55 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "TransCanada makes new application for Keystone XL"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090321.news",
+        "description": null,
+        "guid": "yahoo_finance/1248236264",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12qtb4f6i/*http://www.wsj.com/articles/third-time-may-be-the-charm-for-keystone-pipeline-1485473709?mod=yahoo_hs",
+        "pubDate": "Thu, 26 Jan 2017 23:47:15 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "[$$] Third Time May Be the Charm for Keystone Pipeline"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090322.news",
+        "description": null,
+        "guid": "yahoo_finance/3825596633",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/analysis-keystone-xl-pipeline-canada-232351386.html",
+        "pubDate": "Thu, 26 Jan 2017 23:23:51 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "Analysis - Keystone XL pipeline: A 'Canada First' energy plan?"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090324.news",
+        "description": null,
+        "guid": "yahoo_finance/3931254155",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/analysis-keystone-xl-pipeline-canada-232351790.html",
+        "pubDate": "Thu, 26 Jan 2017 23:23:51 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "Analysis - Keystone XL pipeline: A 'Canada First' energy plan?"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090325.news",
+        "description": "[Reuters] - U.S. President Donald Trump's move this week to revive the Keystone XL oil pipeline marked a major step under his \"America First\" energy plan to boost U.S. drillers and create new U.S. jobs. If built, TransCanada\u2019s Keystone XL from Alberta to Nebraska would yield about $2.4 billion (C$3.2 billion) a year for Canada, split between government revenues, shareholder profits and re-investment into the still-recovering Canadian oil patch, according to a Conference Board of Canada research note prepared for Reuters on Thursday.",
+        "guid": "yahoo_finance/2171424790",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/keystone-xl-pipeline-canada-first-232114132.html",
+        "pubDate": "Thu, 26 Jan 2017 23:21:14 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "Keystone XL pipeline: A 'Canada First' energy plan?"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090327.news",
+        "description": null,
+        "guid": "yahoo_finance/1995534551",
+        "link": "http://us.rd.yahoo.com/finance/external/cbsm/rss/SIG=11iiumket/*http://www.marketwatch.com/News/Story/Story.aspx?guid=BAC919E7-10CD-4C05-8422-86504AE9E9BC&siteid=yhoof2",
+        "pubDate": "Thu, 26 Jan 2017 22:17:08 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "TransCanada applies for presidential permit for Keystone XL pipeline"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090328.news",
+        "description": null,
+        "guid": "yahoo_finance/2448471198",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transcanada-submits-application-keystone-xl-220138101.html",
+        "pubDate": "Thu, 26 Jan 2017 22:01:38 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "TransCanada re-submits application for Keystone XL pipeline"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090331.news",
+        "description": "[Marketwired] - News Release - TransCanada Corporation announced today it has submitted a Presidential Permit application to the U.S. Department of State for approval of the Keystone XL Pipeline.",
+        "guid": "yahoo_finance/4266532457",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transcanada-applies-keystone-xl-presidential-215046248.html",
+        "pubDate": "Thu, 26 Jan 2017 21:50:46 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "TransCanada Applies for Keystone XL Presidential Permit"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090333.news",
+        "description": null,
+        "guid": "yahoo_finance/2010910572",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132d60khe/*http://www.fool.com/investing/2017/01/26/is-transcanada-corporations-stock-a-buy-now-that-t.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 26 Jan 2017 19:55:07 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "Is TransCanada Corporation's Stock a Buy Now That the Keystone XL Pipeline Is Back in Play?"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090333.news",
+        "description": null,
+        "guid": "yahoo_finance/2232103892",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13k7hjgsk/*http://www.bloomberg.com/news/articles/2017-01-26/keystone-and-dakota-access-face-hurdles-despite-trump-s-blessing?cmpid=yhoo.headline",
+        "pubDate": "Thu, 26 Jan 2017 19:10:38 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "Keystone, Dakota Access Lines Face Hurdles Despite Trump Support"
+    },
+    {
+        "contents": "data\\TRP\\20170127-090334.news",
+        "description": null,
+        "guid": "yahoo_finance/3125181317",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-analyst-blog-highlights-transcanada-143002126.html",
+        "pubDate": "Thu, 26 Jan 2017 14:30:02 GMT",
+        "source": "data\\TRP\\20170127.rss",
+        "title": "The Zacks Analyst Blog Highlights: TransCanada, Energy Transfer Partners, Sunoco Logistics Partners, Plains All American Pipeline and TC PipeLines"
     }
 ]

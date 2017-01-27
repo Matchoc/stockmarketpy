@@ -349,5 +349,32 @@
         "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
         "source": "data\\NDM\\20170125.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Harte Gold, Asanko Gold, and Northern Dynasty Minerals"
+    },
+    {
+        "contents": "data\\NDM\\20170127-090956.news",
+        "description": null,
+        "guid": "yahoo_finance/1222899128",
+        "link": "http://us.rd.yahoo.com/finance/external/investopedia/rss/SIG=11m4jbl5u/*http://www.investopedia.com/investing/silver-stocks/?partner=YahooSA",
+        "pubDate": "Thu, 26 Jan 2017 17:57:00 GMT",
+        "source": "data\\NDM\\20170127.rss",
+        "title": "Top 3 Silver Stocks for 2017"
+    },
+    {
+        "contents": "data\\NDM\\20170127-090957.news",
+        "description": "[CNW Group] - Northern Dynasty Announces Closing of US$37.444 Million Bought Deal Offering",
+        "guid": "yahoo_finance/4157747007",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-announces-closing-us-153300247.html",
+        "pubDate": "Thu, 26 Jan 2017 15:33:00 GMT",
+        "source": "data\\NDM\\20170127.rss",
+        "title": "Northern Dynasty Announces Closing of US$37.444 Million Bought Deal Offering"
+    },
+    {
+        "contents": "data\\NDM\\20170127-090959.news",
+        "description": "[PR Newswire] - NYSE MKT: NAK) (\"Northern Dynasty\" or the \"Company\") is pleased to report that it has closed its previously announced bought deal offering, including the exercise in full of the Underwriters' over-allotment option (the \"Offering\"). A total of 20.24 million common shares of the Company were sold at a price of US$1.85 per share for gross proceeds of US$37.444 million. The Offering was completed pursuant to an underwriting agreement dated January 12, 2017 among the Company and Cantor Fitzgerald Canada Corporation, TD Securities Inc. and BMO Capital Markets, as co-lead underwriters and joint bookrunners, and Canaccord Genuity Corp., CIBC World Markets Inc. and Haywood Securities Inc., as co-managers (collectively, the \"Underwriters\"). The Company paid a 5% commission to the Underwriters.",
+        "guid": "yahoo_finance/28284518",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/northern-dynasty-announces-closing-us-153300914.html",
+        "pubDate": "Thu, 26 Jan 2017 15:33:00 GMT",
+        "source": "data\\NDM\\20170127.rss",
+        "title": "Northern Dynasty Announces Closing of US$37.444 Million Bought Deal Offering"
     }
 ]

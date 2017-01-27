@@ -196,5 +196,14 @@
         "pubDate": "Mon, 23 Jan 2017 16:55:41 GMT",
         "source": "data\\GUD\\20170124.rss",
         "title": "Knight Therapeutics, Inc. \u2013 Value Analysis (TORONTO:GUD) : January 23, 2017"
+    },
+    {
+        "contents": "data\\GUD\\20170127-090353.news",
+        "description": null,
+        "guid": "yahoo_finance/796523222",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/knight-plants-small-seed-position-000000180.html",
+        "pubDate": "Fri, 27 Jan 2017 00:00:00 GMT",
+        "source": "data\\GUD\\20170127.rss",
+        "title": "Knight Plants Small Seed Position In Protalix"
     }
 ]

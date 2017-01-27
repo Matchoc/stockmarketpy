@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\PAA\\20170119.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Agnico Eagle Mines, Pan American Silver, NovaGold Resources, and Lucara Diamond"
+    },
+    {
+        "contents": "data\\PAA\\20170127-090643.news",
+        "description": null,
+        "guid": "yahoo_finance/308920907",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=127b899ec/*http://marketrealist.com/2017/01/volatility-among-the-miners-in-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 12:38:25 GMT",
+        "source": "data\\PAA\\20170127.rss",
+        "title": "Volatility among the Miners in 2017"
     }
 ]
