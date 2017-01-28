@@ -412,5 +412,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:08:52 GMT",
         "source": "data\\LUC\\20170126.rss",
         "title": "Lucara Diamond Corp. breached its 50 day moving average in a Bullish Manner : LUC-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\LUC\\20170128-090607.news",
+        "description": null,
+        "guid": "yahoo_finance/2519579790",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ak9ufdg/*http://www.capitalcube.com/blog/index.php/lucara-diamond-corp-value-analysis-torontoluc-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 18:52:58 GMT",
+        "source": "data\\LUC\\20170128.rss",
+        "title": "Lucara Diamond Corp. \u2013 Value Analysis (TORONTO:LUC) : January 27, 2017"
     }
 ]

@@ -520,5 +520,23 @@
         "pubDate": "Tue, 24 Jan 2017 15:57:00 GMT",
         "source": "data\\CP\\20170125.rss",
         "title": "Why Canadian Pacific Railway Is the Top Bet in the Railroad Group"
+    },
+    {
+        "contents": "data\\CP\\20170128-090413.news",
+        "description": null,
+        "guid": "yahoo_finance/4036266931",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cp-rail-executive-takes-leave-161921279.html",
+        "pubDate": "Fri, 27 Jan 2017 16:19:21 GMT",
+        "source": "data\\CP\\20170128.rss",
+        "title": "CP Rail Executive Takes Leave, Opening Door for Harrison Reunion"
+    },
+    {
+        "contents": "data\\CP\\20170128-090415.news",
+        "description": null,
+        "guid": "yahoo_finance/4121906400",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13jh9f8l7/*http://www.bloomberg.com/news/articles/2017-01-27/cp-rail-executive-takes-leave-opening-door-for-harrison-reunion?cmpid=yhoo.headline",
+        "pubDate": "Fri, 27 Jan 2017 16:19:21 GMT",
+        "source": "data\\CP\\20170128.rss",
+        "title": "Rail Executive\u2019s Leave Opens Door to Joining Harrison\u2019s CSX Push"
     }
 ]

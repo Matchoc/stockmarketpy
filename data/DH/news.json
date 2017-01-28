@@ -178,5 +178,23 @@
         "pubDate": "Wed, 02 Nov 2016 12:00:00 GMT",
         "source": "data\\DH\\20170118.rss",
         "title": "D+H Publishes Latest Issue of Payments & Treasury Solutions News"
+    },
+    {
+        "contents": "data\\DH\\20170128-091306.news",
+        "description": null,
+        "guid": "yahoo_finance/2931332331",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-pension-fund-u-buyout-191430239.html",
+        "pubDate": "Fri, 27 Jan 2017 19:14:30 GMT",
+        "source": "data\\DH\\20170128.rss",
+        "title": "Canada pension fund, U.S. buyout firms eye DH Corp"
+    },
+    {
+        "contents": "data\\DH\\20170128-091308.news",
+        "description": null,
+        "guid": "yahoo_finance/2355514994",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cppib-u-private-equity-firms-181721616.html",
+        "pubDate": "Fri, 27 Jan 2017 18:17:21 GMT",
+        "source": "data\\DH\\20170128.rss",
+        "title": "CPPIB, U.S. private equity firms eye Canada's DH Corp"
     }
 ]

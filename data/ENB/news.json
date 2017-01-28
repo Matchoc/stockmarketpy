@@ -772,5 +772,32 @@
         "pubDate": "Fri, 27 Jan 2017 11:00:00 GMT",
         "source": "data\\ENB\\20170127.rss",
         "title": "Enbridge Announces Privatization of Midcoast Energy Partners LP and Provides Update on Enbridge Energy Partners Strategic Review"
+    },
+    {
+        "contents": "data\\ENB\\20170128-091418.news",
+        "description": "[Marketwired] - Enbridge Inc. and Enbridge Income Fund Holdings Inc. will host a joint webcast conference call to discuss their 2016 fourth quarter and year end results on Friday, February 17, 2017.",
+        "guid": "yahoo_finance/4215320569",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-inc-enbridge-income-fund-221500325.html",
+        "pubDate": "Fri, 27 Jan 2017 22:15:00 GMT",
+        "source": "data\\ENB\\20170128.rss",
+        "title": "Enbridge Inc. and Enbridge Income Fund Holdings Inc. to Webcast 2016 Fourth Quarter and Year End Financial Results"
+    },
+    {
+        "contents": "data\\ENB\\20170128-091420.news",
+        "description": null,
+        "guid": "yahoo_finance/4152070122",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13cml1c9i/*http://www.bizjournals.com/houston/news/2017/01/27/houston-based-energy-co-going-private-in-170m-deal.html?ana=yahoo",
+        "pubDate": "Fri, 27 Jan 2017 20:25:06 GMT",
+        "source": "data\\ENB\\20170128.rss",
+        "title": "Houston-based energy co. going private in $170M deal"
+    },
+    {
+        "contents": "data\\ENB\\20170128-091420.news",
+        "description": null,
+        "guid": "yahoo_finance/1983076870",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12mm6bk29/*http://www.fool.com/investing/2017/01/27/3-things-enbridge-has-to-prove-in-2017.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 27 Jan 2017 15:57:57 GMT",
+        "source": "data\\ENB\\20170128.rss",
+        "title": "3 Things Enbridge Has to Prove in 2017"
     }
 ]

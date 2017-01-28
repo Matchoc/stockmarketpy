@@ -214,5 +214,14 @@
         "pubDate": "Thu, 26 Jan 2017 17:18:16 GMT",
         "source": "data\\DRT\\20170127.rss",
         "title": "DIRTT and NMG set to construct two-story medical build in just 72 hours at Arab Health"
+    },
+    {
+        "contents": "data\\DRT\\20170128-090155.news",
+        "description": null,
+        "guid": "yahoo_finance/3620029182",
+        "link": "http://us.rd.yahoo.com/finance/external/forbes/rss/SIG=13e685kiq/*http://www.forbes.com/sites/paulsavage/2017/01/27/this-software-could-revolutionize-how-buildings-get-built/?utm_source=yahoo&utm_medium=partner&utm_campaign=yahootix&partner=yahootix",
+        "pubDate": "Fri, 27 Jan 2017 17:32:00 GMT",
+        "source": "data\\DRT\\20170128.rss",
+        "title": "This Software Could Revolutionize How Buildings Get Built"
     }
 ]

@@ -178,5 +178,23 @@
         "pubDate": "Tue, 21 Jun 2016 00:00:00 GMT",
         "source": "data\\WTE\\20170118.rss",
         "title": "Westshore Terminals Announces Q2 2016 Distribution"
+    },
+    {
+        "contents": "data\\WTE\\20170128-091344.news",
+        "description": null,
+        "guid": "yahoo_finance/2545110128",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ri5lf8p/*http://www.capitalcube.com/blog/index.php/westshore-terminals-investment-corp-breached-its-50-day-moving-average-in-a-bullish-manner-wte-ca-june-20-2016/",
+        "pubDate": "Mon, 20 Jun 2016 12:39:44 GMT",
+        "source": "data\\WTE\\20170128.rss",
+        "title": "Westshore Terminals Investment Corp. breached its 50 day moving average in a Bullish Manner : WTE-CA : June 20, 2016"
+    },
+    {
+        "contents": "data\\WTE\\20170128-091349.news",
+        "description": null,
+        "guid": "yahoo_finance/117844647",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14q0lcpii/*http://www.capitalcube.com/blog/index.php/westshore-terminals-investment-corp-breached-its-50-day-moving-average-in-a-bullish-manner-wte-ca-june-7-2016/",
+        "pubDate": "Tue, 07 Jun 2016 12:31:53 GMT",
+        "source": "data\\WTE\\20170128.rss",
+        "title": "Westshore Terminals Investment Corp. breached its 50 day moving average in a Bullish Manner : WTE-CA : June 7, 2016"
     }
 ]

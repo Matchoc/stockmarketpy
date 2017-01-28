@@ -952,5 +952,32 @@
         "pubDate": "Thu, 26 Jan 2017 21:02:02 GMT",
         "source": "data\\ABX\\20170127.rss",
         "title": "Barrick Gold Reports Preliminary Operating Results for 2016"
+    },
+    {
+        "contents": "data\\ABX\\20170128-090254.news",
+        "description": null,
+        "guid": "yahoo_finance/4215159175",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12f6nc8n0/*http://marketrealist.com/2017/01/senior-gold-miners-can-re-rate-4q16-results/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 17:05:57 GMT",
+        "source": "data\\ABX\\20170128.rss",
+        "title": "Which Senior Gold Miners Could Re-Rate after Their 4Q16 Results?"
+    },
+    {
+        "contents": "data\\ABX\\20170128-090254.news",
+        "description": null,
+        "guid": "yahoo_finance/1715447948",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/goodhaven-funds-comments-barrick-gold-163433831.html",
+        "pubDate": "Fri, 27 Jan 2017 16:34:33 GMT",
+        "source": "data\\ABX\\20170128.rss",
+        "title": "GoodHaven Funds Comments on Barrick Gold"
+    },
+    {
+        "contents": "data\\ABX\\20170128-090256.news",
+        "description": null,
+        "guid": "yahoo_finance/41134529",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/larry-pitkowskys-goodhaven-fund-4th-162317479.html",
+        "pubDate": "Fri, 27 Jan 2017 16:30:45 GMT",
+        "source": "data\\ABX\\20170128.rss",
+        "title": "Larry Pitkowsky's GoodHaven Fund 4th Quarter Commentary"
     }
 ]

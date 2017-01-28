@@ -178,5 +178,23 @@
         "pubDate": "Wed, 17 Aug 2016 21:06:00 GMT",
         "source": "data\\GRT-UN\\20170118.rss",
         "title": "Granite REIT Declares Monthly Distribution"
+    },
+    {
+        "contents": "data\\GRT-UN\\20170128-090209.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 27, 2017 /PRNewswire/ - Granite Real Estate Investment Trust (\"Granite\") (TSX: GRT.UN / NYSE: GRP.U) expects to announce its financial results for the fourth quarter and year-ended ...",
+        "guid": "yahoo_finance/1820208476",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/granite-reit-notice-conference-call-210300324.html",
+        "pubDate": "Fri, 27 Jan 2017 21:03:00 GMT",
+        "source": "data\\GRT-UN\\20170128.rss",
+        "title": "Granite REIT Notice of Conference Call for Fourth Quarter and Year-End 2016 Results"
+    },
+    {
+        "contents": "data\\GRT-UN\\20170128-090211.news",
+        "description": null,
+        "guid": "yahoo_finance/2325998556",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/granite-reit-notice-conference-call-210300885.html",
+        "pubDate": "Fri, 27 Jan 2017 21:03:00 GMT",
+        "source": "data\\GRT-UN\\20170128.rss",
+        "title": "Granite REIT Notice of Conference Call for Fourth Quarter and Year-End 2016 Results"
     }
 ]

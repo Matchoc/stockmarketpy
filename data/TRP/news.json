@@ -1096,5 +1096,77 @@
         "pubDate": "Thu, 26 Jan 2017 14:30:02 GMT",
         "source": "data\\TRP\\20170127.rss",
         "title": "The Zacks Analyst Blog Highlights: TransCanada, Energy Transfer Partners, Sunoco Logistics Partners, Plains All American Pipeline and TC PipeLines"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091006.news",
+        "description": "[Reuters] - Three U.S. natural gas pipeline companies on Friday asked the U.S. Federal Energy Regulatory Commission (FERC) for permission to move forward on their projects by Feb. 3, which is when one of the FERC commissioners will step down. Only one of the three companies, Nexus Gas Transmission, specifically said it was making the request for a certificate to build its pipeline because Norman Bay, the former FERC chairman, said he would step down at the end of next week.",
+        "guid": "yahoo_finance/2318823213",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-natgas-pipeline-companies-seek-223116937.html",
+        "pubDate": "Fri, 27 Jan 2017 22:31:16 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "U.S. natgas pipeline companies seek FERC decisions before Bay leaves"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091008.news",
+        "description": "[Reuters] - When U.S. President Donald Trump signed orders to revive two controversial energy pipeline projects this week, he pledged to require new pipelines to use American-made steel, a gesture to workers in the hard-hit industry who helped propel him to power. Economists said Trump's order has many loopholes to enforcement and could violate international trade law.",
+        "guid": "yahoo_finance/1899425005",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/american-steel-unlikely-keystone-boost-222803237.html",
+        "pubDate": "Fri, 27 Jan 2017 22:28:03 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "American steel unlikely to get Keystone boost despite Trump order"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091009.news",
+        "description": null,
+        "guid": "yahoo_finance/1230946869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-dips-energy-221007068.html",
+        "pubDate": "Fri, 27 Jan 2017 22:10:07 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "CANADA STOCKS-TSX dips as energy shares weigh; Celestica shines"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091011.news",
+        "description": "[Reuters] - OTTAWA/CALGARY, Alberta, Jan 27 (Reuters) - A review of TransCanada Corp's proposed Energy East pipeline will start again from the beginning, Canada's National Energy Board (NEB) regulator said on Friday, voiding all decisions from the project's previous examining panel that has been accused of bias. The new review will be conducted by the NEB in its current form, said the Natural Resources Canada federal agency, despite the ongoing reform of the energy regulator.",
+        "guid": "yahoo_finance/3874093998",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/review-canada-energy-east-pipeline-165625434.html",
+        "pubDate": "Fri, 27 Jan 2017 21:39:46 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "Canada Energy East pipeline review to restart under current regulator"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091013.news",
+        "description": null,
+        "guid": "yahoo_finance/824600885",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/regulator-voids-transcanada-energy-east-183040805.html",
+        "pubDate": "Fri, 27 Jan 2017 18:30:40 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "Regulator Voids TransCanada Energy East Project Decisions"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091014.news",
+        "description": null,
+        "guid": "yahoo_finance/2321520138",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=137igc41i/*http://www.wsj.com/articles/transcanada-pipeline-to-canadas-east-coast-faces-further-delay-1485538938?mod=yahoo_hs",
+        "pubDate": "Fri, 27 Jan 2017 17:42:22 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "[$$] TransCanada Pipeline to Canada's East Coast Faces Further Delay"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091015.news",
+        "description": null,
+        "guid": "yahoo_finance/4120903866",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-lower-stocks-154637634.html",
+        "pubDate": "Fri, 27 Jan 2017 15:46:37 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "CANADA STOCKS-TSX lower as resource stocks weigh; Celestica shines"
+    },
+    {
+        "contents": "data\\TRP\\20170128-091016.news",
+        "description": null,
+        "guid": "yahoo_finance/2719148262",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/review-canada-energy-east-pipeline-142112227.html",
+        "pubDate": "Fri, 27 Jan 2017 14:21:12 GMT",
+        "source": "data\\TRP\\20170128.rss",
+        "title": "Review of Canada Energy East pipeline to restart from beginning"
     }
 ]

@@ -322,5 +322,14 @@
         "pubDate": "Thu, 26 Jan 2017 20:20:06 GMT",
         "source": "data\\ALA\\20170127.rss",
         "title": "Oh no, not again! Washington Gas deal raises specter of regulatory fight"
+    },
+    {
+        "contents": "data\\ALA\\20170128-090837.news",
+        "description": null,
+        "guid": "yahoo_finance/2969444660",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/multimedia-altagas-celebrates-opening-north-225829284.html",
+        "pubDate": "Fri, 27 Jan 2017 22:58:29 GMT",
+        "source": "data\\ALA\\20170128.rss",
+        "title": "MULTIMEDIA UPDATE: AltaGas Celebrates Opening of North America's Largest Battery Storage Facility"
     }
 ]

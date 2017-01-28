@@ -592,5 +592,14 @@
         "pubDate": "Tue, 24 Jan 2017 14:25:00 GMT",
         "source": "data\\YRI\\20170125.rss",
         "title": "3 Top Stocks Under $5"
+    },
+    {
+        "contents": "data\\YRI\\20170128-090358.news",
+        "description": null,
+        "guid": "yahoo_finance/3941236133",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12vjietkj/*http://marketrealist.com/2017/01/watch-catalyst-intermediate-gold-miners-report-4q16-results/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
+        "source": "data\\YRI\\20170128.rss",
+        "title": "Watch for These Catalysts in Intermediate Gold Miners\u2019 Q4 Results"
     }
 ]

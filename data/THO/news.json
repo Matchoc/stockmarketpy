@@ -214,5 +214,14 @@
         "pubDate": "Thu, 26 Jan 2017 20:10:37 GMT",
         "source": "data\\THO\\20170127.rss",
         "title": "Court sets Canada as jurisdiction for Guatemalan suit against Tahoe"
+    },
+    {
+        "contents": "data\\THO\\20170128-090024.news",
+        "description": null,
+        "guid": "yahoo_finance/2160638834",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=128ddkfdg/*http://marketrealist.com/2017/01/silver-miners-can-re-rate-enter-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 18:35:47 GMT",
+        "source": "data\\THO\\20170128.rss",
+        "title": "Which Silver Miners Could Re-Rate as We Enter 2017?"
     }
 ]

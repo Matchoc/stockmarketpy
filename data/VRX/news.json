@@ -853,5 +853,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:30:02 GMT",
         "source": "data\\VRX\\20170127.rss",
         "title": "Broadcom, Valeant Pharmaceuticals, Apple, Amazon and Netflix highlighted as Zacks Bull and Bear of the Day Broadcom, Valeant Pharmaceuticals, Apple, Amazon and Netflix highlighted as Zacks Bull and Bear of the Day"
+    },
+    {
+        "contents": "data\\VRX\\20170128-091245.news",
+        "description": null,
+        "guid": "yahoo_finance/3270092326",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pershing-square-defends-valeants-progress-174913090.html",
+        "pubDate": "Fri, 27 Jan 2017 17:49:13 GMT",
+        "source": "data\\VRX\\20170128.rss",
+        "title": "Pershing Square Defends Valeant's Progress, Can't Defend Its Stock Performance"
     }
 ]

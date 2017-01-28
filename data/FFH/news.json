@@ -862,5 +862,23 @@
         "pubDate": "Thu, 26 Jan 2017 19:17:39 GMT",
         "source": "data\\FFH\\20170127.rss",
         "title": "[$$] Performance Sports Cancels Auction to Pursue $575 Million Sale"
+    },
+    {
+        "contents": "data\\FFH\\20170128-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/946873761",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=13bjr9a6t/*http://www.wsj.com/articles/omers-to-invest-1-billion-in-allied-world-transaction-with-fairfax-1485534853?mod=yahoo_hs",
+        "pubDate": "Fri, 27 Jan 2017 16:34:57 GMT",
+        "source": "data\\FFH\\20170128.rss",
+        "title": "[$$] Omers to Invest $1 Billion in Allied World Transaction With Fairfax"
+    },
+    {
+        "contents": "data\\FFH\\20170128-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/1919257213",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13hfn8tqi/*http://www.bloomberg.com/news/articles/2017-01-27/omers-commits-to-invest-1-billion-to-back-watsa-s-allied-deal?cmpid=yhoo.headline",
+        "pubDate": "Fri, 27 Jan 2017 12:36:53 GMT",
+        "source": "data\\FFH\\20170128.rss",
+        "title": "OMERS Commits $1 Billion to Back Watsa\u2019s Allied Purchase"
     }
 ]

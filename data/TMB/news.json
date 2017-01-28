@@ -232,5 +232,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:07:08 GMT",
         "source": "data\\TMB\\20170126.rss",
         "title": "Q1 2017 Tembec Inc Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\TMB\\20170128-090516.news",
+        "description": null,
+        "guid": "yahoo_finance/4063655310",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tembec-reports-shareholders-voting-results-180000693.html",
+        "pubDate": "Fri, 27 Jan 2017 18:00:00 GMT",
+        "source": "data\\TMB\\20170128.rss",
+        "title": "Tembec reports on Shareholders' voting results for the election of Directors"
     }
 ]

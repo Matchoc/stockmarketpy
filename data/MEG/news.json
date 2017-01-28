@@ -295,5 +295,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:14:00 GMT",
         "source": "data\\MEG\\20170125.rss",
         "title": "IIROC Trading Halt - MEG.R"
+    },
+    {
+        "contents": "data\\MEG\\20170128-090602.news",
+        "description": null,
+        "guid": "yahoo_finance/3980794956",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/meg-energy-announces-successful-closing-142339113.html",
+        "pubDate": "Fri, 27 Jan 2017 14:23:39 GMT",
+        "source": "data\\MEG\\20170128.rss",
+        "title": "MEG Energy announces successful closing of previously announced comprehensive refinancing plan"
     }
 ]

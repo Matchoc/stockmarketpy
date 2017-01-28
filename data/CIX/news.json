@@ -349,5 +349,14 @@
         "pubDate": "Thu, 12 Mar 2015 16:28:45 GMT",
         "source": "data\\CIX\\20170127.rss",
         "title": "Aequitas raises additional funds ahead of stock exchange launch"
+    },
+    {
+        "contents": "data\\CIX\\20170128-090747.news",
+        "description": "[CNW Group] - CI Financial announces earnings conference call and webcast",
+        "guid": "yahoo_finance/3332899699",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ci-financial-announces-earnings-conference-214700967.html",
+        "pubDate": "Fri, 27 Jan 2017 21:47:00 GMT",
+        "source": "data\\CIX\\20170128.rss",
+        "title": "CI Financial announces earnings conference call and webcast"
     }
 ]

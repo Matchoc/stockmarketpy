@@ -556,5 +556,14 @@
         "pubDate": "Wed, 25 Jan 2017 13:12:54 GMT",
         "source": "data\\K\\20170125.rss",
         "title": "Kinross Gold Soared 65% in 2016, but It Still Looks Cheap"
+    },
+    {
+        "contents": "data\\K\\20170128-090202.news",
+        "description": null,
+        "guid": "yahoo_finance/4215159175",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12f6nc8n0/*http://marketrealist.com/2017/01/senior-gold-miners-can-re-rate-4q16-results/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 17:05:57 GMT",
+        "source": "data\\K\\20170128.rss",
+        "title": "Which Senior Gold Miners Could Re-Rate after Their 4Q16 Results?"
     }
 ]

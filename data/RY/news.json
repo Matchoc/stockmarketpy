@@ -1159,5 +1159,23 @@
         "pubDate": "Tue, 24 Jan 2017 18:06:21 GMT",
         "source": "data\\RY\\20170125.rss",
         "title": "ETFs with exposure to Royal Bank of Canada : January 24, 2017"
+    },
+    {
+        "contents": "data\\RY\\20170128-091056.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 27, 2017 /CNW/ - Royal Bank of Canada (RBC) (\"RY\" on TSX and NYSE) today announced that the Toronto Stock Exchange (\"TSX\") has accepted RBC's amended notice of intention to make a Normal Course Issuer Bid. The notice has been amended to permit the repurchase by RBC of its common shares pursuant to issuer bid exemption orders issued by securities regulatory authorities including under specific share repurchase programs. RBC also announced that it will repurchase common shares under a specific share repurchase program (the \"Program\").",
+        "guid": "yahoo_finance/260076302",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/royal-bank-canada-announces-specific-225200270.html",
+        "pubDate": "Fri, 27 Jan 2017 22:52:00 GMT",
+        "source": "data\\RY\\20170128.rss",
+        "title": "Royal Bank of Canada announces specific share repurchase program as part of its Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\RY\\20170128-091057.news",
+        "description": "[CNW Group] - Royal Bank of Canada announces specific share repurchase program as part of its Normal Course Issuer Bid",
+        "guid": "yahoo_finance/2032110671",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/royal-bank-canada-announces-specific-225200185.html",
+        "pubDate": "Fri, 27 Jan 2017 22:52:00 GMT",
+        "source": "data\\RY\\20170128.rss",
+        "title": "Royal Bank of Canada announces specific share repurchase program as part of its Normal Course Issuer Bid"
     }
 ]

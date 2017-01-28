@@ -403,5 +403,14 @@
         "pubDate": "Thu, 26 Jan 2017 17:41:21 GMT",
         "source": "data\\AGI\\20170127.rss",
         "title": "Why Alamos Gold Stock Tumbled 13% on Thursday"
+    },
+    {
+        "contents": "data\\AGI\\20170128-090755.news",
+        "description": null,
+        "guid": "yahoo_finance/3524638499",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=130dni3bm/*http://marketrealist.com/2017/01/reading-the-upward-and-downward-correlation-of-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 14:08:02 GMT",
+        "source": "data\\AGI\\20170128.rss",
+        "title": "Reading the Upward and Downward Correlation of Mining Stocks"
     }
 ]

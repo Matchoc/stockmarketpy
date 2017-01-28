@@ -421,5 +421,23 @@
         "pubDate": "Fri, 27 Jan 2017 01:10:00 GMT",
         "source": "data\\MFC\\20170127.rss",
         "title": "John Hancock Hedged Equity & Income Fund and John Hancock Financial Opportunities Fund Release Earnings Data"
+    },
+    {
+        "contents": "data\\MFC\\20170128-090146.news",
+        "description": null,
+        "guid": "yahoo_finance/2354926145",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=138bub417/*http://www.bloomberg.com/news/videos/2017-01-27/equities-rally-not-driven-by-trump-manulife-strategist?cmpid=yhoo.headline",
+        "pubDate": "Fri, 27 Jan 2017 22:28:31 GMT",
+        "source": "data\\MFC\\20170128.rss",
+        "title": "Equities Rally Not Driven By Trump: Manulife Strategist"
+    },
+    {
+        "contents": "data\\MFC\\20170128-090147.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 27, 2017 /PRNewswire/ -- John Hancock Financial the title sponsor of BOSTON, the first feature-length documentary film about the history of the iconic Boston Marathon, announced today it will partner with the Boston Athletic Association and WBZ-TV to sponsor the World Premiere of the film on April 15, 2017, at the Boch Center Wang Theatre. The special performance of the Boston Pops Esplanade Orchestra is underwritten by Owsley Brown Presents, in partnership with Worth Miller Productions. Additional sponsors of the Premiere include Clif Bar and Company and Poland Spring.",
+        "guid": "yahoo_finance/3578436827",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/world-premiere-boston-set-one-150000857.html",
+        "pubDate": "Fri, 27 Jan 2017 15:00:00 GMT",
+        "source": "data\\MFC\\20170128.rss",
+        "title": "World Premiere of BOSTON set for One Boston Day, April 15, 2017"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Mon, 23 Jan 2017 12:37:42 GMT",
         "source": "data\\SLW\\20170123.rss",
         "title": "Silver\u2019s Inflows: Gauging the January Rise"
+    },
+    {
+        "contents": "data\\SLW\\20170128-090027.news",
+        "description": null,
+        "guid": "yahoo_finance/1003149473",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=139ui9p2h/*http://marketrealist.com/2017/01/can-royalty-streaming-companies-maintain-premium-multiples-going-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
+        "source": "data\\SLW\\20170128.rss",
+        "title": "Can Royalty and Streaming Companies Maintain Premiums in 2017?"
     }
 ]

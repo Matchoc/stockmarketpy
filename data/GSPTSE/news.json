@@ -178,5 +178,14 @@
         "pubDate": "Mon, 30 Mar 2015 20:47:56 GMT",
         "source": "data\\GSPTSE\\20170125.rss",
         "title": "CANADA STOCKS-Surge in Catamaran shares helps TSX climb"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170128-090744.news",
+        "description": null,
+        "guid": "yahoo_finance/2467756573",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-falls-1-204542297.html",
+        "pubDate": "Wed, 25 Mar 2015 20:45:42 GMT",
+        "source": "data\\GSPTSE\\20170128.rss",
+        "title": "CANADA STOCKS-TSX falls 1 pct, energy is only rising sector"
     }
 ]

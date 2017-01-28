@@ -250,5 +250,14 @@
         "pubDate": "Thu, 26 Jan 2017 11:04:47 GMT",
         "source": "data\\AGU\\20170127.rss",
         "title": "Potash Corp. Profit Forecast Disappoints Amid Tough Markets"
+    },
+    {
+        "contents": "data\\AGU\\20170128-090244.news",
+        "description": "[Marketwired] - Agrium Inc. plans to release their fourth quarter earnings results on Thursday, February 9, 2017 after market close. The Company plans to host a conference call the following day, Friday, February 10, ...",
+        "guid": "yahoo_finance/985127451",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-announces-release-dates-fourth-210837952.html",
+        "pubDate": "Fri, 27 Jan 2017 21:08:37 GMT",
+        "source": "data\\AGU\\20170128.rss",
+        "title": "Agrium Announces Release Dates for Fourth Quarter 2016 Results and Conference Call"
     }
 ]

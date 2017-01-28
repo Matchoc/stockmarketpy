@@ -277,5 +277,32 @@
         "pubDate": "Thu, 26 Jan 2017 21:15:00 GMT",
         "source": "data\\CLS\\20170127.rss",
         "title": "Celestica Announces Fourth Quarter and Fiscal Year 2016 Financial Results"
+    },
+    {
+        "contents": "data\\CLS\\20170128-090427.news",
+        "description": null,
+        "guid": "yahoo_finance/1230946869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-dips-energy-221007068.html",
+        "pubDate": "Fri, 27 Jan 2017 22:10:07 GMT",
+        "source": "data\\CLS\\20170128.rss",
+        "title": "CANADA STOCKS-TSX dips as energy shares weigh; Celestica shines"
+    },
+    {
+        "contents": "data\\CLS\\20170128-090429.news",
+        "description": null,
+        "guid": "yahoo_finance/2648455743",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12k396gdt/*http://www.fool.com/investing/2017/01/27/why-shares-of-celestica-surged-today.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Fri, 27 Jan 2017 17:07:00 GMT",
+        "source": "data\\CLS\\20170128.rss",
+        "title": "Why Shares of Celestica Surged Today"
+    },
+    {
+        "contents": "data\\CLS\\20170128-090430.news",
+        "description": null,
+        "guid": "yahoo_finance/4120903866",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-lower-stocks-154637634.html",
+        "pubDate": "Fri, 27 Jan 2017 15:46:37 GMT",
+        "source": "data\\CLS\\20170128.rss",
+        "title": "CANADA STOCKS-TSX lower as resource stocks weigh; Celestica shines"
     }
 ]

@@ -349,5 +349,14 @@
         "pubDate": "Mon, 28 Mar 2016 20:22:36 GMT",
         "source": "data\\FR\\20170122.rss",
         "title": "Announces Updated La Encantada NI 43-101 Technical Report"
+    },
+    {
+        "contents": "data\\FR\\20170128-090730.news",
+        "description": null,
+        "guid": "yahoo_finance/2160638834",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=128ddkfdg/*http://marketrealist.com/2017/01/silver-miners-can-re-rate-enter-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 18:35:47 GMT",
+        "source": "data\\FR\\20170128.rss",
+        "title": "Which Silver Miners Could Re-Rate as We Enter 2017?"
     }
 ]

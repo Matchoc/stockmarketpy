@@ -250,5 +250,14 @@
         "pubDate": "Thu, 26 Jan 2017 16:05:00 GMT",
         "source": "data\\BMO\\20170127.rss",
         "title": "Two BMO Global Asset Management Funds Named to Schwab Mutual Fund OneSource Select List(R) for Q1 2017"
+    },
+    {
+        "contents": "data\\BMO\\20170128-090233.news",
+        "description": "[Marketwired] - With the new B.C. Home Owner Mortgage and Equity Partnership officially open to applicants - created to help first-time home buyers in the province with repayable assistance loans - BMO has announced a ...",
+        "guid": "yahoo_finance/1411123630",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-introduces-national-cash-incentive-151400532.html",
+        "pubDate": "Fri, 27 Jan 2017 15:14:00 GMT",
+        "source": "data\\BMO\\20170128.rss",
+        "title": "BMO Introduces National Cash Incentive Program for First-Time Home Buyers"
     }
 ]

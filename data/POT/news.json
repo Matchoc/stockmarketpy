@@ -1042,5 +1042,14 @@
         "pubDate": "Thu, 26 Jan 2017 11:04:47 GMT",
         "source": "data\\POT\\20170127.rss",
         "title": "Potash Corp. Profit Forecast Disappoints Amid Tough Markets"
+    },
+    {
+        "contents": "data\\POT\\20170128-090547.news",
+        "description": null,
+        "guid": "yahoo_finance/622701042",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=131mvcki8/*http://marketrealist.com/2017/01/earnings-review-potashcorp-ends-lower-following-4q16-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 27 Jan 2017 15:54:17 GMT",
+        "source": "data\\POT\\20170128.rss",
+        "title": "PotashCorp Reports 4Q16 Earnings: Stock Falls 3%"
     }
 ]

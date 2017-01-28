@@ -457,5 +457,23 @@
         "pubDate": "Fri, 27 Jan 2017 10:00:00 GMT",
         "source": "data\\QSR\\20170127.rss",
         "title": "Restaurant Brands International Inc. Announces Master Franchise Joint Venture to Launch the Tim Hortons\u00ae Brand in Mexico"
+    },
+    {
+        "contents": "data\\QSR\\20170128-090010.news",
+        "description": null,
+        "guid": "yahoo_finance/815660335",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-icon-tim-hortons-expanding-162013314.html",
+        "pubDate": "Fri, 27 Jan 2017 21:02:53 GMT",
+        "source": "data\\QSR\\20170128.rss",
+        "title": "Canadian icon Tim Hortons is expanding into Mexico"
+    },
+    {
+        "contents": "data\\QSR\\20170128-090011.news",
+        "description": null,
+        "guid": "yahoo_finance/3220395322",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-icon-tim-hortons-expanding-162013702.html",
+        "pubDate": "Fri, 27 Jan 2017 21:02:53 GMT",
+        "source": "data\\QSR\\20170128.rss",
+        "title": "Canadian icon Tim Hortons is expanding into Mexico"
     }
 ]

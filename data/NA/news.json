@@ -484,5 +484,14 @@
         "pubDate": "Tue, 24 Jan 2017 17:48:18 GMT",
         "source": "data\\NA\\20170125.rss",
         "title": "ETFs with exposure to National Bank of Canada : January 24, 2017"
+    },
+    {
+        "contents": "data\\NA\\20170128-090038.news",
+        "description": null,
+        "guid": "yahoo_finance/409906936",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/national-bank-employees-retirees-3-174400901.html",
+        "pubDate": "Fri, 27 Jan 2017 17:44:00 GMT",
+        "source": "data\\NA\\20170128.rss",
+        "title": "National Bank employees and retirees make a $3.39 million donation to United Way/Centraide"
     }
 ]

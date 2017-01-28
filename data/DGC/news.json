@@ -358,5 +358,14 @@
         "pubDate": "Mon, 25 Jan 2016 12:27:21 GMT",
         "source": "data\\DGC\\20170122.rss",
         "title": "Detour Gold Provides New Life of Mine Plan for Detour Lake"
+    },
+    {
+        "contents": "data\\DGC\\20170128-090345.news",
+        "description": null,
+        "guid": "yahoo_finance/2257291382",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/detour-gold-provides-notice-fourth-175124297.html",
+        "pubDate": "Fri, 27 Jan 2017 17:51:24 GMT",
+        "source": "data\\DGC\\20170128.rss",
+        "title": "Detour Gold Provides Notice of Fourth Quarter and Full Year 2016 Operating Results and 2017 Guidance"
     }
 ]

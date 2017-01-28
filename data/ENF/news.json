@@ -196,5 +196,14 @@
         "pubDate": "Tue, 24 Jan 2017 16:00:00 GMT",
         "source": "data\\ENF\\20170125.rss",
         "title": "Alliance Puts Safety First with Two New Community Investment Initiatives"
+    },
+    {
+        "contents": "data\\ENF\\20170128-090934.news",
+        "description": "[Marketwired] - Enbridge Inc. and Enbridge Income Fund Holdings Inc. will host a joint webcast conference call to discuss their 2016 fourth quarter and year end results on Friday, February 17, 2017.",
+        "guid": "yahoo_finance/4215320569",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-inc-enbridge-income-fund-221500325.html",
+        "pubDate": "Fri, 27 Jan 2017 22:15:00 GMT",
+        "source": "data\\ENF\\20170128.rss",
+        "title": "Enbridge Inc. and Enbridge Income Fund Holdings Inc. to Webcast 2016 Fourth Quarter and Year End Financial Results"
     }
 ]

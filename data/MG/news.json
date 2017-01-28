@@ -187,5 +187,14 @@
         "pubDate": "Wed, 25 Jan 2017 20:38:19 GMT",
         "source": "data\\MG\\20170125.rss",
         "title": "New startup investments aim to stem Canadian tech brain drain"
+    },
+    {
+        "contents": "data\\MG\\20170128-091402.news",
+        "description": null,
+        "guid": "yahoo_finance/4114654491",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=12mq1l93n/*http://www.barrons.com/articles/magna-international-shares-priced-to-move-1485582270?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Sat, 28 Jan 2017 05:01:00 GMT",
+        "source": "data\\MG\\20170128.rss",
+        "title": "[$$] Magna International Shares: Priced to Move"
     }
 ]

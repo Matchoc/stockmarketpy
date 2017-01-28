@@ -196,5 +196,59 @@
         "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
         "source": "data\\RRX\\20170127.rss",
         "title": "Research Reports Initiated on Energy Stocks Paramount Resources, Raging River Exploration, Freehold Royalties, and Petrus Resources"
+    },
+    {
+        "contents": "data\\RRX\\20170128-090107.news",
+        "description": null,
+        "guid": "yahoo_finance/201678579",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13h97vb0u/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-raging-river-exploration-inc-september-12-2016/",
+        "pubDate": "Mon, 12 Sep 2016 15:40:22 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "ETF\u2019s with exposure to Raging River Exploration, Inc. : September 12, 2016"
+    },
+    {
+        "contents": "data\\RRX\\20170128-090111.news",
+        "description": "[at noodls] - August 11, 2016 RAGING RIVER EXPLORATION INC. ANNOUNCES SECOND QUARTER 2016 OPERATING AND FINANCIAL RESULTS CALGARY, ALBERTA - Raging River Exploration Inc. (the \"Company\" or \"Raging River\") ...",
+        "guid": "yahoo_finance/2066454870",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lt34gq/*http://www.publicnow.com/view/F3D89D67653DC25D520EDF7E74A62F3F4DAB04F2",
+        "pubDate": "Fri, 12 Aug 2016 03:31:06 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "Announces Second Quarter 2016 Operating and Financial Results"
+    },
+    {
+        "contents": "data\\RRX\\20170128-090111.news",
+        "description": "[at noodls] - _ July 21, 2016 RAGING RIVER EXPLORATION INC. ANNOUNCES CLOSING OF CORPORATE ACQUISITION OF ROCK ENERGY INC. ... This is an abstract of the original noodl. To continue reading this document, click here ...",
+        "guid": "yahoo_finance/2169384290",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128l5tadc/*http://www.publicnow.com/view/1A9F7D3920EC6BB9ABCCDB326F0EBD3007C692B7",
+        "pubDate": "Fri, 22 Jul 2016 14:48:05 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "Announces Closing of Corporate Acquisition of Rock Energy Inc."
+    },
+    {
+        "contents": "data\\RRX\\20170128-090112.news",
+        "description": "[at noodls] - _ June 6, 2016 RAGING RIVER EXPLORATION INC. TO HIGHLIGHT 2016 CAPITAL PLAN CALGARY, ALBERTA (June 6, 2016) Raging River Exploration Inc. (\"Raging River\" or the \"Company\") (TSX:RRX) ...",
+        "guid": "yahoo_finance/749755752",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128f7k03a/*http://www.publicnow.com/view/B7BE9897656386B441C8B34243857BDDA2230B81",
+        "pubDate": "Tue, 07 Jun 2016 15:38:06 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "Highlights 2016 Capital Plan"
+    },
+    {
+        "contents": "data\\RRX\\20170128-090112.news",
+        "description": "[at noodls] - _ May 31, 2016 RAGING RIVER EXPLORATION INC. ANNOUNCES CORPORATE ACQUISITION OF ROCK ENERGY INC. ... This is an abstract of the original noodl. To continue reading this document, click here for the original ...",
+        "guid": "yahoo_finance/3300300230",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uk5lok/*http://www.publicnow.com/view/1E4CFDBA1BCD976F4D082DDCC12E9C0C78F7E704",
+        "pubDate": "Wed, 01 Jun 2016 16:15:03 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "Announces Corporate Acquisition of Rock Energy Inc."
+    },
+    {
+        "contents": "data\\RRX\\20170128-090112.news",
+        "description": "[at noodls] - ddb5fa65-df86-4b1c-80c0-294933655720.pdf May 9, 2016 RAGING RIVER EXPLORATION INC. ANNOUNCES FIRST QUARTER OPERATING AND FINANCIAL RESULTS AND INCREASED GUIDANCE AND REAFFIRMS CREDIT FACILITY CALGARY, ...",
+        "guid": "yahoo_finance/3291303491",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1285brv3l/*http://www.publicnow.com/view/3759777C01B704E05DE93B096A54E4DE960A93A0",
+        "pubDate": "Tue, 10 May 2016 13:18:06 GMT",
+        "source": "data\\RRX\\20170128.rss",
+        "title": "Announces First Quarter Operating and Financial Results and Increased Guidance and Reaffirms Credit Facility"
     }
 ]
