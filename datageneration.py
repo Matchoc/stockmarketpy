@@ -13,6 +13,9 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = "data"
 RSS_FEED_FILENAME = os.path.join(DATA_FOLDER, "news_link.json")
 
+def get_combined_technicals_json():
+	return os.path.join(DATA_FOLDER, "technicals.json")
+
 def get_training_json(symbol):
 	return os.path.join(DATA_FOLDER, symbol, "training.json")
 

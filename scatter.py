@@ -31,6 +31,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
 
+#https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.quotes%20where%20symbol%20in%20(%22YHOO%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=
 #http://download.finance.yahoo.com/d/quotes.csv?s=AAPL&f=nl1r&e=.csv
 #a Ask
 #a2 Average Daily Volume
@@ -122,6 +123,8 @@ from sklearn.metrics import label_ranking_average_precision_score
 #x 	Stock Exchange
 #y 	Dividend Yield
 
+YAHOO_URL = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.quotes%20where%20symbol%20in%20(%22{}%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback="
+
 PRINT_LEVEL=1
 def myprint(msg, level=0):
 	if (level >= PRINT_LEVEL):
@@ -150,12 +153,42 @@ def get_basic_data(symbol, data):
 def run_symbol(steps, symbol, data):
 	pass
 	
-def run_all_symbols(steps):
+def get_yahoo_data(symbols):
+	agregate_symbol = [symbol + ".to" for symbol in symbols]
+	num_symbol = len(agregate_symbol)
+	step = 50
+	results = []
+	for i in range(0, num_symbol, step):
+		formated_url = YAHOO_URL.format(",".join(agregate_symbol[i:i + step]))
+		text = downloadURL(formated_url)
+		jsontext = json.loads(text)
+		results.append(jsontext)
+		
+	final_result = {}
+	for result in results:
+		quote_list = result["query"]["results"]["quote"]
+		for quote in quote_list:
+			symbol = quote["symbol"]
+			final_result[symbol] = quote
+			
+	return final_result
+	
+def save_technicals(technicals):
+	filename = get_combined_technicals_json()
+	with open(filename, 'w') as fo:
+		json.dump(technicals, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
+	
+def run_all_symbols(steps = ["dltechnicals"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
 	count = 0
 	data = {}
+	if "dltechnicals" in steps:
+		technicals = get_yahoo_data(list(links.keys()))
+		save_technicals(technicals)
+		
 	for symbol in links:
 		count += 1
 		data[symbol] = {}
@@ -163,9 +196,25 @@ def run_all_symbols(steps):
 		run_symbol(steps, symbol, data)
 		
 	return data
+			
+def data_available_for_all():
+	technicalspath = get_combined_technicals_json()
+	with open(technicalspath, 'r') as jsonfile:
+		technicals = json.load(jsonfile)
 		
+	alldata = {}
+	for symbol in technicals:
+		for data in technicals[symbol]:
+			if technicals[symbol][data] is not None and data not in alldata:
+				alldata[data] = 1
+	
+	as_string = json.dumps(alldata, sort_keys=True,
+		indent=4, separators=(',', ': '))
+		
+	myprint(as_string, 5)
 	
 if __name__ == '__main__':
-	run_all_symbols([])
+	#run_all_symbols([])
+	data_available_for_all()
 	
 	myprint("done", 5)
