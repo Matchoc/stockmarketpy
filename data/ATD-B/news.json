@@ -313,5 +313,23 @@
         "pubDate": "Mon, 25 Jan 2016 23:07:18 GMT",
         "source": "data\\ATD-B\\20170119.rss",
         "title": "Couche-Tard Welcomes Claude Tessier as Chief Financial Officer"
+    },
+    {
+        "contents": "data\\ATD-B\\20170129-090839.news",
+        "description": null,
+        "guid": "yahoo_finance/227008409",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13lcht2b5/*http://www.capitalcube.com/blog/index.php/alimentation-couche-tard-inc-value-analysis-torontoatd-b-january-27-2017/",
+        "pubDate": "Fri, 27 Jan 2017 18:29:51 GMT",
+        "source": "data\\ATD-B\\20170129.rss",
+        "title": "Alimentation Couche-Tard, Inc. \u2013 Value Analysis (TORONTO:ATD.B) : January 27, 2017"
+    },
+    {
+        "contents": "data\\ATD-B\\20170129-090840.news",
+        "description": null,
+        "guid": "yahoo_finance/167613011",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14paur5ev/*http://www.capitalcube.com/blog/index.php/alimentation-couche-tard-inc-breached-its-50-day-moving-average-in-a-bearish-manner-atd-b-ca-january-26-2017/",
+        "pubDate": "Thu, 26 Jan 2017 14:14:16 GMT",
+        "source": "data\\ATD-B\\20170129.rss",
+        "title": "Alimentation Couche-Tard, Inc. breached its 50 day moving average in a Bearish Manner : ATD.B-CA : January 26, 2017"
     }
 ]

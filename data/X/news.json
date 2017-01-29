@@ -187,5 +187,212 @@
         "pubDate": "Tue, 24 Jan 2017 13:53:18 GMT",
         "source": "data\\X\\20170124.rss",
         "title": "TMX Group Ltd. breached its 50 day moving average in a Bearish Manner : X-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\X\\20170129-091702.news",
+        "description": null,
+        "guid": "yahoo_finance/1461880968",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-equity-financing-statistics-150500269.html",
+        "pubDate": "Wed, 07 Dec 2016 15:05:00 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Equity Financing Statistics - November 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091703.news",
+        "description": null,
+        "guid": "yahoo_finance/1131280869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-consolidated-trading-statistics-193000442.html",
+        "pubDate": "Mon, 05 Dec 2016 19:30:00 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Consolidated Trading Statistics - November 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091705.news",
+        "description": null,
+        "guid": "yahoo_finance/268230407",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-consolidated-trading-statistics-193000332.html",
+        "pubDate": "Mon, 05 Dec 2016 19:30:00 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Consolidated Trading Statistics - November 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091707.news",
+        "description": "[at noodls] - November 30, 2016 (TORONTO) - Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange and Montr\u00e9al Exchange will be closed on Monday, December 26, 2016 in lieu of Christmas Day on Sunday, December ...",
+        "guid": "yahoo_finance/2754407957",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128itdmho/*http://www.publicnow.com/view/2D03CB39FABF0F166B2086D03E137E1FDC5DDAF2",
+        "pubDate": "Thu, 01 Dec 2016 15:22:47 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Holiday Operating Schedule"
+    },
+    {
+        "contents": "data\\X\\20170129-091708.news",
+        "description": null,
+        "guid": "yahoo_finance/552767497",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-insights-announces-alliance-velocity-133000034.html",
+        "pubDate": "Thu, 01 Dec 2016 13:30:00 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Insights Announces Alliance with Velocity Trade for TMX Analytics"
+    },
+    {
+        "contents": "data\\X\\20170129-091709.news",
+        "description": null,
+        "guid": "yahoo_finance/2711241481",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-insights-announces-alliance-velocity-133000984.html",
+        "pubDate": "Thu, 01 Dec 2016 13:30:00 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Insights Announces Alliance with Velocity Trade for TMX Analytics"
+    },
+    {
+        "contents": "data\\X\\20170129-091711.news",
+        "description": null,
+        "guid": "yahoo_finance/4215780940",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bitcoin-guru-leaves-canadas-tsx-022009522.html",
+        "pubDate": "Tue, 29 Nov 2016 02:20:09 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "Bitcoin guru leaves Canada's TSX to focus on blockchain venture"
+    },
+    {
+        "contents": "data\\X\\20170129-091713.news",
+        "description": "[at noodls] - November 21, 2016 (TORONTO) - TMX Group welcomes today's announcement that the Commissioner of Competition has discontinued his investigation into allegations that TMX Group engaged in conduct contrary ...",
+        "guid": "yahoo_finance/3293403056",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128v8o3h3/*http://www.publicnow.com/view/B4F4709C19BCA6253CF81648DF594B2A8139BA25",
+        "pubDate": "Mon, 21 Nov 2016 23:12:09 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Statement on Competition Bureau Announcement"
+    },
+    {
+        "contents": "data\\X\\20170129-091713.news",
+        "description": "[at noodls] - November 8, 2016 (TORONTO) - TMX Group today announced its financing activity on Toronto Stock Exchange and TSX Venture Exchange for October 2016. ... This is an abstract of the original noodl. To continue ...",
+        "guid": "yahoo_finance/1443760261",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jdu29h/*http://www.publicnow.com/view/6102EAEB38E295586840C4FD107D4295465E2D12",
+        "pubDate": "Tue, 08 Nov 2016 19:57:42 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Equity Financing Statistics \u2013 October 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091713.news",
+        "description": "[at noodls] - November 3, 2016 (TORONTO) - The Board of Directors of TMX Group Limited declared a dividend of $0.45 on each common share outstanding, a 12.5% increase from the previous $0.40 per common share. This dividend ...",
+        "guid": "yahoo_finance/1364974152",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282f2bh4/*http://www.publicnow.com/view/24058AF874A8E6736AE4E9091F20CE314863D1B9",
+        "pubDate": "Fri, 04 Nov 2016 02:06:03 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Limited Increases Dividend to $0.45 per Common Share"
+    },
+    {
+        "contents": "data\\X\\20170129-091713.news",
+        "description": "[at noodls] - November 3, 2016 (TORONTO) - TMX Group Limited ('TMX Group') today announced results for the third quarter ended September 30, 2016. ... This is an abstract of the original noodl. To continue ...",
+        "guid": "yahoo_finance/1430505803",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12832djs9/*http://www.publicnow.com/view/BDEBA185A60CF1FE2C7825C9092E57E21743F29B",
+        "pubDate": "Fri, 04 Nov 2016 01:56:09 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Limited Reports Results for the Third Quarter 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - November 3, 2016 (TORONTO) - TMX Group Limited today announced October 2016 trading statistics for its marketplaces - Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange (Alpha), Montr\u00e9al ...",
+        "guid": "yahoo_finance/2680692123",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289bk7bu/*http://www.publicnow.com/view/CBC79D98498D35EA5E5E9CBC769F55A88BBA32E4",
+        "pubDate": "Thu, 03 Nov 2016 20:21:50 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Consolidated Trading Statistics - October 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - Canada's Markets lead industry efforts to align ticker symbol conventions with U.S. ... This is an abstract of the original noodl. To continue reading this document, click here for the original version....",
+        "guid": "yahoo_finance/1298129268",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289slhjg/*http://www.publicnow.com/view/499500373E9CFFE94CE3BF1E6EAA0309852DD197",
+        "pubDate": "Wed, 02 Nov 2016 16:30:11 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Introduces Four Letter Trading Symbols"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - New e-commerce platform showcases premium analytics and applications November 1, 2016 (TORONTO) - TMX Market Insights today announced the launch of TMX Webstore, a new digital e-commerce platform featuring ...",
+        "guid": "yahoo_finance/2447356153",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bcl3pj/*http://www.publicnow.com/view/8879BF794047A33AED285446521B9B854B28380A",
+        "pubDate": "Tue, 01 Nov 2016 13:55:09 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "Introducing TMX Webstore"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - October 7, 2016 (TORONTO) - TMX Group today announced its financing activity on Toronto Stock Exchange and TSX Venture Exchange for September 2016. ... This is an abstract of the original noodl. To continue ...",
+        "guid": "yahoo_finance/2762688719",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12877h029/*http://www.publicnow.com/view/152F83D306AA3456FF6DEE5ED2F278B291E5AE96",
+        "pubDate": "Fri, 07 Oct 2016 14:39:05 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Equity Financing Statistics \u2013 September 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - October 5, 2016 (TORONTO) - TMX Group Limited today announced September 2016 trading statistics for its marketplaces - Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange (Alpha), Montr\u00e9al ...",
+        "guid": "yahoo_finance/377118079",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128agfnrn/*http://www.publicnow.com/view/8850A8DFF5D1C298B6D53477B7D3DDD27C3A6964",
+        "pubDate": "Wed, 05 Oct 2016 18:18:04 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Consolidated Trading Statistics - September 2016"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - Toronto Stock Exchange's new mutual fund solution continues to build on industry momentum October 5, 2016 (TORONTO) - TSX NAVex, Toronto Stock Exchange's unique centralized mutual fund solution, today ...",
+        "guid": "yahoo_finance/1385952959",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uod4kd/*http://www.publicnow.com/view/90883A71131A610C44603A8CD2AF873F35366EFE",
+        "pubDate": "Wed, 05 Oct 2016 14:08:06 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TSX NAVex Signs on Mutual Fund Provider"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - October 5, 2016 (TORONTO) - TMX Group Limited will announce its financial results for the third quarter ended September 30, 2016 in the evening of Thursday, November 3, 2016. An analyst conference call ...",
+        "guid": "yahoo_finance/291685248",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tssnms/*http://www.publicnow.com/view/F0DE4024D4A6D9884C783F21F46F0CDFCA32A198",
+        "pubDate": "Wed, 05 Oct 2016 12:38:07 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Limited announces release date for Q3 2016 financial results and analyst conference call"
+    },
+    {
+        "contents": "data\\X\\20170129-091714.news",
+        "description": "[at noodls] - Investment community leaders meet to explore ways to close Canada's innovation growth funding gap TORONTO, October 4, 2016 - TMX Group today announced the members of the Advancing Innovation Roundtable, ...",
+        "guid": "yahoo_finance/3145523921",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128avma85/*http://www.publicnow.com/view/A0BD720EE48AA88F68DF0059F16C994170183D63",
+        "pubDate": "Tue, 04 Oct 2016 13:08:05 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "Advancing Innovation Roundtable Takes Shape"
+    },
+    {
+        "contents": "data\\X\\20170129-091715.news",
+        "description": "[at noodls] - October 3, 2016 (TORONTO/VANCOUVER) - Toronto Stock Exchange (TSX) today welcomes Aritzia Inc. (Aritzia) to Canada's leading equities exchange. The Vancouver-based clothing retailer began trading on TSX ...",
+        "guid": "yahoo_finance/3429758626",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ihhlms/*http://www.publicnow.com/view/712FFED939C724BBC180A7FF4B4DABAC7D7DCEC7",
+        "pubDate": "Mon, 03 Oct 2016 17:56:03 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TSX Welcomes Aritzia"
+    },
+    {
+        "contents": "data\\X\\20170129-091716.news",
+        "description": "[at noodls] - October 3, 2016 (TORONTO) - Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange and Montr\u00e9al Exchange will be closed on Monday, October 10, 2016 for the Thanksgiving holiday. NGX natural gas ...",
+        "guid": "yahoo_finance/2271168153",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1283qb01v/*http://www.publicnow.com/view/48A0D2F2268CC1E0CF284EB173460BF98B34FF40",
+        "pubDate": "Mon, 03 Oct 2016 12:46:02 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "TMX Group Thanksgiving Holiday Market Closures"
+    },
+    {
+        "contents": "data\\X\\20170129-091718.news",
+        "description": "[at noodls] - Montr\u00e9al Exchange to relocate to Deloitte Tower in city's burgeoning Quad Windsor district MONTREAL, Quebec - September 29, 2016 - Cadillac Fairview and TMX Group are proud to announce today the signing ...",
+        "guid": "yahoo_finance/3324455885",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128jb2oqt/*http://www.publicnow.com/view/459F797D0F4A59A55D1B17470C4A58FCC1776B5C",
+        "pubDate": "Thu, 29 Sep 2016 13:20:11 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "Cadillac Fairview and TMX Group announce lease agreement in Montr\u00e9al"
+    },
+    {
+        "contents": "data\\X\\20170129-091718.news",
+        "description": null,
+        "guid": "yahoo_finance/3555008250",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-tsx-hires-bitcoin-guru-211816121.html",
+        "pubDate": "Fri, 04 Mar 2016 21:18:16 GMT",
+        "source": "data\\X\\20170129.rss",
+        "title": "Canada's TSX hires Bitcoin guru, studies currency's technology"
     }
 ]

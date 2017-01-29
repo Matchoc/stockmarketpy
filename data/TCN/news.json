@@ -313,5 +313,14 @@
         "pubDate": "Wed, 30 Mar 2016 21:36:10 GMT",
         "source": "data\\TCN\\20170119.rss",
         "title": "Tricon Announces Completion of Faria Preserve Land Sale"
+    },
+    {
+        "contents": "data\\TCN\\20170129-090538.news",
+        "description": null,
+        "guid": "yahoo_finance/3206355664",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13atre8mk/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-tricon-capital-group-inc-august-17-2016/",
+        "pubDate": "Wed, 17 Aug 2016 17:26:13 GMT",
+        "source": "data\\TCN\\20170129.rss",
+        "title": "ETF\u2019s with exposure to Tricon Capital Group, Inc. : August 17, 2016"
     }
 ]

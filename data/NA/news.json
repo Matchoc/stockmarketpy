@@ -493,5 +493,14 @@
         "pubDate": "Fri, 27 Jan 2017 17:44:00 GMT",
         "source": "data\\NA\\20170128.rss",
         "title": "National Bank employees and retirees make a $3.39 million donation to United Way/Centraide"
+    },
+    {
+        "contents": "data\\NA\\20170129-091551.news",
+        "description": null,
+        "guid": "yahoo_finance/2397542362",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/national-bank-donates-15-000-183400773.html",
+        "pubDate": "Sat, 28 Jan 2017 18:34:00 GMT",
+        "source": "data\\NA\\20170129.rss",
+        "title": "National Bank Donates $15,000 to Assist Victims on the Acadian Peninsula"
     }
 ]

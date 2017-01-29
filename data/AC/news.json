@@ -349,5 +349,23 @@
         "pubDate": "Thu, 26 Jan 2017 14:11:09 GMT",
         "source": "data\\AC\\20170127.rss",
         "title": "Air Canada breached its 50 day moving average in a Bullish Manner : AC-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\AC\\20170129-091209.news",
+        "description": "[Reuters] - OTTAWA/TORONTO, Jan 28 (Reuters) - Prime Minister Justin Trudeau welcomed those fleeing war and persecution on Saturday even as Canadian airlines said they would turn back U.S.-bound passengers to comply with an immigration ban on people from seven Muslim-majority countries. In pointed tweets a day after U.S. President Donald Trump put a four-month hold on allowing refugees into the United States and temporarily barred travellers from the seven countries, Trudeau said refugees were welcome in Canada.",
+        "guid": "yahoo_finance/4175301558",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-trudeau-welcomes-refugees-u-005251827.html",
+        "pubDate": "Sun, 29 Jan 2017 04:21:04 GMT",
+        "source": "data\\AC\\20170129.rss",
+        "title": "Canada's Trudeau welcomes refugees; U.S.-bound passengers turned away"
+    },
+    {
+        "contents": "data\\AC\\20170129-091211.news",
+        "description": "[Reuters] - OTTAWA/TORONTO, Jan 28 (Reuters) - Prime Minister Justin Trudeau welcomed those fleeing war and persecution on Saturday even as Canadian airlines said they would turn back U.S.-bound passengers to comply with an immigration ban on people from seven Muslim-majority countries. A day after U.S. President Donald Trump put a four-month hold on allowing refugees into the United States and temporarily barred travellers from the seven countries, Trudeau said in a tweet: \"To those fleeing persecution, terror & war, Canadians will welcome you, regardless of your faith.",
+        "guid": "yahoo_finance/2145184911",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-westjet-turns-back-u-193528917.html",
+        "pubDate": "Sat, 28 Jan 2017 22:11:23 GMT",
+        "source": "data\\AC\\20170129.rss",
+        "title": "Canada's Trudeau welcomes refugees, airline rejects U.S.-bound passenger"
     }
 ]

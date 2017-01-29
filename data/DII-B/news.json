@@ -277,5 +277,23 @@
         "pubDate": "Fri, 13 Feb 2015 16:51:12 GMT",
         "source": "data\\DII-B\\20170124.rss",
         "title": "As popularity of golf wanes, fund managers bet on cycling"
+    },
+    {
+        "contents": "data\\DII-B\\20170129-090718.news",
+        "description": null,
+        "guid": "yahoo_finance/3028827413",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13di4sa8a/*http://www.capitalcube.com/blog/index.php/dorel-industries-inc-value-analysis-torontodii-b-january-11-2017/",
+        "pubDate": "Wed, 11 Jan 2017 15:43:42 GMT",
+        "source": "data\\DII-B\\20170129.rss",
+        "title": "Dorel Industries, Inc. \u2013 Value Analysis (TORONTO:DII.B) : January 11, 2017"
+    },
+    {
+        "contents": "data\\DII-B\\20170129-090718.news",
+        "description": null,
+        "guid": "yahoo_finance/875837651",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hel73fc/*http://www.capitalcube.com/blog/index.php/dorel-industries-inc-breached-its-50-day-moving-average-in-a-bearish-manner-dii-b-ca-january-10-2017/",
+        "pubDate": "Tue, 10 Jan 2017 14:20:12 GMT",
+        "source": "data\\DII-B\\20170129.rss",
+        "title": "Dorel Industries, Inc. breached its 50 day moving average in a Bearish Manner : DII.B-CA : January 10, 2017"
     }
 ]

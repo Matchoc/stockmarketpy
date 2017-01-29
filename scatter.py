@@ -178,6 +178,11 @@ def save_technicals(technicals):
 	with open(filename, 'w') as fo:
 		json.dump(technicals, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
+	timestr = strftime("%Y%m%d-%H%M%S")
+	historical_filename = timestr + "-" + filename
+	with open(historical_filename, 'w') as fo:
+		json.dump(technicals, fo, sort_keys=True,
+		indent=4, separators=(',', ': '))
 	
 def run_all_symbols(steps = ["dltechnicals"]):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
@@ -324,7 +329,27 @@ def data_available_for_all():
 	myprint(as_string, 5)
 	
 if __name__ == '__main__':
-	generate_plot("BookValue", datetime.timedelta(weeks=52))
+	desired_features = [
+		"AverageDailyVolume",
+		"BookValue",
+		"DividendShare",
+		"DividendYield",
+		"EBITDA",
+		"EPSEstimateCurrentYear",
+		"EPSEstimateNextQuarter",
+		"EarningsShare",
+		"FiftydayMovingAverage",
+		"MarketCapitalization",
+		"PEGRatio",
+		"PERatio",
+		"PriceBook",
+		"PriceEPSEstimateCurrentYear",
+		"PriceEPSEstimateNextYear",
+		"PriceSales",
+		"ShortRatio",
+		"TwoHundreddayMovingAverage"
+	]
+	#generate_plot("BookValue", datetime.timedelta(weeks=52))
 	#generate_plot("FiftydayMovingAverage", datetime.timedelta(days=50))
 	#run_all_symbols([])
 	#data_available_for_all()

@@ -673,5 +673,23 @@
         "pubDate": "Wed, 25 Jan 2017 15:51:03 GMT",
         "source": "data\\CM\\20170125.rss",
         "title": "Top Ranked Income Stocks to Buy for January 25th"
+    },
+    {
+        "contents": "data\\CM\\20170129-090635.news",
+        "description": "[CNW Group] - CIBC partners with Immigration, Refugees and Citizenship Canada to celebrate Canada's and CIBC's shared 150th birthday",
+        "guid": "yahoo_finance/1390919987",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibc-partners-immigration-refugees-citizenship-160000627.html",
+        "pubDate": "Sat, 28 Jan 2017 16:00:00 GMT",
+        "source": "data\\CM\\20170129.rss",
+        "title": "CIBC partners with Immigration, Refugees and Citizenship Canada to celebrate Canada's and CIBC's shared 150th birthday"
+    },
+    {
+        "contents": "data\\CM\\20170129-090636.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 28, 2017 /CNW/ - CIBC (CM) (CM) co-hosted a Canadian Citizenship ceremony today in partnership with Immigration, Refugees and Citizenship Canada (IRCC), serving as the launch pad for a year-long collaboration between the two organizations. Today's citizenship ceremony was one of several that CIBC will co-host with IRCC in 2017 across Canada.",
+        "guid": "yahoo_finance/2854844993",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibc-partners-immigration-refugees-citizenship-160000395.html",
+        "pubDate": "Sat, 28 Jan 2017 16:00:00 GMT",
+        "source": "data\\CM\\20170129.rss",
+        "title": "CIBC partners with Immigration, Refugees and Citizenship Canada to celebrate Canada's and CIBC's shared 150th birthday"
     }
 ]
