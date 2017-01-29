@@ -196,7 +196,117 @@ def run_all_symbols(steps = ["dltechnicals"]):
 		run_symbol(steps, symbol, data)
 		
 	return data
+	
+def is_float(pricestr):
+	try:
+		val = float(pricestr)
+		return True
+	except ValueError:
+		return False
+		
+def parse_shortened_price(pricestr):
+	if is_float(pricestr):
+		return float(pricestr)
+		
+	if "B" in pricestr:
+		part = pricestr.replace("B", "")
+		if is_float(part):
+			return float(part) * 1000000000
+		else:
+			return None
+	
+	if "M" in pricestr:
+		part = pricestr.replace("M", "")
+		if is_float(part):
+			return float(part) * 1000000
+		else:
+			return None
 			
+	if "%" in pricestr:
+		return float(pricestr.replace("%", ""))
+	
+def get_mean(name, techs = None):
+	if techs is None:
+		techs = load_technicals_json()
+		
+	count = 0
+	tech_avg = 0
+	for symbol in techs:
+		if techs[symbol][name] is None:
+			continue
+			
+		val = parse_shortened_price(techs[symbol][name])
+		tech_avg += val
+		count += 1
+	
+	return tech_avg / count
+	
+def get_std_dev(name, techs = None):
+	if techs is None:
+		techs = load_technicals_json()
+		
+	tech_mean = get_mean(name, techs)
+	sum_diff = 0
+	count = 0
+	for symbol in techs:
+		if techs[symbol][name] is None:
+			continue
+		
+		val = parse_shortened_price(techs[symbol][name])
+		sum_diff += (val - tech_mean) ** 2
+		count += 1
+		
+	std_diff = (sum_diff / count) ** 0.5
+	
+	return std_diff
+	
+def generate_plot(yname, daterange, techs = None):
+	if techs == None:
+		techs = load_technicals_json()
+		
+	nowdate = datetime.datetime.now()
+	earlydate = nowdate - daterange
+	std_dev = get_std_dev(yname, techs)
+	tech_mean = get_mean(yname, techs)
+	
+	x = []
+	y = []
+	for symbol in techs:
+		if techs[symbol][yname] is None:
+			continue
+			
+		raw_symbol = symbol.replace(".to", "")
+		prices = get_price_json(raw_symbol)
+		nowprice = None
+		earlyprice = None
+		iter_date = nowdate
+		while iter_date >= earlydate:
+			pricedatefmt = iter_date.strftime("%Y-%m-%d")
+			if pricedatefmt in prices:
+				earlyprice = prices[pricedatefmt]["Adj Close"]
+				if nowprice is None:
+					nowprice = earlyprice
+			iter_date -= datetime.timedelta(days=1)
+			
+		if nowprice is None or earlyprice is None:
+			myprint("[" + symbol + "] ERROR: could not find valid start or end price between : " + str(nowdate) + " and " + str(earlydate), 5)
+			nowprice = 1
+			earlyprice = 1
+	
+		per_return = nowprice / earlyprice - 1.0
+		myprint("[" + symbol + "] " + yname, 2)
+		yval = parse_shortened_price(techs[symbol][yname])
+		if yval is not None and (abs(yval) - tech_mean) <= std_dev:
+			y.append(yval)
+			x.append(per_return)
+		else:
+			myprint("[" + symbol + "] ERROR: failed to parse " + yname + " into float : " + str(techs[symbol][yname]), 5)
+		
+	plt.plot(x, y, 'ro', label=yname)
+	plt.legend()
+	plt.show()
+		
+	
 def data_available_for_all():
 	technicalspath = get_combined_technicals_json()
 	with open(technicalspath, 'r') as jsonfile:
@@ -214,7 +324,9 @@ def data_available_for_all():
 	myprint(as_string, 5)
 	
 if __name__ == '__main__':
+	generate_plot("BookValue", datetime.timedelta(weeks=52))
+	#generate_plot("FiftydayMovingAverage", datetime.timedelta(days=50))
 	#run_all_symbols([])
-	data_available_for_all()
+	#data_available_for_all()
 	
 	myprint("done", 5)

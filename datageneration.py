@@ -13,6 +13,13 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = "data"
 RSS_FEED_FILENAME = os.path.join(DATA_FOLDER, "news_link.json")
 
+def load_technicals_json():
+	technicalspath = get_combined_technicals_json()
+	with open(technicalspath, 'r') as jsonfile:
+		techs = json.load(jsonfile)
+			
+	return techs
+	
 def get_combined_technicals_json():
 	return os.path.join(DATA_FOLDER, "technicals.json")
 
