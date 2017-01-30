@@ -27,6 +27,7 @@ from time import strftime
 from time import sleep
 from PIL import Image
 from sklearn import svm
+from sklearn.linear_model import LinearRegression
 from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import label_ranking_average_precision_score
@@ -173,6 +174,7 @@ def get_yahoo_data(symbols):
 			
 	return final_result
 	
+	
 def save_technicals(technicals):
 	filename = get_combined_technicals_json()
 	with open(filename, 'w') as fo:
@@ -183,26 +185,120 @@ def save_technicals(technicals):
 	with open(historical_filename, 'w') as fo:
 		json.dump(technicals, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
+		
+def get_tech_xy(data, technicals = None):
+	if technicals is None:
+		technicals = load_technicals_json()
+		
+	name_list = data["name_list"]
+	daterange = data["daterange"]
+		
+	nowdate = datetime.datetime.now()
+	earlydate = nowdate - daterange
+		
+	x = []
+	y = []
+	for symbol in technicals:
+		data = []
+		raw_symbol = symbol.replace(".to", "")
+		prices = get_price_json(raw_symbol)
+		
+		iter_date = nowdate
+		nowprice = None
+		earlyprice = None
+		while iter_date >= earlydate:
+			pricedatefmt = iter_date.strftime("%Y-%m-%d")
+			if pricedatefmt in prices:
+				earlyprice = prices[pricedatefmt]["Adj Close"]
+				if nowprice is None:
+					nowprice = earlyprice
+			iter_date -= datetime.timedelta(days=1)
+			
+		if nowprice is None or earlyprice is None:
+			myprint("[" + symbol + "] ERROR: could not find valid start or end price between : " + str(nowdate) + " and " + str(earlydate), 5)
+			nowprice = 1
+			earlyprice = 1
+			
+		per_return = nowprice / earlyprice - 1.0
+		
+		for name in name_list:
+			#print("technical[" + symbol + "][" + name + "] = " + str(technicals[symbol][name]))
+			val = parse_shortened_price(technicals[symbol][name])
+			if val is None:
+				val = 0
+			data.append(val)
+		x.append(data)
+		y.append(per_return)
+		
+	return x, y
+
+def save_regression_machine(machine, scaler):
+	machine_filepath = get_regression_machine_path()
+	scaler_filepath = get_regression_scaler_path()
+	joblib.dump(machine, machine_filepath)
+	joblib.dump(scaler, scaler_filepath)
 	
-def run_all_symbols(steps = ["dltechnicals"]):
+def load_regression_machine():
+	machine_filepath = get_regression_machine_path()
+	scaler_filepath = get_regression_scaler_path()
+	machine = joblib.load(machine_filepath)
+	scaler = joblib.load(scaler_filepath)
+	return machine, scaler
+	
+def train_regression(data, technicals = None):
+	x, y = get_tech_xy(data, technicals)
+	
+	regressor = LinearRegression(fit_intercept=True, normalize=False, copy_X=True, n_jobs=1)
+	reg_scaler = StandardScaler()
+	reg_scaler.fit(x)
+	x = reg_scaler.transform(x)
+	regressor.fit(x, y)
+	
+	save_regression_machine(regressor, reg_scaler)
+	
+	myprint("trainined regressor with " + str(len(x)) + " values", 3)
+	myprint("Regressor Intercept : " + str(regressor.intercept_), 3)
+	myprint("COEFs :", 3)
+	count = 0
+	for i in data["name_list"]:
+		myprint(i + " : " + str(regressor.coef_[count]), 3)
+		count += 1
+	
+	
+def run_all_symbols(steps = ["dltechnicals", "plot"], extradata = None):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
 	count = 0
 	data = {}
+	technicals = None
+		
 	if "dltechnicals" in steps:
 		technicals = get_yahoo_data(list(links.keys()))
 		save_technicals(technicals)
 		
-	for symbol in links:
-		count += 1
-		data[symbol] = {}
-		myprint("Processing symbol " + symbol + " (" + str(count) + "/" + str(len(links)) + ")", 2)
-		run_symbol(steps, symbol, data)
+	if "plot" in steps:
+		if "daterange" in extradata:
+			daterange = extradata["daterange"]
+		if "plotname" in extradata:
+			plotname = extradata["plotname"]
+		generate_plot(plotname, daterange, technicals)
+		
+	if "regression" in steps:
+		train_regression(extradata, technicals)
+	
+	
+	#for symbol in links:
+	#	count += 1
+	#	data[symbol] = {}
+	#	myprint("Processing symbol " + symbol + " (" + str(count) + "/" + str(len(links)) + ")", 2)
+	#	run_symbol(steps, symbol, data)
 		
 	return data
 	
 def is_float(pricestr):
+	if pricestr is None:
+		return False
 	try:
 		val = float(pricestr)
 		return True
@@ -210,6 +306,9 @@ def is_float(pricestr):
 		return False
 		
 def parse_shortened_price(pricestr):
+	if pricestr is None:
+		return None
+	
 	if is_float(pricestr):
 		return float(pricestr)
 		
@@ -229,6 +328,8 @@ def parse_shortened_price(pricestr):
 			
 	if "%" in pricestr:
 		return float(pricestr.replace("%", ""))
+		
+	return None
 	
 def get_mean(name, techs = None):
 	if techs is None:
@@ -307,7 +408,7 @@ def generate_plot(yname, daterange, techs = None):
 		else:
 			myprint("[" + symbol + "] ERROR: failed to parse " + yname + " into float : " + str(techs[symbol][yname]), 5)
 		
-	plt.plot(x, y, 'ro', label=yname)
+	plt.plot(y, x, 'ro', label=yname)
 	plt.legend()
 	plt.show()
 		
@@ -349,9 +450,16 @@ if __name__ == '__main__':
 		"ShortRatio",
 		"TwoHundreddayMovingAverage"
 	]
-	#generate_plot("BookValue", datetime.timedelta(weeks=52))
-	#generate_plot("FiftydayMovingAverage", datetime.timedelta(days=50))
-	#run_all_symbols([])
+	run_all_symbols([
+			#"plot",
+			"regression",
+			"none" # put this here so I don't have to add , when I change list size.
+		], 
+		{
+			"plotname": "ShortRatio", 
+			"daterange": datetime.timedelta(weeks=52),
+			"name_list": desired_features
+		})
 	#data_available_for_all()
 	
 	myprint("done", 5)

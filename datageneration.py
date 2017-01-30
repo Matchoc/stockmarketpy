@@ -13,6 +13,10 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = "data"
 RSS_FEED_FILENAME = os.path.join(DATA_FOLDER, "news_link.json")
 
+def get_regression_machine_path():
+	return "machine_regression.save"
+def get_regression_scaler_path():
+	return "scaler_regression.save"
 def load_technicals_json():
 	technicalspath = get_combined_technicals_json()
 	with open(technicalspath, 'r') as jsonfile:
