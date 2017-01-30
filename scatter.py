@@ -278,11 +278,7 @@ def run_all_symbols(steps = ["dltechnicals", "plot"], extradata = None):
 		save_technicals(technicals)
 		
 	if "plot" in steps:
-		if "daterange" in extradata:
-			daterange = extradata["daterange"]
-		if "plotname" in extradata:
-			plotname = extradata["plotname"]
-		generate_plot(plotname, daterange, technicals)
+		generate_plot(extradata, technicals)
 		
 	if "regression" in steps:
 		train_regression(extradata, technicals)
@@ -366,9 +362,13 @@ def get_std_dev(name, techs = None):
 	
 	return std_diff
 	
-def generate_plot(yname, daterange, techs = None):
+def generate_plot(extradata, techs = None):
 	if techs == None:
 		techs = load_technicals_json()
+		
+	yname = extradata["plotname"]
+	daterange = extradata["daterange"]
+	plot_outside_std_dev = extradata["plot_outside_std_dev"]
 		
 	nowdate = datetime.datetime.now()
 	earlydate = nowdate - daterange
@@ -400,11 +400,14 @@ def generate_plot(yname, daterange, techs = None):
 			earlyprice = 1
 	
 		per_return = nowprice / earlyprice - 1.0
-		myprint("[" + symbol + "] " + yname, 2)
+		#myprint("[" + symbol + "] " + yname, 2)
 		yval = parse_shortened_price(techs[symbol][yname])
-		if yval is not None and (abs(yval) - tech_mean) <= std_dev:
-			y.append(yval)
-			x.append(per_return)
+		if yval is not None:
+			if (abs(yval) - tech_mean) <= std_dev or extradata["plot_outside_std_dev"]:
+				y.append(yval)
+				x.append(per_return)
+			else:
+				myprint("[" + symbol + "] value " + str(yval) + " outside standard deviation for " + yname, 5)
 		else:
 			myprint("[" + symbol + "] ERROR: failed to parse " + yname + " into float : " + str(techs[symbol][yname]), 5)
 		
@@ -451,12 +454,13 @@ if __name__ == '__main__':
 		"TwoHundreddayMovingAverage"
 	]
 	run_all_symbols([
-			#"plot",
-			"regression",
+			"plot",
+			#"regression",
 			"none" # put this here so I don't have to add , when I change list size.
 		], 
 		{
-			"plotname": "ShortRatio", 
+			"plot_outside_std_dev": True,
+			"plotname": "FiftydayMovingAverage", 
 			"daterange": datetime.timedelta(weeks=52),
 			"name_list": desired_features
 		})

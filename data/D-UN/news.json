@@ -304,5 +304,14 @@
         "pubDate": "Tue, 24 Jan 2017 16:32:47 GMT",
         "source": "data\\D-UN\\20170125.rss",
         "title": "Dream Office REIT Reports Dispositions in Alberta"
+    },
+    {
+        "contents": "data\\D-UN\\20170130-091332.news",
+        "description": null,
+        "guid": "yahoo_finance/4034650684",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dream-office-reit-reports-dispositions-130000302.html",
+        "pubDate": "Mon, 30 Jan 2017 13:00:00 GMT",
+        "source": "data\\D-UN\\20170130.rss",
+        "title": "Dream Office REIT Reports Dispositions in Kitchener-Waterloo"
     }
 ]

@@ -376,5 +376,14 @@
         "pubDate": "Wed, 15 Jun 2016 17:19:03 GMT",
         "source": "data\\AAR-UN\\20170129.rss",
         "title": "PURE INDUSTRIAL REAL ESTATE TRUST ANNOUNCES CLOSING OF $149.8 MILLION BOUGHT DEAL"
+    },
+    {
+        "contents": "data\\AAR-UN\\20170130-090801.news",
+        "description": null,
+        "guid": "yahoo_finance/868007380",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pure-industrial-real-estate-trust-130000286.html",
+        "pubDate": "Mon, 30 Jan 2017 13:00:00 GMT",
+        "source": "data\\AAR-UN\\20170130.rss",
+        "title": "Pure Industrial Real Estate Trust Announces Core Acquisitions and Accretive Dispositions"
     }
 ]

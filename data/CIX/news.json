@@ -358,5 +358,14 @@
         "pubDate": "Fri, 27 Jan 2017 21:47:00 GMT",
         "source": "data\\CIX\\20170128.rss",
         "title": "CI Financial announces earnings conference call and webcast"
+    },
+    {
+        "contents": "data\\CIX\\20170130-091745.news",
+        "description": null,
+        "guid": "yahoo_finance/2347806663",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-financials-stocks-131500617.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\CIX\\20170130.rss",
+        "title": "Research Reports Initiated on Financials Stocks Founders Advantage Capital, Lorne Park Capital Partners, CI Financia,l and Aberdeen International"
     }
 ]

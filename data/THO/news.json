@@ -223,5 +223,14 @@
         "pubDate": "Fri, 27 Jan 2017 18:35:47 GMT",
         "source": "data\\THO\\20170128.rss",
         "title": "Which Silver Miners Could Re-Rate as We Enter 2017?"
+    },
+    {
+        "contents": "data\\THO\\20170130-090857.news",
+        "description": null,
+        "guid": "yahoo_finance/4055951531",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500083.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\THO\\20170130.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks IAMGOLD, B2Gold, Moneta Porcupine Mines, and Tahoe Resources"
     }
 ]

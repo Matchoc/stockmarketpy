@@ -385,5 +385,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:06:37 GMT",
         "source": "data\\WSP\\20170126.rss",
         "title": "WSP Global, Inc. breached its 50 day moving average in a Bullish Manner : WSP-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\WSP\\20170130-091444.news",
+        "description": null,
+        "guid": "yahoo_finance/16966872",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500801.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\WSP\\20170130.rss",
+        "title": "Research Reports Initiated on Industrials Stocks SNC Lavalin Group, WesternOne, WSP Global, and Badger Daylighting"
     }
 ]

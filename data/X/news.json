@@ -394,5 +394,23 @@
         "pubDate": "Fri, 04 Mar 2016 21:18:16 GMT",
         "source": "data\\X\\20170129.rss",
         "title": "Canada's TSX hires Bitcoin guru, studies currency's technology"
+    },
+    {
+        "contents": "data\\X\\20170130-091136.news",
+        "description": null,
+        "guid": "yahoo_finance/1027475623",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tsx-agf-celebrate-launch-etfs-133000145.html",
+        "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
+        "source": "data\\X\\20170130.rss",
+        "title": "TSX and AGF celebrate the launch of new ETFs with market open"
+    },
+    {
+        "contents": "data\\X\\20170130-091139.news",
+        "description": null,
+        "guid": "yahoo_finance/795554406",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tsx-agf-celebrate-launch-etfs-133000014.html",
+        "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
+        "source": "data\\X\\20170130.rss",
+        "title": "TSX and AGF celebrate the launch of new ETFs with market open"
     }
 ]

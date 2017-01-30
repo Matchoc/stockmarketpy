@@ -187,5 +187,131 @@
         "pubDate": "Wed, 25 Mar 2015 20:45:42 GMT",
         "source": "data\\GSPTSE\\20170128.rss",
         "title": "CANADA STOCKS-TSX falls 1 pct, energy is only rising sector"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090931.news",
+        "description": null,
+        "guid": "yahoo_finance/3038830230",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-stocks-143028532.html",
+        "pubDate": "Wed, 25 Mar 2015 14:30:28 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX rises with resource stocks as commodity prices gain"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090933.news",
+        "description": null,
+        "guid": "yahoo_finance/1587716226",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-energy-financial-sectors-203307106.html",
+        "pubDate": "Tue, 24 Mar 2015 20:33:07 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-Energy, financial sectors drive TSX higher"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090936.news",
+        "description": null,
+        "guid": "yahoo_finance/4041908957",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-climbs-energy-145055783.html",
+        "pubDate": "Tue, 24 Mar 2015 14:50:55 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX climbs as energy, financial sectors gain"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090939.news",
+        "description": null,
+        "guid": "yahoo_finance/4163289692",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-edges-higher-203856341.html",
+        "pubDate": "Mon, 23 Mar 2015 20:38:56 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX edges higher on strength in natural resources"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090941.news",
+        "description": null,
+        "guid": "yahoo_finance/3900877332",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-energy-mining-shares-144316885.html",
+        "pubDate": "Mon, 23 Mar 2015 14:43:16 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-Energy, mining shares push TSX higher"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090944.news",
+        "description": null,
+        "guid": "yahoo_finance/4245010297",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-advances-shares-203756862.html",
+        "pubDate": "Fri, 20 Mar 2015 20:37:56 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX advances as resource shares climb"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090946.news",
+        "description": null,
+        "guid": "yahoo_finance/47956383",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-slips-fed-152248705.html",
+        "pubDate": "Thu, 19 Mar 2015 15:22:48 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX slips on Fed signals, energy shares drop"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090949.news",
+        "description": null,
+        "guid": "yahoo_finance/3647684017",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-u-fed-211011062.html",
+        "pubDate": "Wed, 18 Mar 2015 21:10:11 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX up after U.S. Fed comments ease market concerns"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090952.news",
+        "description": null,
+        "guid": "yahoo_finance/1268540573",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-declines-investors-143818353.html",
+        "pubDate": "Wed, 18 Mar 2015 14:38:18 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX declines as investors are cautious ahead of Fed"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090954.news",
+        "description": null,
+        "guid": "yahoo_finance/3217939835",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-climbs-upbeat-203230586.html",
+        "pubDate": "Mon, 16 Mar 2015 20:32:30 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX climbs on upbeat sentiment ahead of Fed meeting"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-090959.news",
+        "description": null,
+        "guid": "yahoo_finance/3480971540",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-copper-205240074.html",
+        "pubDate": "Thu, 12 Mar 2015 20:52:40 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX gains as copper price lifts mining stocks"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-091001.news",
+        "description": null,
+        "guid": "yahoo_finance/2455094494",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-miners-152755901.html",
+        "pubDate": "Thu, 12 Mar 2015 15:27:55 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX rises as miners gain with copper price, energy slips"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-091004.news",
+        "description": null,
+        "guid": "yahoo_finance/2003426245",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-firms-higher-150812632.html",
+        "pubDate": "Wed, 11 Mar 2015 15:08:12 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX firms as higher Brent crude helps energy stocks"
+    },
+    {
+        "contents": "data\\GSPTSE\\20170130-091007.news",
+        "description": null,
+        "guid": "yahoo_finance/2578079405",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-slumps-five-204739656.html",
+        "pubDate": "Tue, 10 Mar 2015 20:47:39 GMT",
+        "source": "data\\GSPTSE\\20170130.rss",
+        "title": "CANADA STOCKS-TSX slumps to five-week low on Fed fears"
     }
 ]

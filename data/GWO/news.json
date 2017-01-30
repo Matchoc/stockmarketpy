@@ -187,5 +187,68 @@
         "pubDate": "Wed, 25 Jan 2017 21:15:00 GMT",
         "source": "data\\GWO\\20170125.rss",
         "title": "Great-West Lifeco to release fourth quarter 2016 results"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090643.news",
+        "description": null,
+        "guid": "yahoo_finance/2427495718",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14phes817/*http://www.capitalcube.com/blog/index.php/great-west-lifeco-inc-gwo-ca-dividend-analysis-september-02nd-2016-record-date-by-the-numbers-october-3-2016/",
+        "pubDate": "Mon, 03 Oct 2016 17:45:49 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco, Inc. : GWO-CA: Dividend Analysis : September 02nd, 2016 (record date) : By the numbers : October 3, 2016"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090701.news",
+        "description": null,
+        "guid": "yahoo_finance/3309061213",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13a6k0igh/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-great-west-lifeco-inc-september-30-2016/",
+        "pubDate": "Fri, 30 Sep 2016 13:51:16 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "ETF\u2019s with exposure to Great-West Lifeco, Inc. : September 30, 2016"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090740.news",
+        "description": "[at noodls] - Great-West Lifeco announces election of Directors",
+        "guid": "yahoo_finance/2014627378",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12871ltri/*http://www.publicnow.com/view/47C8239103D6E74C35FE727F6976C5D01B212CD8",
+        "pubDate": "Thu, 05 May 2016 22:14:06 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco announces election of Directors"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090741.news",
+        "description": "[at noodls] - Great-West Lifeco announces succession plan for President and Chief Operating Officer, Canada",
+        "guid": "yahoo_finance/30146225",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bmdrrm/*http://www.publicnow.com/view/A6157299B8AE910B1C397F32F7EA86C45BD411BB",
+        "pubDate": "Thu, 05 May 2016 16:51:02 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco announces succession plan for President and Chief Operating Officer, Canada"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090741.news",
+        "description": "[at noodls] - Great-West Lifeco reports first quarter 2016 results",
+        "guid": "yahoo_finance/3446817036",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128j5bfkl/*http://www.publicnow.com/view/8BB738C43A00AA006F7748FCB2D9D54C3E6FAFF2",
+        "pubDate": "Thu, 05 May 2016 15:41:07 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco reports first quarter 2016 results"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090741.news",
+        "description": "[at noodls] - Great-West Lifeco's Annual Meeting and first quarter 2016 results conference call available by webcast",
+        "guid": "yahoo_finance/17184662",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mqhg7i/*http://www.publicnow.com/view/E199EE2FB8F4CB66025E77C820EDC185B784E218",
+        "pubDate": "Fri, 22 Apr 2016 13:17:07 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco's Annual Meeting and first quarter 2016 results conference call available by webcast"
+    },
+    {
+        "contents": "data\\GWO\\20170130-090741.news",
+        "description": "[at noodls] - Great-West Lifeco announces CEO succession plan for subsidiary Irish Life",
+        "guid": "yahoo_finance/1941836309",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rb46pi/*http://www.publicnow.com/view/65B4103AA255C0F94A84C91F7BF9B25F5249C11E",
+        "pubDate": "Tue, 19 Apr 2016 15:08:18 GMT",
+        "source": "data\\GWO\\20170130.rss",
+        "title": "Great-West Lifeco announces CEO succession plan for subsidiary Irish Life"
     }
 ]

@@ -358,5 +358,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
         "source": "data\\AEM\\20170128.rss",
         "title": "Watch for These Catalysts in Intermediate Gold Miners\u2019 Q4 Results"
+    },
+    {
+        "contents": "data\\AEM\\20170130-090637.news",
+        "description": null,
+        "guid": "yahoo_finance/911596210",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12a3lps6u/*http://marketrealist.com/2017/01/why-the-volatility-among-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 30 Jan 2017 12:39:04 GMT",
+        "source": "data\\AEM\\20170130.rss",
+        "title": "Why the Volatility among Mining Stocks?"
     }
 ]

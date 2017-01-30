@@ -178,5 +178,14 @@
         "pubDate": "Mon, 07 Nov 2016 23:05:31 GMT",
         "source": "data\\DDC\\20170118.rss",
         "title": "Canada's Dominion Diamond to move head office to cut costs"
+    },
+    {
+        "contents": "data\\DDC\\20170130-090556.news",
+        "description": "[Business Wire] - Dominion Diamond Corporation announced today that Mr. Brendan Bell will step down from his role as Chief Executive Officer of the Company and a member of the Board of Directors.",
+        "guid": "yahoo_finance/307411103",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dominion-diamond-corporation-announces-ceo-113000779.html",
+        "pubDate": "Mon, 30 Jan 2017 11:30:00 GMT",
+        "source": "data\\DDC\\20170130.rss",
+        "title": "Dominion Diamond Corporation Announces CEO Transition"
     }
 ]

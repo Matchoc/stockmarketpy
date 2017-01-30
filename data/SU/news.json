@@ -214,5 +214,14 @@
         "pubDate": "Tue, 24 Jan 2017 15:59:43 GMT",
         "source": "data\\SU\\20170125.rss",
         "title": "CANADA STOCKS-TSX rises as Keystone owner leads energy gains"
+    },
+    {
+        "contents": "data\\SU\\20170130-091430.news",
+        "description": null,
+        "guid": "yahoo_finance/1380443530",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/range-resources-rrc-proved-reserves-125012095.html",
+        "pubDate": "Mon, 30 Jan 2017 12:50:12 GMT",
+        "source": "data\\SU\\20170130.rss",
+        "title": "Range Resources' (RRC) Proved Reserves Grow 22% in 2016"
     }
 ]

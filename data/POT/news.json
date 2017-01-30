@@ -1051,5 +1051,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:54:17 GMT",
         "source": "data\\POT\\20170128.rss",
         "title": "PotashCorp Reports 4Q16 Earnings: Stock Falls 3%"
+    },
+    {
+        "contents": "data\\POT\\20170130-090828.news",
+        "description": null,
+        "guid": "yahoo_finance/1223767990",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12mkafeft/*https://www.thestreet.com/story/13970377/1/disney-apple-comcast-doug-kass-views.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 30 Jan 2017 06:00:00 GMT",
+        "source": "data\\POT\\20170130.rss",
+        "title": "Disney, Apple, Comcast: Doug Kass' Views"
     }
 ]

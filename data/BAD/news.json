@@ -349,5 +349,14 @@
         "pubDate": "Fri, 15 Apr 2016 19:27:16 GMT",
         "source": "data\\BAD\\20170127.rss",
         "title": "Badger Daylighting Ltd. April Cash Dividend"
+    },
+    {
+        "contents": "data\\BAD\\20170130-091054.news",
+        "description": null,
+        "guid": "yahoo_finance/16966872",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500801.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\BAD\\20170130.rss",
+        "title": "Research Reports Initiated on Industrials Stocks SNC Lavalin Group, WesternOne, WSP Global, and Badger Daylighting"
     }
 ]

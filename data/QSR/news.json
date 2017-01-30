@@ -475,5 +475,14 @@
         "pubDate": "Fri, 27 Jan 2017 21:02:53 GMT",
         "source": "data\\QSR\\20170128.rss",
         "title": "Canadian icon Tim Hortons is expanding into Mexico"
+    },
+    {
+        "contents": "data\\QSR\\20170130-090152.news",
+        "description": null,
+        "guid": "yahoo_finance/4215064645",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13ud5gtl0/*https://www.thestreet.com/story/13970107/1/restaurant-brands-tim-hortons-looks-to-exploit-growing-mexican-coffee-market.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 30 Jan 2017 13:02:00 GMT",
+        "source": "data\\QSR\\20170130.rss",
+        "title": "Tim Hortons to Exploit Growing Mexican Coffee Market, Even as Trump Looks On"
     }
 ]

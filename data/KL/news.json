@@ -61,5 +61,14 @@
         "pubDate": "Thu, 15 Dec 2016 13:14:02 GMT",
         "source": "data\\KL\\20170118.rss",
         "title": "Kirkland Lake Gold Ltd. breached its 50 day moving average in a Bearish Manner : KL-CA : December 15, 2016"
+    },
+    {
+        "contents": "data\\KL\\20170130-091426.news",
+        "description": "[Marketwired] - Kirkland Lake Gold Ltd. is pleased to report new exploration drill results from surface and underground drilling at its Taylor Gold Mine Complex located in Northeastern Ontario; situated along the prolific ...",
+        "guid": "yahoo_finance/1135984853",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kirkland-lake-gold-reports-discoveries-120000089.html",
+        "pubDate": "Mon, 30 Jan 2017 12:00:00 GMT",
+        "source": "data\\KL\\20170130.rss",
+        "title": "Kirkland Lake Gold Reports New Discoveries and Extensions to Mineralization at the Taylor Gold Mine Complex"
     }
 ]

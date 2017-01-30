@@ -178,5 +178,131 @@
         "pubDate": "Mon, 03 Oct 2016 14:25:38 GMT",
         "source": "data\\BIR\\20170118.rss",
         "title": "ETF\u2019s with exposure to Birchcliff Energy Ltd. : October 3, 2016"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/4238496944",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14io6boh3/*http://www.capitalcube.com/blog/index.php/birchcliff-energy-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-bir-ca-september-30-2016/",
+        "pubDate": "Fri, 30 Sep 2016 12:43:03 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. breached its 50 day moving average in a Bullish Manner : BIR-CA : September 30, 2016"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/2864669097",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ap4jom7/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-birchcliff-energy-ltd-september-22-2016/",
+        "pubDate": "Thu, 22 Sep 2016 14:48:50 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "ETF\u2019s with exposure to Birchcliff Energy Ltd. : September 22, 2016"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/3691943661",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14is81j0s/*http://www.capitalcube.com/blog/index.php/birchcliff-energy-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-bir-ca-september-14-2016/",
+        "pubDate": "Wed, 14 Sep 2016 13:01:32 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. breached its 50 day moving average in a Bearish Manner : BIR-CA : September 14, 2016"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090138.news",
+        "description": null,
+        "guid": "yahoo_finance/476268917",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13a59dvki/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-birchcliff-energy-ltd-september-12-2016/",
+        "pubDate": "Mon, 12 Sep 2016 14:34:17 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "ETF\u2019s with exposure to Birchcliff Energy Ltd. : September 12, 2016"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090142.news",
+        "description": "[at noodls] - NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES 16\u201014 September 1, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES QUARTERLY PREFERRED SHARE DIVIDENDS Calgary, Alberta ...",
+        "guid": "yahoo_finance/4067184490",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12866e0kh/*http://www.publicnow.com/view/0BA778B7720536EC4EA195F29607C026C59E7853",
+        "pubDate": "Thu, 01 Sep 2016 18:13:06 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Quarterly Preferred Share Dividends"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090142.news",
+        "description": "[at noodls] - 16\u201013 August 10, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES 2016 SECOND QUARTER RESULTS, UPDATE ON GORDONDALE ACQUISITION AND APPOINTMENT OF NEW DIRECTOR Calgary, Alberta \u2500 Birchcliff Energy Ltd. (\"Birchcliff\") ...",
+        "guid": "yahoo_finance/620152333",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bhrr0s/*http://www.publicnow.com/view/3E139E8678547247AD79921E9DF3F13272C9BDED",
+        "pubDate": "Wed, 10 Aug 2016 20:11:06 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces 2016 Second Quarter Results, Update on Gordondale Acquisition and Appointment of New Director"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090142.news",
+        "description": "[at noodls] - 16-12 July 28, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES CLOSING OF STRATEGIC MONTNEY/DOIG ACQUISITION IN GORDONDALE AND INCREASE OF BORROWING BASE TO $950 MILLION Calgary, Alberta - Birchcliff Energy Ltd. ...",
+        "guid": "yahoo_finance/4108463260",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1288kfeu8/*http://www.publicnow.com/view/A7F4F4053899D59A5D9ED77BCE6E56A141351164",
+        "pubDate": "Thu, 28 Jul 2016 16:48:08 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Closing of Strategic Montney/Doig Acquisition in Gordondale and Increase of Borrowing Base to $950 Million"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090142.news",
+        "description": "[at noodls] - 4c483d79-71bf-434d-a393-b98bd7fb8f23.pdf 16-11 July 13, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES CLOSING OF FINANCINGS FOR GROSS PROCEEDS OF $690.8 MILLION Calgary, Alberta - Birchcliff Energy Ltd. (\"Birchcliff\" ...",
+        "guid": "yahoo_finance/2534914778",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128se7kav/*http://www.publicnow.com/view/F8DB2B270EA787E0723BC44439D60AC60C2B6887",
+        "pubDate": "Wed, 13 Jul 2016 15:38:03 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Closing of Financings for Gross Proceeds of $690.8 Million"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090142.news",
+        "description": "[at noodls] - _ 16-10 July 7, 2016 BIRCHCLIFF ANNOUNCES FILING OF FINAL SHORT FORM PROSPECTUS, EXPECTED CLOSING OF FINANCINGS FOR GROSS PROCEEDS OF $690.8 MILLION AND REFILING OF ANNUAL INFORMATION FORM Calgary, Alberta ...",
+        "guid": "yahoo_finance/6077039",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282s3dlo/*http://www.publicnow.com/view/DF92916197DAE19539DB10A1CF10339E058EBCF9",
+        "pubDate": "Thu, 07 Jul 2016 21:41:02 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Announces Filing of Final Short Form Prospectus, Expected Closing of Financings for Gross Proceeds of $690.8 Million and Refiling of Annual Information Form"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090143.news",
+        "description": "[at noodls] - Microsoft Word - Birchcliff Press Release - Upsize - v.02 June 22, 2016 BIRCHCLIFF ENERGY LTD. INCREASES SIZE OF BOUGHT DEAL FINANCING Calgary, Alberta - Birchcliff Energy Ltd. (\"Birchcliff\" ...",
+        "guid": "yahoo_finance/267041342",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kg9f93/*http://www.publicnow.com/view/D0DB9D3C17AFF3ACA2B429796BE6B5336C4F66E8",
+        "pubDate": "Wed, 22 Jun 2016 16:59:03 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Increases Size of Bought Deal Financing"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090143.news",
+        "description": "[at noodls] - _ June 21, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES STRATEGIC MONTNEY/DOIG ACQUISITION OF HIGH QUALITY OIL AND LIQUIDS-RICH NATURAL GAS AND $530 MILLION BOUGHT DEAL FINANCING Calgary, Alberta - Birchcliff ...",
+        "guid": "yahoo_finance/3860048433",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128op3klg/*http://www.publicnow.com/view/A3DD1A11069394F1ABD06A225AD4EFC229492164",
+        "pubDate": "Tue, 21 Jun 2016 20:49:04 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Strategic Montney/Doig Acquisition of High Quality Oil and Liquids-Rich Natural Gas and $530 Million Bought Deal Financing"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090143.news",
+        "description": "[at noodls] - Microsoft Word - 2016 Q2 Dividend Press Release 160524 NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES 16\u201007 May 31, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES ...",
+        "guid": "yahoo_finance/3810579781",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128kcaql2/*http://www.publicnow.com/view/6C37046476D3DBE4633C69B58673258CD17D87CD",
+        "pubDate": "Tue, 31 May 2016 20:23:07 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Quarterly Preferred Share Dividends"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090143.news",
+        "description": "[at noodls] - a4e65bdd-e143-42f9-a165-963d19c4957d.pdf NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES 16-06 May 13, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES DIRECTOR ELECTION ...",
+        "guid": "yahoo_finance/2542861293",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fhb8n5/*http://www.publicnow.com/view/AEFF831C67F0F0FE07DD747D917403E9B7D7F688",
+        "pubDate": "Fri, 13 May 2016 22:18:02 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces Director Election Results from 2016 Annual Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\BIR\\20170130-090143.news",
+        "description": "[at noodls] - Microsoft Word - 16-05 Press Release - FINAL 2016 First Quarter Results 20160511 16\u201005 May 11, 2016 BIRCHCLIFF ENERGY LTD. ANNOUNCES 2016 FIRST QUARTER RESULTS AND RECORD QUARTERLY AVERAGE PRODUCTION Calgary, ...",
+        "guid": "yahoo_finance/4082432740",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hdtv4u/*http://www.publicnow.com/view/369D707F7B5C30C5DC2BFC436B38CB7A8E1F2E1F",
+        "pubDate": "Wed, 11 May 2016 21:07:05 GMT",
+        "source": "data\\BIR\\20170130.rss",
+        "title": "Birchcliff Energy Ltd. Announces 2016 First Quarter Results and Record Quarterly Average Production"
     }
 ]

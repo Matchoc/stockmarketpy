@@ -538,5 +538,23 @@
         "pubDate": "Fri, 27 Jan 2017 16:19:21 GMT",
         "source": "data\\CP\\20170128.rss",
         "title": "Rail Executive\u2019s Leave Opens Door to Joining Harrison\u2019s CSX Push"
+    },
+    {
+        "contents": "data\\CP\\20170130-090811.news",
+        "description": null,
+        "guid": "yahoo_finance/3662662210",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12dhb5b87/*http://www.wsj.com/articles/csx-rail-veteran-in-settlement-talks-1485735855?ru=yahoo?mod=yahoo_itp",
+        "pubDate": "Mon, 30 Jan 2017 04:36:29 GMT",
+        "source": "data\\CP\\20170130.rss",
+        "title": "[$$] CSX, Rail Veteran in Settlement Talks"
+    },
+    {
+        "contents": "data\\CP\\20170130-090812.news",
+        "description": null,
+        "guid": "yahoo_finance/3079049705",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12dhb5b87/*http://www.wsj.com/articles/csx-rail-veteran-in-settlement-talks-1485735855?mod=yahoo_hs",
+        "pubDate": "Mon, 30 Jan 2017 00:24:19 GMT",
+        "source": "data\\CP\\20170130.rss",
+        "title": "[$$] CSX, Rail Veteran in Settlement Talks"
     }
 ]

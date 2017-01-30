@@ -466,5 +466,23 @@
         "pubDate": "Thu, 19 Jan 2017 14:10:15 GMT",
         "source": "data\\GIB-A\\20170125.rss",
         "title": "CGI Group, Inc. breached its 50 day moving average in a Bearish Manner : GIB.A-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\GIB-A\\20170130-090546.news",
+        "description": "[CNW Group] - U.S. Department of Veterans Affairs selects CGI for Community Care recovery audit services",
+        "guid": "yahoo_finance/3195854275",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-department-veterans-affairs-selects-133000876.html",
+        "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
+        "source": "data\\GIB-A\\20170130.rss",
+        "title": "U.S. Department of Veterans Affairs selects CGI for Community Care recovery audit services"
+    },
+    {
+        "contents": "data\\GIB-A\\20170130-090548.news",
+        "description": "[PR Newswire] - Stock Market Symbols GIB (NYSE) GIB.A (TSX) www.cgi.com/newsroom CGI ProperPay technology predicts, tracks and identifies improper payments and recovers vital funds for veterans' healthcare FAIRFAX, VA, ...",
+        "guid": "yahoo_finance/3453784622",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/u-department-veterans-affairs-selects-133000365.html",
+        "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
+        "source": "data\\GIB-A\\20170130.rss",
+        "title": "U.S. Department of Veterans Affairs selects CGI for Community Care recovery audit services"
     }
 ]

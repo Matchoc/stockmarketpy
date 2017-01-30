@@ -187,5 +187,23 @@
         "pubDate": "Fri, 20 Jan 2017 16:31:21 GMT",
         "source": "data\\NGD\\20170121.rss",
         "title": "Mining Stocks in Perspective: Volatility and RSI in 2017"
+    },
+    {
+        "contents": "data\\NGD\\20170130-091732.news",
+        "description": "[CNW Group] - New Gold Achieves 2016 Production Guidance at Lower Costs, Provides Rainy River Update, 2017 Guidance and Announces Board and Management Changes",
+        "guid": "yahoo_finance/1831719572",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-achieves-2016-production-guidance-123000160.html",
+        "pubDate": "Mon, 30 Jan 2017 12:30:00 GMT",
+        "source": "data\\NGD\\20170130.rss",
+        "title": "New Gold Achieves 2016 Production Guidance at Lower Costs, Provides Rainy River Update, 2017 Guidance and Announces Board and Management Changes"
+    },
+    {
+        "contents": "data\\NGD\\20170130-091734.news",
+        "description": "[PR Newswire] - (All dollar figures are in US dollars unless otherwise indicated) TORONTO, Jan. 30, 2017 /PRNewswire/ - New Gold Inc. (\"New Gold\") (TSX:NGD) (NYSE MKT:NGD) today announces its 2016 fourth quarter ...",
+        "guid": "yahoo_finance/3289147770",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-achieves-2016-production-guidance-123000878.html",
+        "pubDate": "Mon, 30 Jan 2017 12:30:00 GMT",
+        "source": "data\\NGD\\20170130.rss",
+        "title": "New Gold Achieves 2016 Production Guidance at Lower Costs, Provides Rainy River Update, 2017 Guidance and Announces Board and Management Changes"
     }
 ]

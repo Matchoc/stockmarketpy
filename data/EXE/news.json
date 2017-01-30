@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:00:00 GMT",
         "source": "data\\EXE\\20170123.rss",
         "title": "Extendicare Announces Timing of 2016 Year End Results and Conference Call"
+    },
+    {
+        "contents": "data\\EXE\\20170130-090632.news",
+        "description": null,
+        "guid": "yahoo_finance/2564041101",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-healthcare-stocks-131500681.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\EXE\\20170130.rss",
+        "title": "Research Reports Initiated on Healthcare Stocks Medical Facilities, Extendicare, and Centric Health"
     }
 ]

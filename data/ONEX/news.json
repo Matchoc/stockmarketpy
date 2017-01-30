@@ -124,5 +124,14 @@
         "pubDate": "Mon, 23 Jan 2017 21:30:00 GMT",
         "source": "data\\ONEX\\20170124.rss",
         "title": "Onex to Announce Fourth-Quarter and Full-Year Results on February 24, 2017"
+    },
+    {
+        "contents": "data\\ONEX\\20170130-090118.news",
+        "description": null,
+        "guid": "yahoo_finance/1808880649",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1456uueje/*http://www.capitalcube.com/blog/index.php/onex-corp-breached-its-50-day-moving-average-in-a-bullish-manner-onex-ca-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 13:54:57 GMT",
+        "source": "data\\ONEX\\20170130.rss",
+        "title": "ONEX Corp. breached its 50 day moving average in a Bullish Manner : ONEX-CA : January 30, 2017"
     }
 ]

@@ -385,5 +385,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:58:04 GMT",
         "source": "data\\MTL\\20170124.rss",
         "title": "Mullen Group Ltd. breached its 50 day moving average in a Bearish Manner : MTL-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\MTL\\20170130-091040.news",
+        "description": null,
+        "guid": "yahoo_finance/2722669608",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500087.html",
+        "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
+        "source": "data\\MTL\\20170130.rss",
+        "title": "Research Reports Initiated on Energy Stocks Precision Drilling, Trican Well Service, Horizon North Logistics, and Mullen Group"
     }
 ]

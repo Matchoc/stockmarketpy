@@ -313,5 +313,23 @@
         "pubDate": "Fri, 22 Apr 2016 13:17:07 GMT",
         "source": "data\\SAP\\20170119.rss",
         "title": "Saputo Announces a Change in Senior Management"
+    },
+    {
+        "contents": "data\\SAP\\20170130-091103.news",
+        "description": "[Reuters] - Canadian diary company Saputo Inc said on Monday it will make an all-cash takeover offer for the 12 percent of Warrnambool Cheese and Butter it does not already own, valuing the company at A$682 million ($515 million). The A$8.85 per-share offer is at a 24.8 percent premium to Warrnambool's Friday closing price of A$7.09. Saputo, which already owns 88.02 percent of Warrnambool shares, will fund the acquisition from cash on hand and existing credit facilities, the company in a statement to the Australian Securities Exchange.",
+        "guid": "yahoo_finance/234758198",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-saputo-seeks-mop-australias-225929089.html",
+        "pubDate": "Sun, 29 Jan 2017 22:59:29 GMT",
+        "source": "data\\SAP\\20170130.rss",
+        "title": "Canada's Saputo seeks to mop up Australia's Warrnambool Cheese and Butter"
+    },
+    {
+        "contents": "data\\SAP\\20170130-091107.news",
+        "description": "[Reuters] - Canadian diary company Saputo Inc said on Monday it will make an all-cash takeover offer for the 12 percent of Warrnambool Cheese and Butter it does not already own, valuing the company at A$682 million ($515 million). The A$8.85 per-share offer announced by Saputo in a statement to the Australian Securities Exchange is a 24.8 percent premium to Warrnambool's Friday closing price of A$7.09. Saputo, which already owns 88.02 percent of Warrnambool shares, said it will fund the acquisition from cash on hand and existing credit facilities.",
+        "guid": "yahoo_finance/3946465963",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-saputo-makes-bid-rest-223324559.html",
+        "pubDate": "Sun, 29 Jan 2017 22:33:24 GMT",
+        "source": "data\\SAP\\20170130.rss",
+        "title": "Canada's Saputo makes bid for rest of Australia's Warrnambool Cheese and Butter"
     }
 ]

@@ -862,5 +862,23 @@
         "pubDate": "Thu, 26 Jan 2017 22:32:00 GMT",
         "source": "data\\BNS\\20170127.rss",
         "title": "Scotiabank Digital Factory commences production in Canada"
+    },
+    {
+        "contents": "data\\BNS\\20170130-091750.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 30, 2017 /CNW/ - The Scotiabank Commodity Price Index gained 6.2% m/m in December as a large Oil & Gas gain complemented monthly gains in all other sub-indices. Commodities are expected to broadly benefit from rising prices in 2017 after many averaged cycle-lows last year. \"Oil will remain top-of-mind as OPEC output reductions are monitored and the market finally gets a taste of how quickly the U.S. shale patch can put rigs and workers back to work,\" said Rory Johnston, Commodity Economist at Scotiabank.",
+        "guid": "yahoo_finance/1431417292",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/positive-trends-commodities-2017-scotiabank-140000131.html",
+        "pubDate": "Mon, 30 Jan 2017 14:00:00 GMT",
+        "source": "data\\BNS\\20170130.rss",
+        "title": "Positive trends for commodities in 2017: Scotiabank"
+    },
+    {
+        "contents": "data\\BNS\\20170130-091752.news",
+        "description": "[CNW Group] - Positive trends for commodities in 2017: Scotiabank",
+        "guid": "yahoo_finance/1470518443",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/positive-trends-commodities-2017-scotiabank-140000242.html",
+        "pubDate": "Mon, 30 Jan 2017 14:00:00 GMT",
+        "source": "data\\BNS\\20170130.rss",
+        "title": "Positive trends for commodities in 2017: Scotiabank"
     }
 ]

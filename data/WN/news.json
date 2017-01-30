@@ -295,5 +295,14 @@
         "pubDate": "Tue, 05 Apr 2016 13:10:04 GMT",
         "source": "data\\WN\\20170126.rss",
         "title": "George Weston Limited Announces First Quarter Earnings Release and Annual Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\WN\\20170130-091702.news",
+        "description": null,
+        "guid": "yahoo_finance/3021953897",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14bcur9t6/*http://www.capitalcube.com/blog/index.php/george-weston-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-wn-ca-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 14:07:30 GMT",
+        "source": "data\\WN\\20170130.rss",
+        "title": "George Weston Ltd. breached its 50 day moving average in a Bearish Manner : WN-CA : January 30, 2017"
     }
 ]

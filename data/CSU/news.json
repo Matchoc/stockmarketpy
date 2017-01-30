@@ -376,5 +376,14 @@
         "pubDate": "Tue, 19 Apr 2016 22:22:03 GMT",
         "source": "data\\CSU\\20170125.rss",
         "title": "Constellation Software\u2019s Jonas Division Completes Acquisition of Multi-Systems"
+    },
+    {
+        "contents": "data\\CSU\\20170130-090842.news",
+        "description": null,
+        "guid": "yahoo_finance/602050353",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/private-equity-firms-muscle-constellation-120006992.html",
+        "pubDate": "Mon, 30 Jan 2017 12:00:06 GMT",
+        "source": "data\\CSU\\20170130.rss",
+        "title": "Private Equity Firms Muscle into Constellation Software's Back Yard"
     }
 ]

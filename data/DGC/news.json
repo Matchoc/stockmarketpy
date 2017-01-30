@@ -367,5 +367,14 @@
         "pubDate": "Fri, 27 Jan 2017 17:51:24 GMT",
         "source": "data\\DGC\\20170128.rss",
         "title": "Detour Gold Provides Notice of Fourth Quarter and Full Year 2016 Operating Results and 2017 Guidance"
+    },
+    {
+        "contents": "data\\DGC\\20170130-091228.news",
+        "description": null,
+        "guid": "yahoo_finance/863037077",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170130.html?t=dgc.to",
+        "pubDate": "Mon, 30 Jan 2017 12:07:02 GMT",
+        "source": "data\\DGC\\20170130.rss",
+        "title": "Q4 2016 Detour Gold Corp Earnings Release - After Market Close"
     }
 ]
