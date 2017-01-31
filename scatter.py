@@ -203,23 +203,7 @@ def get_tech_xy(data, technicals = None):
 		raw_symbol = symbol.replace(".to", "")
 		prices = get_price_json(raw_symbol)
 		
-		iter_date = nowdate
-		nowprice = None
-		earlyprice = None
-		while iter_date >= earlydate:
-			pricedatefmt = iter_date.strftime("%Y-%m-%d")
-			if pricedatefmt in prices:
-				earlyprice = prices[pricedatefmt]["Adj Close"]
-				if nowprice is None:
-					nowprice = earlyprice
-			iter_date -= datetime.timedelta(days=1)
-			
-		if nowprice is None or earlyprice is None:
-			myprint("[" + symbol + "] ERROR: could not find valid start or end price between : " + str(nowdate) + " and " + str(earlydate), 5)
-			nowprice = 1
-			earlyprice = 1
-			
-		per_return = nowprice / earlyprice - 1.0
+		per_return = calculate_return_for_period(symbol, daterange)
 		
 		for name in name_list:
 			#print("technical[" + symbol + "][" + name + "] = " + str(technicals[symbol][name]))
@@ -265,7 +249,7 @@ def train_regression(data, technicals = None):
 		count += 1
 	
 	
-def run_all_symbols(steps = ["dltechnicals", "plot"], extradata = None):
+def run_all_symbols(steps = ["dltechnicals", "plot", "regression", "bestReturn"], extradata = None):
 	with open(RSS_FEED_FILENAME, 'r') as jsonfile:
 		links = json.load(jsonfile)
 	
@@ -283,6 +267,8 @@ def run_all_symbols(steps = ["dltechnicals", "plot"], extradata = None):
 	if "regression" in steps:
 		train_regression(extradata, technicals)
 	
+	if "bestReturn" in steps:
+		print_top_runner(extradata, technicals)
 	
 	#for symbol in links:
 	#	count += 1
@@ -362,6 +348,30 @@ def get_std_dev(name, techs = None):
 	
 	return std_diff
 	
+def calculate_return_for_period(symbol, date_range, start_time = datetime.datetime.now()):
+	raw_symbol = symbol.replace(".to", "")
+	nowdate = start_time
+	earlydate = nowdate - date_range
+	prices = get_price_json(raw_symbol)
+	nowprice = None
+	earlyprice = None
+	iter_date = nowdate
+	while iter_date >= earlydate:
+		pricedatefmt = iter_date.strftime("%Y-%m-%d")
+		if pricedatefmt in prices:
+			earlyprice = prices[pricedatefmt]["Adj Close"]
+			if nowprice is None:
+				nowprice = earlyprice
+		iter_date -= datetime.timedelta(days=1)
+	
+	if nowprice is None or earlyprice is None:
+		myprint("[" + symbol + "] ERROR: could not find valid start or end price between : " + str(nowdate) + " and " + str(earlydate), 5)
+		nowprice = 1
+		earlyprice = 1
+		
+	per_return = nowprice / earlyprice - 1.0
+	return per_return
+			
 def generate_plot(extradata, techs = None):
 	if techs == None:
 		techs = load_technicals_json()
@@ -381,25 +391,7 @@ def generate_plot(extradata, techs = None):
 		if techs[symbol][yname] is None:
 			continue
 			
-		raw_symbol = symbol.replace(".to", "")
-		prices = get_price_json(raw_symbol)
-		nowprice = None
-		earlyprice = None
-		iter_date = nowdate
-		while iter_date >= earlydate:
-			pricedatefmt = iter_date.strftime("%Y-%m-%d")
-			if pricedatefmt in prices:
-				earlyprice = prices[pricedatefmt]["Adj Close"]
-				if nowprice is None:
-					nowprice = earlyprice
-			iter_date -= datetime.timedelta(days=1)
-			
-		if nowprice is None or earlyprice is None:
-			myprint("[" + symbol + "] ERROR: could not find valid start or end price between : " + str(nowdate) + " and " + str(earlydate), 5)
-			nowprice = 1
-			earlyprice = 1
-	
-		per_return = nowprice / earlyprice - 1.0
+		per_return = calculate_return_for_period(symbol, daterange)
 		#myprint("[" + symbol + "] " + yname, 2)
 		yval = parse_shortened_price(techs[symbol][yname])
 		if yval is not None:
@@ -414,7 +406,6 @@ def generate_plot(extradata, techs = None):
 	plt.plot(y, x, 'ro', label=yname)
 	plt.legend()
 	plt.show()
-		
 	
 def data_available_for_all():
 	technicalspath = get_combined_technicals_json()
@@ -431,6 +422,19 @@ def data_available_for_all():
 		indent=4, separators=(',', ': '))
 		
 	myprint(as_string, 5)
+	
+def print_top_runner(data, techs = None):
+	if techs == None:
+		techs = load_technicals_json()
+		
+	cum_return = []
+	for symbol in techs:
+		per_return = calculate_return_for_period(symbol, data["daterange"])
+		cum_return.append( (symbol, per_return) )
+		
+	cum_return.sort(key=lambda tup: tup[1])  # sorts in place
+	for x in cum_return:
+		myprint(x[0] + " : " + str(x[1]), 5)
 	
 if __name__ == '__main__':
 	desired_features = [
@@ -454,8 +458,9 @@ if __name__ == '__main__':
 		"TwoHundreddayMovingAverage"
 	]
 	run_all_symbols([
-			"plot",
+			#"plot",
 			#"regression",
+			"bestReturn",
 			"none" # put this here so I don't have to add , when I change list size.
 		], 
 		{
