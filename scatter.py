@@ -170,6 +170,7 @@ def get_yahoo_data(symbols):
 		quote_list = result["query"]["results"]["quote"]
 		for quote in quote_list:
 			symbol = quote["symbol"]
+			myprint("Updated technicals : " + symbol, 1)
 			final_result[symbol] = quote
 			
 	return final_result
@@ -180,8 +181,9 @@ def save_technicals(technicals):
 	with open(filename, 'w') as fo:
 		json.dump(technicals, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
-	timestr = strftime("%Y%m%d-%H%M%S")
-	historical_filename = timestr + "-" + filename
+	timestr = strftime("-%Y%m%d-%H%M%S")
+	historical_filename = filename[:-5] + timestr + filename[-5:]
+	myprint("saving historical technical in " + historical_filename, 1)
 	with open(historical_filename, 'w') as fo:
 		json.dump(technicals, fo, sort_keys=True,
 		indent=4, separators=(',', ': '))
@@ -458,9 +460,10 @@ if __name__ == '__main__':
 		"TwoHundreddayMovingAverage"
 	]
 	run_all_symbols([
+			"dltechnicals",
 			#"plot",
 			#"regression",
-			"bestReturn",
+			#"bestReturn",
 			"none" # put this here so I don't have to add , when I change list size.
 		], 
 		{
