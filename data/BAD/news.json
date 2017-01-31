@@ -358,5 +358,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
         "source": "data\\BAD\\20170130.rss",
         "title": "Research Reports Initiated on Industrials Stocks SNC Lavalin Group, WesternOne, WSP Global, and Badger Daylighting"
+    },
+    {
+        "contents": "data\\BAD\\20170131-090850.news",
+        "description": null,
+        "guid": "yahoo_finance/632836554",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14pl3ebl2/*http://www.capitalcube.com/blog/index.php/badger-daylighting-ltd-bad-ca-dividend-analysis-january-31st-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:53:09 GMT",
+        "source": "data\\BAD\\20170131.rss",
+        "title": "Badger Daylighting Ltd. : BAD-CA: Dividend Analysis : January 31st, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

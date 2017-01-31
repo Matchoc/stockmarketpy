@@ -412,5 +412,14 @@
         "pubDate": "Fri, 27 Jan 2017 14:08:02 GMT",
         "source": "data\\AGI\\20170128.rss",
         "title": "Reading the Upward and Downward Correlation of Mining Stocks"
+    },
+    {
+        "contents": "data\\AGI\\20170131-091605.news",
+        "description": null,
+        "guid": "yahoo_finance/793775197",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12guqjq7b/*http://marketrealist.com/2017/01/hows-the-correlation-of-mining-stocks-moving/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 30 Jan 2017 22:05:56 GMT",
+        "source": "data\\AGI\\20170131.rss",
+        "title": "How\u2019s the Correlation of Mining Stocks Moving?"
     }
 ]

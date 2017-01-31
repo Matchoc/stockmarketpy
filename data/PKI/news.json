@@ -196,5 +196,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:13:56 GMT",
         "source": "data\\PKI\\20170127.rss",
         "title": "Parkland Fuel Corp. breached its 50 day moving average in a Bearish Manner : PKI-CA : January 27, 2017"
+    },
+    {
+        "contents": "data\\PKI\\20170131-092024.news",
+        "description": null,
+        "guid": "yahoo_finance/2986674707",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14l12lj35/*http://www.capitalcube.com/blog/index.php/parkland-fuel-corp-pki-ca-dividend-analysis-january-20th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 19:02:47 GMT",
+        "source": "data\\PKI\\20170131.rss",
+        "title": "Parkland Fuel Corp. : PKI-CA: Dividend Analysis : January 20th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

@@ -376,5 +376,32 @@
         "pubDate": "Mon, 30 Jan 2017 12:07:02 GMT",
         "source": "data\\DGC\\20170130.rss",
         "title": "Q4 2016 Detour Gold Corp Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\DGC\\20170131-090408.news",
+        "description": null,
+        "guid": "yahoo_finance/3996576720",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/detour-gold-reports-2016-exploration-223200138.html",
+        "pubDate": "Mon, 30 Jan 2017 22:32:00 GMT",
+        "source": "data\\DGC\\20170131.rss",
+        "title": "Detour Gold Reports on 2016 Exploration Program"
+    },
+    {
+        "contents": "data\\DGC\\20170131-090409.news",
+        "description": null,
+        "guid": "yahoo_finance/2431964499",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/detour-gold-announces-updated-west-223100740.html",
+        "pubDate": "Mon, 30 Jan 2017 22:31:00 GMT",
+        "source": "data\\DGC\\20170131.rss",
+        "title": "Detour Gold Announces Updated West Detour Development Plans"
+    },
+    {
+        "contents": "data\\DGC\\20170131-090411.news",
+        "description": null,
+        "guid": "yahoo_finance/2341290164",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/detour-gold-announces-2016-operating-223000322.html",
+        "pubDate": "Mon, 30 Jan 2017 22:30:00 GMT",
+        "source": "data\\DGC\\20170131.rss",
+        "title": "Detour Gold Announces 2016 Operating Results and 2017 Guidance"
     }
 ]

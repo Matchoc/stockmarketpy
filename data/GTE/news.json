@@ -196,5 +196,14 @@
         "pubDate": "Mon, 23 Jan 2017 11:00:00 GMT",
         "source": "data\\GTE\\20170123.rss",
         "title": "Gran Tierra Energy Inc. Provides Operational Update"
+    },
+    {
+        "contents": "data\\GTE\\20170131-091816.news",
+        "description": "[Marketwired] - Gran Tierra Energy Inc. , a company focused on oil and gas exploration and production in Colombia today announces that it intends to implement a normal course issuer bid through the facilities of the Toronto ...",
+        "guid": "yahoo_finance/3984080025",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gran-tierra-energy-inc-announces-223233073.html",
+        "pubDate": "Mon, 30 Jan 2017 22:32:33 GMT",
+        "source": "data\\GTE\\20170131.rss",
+        "title": "Gran Tierra Energy Inc. Announces Notice of Intention to Make a Normal Course Issuer Bid"
     }
 ]

@@ -385,5 +385,14 @@
         "pubDate": "Wed, 25 Jan 2017 14:02:49 GMT",
         "source": "data\\ERF\\20170125.rss",
         "title": "Enerplus Corp. breached its 50 day moving average in a Bullish Manner : ERF-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\ERF\\20170131-090016.news",
+        "description": "[CNW Group] - Enerplus Announces 2017 Budget, Operational Update and Three-Year Production Outlook",
+        "guid": "yahoo_finance/832525531",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enerplus-announces-2017-budget-operational-110000076.html",
+        "pubDate": "Tue, 31 Jan 2017 11:00:00 GMT",
+        "source": "data\\ERF\\20170131.rss",
+        "title": "Enerplus Announces 2017 Budget, Operational Update and Three-Year Production Outlook"
     }
 ]

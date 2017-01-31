@@ -196,5 +196,14 @@
         "pubDate": "Fri, 27 Jan 2017 18:17:21 GMT",
         "source": "data\\DH\\20170128.rss",
         "title": "CPPIB, U.S. private equity firms eye Canada's DH Corp"
+    },
+    {
+        "contents": "data\\DH\\20170131-091424.news",
+        "description": null,
+        "guid": "yahoo_finance/3564475460",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/white-paper-explores-benefits-payments-130000195.html",
+        "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
+        "source": "data\\DH\\20170131.rss",
+        "title": "White Paper Explores Benefits of Payments-Platform-as-a-Service, a New Concept Set to Revolutionize Payments Processing"
     }
 ]

@@ -556,5 +556,14 @@
         "pubDate": "Mon, 30 Jan 2017 00:24:19 GMT",
         "source": "data\\CP\\20170130.rss",
         "title": "[$$] CSX, Rail Veteran in Settlement Talks"
+    },
+    {
+        "contents": "data\\CP\\20170131-090022.news",
+        "description": null,
+        "guid": "yahoo_finance/3242727277",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=130m9t7ui/*http://marketrealist.com/2017/01/what-led-to-the-fall-in-canadian-pacifics-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 12:39:13 GMT",
+        "source": "data\\CP\\20170131.rss",
+        "title": "What Led to the Fall in Canadian Pacific\u2019s Intermodal Volumes?"
     }
 ]

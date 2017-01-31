@@ -736,5 +736,32 @@
         "pubDate": "Mon, 21 Jul 2014 06:36:26 GMT",
         "source": "data\\MFC\\20170130.rss",
         "title": "Indonesia lawmakers consider more curbs on bank stakes held by foreigners"
+    },
+    {
+        "contents": "data\\MFC\\20170131-090431.news",
+        "description": "[CNW Group] - Manulife announces Agreement to Settle Related Securities Class Action Litigation",
+        "guid": "yahoo_finance/2268054277",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-announces-agreement-settle-related-133000442.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\MFC\\20170131.rss",
+        "title": "Manulife announces Agreement to Settle Related Securities Class Action Litigation"
+    },
+    {
+        "contents": "data\\MFC\\20170131-090435.news",
+        "description": "[PR Newswire] - TORONTO, Jan. 31, 2017 /PRNewswire/ - Manulife Financial Corporation (\"Manulife\") today announced that the parties to pending class action lawsuits in Ontario and Quebec against Manulife and certain of its former officers have entered into an agreement to settle the proceedings. The settlement is subject to court approval. The proceedings are based on allegations that Manulife failed to meet its disclosure obligations related to its exposure to market price risk in its segregated funds and variable annuity guaranteed products.",
+        "guid": "yahoo_finance/3631882818",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-announces-agreement-settle-related-133000537.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\MFC\\20170131.rss",
+        "title": "Manulife announces Agreement to Settle Related Securities Class Action Litigation"
+    },
+    {
+        "contents": "data\\MFC\\20170131-090436.news",
+        "description": "[CNW Group] - Manulife Investments announces anticipated quarterly and monthly cash distribution",
+        "guid": "yahoo_finance/437694574",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-investments-announces-anticipated-quarterly-153800620.html",
+        "pubDate": "Mon, 30 Jan 2017 15:38:00 GMT",
+        "source": "data\\MFC\\20170131.rss",
+        "title": "Manulife Investments announces anticipated quarterly and monthly cash distribution"
     }
 ]

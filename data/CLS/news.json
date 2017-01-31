@@ -304,5 +304,23 @@
         "pubDate": "Fri, 27 Jan 2017 15:46:37 GMT",
         "source": "data\\CLS\\20170128.rss",
         "title": "CANADA STOCKS-TSX lower as resource stocks weigh; Celestica shines"
+    },
+    {
+        "contents": "data\\CLS\\20170131-091539.news",
+        "description": null,
+        "guid": "yahoo_finance/3666276864",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ck6aepv/*http://www.capitalcube.com/blog/index.php/celestica-inc-gathering-momentum-can-it-sustain-its-performance/",
+        "pubDate": "Mon, 30 Jan 2017 20:26:14 GMT",
+        "source": "data\\CLS\\20170131.rss",
+        "title": "Celestica, Inc.: Gathering momentum, can it sustain its performance?"
+    },
+    {
+        "contents": "data\\CLS\\20170131-091539.news",
+        "description": null,
+        "guid": "yahoo_finance/3597205751",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13qrmkuhs/*http://www.capitalcube.com/blog/index.php/celestica-inc-cls-ca-earnings-analysis-q4-2016-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 16:37:51 GMT",
+        "source": "data\\CLS\\20170131.rss",
+        "title": "Celestica, Inc. :CLS-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 30, 2017"
     }
 ]

@@ -196,5 +196,23 @@
         "pubDate": "Fri, 27 Jan 2017 12:38:25 GMT",
         "source": "data\\PAA\\20170127.rss",
         "title": "Volatility among the Miners in 2017"
+    },
+    {
+        "contents": "data\\PAA\\20170131-091237.news",
+        "description": "[PR Newswire] - TSX:PAA) (\"Pan American\" or the \"Company\") today announced that, effective the start of trading on Wednesday, February 1, 2017, Pan American's stock ticker symbol on the Toronto Stock Exchange (\"TSX\") will change from its original three-letter symbol, \"PAA\" to \"PAAS\" (PAAS). This root symbol change does not require any action by current shareholders. Pan American requested the change to its ticker symbol in Canada following the new permissions introduced by the TSX that allow companies to use a four-letter symbol. The change will align the Company's Canadian ticker symbol with its U.S. ticker symbol on NASDAQ, which remains \"PAAS\" (PAAS).",
+        "guid": "yahoo_finance/2439663670",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pan-american-silver-announces-tsx-130000574.html",
+        "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
+        "source": "data\\PAA\\20170131.rss",
+        "title": "Pan American Silver announces TSX ticker symbol changed to \"PAAS\""
+    },
+    {
+        "contents": "data\\PAA\\20170131-091239.news",
+        "description": "[CNW Group] - Pan American Silver announces TSX ticker symbol changed to \"PAAS\"",
+        "guid": "yahoo_finance/303170358",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pan-american-silver-announces-tsx-130000224.html",
+        "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
+        "source": "data\\PAA\\20170131.rss",
+        "title": "Pan American Silver announces TSX ticker symbol changed to \"PAAS\""
     }
 ]

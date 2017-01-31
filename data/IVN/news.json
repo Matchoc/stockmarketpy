@@ -556,5 +556,14 @@
         "pubDate": "Tue, 24 Feb 2015 23:56:04 GMT",
         "source": "data\\IVN\\20170128.rss",
         "title": "Turquoise Hill to sell remaining stake in Mongolia's SouthGobi"
+    },
+    {
+        "contents": "data\\IVN\\20170131-090837.news",
+        "description": null,
+        "guid": "yahoo_finance/1170833434",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13k7qo0qk/*http://www.bloomberg.com/news/articles/2017-01-30/friedland-s-ivanhoe-surges-as-investors-bet-on-africa-motherlode?cmpid=yhoo.headline",
+        "pubDate": "Mon, 30 Jan 2017 05:00:01 GMT",
+        "source": "data\\IVN\\20170131.rss",
+        "title": "Ivanhoe Surges as Investors Bet on African Copper Motherlode"
     }
 ]

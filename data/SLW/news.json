@@ -214,5 +214,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
         "source": "data\\SLW\\20170128.rss",
         "title": "Can Royalty and Streaming Companies Maintain Premiums in 2017?"
+    },
+    {
+        "contents": "data\\SLW\\20170131-091008.news",
+        "description": null,
+        "guid": "yahoo_finance/4042157974",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kpn3q6s/*http://marketrealist.com/2017/01/reading-the-volatility-and-rsi-levels-for-miners/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 30 Jan 2017 18:56:41 GMT",
+        "source": "data\\SLW\\20170131.rss",
+        "title": "Reading the Volatility and RSI Levels for Miners"
     }
 ]

@@ -286,5 +286,23 @@
         "pubDate": "Thu, 26 Jan 2017 18:39:00 GMT",
         "source": "data\\RKN\\20170127.rss",
         "title": "Redknee Announces Closing of Private Placement and Changes to Board of Directors"
+    },
+    {
+        "contents": "data\\RKN\\20170131-091630.news",
+        "description": null,
+        "guid": "yahoo_finance/558615530",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-solutions-inc-host-fiscal-120000143.html",
+        "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
+        "source": "data\\RKN\\20170131.rss",
+        "title": "Redknee Solutions Inc. to Host Fiscal First Quarter 2017 Investor Conference Call on February 9, 2017"
+    },
+    {
+        "contents": "data\\RKN\\20170131-091632.news",
+        "description": null,
+        "guid": "yahoo_finance/9200827",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-solutions-inc-host-fiscal-120000993.html",
+        "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
+        "source": "data\\RKN\\20170131.rss",
+        "title": "Redknee Solutions Inc. to Host Fiscal First Quarter 2017 Investor Conference Call on February 9, 2017"
     }
 ]

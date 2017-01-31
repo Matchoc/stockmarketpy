@@ -736,5 +736,14 @@
         "pubDate": "Wed, 25 Jan 2017 15:36:00 GMT",
         "source": "data\\TD\\20170125.rss",
         "title": "TD nearly doubles ATMs in Florida with expansion to select Walgreens locations"
+    },
+    {
+        "contents": "data\\TD\\20170131-091151.news",
+        "description": null,
+        "guid": "yahoo_finance/2627223924",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14r2f8r7s/*http://www.capitalcube.com/blog/index.php/the-toronto-dominion-bank-td-ca-dividend-analysis-january-10th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:53:55 GMT",
+        "source": "data\\TD\\20170131.rss",
+        "title": "The Toronto-Dominion Bank : TD-CA: Dividend Analysis : January 10th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

@@ -403,5 +403,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\PPL\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\PPL\\20170131-091726.news",
+        "description": null,
+        "guid": "yahoo_finance/3717588695",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14o6rlhm7/*http://www.capitalcube.com/blog/index.php/pembina-pipeline-corp-ppl-ca-dividend-analysis-january-25th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 19:07:53 GMT",
+        "source": "data\\PPL\\20170131.rss",
+        "title": "Pembina Pipeline Corp. : PPL-CA: Dividend Analysis : January 25th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

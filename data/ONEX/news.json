@@ -133,5 +133,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:54:57 GMT",
         "source": "data\\ONEX\\20170130.rss",
         "title": "ONEX Corp. breached its 50 day moving average in a Bullish Manner : ONEX-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\ONEX\\20170131-091949.news",
+        "description": null,
+        "guid": "yahoo_finance/2253404071",
+        "link": "http://us.rd.yahoo.com/finance/external/xmoodys/rss/SIG=11h21r4n8/*http://www.moodys.com/page/viewresearchdoc.aspx?docid=PR_361381&WT.mc_id=AM~WWFob29fRmluYW5jZTQyX1NCX1JhdGluZyBOZXdzX0FsbF9Fbmc=~20170130_PR_361381",
+        "pubDate": "Mon, 30 Jan 2017 16:52:02 GMT",
+        "source": "data\\ONEX\\20170131.rss",
+        "title": "Compass Midco Limited -- Moody's assigns B2 CFR to Parkdean Resorts' new parent company, Richmond UK Holdco Limited, B1 ratings to the company's proposed first lien term loan and RCF"
     }
 ]

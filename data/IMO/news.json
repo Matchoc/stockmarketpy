@@ -340,5 +340,68 @@
         "pubDate": "Wed, 12 Nov 2014 15:02:18 GMT",
         "source": "data\\IMO\\20170121.rss",
         "title": "ROI Land Investments Ltd. Closes $6,000,000 Equity Investment"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090737.news",
+        "description": null,
+        "guid": "yahoo_finance/2583824493",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/imperial-oil-posts-4q-profit-133950305.html",
+        "pubDate": "Tue, 31 Jan 2017 13:39:50 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Imperial Oil posts 4Q profit"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090738.news",
+        "description": null,
+        "guid": "yahoo_finance/3068370868",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/imperial-oil-posts-4q-profit-133950902.html",
+        "pubDate": "Tue, 31 Jan 2017 13:39:50 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Imperial Oil posts 4Q profit"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090740.news",
+        "description": "[CNW Group] - First quarter dividend declaration",
+        "guid": "yahoo_finance/1052799899",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-quarter-dividend-declaration-125600055.html",
+        "pubDate": "Tue, 31 Jan 2017 12:56:00 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "First quarter dividend declaration"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090742.news",
+        "description": "[CNW Group] - Imperial announces 2016 financial and operating results",
+        "guid": "yahoo_finance/1883039458",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/imperial-announces-2016-financial-operating-125500215.html",
+        "pubDate": "Tue, 31 Jan 2017 12:55:00 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Imperial announces 2016 financial and operating results"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090744.news",
+        "description": null,
+        "guid": "yahoo_finance/112826169",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170131.html?t=imo.to",
+        "pubDate": "Tue, 31 Jan 2017 12:07:06 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Q4 2016 Imperial Oil Ltd Earnings Release - Time Not Supplied"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090744.news",
+        "description": null,
+        "guid": "yahoo_finance/1723503204",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/stocks-most-likely-beat-earnings-142602380.html",
+        "pubDate": "Mon, 30 Jan 2017 14:26:02 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Stocks Most Likely to Beat Earnings for the Week of January 30th"
+    },
+    {
+        "contents": "data\\IMO\\20170131-090746.news",
+        "description": null,
+        "guid": "yahoo_finance/1146146320",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/buy-imperial-oil-imo-ahead-135001983.html",
+        "pubDate": "Mon, 30 Jan 2017 13:50:01 GMT",
+        "source": "data\\IMO\\20170131.rss",
+        "title": "Should You Buy Imperial Oil (IMO) Ahead of Earnings?"
     }
 ]

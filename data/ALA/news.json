@@ -331,5 +331,14 @@
         "pubDate": "Fri, 27 Jan 2017 22:58:29 GMT",
         "source": "data\\ALA\\20170128.rss",
         "title": "MULTIMEDIA UPDATE: AltaGas Celebrates Opening of North America's Largest Battery Storage Facility"
+    },
+    {
+        "contents": "data\\ALA\\20170131-092015.news",
+        "description": null,
+        "guid": "yahoo_finance/2212473037",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14et9jmtf/*http://www.capitalcube.com/blog/index.php/altagas-ltd-ala-ca-dividend-analysis-january-25th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 19:06:26 GMT",
+        "source": "data\\ALA\\20170131.rss",
+        "title": "AltaGas Ltd. : ALA-CA: Dividend Analysis : January 25th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

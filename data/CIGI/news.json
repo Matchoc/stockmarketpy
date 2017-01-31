@@ -142,5 +142,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:14:44 GMT",
         "source": "data\\CIGI\\20170127.rss",
         "title": "Colliers International Group, Inc. breached its 50 day moving average in a Bearish Manner : CIGI-CA : January 27, 2017"
+    },
+    {
+        "contents": "data\\CIGI\\20170131-090834.news",
+        "description": "[GlobeNewswire] - TORONTO, Jan. 31, 2017-- Colliers International Group Inc. announced today that it will release its financial results for the fourth quarter and full year ended December 31, 2016 by press release on Wednesday, ...",
+        "guid": "yahoo_finance/3701258111",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/colliers-international-announce-fourth-quarter-120000526.html",
+        "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
+        "source": "data\\CIGI\\20170131.rss",
+        "title": "Colliers International to Announce Fourth Quarter and Annual Results for 2016 on February 15, 2017"
     }
 ]

@@ -205,5 +205,41 @@
         "pubDate": "Sat, 28 Jan 2017 22:11:23 GMT",
         "source": "data\\WJA\\20170129.rss",
         "title": "Canada's Trudeau welcomes refugees, airline rejects U.S.-bound passenger"
+    },
+    {
+        "contents": "data\\WJA\\20170131-090340.news",
+        "description": "[PR Newswire] - CALGARY, Jan. 31, 2017 /PRNewswire/ - WestJet will hold its quarterly analysts' conference call on Tuesday, February 7, 2017, at 8 a.m. MST (10 a.m. EST) following the release of its 2016 fourth quarter ...",
+        "guid": "yahoo_finance/2485379332",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-westjet-conference-call-133000315.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\WJA\\20170131.rss",
+        "title": "MEDIA ADVISORY - WestJet conference call to discuss 2016 fourth quarter and year-end financial results"
+    },
+    {
+        "contents": "data\\WJA\\20170131-090341.news",
+        "description": null,
+        "guid": "yahoo_finance/1046720193",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-westjet-conference-call-133000576.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\WJA\\20170131.rss",
+        "title": "MEDIA ADVISORY - WestJet conference call to discuss 2016 fourth quarter and year-end financial results"
+    },
+    {
+        "contents": "data\\WJA\\20170131-090343.news",
+        "description": null,
+        "guid": "yahoo_finance/2974021165",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-adds-successful-nashville-160000239.html",
+        "pubDate": "Mon, 30 Jan 2017 16:00:00 GMT",
+        "source": "data\\WJA\\20170131.rss",
+        "title": "WestJet adds to successful Nashville service"
+    },
+    {
+        "contents": "data\\WJA\\20170131-090345.news",
+        "description": null,
+        "guid": "yahoo_finance/1516175912",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-changes-gander-halifax-relationship-160000542.html",
+        "pubDate": "Mon, 30 Jan 2017 16:00:00 GMT",
+        "source": "data\\WJA\\20170131.rss",
+        "title": "WestJet changes Gander and Halifax relationship status to \"connecting soon\""
     }
 ]

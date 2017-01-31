@@ -394,5 +394,14 @@
         "pubDate": "Fri, 01 Jan 2016 06:14:08 GMT",
         "source": "data\\TR\\20161222.rss",
         "title": "ASH 2015 Presentation"
+    },
+    {
+        "contents": "data\\TR\\20170131-090704.news",
+        "description": "[Marketwired] - Trillium Therapeutics Inc. , a clinical-stage immuno-oncology company developing innovative therapies for the treatment of cancer, today announced that it has initiated dosing in its second Phase 1 clinical ...",
+        "guid": "yahoo_finance/2366581874",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trillium-therapeutics-doses-first-patient-120000606.html",
+        "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
+        "source": "data\\TR\\20170131.rss",
+        "title": "Trillium Therapeutics Doses First Patient With TTI-621 in Phase 1 Solid Tumor Trial"
     }
 ]

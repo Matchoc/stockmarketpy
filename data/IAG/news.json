@@ -196,5 +196,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\IAG\\20170124.rss",
         "title": "Research Reports Initiated on Insurance Stocks Industrial Alliance Insurance and Financial Services, Power Corp of Canada, Power Financial, and Manulife Financial"
+    },
+    {
+        "contents": "data\\IAG\\20170131-090332.news",
+        "description": null,
+        "guid": "yahoo_finance/4053259893",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ia-financial-group-offers-group-131300969.html",
+        "pubDate": "Tue, 31 Jan 2017 13:13:00 GMT",
+        "source": "data\\IAG\\20170131.rss",
+        "title": "iA Financial Group offers group retirement plan members the ability to designate and modify beneficiaries online"
     }
 ]

@@ -304,5 +304,14 @@
         "pubDate": "Mon, 23 Jan 2017 16:48:30 GMT",
         "source": "data\\ESI\\20170124.rss",
         "title": "Ensign Energy Services, Inc. \u2013 Value Analysis (TORONTO:ESI) : January 23, 2017"
+    },
+    {
+        "contents": "data\\ESI\\20170131-091401.news",
+        "description": null,
+        "guid": "yahoo_finance/3231221149",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ensign-energy-services-inc-investor-100000357.html",
+        "pubDate": "Tue, 31 Jan 2017 10:00:00 GMT",
+        "source": "data\\ESI\\20170131.rss",
+        "title": "Ensign Energy Services Inc. - Investor Conference Thursday, February 2, 2017"
     }
 ]

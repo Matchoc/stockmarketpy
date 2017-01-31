@@ -412,5 +412,23 @@
         "pubDate": "Fri, 01 Apr 2016 17:18:02 GMT",
         "source": "data\\RIC\\20170129.rss",
         "title": "China's grey luxury market threatened by new tax regime"
+    },
+    {
+        "contents": "data\\RIC\\20170131-090029.news",
+        "description": "[CNW Group] - Richmont Reports 2016 Mineral Reserves & Resources",
+        "guid": "yahoo_finance/3146389219",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-reports-2016-mineral-reserves-113000882.html",
+        "pubDate": "Tue, 31 Jan 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170131.rss",
+        "title": "Richmont Reports 2016 Mineral Reserves & Resources"
+    },
+    {
+        "contents": "data\\RIC\\20170131-090031.news",
+        "description": "[PR Newswire] - Island Gold Mine Increases Mineral Reserves by 34% at an Increased Grade of 9.17 g/t Gold TSX - NYSE: RIC TORONTO, Jan. 31, 2017 /PRNewswire/ - Richmont Mines Inc. (TSX: RIC) (NYSE: RIC) (\"Richmont\" ...",
+        "guid": "yahoo_finance/2195466876",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-reports-2016-mineral-reserves-113000151.html",
+        "pubDate": "Tue, 31 Jan 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170131.rss",
+        "title": "Richmont Reports 2016 Mineral Reserves & Resources"
     }
 ]

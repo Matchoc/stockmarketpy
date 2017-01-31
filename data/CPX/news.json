@@ -187,5 +187,203 @@
         "pubDate": "Fri, 20 Jan 2017 13:15:00 GMT",
         "source": "data\\CPX\\20170120.rss",
         "title": "Research Reports Initiated on Utilities Stocks ATCO Ltd., Capital Power, Superior Plus, and Just Energy Group"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091252.news",
+        "description": null,
+        "guid": "yahoo_finance/600131860",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/capital-power-announces-date-release-140000990.html",
+        "pubDate": "Tue, 31 Jan 2017 14:00:00 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power announces date for release of fourth quarter and year-ended 2016 financial results and analyst conference call"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091254.news",
+        "description": null,
+        "guid": "yahoo_finance/324293206",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/capital-power-announces-closing-c-124341155.html",
+        "pubDate": "Tue, 04 Oct 2016 12:43:41 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Announces Closing of C$200 Million Offering of 6.00% Cumulative Minimum Rate Reset Preferred Shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091255.news",
+        "description": null,
+        "guid": "yahoo_finance/276951619",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14pfkcaqm/*http://www.capitalcube.com/blog/index.php/capital-power-corp-cpx-ca-dividend-analysis-september-30th-2016-record-date-by-the-numbers-september-30-2016/",
+        "pubDate": "Fri, 30 Sep 2016 15:19:44 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Corp. : CPX-CA: Dividend Analysis : September 30th, 2016 (record date) : By the numbers : September 30, 2016"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091310.news",
+        "description": "[at noodls] - EDMONTON, Alberta - Capital Power Corporation (TSX: CPX) will release its third quarter 2016 results before markets open on Monday, October 24, 2016. Management will host a conference call with analysts ...",
+        "guid": "yahoo_finance/3909108416",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uast1h/*http://www.publicnow.com/view/07BFF4B51F1E6F0CFA77B7315FD20117F3B0333F",
+        "pubDate": "Thu, 29 Sep 2016 13:10:10 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power announces date for release of third quarter 2016 financial results and analyst conference call"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091311.news",
+        "description": null,
+        "guid": "yahoo_finance/550128542",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/capital-power-announces-date-release-130000441.html",
+        "pubDate": "Thu, 29 Sep 2016 13:00:00 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Announces Date for Release of Third Quarter 2016 Financial Results and Analyst Conference Call"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091312.news",
+        "description": null,
+        "guid": "yahoo_finance/2014340484",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fjlrf7n/*http://www.capitalcube.com/blog/index.php/capital-power-corp-breached-its-50-day-moving-average-in-a-bearish-manner-cpx-ca-september-26-2016/",
+        "pubDate": "Mon, 26 Sep 2016 13:33:54 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Corp. breached its 50 day moving average in a Bearish Manner : CPX-CA : September 26, 2016"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091327.news",
+        "description": "[at noodls] - EDMONTON, Alberta - Capital Power Corporation ('Capital Power') (TSX:CPX) announced today that as a result of strong investor demand for its previously announced offering of Cumulative Minimum Rate Reset ...",
+        "guid": "yahoo_finance/3243325949",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128s0ni79/*http://www.publicnow.com/view/0299323959D59EFF08A775CDC5D507D37EDD3F17",
+        "pubDate": "Fri, 23 Sep 2016 19:42:03 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Announces Increased Size of Preferred Share Offering"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091327.news",
+        "description": null,
+        "guid": "yahoo_finance/4281254216",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/capital-power-announces-increased-size-192812598.html",
+        "pubDate": "Fri, 23 Sep 2016 19:28:12 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Announces Increased Size of Preferred Share Offering"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091329.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - Capital Power Corporation ('Capital Power') (TSX:CPX) announced today that it will issue 6,000,000 Cumulative Minimum Rate Reset Preference Shares, Series 7 (the 'Series 7 Shares') ...",
+        "guid": "yahoo_finance/451268887",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uf00k8/*http://www.publicnow.com/view/405F81B687BD3C5C543E6894471E40DD299F6870",
+        "pubDate": "Thu, 22 Sep 2016 13:51:02 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power Announces C$150 Million Offering of 6.00% Cumulative Minimum Rate Reset Preferred Shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091329.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - Capital Power Corporation (Capital Power or the company) (TSX: CPX) announced today the closing of a CAD $160 million, 10-year unsecured senior note (Note) with Prudential Capital ...",
+        "guid": "yahoo_finance/2796436575",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rgp2m2/*http://www.publicnow.com/view/B152726106470FA8DAB185C97CA519E91ED8831D",
+        "pubDate": "Tue, 13 Sep 2016 20:28:07 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power announces long-term private placement debt financing"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091329.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - Today, Capital Power released its seventh annual Corporate Responsibility Report. Power Forward is now available at www.capitalpower.com/responsibility. ... This is an abstract of ...",
+        "guid": "yahoo_finance/2859820841",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ckusje/*http://www.publicnow.com/view/17250C60FDA439EF5F4364F642C17D0414F4390B",
+        "pubDate": "Mon, 15 Aug 2016 16:11:09 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power releases its 2015 Corporate Responsibility Report"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091329.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - Capital Power Corporation (Capital Power or the company) (TSX: CPX) issued the following statement, following the Government of Alberta's commencement of legal action that seeks to ...",
+        "guid": "yahoo_finance/3876068698",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128c850ji/*http://www.publicnow.com/view/6D6A9EA53ED99E1BF398AF62C3F6E41F69153DB7",
+        "pubDate": "Tue, 26 Jul 2016 00:58:02 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power responds to Government of Alberta\u2019s litigation seeking to reinstate Power Purchase Arrangements"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091329.news",
+        "description": "[at noodls] - EDMONTON, Alberta - Capital Power Corporation (Capital Power, or the Company) (TSX: CPX) today released financial results for the second quarter ended June 30, 2016. The Company also announced that its ...",
+        "guid": "yahoo_finance/3008783106",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128qlaepk/*http://www.publicnow.com/view/E20A153FBBBF5C8304F69FE140473E03465E8FA2",
+        "pubDate": "Mon, 25 Jul 2016 12:18:01 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power reports second quarter 2016 results and announces a 6.8% dividend increase for its common shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - EDMONTON, Alberta - The Board of Directors for Capital Power Corporation (TSX: CPX) (Capital Power) declared a dividend of $0.39 per share on the outstanding common shares for the quarter ending September ...",
+        "guid": "yahoo_finance/821149939",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12862kknq/*http://www.publicnow.com/view/670D5560FEBC91EBBADD87AF11ADF1DCD14E7830",
+        "pubDate": "Mon, 25 Jul 2016 12:18:01 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power declares dividends for its Common and Cumulative Rate Reset Preference shares and announces a 6.8% dividend increase for its common shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - Capital Power Corporation (TSX: CPX) will release its second quarter 2016 results before markets open on Monday, July 25, 2016. Management will host a conference call with analysts ...",
+        "guid": "yahoo_finance/56770295",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128u64vom/*http://www.publicnow.com/view/FAC555FF12FED45F3D1CD89E8561742E0ECB2BE2",
+        "pubDate": "Wed, 29 Jun 2016 13:11:04 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power announces date for release of second quarter 2016 financial results and analyst conference call"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - For the sixth consecutive year, Corporate Knights has named Capital Power to its list of the Best 50 Corporate Citizens in Canada. Capital Power ranked 38th overall and first in the ...",
+        "guid": "yahoo_finance/1755038500",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128iavop4/*http://www.publicnow.com/view/1933438B9E475B80252F1AB3E12FBC450ADAC91A",
+        "pubDate": "Tue, 07 Jun 2016 20:28:02 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power named one of Canada's '50 Best Corporate Citizens'"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - 13:32 - 04 May 2016 First Vestas V117-3.3 MW turbines in Kansas, underlining the 3 MW-platform's versatility. Capital Power Corporation (TSX: CPX) has placed a firm and unconditional order for 54 V117-3.3 ...",
+        "guid": "yahoo_finance/870336949",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rtecqb/*http://www.publicnow.com/view/A3DACB4323F5A3DD2DB9F11F48436A2314CDE79D",
+        "pubDate": "Wed, 04 May 2016 11:40:07 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Vestas receives 178 MW order in Kansas"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - EDMONTON, Alberta - April 26, 2016 - The annual meeting of shareholders (annual meeting) for Capital Power Corporation (TSX: CPX) (Capital Power or the Corporation) was held on April 22, 2016 in Edmonton, ...",
+        "guid": "yahoo_finance/2637197728",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128hspok0/*http://www.publicnow.com/view/81269784FE80165E2D4E524B7489D9A8D3C0B5FC",
+        "pubDate": "Tue, 26 Apr 2016 22:52:22 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power reports voting results from the 2016 annual meeting of shareholders"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - Capital Power secures contract for the 178 megawatt Bloom Wind project and shifts the construction decision for Genesee 4 and 5 to late 2016 EDMONTON, Alberta - Capital Power Corporation (Capital Power, ...",
+        "guid": "yahoo_finance/2491367132",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ospu8m/*http://www.publicnow.com/view/1F64E9572258F5CF1B07A27CAE59311E9C9BE8BA",
+        "pubDate": "Mon, 25 Apr 2016 12:19:15 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power reports first quarter 2016 results"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - \u200bEDMONTON, Alberta - The Toronto Stock Exchange (TSX) has approved Capital Power Corporation's (TSX: CPX) ('Capital Power' or 'the Company') normal course issuer bid ('NCIB') to purchase and cancel up ...",
+        "guid": "yahoo_finance/2452910320",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ubknoq/*http://www.publicnow.com/view/6288BCCA830F672236E79044FF145A020C41E928",
+        "pubDate": "Mon, 25 Apr 2016 12:19:15 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power announces approval of normal course issuer bid for purchase of up to 8.6 million of its common shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091330.news",
+        "description": "[at noodls] - \u200bEdmonton - The Board of Directors for Capital Power Corporation (TSX: CPX) (Capital Power) declared a dividend of $0.365 per share on the outstanding common shares for the quarter ending June 30, 2016. ...",
+        "guid": "yahoo_finance/1793657982",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uq3r7s/*http://www.publicnow.com/view/0B14FA5C43AAA2A098BD30D6FB7B9FF861D7D3BA",
+        "pubDate": "Fri, 22 Apr 2016 20:48:25 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Capital Power declares dividends for its Common and Cumulative Rate Reset Preference shares"
+    },
+    {
+        "contents": "data\\CPX\\20170131-091331.news",
+        "description": "[at noodls] - EDMONTON, Alberta - Capital Power Corporation (TSX: CPX) (Capital Power or the Company) will release its first quarter, 2016 results before the market opens on April 25, 2016. Management will host a conference ...",
+        "guid": "yahoo_finance/4049648276",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287cp03g/*http://www.publicnow.com/view/22D551C8388D8116EABEE336A9A6A606E0C96E1D",
+        "pubDate": "Thu, 31 Mar 2016 13:23:19 GMT",
+        "source": "data\\CPX\\20170131.rss",
+        "title": "Advisory \u2013 Capital Power announces revised release date for first quarter 2016 financial results"
     }
 ]

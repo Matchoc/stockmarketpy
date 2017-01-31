@@ -979,5 +979,14 @@
         "pubDate": "Fri, 27 Jan 2017 16:30:45 GMT",
         "source": "data\\ABX\\20170128.rss",
         "title": "Larry Pitkowsky's GoodHaven Fund 4th Quarter Commentary"
+    },
+    {
+        "contents": "data\\ABX\\20170131-091904.news",
+        "description": null,
+        "guid": "yahoo_finance/709967558",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12poi5oog/*http://www.fool.com/investing/2017/01/31/6-gold-statistics-that-will-blow-you-away.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 31 Jan 2017 13:28:08 GMT",
+        "source": "data\\ABX\\20170131.rss",
+        "title": "6 Gold Statistics That Will Blow You Away"
     }
 ]

@@ -187,5 +187,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:00:00 GMT",
         "source": "data\\RBA\\20170123.rss",
         "title": "Ritchie Bros. Auctioneers Declares Quarterly Dividend"
+    },
+    {
+        "contents": "data\\RBA\\20170131-090325.news",
+        "description": "[PR Newswire] - 7,200+ items already listed to be sold in the annual five-day event; consignments still being accepted ORLANDO, FL, Jan. 31, 2017 /PRNewswire/ - Ritchie Bros. holds more than 120 auctions in the United ...",
+        "guid": "yahoo_finance/1211497407",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ritchie-bros-massive-orlando-auction-130000042.html",
+        "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
+        "source": "data\\RBA\\20170131.rss",
+        "title": "Ritchie Bros.' massive Orlando auction still growing"
     }
 ]

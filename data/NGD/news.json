@@ -205,5 +205,41 @@
         "pubDate": "Mon, 30 Jan 2017 12:30:00 GMT",
         "source": "data\\NGD\\20170130.rss",
         "title": "New Gold Achieves 2016 Production Guidance at Lower Costs, Provides Rainy River Update, 2017 Guidance and Announces Board and Management Changes"
+    },
+    {
+        "contents": "data\\NGD\\20170131-090209.news",
+        "description": null,
+        "guid": "yahoo_finance/629053776",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132fgiedu/*http://www.fool.com/investing/2017/01/30/why-transocean-rite-aid-and-new-gold-slumped-today.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Mon, 30 Jan 2017 23:00:00 GMT",
+        "source": "data\\NGD\\20170131.rss",
+        "title": "Why Transocean, Rite Aid, and New Gold Slumped Today"
+    },
+    {
+        "contents": "data\\NGD\\20170131-090209.news",
+        "description": null,
+        "guid": "yahoo_finance/2285099857",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=130pgppf2/*http://www.fool.com/investing/2017/01/30/heres-why-new-gold-inc-shares-are-plunging-today.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 30 Jan 2017 17:00:16 GMT",
+        "source": "data\\NGD\\20170131.rss",
+        "title": "Here's Why New Gold Inc. Shares Are Plunging Today"
+    },
+    {
+        "contents": "data\\NGD\\20170131-090210.news",
+        "description": null,
+        "guid": "yahoo_finance/1013469551",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-expects-higher-mine-costs-151855485.html",
+        "pubDate": "Mon, 30 Jan 2017 15:18:55 GMT",
+        "source": "data\\NGD\\20170131.rss",
+        "title": "New Gold expects higher mine costs, Rainy River production delay"
+    },
+    {
+        "contents": "data\\NGD\\20170131-090211.news",
+        "description": null,
+        "guid": "yahoo_finance/789741442",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-warns-higher-mine-build-145844642.html",
+        "pubDate": "Mon, 30 Jan 2017 14:58:44 GMT",
+        "source": "data\\NGD\\20170131.rss",
+        "title": "New Gold warns of higher mine build cost, production delay at Rainy River"
     }
 ]

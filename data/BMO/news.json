@@ -259,5 +259,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:14:00 GMT",
         "source": "data\\BMO\\20170128.rss",
         "title": "BMO Introduces National Cash Incentive Program for First-Time Home Buyers"
+    },
+    {
+        "contents": "data\\BMO\\20170131-091839.news",
+        "description": null,
+        "guid": "yahoo_finance/490415587",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/moves-bmo-real-estate-strengthens-114427262.html",
+        "pubDate": "Tue, 31 Jan 2017 11:44:27 GMT",
+        "source": "data\\BMO\\20170131.rss",
+        "title": "MOVES-BMO Real Estate strengthens Paris investment team"
     }
 ]

@@ -367,5 +367,23 @@
         "pubDate": "Mon, 30 Jan 2017 12:39:04 GMT",
         "source": "data\\AEM\\20170130.rss",
         "title": "Why the Volatility among Mining Stocks?"
+    },
+    {
+        "contents": "data\\AEM\\20170131-090517.news",
+        "description": null,
+        "guid": "yahoo_finance/793775197",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12guqjq7b/*http://marketrealist.com/2017/01/hows-the-correlation-of-mining-stocks-moving/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 30 Jan 2017 22:05:56 GMT",
+        "source": "data\\AEM\\20170131.rss",
+        "title": "How\u2019s the Correlation of Mining Stocks Moving?"
+    },
+    {
+        "contents": "data\\AEM\\20170131-090518.news",
+        "description": null,
+        "guid": "yahoo_finance/4042157974",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kpn3q6s/*http://marketrealist.com/2017/01/reading-the-volatility-and-rsi-levels-for-miners/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 30 Jan 2017 18:56:41 GMT",
+        "source": "data\\AEM\\20170131.rss",
+        "title": "Reading the Volatility and RSI Levels for Miners"
     }
 ]

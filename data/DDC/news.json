@@ -187,5 +187,14 @@
         "pubDate": "Mon, 30 Jan 2017 11:30:00 GMT",
         "source": "data\\DDC\\20170130.rss",
         "title": "Dominion Diamond Corporation Announces CEO Transition"
+    },
+    {
+        "contents": "data\\DDC\\20170131-090722.news",
+        "description": null,
+        "guid": "yahoo_finance/670122699",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dominion-diamond-ceo-quits-successor-150706696.html",
+        "pubDate": "Mon, 30 Jan 2017 15:07:06 GMT",
+        "source": "data\\DDC\\20170131.rss",
+        "title": "Dominion Diamond CEO quits; successor sought"
     }
 ]

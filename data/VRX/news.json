@@ -862,5 +862,41 @@
         "pubDate": "Fri, 27 Jan 2017 17:49:13 GMT",
         "source": "data\\VRX\\20170128.rss",
         "title": "Pershing Square Defends Valeant's Progress, Can't Defend Its Stock Performance"
+    },
+    {
+        "contents": "data\\VRX\\20170131-090932.news",
+        "description": "[PR Newswire] - LAVAL, Quebec, Jan. 30, 2017 /PRNewswire/ -- Valeant Pharmaceuticals International, Inc. (NYSE: VRX) (TSX: VRX) (\"Valeant\" or the \"Company\") today announced that it plans to hold a ...",
+        "guid": "yahoo_finance/2353879229",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/valeant-hold-conference-call-present-213000265.html",
+        "pubDate": "Mon, 30 Jan 2017 21:30:00 GMT",
+        "source": "data\\VRX\\20170131.rss",
+        "title": "Valeant To Hold Conference Call To Present Fourth Quarter And Full Year 2016 Results And Announce 2017 Guidance"
+    },
+    {
+        "contents": "data\\VRX\\20170131-090936.news",
+        "description": "[CNW Group] - Valeant To Hold Conference Call To Present Fourth Quarter And Full Year 2016 Results And Announce 2017 Guidance",
+        "guid": "yahoo_finance/362689654",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/valeant-hold-conference-call-present-213000732.html",
+        "pubDate": "Mon, 30 Jan 2017 21:30:00 GMT",
+        "source": "data\\VRX\\20170131.rss",
+        "title": "Valeant To Hold Conference Call To Present Fourth Quarter And Full Year 2016 Results And Announce 2017 Guidance"
+    },
+    {
+        "contents": "data\\VRX\\20170131-090938.news",
+        "description": null,
+        "guid": "yahoo_finance/2250495012",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1322blnji/*http://www.fool.com/investing/2017/01/30/is-valeant-pharmaceuticals-turnaround-finally-in-t.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 30 Jan 2017 18:12:59 GMT",
+        "source": "data\\VRX\\20170131.rss",
+        "title": "Is Valeant Pharmaceuticals' Turnaround Finally in the Cards?"
+    },
+    {
+        "contents": "data\\VRX\\20170131-090938.news",
+        "description": null,
+        "guid": "yahoo_finance/1775567348",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=135ns41u8/*http://blogs.barrons.com/stockstowatchtoday/2017/01/30/valeant-pharmaceuticals-a-challenging-setup/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Mon, 30 Jan 2017 16:16:00 GMT",
+        "source": "data\\VRX\\20170131.rss",
+        "title": "Valeant Pharmaceuticals: A Challenging Setup?"
     }
 ]

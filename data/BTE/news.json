@@ -439,5 +439,14 @@
         "pubDate": "Mon, 23 Jan 2017 22:15:00 GMT",
         "source": "data\\BTE\\20170124.rss",
         "title": "Baytex to Present at CIBC Whistler Conference"
+    },
+    {
+        "contents": "data\\BTE\\20170131-091242.news",
+        "description": null,
+        "guid": "yahoo_finance/3479097597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500884.html",
+        "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
+        "source": "data\\BTE\\20170131.rss",
+        "title": "Research Reports Initiated on Energy Stocks Baytex Energy Encana Birchcliff Energy and Whitecap Resources"
     }
 ]

@@ -331,5 +331,14 @@
         "pubDate": "Sun, 29 Jan 2017 22:33:24 GMT",
         "source": "data\\SAP\\20170130.rss",
         "title": "Canada's Saputo makes bid for rest of Australia's Warrnambool Cheese and Butter"
+    },
+    {
+        "contents": "data\\SAP\\20170131-090124.news",
+        "description": null,
+        "guid": "yahoo_finance/3571713204",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/leith-wheeler-investment-funds-4th-170940049.html",
+        "pubDate": "Mon, 30 Jan 2017 17:11:06 GMT",
+        "source": "data\\SAP\\20170131.rss",
+        "title": "Leith Wheeler Investment Funds 4th Quarter Review"
     }
 ]

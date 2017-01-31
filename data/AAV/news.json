@@ -178,5 +178,23 @@
         "pubDate": "Tue, 20 Sep 2016 15:32:42 GMT",
         "source": "data\\AAV\\20170118.rss",
         "title": "Advantage Oil & Gas Ltd. \u2013 Value Analysis (TORONTO:AAV) : September 20, 2016"
+    },
+    {
+        "contents": "data\\AAV\\20170131-091012.news",
+        "description": null,
+        "guid": "yahoo_finance/2575307591",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14i647rnk/*http://www.capitalcube.com/blog/index.php/advantage-oil-gas-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-aav-ca-september-19-2016/",
+        "pubDate": "Mon, 19 Sep 2016 12:51:22 GMT",
+        "source": "data\\AAV\\20170131.rss",
+        "title": "Advantage Oil & Gas Ltd. breached its 50 day moving average in a Bearish Manner : AAV-CA : September 19, 2016"
+    },
+    {
+        "contents": "data\\AAV\\20170131-091053.news",
+        "description": null,
+        "guid": "yahoo_finance/530371418",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13a855b8b/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-advantage-oil-gas-ltd-september-14-2016/",
+        "pubDate": "Wed, 14 Sep 2016 13:45:14 GMT",
+        "source": "data\\AAV\\20170131.rss",
+        "title": "ETF\u2019s with exposure to Advantage Oil & Gas Ltd. : September 14, 2016"
     }
 ]

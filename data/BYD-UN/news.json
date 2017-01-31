@@ -331,5 +331,14 @@
         "pubDate": "Wed, 23 Mar 2016 10:00:00 GMT",
         "source": "data\\BYD-UN\\20170120.rss",
         "title": "Boyd Group Income Fund Reports Fourth Quarter and Full Year 2015 Results"
+    },
+    {
+        "contents": "data\\BYD-UN\\20170131-090128.news",
+        "description": null,
+        "guid": "yahoo_finance/2592522410",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-consumer-goods-131500309.html",
+        "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
+        "source": "data\\BYD-UN\\20170131.rss",
+        "title": "Research Reports Initiated on Consumer Goods and Services Stocks Torstar, Boyd Group Income Fund, CIBT Education Group, and Colabor Group"
     }
 ]

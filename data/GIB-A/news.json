@@ -484,5 +484,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
         "source": "data\\GIB-A\\20170130.rss",
         "title": "U.S. Department of Veterans Affairs selects CGI for Community Care recovery audit services"
+    },
+    {
+        "contents": "data\\GIB-A\\20170131-090802.news",
+        "description": "[CNW Group] - /R E P E A T -- CGI announces details for its Annual General Meeting of Shareholders and release of fiscal 2017 first quarter results/",
+        "guid": "yahoo_finance/1466753773",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-133000780.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\GIB-A\\20170131.rss",
+        "title": "/R E P E A T -- CGI announces details for its Annual General Meeting of Shareholders and release of fiscal 2017 first quarter results/"
+    },
+    {
+        "contents": "data\\GIB-A\\20170131-090804.news",
+        "description": null,
+        "guid": "yahoo_finance/21669525",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14accmoqd/*http://www.capitalcube.com/blog/index.php/cgi-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-gib-a-ca-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 13:58:51 GMT",
+        "source": "data\\GIB-A\\20170131.rss",
+        "title": "CGI Group, Inc. breached its 50 day moving average in a Bullish Manner : GIB.A-CA : January 30, 2017"
     }
 ]

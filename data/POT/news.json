@@ -1060,5 +1060,14 @@
         "pubDate": "Mon, 30 Jan 2017 06:00:00 GMT",
         "source": "data\\POT\\20170130.rss",
         "title": "Disney, Apple, Comcast: Doug Kass' Views"
+    },
+    {
+        "contents": "data\\POT\\20170131-090525.news",
+        "description": null,
+        "guid": "yahoo_finance/3480589035",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=152hkp1eo/*http://www.capitalcube.com/blog/index.php/potash-corp-of-saskatchewan-inc-pot-ca-dividend-analysis-january-12th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:54:42 GMT",
+        "source": "data\\POT\\20170131.rss",
+        "title": "Potash Corp. of Saskatchewan, Inc. : POT-CA: Dividend Analysis : January 12th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

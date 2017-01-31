@@ -376,5 +376,14 @@
         "pubDate": "Thu, 14 Apr 2016 17:47:17 GMT",
         "source": "data\\OGC\\20170130.rss",
         "title": "OceanaGold Receives FTAA EP Renewal; Updated R & R Statement"
+    },
+    {
+        "contents": "data\\OGC\\20170131-091146.news",
+        "description": null,
+        "guid": "yahoo_finance/3464638505",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/oceanagolds-preliminary-2016-operating-results-171033630.html",
+        "pubDate": "Mon, 30 Jan 2017 17:10:33 GMT",
+        "source": "data\\OGC\\20170131.rss",
+        "title": "OceanaGold's Preliminary 2016 Operating Results"
     }
 ]

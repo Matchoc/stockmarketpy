@@ -286,5 +286,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
         "source": "data\\ECI\\20170127.rss",
         "title": "Research Reports Initiated on Industrials Stocks Aimia, EnerCare, Ballard Power Systems, and Aecon Group"
+    },
+    {
+        "contents": "data\\ECI\\20170131-091409.news",
+        "description": null,
+        "guid": "yahoo_finance/2905808411",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14f4ba670/*http://www.capitalcube.com/blog/index.php/enercare-inc-eci-ca-dividend-analysis-january-16th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:59:04 GMT",
+        "source": "data\\ECI\\20170131.rss",
+        "title": "EnerCare, Inc. : ECI-CA: Dividend Analysis : January 16th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

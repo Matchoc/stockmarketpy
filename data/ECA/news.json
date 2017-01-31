@@ -682,5 +682,14 @@
         "pubDate": "Tue, 17 Jan 2017 17:42:07 GMT",
         "source": "data\\ECA\\20170118.rss",
         "title": "Encana Corp Stock Surged More Than 100% in 2016. Does It Have Anything Left for 2017?"
+    },
+    {
+        "contents": "data\\ECA\\20170131-091718.news",
+        "description": null,
+        "guid": "yahoo_finance/3479097597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500884.html",
+        "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
+        "source": "data\\ECA\\20170131.rss",
+        "title": "Research Reports Initiated on Energy Stocks Baytex Energy Encana Birchcliff Energy and Whitecap Resources"
     }
 ]

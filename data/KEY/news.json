@@ -205,5 +205,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:51:47 GMT",
         "source": "data\\KEY\\20170124.rss",
         "title": "Keyera Corp. breached its 50 day moving average in a Bearish Manner : KEY-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\KEY\\20170131-092043.news",
+        "description": null,
+        "guid": "yahoo_finance/1119223891",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ebb9uc6/*http://www.capitalcube.com/blog/index.php/keyera-corp-key-ca-dividend-analysis-january-23rd-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 19:05:42 GMT",
+        "source": "data\\KEY\\20170131.rss",
+        "title": "Keyera Corp. : KEY-CA: Dividend Analysis : January 23rd, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

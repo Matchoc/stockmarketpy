@@ -421,5 +421,14 @@
         "pubDate": "Thu, 26 Jan 2017 16:09:48 GMT",
         "source": "data\\MX\\20170127.rss",
         "title": "CANADA STOCKS-TSX edges lower as materials stocks weigh, earnings in focus"
+    },
+    {
+        "contents": "data\\MX\\20170131-091844.news",
+        "description": null,
+        "guid": "yahoo_finance/1949559615",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13m7oggpd/*http://www.capitalcube.com/blog/index.php/methanex-corp-mx-ca-earnings-analysis-2016-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 15:56:39 GMT",
+        "source": "data\\MX\\20170131.rss",
+        "title": "Methanex Corp. :MX-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
     }
 ]

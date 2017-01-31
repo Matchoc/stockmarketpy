@@ -871,5 +871,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:15:00 GMT",
         "source": "data\\BB\\20170123.rss",
         "title": "Research Reports Initiated on Info Tech Stocks Wi-LAN, BlackBerry, Mitel Networks, and Sandvine"
+    },
+    {
+        "contents": "data\\BB\\20170131-091855.news",
+        "description": "[Marketwired] - BlackBerry Limited , today announced that BlackBerry Secure, the company's comprehensive approach to security addressing the entire enterprise from end point to end point, is now able to help organizations ...",
+        "guid": "yahoo_finance/1483976438",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/blackberry-advances-global-expansion-athoc-140000700.html",
+        "pubDate": "Tue, 31 Jan 2017 14:00:00 GMT",
+        "source": "data\\BB\\20170131.rss",
+        "title": "BlackBerry Advances Global Expansion of Its AtHoc Crisis Communication Software"
     }
 ]

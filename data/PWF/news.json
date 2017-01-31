@@ -196,5 +196,32 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\PWF\\20170124.rss",
         "title": "Research Reports Initiated on Insurance Stocks Industrial Alliance Insurance and Financial Services, Power Corp of Canada, Power Financial, and Manulife Financial"
+    },
+    {
+        "contents": "data\\PWF\\20170131-091619.news",
+        "description": null,
+        "guid": "yahoo_finance/2347203193",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/wealthsimple-expands-millennial-friendly-online-110000665.html",
+        "pubDate": "Tue, 31 Jan 2017 11:00:00 GMT",
+        "source": "data\\PWF\\20170131.rss",
+        "title": "Wealthsimple Expands Millennial-Friendly Online Investing to the U.S."
+    },
+    {
+        "contents": "data\\PWF\\20170131-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/1670054361",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadas-wealthsimple-takes-crowded-u-050827865.html",
+        "pubDate": "Tue, 31 Jan 2017 07:18:40 GMT",
+        "source": "data\\PWF\\20170131.rss",
+        "title": "Canada's Wealthsimple takes on crowded U.S. robo-adviser market"
+    },
+    {
+        "contents": "data\\PWF\\20170131-091624.news",
+        "description": null,
+        "guid": "yahoo_finance/1105657400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-wealthsimple-takes-crowded-u-050100235.html",
+        "pubDate": "Tue, 31 Jan 2017 05:01:00 GMT",
+        "source": "data\\PWF\\20170131.rss",
+        "title": "Canada's Wealthsimple takes on crowded U.S. robo-adviser market"
     }
 ]

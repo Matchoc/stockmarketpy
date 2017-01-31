@@ -304,5 +304,14 @@
         "pubDate": "Wed, 11 May 2016 21:07:05 GMT",
         "source": "data\\BIR\\20170130.rss",
         "title": "Birchcliff Energy Ltd. Announces 2016 First Quarter Results and Record Quarterly Average Production"
+    },
+    {
+        "contents": "data\\BIR\\20170131-090930.news",
+        "description": null,
+        "guid": "yahoo_finance/3479097597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500884.html",
+        "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
+        "source": "data\\BIR\\20170131.rss",
+        "title": "Research Reports Initiated on Energy Stocks Baytex Energy Encana Birchcliff Energy and Whitecap Resources"
     }
 ]

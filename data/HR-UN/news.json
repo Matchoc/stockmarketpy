@@ -205,5 +205,14 @@
         "pubDate": "Mon, 20 Jun 2016 23:27:33 GMT",
         "source": "data\\HR-UN\\20170127.rss",
         "title": "Dream Office REIT to sell 50 pct interest in Scotia Plaza to KingSett, AIMCo"
+    },
+    {
+        "contents": "data\\HR-UN\\20170131-090359.news",
+        "description": null,
+        "guid": "yahoo_finance/2706965693",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/h-r-completes-200mm-senior-150000130.html",
+        "pubDate": "Mon, 30 Jan 2017 15:00:00 GMT",
+        "source": "data\\HR-UN\\20170131.rss",
+        "title": "H&R Completes $200MM Senior Unsecured Debenture Financing"
     }
 ]

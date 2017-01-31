@@ -205,5 +205,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:54:09 GMT",
         "source": "data\\MIC\\20170130.rss",
         "title": "Genworth MI Canada, Inc. breached its 50 day moving average in a Bullish Manner : MIC-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\MIC\\20170131-092038.news",
+        "description": null,
+        "guid": "yahoo_finance/1322806775",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-canada-finance-committee-submission-223000101.html",
+        "pubDate": "Mon, 30 Jan 2017 22:30:00 GMT",
+        "source": "data\\MIC\\20170131.rss",
+        "title": "Genworth Canada: Finance Committee Submission Canadian Real Estate Market and Home Ownership"
+    },
+    {
+        "contents": "data\\MIC\\20170131-092039.news",
+        "description": null,
+        "guid": "yahoo_finance/2285271807",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-canada-finance-committee-submission-223000826.html",
+        "pubDate": "Mon, 30 Jan 2017 22:30:00 GMT",
+        "source": "data\\MIC\\20170131.rss",
+        "title": "Genworth Canada: Finance Committee Submission Canadian Real Estate Market and Home Ownership"
     }
 ]

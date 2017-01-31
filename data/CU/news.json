@@ -196,5 +196,14 @@
         "pubDate": "Thu, 18 Aug 2016 22:18:41 GMT",
         "source": "data\\CU\\20170125.rss",
         "title": "ETF\u2019s with exposure to Canadian Utilities Ltd. : August 18, 2016"
+    },
+    {
+        "contents": "data\\CU\\20170131-090550.news",
+        "description": null,
+        "guid": "yahoo_finance/1254412783",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fvqn8ca/*http://www.capitalcube.com/blog/index.php/canadian-utilities-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-cu-ca-august-17-2016/",
+        "pubDate": "Wed, 17 Aug 2016 12:29:16 GMT",
+        "source": "data\\CU\\20170131.rss",
+        "title": "Canadian Utilities Ltd. breached its 50 day moving average in a Bearish Manner : CU-CA : August 17, 2016"
     }
 ]

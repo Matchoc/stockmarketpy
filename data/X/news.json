@@ -412,5 +412,41 @@
         "pubDate": "Mon, 30 Jan 2017 13:30:00 GMT",
         "source": "data\\X\\20170130.rss",
         "title": "TSX and AGF celebrate the launch of new ETFs with market open"
+    },
+    {
+        "contents": "data\\X\\20170131-090041.news",
+        "description": null,
+        "guid": "yahoo_finance/1049139270",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tsx-welcomes-freshii-133000558.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\X\\20170131.rss",
+        "title": "TSX Welcomes Freshii"
+    },
+    {
+        "contents": "data\\X\\20170131-090045.news",
+        "description": null,
+        "guid": "yahoo_finance/3309440008",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tsx-welcomes-freshii-133000219.html",
+        "pubDate": "Tue, 31 Jan 2017 13:30:00 GMT",
+        "source": "data\\X\\20170131.rss",
+        "title": "TSX Welcomes Freshii"
+    },
+    {
+        "contents": "data\\X\\20170131-090046.news",
+        "description": null,
+        "guid": "yahoo_finance/75619479",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-names-alison-simpson-165200069.html",
+        "pubDate": "Mon, 30 Jan 2017 16:52:00 GMT",
+        "source": "data\\X\\20170131.rss",
+        "title": "TMX Group Names Alison Simpson Senior Vice President, Marketing and Branding"
+    },
+    {
+        "contents": "data\\X\\20170131-090048.news",
+        "description": null,
+        "guid": "yahoo_finance/1031092611",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-names-alison-simpson-165200177.html",
+        "pubDate": "Mon, 30 Jan 2017 16:52:00 GMT",
+        "source": "data\\X\\20170131.rss",
+        "title": "TMX Group Names Alison Simpson Senior Vice President, Marketing and Branding"
     }
 ]

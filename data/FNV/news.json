@@ -187,5 +187,14 @@
         "pubDate": "Fri, 20 Jan 2017 16:21:05 GMT",
         "source": "data\\FNV\\20170121.rss",
         "title": "Will Franco-Nevada Raise Its Dividend in 2017?"
+    },
+    {
+        "contents": "data\\FNV\\20170131-091004.news",
+        "description": null,
+        "guid": "yahoo_finance/164079888",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=131tmbgc7/*http://www.fool.com/investing/2017/01/30/how-franco-nevada-has-benefited-from-the-glencore.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 30 Jan 2017 15:56:06 GMT",
+        "source": "data\\FNV\\20170131.rss",
+        "title": "How Franco-Nevada Has Benefited From the Glencore Deal"
     }
 ]

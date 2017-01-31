@@ -214,5 +214,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:15:01 GMT",
         "source": "data\\OTC\\20170127.rss",
         "title": "Open Text Corp. breached its 50 day moving average in a Bearish Manner : OTC-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\OTC\\20170131-090105.news",
+        "description": null,
+        "guid": "yahoo_finance/3148188237",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/strong-buy-stocks-january-30th-134301159.html",
+        "pubDate": "Mon, 30 Jan 2017 13:43:01 GMT",
+        "source": "data\\OTC\\20170131.rss",
+        "title": "New Strong Buy Stocks for January 30th"
     }
 ]

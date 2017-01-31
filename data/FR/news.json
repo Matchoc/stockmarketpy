@@ -358,5 +358,14 @@
         "pubDate": "Fri, 27 Jan 2017 18:35:47 GMT",
         "source": "data\\FR\\20170128.rss",
         "title": "Which Silver Miners Could Re-Rate as We Enter 2017?"
+    },
+    {
+        "contents": "data\\FR\\20170131-090946.news",
+        "description": null,
+        "guid": "yahoo_finance/2665391785",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500694.html",
+        "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
+        "source": "data\\FR\\20170131.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks First Majestic Silver, Laramide Resources, NGEx Resources, and Champion Iron"
     }
 ]

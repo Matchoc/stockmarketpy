@@ -394,5 +394,14 @@
         "pubDate": "Thu, 26 Jan 2017 17:45:00 GMT",
         "source": "data\\IPL\\20170127.rss",
         "title": "Inter Pipeline Announces 2016 Year End Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\IPL\\20170131-090303.news",
+        "description": null,
+        "guid": "yahoo_finance/3350738730",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14lr71cae/*http://www.capitalcube.com/blog/index.php/inter-pipeline-ltd-ipl-ca-dividend-analysis-january-23rd-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 19:04:58 GMT",
+        "source": "data\\IPL\\20170131.rss",
+        "title": "Inter Pipeline Ltd. : IPL-CA: Dividend Analysis : January 23rd, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]
