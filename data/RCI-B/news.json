@@ -556,5 +556,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:02:04 GMT",
         "source": "data\\RCI-B\\20170127.rss",
         "title": "Rogers Signals Wireless Growth to Keep Rolling; Shares Surge"
+    },
+    {
+        "contents": "data\\RCI-B\\20170201-091600.news",
+        "description": null,
+        "guid": "yahoo_finance/4038830807",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=145srt90s/*http://www.capitalcube.com/blog/index.php/rogers-communications-inc-rci-b-ca-earnings-analysis-2016-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 15:10:22 GMT",
+        "source": "data\\RCI-B\\20170201.rss",
+        "title": "Rogers Communications, Inc. :RCI.B-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
     }
 ]

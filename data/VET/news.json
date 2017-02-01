@@ -196,5 +196,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\VET\\20170124.rss",
         "title": "Research Reports Initiated on Energy Stocks Painted Pony Petroleum, Vermilion Energy, Seven Generations Energy, and Cardinal Energy"
+    },
+    {
+        "contents": "data\\VET\\20170201-090952.news",
+        "description": null,
+        "guid": "yahoo_finance/1416824926",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12ubla05f/*http://www.fool.com/investing/2017/01/31/where-will-vermilion-energy-be-1-year-from-now.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 31 Jan 2017 18:59:20 GMT",
+        "source": "data\\VET\\20170201.rss",
+        "title": "Where Will Vermilion Energy Be 1 Year From Now?"
     }
 ]

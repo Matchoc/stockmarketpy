@@ -403,5 +403,14 @@
         "pubDate": "Tue, 13 Oct 2015 22:26:00 GMT",
         "source": "data\\BTO\\20170130.rss",
         "title": "Tiger Resources Limited (ASX:TGS) Appoints Mark Connelly to the Board"
+    },
+    {
+        "contents": "data\\BTO\\20170201-091730.news",
+        "description": "[CNW Group] - Zonte Metals Closes Private Placement",
+        "guid": "yahoo_finance/2733501617",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zonte-metals-closes-private-placement-135200642.html",
+        "pubDate": "Wed, 01 Feb 2017 13:52:00 GMT",
+        "source": "data\\BTO\\20170201.rss",
+        "title": "Zonte Metals Closes Private Placement"
     }
 ]

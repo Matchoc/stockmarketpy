@@ -628,5 +628,23 @@
         "pubDate": "Tue, 24 Jan 2017 13:54:06 GMT",
         "source": "data\\SLF\\20170124.rss",
         "title": "Sun Life Financial, Inc. breached its 50 day moving average in a Bearish Manner : SLF-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\SLF\\20170201-090542.news",
+        "description": "[CNW Group] - Seventy-seven per cent of Canadians feel entitled to workplace health benefits",
+        "guid": "yahoo_finance/519363364",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/seventy-seven-per-cent-canadians-110000461.html",
+        "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
+        "source": "data\\SLF\\20170201.rss",
+        "title": "Seventy-seven per cent of Canadians feel entitled to workplace health benefits"
+    },
+    {
+        "contents": "data\\SLF\\20170201-090544.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 1, 2017 /CNW/ - Entitled is not a word typically used to describe Canadians, but when it comes to workplace health benefits, some believe these plans are a right. According to the most recent Sun Life Canadian Health Index, 77 per cent of Canadians surveyed feel all employees are entitled to receive a health benefits plan sponsored by their employer.",
+        "guid": "yahoo_finance/1924649355",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/seventy-seven-per-cent-canadians-110000110.html",
+        "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
+        "source": "data\\SLF\\20170201.rss",
+        "title": "Seventy-seven per cent of Canadians feel entitled to workplace health benefits"
     }
 ]

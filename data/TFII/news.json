@@ -79,5 +79,14 @@
         "pubDate": "Mon, 30 Jan 2017 21:30:00 GMT",
         "source": "data\\TFII\\20170131.rss",
         "title": "TFI International Acquires Cavalier Transportation Services"
+    },
+    {
+        "contents": "data\\TFII\\20170201-091000.news",
+        "description": "[Marketwired] - TFI International Inc. , formerly known as TransForce Inc. , a North American leader in the transportation and logistics industry, has rescheduled the conference call for the fourth quarter and fiscal ...",
+        "guid": "yahoo_finance/3472990814",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tfi-international-inc-announces-time-170714177.html",
+        "pubDate": "Tue, 31 Jan 2017 17:07:14 GMT",
+        "source": "data\\TFII\\20170201.rss",
+        "title": "TFI International Inc. Announces New Time for the Conference Call to Discuss its Fourth Quarter Results"
     }
 ]

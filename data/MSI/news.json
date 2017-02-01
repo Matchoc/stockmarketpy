@@ -385,5 +385,14 @@
         "pubDate": "Mon, 09 May 2016 21:38:02 GMT",
         "source": "data\\MSI\\20170130.rss",
         "title": "Morneau Shepell Reports 2016 First Quarter Financial Results"
+    },
+    {
+        "contents": "data\\MSI\\20170201-090405.news",
+        "description": null,
+        "guid": "yahoo_finance/1050730480",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/morneau-shepell-offers-counselling-support-110000804.html",
+        "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
+        "source": "data\\MSI\\20170201.rss",
+        "title": "Morneau Shepell offers counselling support to anyone affected by recent attack on Muslim community"
     }
 ]

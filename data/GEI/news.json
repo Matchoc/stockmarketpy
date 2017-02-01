@@ -205,5 +205,14 @@
         "pubDate": "Wed, 25 Jan 2017 18:16:07 GMT",
         "source": "data\\GEI\\20170125.rss",
         "title": "ETFs with exposure to Gibson Energy, Inc. : January 25, 2017"
+    },
+    {
+        "contents": "data\\GEI\\20170201-091658.news",
+        "description": null,
+        "guid": "yahoo_finance/679529232",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14cqhqu0r/*http://www.capitalcube.com/blog/index.php/gibson-energy-inc-breached-its-50-day-moving-average-in-a-bullish-manner-gei-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:13:28 GMT",
+        "source": "data\\GEI\\20170201.rss",
+        "title": "Gibson Energy, Inc. breached its 50 day moving average in a Bullish Manner : GEI-CA : February 1, 2017"
     }
 ]

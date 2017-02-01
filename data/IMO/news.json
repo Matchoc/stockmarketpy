@@ -403,5 +403,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:50:01 GMT",
         "source": "data\\IMO\\20170131.rss",
         "title": "Should You Buy Imperial Oil (IMO) Ahead of Earnings?"
+    },
+    {
+        "contents": "data\\IMO\\20170201-090031.news",
+        "description": "[CNW Group] - Imperial appoints senior vice-president, upstream",
+        "guid": "yahoo_finance/3586767284",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/imperial-appoints-senior-vice-president-201000046.html",
+        "pubDate": "Tue, 31 Jan 2017 20:10:00 GMT",
+        "source": "data\\IMO\\20170201.rss",
+        "title": "Imperial appoints senior vice-president, upstream"
+    },
+    {
+        "contents": "data\\IMO\\20170201-090033.news",
+        "description": "[PR Newswire] - J.R. Whelan to succeed B.P. Cahir effective March 1, 2017 B.P. Cahir appointed executive advisor to the chairman, Exxon Mobil Corporation CALGARY, Jan. 31, 2017 /CNW/ - Imperial announced today the appointment ...",
+        "guid": "yahoo_finance/1874065000",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/imperial-appoints-senior-vice-president-201000172.html",
+        "pubDate": "Tue, 31 Jan 2017 20:10:00 GMT",
+        "source": "data\\IMO\\20170201.rss",
+        "title": "Imperial appoints senior vice-president, upstream"
     }
 ]

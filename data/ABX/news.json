@@ -988,5 +988,14 @@
         "pubDate": "Tue, 31 Jan 2017 13:28:08 GMT",
         "source": "data\\ABX\\20170131.rss",
         "title": "6 Gold Statistics That Will Blow You Away"
+    },
+    {
+        "contents": "data\\ABX\\20170201-090844.news",
+        "description": null,
+        "guid": "yahoo_finance/3873886657",
+        "link": "http://us.rd.yahoo.com/finance/external/investors/rss/SIG=12j0gp4lh/*http://www.investors.com/news/gold-prices-stocks-rally-as-trump-talk-hits-dollar/",
+        "pubDate": "Tue, 31 Jan 2017 21:27:18 GMT",
+        "source": "data\\ABX\\20170201.rss",
+        "title": "Trump Policies, Comments Send Investors Rushing Into Gold"
     }
 ]

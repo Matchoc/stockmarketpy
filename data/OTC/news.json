@@ -223,5 +223,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:43:01 GMT",
         "source": "data\\OTC\\20170131.rss",
         "title": "New Strong Buy Stocks for January 30th"
+    },
+    {
+        "contents": "data\\OTC\\20170201-090552.news",
+        "description": null,
+        "guid": "yahoo_finance/1880751347",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-com-featured-highlights-ii-143002431.html",
+        "pubDate": "Tue, 31 Jan 2017 14:30:02 GMT",
+        "source": "data\\OTC\\20170201.rss",
+        "title": "Zacks.com featured highlights: II-VI, FCB Financial Holdings, Open Text, Rice Midstream Partners and Allegiance Bancshares"
     }
 ]

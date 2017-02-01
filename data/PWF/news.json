@@ -223,5 +223,41 @@
         "pubDate": "Tue, 31 Jan 2017 05:01:00 GMT",
         "source": "data\\PWF\\20170131.rss",
         "title": "Canada's Wealthsimple takes on crowded U.S. robo-adviser market"
+    },
+    {
+        "contents": "data\\PWF\\20170201-090256.news",
+        "description": null,
+        "guid": "yahoo_finance/1411054426",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hk5ngrg/*http://www.capitalcube.com/blog/index.php/power-financial-corp-breached-its-50-day-moving-average-in-a-bearish-manner-pwf-ca-september-15-2016/",
+        "pubDate": "Thu, 15 Sep 2016 12:46:59 GMT",
+        "source": "data\\PWF\\20170201.rss",
+        "title": "Power Financial Corp. breached its 50 day moving average in a Bearish Manner : PWF-CA : September 15, 2016"
+    },
+    {
+        "contents": "data\\PWF\\20170201-090258.news",
+        "description": "[at noodls] - All figures are in Canadian dollars unless otherwise noted. Readers are referred to the sections entitled 'Non-IFRS Financial Measures' and 'Forward-Looking Statements' at the end of this release. TORONTO, ...",
+        "guid": "yahoo_finance/3132216337",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128685jh3/*http://www.publicnow.com/view/CD645615790222B2333BBEA4E3AFD01276D3C66E",
+        "pubDate": "Fri, 05 Aug 2016 13:24:01 GMT",
+        "source": "data\\PWF\\20170201.rss",
+        "title": "Power Financial Reports 2016 Second Quarter and Six-Month Financial Results and Dividends"
+    },
+    {
+        "contents": "data\\PWF\\20170201-090259.news",
+        "description": null,
+        "guid": "yahoo_finance/3899279289",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/indias-modi-target-record-asset-002159314.html",
+        "pubDate": "Sun, 06 Jul 2014 00:21:59 GMT",
+        "source": "data\\PWF\\20170201.rss",
+        "title": "India's Modi to target record asset sales in first budget - source"
+    },
+    {
+        "contents": "data\\PWF\\20170201-090300.news",
+        "description": null,
+        "guid": "yahoo_finance/2368393373",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/factbox-indian-state-firms-block-002134483.html",
+        "pubDate": "Sun, 06 Jul 2014 00:21:34 GMT",
+        "source": "data\\PWF\\20170201.rss",
+        "title": "Factbox - Indian state firms to go on the block"
     }
 ]

@@ -430,5 +430,14 @@
         "pubDate": "Thu, 26 Jan 2017 13:00:00 GMT",
         "source": "data\\SW\\20170126.rss",
         "title": "Sierra Wireless to report Fourth Quarter and Full Year 2016 results on February 9, 2017"
+    },
+    {
+        "contents": "data\\SW\\20170201-091545.news",
+        "description": "[Business Wire] - Sierra Wireless , a leading provider of fully integrated device-to-cloud solutions for the Internet of Things, today announced it is providing state-of-the-art wireless connectivity to the BLOODHOUND Supersonic Car .",
+        "guid": "yahoo_finance/4173345953",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-wireless-technology-chosen-world-140000650.html",
+        "pubDate": "Wed, 01 Feb 2017 14:00:00 GMT",
+        "source": "data\\SW\\20170201.rss",
+        "title": "Sierra Wireless Technology Chosen for World\u2019s Fastest Connected Car"
     }
 ]

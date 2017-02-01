@@ -682,5 +682,32 @@
         "pubDate": "Thu, 26 Jan 2017 15:23:22 GMT",
         "source": "data\\CNR\\20170127.rss",
         "title": "Canadian National Railway Co. :CNR-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 26, 2017"
+    },
+    {
+        "contents": "data\\CNR\\20170201-090421.news",
+        "description": "[CNW Group] - ADVISORY - Ghislain Houle, CN executive vice-president and chief financial officer, to address investor conferences on Feb.15 and 22",
+        "guid": "yahoo_finance/4171697036",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/advisory-ghislain-houle-cn-executive-140000433.html",
+        "pubDate": "Wed, 01 Feb 2017 14:00:00 GMT",
+        "source": "data\\CNR\\20170201.rss",
+        "title": "ADVISORY - Ghislain Houle, CN executive vice-president and chief financial officer, to address investor conferences on Feb.15 and 22"
+    },
+    {
+        "contents": "data\\CNR\\20170201-090423.news",
+        "description": "[PR Newswire] - MONTREAL, Feb. 1, 2017 /PRNewswire/ - Ghislain Houle, executive vice-president and chief financial officer of CN (TSX: CNR) (NYSE: CNI), will address two investor conferences in mid-February: Stifel Transportation ...",
+        "guid": "yahoo_finance/2557226374",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/advisory-ghislain-houle-cn-executive-140000912.html",
+        "pubDate": "Wed, 01 Feb 2017 14:00:00 GMT",
+        "source": "data\\CNR\\20170201.rss",
+        "title": "ADVISORY - Ghislain Houle, CN executive vice-president and chief financial officer, to address investor conferences on Feb.15 and 22"
+    },
+    {
+        "contents": "data\\CNR\\20170201-090425.news",
+        "description": null,
+        "guid": "yahoo_finance/2714927823",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12p86q7eb/*http://marketrealist.com/2017/01/which-commodities-boosted-canadian-nationals-carloads/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 12:36:53 GMT",
+        "source": "data\\CNR\\20170201.rss",
+        "title": "Which Commodities Boosted Canadian National\u2019s Carloads?"
     }
 ]

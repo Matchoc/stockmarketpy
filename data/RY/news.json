@@ -1240,5 +1240,32 @@
         "pubDate": "Mon, 30 Jan 2017 19:07:10 GMT",
         "source": "data\\RY\\20170131.rss",
         "title": "Royal Bank of Canada : RY-CA: Dividend Analysis : January 26th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\RY\\20170201-091050.news",
+        "description": null,
+        "guid": "yahoo_finance/771805069",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-hits-one-222807102.html",
+        "pubDate": "Tue, 31 Jan 2017 22:28:07 GMT",
+        "source": "data\\RY\\20170201.rss",
+        "title": "CANADA STOCKS-TSX hits one-month low as financials retreat"
+    },
+    {
+        "contents": "data\\RY\\20170201-091052.news",
+        "description": "[CNW Group] - RBC Global Asset Management Inc. named Morningstar Steward of the Year",
+        "guid": "yahoo_finance/1842743111",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-200000564.html",
+        "pubDate": "Tue, 31 Jan 2017 20:00:00 GMT",
+        "source": "data\\RY\\20170201.rss",
+        "title": "RBC Global Asset Management Inc. named Morningstar Steward of the Year"
+    },
+    {
+        "contents": "data\\RY\\20170201-091053.news",
+        "description": "[PR Newswire] - Hanif Mamdani named Fixed Income Manager of the Year TORONTO, Jan. 31, 2017 /CNW/ - RBC Global Asset Management Inc. (RBC GAM Inc.) has been named Steward of the Year by Morningstar Canada\u00ae. In addition ...",
+        "guid": "yahoo_finance/2371954646",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-200000228.html",
+        "pubDate": "Tue, 31 Jan 2017 20:00:00 GMT",
+        "source": "data\\RY\\20170201.rss",
+        "title": "RBC Global Asset Management Inc. named Morningstar Steward of the Year"
     }
 ]

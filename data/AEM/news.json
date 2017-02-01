@@ -385,5 +385,14 @@
         "pubDate": "Mon, 30 Jan 2017 18:56:41 GMT",
         "source": "data\\AEM\\20170131.rss",
         "title": "Reading the Volatility and RSI Levels for Miners"
+    },
+    {
+        "contents": "data\\AEM\\20170201-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/2970127842",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12eee238g/*http://marketrealist.com/2017/01/how-the-correlations-of-mining-stocks-move/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 12:38:10 GMT",
+        "source": "data\\AEM\\20170201.rss",
+        "title": "How the Correlations of Mining Stocks Move"
     }
 ]

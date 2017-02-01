@@ -376,5 +376,14 @@
         "pubDate": "Tue, 24 Jan 2017 15:24:35 GMT",
         "source": "data\\UNS\\20170125.rss",
         "title": "Details for the 2016 Fourth Quarter Results Conference Webcast"
+    },
+    {
+        "contents": "data\\UNS\\20170201-091258.news",
+        "description": null,
+        "guid": "yahoo_finance/4156290013",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/uni-select-inc-finishmaster-acquires-220000479.html",
+        "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
+        "source": "data\\UNS\\20170201.rss",
+        "title": "Uni-Select Inc.: FinishMaster acquires A. D'Angelo & Sons, Inc. and related entities"
     }
 ]

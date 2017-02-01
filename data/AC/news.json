@@ -367,5 +367,23 @@
         "pubDate": "Sat, 28 Jan 2017 22:11:23 GMT",
         "source": "data\\AC\\20170129.rss",
         "title": "Canada's Trudeau welcomes refugees, airline rejects U.S.-bound passenger"
+    },
+    {
+        "contents": "data\\AC\\20170201-091212.news",
+        "description": "[CNW Group] - Air Canada Adds Iceland to Growing International Network for Summer 2017",
+        "guid": "yahoo_finance/2998642128",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/air-canada-adds-iceland-growing-120000476.html",
+        "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
+        "source": "data\\AC\\20170201.rss",
+        "title": "Air Canada Adds Iceland to Growing International Network for Summer 2017"
+    },
+    {
+        "contents": "data\\AC\\20170201-091214.news",
+        "description": "[PR Newswire] - MONTREAL, Feb. 1, 2017 /PRNewswire/ - Air Canada announced today it will launch daily summer seasonal service from Canada to Reykjavik, Iceland. Flights will operate four times and three times weekly ...",
+        "guid": "yahoo_finance/3476555427",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/air-canada-adds-iceland-growing-120000921.html",
+        "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
+        "source": "data\\AC\\20170201.rss",
+        "title": "Air Canada Adds Iceland to Growing International Network for Summer 2017"
     }
 ]

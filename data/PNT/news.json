@@ -304,5 +304,14 @@
         "pubDate": "Wed, 24 Feb 2016 21:10:00 GMT",
         "source": "data\\PNT\\20170127.rss",
         "title": "CPI Card Group Initiates Quarterly Dividend"
+    },
+    {
+        "contents": "data\\PNT\\20170201-090311.news",
+        "description": "[Business Wire] - CPI Card Group , a global leader in financial and EMV\u00ae chip card production and related services, today announced that the Company\u2019s stock ticker symbol on the Toronto Stock Exchange has changed to \u201cPMTS\u201d from \u201cPNT\u201d.",
+        "guid": "yahoo_finance/3952581987",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cpi-card-group-announces-ticker-130000209.html",
+        "pubDate": "Wed, 01 Feb 2017 13:00:00 GMT",
+        "source": "data\\PNT\\20170201.rss",
+        "title": "CPI Card Group Announces Ticker Symbol Change to \u201cPMTS\u201d on the Toronto Stock Exchange"
     }
 ]

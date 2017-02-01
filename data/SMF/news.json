@@ -376,5 +376,14 @@
         "pubDate": "Thu, 31 Mar 2016 11:27:10 GMT",
         "source": "data\\SMF\\20170127.rss",
         "title": "Changed Number of Shares and Votes in SEMAFO"
+    },
+    {
+        "contents": "data\\SMF\\20170201-090834.news",
+        "description": null,
+        "guid": "yahoo_finance/1803339536",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/semafo-2016-production-cost-guidance-120000875.html",
+        "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
+        "source": "data\\SMF\\20170201.rss",
+        "title": "SEMAFO: 2016 Production and Cost Guidance Achieved"
     }
 ]

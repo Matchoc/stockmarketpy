@@ -394,5 +394,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:44:46 GMT",
         "source": "data\\TV\\20170124.rss",
         "title": "Trevali Mining Corp. breached its 50 day moving average in a Bullish Manner : TV-CA : January 24, 2017"
+    },
+    {
+        "contents": "data\\TV\\20170201-091139.news",
+        "description": "[Marketwired] - Trevali Mining Corporation announces a new investment in the future of its Caribou Zinc Mine, located in the Bathurst Mining Camp of northeastern New Brunswick, Canada, through the decision to transition ...",
+        "guid": "yahoo_finance/1041762028",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trevali-invests-caribou-mine-future-131520368.html",
+        "pubDate": "Wed, 01 Feb 2017 13:15:20 GMT",
+        "source": "data\\TV\\20170201.rss",
+        "title": "Trevali invests in Caribou Mine future with new mining fleet"
     }
 ]

@@ -196,5 +196,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:04:18 GMT",
         "source": "data\\HCG\\20170126.rss",
         "title": "Home Capital Group, Inc. breached its 50 day moving average in a Bullish Manner : HCG-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\HCG\\20170201-090713.news",
+        "description": null,
+        "guid": "yahoo_finance/1236579884",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-reports-q3-2016-211700902.html",
+        "pubDate": "Wed, 02 Nov 2016 21:17:00 GMT",
+        "source": "data\\HCG\\20170201.rss",
+        "title": "Home Capital Reports Q3 2016 Results"
     }
 ]

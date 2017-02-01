@@ -565,5 +565,23 @@
         "pubDate": "Fri, 27 Jan 2017 17:05:57 GMT",
         "source": "data\\K\\20170128.rss",
         "title": "Which Senior Gold Miners Could Re-Rate after Their 4Q16 Results?"
+    },
+    {
+        "contents": "data\\K\\20170201-091423.news",
+        "description": null,
+        "guid": "yahoo_finance/2468016130",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kot5glp/*http://marketrealist.com/2017/01/reading-the-volatility-numbers-for-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 20:40:20 GMT",
+        "source": "data\\K\\20170201.rss",
+        "title": "Reading the Volatility Numbers for Mining Stocks"
+    },
+    {
+        "contents": "data\\K\\20170201-091424.news",
+        "description": null,
+        "guid": "yahoo_finance/3455579290",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12vk1g1a9/*http://marketrealist.com/2017/01/where-are-mining-stocks-rsi-numbers-and-volatility-pointing/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 16:03:12 GMT",
+        "source": "data\\K\\20170201.rss",
+        "title": "Where Are Mining Stocks\u2019 RSI Numbers and Volatility Pointing?"
     }
 ]

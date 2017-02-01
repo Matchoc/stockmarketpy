@@ -295,5 +295,14 @@
         "pubDate": "Mon, 30 Jan 2017 14:05:06 GMT",
         "source": "data\\XTC\\20170131.rss",
         "title": "Exco Technologies Ltd. breached its 50 day moving average in a Bearish Manner : XTC-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\XTC\\20170201-091251.news",
+        "description": null,
+        "guid": "yahoo_finance/3163363497",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170201.html?t=xtc.to",
+        "pubDate": "Wed, 01 Feb 2017 12:07:03 GMT",
+        "source": "data\\XTC\\20170201.rss",
+        "title": "Q1 2017 Exco Technologies Ltd Earnings Release - After Market Close"
     }
 ]

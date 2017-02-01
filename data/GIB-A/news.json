@@ -502,5 +502,59 @@
         "pubDate": "Mon, 30 Jan 2017 13:58:51 GMT",
         "source": "data\\GIB-A\\20170131.rss",
         "title": "CGI Group, Inc. breached its 50 day moving average in a Bullish Manner : GIB.A-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090919.news",
+        "description": null,
+        "guid": "yahoo_finance/3713426800",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/cgi-meets-1q-profit-forecasts-131633197.html",
+        "pubDate": "Wed, 01 Feb 2017 13:16:33 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI meets 1Q profit forecasts"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090922.news",
+        "description": null,
+        "guid": "yahoo_finance/1866656118",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-meets-1q-profit-forecasts-131633166.html",
+        "pubDate": "Wed, 01 Feb 2017 13:16:33 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI meets 1Q profit forecasts"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090924.news",
+        "description": "[CNW Group] - CGI renews its Normal Course Issuer Bid",
+        "guid": "yahoo_finance/802526611",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-renews-normal-course-issuer-131000669.html",
+        "pubDate": "Wed, 01 Feb 2017 13:10:00 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI renews its Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090926.news",
+        "description": "[PR Newswire] - MONTR\u00c9AL, Feb. 1, 2017 /PRNewswire/ - CGI Group Inc. (GIB-A.TO) (GIB) (the \"Company\" or \"CGI\") announced today that its Board of Directors has authorized the renewal of its Normal Course Issuer Bid (\"NCIB\"), subject to acceptance by the Toronto Stock Exchange (the \"TSX\"). The Company's management and Board of Directors believe that the purchase for cancellation of Class A subordinate voting shares (\"Class A Shares\") of the Company is a proper use of the Company's funds, and the NCIB will provide the Company with the flexibility to purchase Class A Shares from time to time as the Company considers it advisable, as part of its strategy to increase shareholder value.",
+        "guid": "yahoo_finance/2519353226",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-renews-normal-course-issuer-131000796.html",
+        "pubDate": "Wed, 01 Feb 2017 13:10:00 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI renews its Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090927.news",
+        "description": "[CNW Group] - CGI reports strong Q1 results",
+        "guid": "yahoo_finance/1135446458",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-reports-strong-q1-results-125900742.html",
+        "pubDate": "Wed, 01 Feb 2017 12:59:00 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI reports strong Q1 results"
+    },
+    {
+        "contents": "data\\GIB-A\\20170201-090929.news",
+        "description": "[PR Newswire] - Accelerating organic growth and margin expansion driven by demand for digital Stock Market Symbols GIB.A (TSX) GIB (NYSE) www.cgi.com/newsroom Q1-F2017 year-over-year highlights Revenue of $2.7 billion, ...",
+        "guid": "yahoo_finance/1957217096",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-reports-strong-q1-results-125900418.html",
+        "pubDate": "Wed, 01 Feb 2017 12:59:00 GMT",
+        "source": "data\\GIB-A\\20170201.rss",
+        "title": "CGI reports strong Q1 results"
     }
 ]

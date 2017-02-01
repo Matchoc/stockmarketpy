@@ -322,5 +322,23 @@
         "pubDate": "Mon, 30 Jan 2017 16:37:51 GMT",
         "source": "data\\CLS\\20170131.rss",
         "title": "Celestica, Inc. :CLS-CA: Earnings Analysis: Q4, 2016 By the Numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\CLS\\20170201-090620.news",
+        "description": null,
+        "guid": "yahoo_finance/2463083707",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500037.html",
+        "pubDate": "Wed, 01 Feb 2017 13:15:00 GMT",
+        "source": "data\\CLS\\20170201.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks Pure Technologies, Celestica, DataWind, and Electrovaya"
+    },
+    {
+        "contents": "data\\CLS\\20170201-090621.news",
+        "description": null,
+        "guid": "yahoo_finance/1396609089",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13nvfmbgb/*http://www.capitalcube.com/blog/index.php/celestica-inc-cls-ca-earnings-analysis-2016-by-the-numbers-january-31-2017/",
+        "pubDate": "Tue, 31 Jan 2017 18:33:13 GMT",
+        "source": "data\\CLS\\20170201.rss",
+        "title": "Celestica, Inc. :CLS-CA: Earnings Analysis: 2016 By the Numbers : January 31, 2017"
     }
 ]

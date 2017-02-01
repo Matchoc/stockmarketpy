@@ -196,5 +196,23 @@
         "pubDate": "Mon, 30 Jan 2017 15:07:06 GMT",
         "source": "data\\DDC\\20170131.rss",
         "title": "Dominion Diamond CEO quits; successor sought"
+    },
+    {
+        "contents": "data\\DDC\\20170201-090604.news",
+        "description": null,
+        "guid": "yahoo_finance/4189285030",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/dominion-diamond-corporation-recalculates-ownership-113000455.html",
+        "pubDate": "Wed, 01 Feb 2017 11:30:00 GMT",
+        "source": "data\\DDC\\20170201.rss",
+        "title": "Dominion Diamond Corporation Recalculates Ownership Interests in Buffer Zone at Ekati Diamond Mine"
+    },
+    {
+        "contents": "data\\DDC\\20170201-090606.news",
+        "description": "[Business Wire] - Dominion Diamond Corporation announced today that its participating interest in the Buffer Zone Joint Venture at the Ekati Diamond Mine has increased from 65.3% to 72.0%, effective as of February 1, 2017, in accordance with the joint venture agreement relating to the Buffer Zone.",
+        "guid": "yahoo_finance/2841848964",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dominion-diamond-corporation-recalculates-ownership-113000273.html",
+        "pubDate": "Wed, 01 Feb 2017 11:30:00 GMT",
+        "source": "data\\DDC\\20170201.rss",
+        "title": "Dominion Diamond Corporation Recalculates Ownership Interests in Buffer Zone at Ekati Diamond Mine"
     }
 ]

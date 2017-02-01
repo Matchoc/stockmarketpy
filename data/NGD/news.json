@@ -241,5 +241,14 @@
         "pubDate": "Mon, 30 Jan 2017 14:58:44 GMT",
         "source": "data\\NGD\\20170131.rss",
         "title": "New Gold warns of higher mine build cost, production delay at Rainy River"
+    },
+    {
+        "contents": "data\\NGD\\20170201-090911.news",
+        "description": null,
+        "guid": "yahoo_finance/1600423759",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12v3e5kdr/*http://www.fool.com/investing/2017/01/31/why-new-gold-stock-dropped-nearly-19-on-tuesday.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 31 Jan 2017 17:50:58 GMT",
+        "source": "data\\NGD\\20170201.rss",
+        "title": "Why New Gold Stock Dropped Nearly 19% on Tuesday"
     }
 ]

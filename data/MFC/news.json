@@ -763,5 +763,23 @@
         "pubDate": "Mon, 30 Jan 2017 15:38:00 GMT",
         "source": "data\\MFC\\20170131.rss",
         "title": "Manulife Investments announces anticipated quarterly and monthly cash distribution"
+    },
+    {
+        "contents": "data\\MFC\\20170201-091500.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 31, 2017 /PRNewswire/ -- John Hancock Premium Dividend Fund (NYSE: PDT) (the \"Fund\"), a closed-end fund managed by John Hancock Advisers, LLC and subadvised by John Hancock Asset ...",
+        "guid": "yahoo_finance/2586854180",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-premium-dividend-fund-212000597.html",
+        "pubDate": "Tue, 31 Jan 2017 21:20:00 GMT",
+        "source": "data\\MFC\\20170201.rss",
+        "title": "John Hancock Premium Dividend Fund Notice To Shareholders - Sources Of Distribution Under Section 19(a)"
+    },
+    {
+        "contents": "data\\MFC\\20170201-091504.news",
+        "description": "[PR Newswire] - BOSTON, Jan. 31, 2017 /PRNewswire/ -- John Hancock Tax-Advantaged Dividend Income Fund (NYSE: HTD) (the \"Fund\"), a closed-end fund managed by John Hancock Advisers, LLC and subadvised by both ...",
+        "guid": "yahoo_finance/544965160",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-tax-advantaged-dividend-211800284.html",
+        "pubDate": "Tue, 31 Jan 2017 21:18:00 GMT",
+        "source": "data\\MFC\\20170201.rss",
+        "title": "John Hancock Tax-Advantaged Dividend Income Fund Notice To Shareholders - Sources of Distribution Under Section 19(a)"
     }
 ]

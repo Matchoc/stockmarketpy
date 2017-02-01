@@ -394,5 +394,14 @@
         "pubDate": "Thu, 26 Jan 2017 12:30:00 GMT",
         "source": "data\\S\\20170126.rss",
         "title": "Sherritt Provides Notice of Release of Fourth Quarter and Year End 2016 Results, Conference Call, and Webcast"
+    },
+    {
+        "contents": "data\\S\\20170201-091237.news",
+        "description": null,
+        "guid": "yahoo_finance/2785431215",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sherritt-announces-2016-production-results-220000180.html",
+        "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
+        "source": "data\\S\\20170201.rss",
+        "title": "Sherritt Announces 2016 Production Results and 2017 Guidance"
     }
 ]

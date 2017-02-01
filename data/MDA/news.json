@@ -385,5 +385,14 @@
         "pubDate": "Thu, 26 Jan 2017 22:23:00 GMT",
         "source": "data\\MDA\\20170127.rss",
         "title": "MDA signs a Security Control Agreement with the U.S. Department of Defense"
+    },
+    {
+        "contents": "data\\MDA\\20170201-090914.news",
+        "description": null,
+        "guid": "yahoo_finance/905694653",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mda-signs-land-administration-modernization-220000712.html",
+        "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
+        "source": "data\\MDA\\20170201.rss",
+        "title": "MDA signs land administration modernization agreement"
     }
 ]

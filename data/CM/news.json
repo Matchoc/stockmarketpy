@@ -691,5 +691,41 @@
         "pubDate": "Sat, 28 Jan 2017 16:00:00 GMT",
         "source": "data\\CM\\20170129.rss",
         "title": "CIBC partners with Immigration, Refugees and Citizenship Canada to celebrate Canada's and CIBC's shared 150th birthday"
+    },
+    {
+        "contents": "data\\CM\\20170201-090432.news",
+        "description": null,
+        "guid": "yahoo_finance/1943047423",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-banking-stocks-131500226.html",
+        "pubDate": "Wed, 01 Feb 2017 13:15:00 GMT",
+        "source": "data\\CM\\20170201.rss",
+        "title": "Research Reports Initiated on Banking Stocks Laurentian Bank of Canada, Canadian Imperial Bank of Commerce, Street Capital Group, and Grenville Strategic Royalty"
+    },
+    {
+        "contents": "data\\CM\\20170201-090502.news",
+        "description": "[CNW Group] - CIBC earns top score for Canadian online banking functionality benchmark for third year in a row",
+        "guid": "yahoo_finance/2075979197",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibc-earns-top-score-canadian-110000073.html",
+        "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
+        "source": "data\\CM\\20170201.rss",
+        "title": "CIBC earns top score for Canadian online banking functionality benchmark for third year in a row"
+    },
+    {
+        "contents": "data\\CM\\20170201-090503.news",
+        "description": "[PR Newswire] - Research firm recognizes that CIBC continues to lead and cites its website redesign integrating digital money management tools with everyday online banking TORONTO, Feb. 1, 2017 /CNW/ - For the third year ...",
+        "guid": "yahoo_finance/1572376163",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cibc-earns-top-score-canadian-110000589.html",
+        "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
+        "source": "data\\CM\\20170201.rss",
+        "title": "CIBC earns top score for Canadian online banking functionality benchmark for third year in a row"
+    },
+    {
+        "contents": "data\\CM\\20170201-090505.news",
+        "description": null,
+        "guid": "yahoo_finance/3812145641",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13jcb5h8i/*http://www.bloomberg.com/news/articles/2017-02-01/morgan-stanley-bond-sale-pushes-canada-to-best-start-since-2013?cmpid=yhoo.headline",
+        "pubDate": "Wed, 01 Feb 2017 10:00:00 GMT",
+        "source": "data\\CM\\20170201.rss",
+        "title": "Morgan Stanley Bond Sale Pushes Canada to Best Start Since 2013"
     }
 ]

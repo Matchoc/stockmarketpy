@@ -214,5 +214,14 @@
         "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
         "source": "data\\PAA\\20170131.rss",
         "title": "Pan American Silver announces TSX ticker symbol changed to \"PAAS\""
+    },
+    {
+        "contents": "data\\PAA\\20170201-091256.news",
+        "description": null,
+        "guid": "yahoo_finance/3873886657",
+        "link": "http://us.rd.yahoo.com/finance/external/investors/rss/SIG=12j0gp4lh/*http://www.investors.com/news/gold-prices-stocks-rally-as-trump-talk-hits-dollar/",
+        "pubDate": "Tue, 31 Jan 2017 21:27:18 GMT",
+        "source": "data\\PAA\\20170201.rss",
+        "title": "Trump Policies, Comments Send Investors Rushing Into Gold"
     }
 ]

@@ -1069,5 +1069,23 @@
         "pubDate": "Mon, 30 Jan 2017 18:54:42 GMT",
         "source": "data\\POT\\20170131.rss",
         "title": "Potash Corp. of Saskatchewan, Inc. : POT-CA: Dividend Analysis : January 12th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\POT\\20170201-090647.news",
+        "description": null,
+        "guid": "yahoo_finance/662737339",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/potash-corp-pot-misses-q4-181706619.html",
+        "pubDate": "Mon, 30 Jan 2017 18:17:06 GMT",
+        "source": "data\\POT\\20170201.rss",
+        "title": "Potash Corp. (POT) Misses Q4 Earnings, Revenue Estimates"
+    },
+    {
+        "contents": "data\\POT\\20170201-090649.news",
+        "description": null,
+        "guid": "yahoo_finance/3950749686",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149qbda7a/*http://www.capitalcube.com/blog/index.php/potash-corp-of-saskatchewan-inc-pot-ca-earnings-analysis-2016-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 15:12:52 GMT",
+        "source": "data\\POT\\20170201.rss",
+        "title": "Potash Corp. of Saskatchewan, Inc. :POT-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
     }
 ]

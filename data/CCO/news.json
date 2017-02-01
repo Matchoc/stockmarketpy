@@ -448,5 +448,23 @@
         "pubDate": "Wed, 15 Apr 2015 14:52:05 GMT",
         "source": "data\\CCO\\20170126.rss",
         "title": "Cameco signs $280 million deal to supply uranium to India reactors"
+    },
+    {
+        "contents": "data\\CCO\\20170201-091333.news",
+        "description": null,
+        "guid": "yahoo_finance/371951906",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tepco-scraps-uranium-supply-contract-131633564.html",
+        "pubDate": "Wed, 01 Feb 2017 13:16:33 GMT",
+        "source": "data\\CCO\\20170201.rss",
+        "title": "Tepco scraps uranium supply contract with Canada's Cameco"
+    },
+    {
+        "contents": "data\\CCO\\20170201-091335.news",
+        "description": "[Marketwired] - Cameco announced Tokyo Electric Power Company Holdings, Inc. has issued a termination notice for a uranium supply contract with Cameco Inc. that we do not accept. Cameco Inc. sees no basis for terminating ...",
+        "guid": "yahoo_finance/3832007408",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cameco-rejects-tepcos-uranium-contract-120000090.html",
+        "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
+        "source": "data\\CCO\\20170201.rss",
+        "title": "Cameco Rejects TEPCO's Uranium Contract Termination Notice"
     }
 ]

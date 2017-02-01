@@ -475,5 +475,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
         "source": "data\\ELD\\20170128.rss",
         "title": "Watch for These Catalysts in Intermediate Gold Miners\u2019 Q4 Results"
+    },
+    {
+        "contents": "data\\ELD\\20170201-090202.news",
+        "description": null,
+        "guid": "yahoo_finance/2468016130",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kot5glp/*http://marketrealist.com/2017/01/reading-the-volatility-numbers-for-mining-stocks/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 20:40:20 GMT",
+        "source": "data\\ELD\\20170201.rss",
+        "title": "Reading the Volatility Numbers for Mining Stocks"
     }
 ]

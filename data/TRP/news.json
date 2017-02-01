@@ -1177,5 +1177,14 @@
         "pubDate": "Mon, 30 Jan 2017 01:01:14 GMT",
         "source": "data\\TRP\\20170130.rss",
         "title": "Pipeline opponents face high legal hurdles"
+    },
+    {
+        "contents": "data\\TRP\\20170201-091437.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** TransCanada Corp has long-term contracts ...",
+        "guid": "yahoo_finance/512731126",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-feb-1-104321481.html",
+        "pubDate": "Wed, 01 Feb 2017 10:43:21 GMT",
+        "source": "data\\TRP\\20170201.rss",
+        "title": "PRESS DIGEST- Canada-Feb 1"
     }
 ]

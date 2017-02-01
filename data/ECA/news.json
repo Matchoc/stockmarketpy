@@ -691,5 +691,59 @@
         "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
         "source": "data\\ECA\\20170131.rss",
         "title": "Research Reports Initiated on Energy Stocks Baytex Energy Encana Birchcliff Energy and Whitecap Resources"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091619.news",
+        "description": null,
+        "guid": "yahoo_finance/1695834683",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12lckhvhb/*http://marketrealist.com/2017/01/what-wall-street-analysts-are-saying-about-encana/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 14:07:16 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "What Wall Street Analysts Are Saying about Encana"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091620.news",
+        "description": null,
+        "guid": "yahoo_finance/3858985535",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12j25909a/*http://marketrealist.com/2017/01/are-institutional-investors-accumulating-encana/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 12:37:19 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "Are Institutional Investors Accumulating Encana?"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/1999117922",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12duteiur/*http://marketrealist.com/2017/01/whats-the-short-interest-in-encanas-stock/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 18:05:43 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "What\u2019s the Short Interest in Encana\u2019s Stock?"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091622.news",
+        "description": null,
+        "guid": "yahoo_finance/2324997538",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12por05bu/*http://marketrealist.com/2017/01/whats-encanas-stock-price-range-forecast-for-the-week/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 16:35:43 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "What\u2019s Encana\u2019s Stock Price Range Forecast for the Week?"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091623.news",
+        "description": null,
+        "guid": "yahoo_finance/1976089705",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=13s6o1u4l/*http://blogs.barrons.com/focusonfunds/2017/01/31/a-fund-for-all-seasons-and-its-newly-launched-etf-is-crfas-february-pick/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Tue, 31 Jan 2017 15:01:00 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "A Fund For All Seasons--And It's Newly Launched ETF--Is CFRA's February Pick"
+    },
+    {
+        "contents": "data\\ECA\\20170201-091623.news",
+        "description": null,
+        "guid": "yahoo_finance/1749863203",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kmjr12b/*http://marketrealist.com/2017/01/why-is-encana-rising-along-with-crude-oil-prices/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 14:48:01 GMT",
+        "source": "data\\ECA\\20170201.rss",
+        "title": "Why Is Encana Rising along with Crude Oil Prices?"
     }
 ]

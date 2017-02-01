@@ -223,5 +223,32 @@
         "pubDate": "Mon, 30 Jan 2017 18:56:41 GMT",
         "source": "data\\SLW\\20170131.rss",
         "title": "Reading the Volatility and RSI Levels for Miners"
+    },
+    {
+        "contents": "data\\SLW\\20170201-090323.news",
+        "description": "[CNW Group] - Silver Wheaton to Release 2016 Fourth Quarter and Full Year Results on March 21, 2017",
+        "guid": "yahoo_finance/852571771",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/silver-wheaton-release-2016-fourth-214200071.html",
+        "pubDate": "Tue, 31 Jan 2017 21:42:00 GMT",
+        "source": "data\\SLW\\20170201.rss",
+        "title": "Silver Wheaton to Release 2016 Fourth Quarter and Full Year Results on March 21, 2017"
+    },
+    {
+        "contents": "data\\SLW\\20170201-090325.news",
+        "description": "[PR Newswire] - TSX:SLW NYSE:SLW VANCOUVER, Jan. 31, 2017 /PRNewswire/ - Silver Wheaton Corp. (TSX:SLW) (NYSE:SLW) will release 2016 fourth quarter and full year results on Tuesday, March 21, 2017, after market close. ...",
+        "guid": "yahoo_finance/1499875622",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/silver-wheaton-release-2016-fourth-214200151.html",
+        "pubDate": "Tue, 31 Jan 2017 21:42:00 GMT",
+        "source": "data\\SLW\\20170201.rss",
+        "title": "Silver Wheaton to Release 2016 Fourth Quarter and Full Year Results on March 21, 2017"
+    },
+    {
+        "contents": "data\\SLW\\20170201-090327.news",
+        "description": null,
+        "guid": "yahoo_finance/3455579290",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12vk1g1a9/*http://marketrealist.com/2017/01/where-are-mining-stocks-rsi-numbers-and-volatility-pointing/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 31 Jan 2017 16:03:12 GMT",
+        "source": "data\\SLW\\20170201.rss",
+        "title": "Where Are Mining Stocks\u2019 RSI Numbers and Volatility Pointing?"
     }
 ]

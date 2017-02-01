@@ -430,5 +430,14 @@
         "pubDate": "Mon, 30 Jan 2017 15:56:39 GMT",
         "source": "data\\MX\\20170131.rss",
         "title": "Methanex Corp. :MX-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\MX\\20170201-090758.news",
+        "description": null,
+        "guid": "yahoo_finance/1907170950",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/methanex-meoh-earnings-sales-beat-143502459.html",
+        "pubDate": "Tue, 31 Jan 2017 14:35:02 GMT",
+        "source": "data\\MX\\20170201.rss",
+        "title": "Methanex (MEOH) Earnings and Sales Beat Estimates in Q4"
     }
 ]

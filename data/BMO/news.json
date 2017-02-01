@@ -268,5 +268,14 @@
         "pubDate": "Tue, 31 Jan 2017 11:44:27 GMT",
         "source": "data\\BMO\\20170131.rss",
         "title": "MOVES-BMO Real Estate strengthens Paris investment team"
+    },
+    {
+        "contents": "data\\BMO\\20170201-090947.news",
+        "description": "[Marketwired] - BMO Financial Group today announced the results of its annual Registered Retirement Savings Plan study, showing fewer Canadians plan to contribute this year compared to last year , while the average amount ...",
+        "guid": "yahoo_finance/4217786913",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-annual-rrsp-study-fewer-130000659.html",
+        "pubDate": "Wed, 01 Feb 2017 13:00:00 GMT",
+        "source": "data\\BMO\\20170201.rss",
+        "title": "BMO Annual RRSP Study: Fewer Canadians to Contribute This Year, but Average Contribution Amount Increases Significantly"
     }
 ]

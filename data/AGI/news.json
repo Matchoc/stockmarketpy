@@ -421,5 +421,14 @@
         "pubDate": "Mon, 30 Jan 2017 22:05:56 GMT",
         "source": "data\\AGI\\20170131.rss",
         "title": "How\u2019s the Correlation of Mining Stocks Moving?"
+    },
+    {
+        "contents": "data\\AGI\\20170201-090129.news",
+        "description": null,
+        "guid": "yahoo_finance/2970127842",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12eee238g/*http://marketrealist.com/2017/01/how-the-correlations-of-mining-stocks-move/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 12:38:10 GMT",
+        "source": "data\\AGI\\20170201.rss",
+        "title": "How the Correlations of Mining Stocks Move"
     }
 ]
