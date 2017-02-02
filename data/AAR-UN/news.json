@@ -385,5 +385,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:00:00 GMT",
         "source": "data\\AAR-UN\\20170130.rss",
         "title": "Pure Industrial Real Estate Trust Announces Core Acquisitions and Accretive Dispositions"
+    },
+    {
+        "contents": "data\\AAR-UN\\20170202-091709.news",
+        "description": null,
+        "guid": "yahoo_finance/1912829773",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pure-industrial-real-estate-trust-225739717.html",
+        "pubDate": "Wed, 01 Feb 2017 22:57:39 GMT",
+        "source": "data\\AAR-UN\\20170202.rss",
+        "title": "Pure Industrial Real Estate Trust Announces Closing of Atlanta Acquisition"
     }
 ]

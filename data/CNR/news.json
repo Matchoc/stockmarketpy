@@ -709,5 +709,41 @@
         "pubDate": "Wed, 01 Feb 2017 12:36:53 GMT",
         "source": "data\\CNR\\20170201.rss",
         "title": "Which Commodities Boosted Canadian National\u2019s Carloads?"
+    },
+    {
+        "contents": "data\\CNR\\20170202-090848.news",
+        "description": "[CNW Group] - CN's 2016 Annual Financial Statements and Annual Information Form available on Company website",
+        "guid": "yahoo_finance/866799193",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cns-2016-annual-financial-statements-220000328.html",
+        "pubDate": "Wed, 01 Feb 2017 22:00:00 GMT",
+        "source": "data\\CNR\\20170202.rss",
+        "title": "CN's 2016 Annual Financial Statements and Annual Information Form available on Company website"
+    },
+    {
+        "contents": "data\\CNR\\20170202-090849.news",
+        "description": "[PR Newswire] - MONTREAL, Feb. 1, 2017 /PRNewswire/ - CN (TSX: CNR) (NYSE: CNI) announced today that the Company's 2016 Annual Financial Statements, Notes thereto and Management's Discussion and Analysis, and its 2016 ...",
+        "guid": "yahoo_finance/817588038",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cns-2016-annual-financial-statements-220000765.html",
+        "pubDate": "Wed, 01 Feb 2017 22:00:00 GMT",
+        "source": "data\\CNR\\20170202.rss",
+        "title": "CN's 2016 Annual Financial Statements and Annual Information Form available on Company website"
+    },
+    {
+        "contents": "data\\CNR\\20170202-090851.news",
+        "description": null,
+        "guid": "yahoo_finance/1170540241",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12js7u5fq/*http://marketrealist.com/2017/01/reviewing-canadian-nationals-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 15:36:13 GMT",
+        "source": "data\\CNR\\20170202.rss",
+        "title": "Reviewing Canadian National\u2019s Intermodal Volumes"
+    },
+    {
+        "contents": "data\\CNR\\20170202-090852.news",
+        "description": null,
+        "guid": "yahoo_finance/3325100050",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14nh0b4uc/*http://www.capitalcube.com/blog/index.php/canadian-national-railway-co-breached-its-50-day-moving-average-in-a-bearish-manner-cnr-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:30:18 GMT",
+        "source": "data\\CNR\\20170202.rss",
+        "title": "Canadian National Railway Co. breached its 50 day moving average in a Bearish Manner : CNR-CA : February 1, 2017"
     }
 ]

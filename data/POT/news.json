@@ -1087,5 +1087,41 @@
         "pubDate": "Mon, 30 Jan 2017 15:12:52 GMT",
         "source": "data\\POT\\20170201.rss",
         "title": "Potash Corp. of Saskatchewan, Inc. :POT-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\POT\\20170202-090257.news",
+        "description": null,
+        "guid": "yahoo_finance/405094264",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/u-charges-ex-banco-santander-192527159.html",
+        "pubDate": "Tue, 03 Feb 2015 22:14:11 GMT",
+        "source": "data\\POT\\20170202.rss",
+        "title": "U.S. charges ex-Banco Santander executive with insider trading"
+    },
+    {
+        "contents": "data\\POT\\20170202-090259.news",
+        "description": null,
+        "guid": "yahoo_finance/3221848849",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/cf-industries-yara-international-end-015018893.html",
+        "pubDate": "Fri, 17 Oct 2014 01:50:18 GMT",
+        "source": "data\\POT\\20170202.rss",
+        "title": "CF Industries, Yara International end merger talks"
+    },
+    {
+        "contents": "data\\POT\\20170202-090301.news",
+        "description": null,
+        "guid": "yahoo_finance/88703431",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-u-farmers-seen-cutting-175347636.html",
+        "pubDate": "Thu, 16 Oct 2014 17:53:47 GMT",
+        "source": "data\\POT\\20170202.rss",
+        "title": "Exclusive - U.S. farmers seen cutting fertiliser use as crop prices slide"
+    },
+    {
+        "contents": "data\\POT\\20170202-090304.news",
+        "description": null,
+        "guid": "yahoo_finance/2954274647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/yara-cf-talks-create-27-073659794.html",
+        "pubDate": "Tue, 23 Sep 2014 16:42:09 GMT",
+        "source": "data\\POT\\20170202.rss",
+        "title": "Norway's Yara, CF in talks to create $27.5 billion global fertiliser producer"
     }
 ]

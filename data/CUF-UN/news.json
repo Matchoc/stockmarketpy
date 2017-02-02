@@ -268,5 +268,14 @@
         "pubDate": "Wed, 20 Jan 2016 16:25:10 GMT",
         "source": "data\\CUF-UN\\20170119.rss",
         "title": "Cominar Announces Suspension of Distribution Reinvestment Plan"
+    },
+    {
+        "contents": "data\\CUF-UN\\20170202-091659.news",
+        "description": null,
+        "guid": "yahoo_finance/4019378875",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-reits-stocks-131500456.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\CUF-UN\\20170202.rss",
+        "title": "Research Reports Initiated on REITs Stocks Cominar REIT, Chartwell Retirement Residences, Allied Properties REIT, and Boardwalk REIT"
     }
 ]

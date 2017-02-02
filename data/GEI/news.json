@@ -214,5 +214,14 @@
         "pubDate": "Wed, 01 Feb 2017 14:13:28 GMT",
         "source": "data\\GEI\\20170201.rss",
         "title": "Gibson Energy, Inc. breached its 50 day moving average in a Bullish Manner : GEI-CA : February 1, 2017"
+    },
+    {
+        "contents": "data\\GEI\\20170202-091140.news",
+        "description": null,
+        "guid": "yahoo_finance/1779708172",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gibson-energy-release-fourth-quarter-211500249.html",
+        "pubDate": "Wed, 01 Feb 2017 21:15:00 GMT",
+        "source": "data\\GEI\\20170202.rss",
+        "title": "Gibson Energy to Release Fourth Quarter and Year End 2016 Results"
     }
 ]

@@ -385,5 +385,23 @@
         "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
         "source": "data\\UNS\\20170201.rss",
         "title": "Uni-Select Inc.: FinishMaster acquires A. D'Angelo & Sons, Inc. and related entities"
+    },
+    {
+        "contents": "data\\UNS\\20170202-091128.news",
+        "description": null,
+        "guid": "yahoo_finance/2814035954",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-autos-stocks-131500111.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\UNS\\20170202.rss",
+        "title": "Research Reports Initiated on Autos Stocks Magna International, Linamar, Uni-Select, and Martinrea International"
+    },
+    {
+        "contents": "data\\UNS\\20170202-091130.news",
+        "description": null,
+        "guid": "yahoo_finance/3719821276",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149c2bsvq/*http://www.capitalcube.com/blog/index.php/uni-select-inc-breached-its-50-day-moving-average-in-a-bearish-manner-uns-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:19:37 GMT",
+        "source": "data\\UNS\\20170202.rss",
+        "title": "Uni-S\u00e9lect, Inc. breached its 50 day moving average in a Bearish Manner : UNS-CA : February 1, 2017"
     }
 ]

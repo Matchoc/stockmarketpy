@@ -241,5 +241,14 @@
         "pubDate": "Fri, 27 Jan 2017 18:00:00 GMT",
         "source": "data\\TMB\\20170128.rss",
         "title": "Tembec reports on Shareholders' voting results for the election of Directors"
+    },
+    {
+        "contents": "data\\TMB\\20170202-090424.news",
+        "description": null,
+        "guid": "yahoo_finance/794273930",
+        "link": "http://us.rd.yahoo.com/finance/external/xmoodys/rss/SIG=11h21r4n8/*http://www.moodys.com/page/viewresearchdoc.aspx?docid=PR_361502&WT.mc_id=AM~WWFob29fRmluYW5jZV9TQl9SYXRpbmcgTmV3c19BbGxfRW5n~20170201_PR_361502",
+        "pubDate": "Wed, 01 Feb 2017 20:56:02 GMT",
+        "source": "data\\TMB\\20170202.rss",
+        "title": "Tembec Industries Inc. -- Moody's upgrades Tembec's CFR to B2; outlook stable"
     }
 ]

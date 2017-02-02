@@ -340,5 +340,14 @@
         "pubDate": "Mon, 30 Jan 2017 19:06:26 GMT",
         "source": "data\\ALA\\20170131.rss",
         "title": "AltaGas Ltd. : ALA-CA: Dividend Analysis : January 25th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\ALA\\20170202-091439.news",
+        "description": null,
+        "guid": "yahoo_finance/311042410",
+        "link": "http://us.rd.yahoo.com/finance/external/xmoodys/rss/SIG=11h21r4n8/*http://www.moodys.com/page/viewresearchdoc.aspx?docid=PR_361388&WT.mc_id=AM~WWFob29fRmluYW5jZV9TQl9SYXRpbmcgTmV3c19BbGxfRW5n~20170201_PR_361388",
+        "pubDate": "Wed, 01 Feb 2017 20:45:02 GMT",
+        "source": "data\\ALA\\20170202.rss",
+        "title": "WGL Holdings, Inc. -- Moody's affirms the ratings of WGL Holdings and Washington Gas Light Company; outlooks changed to negative from stable"
     }
 ]

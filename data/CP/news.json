@@ -610,5 +610,23 @@
         "pubDate": "Mon, 30 Jan 2017 18:57:00 GMT",
         "source": "data\\CP\\20170201.rss",
         "title": "WSJ: CSX discussing settlement that would see new CEO take over"
+    },
+    {
+        "contents": "data\\CP\\20170202-090344.news",
+        "description": null,
+        "guid": "yahoo_finance/2243951908",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12l7r1ula/*http://marketrealist.com/2017/01/coal-volumes-fall-canadian-pacifics-carloads-rise/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 02 Feb 2017 12:35:59 GMT",
+        "source": "data\\CP\\20170202.rss",
+        "title": "Coal Volumes Fall, Canadian Pacific\u2019s Carloads Rise"
+    },
+    {
+        "contents": "data\\CP\\20170202-090346.news",
+        "description": null,
+        "guid": "yahoo_finance/2547386068",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14mudcam8/*http://www.capitalcube.com/blog/index.php/canadian-pacific-railway-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-cp-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:29:30 GMT",
+        "source": "data\\CP\\20170202.rss",
+        "title": "Canadian Pacific Railway Ltd. breached its 50 day moving average in a Bearish Manner : CP-CA : February 1, 2017"
     }
 ]

@@ -259,5 +259,14 @@
         "pubDate": "Sun, 06 Jul 2014 00:21:34 GMT",
         "source": "data\\PWF\\20170201.rss",
         "title": "Factbox - Indian state firms to go on the block"
+    },
+    {
+        "contents": "data\\PWF\\20170202-090121.news",
+        "description": null,
+        "guid": "yahoo_finance/2758254900",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14f9d50tm/*http://www.capitalcube.com/blog/index.php/power-financial-corp-breached-its-50-day-moving-average-in-a-bearish-manner-pwf-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:23:20 GMT",
+        "source": "data\\PWF\\20170202.rss",
+        "title": "Power Financial Corp. breached its 50 day moving average in a Bearish Manner : PWF-CA : February 1, 2017"
     }
 ]

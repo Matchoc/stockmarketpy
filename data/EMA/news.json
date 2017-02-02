@@ -394,5 +394,14 @@
         "pubDate": "Wed, 22 Jun 2016 18:39:03 GMT",
         "source": "data\\EMA\\20170119.rss",
         "title": "Emera Acquisition of TECO Energy Approved by New Mexico Public Regulation Commission"
+    },
+    {
+        "contents": "data\\EMA\\20170202-090826.news",
+        "description": null,
+        "guid": "yahoo_finance/56334243",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144itnpb7/*http://www.capitalcube.com/blog/index.php/emera-inc-breached-its-50-day-moving-average-in-a-bullish-manner-ema-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:16:32 GMT",
+        "source": "data\\EMA\\20170202.rss",
+        "title": "Emera, Inc. breached its 50 day moving average in a Bullish Manner : EMA-CA : February 1, 2017"
     }
 ]

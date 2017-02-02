@@ -304,5 +304,32 @@
         "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
         "source": "data\\RKN\\20170131.rss",
         "title": "Redknee Solutions Inc. to Host Fiscal First Quarter 2017 Investor Conference Call on February 9, 2017"
+    },
+    {
+        "contents": "data\\RKN\\20170202-091446.news",
+        "description": null,
+        "guid": "yahoo_finance/2578863472",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ge6jhtr/*http://www.capitalcube.com/blog/index.php/redknee-solutions-inc-breached-its-50-day-moving-average-in-a-bearish-manner-rkn-ca-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 13:22:58 GMT",
+        "source": "data\\RKN\\20170202.rss",
+        "title": "Redknee Solutions, Inc. breached its 50 day moving average in a Bearish Manner : RKN-CA : February 2, 2017"
+    },
+    {
+        "contents": "data\\RKN\\20170202-091446.news",
+        "description": null,
+        "guid": "yahoo_finance/793584324",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-signs-multi-million-dollar-122900956.html",
+        "pubDate": "Thu, 02 Feb 2017 12:29:00 GMT",
+        "source": "data\\RKN\\20170202.rss",
+        "title": "Redknee Signs a Multi-Million Dollar Upgrade and Contract Expansion in Europe"
+    },
+    {
+        "contents": "data\\RKN\\20170202-091450.news",
+        "description": null,
+        "guid": "yahoo_finance/2429532413",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-signs-multi-million-dollar-122900797.html",
+        "pubDate": "Thu, 02 Feb 2017 12:29:00 GMT",
+        "source": "data\\RKN\\20170202.rss",
+        "title": "Redknee Signs a Multi-Million Dollar Upgrade and Contract Expansion in Europe"
     }
 ]

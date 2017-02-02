@@ -583,5 +583,14 @@
         "pubDate": "Tue, 31 Jan 2017 16:03:12 GMT",
         "source": "data\\K\\20170201.rss",
         "title": "Where Are Mining Stocks\u2019 RSI Numbers and Volatility Pointing?"
+    },
+    {
+        "contents": "data\\K\\20170202-091529.news",
+        "description": null,
+        "guid": "yahoo_finance/2909625463",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-resources-220245947.html",
+        "pubDate": "Wed, 01 Feb 2017 22:02:45 GMT",
+        "source": "data\\K\\20170202.rss",
+        "title": "CANADA STOCKS-TSX gains as resources stocks rise; Cameco sinks"
     }
 ]

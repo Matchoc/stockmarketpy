@@ -385,5 +385,14 @@
         "pubDate": "Mon, 30 Jan 2017 12:00:06 GMT",
         "source": "data\\CSU\\20170130.rss",
         "title": "Private Equity Firms Muscle into Constellation Software's Back Yard"
+    },
+    {
+        "contents": "data\\CSU\\20170202-090436.news",
+        "description": null,
+        "guid": "yahoo_finance/4043466628",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/constellation-software-inc-announces-conference-230747297.html",
+        "pubDate": "Wed, 01 Feb 2017 23:07:47 GMT",
+        "source": "data\\CSU\\20170202.rss",
+        "title": "Constellation Software Inc. Announces Conference Call to Discuss Fourth Quarter Results"
     }
 ]

@@ -916,5 +916,59 @@
         "pubDate": "Thu, 26 Jan 2017 21:05:00 GMT",
         "source": "data\\BCE\\20170127.rss",
         "title": "BCE Q4 2016 results and 2017 guidance to be announced February 2, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090326.news",
+        "description": null,
+        "guid": "yahoo_finance/2481474084",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/bce-misses-4q-profit-forecasts-125032692.html",
+        "pubDate": "Thu, 02 Feb 2017 12:52:24 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "BCE misses 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090328.news",
+        "description": null,
+        "guid": "yahoo_finance/958179487",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-misses-4q-profit-forecasts-125032488.html",
+        "pubDate": "Thu, 02 Feb 2017 12:52:24 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "BCE misses 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090329.news",
+        "description": null,
+        "guid": "yahoo_finance/2085314001",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170202.html?t=bce.to",
+        "pubDate": "Thu, 02 Feb 2017 12:07:07 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "Q4 2016 BCE Inc Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090330.news",
+        "description": "[CNW Group] - BCE reports 2016 Q4 and full-year results, announces 2017 financial targets - Common share dividend increased 5.1% to $2.87 per year",
+        "guid": "yahoo_finance/2209472254",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-reports-2016-q4-full-120000358.html",
+        "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "BCE reports 2016 Q4 and full-year results, announces 2017 financial targets - Common share dividend increased 5.1% to $2.87 per year"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090332.news",
+        "description": "[PR Newswire] - This news release contains forward-looking statements. For a description of the related risk factors and assumptions please see the section entitled \"Caution Concerning Forward-Looking Statements\" ...",
+        "guid": "yahoo_finance/94639288",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-reports-2016-q4-full-120000378.html",
+        "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "BCE reports 2016 Q4 and full-year results, announces 2017 financial targets - Common share dividend increased 5.1% to $2.87 per year"
+    },
+    {
+        "contents": "data\\BCE\\20170202-090334.news",
+        "description": null,
+        "guid": "yahoo_finance/2175565310",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-inc-bce-disappoint-investors-143802003.html",
+        "pubDate": "Wed, 01 Feb 2017 14:38:02 GMT",
+        "source": "data\\BCE\\20170202.rss",
+        "title": "BCE Inc (BCE): Will it Disappoint Investors in Q4 Earnings?"
     }
 ]

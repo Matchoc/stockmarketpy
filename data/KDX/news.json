@@ -214,5 +214,14 @@
         "pubDate": "Wed, 25 Jan 2017 00:48:56 GMT",
         "source": "data\\KDX\\20170125.rss",
         "title": "Klondex Announces New Discovery at True North; Drilling Continues to Extend Known Mineralization"
+    },
+    {
+        "contents": "data\\KDX\\20170202-090632.news",
+        "description": null,
+        "guid": "yahoo_finance/1550092798",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14chg69ak/*http://www.capitalcube.com/blog/index.php/klondex-mines-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-kdx-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:14:15 GMT",
+        "source": "data\\KDX\\20170202.rss",
+        "title": "Klondex Mines Ltd. breached its 50 day moving average in a Bullish Manner : KDX-CA : February 1, 2017"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:12:00 GMT",
         "source": "data\\MNW\\20170127.rss",
         "title": "Mitel Networks Corp. breached its 50 day moving average in a Bearish Manner : MNW-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\MNW\\20170202-091539.news",
+        "description": "[GlobeNewswire] - Beijing Rail Transit Control Center oversees surveillance, emergency command and information sharing across rail network New communications solution covers 18 metro and light rail lines Provides staff ...",
+        "guid": "yahoo_finance/2676527109",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/beijing-rail-transit-control-center-120000084.html",
+        "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
+        "source": "data\\MNW\\20170202.rss",
+        "title": "Beijing Rail Transit Control Center Selects Mitel to Communicate and Collaborate With Ease"
     }
 ]

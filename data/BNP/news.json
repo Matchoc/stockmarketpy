@@ -178,5 +178,14 @@
         "pubDate": "Fri, 17 Jun 2016 21:07:37 GMT",
         "source": "data\\BNP\\20170118.rss",
         "title": "ETF\u2019s with exposure to Bonavista Energy Corp. : June 17, 2016"
+    },
+    {
+        "contents": "data\\BNP\\20170202-091745.news",
+        "description": null,
+        "guid": "yahoo_finance/4140747918",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bonavista-energy-corporation-replaces-131-220000635.html",
+        "pubDate": "Wed, 01 Feb 2017 22:00:00 GMT",
+        "source": "data\\BNP\\20170202.rss",
+        "title": "Bonavista Energy Corporation Replaces 131% of 2016 Production with the addition of 32.8 MMboe of Proved Plus Probable Reserves at no net cost"
     }
 ]

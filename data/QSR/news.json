@@ -484,5 +484,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:02:00 GMT",
         "source": "data\\QSR\\20170130.rss",
         "title": "Tim Hortons to Exploit Growing Mexican Coffee Market, Even as Trump Looks On"
+    },
+    {
+        "contents": "data\\QSR\\20170202-091714.news",
+        "description": null,
+        "guid": "yahoo_finance/72756268",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ufujojc/*http://www.capitalcube.com/blog/index.php/restaurant-brands-international-inc-breached-its-50-day-moving-average-in-a-bearish-manner-qsr-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:18:51 GMT",
+        "source": "data\\QSR\\20170202.rss",
+        "title": "Restaurant Brands International, Inc. breached its 50 day moving average in a Bearish Manner : QSR-CA : February 1, 2017"
     }
 ]

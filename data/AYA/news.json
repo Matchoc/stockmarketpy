@@ -223,5 +223,23 @@
         "pubDate": "Fri, 20 Jan 2017 15:55:00 GMT",
         "source": "data\\AYA\\20170121.rss",
         "title": "Amaya Stock Gains After Raising Profit Forecast"
+    },
+    {
+        "contents": "data\\AYA\\20170202-090742.news",
+        "description": "[CNW Group] - Amaya Makes Additional Payment on Deferred Purchase Price",
+        "guid": "yahoo_finance/3609599730",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/amaya-makes-additional-payment-deferred-151200325.html",
+        "pubDate": "Wed, 01 Feb 2017 15:12:00 GMT",
+        "source": "data\\AYA\\20170202.rss",
+        "title": "Amaya Makes Additional Payment on Deferred Purchase Price"
+    },
+    {
+        "contents": "data\\AYA\\20170202-090744.news",
+        "description": "[PR Newswire] - TSX: AYA) today announced that it has made an additional payment of $75 million on its outstanding deferred purchase price obligation for its acquisition of the Rational Group in August 2014. As a result, Amaya's remaining deferred purchase price obligation is approximately $122.5 million. Amaya also made an approximately $6 million advance payment of three-months of non-refundable late payment fees related to the unpaid balance of the deferred purchase price, as required by its previously announced agreement with the former owners of the Rational Group.",
+        "guid": "yahoo_finance/3868330853",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/amaya-makes-additional-payment-deferred-151200171.html",
+        "pubDate": "Wed, 01 Feb 2017 15:12:00 GMT",
+        "source": "data\\AYA\\20170202.rss",
+        "title": "Amaya Makes Additional Payment on Deferred Purchase Price"
     }
 ]

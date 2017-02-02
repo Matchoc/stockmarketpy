@@ -232,5 +232,14 @@
         "pubDate": "Tue, 31 Jan 2017 14:30:02 GMT",
         "source": "data\\OTC\\20170201.rss",
         "title": "Zacks.com featured highlights: II-VI, FCB Financial Holdings, Open Text, Rice Midstream Partners and Allegiance Bancshares"
+    },
+    {
+        "contents": "data\\OTC\\20170202-091536.news",
+        "description": null,
+        "guid": "yahoo_finance/4133100003",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170202.html?t=otc.to",
+        "pubDate": "Thu, 02 Feb 2017 12:07:07 GMT",
+        "source": "data\\OTC\\20170202.rss",
+        "title": "Q2 2017 Open Text Corp Earnings Release - After Market Close"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Fri, 27 Jan 2017 00:00:00 GMT",
         "source": "data\\GUD\\20170127.rss",
         "title": "Knight Plants Small Seed Position In Protalix"
+    },
+    {
+        "contents": "data\\GUD\\20170202-091607.news",
+        "description": null,
+        "guid": "yahoo_finance/3177507494",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14id3jhvm/*http://www.capitalcube.com/blog/index.php/knight-therapeutics-inc-breached-its-50-day-moving-average-in-a-bullish-manner-gud-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:12:44 GMT",
+        "source": "data\\GUD\\20170202.rss",
+        "title": "Knight Therapeutics, Inc. breached its 50 day moving average in a Bullish Manner : GUD-CA : February 1, 2017"
     }
 ]

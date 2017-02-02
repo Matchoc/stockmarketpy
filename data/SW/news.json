@@ -439,5 +439,14 @@
         "pubDate": "Wed, 01 Feb 2017 14:00:00 GMT",
         "source": "data\\SW\\20170201.rss",
         "title": "Sierra Wireless Technology Chosen for World\u2019s Fastest Connected Car"
+    },
+    {
+        "contents": "data\\SW\\20170202-090735.news",
+        "description": null,
+        "guid": "yahoo_finance/1997485794",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13247lm84/*http://www.fool.com/investing/2017/02/01/what-to-watch-when-sierra-wireless-inc-reports-ear.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Thu, 02 Feb 2017 01:36:00 GMT",
+        "source": "data\\SW\\20170202.rss",
+        "title": "What to Watch When Sierra Wireless, Inc. Reports Earnings"
     }
 ]

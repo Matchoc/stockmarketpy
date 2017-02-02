@@ -187,5 +187,14 @@
         "pubDate": "Wed, 25 Jan 2017 14:10:28 GMT",
         "source": "data\\DSG\\20170125.rss",
         "title": "The Descartes Systems Group, Inc. breached its 50 day moving average in a Bullish Manner : DSG-CA : January 25, 2017"
+    },
+    {
+        "contents": "data\\DSG\\20170202-091407.news",
+        "description": "[GlobeNewswire] - WATERLOO, Ontario, Feb. 02, 2017-- Descartes Systems Group, the global leader in uniting logistics-intensive businesses in commerce, is scheduled to report its fiscal 2017 fourth quarter and annual financial ...",
+        "guid": "yahoo_finance/496069678",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/descartes-sets-date-announce-fiscal-114500282.html",
+        "pubDate": "Thu, 02 Feb 2017 11:45:00 GMT",
+        "source": "data\\DSG\\20170202.rss",
+        "title": "Descartes Sets Date to Announce Fiscal 2017 Fourth Quarter and Annual Financial Results"
     }
 ]

@@ -196,5 +196,14 @@
         "pubDate": "Mon, 30 Jan 2017 15:56:06 GMT",
         "source": "data\\FNV\\20170131.rss",
         "title": "How Franco-Nevada Has Benefited From the Glencore Deal"
+    },
+    {
+        "contents": "data\\FNV\\20170202-091753.news",
+        "description": null,
+        "guid": "yahoo_finance/2203142031",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132cg3ldg/*http://www.fool.com/investing/2017/02/01/franco-nevada-can-grow-even-without-rising-gold-an.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 01 Feb 2017 16:41:06 GMT",
+        "source": "data\\FNV\\20170202.rss",
+        "title": "Franco-Nevada Can Grow Even Without Rising Gold and Silver Prices"
     }
 ]

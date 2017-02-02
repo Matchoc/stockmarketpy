@@ -331,5 +331,23 @@
         "pubDate": "Tue, 31 Jan 2017 18:14:32 GMT",
         "source": "data\\G\\20170201.rss",
         "title": "3 Things Goldcorp Investors Can Expect in 2017"
+    },
+    {
+        "contents": "data\\G\\20170202-091011.news",
+        "description": null,
+        "guid": "yahoo_finance/2909625463",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-resources-220245947.html",
+        "pubDate": "Wed, 01 Feb 2017 22:02:45 GMT",
+        "source": "data\\G\\20170202.rss",
+        "title": "CANADA STOCKS-TSX gains as resources stocks rise; Cameco sinks"
+    },
+    {
+        "contents": "data\\G\\20170202-091013.news",
+        "description": null,
+        "guid": "yahoo_finance/3022606161",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-falls-cameco-155543256.html",
+        "pubDate": "Wed, 01 Feb 2017 15:55:43 GMT",
+        "source": "data\\G\\20170202.rss",
+        "title": "CANADA STOCKS-TSX falls as Cameco sinks, gold miners weigh"
     }
 ]

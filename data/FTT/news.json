@@ -196,5 +196,14 @@
         "pubDate": "Wed, 25 Jan 2017 22:00:00 GMT",
         "source": "data\\FTT\\20170125.rss",
         "title": "Finning to participate in CIBC 20th Annual Whistler Institutional Investor Conference on January 26, 2017"
+    },
+    {
+        "contents": "data\\FTT\\20170202-090944.news",
+        "description": null,
+        "guid": "yahoo_finance/2586471849",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/finning-release-q4-annual-2016-140000464.html",
+        "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
+        "source": "data\\FTT\\20170202.rss",
+        "title": "Finning to release Q4 and annual 2016 results and hold investor call on February 16, 2017"
     }
 ]

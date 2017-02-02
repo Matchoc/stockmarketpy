@@ -448,5 +448,41 @@
         "pubDate": "Thu, 19 Jan 2017 22:00:00 GMT",
         "source": "data\\RFP\\20170120.rss",
         "title": "Resolute to Host Management Call to Discuss Fourth Quarter and 2016 Annual Results"
+    },
+    {
+        "contents": "data\\RFP\\20170202-090553.news",
+        "description": null,
+        "guid": "yahoo_finance/1803608445",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/resolute-forest-products-posts-4q-130605939.html",
+        "pubDate": "Thu, 02 Feb 2017 13:06:05 GMT",
+        "source": "data\\RFP\\20170202.rss",
+        "title": "Resolute Forest Products posts 4Q loss"
+    },
+    {
+        "contents": "data\\RFP\\20170202-090555.news",
+        "description": null,
+        "guid": "yahoo_finance/1379159377",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/resolute-forest-products-posts-4q-130605410.html",
+        "pubDate": "Thu, 02 Feb 2017 13:06:05 GMT",
+        "source": "data\\RFP\\20170202.rss",
+        "title": "Resolute Forest Products posts 4Q loss"
+    },
+    {
+        "contents": "data\\RFP\\20170202-090557.news",
+        "description": "[PR Newswire] - US $ Q4 GAAP net loss of $45 million or $0.50 per share / 2016 GAAP net loss of $81 million or $0.90 per share Q4 adjusted EBITDA of $67 million / $279 million for the full year Liquidity at $468 million ...",
+        "guid": "yahoo_finance/218098562",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/resolute-reports-preliminary-fourth-quarter-123000049.html",
+        "pubDate": "Thu, 02 Feb 2017 12:30:00 GMT",
+        "source": "data\\RFP\\20170202.rss",
+        "title": "Resolute Reports Preliminary Fourth Quarter and 2016 Results"
+    },
+    {
+        "contents": "data\\RFP\\20170202-090600.news",
+        "description": "[CNW Group] - Resolute Reports Preliminary Fourth Quarter and 2016 Results",
+        "guid": "yahoo_finance/4019257308",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/resolute-reports-preliminary-fourth-quarter-123000528.html",
+        "pubDate": "Thu, 02 Feb 2017 12:30:00 GMT",
+        "source": "data\\RFP\\20170202.rss",
+        "title": "Resolute Reports Preliminary Fourth Quarter and 2016 Results"
     }
 ]

@@ -340,5 +340,23 @@
         "pubDate": "Mon, 30 Jan 2017 17:11:06 GMT",
         "source": "data\\SAP\\20170131.rss",
         "title": "Leith Wheeler Investment Funds 4th Quarter Review"
+    },
+    {
+        "contents": "data\\SAP\\20170202-090644.news",
+        "description": null,
+        "guid": "yahoo_finance/1126326351",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170202.html?t=sap.to",
+        "pubDate": "Thu, 02 Feb 2017 12:07:06 GMT",
+        "source": "data\\SAP\\20170202.rss",
+        "title": "Q3 2017 Saputo Inc Earnings Release - Time Not Supplied"
+    },
+    {
+        "contents": "data\\SAP\\20170202-090645.news",
+        "description": null,
+        "guid": "yahoo_finance/3635288463",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/reminder-saputo-inc-fiscal-2017-120000854.html",
+        "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
+        "source": "data\\SAP\\20170202.rss",
+        "title": "REMINDER/Saputo Inc.: Fiscal 2017 Third Quarter Results"
     }
 ]

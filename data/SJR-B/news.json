@@ -502,5 +502,23 @@
         "pubDate": "Tue, 22 Jul 2014 16:44:27 GMT",
         "source": "data\\SJR-B\\20170130.rss",
         "title": "Canada launches plan to extend high-speed Internet to remote areas"
+    },
+    {
+        "contents": "data\\SJR-B\\20170202-090045.news",
+        "description": "[Marketwired] - Shaw Communications Inc. today announced the Vancouver launch of Shaw BlueSky TV , the new best-in-class premium television product that you control with a game-changing voice remote.",
+        "guid": "yahoo_finance/500830850",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/watch-vancouver-shaw-bluesky-tv-143000867.html",
+        "pubDate": "Wed, 01 Feb 2017 14:30:00 GMT",
+        "source": "data\\SJR-B\\20170202.rss",
+        "title": "Watch What You Say, Vancouver! Shaw BlueSky TV Offers TV Like Never Before"
+    },
+    {
+        "contents": "data\\SJR-B\\20170202-090047.news",
+        "description": null,
+        "guid": "yahoo_finance/2375882872",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14s7ghj4p/*http://www.capitalcube.com/blog/index.php/shaw-communications-inc-sjr-b-ca-dividend-analysis-january-13th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:56:53 GMT",
+        "source": "data\\SJR-B\\20170202.rss",
+        "title": "Shaw Communications, Inc. : SJR.B-CA: Dividend Analysis : January 13th, 2017 (record date) : By the numbers : January 30, 2017"
     }
 ]

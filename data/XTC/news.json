@@ -304,5 +304,41 @@
         "pubDate": "Wed, 01 Feb 2017 12:07:03 GMT",
         "source": "data\\XTC\\20170201.rss",
         "title": "Q1 2017 Exco Technologies Ltd Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\XTC\\20170202-091327.news",
+        "description": null,
+        "guid": "yahoo_finance/559389239",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-results-first-212000965.html",
+        "pubDate": "Wed, 01 Feb 2017 21:20:00 GMT",
+        "source": "data\\XTC\\20170202.rss",
+        "title": "Exco Technologies Limited - Results for First Quarter Ended December 31, 2016"
+    },
+    {
+        "contents": "data\\XTC\\20170202-091328.news",
+        "description": "[PR Newswire] - Sales up 17%; EBITDA up 11% versus prior year EPS of $0.30 in the quarter excluding ALC S.A. closure costs 1 Quarterly dividend raised 14% to $0.08 per common share Free cash flow of $18 million during ...",
+        "guid": "yahoo_finance/1294927938",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-results-first-212000625.html",
+        "pubDate": "Wed, 01 Feb 2017 21:20:00 GMT",
+        "source": "data\\XTC\\20170202.rss",
+        "title": "Exco Technologies Limited - Results for First Quarter Ended December 31, 2016"
+    },
+    {
+        "contents": "data\\XTC\\20170202-091330.news",
+        "description": null,
+        "guid": "yahoo_finance/978697912",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-quarterly-dividend-210600830.html",
+        "pubDate": "Wed, 01 Feb 2017 21:06:00 GMT",
+        "source": "data\\XTC\\20170202.rss",
+        "title": "Exco Technologies Limited - Quarterly Dividend Raised 14%"
+    },
+    {
+        "contents": "data\\XTC\\20170202-091331.news",
+        "description": null,
+        "guid": "yahoo_finance/2187882592",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-quarterly-dividend-210600342.html",
+        "pubDate": "Wed, 01 Feb 2017 21:06:00 GMT",
+        "source": "data\\XTC\\20170202.rss",
+        "title": "Exco Technologies Limited - Quarterly Dividend Raised 14%"
     }
 ]

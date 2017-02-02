@@ -385,5 +385,14 @@
         "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
         "source": "data\\AC\\20170201.rss",
         "title": "Air Canada Adds Iceland to Growing International Network for Summer 2017"
+    },
+    {
+        "contents": "data\\AC\\20170202-091846.news",
+        "description": "[CNW Group] - Media Advisory - Air Canada to Present Fourth Quarter and Full Year 2016 Results",
+        "guid": "yahoo_finance/2270239547",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-air-canada-present-140000827.html",
+        "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
+        "source": "data\\AC\\20170202.rss",
+        "title": "Media Advisory - Air Canada to Present Fourth Quarter and Full Year 2016 Results"
     }
 ]

@@ -889,5 +889,14 @@
         "pubDate": "Mon, 30 Jan 2017 19:01:19 GMT",
         "source": "data\\FFH\\20170131.rss",
         "title": "Fairfax Financial Holdings Ltd. : FFH-CA: Dividend Analysis : January 19th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\FFH\\20170202-091038.news",
+        "description": null,
+        "guid": "yahoo_finance/1616197053",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/allied-world-reports-fourth-quarter-210500352.html",
+        "pubDate": "Wed, 01 Feb 2017 21:05:00 GMT",
+        "source": "data\\FFH\\20170202.rss",
+        "title": "Allied World Reports Fourth Quarter and Full Year 2016 Results"
     }
 ]

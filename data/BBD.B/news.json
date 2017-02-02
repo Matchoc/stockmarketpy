@@ -979,5 +979,14 @@
         "pubDate": "Thu, 26 Jan 2017 17:47:20 GMT",
         "source": "data\\BBD.B\\20170127.rss",
         "title": "Brazil minister says Canada signals it wants deal on Bombardier funding"
+    },
+    {
+        "contents": "data\\BBD.B\\20170202-091241.news",
+        "description": "[Marketwired] - Bombardier Commercial Aircraft announced today that a firm purchase agreement, consistent with the conditional agreement announced on January 24, 2017, has been finalized with Dublin-based regional carrier, ...",
+        "guid": "yahoo_finance/1725518556",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-cityjet-finalize-purchase-agreement-190840119.html",
+        "pubDate": "Wed, 01 Feb 2017 19:08:40 GMT",
+        "source": "data\\BBD.B\\20170202.rss",
+        "title": "Bombardier and CityJet Finalize Purchase Agreement for up to 10 CRJ900 Aircraft"
     }
 ]

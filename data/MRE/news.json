@@ -196,5 +196,14 @@
         "pubDate": "Tue, 26 Jul 2016 21:01:00 GMT",
         "source": "data\\MRE\\20170126.rss",
         "title": "Martinrea International Inc. to Announce Second Quarter Results on August 2, 2016"
+    },
+    {
+        "contents": "data\\MRE\\20170202-090235.news",
+        "description": null,
+        "guid": "yahoo_finance/2814035954",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-autos-stocks-131500111.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\MRE\\20170202.rss",
+        "title": "Research Reports Initiated on Autos Stocks Magna International, Linamar, Uni-Select, and Martinrea International"
     }
 ]

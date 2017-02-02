@@ -385,5 +385,14 @@
         "pubDate": "Tue, 24 Jan 2017 16:00:00 GMT",
         "source": "data\\VSN\\20170125.rss",
         "title": "Alliance Puts Safety First with Two New Community Investment Initiatives"
+    },
+    {
+        "contents": "data\\VSN\\20170202-090750.news",
+        "description": null,
+        "guid": "yahoo_finance/2416035620",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/veresen-confirms-2016-fourth-quarter-210200044.html",
+        "pubDate": "Wed, 01 Feb 2017 21:02:00 GMT",
+        "source": "data\\VSN\\20170202.rss",
+        "title": "Veresen Confirms 2016 Fourth Quarter and Year End Earnings Release Date & Provides Conference Call and Webcast Details"
     }
 ]

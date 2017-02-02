@@ -178,5 +178,14 @@
         "pubDate": "Thu, 13 Oct 2016 11:00:00 GMT",
         "source": "data\\KXS\\20170118.rss",
         "title": "Kinaxis Inc. to Host Third Quarter 2016 Investor Conference Call on November 3, 2016"
+    },
+    {
+        "contents": "data\\KXS\\20170202-090526.news",
+        "description": null,
+        "guid": "yahoo_finance/4109591598",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=130rrcbe6/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-kinaxis-inc-september-12-2016/",
+        "pubDate": "Mon, 12 Sep 2016 15:13:28 GMT",
+        "source": "data\\KXS\\20170202.rss",
+        "title": "ETF\u2019s with exposure to Kinaxis, Inc. : September 12, 2016"
     }
 ]

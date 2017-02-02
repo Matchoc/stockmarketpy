@@ -1186,5 +1186,14 @@
         "pubDate": "Wed, 01 Feb 2017 10:43:21 GMT",
         "source": "data\\TRP\\20170201.rss",
         "title": "PRESS DIGEST- Canada-Feb 1"
+    },
+    {
+        "contents": "data\\TRP\\20170202-091457.news",
+        "description": null,
+        "guid": "yahoo_finance/96891110",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132hkdmd7/*http://www.fool.com/investing/2017/01/31/how-sustainable-is-transcanada-corporations-divide.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 31 Jan 2017 15:00:10 GMT",
+        "source": "data\\TRP\\20170202.rss",
+        "title": "How Sustainable Is TransCanada Corporation's Dividend?"
     }
 ]

@@ -781,5 +781,41 @@
         "pubDate": "Tue, 31 Jan 2017 21:18:00 GMT",
         "source": "data\\MFC\\20170201.rss",
         "title": "John Hancock Tax-Advantaged Dividend Income Fund Notice To Shareholders - Sources of Distribution Under Section 19(a)"
+    },
+    {
+        "contents": "data\\MFC\\20170202-090951.news",
+        "description": "[PR Newswire] - BOSTON, Feb. 1, 2017 /PRNewswire/ -- The five John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: February 1, 2017 Ex Date: February 9, 2017 ...",
+        "guid": "yahoo_finance/91543806",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-closed-end-funds-212700350.html",
+        "pubDate": "Wed, 01 Feb 2017 21:27:00 GMT",
+        "source": "data\\MFC\\20170202.rss",
+        "title": "John Hancock Closed-End Funds Declare Monthly Distributions"
+    },
+    {
+        "contents": "data\\MFC\\20170202-090953.news",
+        "description": "[PR Newswire] - BOSTON, Feb. 1, 2017 /PRNewswire/ -- John Hancock Investments today completed a repositioning of its target-date portfolios for the defined contribution (DC) retirement plan marketplace. With three distinct target-date series offering two glide paths, more than 20 elite asset managers, and a choice of active or passive underlying strategies, the new names more closely align each series with its investment approach and objective. \"These funds have strong performance, a competitive fee structure, and a multimanager approach that mirrors everything we do at John Hancock Investments,\" said Andrew G. Arnott, President & CEO.",
+        "guid": "yahoo_finance/4125957994",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-debuts-names-185200716.html",
+        "pubDate": "Wed, 01 Feb 2017 18:52:00 GMT",
+        "source": "data\\MFC\\20170202.rss",
+        "title": "John Hancock Investments debuts new names for target-date fund suites, highlighting open architecture and lower costs for retirement savers"
+    },
+    {
+        "contents": "data\\MFC\\20170202-090954.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 1, 2017 /CNW/ - Manulife Investments today announced plans to launch a series of multifactor exchange traded funds (ETFs) in partnership with Dimensional Fund Advisors Canada ULC (DFAC) as sub-advisor*. Founded in 1981, Dimensional Fund Advisors LP (Dimensional), DFAC's parent company, is a global investment manager with USD$460 billion in AUM (as at Dec. 31, 2016) and a long record of applying insights from academic research into a systematic investment process across asset classes.",
+        "guid": "yahoo_finance/1214303926",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-investments-announces-partnership-dimensional-150000438.html",
+        "pubDate": "Wed, 01 Feb 2017 15:00:00 GMT",
+        "source": "data\\MFC\\20170202.rss",
+        "title": "Manulife Investments Announces Partnership with Dimensional Fund Advisors to launch Multifactor ETFs"
+    },
+    {
+        "contents": "data\\MFC\\20170202-090956.news",
+        "description": "[CNW Group] - Manulife Investments Announces Partnership with Dimensional Fund Advisors to launch Multifactor ETFs",
+        "guid": "yahoo_finance/1594395071",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-investments-announces-partnership-dimensional-150000529.html",
+        "pubDate": "Wed, 01 Feb 2017 15:00:00 GMT",
+        "source": "data\\MFC\\20170202.rss",
+        "title": "Manulife Investments Announces Partnership with Dimensional Fund Advisors to launch Multifactor ETFs"
     }
 ]

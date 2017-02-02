@@ -232,5 +232,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
         "source": "data\\THO\\20170130.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks IAMGOLD, B2Gold, Moneta Porcupine Mines, and Tahoe Resources"
+    },
+    {
+        "contents": "data\\THO\\20170202-091633.news",
+        "description": "[CNW Group] - Tahoe Resources Declares Second Monthly Dividend For 2017",
+        "guid": "yahoo_finance/2486782548",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tahoe-resources-declares-second-monthly-060000225.html",
+        "pubDate": "Thu, 02 Feb 2017 06:00:00 GMT",
+        "source": "data\\THO\\20170202.rss",
+        "title": "Tahoe Resources Declares Second Monthly Dividend For 2017"
+    },
+    {
+        "contents": "data\\THO\\20170202-091635.news",
+        "description": "[PR Newswire] - NYSE: TAHO) is pleased to declare its second dividend for 2017 of USD$0.02 per common share. Shareholders of record at the close of business on Thursday, February 16, 2017 will be entitled to receive payment of this dividend on Thursday, February 23, 2017. Pursuant to tax legislation enacted in 2007, Canadian resident individuals who receive \"eligible dividends\" will be entitled to an enhanced gross-up and dividend tax credit on such dividends.",
+        "guid": "yahoo_finance/4089428700",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tahoe-resources-declares-second-monthly-060000979.html",
+        "pubDate": "Thu, 02 Feb 2017 06:00:00 GMT",
+        "source": "data\\THO\\20170202.rss",
+        "title": "Tahoe Resources Declares Second Monthly Dividend For 2017"
     }
 ]

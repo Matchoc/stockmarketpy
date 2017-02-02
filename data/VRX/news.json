@@ -898,5 +898,23 @@
         "pubDate": "Mon, 30 Jan 2017 16:16:00 GMT",
         "source": "data\\VRX\\20170131.rss",
         "title": "Valeant Pharmaceuticals: A Challenging Setup?"
+    },
+    {
+        "contents": "data\\VRX\\20170202-090440.news",
+        "description": null,
+        "guid": "yahoo_finance/3002017070",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-analyst-blog-highlights-synergy-143002700.html",
+        "pubDate": "Wed, 01 Feb 2017 14:30:02 GMT",
+        "source": "data\\VRX\\20170202.rss",
+        "title": "The Zacks Analyst Blog Highlights: Synergy Pharmaceuticals, Amgen, Valeant Pharmaceuticals International, Celgene and Lexicon Pharmaceuticals"
+    },
+    {
+        "contents": "data\\VRX\\20170202-090443.news",
+        "description": null,
+        "guid": "yahoo_finance/4136842044",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13i7ak0g0/*http://www.bloomberg.com/news/articles/2017-02-01/stock-s-up-1-500-ceo-s-flush-and-andrew-left-sees-a-big-bubble?cmpid=yhoo.headline",
+        "pubDate": "Wed, 01 Feb 2017 10:00:01 GMT",
+        "source": "data\\VRX\\20170202.rss",
+        "title": "The Short Seller Who Crushed Valeant Has Picked His Next Target"
     }
 ]

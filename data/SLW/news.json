@@ -250,5 +250,14 @@
         "pubDate": "Tue, 31 Jan 2017 16:03:12 GMT",
         "source": "data\\SLW\\20170201.rss",
         "title": "Where Are Mining Stocks\u2019 RSI Numbers and Volatility Pointing?"
+    },
+    {
+        "contents": "data\\SLW\\20170202-090918.news",
+        "description": null,
+        "guid": "yahoo_finance/2433441984",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12muf73nk/*https://www.thestreet.com/story/13974453/1/4-precious-metals-trades-to-make-now.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Thu, 02 Feb 2017 12:10:00 GMT",
+        "source": "data\\SLW\\20170202.rss",
+        "title": "4 Precious Metals Trades to Make Now"
     }
 ]

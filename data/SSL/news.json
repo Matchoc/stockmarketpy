@@ -331,5 +331,23 @@
         "pubDate": "Wed, 30 Mar 2016 20:51:08 GMT",
         "source": "data\\SSL\\20170126.rss",
         "title": "Sandstorm Gold Announces Fourth Quarter and Annual Results"
+    },
+    {
+        "contents": "data\\SSL\\20170202-091839.news",
+        "description": "[CNW Group] - Sandstorm Gold Announces Merger of Luna Gold & JDL Gold",
+        "guid": "yahoo_finance/56310307",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sandstorm-gold-announces-merger-luna-231200168.html",
+        "pubDate": "Wed, 01 Feb 2017 23:12:00 GMT",
+        "source": "data\\SSL\\20170202.rss",
+        "title": "Sandstorm Gold Announces Merger of Luna Gold & JDL Gold"
+    },
+    {
+        "contents": "data\\SSL\\20170202-091841.news",
+        "description": "[PR Newswire] - VANCOUVER, Feb. 1, 2017 /PRNewswire/ - Sandstorm Gold Ltd. (\"Sandstorm\" or the \"Company\") (NYSE MKT: SAND, TSX: SSL) is pleased to announce that Luna Gold Corp. (\"Luna Gold\") and JDL Gold Corp. (\"JDL\") have entered into an arrangement agreement (the \"Agreement\") to combine their businesses, creating a multi-asset mining company (the \"Transaction\"). Under the terms of the Agreement, JDL will acquire all of the outstanding shares of Luna Gold pursuant to a plan of arrangement. The combined company intends to change its name to Trek Mining Inc. (\"Trek\" or \"Trek Mining\") with Christian Milau from Luna Gold as CEO and Executive Director and Greg Smith from JDL as President and Executive Director.",
+        "guid": "yahoo_finance/662307669",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sandstorm-gold-announces-merger-luna-231200922.html",
+        "pubDate": "Wed, 01 Feb 2017 23:12:00 GMT",
+        "source": "data\\SSL\\20170202.rss",
+        "title": "Sandstorm Gold Announces Merger of Luna Gold & JDL Gold"
     }
 ]

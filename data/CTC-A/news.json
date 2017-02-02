@@ -331,5 +331,32 @@
         "pubDate": "Fri, 15 Apr 2016 20:27:06 GMT",
         "source": "data\\CTC-A\\20170124.rss",
         "title": "Consumer Recall: AutoTrends Heated Seat Cushion"
+    },
+    {
+        "contents": "data\\CTC-A\\20170202-090842.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /CNW/ - Canadian Tire Corporation, Limited (CTC, CTC.A) will release fourth quarter and 2016 full year financial results and host an earnings conference call. WHEN: Thursday, February ...",
+        "guid": "yahoo_finance/2653595027",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-canadian-tire-corporation-130000626.html",
+        "pubDate": "Thu, 02 Feb 2017 13:00:00 GMT",
+        "source": "data\\CTC-A\\20170202.rss",
+        "title": "Media Advisory - Canadian Tire Corporation Fourth Quarter and 2016 Full Year Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170202-090844.news",
+        "description": null,
+        "guid": "yahoo_finance/3954727814",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-canadian-tire-corporation-130000214.html",
+        "pubDate": "Thu, 02 Feb 2017 13:00:00 GMT",
+        "source": "data\\CTC-A\\20170202.rss",
+        "title": "Media Advisory - Canadian Tire Corporation Fourth Quarter and 2016 Full Year Results"
+    },
+    {
+        "contents": "data\\CTC-A\\20170202-090845.news",
+        "description": null,
+        "guid": "yahoo_finance/3421264661",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14jdgh2qs/*http://www.capitalcube.com/blog/index.php/canadian-tire-corp-ltd-breached-its-50-day-moving-average-in-a-bearish-manner-ctc-a-ca-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 14:06:43 GMT",
+        "source": "data\\CTC-A\\20170202.rss",
+        "title": "Canadian Tire Corp. Ltd. breached its 50 day moving average in a Bearish Manner : CTC.A-CA : January 30, 2017"
     }
 ]

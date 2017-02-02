@@ -610,5 +610,32 @@
         "pubDate": "Thu, 23 Oct 2014 18:34:52 GMT",
         "source": "data\\HSE\\20170122.rss",
         "title": "Husky Energy profit rises 11.5 percent on increased production"
+    },
+    {
+        "contents": "data\\HSE\\20170202-091757.news",
+        "description": null,
+        "guid": "yahoo_finance/1086242836",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500164.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\HSE\\20170202.rss",
+        "title": "Research Reports Initiated on Energy Stocks Suncor Energy, Cenovus Energy, Husky Energy, and Northern Blizzard Resources"
+    },
+    {
+        "contents": "data\\HSE\\20170202-091758.news",
+        "description": null,
+        "guid": "yahoo_finance/1974938488",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/husky-energy-chief-executive-retire-024608751.html",
+        "pubDate": "Thu, 27 Oct 2016 02:46:08 GMT",
+        "source": "data\\HSE\\20170202.rss",
+        "title": "Husky Energy chief executive to retire, promotes COO"
+    },
+    {
+        "contents": "data\\HSE\\20170202-091800.news",
+        "description": null,
+        "guid": "yahoo_finance/3877698024",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/husky-energy-announces-ceo-asim-015803159.html",
+        "pubDate": "Thu, 27 Oct 2016 01:58:03 GMT",
+        "source": "data\\HSE\\20170202.rss",
+        "title": "Husky Energy Announces CEO Asim Ghosh Transition Plan and Retirement"
     }
 ]

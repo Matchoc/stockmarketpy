@@ -187,5 +187,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\BEI-UN\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\BEI-UN\\20170202-091512.news",
+        "description": null,
+        "guid": "yahoo_finance/4019378875",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-reits-stocks-131500456.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\BEI-UN\\20170202.rss",
+        "title": "Research Reports Initiated on REITs Stocks Cominar REIT, Chartwell Retirement Residences, Allied Properties REIT, and Boardwalk REIT"
     }
 ]

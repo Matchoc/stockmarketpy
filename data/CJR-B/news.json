@@ -178,5 +178,23 @@
         "pubDate": "Tue, 06 Dec 2016 15:13:00 GMT",
         "source": "data\\CJR-B\\20170118.rss",
         "title": "Global Celebrates Canadian Excellence with The 2016 Canada's Walk Of Fame Broadcast Airing December 19"
+    },
+    {
+        "contents": "data\\CJR-B\\20170202-091734.news",
+        "description": null,
+        "guid": "yahoo_finance/2221663690",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14s5hprom/*http://www.capitalcube.com/blog/index.php/corus-entertainment-inc-cjr-b-ca-dividend-analysis-january-16th-2017-record-date-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 18:59:50 GMT",
+        "source": "data\\CJR-B\\20170202.rss",
+        "title": "Corus Entertainment, Inc. : CJR.B-CA: Dividend Analysis : January 16th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\CJR-B\\20170202-091734.news",
+        "description": null,
+        "guid": "yahoo_finance/4053523665",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146phfcl9/*http://www.capitalcube.com/blog/index.php/corus-entertainment-inc-cjr-b-ca-earnings-analysis-q1-2017-by-the-numbers-january-30-2017/",
+        "pubDate": "Mon, 30 Jan 2017 14:16:05 GMT",
+        "source": "data\\CJR-B\\20170202.rss",
+        "title": "Corus Entertainment, Inc. :CJR.B-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 30, 2017"
     }
 ]

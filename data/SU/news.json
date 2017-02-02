@@ -223,5 +223,68 @@
         "pubDate": "Mon, 30 Jan 2017 12:50:12 GMT",
         "source": "data\\SU\\20170130.rss",
         "title": "Range Resources' (RRC) Proved Reserves Grow 22% in 2016"
+    },
+    {
+        "contents": "data\\SU\\20170202-091230.news",
+        "description": null,
+        "guid": "yahoo_finance/3795507036",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=127co4ta1/*http://marketrealist.com/2017/02/has-short-interest-in-suncor-fallen/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 02 Feb 2017 14:06:59 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "Has Short Interest in Suncor Fallen?"
+    },
+    {
+        "contents": "data\\SU\\20170202-091231.news",
+        "description": null,
+        "guid": "yahoo_finance/1086242836",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500164.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "Research Reports Initiated on Energy Stocks Suncor Energy, Cenovus Energy, Husky Energy, and Northern Blizzard Resources"
+    },
+    {
+        "contents": "data\\SU\\20170202-091232.news",
+        "description": null,
+        "guid": "yahoo_finance/2724257373",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=131j33emt/*http://marketrealist.com/2017/02/have-analyst-ratings-for-suncor-weakened-ahead-of-4q-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 02 Feb 2017 12:37:44 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "Have Analyst Ratings for Suncor Weakened ahead of 4Q Earnings?"
+    },
+    {
+        "contents": "data\\SU\\20170202-091233.news",
+        "description": "[Marketwired] - Suncor Energy today announced it has closed the previously announced sale of its Petro-Canada Lubricants Inc. business to a subsidiary of HollyFrontier Corporation for gross proceeds of $1.125 billion, ...",
+        "guid": "yahoo_finance/305174825",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-closes-sale-petro-230000140.html",
+        "pubDate": "Wed, 01 Feb 2017 23:00:00 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "Suncor Energy closes sale of Petro-Canada Lubricants business"
+    },
+    {
+        "contents": "data\\SU\\20170202-091235.news",
+        "description": null,
+        "guid": "yahoo_finance/1870933909",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12q8aq4rm/*http://marketrealist.com/2017/02/how-has-suncors-stock-performed-ahead-of-4q16-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 21:05:47 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "How Has Suncor Stock Performed ahead of 4Q16 Earnings?"
+    },
+    {
+        "contents": "data\\SU\\20170202-091236.news",
+        "description": null,
+        "guid": "yahoo_finance/1724747841",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12oj1uv5q/*http://marketrealist.com/2017/02/is-suncors-fourth-quarter-segmental-outlook-positive/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 19:35:58 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "Is Suncor\u2019s 4Q Segmental Outlook Positive?"
+    },
+    {
+        "contents": "data\\SU\\20170202-091237.news",
+        "description": null,
+        "guid": "yahoo_finance/1751453271",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12e141jn9/*http://marketrealist.com/2017/02/what-to-expect-from-suncors-4q16-estimates/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 17:49:56 GMT",
+        "source": "data\\SU\\20170202.rss",
+        "title": "What to Expect from Suncor\u2019s 4Q16 Estimates"
     }
 ]

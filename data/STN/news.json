@@ -196,5 +196,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:05:50 GMT",
         "source": "data\\STN\\20170127.rss",
         "title": "Stantec, Inc. breached its 50 day moving average in a Bullish Manner : STN-CA : January 26, 2017"
+    },
+    {
+        "contents": "data\\STN\\20170202-090609.news",
+        "description": "[Marketwired] - Stantec will release its financial results for the fourth quarter and year end of 2016 on Thursday, February 23, 2017. Bob Gomes, president and chief executive officer; and Dan Lefaivre, executive vice ...",
+        "guid": "yahoo_finance/3443828601",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/stantec-executives-hold-fourth-quarter-134500087.html",
+        "pubDate": "Thu, 02 Feb 2017 13:45:00 GMT",
+        "source": "data\\STN\\20170202.rss",
+        "title": "Stantec executives to hold fourth quarter and year-end 2016 conference call"
     }
 ]

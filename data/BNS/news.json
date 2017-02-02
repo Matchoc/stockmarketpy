@@ -880,5 +880,32 @@
         "pubDate": "Mon, 30 Jan 2017 14:00:00 GMT",
         "source": "data\\BNS\\20170130.rss",
         "title": "Positive trends for commodities in 2017: Scotiabank"
+    },
+    {
+        "contents": "data\\BNS\\20170202-090652.news",
+        "description": "[Reuters] - Bank of Nova Scotia, Canada's third-biggest lender, said on Thursday that the introduction of new digital technologies would enable the bank to lower its operating costs and increase profits. Scotiabank is investing in new digital technologies in response to customers transacting far less in branches and using mobile banking apps much more. The bank said last year a cost efficiency program would deliver a 200-250 basis point improvement in its productivity ratio by 2019.",
+        "guid": "yahoo_finance/292832835",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-targets-further-cost-cuts-135957450.html",
+        "pubDate": "Thu, 02 Feb 2017 13:59:57 GMT",
+        "source": "data\\BNS\\20170202.rss",
+        "title": "Scotiabank targets further cost cuts from digital initiatives"
+    },
+    {
+        "contents": "data\\BNS\\20170202-090655.news",
+        "description": "[CNW Group] - Scotiabank Provides Digital Banking Update",
+        "guid": "yahoo_finance/1718753795",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-provides-digital-banking-121500254.html",
+        "pubDate": "Thu, 02 Feb 2017 12:15:00 GMT",
+        "source": "data\\BNS\\20170202.rss",
+        "title": "Scotiabank Provides Digital Banking Update"
+    },
+    {
+        "contents": "data\\BNS\\20170202-090656.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /CNW/ - Scotiabank is providing a Digital Banking update today in Toronto to review the Bank's Digital Transformation and discuss how Digital will help the Bank continue to deliver a superior customer experience and realize benefits from increased efficiency. In Q2/16 Scotiabank announced that its structural cost program \u2013 which is highly inter-connected with the Bank's Digital Transformation \u2013 would deliver a 200 - 250 basis point improvement in our productivity ratio by 2019. Efforts to further digitize the Bank are expected to drive an additional 100 basis point improvement beyond 2019, such that Scotiabank's overall productivity ratio is expected to be approximately 50 per cent for 2021.",
+        "guid": "yahoo_finance/2481060637",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-provides-digital-banking-121500586.html",
+        "pubDate": "Thu, 02 Feb 2017 12:15:00 GMT",
+        "source": "data\\BNS\\20170202.rss",
+        "title": "Scotiabank Provides Digital Banking Update"
     }
 ]

@@ -403,5 +403,23 @@
         "pubDate": "Mon, 30 Jan 2017 22:30:00 GMT",
         "source": "data\\DGC\\20170131.rss",
         "title": "Detour Gold Announces 2016 Operating Results and 2017 Guidance"
+    },
+    {
+        "contents": "data\\DGC\\20170202-090457.news",
+        "description": null,
+        "guid": "yahoo_finance/1993281216",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500482.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\DGC\\20170202.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Yamana Gold, McEwen Mining, Detour Gold, and Lundin Mining"
+    },
+    {
+        "contents": "data\\DGC\\20170202-090459.news",
+        "description": null,
+        "guid": "yahoo_finance/504081806",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14b07cpao/*http://www.capitalcube.com/blog/index.php/detour-gold-corp-breached-its-50-day-moving-average-in-a-bullish-manner-dgc-ca-february-1-2017/",
+        "pubDate": "Wed, 01 Feb 2017 14:14:59 GMT",
+        "source": "data\\DGC\\20170202.rss",
+        "title": "Detour Gold Corp. breached its 50 day moving average in a Bullish Manner : DGC-CA : February 1, 2017"
     }
 ]

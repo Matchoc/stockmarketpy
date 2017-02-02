@@ -556,5 +556,32 @@
         "pubDate": "Wed, 01 Feb 2017 12:59:00 GMT",
         "source": "data\\GIB-A\\20170201.rss",
         "title": "CGI reports strong Q1 results"
+    },
+    {
+        "contents": "data\\GIB-A\\20170202-091218.news",
+        "description": "[CNW Group] - CGI reports director election results",
+        "guid": "yahoo_finance/948467170",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-reports-director-election-results-002000396.html",
+        "pubDate": "Thu, 02 Feb 2017 00:20:00 GMT",
+        "source": "data\\GIB-A\\20170202.rss",
+        "title": "CGI reports director election results"
+    },
+    {
+        "contents": "data\\GIB-A\\20170202-091220.news",
+        "description": "[PR Newswire] - Stock Market Symbols GIB.A (TSX) GIB (NYSE) www.cgi.com/newsroom MONTR\u00c9AL, Feb. 1, 2017 /PRNewswire/ - CGI (TSX: GIB.A) (NYSE: GIB) held its Annual General Meeting of Shareholders in Montr\u00e9al, Quebec, ...",
+        "guid": "yahoo_finance/2599475399",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cgi-reports-director-election-results-002000878.html",
+        "pubDate": "Thu, 02 Feb 2017 00:20:00 GMT",
+        "source": "data\\GIB-A\\20170202.rss",
+        "title": "CGI reports director election results"
+    },
+    {
+        "contents": "data\\GIB-A\\20170202-091221.news",
+        "description": null,
+        "guid": "yahoo_finance/3888231050",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-gib-earnings-conference-184454898.html",
+        "pubDate": "Wed, 01 Feb 2017 18:44:54 GMT",
+        "source": "data\\GIB-A\\20170202.rss",
+        "title": "Edited Transcript of GIB.A.TO earnings conference call or presentation 1-Feb-17 2:00pm GMT"
     }
 ]

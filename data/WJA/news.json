@@ -241,5 +241,14 @@
         "pubDate": "Mon, 30 Jan 2017 16:00:00 GMT",
         "source": "data\\WJA\\20170131.rss",
         "title": "WestJet changes Gander and Halifax relationship status to \"connecting soon\""
+    },
+    {
+        "contents": "data\\WJA\\20170202-090522.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** Quebec's securities regulator is ...",
+        "guid": "yahoo_finance/1580534608",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-feb-2-114339118.html",
+        "pubDate": "Thu, 02 Feb 2017 11:43:39 GMT",
+        "source": "data\\WJA\\20170202.rss",
+        "title": "PRESS DIGEST- Canada-Feb 2"
     }
 ]

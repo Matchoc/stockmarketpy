@@ -385,5 +385,14 @@
         "pubDate": "Mon, 30 Jan 2017 17:10:33 GMT",
         "source": "data\\OGC\\20170131.rss",
         "title": "OceanaGold's Preliminary 2016 Operating Results"
+    },
+    {
+        "contents": "data\\OGC\\20170202-091650.news",
+        "description": null,
+        "guid": "yahoo_finance/1725494043",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/oceanagold-provides-comments-recent-philippines-052100979.html",
+        "pubDate": "Thu, 02 Feb 2017 05:21:00 GMT",
+        "source": "data\\OGC\\20170202.rss",
+        "title": "OceanaGold provides comments on recent Philippines government press conference"
     }
 ]

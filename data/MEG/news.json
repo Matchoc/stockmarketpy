@@ -304,5 +304,14 @@
         "pubDate": "Fri, 27 Jan 2017 14:23:39 GMT",
         "source": "data\\MEG\\20170128.rss",
         "title": "MEG Energy announces successful closing of previously announced comprehensive refinancing plan"
+    },
+    {
+        "contents": "data\\MEG\\20170202-090033.news",
+        "description": null,
+        "guid": "yahoo_finance/46897565",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/meg-energy-holds-conference-call-164123233.html",
+        "pubDate": "Wed, 01 Feb 2017 16:41:23 GMT",
+        "source": "data\\MEG\\20170202.rss",
+        "title": "MEG Energy holds conference call to discuss fourth quarter 2016 financial results and 2017 capital budget"
     }
 ]

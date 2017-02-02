@@ -295,5 +295,14 @@
         "pubDate": "Fri, 09 Jan 2015 21:25:30 GMT",
         "source": "data\\CNQ\\20170126.rss",
         "title": "Shell to cut 5 to 10 percent of jobs at oil sands project"
+    },
+    {
+        "contents": "data\\CNQ\\20170202-091123.news",
+        "description": "[Marketwired] - Canadian Natural Resources Limited provides an operations update for Horizon Oil Sands . In December 2016 the Company continued to achieve higher than expected performance at Horizon, with production averaging ...",
+        "guid": "yahoo_finance/3369057917",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-natural-resources-limited-horizon-100000148.html",
+        "pubDate": "Thu, 02 Feb 2017 10:00:00 GMT",
+        "source": "data\\CNQ\\20170202.rss",
+        "title": "Canadian Natural Resources Limited Horizon Update"
     }
 ]

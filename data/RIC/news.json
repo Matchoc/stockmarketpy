@@ -430,5 +430,23 @@
         "pubDate": "Tue, 31 Jan 2017 11:30:00 GMT",
         "source": "data\\RIC\\20170131.rss",
         "title": "Richmont Reports 2016 Mineral Reserves & Resources"
+    },
+    {
+        "contents": "data\\RIC\\20170202-091309.news",
+        "description": "[CNW Group] - Richmont Announces 2017 Guidance with Island Gold Mine Positioned for Another Record Year",
+        "guid": "yahoo_finance/4167550026",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-announces-2017-guidance-island-113000537.html",
+        "pubDate": "Thu, 02 Feb 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170202.rss",
+        "title": "Richmont Announces 2017 Guidance with Island Gold Mine Positioned for Another Record Year"
+    },
+    {
+        "contents": "data\\RIC\\20170202-091311.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /PRNewswire/ - Richmont Mines Inc. (TSX - NYSE: RIC) (\"Richmont\" or the \"Corporation\"), announces 2017 guidance that includes a projected increase of up to 15% ...",
+        "guid": "yahoo_finance/2409060391",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-announces-2017-guidance-island-113000255.html",
+        "pubDate": "Thu, 02 Feb 2017 11:30:00 GMT",
+        "source": "data\\RIC\\20170202.rss",
+        "title": "Richmont Announces 2017 Guidance with Island Gold Mine Positioned for Another Record Year"
     }
 ]

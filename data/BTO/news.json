@@ -412,5 +412,14 @@
         "pubDate": "Wed, 01 Feb 2017 13:52:00 GMT",
         "source": "data\\BTO\\20170201.rss",
         "title": "Zonte Metals Closes Private Placement"
+    },
+    {
+        "contents": "data\\BTO\\20170202-091149.news",
+        "description": "[GlobeNewswire] - VANCOUVER, British Columbia, Feb. 02, 2017-- B2Gold Corp. reports that the DENR has announced the results of the Philippines Mine Audit. Masbate Gold Project is not among the mines to be suspended or closed. ...",
+        "guid": "yahoo_finance/3777511129",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/b2gold-notice-philippines-denr-department-132632108.html",
+        "pubDate": "Thu, 02 Feb 2017 13:26:32 GMT",
+        "source": "data\\BTO\\20170202.rss",
+        "title": "B2Gold: Notice of Philippines DENR (\u201cDepartment of Environment and Natural Resources\u201d) Audit Results"
     }
 ]

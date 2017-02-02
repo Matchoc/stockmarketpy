@@ -304,5 +304,14 @@
         "pubDate": "Mon, 23 Jan 2017 12:00:00 GMT",
         "source": "data\\APS\\20170123.rss",
         "title": "Aptose Prioritizes Development of CG\u2019806 First-in Class FLT3/BTK Inhibitor"
+    },
+    {
+        "contents": "data\\APS\\20170202-090934.news",
+        "description": "[GlobeNewswire] - SAN DIEGO and TORONTO, Feb. 02, 2017-- Aptose Biosciences Inc., a clinical-stage company developing new therapeutics and molecular diagnostics that target the underlying mechanisms of cancer, today announced ...",
+        "guid": "yahoo_finance/3336915360",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/aptose-biosciences-present-canaccord-genuity-120000698.html",
+        "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
+        "source": "data\\APS\\20170202.rss",
+        "title": "Aptose Biosciences to Present at Canaccord Genuity Rare Disease Biopharma 1x1 Day"
     }
 ]

@@ -1267,5 +1267,32 @@
         "pubDate": "Tue, 31 Jan 2017 20:00:00 GMT",
         "source": "data\\RY\\20170201.rss",
         "title": "RBC Global Asset Management Inc. named Morningstar Steward of the Year"
+    },
+    {
+        "contents": "data\\RY\\20170202-091416.news",
+        "description": "[CNW Group] - RBC to announce first quarter results on February 24, 2017",
+        "guid": "yahoo_finance/1457581024",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-announce-first-quarter-results-140000264.html",
+        "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170202.rss",
+        "title": "RBC to announce first quarter results on February 24, 2017"
+    },
+    {
+        "contents": "data\\RY\\20170202-091418.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /CNW/ - Royal Bank of Canada (RY on TSX and NYSE) will release its first quarter results for 2017 on February 24, 2017. Information related to RBC's financial results will be available ...",
+        "guid": "yahoo_finance/1599588700",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-announce-first-quarter-results-140000905.html",
+        "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170202.rss",
+        "title": "RBC to announce first quarter results on February 24, 2017"
+    },
+    {
+        "contents": "data\\RY\\20170202-091419.news",
+        "description": null,
+        "guid": "yahoo_finance/3239859199",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-snaps-secrecy-frustrates-banks-023210513.html",
+        "pubDate": "Thu, 02 Feb 2017 04:57:30 GMT",
+        "source": "data\\RY\\20170202.rss",
+        "title": "Exclusive: Snap's secrecy frustrates banks' pursuit of IPO glory"
     }
 ]

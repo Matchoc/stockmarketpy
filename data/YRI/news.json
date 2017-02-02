@@ -601,5 +601,23 @@
         "pubDate": "Fri, 27 Jan 2017 15:35:41 GMT",
         "source": "data\\YRI\\20170128.rss",
         "title": "Watch for These Catalysts in Intermediate Gold Miners\u2019 Q4 Results"
+    },
+    {
+        "contents": "data\\YRI\\20170202-091828.news",
+        "description": null,
+        "guid": "yahoo_finance/1993281216",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500482.html",
+        "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
+        "source": "data\\YRI\\20170202.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Yamana Gold, McEwen Mining, Detour Gold, and Lundin Mining"
+    },
+    {
+        "contents": "data\\YRI\\20170202-091829.news",
+        "description": null,
+        "guid": "yahoo_finance/2454373375",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=131fn0thi/*http://www.fool.com/investing/2017/01/31/3-key-metrics-for-yamana-golds-investors-to-focus.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 01 Feb 2017 23:15:48 GMT",
+        "source": "data\\YRI\\20170202.rss",
+        "title": "3 Key Metrics for Yamana Gold's Investors to Focus On"
     }
 ]

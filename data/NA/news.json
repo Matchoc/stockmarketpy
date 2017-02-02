@@ -529,5 +529,14 @@
         "pubDate": "Tue, 31 Jan 2017 21:50:00 GMT",
         "source": "data\\NA\\20170201.rss",
         "title": "National Bank Contributes to Relief Efforts on the Acadian Peninsula"
+    },
+    {
+        "contents": "data\\NA\\20170202-091144.news",
+        "description": null,
+        "guid": "yahoo_finance/871373105",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/national-bank-investments-announces-changes-210000013.html",
+        "pubDate": "Wed, 01 Feb 2017 21:00:00 GMT",
+        "source": "data\\NA\\20170202.rss",
+        "title": "National Bank Investments announces changes to National Bank Consensus Funds"
     }
 ]

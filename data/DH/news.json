@@ -205,5 +205,14 @@
         "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
         "source": "data\\DH\\20170131.rss",
         "title": "White Paper Explores Benefits of Payments-Platform-as-a-Service, a New Concept Set to Revolutionize Payments Processing"
+    },
+    {
+        "contents": "data\\DH\\20170202-091029.news",
+        "description": null,
+        "guid": "yahoo_finance/3409281788",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/white-paper-provides-open-api-130000787.html",
+        "pubDate": "Thu, 02 Feb 2017 13:00:00 GMT",
+        "source": "data\\DH\\20170202.rss",
+        "title": "White Paper Provides an Open API Survival Guide for Banks"
     }
 ]

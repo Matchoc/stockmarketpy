@@ -367,5 +367,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
         "source": "data\\CIX\\20170130.rss",
         "title": "Research Reports Initiated on Financials Stocks Founders Advantage Capital, Lorne Park Capital Partners, CI Financia,l and Aberdeen International"
+    },
+    {
+        "contents": "data\\CIX\\20170202-090318.news",
+        "description": "[CNW Group] - CI Financial reports assets under management",
+        "guid": "yahoo_finance/819599212",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ci-financial-reports-assets-under-232400986.html",
+        "pubDate": "Wed, 01 Feb 2017 23:24:00 GMT",
+        "source": "data\\CIX\\20170202.rss",
+        "title": "CI Financial reports assets under management"
+    },
+    {
+        "contents": "data\\CIX\\20170202-090319.news",
+        "description": "[CNW Group] - CI Investments becomes signatory to UN Principles for Responsible Investing",
+        "guid": "yahoo_finance/3921992261",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ci-investments-becomes-signatory-un-141500596.html",
+        "pubDate": "Wed, 01 Feb 2017 14:15:00 GMT",
+        "source": "data\\CIX\\20170202.rss",
+        "title": "CI Investments becomes signatory to UN Principles for Responsible Investing"
     }
 ]

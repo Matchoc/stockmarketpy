@@ -277,5 +277,23 @@
         "pubDate": "Wed, 01 Feb 2017 13:00:00 GMT",
         "source": "data\\BMO\\20170201.rss",
         "title": "BMO Annual RRSP Study: Fewer Canadians to Contribute This Year, but Average Contribution Amount Increases Significantly"
+    },
+    {
+        "contents": "data\\BMO\\20170202-090037.news",
+        "description": "[Marketwired] - BMO Financial Group was named a 2017 Catalyst Award winner for its industry-leading work to accelerate diversity and inclusion in its workplace and for its strong commitment to gender equality. BMO is ...",
+        "guid": "yahoo_finance/2214964400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-financial-group-wins-2017-204219864.html",
+        "pubDate": "Wed, 01 Feb 2017 20:42:19 GMT",
+        "source": "data\\BMO\\20170202.rss",
+        "title": "BMO Financial Group Wins 2017 Catalyst Award"
+    },
+    {
+        "contents": "data\\BMO\\20170202-090039.news",
+        "description": "[Marketwired] - BMO Financial Group has published its 2016 Environmental, Social and Governance Report and Public Accountability Statement .",
+        "guid": "yahoo_finance/2315133481",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-financial-group-2016-environmental-170506662.html",
+        "pubDate": "Wed, 01 Feb 2017 17:05:06 GMT",
+        "source": "data\\BMO\\20170202.rss",
+        "title": "BMO Financial Group 2016 Environmental, Social and Governance Report and Public Accountability Statement Now Available Online"
     }
 ]
