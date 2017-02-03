@@ -367,5 +367,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
         "source": "data\\TA\\20170126.rss",
         "title": "TransAlta Announces Sale of Interest in Wintering Hills Facility"
+    },
+    {
+        "contents": "data\\TA\\20170203-090258.news",
+        "description": "[PR Newswire] - Please contact the conference operator five minutes prior to the call, noting \"TransAlta Corporation\" as the company and \"Jaeson Jaman\" as moderator. A link to the live webcast will be available on the Investor Centre section of TransAlta's website at http://www.transalta.com/investors/events-and-presentations. If you are unable to participate in the call, the instant replay is accessible at 1-855-859-2056 (Canada and USA toll free) with TransAlta pass code 66068990 followed by the # sign.",
+        "guid": "yahoo_finance/3296402292",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-transalta-fourth-quarter-202700506.html",
+        "pubDate": "Thu, 02 Feb 2017 20:27:00 GMT",
+        "source": "data\\TA\\20170203.rss",
+        "title": "Media Advisory: TransAlta Fourth Quarter and Full Year 2016 Results and Conference Call"
     }
 ]

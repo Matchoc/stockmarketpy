@@ -1294,5 +1294,23 @@
         "pubDate": "Thu, 02 Feb 2017 04:57:30 GMT",
         "source": "data\\RY\\20170202.rss",
         "title": "Exclusive: Snap's secrecy frustrates banks' pursuit of IPO glory"
+    },
+    {
+        "contents": "data\\RY\\20170203-090439.news",
+        "description": "[CNW Group] - RBC announces 30 Black History Month Student Essay Competition scholarship winners",
+        "guid": "yahoo_finance/1025631328",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-announces-30-black-history-130000288.html",
+        "pubDate": "Fri, 03 Feb 2017 13:00:00 GMT",
+        "source": "data\\RY\\20170203.rss",
+        "title": "RBC announces 30 Black History Month Student Essay Competition scholarship winners"
+    },
+    {
+        "contents": "data\\RY\\20170203-090441.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 3, 2017 /CNW/ - As Canada prepares to celebrate its 150 th birthday, RBC asked high school students to reflect on the contribution of black Canadians over the past 150 years and what future ...",
+        "guid": "yahoo_finance/2227481730",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-announces-30-black-history-130000242.html",
+        "pubDate": "Fri, 03 Feb 2017 13:00:00 GMT",
+        "source": "data\\RY\\20170203.rss",
+        "title": "RBC announces 30 Black History Month Student Essay Competition scholarship winners"
     }
 ]

@@ -250,5 +250,14 @@
         "pubDate": "Tue, 31 Jan 2017 17:50:58 GMT",
         "source": "data\\NGD\\20170201.rss",
         "title": "Why New Gold Stock Dropped Nearly 19% on Tuesday"
+    },
+    {
+        "contents": "data\\NGD\\20170203-091535.news",
+        "description": null,
+        "guid": "yahoo_finance/4162749065",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kkhpa8d/*http://marketrealist.com/2017/02/how-interest-rates-are-impacting-precious-metals/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 03 Feb 2017 14:07:48 GMT",
+        "source": "data\\NGD\\20170203.rss",
+        "title": "How Interest Rates Are Impacting Precious Metals"
     }
 ]

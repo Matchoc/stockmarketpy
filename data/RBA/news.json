@@ -196,5 +196,23 @@
         "pubDate": "Tue, 31 Jan 2017 13:00:00 GMT",
         "source": "data\\RBA\\20170131.rss",
         "title": "Ritchie Bros.' massive Orlando auction still growing"
+    },
+    {
+        "contents": "data\\RBA\\20170203-090406.news",
+        "description": null,
+        "guid": "yahoo_finance/878364732",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132mqfhtb/*http://www.fool.com/investing/2017/02/02/why-shares-ritchie-bros-auctioneers-soared-46-2016.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 02 Feb 2017 16:30:33 GMT",
+        "source": "data\\RBA\\20170203.rss",
+        "title": "Why Shares of Ritchie Bros. Auctioneers Soared 46% in 2016"
+    },
+    {
+        "contents": "data\\RBA\\20170203-090407.news",
+        "description": "[PR Newswire] - LAS VEGAS, Feb. 2, 2017 /PRNewswire/ - Every three years, the construction industry descends upon Las Vegas for CONEXPO-CON/AGG, one of the largest trade shows in the world. \"We hold four great auctions at our Las Vegas site each year, but our auction held during ConExpo every three years is different,\" said Ron Moss, Regional Sales Manager, Ritchie Bros. \"In March 2014, we sold more than 2,300 items for 400 plus consignors, resulting in US$60+ million in gross auction proceeds\u2014that still stands as our site record.",
+        "guid": "yahoo_finance/1854727051",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bright-lights-big-auction-ritchie-150000336.html",
+        "pubDate": "Thu, 02 Feb 2017 15:00:00 GMT",
+        "source": "data\\RBA\\20170203.rss",
+        "title": "Bright lights, big auction for Ritchie Bros. in Las Vegas this March"
     }
 ]

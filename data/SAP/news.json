@@ -358,5 +358,14 @@
         "pubDate": "Thu, 02 Feb 2017 12:00:00 GMT",
         "source": "data\\SAP\\20170202.rss",
         "title": "REMINDER/Saputo Inc.: Fiscal 2017 Third Quarter Results"
+    },
+    {
+        "contents": "data\\SAP\\20170203-091216.news",
+        "description": null,
+        "guid": "yahoo_finance/883190665",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=145nuunqt/*http://www.capitalcube.com/blog/index.php/saputo-inc-breached-its-50-day-moving-average-in-a-bearish-manner-sap-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:17:47 GMT",
+        "source": "data\\SAP\\20170203.rss",
+        "title": "Saputo, Inc. breached its 50 day moving average in a Bearish Manner : SAP-CA : February 3, 2017"
     }
 ]

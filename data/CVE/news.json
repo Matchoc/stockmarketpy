@@ -187,5 +187,149 @@
         "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
         "source": "data\\CVE\\20170202.rss",
         "title": "Research Reports Initiated on Energy Stocks Suncor Energy, Cenovus Energy, Husky Energy, and Northern Blizzard Resources"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090815.news",
+        "description": null,
+        "guid": "yahoo_finance/1794793035",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-reversal-transparency-could-sting-060825121.html",
+        "pubDate": "Fri, 03 Feb 2017 07:12:29 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "U.S. reversal on transparency could sting Canadian, European oil companies"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090816.news",
+        "description": null,
+        "guid": "yahoo_finance/2748323606",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-energy-pipeline-prospects-shoot-191956106.html",
+        "pubDate": "Wed, 09 Nov 2016 19:19:56 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Canada's energy pipeline prospects shoot up with Trump win"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090818.news",
+        "description": null,
+        "guid": "yahoo_finance/3694138542",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14d54ijlb/*http://www.capitalcube.com/blog/index.php/cenovus-energy-inc-breached-its-50-day-moving-average-in-a-bearish-manner-cve-ca-november-3-2016/",
+        "pubDate": "Thu, 03 Nov 2016 12:54:07 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus Energy, Inc. breached its 50 day moving average in a Bearish Manner : CVE-CA : November 3, 2016"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090832.news",
+        "description": "[at noodls] - Oil sands production increases; operating costs decline Calgary, Alberta (October 27, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) continues to deliver safe and reliable operating performance. In ...",
+        "guid": "yahoo_finance/118163242",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128opqv1d/*http://www.publicnow.com/view/41774AFEE7C4E665621557F402419FFC211DCE95",
+        "pubDate": "Thu, 27 Oct 2016 10:06:13 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus has strong third-quarter operational performance"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090832.news",
+        "description": "[at noodls] - Calgary, Alberta (October 20, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) will release its third quarter 2016 results on Thursday, October 27, 2016. The news release will provide consolidated third ...",
+        "guid": "yahoo_finance/9016441",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128q2oihr/*http://www.publicnow.com/view/DCEC2BA5B4A8DA748CB7C8B455F848E1CF589D44",
+        "pubDate": "Thu, 20 Oct 2016 14:39:05 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus to hold conference call and webcast on third quarter 2016 results"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090832.news",
+        "description": null,
+        "guid": "yahoo_finance/1361903974",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/relief-arrives-u-shale-firms-040754049.html",
+        "pubDate": "Thu, 29 Sep 2016 04:07:54 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Relief arrives for U.S. shale firms as OPEC folds in price battle"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090835.news",
+        "description": "[at noodls] - Cenovus has strong second-quarter operational performance Oil sands production increases, operating costs decline Calgary, Alberta (July 28, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) continued ...",
+        "guid": "yahoo_finance/4004058432",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128m7dco4/*http://www.publicnow.com/view/17B619B7E7A45651E10FDE6DBB27A6407328D358",
+        "pubDate": "Thu, 28 Jul 2016 10:18:10 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus has strong second-quarter operational performance; Oil sands production increases, operating costs decline"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090835.news",
+        "description": "[at noodls] - Calgary, Alberta (July 14, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) has published its 2015 corporate responsibility report detailing the company's efforts to accelerate its environmental performance, ...",
+        "guid": "yahoo_finance/132997010",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lv7pph/*http://www.publicnow.com/view/D2665631658DEA43745D4089B6A0F49D3423AF68",
+        "pubDate": "Thu, 14 Jul 2016 21:08:02 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus releases 2015 corporate responsibility report"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": "[at noodls] - Largest single restoration project of its kind ever undertaken Calgary, Alberta (June 14, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) is announcing the details today of its $32 million, 10-year ...",
+        "guid": "yahoo_finance/3330791804",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fcivan/*http://www.publicnow.com/view/3934CFE1B20C6855E107937A904DEA31904811D5",
+        "pubDate": "Tue, 14 Jun 2016 10:19:04 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus announces $32 million caribou habitat initiative"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": "[at noodls] - Calgary, Alberta (May 24, 2016) - Harbir Chhina, Executive Vice-President, Oil Sands Development, will present at the UBS Global Oil and Gas Conference in Austin, Texas, on Wednesday, May 25, 2016 at 7:40 ...",
+        "guid": "yahoo_finance/1539497322",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12869tva0/*http://www.publicnow.com/view/DA542F1554B0F83C967F6CCBE007CE5C7686B1B7",
+        "pubDate": "Tue, 24 May 2016 14:56:06 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus to present at the UBS Global Oil and Gas Conference"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": "[at noodls] - Calgary, Alberta (April 27, 2016) - Cenovus Energy Inc. (TSX, NYSE: CVE) announced that at its annual meeting of shareholders held on April 27, 2016, each of the 11 nominees proposed as Directors and listed ...",
+        "guid": "yahoo_finance/3113709393",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281v0j8e/*http://www.publicnow.com/view/0FED0C17E43707230EC277DA484C146165DFFEEC",
+        "pubDate": "Thu, 28 Apr 2016 00:49:33 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus reports voting results of election of directors"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": "[at noodls] - Cenovus finishes first quarter with strong balance sheet Company's 2016 cost-reduction initiatives on target Calgary, Alberta (April 27, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) is on track to ...",
+        "guid": "yahoo_finance/3312307601",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1286eeups/*http://www.publicnow.com/view/4D5740AE0402E875ED2E2E9B512A435AB14D1695",
+        "pubDate": "Wed, 27 Apr 2016 10:18:57 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus finishes first quarter with strong balance sheet; Company\u2019s 2016 cost-reduction initiatives on target"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": "[at noodls] - Annual meeting of shareholders to take place in Calgary Calgary, Alberta (April 20, 2016) - Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) will release its first quarter 2016 results on Wednesday, April 27, ...",
+        "guid": "yahoo_finance/1200098199",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cnde6n/*http://www.publicnow.com/view/FFB0C2D88ACE02D57669A69C49B37602A5784A8F",
+        "pubDate": "Wed, 20 Apr 2016 14:41:29 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Cenovus to hold conference call and webcast on first quarter 2016 results"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090836.news",
+        "description": null,
+        "guid": "yahoo_finance/835497237",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/saudi-aramco-shell-plan-break-020729119.html",
+        "pubDate": "Thu, 17 Mar 2016 02:07:29 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Saudi Aramco, Shell plan to break up Motiva, divide up assets"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090838.news",
+        "description": null,
+        "guid": "yahoo_finance/1848193677",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/selfish-oil-firms-relish-production-133634786.html",
+        "pubDate": "Thu, 18 Feb 2016 13:36:34 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "'Selfish' oil firms relish new production despite glut"
+    },
+    {
+        "contents": "data\\CVE\\20170203-090840.news",
+        "description": null,
+        "guid": "yahoo_finance/1252121113",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/shell-shelves-200-000-bpd-182209699.html",
+        "pubDate": "Mon, 23 Feb 2015 21:05:57 GMT",
+        "source": "data\\CVE\\20170203.rss",
+        "title": "Shell shelves 200,000-bpd Pierre River oil sands mining project"
     }
 ]

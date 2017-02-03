@@ -241,5 +241,14 @@
         "pubDate": "Tue, 31 Jan 2017 01:27:56 GMT",
         "source": "data\\JE\\20170131.rss",
         "title": "Just Energy Group Announces Pricing of Public Offering of Series A Preferred Shares"
+    },
+    {
+        "contents": "data\\JE\\20170203-091015.news",
+        "description": "[Marketwired] - Just Energy is pleased to announce that it has entered into a partnership with Skydrop, an innovative, industry-leading manufacturer of digital, self-regulating smart home irrigation systems. With this ...",
+        "guid": "yahoo_finance/3756514761",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-announces-partnership-skydrop-140000357.html",
+        "pubDate": "Fri, 03 Feb 2017 14:00:00 GMT",
+        "source": "data\\JE\\20170203.rss",
+        "title": "Just Energy Announces Partnership with Skydrop"
     }
 ]

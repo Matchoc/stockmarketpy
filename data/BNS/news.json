@@ -907,5 +907,14 @@
         "pubDate": "Thu, 02 Feb 2017 12:15:00 GMT",
         "source": "data\\BNS\\20170202.rss",
         "title": "Scotiabank Provides Digital Banking Update"
+    },
+    {
+        "contents": "data\\BNS\\20170203-090347.news",
+        "description": null,
+        "guid": "yahoo_finance/3390244414",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/scotiabank-invest-1-billion-digital-203233222.html",
+        "pubDate": "Thu, 02 Feb 2017 20:32:33 GMT",
+        "source": "data\\BNS\\20170203.rss",
+        "title": "Scotiabank to invest $1 billion in digital technology"
     }
 ]

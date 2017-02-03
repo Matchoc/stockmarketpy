@@ -997,5 +997,32 @@
         "pubDate": "Tue, 31 Jan 2017 21:27:18 GMT",
         "source": "data\\ABX\\20170201.rss",
         "title": "Trump Policies, Comments Send Investors Rushing Into Gold"
+    },
+    {
+        "contents": "data\\ABX\\20170203-091344.news",
+        "description": null,
+        "guid": "yahoo_finance/1517744879",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132j4iuqp/*http://www.fool.com/investing/2017/02/03/this-is-the-worst-start-to-a-new-year-for-the-doll.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 03 Feb 2017 13:30:40 GMT",
+        "source": "data\\ABX\\20170203.rss",
+        "title": "This Is the Worst Start to a New Year for the Dollar Since 1987, and This Industry Is Loving It"
+    },
+    {
+        "contents": "data\\ABX\\20170203-091344.news",
+        "description": null,
+        "guid": "yahoo_finance/4165738276",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13179o482/*https://www.thestreet.com/story/13977744/1/gold-is-in-recovery-mode-here-s-how-to-trade-it.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Fri, 03 Feb 2017 13:04:00 GMT",
+        "source": "data\\ABX\\20170203.rss",
+        "title": "Gold Is in Recovery Mode -- Here's How to Trade It"
+    },
+    {
+        "contents": "data\\ABX\\20170203-091345.news",
+        "description": null,
+        "guid": "yahoo_finance/4041498161",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=12phl2e8g/*http://www.insidermonkey.com/blog/10-biggest-gold-mining-companies-in-the-world-527231/",
+        "pubDate": "Fri, 03 Feb 2017 13:00:19 GMT",
+        "source": "data\\ABX\\20170203.rss",
+        "title": "10 Biggest Gold Mining Companies In The World"
     }
 ]

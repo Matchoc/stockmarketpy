@@ -196,5 +196,14 @@
         "pubDate": "Tue, 24 Jan 2017 13:15:00 GMT",
         "source": "data\\BPY-UN\\20170124.rss",
         "title": "Research Reports Initiated on Real Estate Stocks RioCan REIT, H and R REIT, Brookfield Property Partners, and First Capital Realty"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170203-090053.news",
+        "description": "[GlobeNewswire] - Net Income of $92 Million for the Quarter and $2.7 Billion for the Year; Company FFO of $268 Million for the Quarter and $967 Million for the Year; Quarterly Distribution Raised by 5.4%. All dollar references ...",
+        "guid": "yahoo_finance/3688932112",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-property-partners-reports-fourth-115000194.html",
+        "pubDate": "Fri, 03 Feb 2017 11:50:00 GMT",
+        "source": "data\\BPY-UN\\20170203.rss",
+        "title": "Brookfield Property Partners Reports Fourth Quarter & Full-Year 2016 Results"
     }
 ]

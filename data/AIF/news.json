@@ -412,5 +412,23 @@
         "pubDate": "Fri, 27 Jan 2017 12:30:00 GMT",
         "source": "data\\AIF\\20170127.rss",
         "title": "Record Breaking Year for Greater Toronto Real Estate Market"
+    },
+    {
+        "contents": "data\\AIF\\20170203-091150.news",
+        "description": null,
+        "guid": "yahoo_finance/3347863229",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14acs2qq9/*http://www.capitalcube.com/blog/index.php/altus-group-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-aif-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:16:56 GMT",
+        "source": "data\\AIF\\20170203.rss",
+        "title": "Altus Group Ltd. breached its 50 day moving average in a Bullish Manner : AIF-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\AIF\\20170203-091150.news",
+        "description": null,
+        "guid": "yahoo_finance/3642048662",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altus-group-announce-fourth-quarter-200000369.html",
+        "pubDate": "Thu, 02 Feb 2017 20:00:00 GMT",
+        "source": "data\\AIF\\20170203.rss",
+        "title": "Altus Group to Announce Fourth Quarter and Full Year 2016 Financial Results on February 23, 2017"
     }
 ]

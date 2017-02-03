@@ -313,5 +313,14 @@
         "pubDate": "Wed, 01 Feb 2017 16:41:23 GMT",
         "source": "data\\MEG\\20170202.rss",
         "title": "MEG Energy holds conference call to discuss fourth quarter 2016 financial results and 2017 capital budget"
+    },
+    {
+        "contents": "data\\MEG\\20170203-091102.news",
+        "description": null,
+        "guid": "yahoo_finance/985718735",
+        "link": "http://us.rd.yahoo.com/finance/external/xmoodys/rss/SIG=11h21r4n8/*http://www.moodys.com/page/viewresearchdoc.aspx?docid=PR_361651&WT.mc_id=AM~WWFob29fRmluYW5jZTQyX1NCX1JhdGluZyBOZXdzX0FsbF9Fbmc=~20170202_PR_361651",
+        "pubDate": "Thu, 02 Feb 2017 20:14:02 GMT",
+        "source": "data\\MEG\\20170203.rss",
+        "title": "Moody's Liquidity-Stress Index rises in January; overall credit conditions supportive for spec-grade firms"
     }
 ]

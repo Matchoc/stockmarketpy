@@ -304,5 +304,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
         "source": "data\\IGM\\20170127.rss",
         "title": "Mackenzie Investments recognized for fund performance at Fundata Awards"
+    },
+    {
+        "contents": "data\\IGM\\20170203-090606.news",
+        "description": null,
+        "guid": "yahoo_finance/1396389982",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/igm-financial-inc-announces-january-225109835.html",
+        "pubDate": "Thu, 02 Feb 2017 22:51:09 GMT",
+        "source": "data\\IGM\\20170203.rss",
+        "title": "IGM Financial Inc. Announces January 2017 Mutual Fund Sales and Total Assets Under Management"
     }
 ]

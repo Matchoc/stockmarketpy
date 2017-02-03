@@ -178,5 +178,14 @@
         "pubDate": "Mon, 19 Dec 2016 21:30:00 GMT",
         "source": "data\\CCL-B\\20170118.rss",
         "title": "CCL Industries to Acquire Innovia for $1.13 Billion"
+    },
+    {
+        "contents": "data\\CCL-B\\20170203-090205.news",
+        "description": null,
+        "guid": "yahoo_finance/530326329",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ccl-industries-announces-india-entry-143000690.html",
+        "pubDate": "Thu, 02 Feb 2017 14:30:00 GMT",
+        "source": "data\\CCL-B\\20170203.rss",
+        "title": "CCL Industries Announces India Entry for CCL Label"
     }
 ]

@@ -205,5 +205,14 @@
         "pubDate": "Mon, 10 Oct 2016 13:38:57 GMT",
         "source": "data\\EFN\\20170127.rss",
         "title": "ETF\u2019s with exposure to Element Fleet Management Corp. : October 10, 2016"
+    },
+    {
+        "contents": "data\\EFN\\20170203-091650.news",
+        "description": null,
+        "guid": "yahoo_finance/2175555747",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-financials-stocks-131500288.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\EFN\\20170203.rss",
+        "title": "Research Reports Initiated on Financials Stocks TMX Group, GMP Capital, Element Fleet Management, and Callidus Capital"
     }
 ]

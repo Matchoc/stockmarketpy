@@ -214,5 +214,14 @@
         "pubDate": "Thu, 02 Feb 2017 14:08:00 GMT",
         "source": "data\\IAG\\20170202.rss",
         "title": "iA Financial Group Announces Date of 2016 Fourth Quarter Results"
+    },
+    {
+        "contents": "data\\IAG\\20170203-091254.news",
+        "description": null,
+        "guid": "yahoo_finance/2249434640",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ia-financial-group-announces-date-140800626.html",
+        "pubDate": "Thu, 02 Feb 2017 14:08:00 GMT",
+        "source": "data\\IAG\\20170203.rss",
+        "title": "iA Financial Group Announces Date of 2016 Fourth Quarter Results"
     }
 ]

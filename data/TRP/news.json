@@ -1195,5 +1195,32 @@
         "pubDate": "Tue, 31 Jan 2017 15:00:10 GMT",
         "source": "data\\TRP\\20170202.rss",
         "title": "How Sustainable Is TransCanada Corporation's Dividend?"
+    },
+    {
+        "contents": "data\\TRP\\20170203-090132.news",
+        "description": null,
+        "guid": "yahoo_finance/2004740048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500780.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\TRP\\20170203.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge, TransCanada, Pembina Pipeline, and Veresen"
+    },
+    {
+        "contents": "data\\TRP\\20170203-090133.news",
+        "description": "[Reuters] - Canada's energy sector could find itself more favored than other industries when it comes time to renegotiating the North American Free Trade Agreement, Canadian Minister of Natural Resources Jim Carr said on Thursday. Carr is currently on a four-day trip to Mexico to meet his counterparts in the Mexican government and strengthen the two countries' business ties. Carr told reporters that Canada will continue to make the case that the integration of the energy sector is in the best interest of all three governments.",
+        "guid": "yahoo_finance/1709226791",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/energy-sector-could-see-favor-233619183.html",
+        "pubDate": "Thu, 02 Feb 2017 23:36:19 GMT",
+        "source": "data\\TRP\\20170203.rss",
+        "title": "Energy sector could see favor in NAFTA talks -Canada minister"
+    },
+    {
+        "contents": "data\\TRP\\20170203-090135.news",
+        "description": null,
+        "guid": "yahoo_finance/4083892042",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trump-could-kill-pipeline-201845649.html",
+        "pubDate": "Thu, 02 Feb 2017 20:18:45 GMT",
+        "source": "data\\TRP\\20170203.rss",
+        "title": "How Trump Could Kill His Pipeline"
     }
 ]

@@ -799,5 +799,14 @@
         "pubDate": "Fri, 27 Jan 2017 15:57:57 GMT",
         "source": "data\\ENB\\20170128.rss",
         "title": "3 Things Enbridge Has to Prove in 2017"
+    },
+    {
+        "contents": "data\\ENB\\20170203-090731.news",
+        "description": null,
+        "guid": "yahoo_finance/2004740048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500780.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\ENB\\20170203.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge, TransCanada, Pembina Pipeline, and Veresen"
     }
 ]

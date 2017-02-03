@@ -592,5 +592,14 @@
         "pubDate": "Thu, 26 Jan 2017 16:00:00 GMT",
         "source": "data\\FM\\20170127.rss",
         "title": "First Quantum Minerals Announces Its 2016 Production and Sales"
+    },
+    {
+        "contents": "data\\FM\\20170203-090852.news",
+        "description": null,
+        "guid": "yahoo_finance/2997951817",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500139.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\FM\\20170203.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Nevsun Resources, Trevali Mining, First Quantum Minerals, and Kinross Gold"
     }
 ]

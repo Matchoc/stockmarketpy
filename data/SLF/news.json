@@ -646,5 +646,23 @@
         "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
         "source": "data\\SLF\\20170201.rss",
         "title": "Seventy-seven per cent of Canadians feel entitled to workplace health benefits"
+    },
+    {
+        "contents": "data\\SLF\\20170203-090918.news",
+        "description": "[CNW Group] - Sun Life Financial hosts fourth quarter 2016 earnings conference call",
+        "guid": "yahoo_finance/136911477",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sun-life-financial-hosts-fourth-155900879.html",
+        "pubDate": "Thu, 02 Feb 2017 15:59:00 GMT",
+        "source": "data\\SLF\\20170203.rss",
+        "title": "Sun Life Financial hosts fourth quarter 2016 earnings conference call"
+    },
+    {
+        "contents": "data\\SLF\\20170203-090919.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /PRNewswire/ - Sun Life Financial Inc. (TSX: SLF) (NYSE: SLF) will release its fourth quarter 2016 financial results on Wednesday, February 15, 2017, after markets close. The Company ...",
+        "guid": "yahoo_finance/2487085475",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sun-life-financial-hosts-fourth-155900860.html",
+        "pubDate": "Thu, 02 Feb 2017 15:59:00 GMT",
+        "source": "data\\SLF\\20170203.rss",
+        "title": "Sun Life Financial hosts fourth quarter 2016 earnings conference call"
     }
 ]

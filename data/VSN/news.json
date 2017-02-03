@@ -394,5 +394,14 @@
         "pubDate": "Wed, 01 Feb 2017 21:02:00 GMT",
         "source": "data\\VSN\\20170202.rss",
         "title": "Veresen Confirms 2016 Fourth Quarter and Year End Earnings Release Date & Provides Conference Call and Webcast Details"
+    },
+    {
+        "contents": "data\\VSN\\20170203-091453.news",
+        "description": null,
+        "guid": "yahoo_finance/2004740048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500780.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\VSN\\20170203.rss",
+        "title": "Research Reports Initiated on Energy Stocks Enbridge, TransCanada, Pembina Pipeline, and Veresen"
     }
 ]

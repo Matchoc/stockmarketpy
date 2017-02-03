@@ -394,5 +394,14 @@
         "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
         "source": "data\\MDA\\20170201.rss",
         "title": "MDA signs land administration modernization agreement"
+    },
+    {
+        "contents": "data\\MDA\\20170203-091228.news",
+        "description": null,
+        "guid": "yahoo_finance/779774177",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mda-signs-extensions-long-term-220000253.html",
+        "pubDate": "Thu, 02 Feb 2017 22:00:00 GMT",
+        "source": "data\\MDA\\20170203.rss",
+        "title": "MDA signs extensions to long-term RADARSAT-2 information supply contracts"
     }
 ]

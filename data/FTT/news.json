@@ -205,5 +205,77 @@
         "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
         "source": "data\\FTT\\20170202.rss",
         "title": "Finning to release Q4 and annual 2016 results and hold investor call on February 16, 2017"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/472482141",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13dc1pnt5/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-finning-international-inc-september-2-2016/",
+        "pubDate": "Fri, 02 Sep 2016 14:01:30 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "ETF\u2019s with exposure to Finning International, Inc. : September 2, 2016"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/467462619",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/second-look-oakmark-international-small-220221553.html",
+        "pubDate": "Fri, 26 Aug 2016 22:02:21 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "A Second Look at Oakmark International Small Cap"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091622.news",
+        "description": null,
+        "guid": "yahoo_finance/131195545",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ajqldp0/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-finning-international-inc-august-9-2016/",
+        "pubDate": "Tue, 09 Aug 2016 17:38:12 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "ETF\u2019s with exposure to Finning International, Inc. : August 9, 2016"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091622.news",
+        "description": "[at noodls] - VANCOUVER, BRITISH COLUMBIA--(Marketwired - Aug. 3, 2016) -Finning International Inc. (TSX:FTT) reported second quarter 2016 results today. All monetary amounts are in Canadian dollars unless otherwise ...",
+        "guid": "yahoo_finance/3961021513",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128fnkilk/*http://www.publicnow.com/view/91C358BF77FE0769B828E5108FA29DC7A443F66C",
+        "pubDate": "Wed, 03 Aug 2016 10:22:07 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "Finning Reports Q2 2016 Results"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091623.news",
+        "description": "[at noodls] - VANCOUVER, BRITISH COLUMBIA--(Marketwired - May 9, 2016) -Finning International Inc. (TSX:FTT) ('Finning') announced today that it received approval from the Toronto Stock Exchange ('TSX') to renew its ...",
+        "guid": "yahoo_finance/1074798136",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128h7gep0/*http://www.publicnow.com/view/1C40B6799D23583BE3B5C0AAC3C829ABF9364231",
+        "pubDate": "Mon, 09 May 2016 13:18:02 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "Finning Announces Renewal of Share Repurchase Program"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091623.news",
+        "description": "[at noodls] - VANCOUVER, BRITISH COLUMBIA--(Marketwired - May 6, 2016) -Finning International Inc. (TSX:FTT) announced the voting results from its Annual Meeting of Shareholders held on Wednesday, May 4, 2016 in Vancouver, ...",
+        "guid": "yahoo_finance/2412581167",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1281ijbcu/*http://www.publicnow.com/view/F30BB35246D8C98DD51926D733774E431CABABD8",
+        "pubDate": "Fri, 06 May 2016 21:24:03 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "Finning Reports on Voting Results from Annual Meeting of Shareholders"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091623.news",
+        "description": "[at noodls] - VANCOUVER, BRITISH COLUMBIA--(Marketwired - May 5, 2016) -Finning International Inc. (TSX:FTT) reported first quarter 2016 results today. All monetary amounts are in Canadian dollars unless otherwise stated. ...",
+        "guid": "yahoo_finance/3052425028",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128h9j3je/*http://www.publicnow.com/view/78200F068A5A89AAEBE02C7761603FC18496A18F",
+        "pubDate": "Thu, 05 May 2016 13:11:09 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "Finning Reports Q1 2016 Results"
+    },
+    {
+        "contents": "data\\FTT\\20170203-091623.news",
+        "description": "[at noodls] - VANCOUVER, BRITISH COLUMBIA--(Marketwired - April 20, 2016) -Finning International Inc. (TSX:FTT) will hold its Annual General Meeting on May 4, 2016 at 2:00 PM Pacific Time at Terminal City Club, 837 ...",
+        "guid": "yahoo_finance/3450215492",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12881sr2p/*http://www.publicnow.com/view/EEA56948FB0CF2B34256B864B5AF8C19883E8B5B",
+        "pubDate": "Wed, 20 Apr 2016 12:21:05 GMT",
+        "source": "data\\FTT\\20170203.rss",
+        "title": "Finning to Hold Annual General Meeting on May 4, 2016; Q1 2016 Results and Investor Call on May 5, 2016"
     }
 ]

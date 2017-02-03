@@ -232,5 +232,23 @@
         "pubDate": "Fri, 27 Jan 2017 18:57:44 GMT",
         "source": "data\\OSB\\20170128.rss",
         "title": "Norbord, Inc. \u2013 Value Analysis (TORONTO:OSB) : January 27, 2017"
+    },
+    {
+        "contents": "data\\OSB\\20170203-090520.news",
+        "description": "[PR Newswire] - Note: Financial references in US dollars unless otherwise indicated. 2016 HIGHLIGHTS Adjusted earnings of $2.03 per diluted share, a $2.20 improvement over 2015 Adjusted EBITDA of $383 million, a more ...",
+        "guid": "yahoo_finance/3007259833",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/norbord-reports-2016-results-declares-110000456.html",
+        "pubDate": "Fri, 03 Feb 2017 11:00:00 GMT",
+        "source": "data\\OSB\\20170203.rss",
+        "title": "Norbord Reports 2016 Results; Declares Quarterly Dividend"
+    },
+    {
+        "contents": "data\\OSB\\20170203-090522.news",
+        "description": "[CNW Group] - Norbord Reports 2016 Results; Declares Quarterly Dividend",
+        "guid": "yahoo_finance/1319537529",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/norbord-reports-2016-results-declares-110000188.html",
+        "pubDate": "Fri, 03 Feb 2017 11:00:00 GMT",
+        "source": "data\\OSB\\20170203.rss",
+        "title": "Norbord Reports 2016 Results; Declares Quarterly Dividend"
     }
 ]

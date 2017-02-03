@@ -916,5 +916,23 @@
         "pubDate": "Wed, 01 Feb 2017 10:00:01 GMT",
         "source": "data\\VRX\\20170202.rss",
         "title": "The Short Seller Who Crushed Valeant Has Picked His Next Target"
+    },
+    {
+        "contents": "data\\VRX\\20170203-091320.news",
+        "description": null,
+        "guid": "yahoo_finance/3536937426",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12oqtnshs/*http://www.bloomberg.com/news/videos/2017-02-03/valeant-short-seller-picks-next-target?cmpid=yhoo.headline",
+        "pubDate": "Fri, 03 Feb 2017 00:36:36 GMT",
+        "source": "data\\VRX\\20170203.rss",
+        "title": "Valeant Short Seller Picks Next Target"
+    },
+    {
+        "contents": "data\\VRX\\20170203-091320.news",
+        "description": null,
+        "guid": "yahoo_finance/1633632297",
+        "link": "http://us.rd.yahoo.com/finance/external/kip/rss/SIG=13962idal/*http://portal.kiplinger.com/slideshow/investing/T052-S015-7-stocks-you-should-sell-right-now/index.html?rid=SYN-yahoo&rpageid=16172",
+        "pubDate": "Thu, 02 Feb 2017 14:50:02 GMT",
+        "source": "data\\VRX\\20170203.rss",
+        "title": "7 Stocks You Should Sell Right Now"
     }
 ]

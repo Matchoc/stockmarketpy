@@ -187,5 +187,14 @@
         "pubDate": "Wed, 25 Jan 2017 13:15:00 GMT",
         "source": "data\\CR\\20170125.rss",
         "title": "Research Reports Initiated on Energy Stocks Crew Energy, Peyto Exploration and Development, Ithaca Energy, and PrairieSky Royalty"
+    },
+    {
+        "contents": "data\\CR\\20170203-090333.news",
+        "description": null,
+        "guid": "yahoo_finance/1335764328",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=131p9537e/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-crew-energy-inc-august-15-2016/",
+        "pubDate": "Mon, 15 Aug 2016 14:18:33 GMT",
+        "source": "data\\CR\\20170203.rss",
+        "title": "ETF\u2019s with exposure to Crew Energy, Inc. : August 15, 2016"
     }
 ]

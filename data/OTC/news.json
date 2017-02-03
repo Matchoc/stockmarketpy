@@ -241,5 +241,59 @@
         "pubDate": "Thu, 02 Feb 2017 12:07:07 GMT",
         "source": "data\\OTC\\20170202.rss",
         "title": "Q2 2017 Open Text Corp Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090637.news",
+        "description": null,
+        "guid": "yahoo_finance/2054010900",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-otc-earnings-conference-062028346.html",
+        "pubDate": "Fri, 03 Feb 2017 06:20:28 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "Edited Transcript of OTC.TO earnings conference call or presentation 2-Feb-17 10:00pm GMT"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090639.news",
+        "description": null,
+        "guid": "yahoo_finance/1842398823",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12bm3sdkr/*http://www.fool.com/investing/2017/02/02/opentext-starts-2017-strong.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Thu, 02 Feb 2017 23:26:00 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "OpenText Starts 2017 Strong"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090639.news",
+        "description": null,
+        "guid": "yahoo_finance/2262509743",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/open-text-beats-2q-profit-213422795.html",
+        "pubDate": "Thu, 02 Feb 2017 21:34:22 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "Open Text beats 2Q profit forecasts"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090641.news",
+        "description": null,
+        "guid": "yahoo_finance/1204743194",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/open-text-beats-2q-profit-213422053.html",
+        "pubDate": "Thu, 02 Feb 2017 21:34:22 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "Open Text beats 2Q profit forecasts"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090642.news",
+        "description": "[PR Newswire] - WATERLOO, Ontario, Feb. 2, 2017 /PRNewswire/ -- Total revenue of $543 million, up 17% Y/Y Recurring revenues of $445 million, up 16% Y/Y Cloud services and subscription revenue of $175 million, up 17% ...",
+        "guid": "yahoo_finance/406307392",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/opentext-reports-second-quarter-fiscal-210100999.html",
+        "pubDate": "Thu, 02 Feb 2017 21:01:00 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "OpenText Reports Second Quarter Fiscal Year 2017 Financial Results"
+    },
+    {
+        "contents": "data\\OTC\\20170203-090645.news",
+        "description": "[CNW Group] - OpenText Reports Second Quarter Fiscal Year 2017 Financial Results",
+        "guid": "yahoo_finance/3984846799",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/opentext-reports-second-quarter-fiscal-210100477.html",
+        "pubDate": "Thu, 02 Feb 2017 21:01:00 GMT",
+        "source": "data\\OTC\\20170203.rss",
+        "title": "OpenText Reports Second Quarter Fiscal Year 2017 Financial Results"
     }
 ]

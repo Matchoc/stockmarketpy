@@ -484,5 +484,23 @@
         "pubDate": "Thu, 02 Feb 2017 12:30:00 GMT",
         "source": "data\\RFP\\20170202.rss",
         "title": "Resolute Reports Preliminary Fourth Quarter and 2016 Results"
+    },
+    {
+        "contents": "data\\RFP\\20170203-090652.news",
+        "description": null,
+        "guid": "yahoo_finance/2494016266",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14nbme5nd/*http://www.capitalcube.com/blog/index.php/resolute-forest-products-inc-breached-its-50-day-moving-average-in-a-bearish-manner-rfp-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:25:52 GMT",
+        "source": "data\\RFP\\20170203.rss",
+        "title": "Resolute Forest Products, Inc. breached its 50 day moving average in a Bearish Manner : RFP-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\RFP\\20170203-090652.news",
+        "description": null,
+        "guid": "yahoo_finance/3370382794",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/nafta-could-settle-canada-u-201752153.html",
+        "pubDate": "Thu, 02 Feb 2017 20:17:52 GMT",
+        "source": "data\\RFP\\20170203.rss",
+        "title": "New Nafta Could Settle Canada-U.S. Lumber War, Resolute CEO Says"
     }
 ]

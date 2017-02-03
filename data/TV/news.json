@@ -403,5 +403,14 @@
         "pubDate": "Wed, 01 Feb 2017 13:15:20 GMT",
         "source": "data\\TV\\20170201.rss",
         "title": "Trevali invests in Caribou Mine future with new mining fleet"
+    },
+    {
+        "contents": "data\\TV\\20170203-090455.news",
+        "description": null,
+        "guid": "yahoo_finance/2997951817",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500139.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\TV\\20170203.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Nevsun Resources, Trevali Mining, First Quantum Minerals, and Kinross Gold"
     }
 ]

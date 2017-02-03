@@ -349,5 +349,14 @@
         "pubDate": "Thu, 26 Jan 2017 13:15:00 GMT",
         "source": "data\\SES\\20170126.rss",
         "title": "Research Reports Initiated on Energy Stocks Calfrac Well Services, Secure Energy Services, Hyduke Energy Service,s and Petrowest"
+    },
+    {
+        "contents": "data\\SES\\20170203-091502.news",
+        "description": null,
+        "guid": "yahoo_finance/848281076",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14lpuoh9v/*http://www.capitalcube.com/blog/index.php/secure-energy-services-inc-breached-its-50-day-moving-average-in-a-bearish-manner-ses-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:22:36 GMT",
+        "source": "data\\SES\\20170203.rss",
+        "title": "Secure Energy Services, Inc. breached its 50 day moving average in a Bearish Manner : SES-CA : February 3, 2017"
     }
 ]

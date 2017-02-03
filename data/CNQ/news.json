@@ -304,5 +304,14 @@
         "pubDate": "Thu, 02 Feb 2017 10:00:00 GMT",
         "source": "data\\CNQ\\20170202.rss",
         "title": "Canadian Natural Resources Limited Horizon Update"
+    },
+    {
+        "contents": "data\\CNQ\\20170203-091512.news",
+        "description": null,
+        "guid": "yahoo_finance/1794793035",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-reversal-transparency-could-sting-060825121.html",
+        "pubDate": "Fri, 03 Feb 2017 07:12:29 GMT",
+        "source": "data\\CNQ\\20170203.rss",
+        "title": "U.S. reversal on transparency could sting Canadian, European oil companies"
     }
 ]

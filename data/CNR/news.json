@@ -745,5 +745,23 @@
         "pubDate": "Wed, 01 Feb 2017 14:30:18 GMT",
         "source": "data\\CNR\\20170202.rss",
         "title": "Canadian National Railway Co. breached its 50 day moving average in a Bearish Manner : CNR-CA : February 1, 2017"
+    },
+    {
+        "contents": "data\\CNR\\20170203-090620.news",
+        "description": null,
+        "guid": "yahoo_finance/397673660",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13fbg71g4/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-canadian-national-railway-co-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 17:46:59 GMT",
+        "source": "data\\CNR\\20170203.rss",
+        "title": "ETFs with exposure to Canadian National Railway Co. : February 2, 2017"
+    },
+    {
+        "contents": "data\\CNR\\20170203-090620.news",
+        "description": null,
+        "guid": "yahoo_finance/1760582934",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-momentum-stocks-buy-152103648.html",
+        "pubDate": "Thu, 02 Feb 2017 15:21:03 GMT",
+        "source": "data\\CNR\\20170203.rss",
+        "title": "Top Ranked Momentum Stocks to Buy for February 2nd"
     }
 ]

@@ -745,5 +745,14 @@
         "pubDate": "Mon, 30 Jan 2017 18:53:55 GMT",
         "source": "data\\TD\\20170131.rss",
         "title": "The Toronto-Dominion Bank : TD-CA: Dividend Analysis : January 10th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\TD\\20170203-090211.news",
+        "description": null,
+        "guid": "yahoo_finance/2743103912",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13coqeg39/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-the-toronto-dominion-bank-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 19:56:59 GMT",
+        "source": "data\\TD\\20170203.rss",
+        "title": "ETFs with exposure to The Toronto-Dominion Bank : February 2, 2017"
     }
 ]

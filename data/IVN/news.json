@@ -565,5 +565,14 @@
         "pubDate": "Mon, 30 Jan 2017 05:00:01 GMT",
         "source": "data\\IVN\\20170131.rss",
         "title": "Ivanhoe Surges as Investors Bet on African Copper Motherlode"
+    },
+    {
+        "contents": "data\\IVN\\20170203-091119.news",
+        "description": "[Marketwired] - A South African judge issued a ruling today in favour of Ivanplats Pty. Ltd., an Ivanhoe Mines subsidiary, clearing the way for the company to proceed with the relocation of informal graves in the vicinity ...",
+        "guid": "yahoo_finance/2555599387",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/statement-ivanhoe-mines-welcomes-ruling-223744971.html",
+        "pubDate": "Thu, 02 Feb 2017 22:37:44 GMT",
+        "source": "data\\IVN\\20170203.rss",
+        "title": "STATEMENT: Ivanhoe Mines welcomes ruling today by South African judge in favour of Ivanplats that overturns an interim interdict order issued last November"
     }
 ]

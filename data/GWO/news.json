@@ -250,5 +250,14 @@
         "pubDate": "Tue, 19 Apr 2016 15:08:18 GMT",
         "source": "data\\GWO\\20170130.rss",
         "title": "Great-West Lifeco announces CEO succession plan for subsidiary Irish Life"
+    },
+    {
+        "contents": "data\\GWO\\20170203-091224.news",
+        "description": null,
+        "guid": "yahoo_finance/2669603283",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ggkcf30/*http://www.capitalcube.com/blog/index.php/great-west-lifeco-inc-breached-its-50-day-moving-average-in-a-bearish-manner-gwo-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:21:45 GMT",
+        "source": "data\\GWO\\20170203.rss",
+        "title": "Great-West Lifeco, Inc. breached its 50 day moving average in a Bearish Manner : GWO-CA : February 3, 2017"
     }
 ]

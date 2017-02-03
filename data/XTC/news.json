@@ -340,5 +340,23 @@
         "pubDate": "Wed, 01 Feb 2017 21:06:00 GMT",
         "source": "data\\XTC\\20170202.rss",
         "title": "Exco Technologies Limited - Quarterly Dividend Raised 14%"
+    },
+    {
+        "contents": "data\\XTC\\20170203-091056.news",
+        "description": null,
+        "guid": "yahoo_finance/985937597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-2016-annual-212600040.html",
+        "pubDate": "Thu, 02 Feb 2017 21:26:00 GMT",
+        "source": "data\\XTC\\20170203.rss",
+        "title": "Exco Technologies Limited - 2016 Annual Meeting Results"
+    },
+    {
+        "contents": "data\\XTC\\20170203-091058.news",
+        "description": null,
+        "guid": "yahoo_finance/2153370178",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exco-technologies-limited-2016-annual-212600881.html",
+        "pubDate": "Thu, 02 Feb 2017 21:26:00 GMT",
+        "source": "data\\XTC\\20170203.rss",
+        "title": "Exco Technologies Limited - 2016 Annual Meeting Results"
     }
 ]

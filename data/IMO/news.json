@@ -421,5 +421,14 @@
         "pubDate": "Tue, 31 Jan 2017 20:10:00 GMT",
         "source": "data\\IMO\\20170201.rss",
         "title": "Imperial appoints senior vice-president, upstream"
+    },
+    {
+        "contents": "data\\IMO\\20170203-090535.news",
+        "description": null,
+        "guid": "yahoo_finance/2832809959",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13q4t9b4p/*http://www.capitalcube.com/blog/index.php/imperial-oil-ltd-imo-ca-earnings-analysis-2016-by-the-numbers-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 15:40:40 GMT",
+        "source": "data\\IMO\\20170203.rss",
+        "title": "Imperial Oil Ltd. :IMO-CA: Earnings Analysis: 2016 By the Numbers : February 2, 2017"
     }
 ]

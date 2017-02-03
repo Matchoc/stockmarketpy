@@ -448,5 +448,14 @@
         "pubDate": "Thu, 02 Feb 2017 01:36:00 GMT",
         "source": "data\\SW\\20170202.rss",
         "title": "What to Watch When Sierra Wireless, Inc. Reports Earnings"
+    },
+    {
+        "contents": "data\\SW\\20170203-091021.news",
+        "description": null,
+        "guid": "yahoo_finance/1504907101",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500497.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\SW\\20170203.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks DragonWave, Sierra Wireless, AgJunction, and Evertz Technologies"
     }
 ]

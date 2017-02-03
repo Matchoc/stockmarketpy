@@ -196,5 +196,32 @@
         "pubDate": "Mon, 30 Jan 2017 14:16:05 GMT",
         "source": "data\\CJR-B\\20170202.rss",
         "title": "Corus Entertainment, Inc. :CJR.B-CA: Earnings Analysis: Q1, 2017 By the Numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\CJR-B\\20170203-090538.news",
+        "description": "[CNW Group] - Corus Enhances its Digital Advertising with New Custom-Built Native Offering",
+        "guid": "yahoo_finance/3688525329",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/corus-enhances-digital-advertising-custom-200000554.html",
+        "pubDate": "Thu, 02 Feb 2017 20:00:00 GMT",
+        "source": "data\\CJR-B\\20170203.rss",
+        "title": "Corus Enhances its Digital Advertising with New Custom-Built Native Offering"
+    },
+    {
+        "contents": "data\\CJR-B\\20170203-090539.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 2, 2017 /CNW/ - Corus announced today at FFWD Advertising and Marketing Week that it has partnered with Sharethrough , the industry's leading native supply side platform, to launch a new ...",
+        "guid": "yahoo_finance/1321696563",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/corus-enhances-digital-advertising-custom-200000963.html",
+        "pubDate": "Thu, 02 Feb 2017 20:00:00 GMT",
+        "source": "data\\CJR-B\\20170203.rss",
+        "title": "Corus Enhances its Digital Advertising with New Custom-Built Native Offering"
+    },
+    {
+        "contents": "data\\CJR-B\\20170203-090541.news",
+        "description": null,
+        "guid": "yahoo_finance/1322794986",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13anudscq/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-corus-entertainment-inc-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 17:41:38 GMT",
+        "source": "data\\CJR-B\\20170203.rss",
+        "title": "ETFs with exposure to Corus Entertainment, Inc. : February 2, 2017"
     }
 ]

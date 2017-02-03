@@ -448,5 +448,14 @@
         "pubDate": "Mon, 30 Jan 2017 16:52:00 GMT",
         "source": "data\\X\\20170131.rss",
         "title": "TMX Group Names Alison Simpson Senior Vice President, Marketing and Branding"
+    },
+    {
+        "contents": "data\\X\\20170203-090859.news",
+        "description": null,
+        "guid": "yahoo_finance/2175555747",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-financials-stocks-131500288.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\X\\20170203.rss",
+        "title": "Research Reports Initiated on Financials Stocks TMX Group, GMP Capital, Element Fleet Management, and Callidus Capital"
     }
 ]

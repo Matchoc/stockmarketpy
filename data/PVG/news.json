@@ -187,5 +187,14 @@
         "pubDate": "Thu, 19 Jan 2017 12:04:12 GMT",
         "source": "data\\PVG\\20170119.rss",
         "title": "Will Pretium Resources (PVG) Continue to Surge Higher?"
+    },
+    {
+        "contents": "data\\PVG\\20170203-090709.news",
+        "description": "[Marketwired] - Pretium Resources Inc. is pleased to report the acceleration of commissioning of the Brucejack Mine with dry commissioning now scheduled to commence in March and wet commissioning scheduled to commence ...",
+        "guid": "yahoo_finance/4042842797",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pretium-resources-inc-brucejack-commissioning-100000913.html",
+        "pubDate": "Fri, 03 Feb 2017 10:00:00 GMT",
+        "source": "data\\PVG\\20170203.rss",
+        "title": "Pretium Resources Inc.: Brucejack Commissioning Accelerated; Forecast to Complete Mine Construction is US$811.1 million"
     }
 ]

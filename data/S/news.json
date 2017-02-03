@@ -403,5 +403,14 @@
         "pubDate": "Tue, 31 Jan 2017 22:00:00 GMT",
         "source": "data\\S\\20170201.rss",
         "title": "Sherritt Announces 2016 Production Results and 2017 Guidance"
+    },
+    {
+        "contents": "data\\S\\20170203-090103.news",
+        "description": null,
+        "guid": "yahoo_finance/1437898317",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14k5g4ova/*http://www.capitalcube.com/blog/index.php/sherritt-international-corp-breached-its-50-day-moving-average-in-a-bearish-manner-s-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:24:14 GMT",
+        "source": "data\\S\\20170203.rss",
+        "title": "Sherritt International Corp. breached its 50 day moving average in a Bearish Manner : S-CA : February 3, 2017"
     }
 ]

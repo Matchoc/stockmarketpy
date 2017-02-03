@@ -592,5 +592,32 @@
         "pubDate": "Wed, 01 Feb 2017 22:02:45 GMT",
         "source": "data\\K\\20170202.rss",
         "title": "CANADA STOCKS-TSX gains as resources stocks rise; Cameco sinks"
+    },
+    {
+        "contents": "data\\K\\20170203-090744.news",
+        "description": null,
+        "guid": "yahoo_finance/2997951817",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500139.html",
+        "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
+        "source": "data\\K\\20170203.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Nevsun Resources, Trevali Mining, First Quantum Minerals, and Kinross Gold"
+    },
+    {
+        "contents": "data\\K\\20170203-090745.news",
+        "description": null,
+        "guid": "yahoo_finance/4041498161",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=12phl2e8g/*http://www.insidermonkey.com/blog/10-biggest-gold-mining-companies-in-the-world-527231/",
+        "pubDate": "Fri, 03 Feb 2017 13:00:19 GMT",
+        "source": "data\\K\\20170203.rss",
+        "title": "10 Biggest Gold Mining Companies In The World"
+    },
+    {
+        "contents": "data\\K\\20170203-090746.news",
+        "description": null,
+        "guid": "yahoo_finance/3376361481",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12nnlasi7/*http://marketrealist.com/2017/02/what-the-latest-volatility-and-rsi-numbers-indicate/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 03 Feb 2017 12:38:41 GMT",
+        "source": "data\\K\\20170203.rss",
+        "title": "What the Latest Volatility and RSI Numbers Indicate"
     }
 ]

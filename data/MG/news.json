@@ -205,5 +205,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
         "source": "data\\MG\\20170202.rss",
         "title": "Research Reports Initiated on Autos Stocks Magna International, Linamar, Uni-Select, and Martinrea International"
+    },
+    {
+        "contents": "data\\MG\\20170203-091635.news",
+        "description": "[Reuters] - The number of jobless people in Slovenia jumped by 4.1 percent in January from the month before after a large number of short-term job contracts expired at the end of 2016, the National Employment Service said on Friday. It said the number of unemployed people reached 103,736, though this was still 12.2 percent less than in January 2016 after falling to a seven-year-low in September. The unemployment rate will be revealed by the statistics office in March.",
+        "guid": "yahoo_finance/2053366132",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/slovenian-jobless-number-4-pct-123336189.html",
+        "pubDate": "Fri, 03 Feb 2017 12:33:36 GMT",
+        "source": "data\\MG\\20170203.rss",
+        "title": "Slovenian jobless number up 4 pct in January but seen falling"
     }
 ]

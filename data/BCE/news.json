@@ -970,5 +970,23 @@
         "pubDate": "Wed, 01 Feb 2017 14:38:02 GMT",
         "source": "data\\BCE\\20170202.rss",
         "title": "BCE Inc (BCE): Will it Disappoint Investors in Q4 Earnings?"
+    },
+    {
+        "contents": "data\\BCE\\20170203-091432.news",
+        "description": null,
+        "guid": "yahoo_finance/319405924",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bce-inc-bce-misses-q4-114811930.html",
+        "pubDate": "Fri, 03 Feb 2017 11:48:11 GMT",
+        "source": "data\\BCE\\20170203.rss",
+        "title": "BCE Inc. (BCE) Misses on Q4 Earnings, Revenues Grow Y/Y"
+    },
+    {
+        "contents": "data\\BCE\\20170203-091434.news",
+        "description": null,
+        "guid": "yahoo_finance/1152254396",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-bce-earnings-conference-233347034.html",
+        "pubDate": "Thu, 02 Feb 2017 23:33:47 GMT",
+        "source": "data\\BCE\\20170203.rss",
+        "title": "Edited Transcript of BCE.TO earnings conference call or presentation 2-Feb-17 1:00pm GMT"
     }
 ]

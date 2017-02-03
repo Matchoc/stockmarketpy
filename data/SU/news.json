@@ -286,5 +286,23 @@
         "pubDate": "Wed, 01 Feb 2017 17:49:56 GMT",
         "source": "data\\SU\\20170202.rss",
         "title": "What to Expect from Suncor\u2019s 4Q16 Estimates"
+    },
+    {
+        "contents": "data\\SU\\20170203-090423.news",
+        "description": null,
+        "guid": "yahoo_finance/1794793035",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/u-reversal-transparency-could-sting-060825121.html",
+        "pubDate": "Fri, 03 Feb 2017 07:12:29 GMT",
+        "source": "data\\SU\\20170203.rss",
+        "title": "U.S. reversal on transparency could sting Canadian, European oil companies"
+    },
+    {
+        "contents": "data\\SU\\20170203-090426.news",
+        "description": null,
+        "guid": "yahoo_finance/3379386253",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12trhe8r8/*http://marketrealist.com/2017/02/has-implied-volatility-in-suncor-fallen-ahead-of-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 02 Feb 2017 15:36:54 GMT",
+        "source": "data\\SU\\20170203.rss",
+        "title": "Has Implied Volatility in Suncor Fallen ahead of Earnings?"
     }
 ]

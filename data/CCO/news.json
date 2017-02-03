@@ -529,5 +529,23 @@
         "pubDate": "Wed, 01 Feb 2017 10:38:49 GMT",
         "source": "data\\CCO\\20170202.rss",
         "title": "Canada uranium supplier, Fukushima operator in contract fight"
+    },
+    {
+        "contents": "data\\CCO\\20170203-091645.news",
+        "description": null,
+        "guid": "yahoo_finance/933127218",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=146bd635d/*http://www.capitalcube.com/blog/index.php/cameco-corp-breached-its-50-day-moving-average-in-a-bearish-manner-cco-ca-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 13:25:01 GMT",
+        "source": "data\\CCO\\20170203.rss",
+        "title": "Cameco Corp. breached its 50 day moving average in a Bearish Manner : CCO-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\CCO\\20170203-091645.news",
+        "description": null,
+        "guid": "yahoo_finance/3189344697",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-dips-uncertain-215805183.html",
+        "pubDate": "Thu, 02 Feb 2017 21:58:05 GMT",
+        "source": "data\\CCO\\20170203.rss",
+        "title": "CANADA STOCKS-TSX dips as uncertain trade outlook weighs"
     }
 ]

@@ -565,5 +565,23 @@
         "pubDate": "Mon, 30 Jan 2017 15:10:22 GMT",
         "source": "data\\RCI-B\\20170201.rss",
         "title": "Rogers Communications, Inc. :RCI.B-CA: Earnings Analysis: 2016 By the Numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\RCI-B\\20170203-091035.news",
+        "description": null,
+        "guid": "yahoo_finance/2869836299",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telecom-stock-roundup-solid-q4-204808433.html",
+        "pubDate": "Thu, 02 Feb 2017 20:48:08 GMT",
+        "source": "data\\RCI-B\\20170203.rss",
+        "title": "Telecom Stock Roundup: Solid Q4 at CMCSA, CCI, ROG; Mixed Bag for Sprint"
+    },
+    {
+        "contents": "data\\RCI-B\\20170203-091037.news",
+        "description": null,
+        "guid": "yahoo_finance/1038709393",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13c7hpiic/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-rogers-communications-inc-february-2-2017/",
+        "pubDate": "Thu, 02 Feb 2017 19:30:15 GMT",
+        "source": "data\\RCI-B\\20170203.rss",
+        "title": "ETFs with exposure to Rogers Communications, Inc. : February 2, 2017"
     }
 ]

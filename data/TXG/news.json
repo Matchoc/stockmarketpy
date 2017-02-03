@@ -187,5 +187,14 @@
         "pubDate": "Thu, 11 Aug 2016 10:11:03 GMT",
         "source": "data\\TXG\\20170124.rss",
         "title": "Torex Announces Q2 2016 Financial And Operational Results"
+    },
+    {
+        "contents": "data\\TXG\\20170203-090319.news",
+        "description": null,
+        "guid": "yahoo_finance/4107761242",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/torex-announces-q2-2016-financial-100000553.html",
+        "pubDate": "Thu, 11 Aug 2016 10:00:00 GMT",
+        "source": "data\\TXG\\20170203.rss",
+        "title": "Torex Announces Q2 2016 Financial and Operational Results"
     }
 ]

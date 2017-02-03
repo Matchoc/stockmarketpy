@@ -259,5 +259,41 @@
         "pubDate": "Thu, 02 Feb 2017 12:10:00 GMT",
         "source": "data\\SLW\\20170202.rss",
         "title": "4 Precious Metals Trades to Make Now"
+    },
+    {
+        "contents": "data\\SLW\\20170203-091333.news",
+        "description": null,
+        "guid": "yahoo_finance/3207840670",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ijrjup8/*http://marketrealist.com/2017/02/how-has-the-correlation-of-mining-stocks-moved/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 03 Feb 2017 14:07:55 GMT",
+        "source": "data\\SLW\\20170203.rss",
+        "title": "How Has the Correlation of Mining Stocks Moved?"
+    },
+    {
+        "contents": "data\\SLW\\20170203-091334.news",
+        "description": null,
+        "guid": "yahoo_finance/1517744879",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132j4iuqp/*http://www.fool.com/investing/2017/02/03/this-is-the-worst-start-to-a-new-year-for-the-doll.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 03 Feb 2017 13:30:40 GMT",
+        "source": "data\\SLW\\20170203.rss",
+        "title": "This Is the Worst Start to a New Year for the Dollar Since 1987, and This Industry Is Loving It"
+    },
+    {
+        "contents": "data\\SLW\\20170203-091335.news",
+        "description": null,
+        "guid": "yahoo_finance/2715132724",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1329en276/*http://www.fool.com/investing/2017/02/01/the-single-most-important-thing-silver-wheaton-has.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 01 Feb 2017 14:16:02 GMT",
+        "source": "data\\SLW\\20170203.rss",
+        "title": "The Single Most Important Thing Silver Wheaton Has to Prove in 2017"
+    },
+    {
+        "contents": "data\\SLW\\20170203-091335.news",
+        "description": null,
+        "guid": "yahoo_finance/3735428115",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12kn0a5mu/*http://marketrealist.com/2017/01/how-funds-were-flowing-to-silver-in-january-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 01 Feb 2017 14:07:08 GMT",
+        "source": "data\\SLW\\20170203.rss",
+        "title": "How Funds Were Flowing to Silver in January 2017"
     }
 ]

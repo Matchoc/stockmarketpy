@@ -133,5 +133,14 @@
         "pubDate": "Fri, 10 Jun 2016 21:15:00 GMT",
         "source": "data\\BBU-UN\\20170118.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\BBU-UN\\20170203-091653.news",
+        "description": "[GlobeNewswire] - BOSTON, Feb. 02, 2017-- EnerNOC, Inc., a leading provider of energy intelligence software and demand response solutions, and Brookfield Global Integrated Solutions, a leading real estate management services ...",
+        "guid": "yahoo_finance/1445551248",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enernoc-brookfield-global-integrated-solutions-155453252.html",
+        "pubDate": "Thu, 02 Feb 2017 15:54:53 GMT",
+        "source": "data\\BBU-UN\\20170203.rss",
+        "title": "EnerNOC and Brookfield Global Integrated Solutions (BGIS) Launch Strategic Partnership to Provide Advanced Energy Management to Commercial Buildings"
     }
 ]

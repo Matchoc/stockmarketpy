@@ -349,5 +349,23 @@
         "pubDate": "Wed, 01 Feb 2017 15:55:43 GMT",
         "source": "data\\G\\20170202.rss",
         "title": "CANADA STOCKS-TSX falls as Cameco sinks, gold miners weigh"
+    },
+    {
+        "contents": "data\\G\\20170203-090905.news",
+        "description": null,
+        "guid": "yahoo_finance/4165738276",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13179o482/*https://www.thestreet.com/story/13977744/1/gold-is-in-recovery-mode-here-s-how-to-trade-it.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Fri, 03 Feb 2017 13:04:00 GMT",
+        "source": "data\\G\\20170203.rss",
+        "title": "[video]Gold Is in Recovery Mode -- Here's How to Trade It"
+    },
+    {
+        "contents": "data\\G\\20170203-090905.news",
+        "description": null,
+        "guid": "yahoo_finance/4041498161",
+        "link": "http://us.rd.yahoo.com/finance/external/xinsidermonkey/rss/SIG=12phl2e8g/*http://www.insidermonkey.com/blog/10-biggest-gold-mining-companies-in-the-world-527231/",
+        "pubDate": "Fri, 03 Feb 2017 13:00:19 GMT",
+        "source": "data\\G\\20170203.rss",
+        "title": "10 Biggest Gold Mining Companies In The World"
     }
 ]
