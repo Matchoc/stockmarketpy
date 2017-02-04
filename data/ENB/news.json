@@ -808,5 +808,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
         "source": "data\\ENB\\20170203.rss",
         "title": "Research Reports Initiated on Energy Stocks Enbridge, TransCanada, Pembina Pipeline, and Veresen"
+    },
+    {
+        "contents": "data\\ENB\\20170204-090623.news",
+        "description": "[Marketwired] - Enbridge Energy Management, L.L.C. today confirmed that its previously declared share distribution, to be paid on February 14, 2017, will consist of 2.5980 additional shares for each 100 shares of record ...",
+        "guid": "yahoo_finance/2416198131",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enbridge-energy-management-l-l-173635895.html",
+        "pubDate": "Fri, 03 Feb 2017 17:36:35 GMT",
+        "source": "data\\ENB\\20170204.rss",
+        "title": "Enbridge Energy Management, L.L.C. Confirms Amount of Share Distribution for Fourth Quarter 2016"
     }
 ]

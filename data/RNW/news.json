@@ -187,5 +187,59 @@
         "pubDate": "Thu, 19 Jan 2017 13:15:00 GMT",
         "source": "data\\RNW\\20170119.rss",
         "title": "Research Reports Initiated on Utilities Stocks TransAlta Renewables, Northland Power, Atlantic Power, and Alterra Power"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091208.news",
+        "description": null,
+        "guid": "yahoo_finance/4135633409",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13algua5m/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-transalta-renewables-inc-august-22-2016/",
+        "pubDate": "Mon, 22 Aug 2016 15:58:47 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "ETF\u2019s with exposure to TransAlta Renewables, Inc. : August 22, 2016"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091211.news",
+        "description": null,
+        "guid": "yahoo_finance/864951758",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144uqqce6/*http://www.capitalcube.com/blog/index.php/transalta-renewables-inc-rnw-ca-earnings-analysis-q2-2016-by-the-numbers-august-19-2016/",
+        "pubDate": "Fri, 19 Aug 2016 14:16:06 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "TransAlta Renewables, Inc. :RNW-CA: Earnings Analysis: Q2, 2016 By the Numbers : August 19, 2016"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091214.news",
+        "description": "[at noodls] - CALGARY, Alberta (August 9, 2016) - TransAlta Renewables Inc. ('TransAlta Renewables' or the 'Company') (TSX: RNW) today reported second quarter 2016 comparable EBITDA of $89 million, an increase of $36 ...",
+        "guid": "yahoo_finance/2623822233",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ntb3jf/*http://www.publicnow.com/view/1879F4A58DDFCAFECCBC22B39979DC27E06F0164",
+        "pubDate": "Tue, 09 Aug 2016 21:20:05 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "TransAlta Renewables Reports Second Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091214.news",
+        "description": "[at noodls] - CALGARY, Alberta (May 27, 2016) - TransAlta Renewables Inc. (TransAlta Renewables) (TSX: RNW) today announced that its indirect wholly-owned subsidiary, New Richmond Wind L.P. (the 'Issuer'), priced a ...",
+        "guid": "yahoo_finance/945919364",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128c2jgfh/*http://www.publicnow.com/view/E7A7AC966B9E3FB9FD1A136E77E275A9EB2F2DEC",
+        "pubDate": "Fri, 27 May 2016 22:57:04 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "TransAlta Renewables Announces Pricing of $159 Million Project Financing of a Quebec Wind Asset"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091215.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 28, 2016) - TransAlta Renewables Inc. ('TransAlta Renewables' or the 'Company') (TSX: RNW) today reported its financial results for the three months ended March 31, 2016. Comparable ...",
+        "guid": "yahoo_finance/1044880408",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128o47vq6/*http://www.publicnow.com/view/2791DAB930C39A6746D41D63F2E5A21147FC1725",
+        "pubDate": "Thu, 28 Apr 2016 12:54:05 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "TransAlta Renewables Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\RNW\\20170204-091215.news",
+        "description": "[at noodls] - CALGARY, Alberta (April 25, 2016) - TransAlta Renewables Inc. ('TransAlta Renewables') (TSX: RNW) will release its first quarter 2016 results before market open on Thursday, April 28, 2016. ... This is ...",
+        "guid": "yahoo_finance/841058135",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128mpkaht/*http://www.publicnow.com/view/55738F5A4AF1771CA9D1AB9E8F484D712949C991",
+        "pubDate": "Mon, 25 Apr 2016 16:19:17 GMT",
+        "source": "data\\RNW\\20170204.rss",
+        "title": "Media Advisory: TransAlta Renewables First Quarter 2016 Results and Annual Meeting of Shareholders"
     }
 ]

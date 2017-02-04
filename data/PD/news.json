@@ -214,5 +214,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:16:32 GMT",
         "source": "data\\PD\\20170202.rss",
         "title": "Precision Drilling Corp. breached its 50 day moving average in a Bullish Manner : PD-CA : February 2, 2017"
+    },
+    {
+        "contents": "data\\PD\\20170204-090751.news",
+        "description": null,
+        "guid": "yahoo_finance/4187394956",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13a098tkv/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-precision-drilling-corp-february-3-2017/",
+        "pubDate": "Fri, 03 Feb 2017 16:16:06 GMT",
+        "source": "data\\PD\\20170204.rss",
+        "title": "ETFs with exposure to Precision Drilling Corp. : February 3, 2017"
     }
 ]

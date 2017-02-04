@@ -583,5 +583,14 @@
         "pubDate": "Thu, 02 Feb 2017 19:30:15 GMT",
         "source": "data\\RCI-B\\20170203.rss",
         "title": "ETFs with exposure to Rogers Communications, Inc. : February 2, 2017"
+    },
+    {
+        "contents": "data\\RCI-B\\20170204-091247.news",
+        "description": null,
+        "guid": "yahoo_finance/805701383",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-income-stocks-buy-145002620.html",
+        "pubDate": "Fri, 03 Feb 2017 14:50:02 GMT",
+        "source": "data\\RCI-B\\20170204.rss",
+        "title": "Top Ranked Income Stocks to Buy for February 3rd"
     }
 ]

@@ -304,5 +304,23 @@
         "pubDate": "Mon, 30 Jan 2017 14:07:30 GMT",
         "source": "data\\WN\\20170130.rss",
         "title": "George Weston Ltd. breached its 50 day moving average in a Bearish Manner : WN-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\WN\\20170204-090357.news",
+        "description": null,
+        "guid": "yahoo_finance/3387876900",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/mexican-bakery-magnate-lorenzo-servitje-161617064.html",
+        "pubDate": "Fri, 03 Feb 2017 18:39:58 GMT",
+        "source": "data\\WN\\20170204.rss",
+        "title": "Mexican bakery magnate Lorenzo Servitje dies at 98"
+    },
+    {
+        "contents": "data\\WN\\20170204-090400.news",
+        "description": null,
+        "guid": "yahoo_finance/869788273",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mexican-bakery-magnate-lorenzo-servitje-dies-98-161625923.html",
+        "pubDate": "Fri, 03 Feb 2017 18:39:58 GMT",
+        "source": "data\\WN\\20170204.rss",
+        "title": "Mexican bakery magnate Lorenzo Servitje dies at 98"
     }
 ]

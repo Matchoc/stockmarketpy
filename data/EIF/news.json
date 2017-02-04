@@ -187,5 +187,23 @@
         "pubDate": "Thu, 19 Jan 2017 14:10:57 GMT",
         "source": "data\\EIF\\20170120.rss",
         "title": "Exchange Income Corp. breached its 50 day moving average in a Bearish Manner : EIF-CA : January 19, 2017"
+    },
+    {
+        "contents": "data\\EIF\\20170204-090901.news",
+        "description": null,
+        "guid": "yahoo_finance/381906315",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/exchange-income-corporation-announces-october-110000437.html",
+        "pubDate": "Mon, 17 Oct 2016 11:00:00 GMT",
+        "source": "data\\EIF\\20170204.rss",
+        "title": "Exchange Income Corporation Announces October 2016 Dividend"
+    },
+    {
+        "contents": "data\\EIF\\20170204-090903.news",
+        "description": null,
+        "guid": "yahoo_finance/2969272770",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14e0rmnoe/*http://www.capitalcube.com/blog/index.php/exchange-income-corp-breached-its-50-day-moving-average-in-a-bearish-manner-eif-ca-october-6-2016/",
+        "pubDate": "Thu, 06 Oct 2016 12:43:20 GMT",
+        "source": "data\\EIF\\20170204.rss",
+        "title": "Exchange Income Corp. breached its 50 day moving average in a Bearish Manner : EIF-CA : October 6, 2016"
     }
 ]

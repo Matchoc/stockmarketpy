@@ -988,5 +988,14 @@
         "pubDate": "Wed, 01 Feb 2017 19:08:40 GMT",
         "source": "data\\BBD.B\\20170202.rss",
         "title": "Bombardier and CityJet Finalize Purchase Agreement for up to 10 CRJ900 Aircraft"
+    },
+    {
+        "contents": "data\\BBD.B\\20170204-090552.news",
+        "description": "[Marketwired] - Note to Editors: There is a photo associated with this press release.",
+        "guid": "yahoo_finance/3653571290",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bombardier-global-aircraft-surpass-2-161619293.html",
+        "pubDate": "Fri, 03 Feb 2017 16:16:19 GMT",
+        "source": "data\\BBD.B\\20170204.rss",
+        "title": "Bombardier Global Aircraft Surpass 2,500 Takeoffs and Landings in Aspen"
     }
 ]

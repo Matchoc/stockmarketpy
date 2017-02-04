@@ -196,5 +196,23 @@
         "pubDate": "Wed, 03 Aug 2016 13:15:00 GMT",
         "source": "data\\ZZZ\\20170125.rss",
         "title": "Sleep Country Brings Better Sleep to Lloydminster, Alberta"
+    },
+    {
+        "contents": "data\\ZZZ\\20170204-090742.news",
+        "description": null,
+        "guid": "yahoo_finance/3747087061",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sleep-country-canada-declares-fourth-175600261.html",
+        "pubDate": "Fri, 03 Feb 2017 17:56:00 GMT",
+        "source": "data\\ZZZ\\20170204.rss",
+        "title": "Sleep Country Canada Declares Fourth Quarter 2016 Dividend"
+    },
+    {
+        "contents": "data\\ZZZ\\20170204-090744.news",
+        "description": null,
+        "guid": "yahoo_finance/4218225577",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sleep-country-canada-declares-fourth-175600517.html",
+        "pubDate": "Fri, 03 Feb 2017 17:56:00 GMT",
+        "source": "data\\ZZZ\\20170204.rss",
+        "title": "Sleep Country Canada Declares Fourth Quarter 2016 Dividend"
     }
 ]

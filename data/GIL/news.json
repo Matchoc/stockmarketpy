@@ -475,5 +475,23 @@
         "pubDate": "Wed, 23 Mar 2016 21:27:30 GMT",
         "source": "data\\GIL\\20170128.rss",
         "title": "Gildan to Present at the CIBC 19th Annual Retail & Consumer Conference"
+    },
+    {
+        "contents": "data\\GIL\\20170204-091459.news",
+        "description": null,
+        "guid": "yahoo_finance/321822048",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12t7risaj/*https://www.wsj.com/articles/american-apparel-manufacturing-plant-deal-collapses-1486151898?mod=yahoo_hs",
+        "pubDate": "Fri, 03 Feb 2017 19:58:22 GMT",
+        "source": "data\\GIL\\20170204.rss",
+        "title": "[$$] American Apparel Manufacturing Plant Deal Collapses"
+    },
+    {
+        "contents": "data\\GIL\\20170204-091500.news",
+        "description": "[Marketwired] - Gildan Activewear Inc. will report its 2016 fourth quarter and full year results on Thursday, February 23, 2017. A press release will be issued before markets open and a conference call is scheduled for ...",
+        "guid": "yahoo_finance/1296280553",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gildan-activewear-announces-fourth-quarter-151117923.html",
+        "pubDate": "Fri, 03 Feb 2017 15:11:17 GMT",
+        "source": "data\\GIL\\20170204.rss",
+        "title": "Gildan Activewear Announces Fourth Quarter and Full-Year 2016 Earnings Results and Conference Call Date"
     }
 ]

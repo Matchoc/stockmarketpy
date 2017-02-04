@@ -547,5 +547,14 @@
         "pubDate": "Thu, 02 Feb 2017 21:58:05 GMT",
         "source": "data\\CCO\\20170203.rss",
         "title": "CANADA STOCKS-TSX dips as uncertain trade outlook weighs"
+    },
+    {
+        "contents": "data\\CCO\\20170204-091308.news",
+        "description": null,
+        "guid": "yahoo_finance/2544652394",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12trec2bj/*http://www.fool.com/investing/2017/02/03/why-cameco-corp-stock-rose-over-20-in-january.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 03 Feb 2017 16:01:41 GMT",
+        "source": "data\\CCO\\20170204.rss",
+        "title": "Why Cameco Corp. Stock Rose More Than 20% in January"
     }
 ]

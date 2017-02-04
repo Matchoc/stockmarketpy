@@ -1123,5 +1123,14 @@
         "pubDate": "Tue, 23 Sep 2014 16:42:09 GMT",
         "source": "data\\POT\\20170202.rss",
         "title": "Norway's Yara, CF in talks to create $27.5 billion global fertiliser producer"
+    },
+    {
+        "contents": "data\\POT\\20170204-090109.news",
+        "description": null,
+        "guid": "yahoo_finance/3014332765",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13240usr3/*http://www.fool.com/investing/2017/02/02/5-things-you-must-know-from-potashcorps-fourth-qua.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 03 Feb 2017 14:31:16 GMT",
+        "source": "data\\POT\\20170204.rss",
+        "title": "5 Things You Must Know From PotashCorp's Fourth-Quarter Earnings Report"
     }
 ]

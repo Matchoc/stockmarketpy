@@ -304,5 +304,32 @@
         "pubDate": "Thu, 02 Feb 2017 15:36:54 GMT",
         "source": "data\\SU\\20170203.rss",
         "title": "Has Implied Volatility in Suncor Fallen ahead of Earnings?"
+    },
+    {
+        "contents": "data\\SU\\20170204-091724.news",
+        "description": null,
+        "guid": "yahoo_finance/2014086144",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-banks-232906130.html",
+        "pubDate": "Fri, 03 Feb 2017 23:29:06 GMT",
+        "source": "data\\SU\\20170204.rss",
+        "title": "CANADA STOCKS-TSX gains as banks benefit from Trump move"
+    },
+    {
+        "contents": "data\\SU\\20170204-091726.news",
+        "description": "[Marketwired] - Suncor will release its fourth quarter financial results on Feb. 8, 2017 before 8:00 p.m. MT .",
+        "guid": "yahoo_finance/3238321038",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-release-fourth-quarter-230000975.html",
+        "pubDate": "Fri, 03 Feb 2017 23:00:00 GMT",
+        "source": "data\\SU\\20170204.rss",
+        "title": "Suncor Energy to release fourth quarter 2016 financial results"
+    },
+    {
+        "contents": "data\\SU\\20170204-091728.news",
+        "description": null,
+        "guid": "yahoo_finance/805701383",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/top-ranked-income-stocks-buy-145002620.html",
+        "pubDate": "Fri, 03 Feb 2017 14:50:02 GMT",
+        "source": "data\\SU\\20170204.rss",
+        "title": "Top Ranked Income Stocks to Buy for February 3rd"
     }
 ]

@@ -817,5 +817,23 @@
         "pubDate": "Wed, 01 Feb 2017 15:00:00 GMT",
         "source": "data\\MFC\\20170202.rss",
         "title": "Manulife Investments Announces Partnership with Dimensional Fund Advisors to launch Multifactor ETFs"
+    },
+    {
+        "contents": "data\\MFC\\20170204-090811.news",
+        "description": "[CNW Group] - 2017 final year for Manulife as title sponsor of the Manulife LPGA Classic",
+        "guid": "yahoo_finance/3763567797",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/2017-final-manulife-title-sponsor-203000965.html",
+        "pubDate": "Fri, 03 Feb 2017 20:30:00 GMT",
+        "source": "data\\MFC\\20170204.rss",
+        "title": "2017 final year for Manulife as title sponsor of the Manulife LPGA Classic"
+    },
+    {
+        "contents": "data\\MFC\\20170204-090813.news",
+        "description": "[PR Newswire] - WATERLOO, Feb. 3, 2017 /CNW/ - Manulife today announced that 2017 will be the last year it will be the title sponsor of the Manulife LPGA Classic. The tournament will run from June 7-11, 2017 at Whistle Bear Golf Club in Cambridge, Ontario. \"Manulife is proud to have brought this world-class professional sporting event to the Waterloo Region for the past six years,\" said Marianne Harrison, President and CEO Manulife Canada. \"The tournament has been a great opportunity for us and one that lasted longer than we originally expected with our two extensions in 2014 and then again in 2016. \"We thank Manulife for being such a wonderful title sponsor and partner to the LPGA for the past six years,\" said LPGA Commissioner Mike Whan.",
+        "guid": "yahoo_finance/4019265429",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/2017-final-manulife-title-sponsor-203000190.html",
+        "pubDate": "Fri, 03 Feb 2017 20:30:00 GMT",
+        "source": "data\\MFC\\20170204.rss",
+        "title": "2017 final year for Manulife as title sponsor of the Manulife LPGA Classic"
     }
 ]

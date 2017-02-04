@@ -934,5 +934,14 @@
         "pubDate": "Thu, 02 Feb 2017 14:50:02 GMT",
         "source": "data\\VRX\\20170203.rss",
         "title": "7 Stocks You Should Sell Right Now"
+    },
+    {
+        "contents": "data\\VRX\\20170204-091654.news",
+        "description": null,
+        "guid": "yahoo_finance/3516867534",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132beamms/*http://www.fool.com/investing/2017/02/03/mercks-sneak-peek-into-its-drug-pricing-may-not-be.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 03 Feb 2017 15:23:08 GMT",
+        "source": "data\\VRX\\20170204.rss",
+        "title": "Merck's Sneak Peek Into Its Drug Pricing May Not Be Enough to Satisfy Skeptics"
     }
 ]

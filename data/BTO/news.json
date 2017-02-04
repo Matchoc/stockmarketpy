@@ -421,5 +421,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:26:32 GMT",
         "source": "data\\BTO\\20170202.rss",
         "title": "B2Gold: Notice of Philippines DENR (\u201cDepartment of Environment and Natural Resources\u201d) Audit Results"
+    },
+    {
+        "contents": "data\\BTO\\20170204-091414.news",
+        "description": "[Reuters] - Mali is forecasting 2017 GDP growth of 5.3 percent due to expectations of a strong grain and cotton harvest and gold production, Diakaridia Demb\u00e9l\u00e9, technical adviser at the finance ministry said on Saturday. ...",
+        "guid": "yahoo_finance/661483281",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mali-forecasts-2017-gdp-growth-120802280.html",
+        "pubDate": "Sat, 04 Feb 2017 12:08:02 GMT",
+        "source": "data\\BTO\\20170204.rss",
+        "title": "Mali forecasts 2017 GDP growth at 5.3 percent"
     }
 ]

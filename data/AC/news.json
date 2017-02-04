@@ -394,5 +394,14 @@
         "pubDate": "Thu, 02 Feb 2017 14:00:00 GMT",
         "source": "data\\AC\\20170202.rss",
         "title": "Media Advisory - Air Canada to Present Fourth Quarter and Full Year 2016 Results"
+    },
+    {
+        "contents": "data\\AC\\20170204-090805.news",
+        "description": "[CNW Group] - Media Advisory - Air Canada to Unveil the Future of Canada's Flag Carrier at Events in Toronto, Montreal and Vancouver",
+        "guid": "yahoo_finance/2769549645",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-air-canada-unveil-150000093.html",
+        "pubDate": "Fri, 03 Feb 2017 15:00:00 GMT",
+        "source": "data\\AC\\20170204.rss",
+        "title": "Media Advisory - Air Canada to Unveil the Future of Canada's Flag Carrier at Events in Toronto, Montreal and Vancouver"
     }
 ]

@@ -385,5 +385,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
         "source": "data\\AP-UN\\20170202.rss",
         "title": "Research Reports Initiated on REITs Stocks Cominar REIT, Chartwell Retirement Residences, Allied Properties REIT, and Boardwalk REIT"
+    },
+    {
+        "contents": "data\\AP-UN\\20170204-091515.news",
+        "description": null,
+        "guid": "yahoo_finance/3338662786",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/allied-properties-real-estate-investment-150906885.html",
+        "pubDate": "Fri, 03 Feb 2017 15:09:06 GMT",
+        "source": "data\\AP-UN\\20170204.rss",
+        "title": "Allied Properties Real Estate Investment Trust Provides Leasing Update for Montreal"
     }
 ]

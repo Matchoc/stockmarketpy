@@ -385,5 +385,14 @@
         "pubDate": "Thu, 21 Apr 2016 02:18:00 GMT",
         "source": "data\\FTS\\20170203.rss",
         "title": "GIC inks deal for $1.65b-worth stake in US power lines operator"
+    },
+    {
+        "contents": "data\\FTS\\20170204-090304.news",
+        "description": null,
+        "guid": "yahoo_finance/794990515",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14cph0lv9/*http://www.capitalcube.com/blog/index.php/fortis-inc-canada-breached-its-50-day-moving-average-in-a-bullish-manner-fts-ca-october-17-2016/",
+        "pubDate": "Mon, 17 Oct 2016 13:06:58 GMT",
+        "source": "data\\FTS\\20170204.rss",
+        "title": "Fortis, Inc. (Canada) breached its 50 day moving average in a Bullish Manner : FTS-CA : October 17, 2016"
     }
 ]

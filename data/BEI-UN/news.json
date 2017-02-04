@@ -196,5 +196,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
         "source": "data\\BEI-UN\\20170202.rss",
         "title": "Research Reports Initiated on REITs Stocks Cominar REIT, Chartwell Retirement Residences, Allied Properties REIT, and Boardwalk REIT"
+    },
+    {
+        "contents": "data\\BEI-UN\\20170204-091225.news",
+        "description": null,
+        "guid": "yahoo_finance/1044117216",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/boardwalk-reit-acquires-recently-built-140000129.html",
+        "pubDate": "Fri, 24 Jun 2016 14:00:00 GMT",
+        "source": "data\\BEI-UN\\20170204.rss",
+        "title": "Boardwalk REIT Acquires Recently Built Community in Calgary, Alberta"
     }
 ]

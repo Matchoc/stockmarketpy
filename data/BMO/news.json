@@ -295,5 +295,14 @@
         "pubDate": "Wed, 01 Feb 2017 17:05:06 GMT",
         "source": "data\\BMO\\20170202.rss",
         "title": "BMO Financial Group 2016 Environmental, Social and Governance Report and Public Accountability Statement Now Available Online"
+    },
+    {
+        "contents": "data\\BMO\\20170204-090950.news",
+        "description": "[Marketwired] - BMO Investments Inc. announced fee reductions across its fund lineup, along with the launch of the new series.",
+        "guid": "yahoo_finance/1423158364",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-investments-inc-announces-changes-202126580.html",
+        "pubDate": "Fri, 03 Feb 2017 20:21:26 GMT",
+        "source": "data\\BMO\\20170204.rss",
+        "title": "BMO Investments Inc. Announces Changes to Existing Funds"
     }
 ]

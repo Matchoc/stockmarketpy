@@ -394,5 +394,14 @@
         "pubDate": "Wed, 01 Feb 2017 11:00:00 GMT",
         "source": "data\\MSI\\20170201.rss",
         "title": "Morneau Shepell offers counselling support to anyone affected by recent attack on Muslim community"
+    },
+    {
+        "contents": "data\\MSI\\20170204-091023.news",
+        "description": null,
+        "guid": "yahoo_finance/612240565",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/morneau-shepell-announce-2016-fourth-165200561.html",
+        "pubDate": "Fri, 03 Feb 2017 16:52:00 GMT",
+        "source": "data\\MSI\\20170204.rss",
+        "title": "Morneau Shepell to announce 2016 fourth quarter results, and to hold conference call on Friday, March 3, 2017"
     }
 ]

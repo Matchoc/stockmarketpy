@@ -367,5 +367,32 @@
         "pubDate": "Fri, 03 Feb 2017 13:17:47 GMT",
         "source": "data\\SAP\\20170203.rss",
         "title": "Saputo, Inc. breached its 50 day moving average in a Bearish Manner : SAP-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\SAP\\20170204-091542.news",
+        "description": null,
+        "guid": "yahoo_finance/3067785035",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-sap-earnings-conference-234050831.html",
+        "pubDate": "Thu, 02 Feb 2017 23:40:50 GMT",
+        "source": "data\\SAP\\20170204.rss",
+        "title": "Edited Transcript of SAP.TO earnings conference call or presentation 2-Feb-17 7:30pm GMT"
+    },
+    {
+        "contents": "data\\SAP\\20170204-091544.news",
+        "description": null,
+        "guid": "yahoo_finance/166810932",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/saputo-profit-climbs-helped-higher-180805101.html",
+        "pubDate": "Thu, 02 Feb 2017 18:08:05 GMT",
+        "source": "data\\SAP\\20170204.rss",
+        "title": "Saputo profit climbs, helped by higher dairy prices"
+    },
+    {
+        "contents": "data\\SAP\\20170204-091547.news",
+        "description": null,
+        "guid": "yahoo_finance/3107382868",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/saputo-inc-financial-results-fiscal-173412066.html",
+        "pubDate": "Thu, 02 Feb 2017 17:34:12 GMT",
+        "source": "data\\SAP\\20170204.rss",
+        "title": "Saputo Inc.: Financial Results for Fiscal 2017 Third Quarter Ended December 31, 2016"
     }
 ]

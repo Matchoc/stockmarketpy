@@ -439,5 +439,14 @@
         "pubDate": "Tue, 31 Jan 2017 14:35:02 GMT",
         "source": "data\\MX\\20170201.rss",
         "title": "Methanex (MEOH) Earnings and Sales Beat Estimates in Q4"
+    },
+    {
+        "contents": "data\\MX\\20170204-090334.news",
+        "description": null,
+        "guid": "yahoo_finance/1079346001",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-methanex-meoh-could-positioned-135901829.html",
+        "pubDate": "Fri, 03 Feb 2017 13:59:01 GMT",
+        "source": "data\\MX\\20170204.rss",
+        "title": "Why Methanex (MEOH) Could Be Positioned for a Surge?"
     }
 ]

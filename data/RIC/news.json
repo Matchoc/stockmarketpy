@@ -448,5 +448,23 @@
         "pubDate": "Thu, 02 Feb 2017 11:30:00 GMT",
         "source": "data\\RIC\\20170202.rss",
         "title": "Richmont Announces 2017 Guidance with Island Gold Mine Positioned for Another Record Year"
+    },
+    {
+        "contents": "data\\RIC\\20170204-090933.news",
+        "description": "[CNW Group] - Richmont Mines Announces Details for 2016 Fourth Quarter and Annual Financial Results Conference Call and Webcast",
+        "guid": "yahoo_finance/502287571",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-mines-announces-details-2016-150000308.html",
+        "pubDate": "Fri, 03 Feb 2017 15:00:00 GMT",
+        "source": "data\\RIC\\20170204.rss",
+        "title": "Richmont Mines Announces Details for 2016 Fourth Quarter and Annual Financial Results Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\RIC\\20170204-090935.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 3, 2017 /PRNewswire/ - Richmont Mines Inc. (TSX - NYSE: RIC) (\"Richmont\" or the \"Corporation\"), announces that it will release the Corporations' fourth quarter and annual ...",
+        "guid": "yahoo_finance/1972224974",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/richmont-mines-announces-details-2016-150000026.html",
+        "pubDate": "Fri, 03 Feb 2017 15:00:00 GMT",
+        "source": "data\\RIC\\20170204.rss",
+        "title": "Richmont Mines Announces Details for 2016 Fourth Quarter and Annual Financial Results Conference Call and Webcast"
     }
 ]

@@ -250,5 +250,23 @@
         "pubDate": "Thu, 02 Feb 2017 11:43:39 GMT",
         "source": "data\\WJA\\20170202.rss",
         "title": "PRESS DIGEST- Canada-Feb 2"
+    },
+    {
+        "contents": "data\\WJA\\20170204-091058.news",
+        "description": null,
+        "guid": "yahoo_finance/1144499560",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-inaugurates-sudbury-170100804.html",
+        "pubDate": "Fri, 03 Feb 2017 17:01:00 GMT",
+        "source": "data\\WJA\\20170204.rss",
+        "title": "WestJet inaugurates Sudbury service"
+    },
+    {
+        "contents": "data\\WJA\\20170204-091059.news",
+        "description": null,
+        "guid": "yahoo_finance/1304732971",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-inaugurates-sudbury-170100391.html",
+        "pubDate": "Fri, 03 Feb 2017 17:01:00 GMT",
+        "source": "data\\WJA\\20170204.rss",
+        "title": "WestJet inaugurates Sudbury service"
     }
 ]
