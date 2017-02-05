@@ -430,5 +430,14 @@
         "pubDate": "Wed, 01 Feb 2017 12:38:10 GMT",
         "source": "data\\AGI\\20170201.rss",
         "title": "How the Correlations of Mining Stocks Move"
+    },
+    {
+        "contents": "data\\AGI\\20170205-090449.news",
+        "description": null,
+        "guid": "yahoo_finance/4156867950",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132n5q85u/*http://www.fool.com/investing/2017/02/04/after-surging-107-in-2016-can-alamos-gold-inc-stoc.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Sun, 05 Feb 2017 13:46:25 GMT",
+        "source": "data\\AGI\\20170205.rss",
+        "title": "Can This Little-Known Gold Stock Double Again in 2017?"
     }
 ]

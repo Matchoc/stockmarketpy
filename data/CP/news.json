@@ -628,5 +628,50 @@
         "pubDate": "Wed, 01 Feb 2017 14:29:30 GMT",
         "source": "data\\CP\\20170202.rss",
         "title": "Canadian Pacific Railway Ltd. breached its 50 day moving average in a Bearish Manner : CP-CA : February 1, 2017"
+    },
+    {
+        "contents": "data\\CP\\20170205-090638.news",
+        "description": "[at noodls] - Journey to the LPGA: #LoveMom stars Canadian golf idols CALGARY, May 3, 2016/CNW/ - Today, WestJet and Canadian Pacific revealed a mother's dayvideo celebrating Canadian golf idols, Lorie Kaneand Brooke ...",
+        "guid": "yahoo_finance/802792600",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128inj424/*http://www.publicnow.com/view/8CAD582BE770F394DCC9A99AB94116246FB4FF94",
+        "pubDate": "Tue, 03 May 2016 08:10:04 GMT",
+        "source": "data\\CP\\20170205.rss",
+        "title": "WestJet and Canadian Pacific honour moms' unconditional love in video"
+    },
+    {
+        "contents": "data\\CP\\20170205-090639.news",
+        "description": "[at noodls] - Norfolk Southern (NYSE: NSC) today issued the following statement regarding Canadian Pacific's (TSX: CP) (NYSE: CP) withdrawal of its unsolicited acquisition proposal and its related shareholder resolution: ...",
+        "guid": "yahoo_finance/660282099",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128873s82/*http://www.publicnow.com/view/D8FD3F490A61F3EC2F29754759A08AED6DFE30AE",
+        "pubDate": "Mon, 11 Apr 2016 16:34:21 GMT",
+        "source": "data\\CP\\20170205.rss",
+        "title": "Norfolk Southern comments on Canadian Pacific\u2019s withdrawal of its proposal to acquire the company and related shareholder resolution"
+    },
+    {
+        "contents": "data\\CP\\20170205-090639.news",
+        "description": "[AFP] - Canadian Pacific Railway announced Monday that it was ending its hostile takeover bid for American railway Norfolk Southern, which had fought bitterly to block a deal. \"We have long recognized that consolidation is necessary for the North American rail industry to meet the demands of a growing economy,\" CP chief executive Hunter Harrison said in a statement. CP had made several offers over the past months to acquire Norfolk Southern, for about $28 billion.",
+        "guid": "yahoo_finance/2619356225",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://au.finance.yahoo.com/news/canadian-pacific-ends-bid-acquire-090808411.html",
+        "pubDate": "Mon, 11 Apr 2016 09:08:08 GMT",
+        "source": "data\\CP\\20170205.rss",
+        "title": "Canadian Pacific ends bid to acquire Norfolk Southern"
+    },
+    {
+        "contents": "data\\CP\\20170205-090640.news",
+        "description": null,
+        "guid": "yahoo_finance/3006135990",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/exclusive-canada-railroads-cut-crude-202417322.html",
+        "pubDate": "Thu, 15 Oct 2015 20:24:17 GMT",
+        "source": "data\\CP\\20170205.rss",
+        "title": "Exclusive - Canada railroads cut crude freight rates to lure shipments"
+    },
+    {
+        "contents": "data\\CP\\20170205-090643.news",
+        "description": null,
+        "guid": "yahoo_finance/2175557987",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/canadian-pacific-approached-csx-merger-023344674.html",
+        "pubDate": "Mon, 13 Oct 2014 02:33:44 GMT",
+        "source": "data\\CP\\20170205.rss",
+        "title": "Canadian Pacific approached CSX about merger - WSJ"
     }
 ]
