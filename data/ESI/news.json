@@ -313,5 +313,14 @@
         "pubDate": "Tue, 31 Jan 2017 10:00:00 GMT",
         "source": "data\\ESI\\20170131.rss",
         "title": "Ensign Energy Services Inc. - Investor Conference Thursday, February 2, 2017"
+    },
+    {
+        "contents": "data\\ESI\\20170206-090821.news",
+        "description": null,
+        "guid": "yahoo_finance/3751531059",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14llgel07/*http://www.capitalcube.com/blog/index.php/ensign-energy-services-inc-breached-its-50-day-moving-average-in-a-bullish-manner-esi-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 12:56:55 GMT",
+        "source": "data\\ESI\\20170206.rss",
+        "title": "Ensign Energy Services, Inc. breached its 50 day moving average in a Bullish Manner : ESI-CA : February 6, 2017"
     }
 ]

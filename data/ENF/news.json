@@ -205,5 +205,14 @@
         "pubDate": "Fri, 27 Jan 2017 22:15:00 GMT",
         "source": "data\\ENF\\20170128.rss",
         "title": "Enbridge Inc. and Enbridge Income Fund Holdings Inc. to Webcast 2016 Fourth Quarter and Year End Financial Results"
+    },
+    {
+        "contents": "data\\ENF\\20170206-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/581675053",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14slnqipa/*http://www.capitalcube.com/blog/index.php/enbridge-income-fund-holdings-inc-breached-its-50-day-moving-average-in-a-bullish-manner-enf-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 13:00:58 GMT",
+        "source": "data\\ENF\\20170206.rss",
+        "title": "Enbridge Income Fund Holdings, Inc. breached its 50 day moving average in a Bullish Manner : ENF-CA : February 6, 2017"
     }
 ]

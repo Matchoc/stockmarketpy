@@ -142,5 +142,14 @@
         "pubDate": "Thu, 02 Feb 2017 15:54:53 GMT",
         "source": "data\\BBU-UN\\20170203.rss",
         "title": "EnerNOC and Brookfield Global Integrated Solutions (BGIS) Launch Strategic Partnership to Provide Advanced Energy Management to Commercial Buildings"
+    },
+    {
+        "contents": "data\\BBU-UN\\20170206-090334.news",
+        "description": "[Marketwired] - Brookfield Business Partners L.P. announced today financial results for the year ended December 31, 2016.",
+        "guid": "yahoo_finance/2440193669",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-business-partners-reports-2016-114500320.html",
+        "pubDate": "Mon, 06 Feb 2017 11:45:00 GMT",
+        "source": "data\\BBU-UN\\20170206.rss",
+        "title": "Brookfield Business Partners Reports 2016 Year End Results"
     }
 ]

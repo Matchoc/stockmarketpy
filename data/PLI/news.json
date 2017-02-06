@@ -412,5 +412,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:55:43 GMT",
         "source": "data\\PLI\\20170130.rss",
         "title": "ProMetic Life Sciences, Inc. breached its 50 day moving average in a Bullish Manner : PLI-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\PLI\\20170206-091136.news",
+        "description": "[PR Newswire] - LAVAL, QC, Feb. 6, 2017 /PRNewswire/ - ProMetic Life Sciences Inc. (PLI.TO) (PFSCF) (\"ProMetic\" or the \"Corporation\") announced today that California Capital Equity, LLC, has exercised 44,791,488 share purchase warrants at a price of $0.47 per share for total proceeds of $21,051,999.36 to the Corporation. Commenting on the exercise of warrants by California Capital Equity, LLC., Mr. Pierre Laurin, President and Chief Executive Officer of ProMetic Life Sciences Inc., said: \"We are delighted to see our long-standing relationship with Dr. Soon-Shiong, which dates back to 2008, continue to evolve as we prepare for our first commercial launch in 2017\".",
+        "guid": "yahoo_finance/1653079547",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/california-capital-equity-llc-acquires-113000673.html",
+        "pubDate": "Mon, 06 Feb 2017 11:30:00 GMT",
+        "source": "data\\PLI\\20170206.rss",
+        "title": "California Capital Equity, LLC acquires 44 million ProMetic shares through the exercise of all outstanding warrants"
+    },
+    {
+        "contents": "data\\PLI\\20170206-091138.news",
+        "description": "[CNW Group] - California Capital Equity, LLC acquires 44 million ProMetic shares through the exercise of all outstanding warrants",
+        "guid": "yahoo_finance/567380647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/california-capital-equity-llc-acquires-113000857.html",
+        "pubDate": "Mon, 06 Feb 2017 11:30:00 GMT",
+        "source": "data\\PLI\\20170206.rss",
+        "title": "California Capital Equity, LLC acquires 44 million ProMetic shares through the exercise of all outstanding warrants"
     }
 ]

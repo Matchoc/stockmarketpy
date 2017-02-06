@@ -943,5 +943,14 @@
         "pubDate": "Fri, 03 Feb 2017 15:23:08 GMT",
         "source": "data\\VRX\\20170204.rss",
         "title": "Merck's Sneak Peek Into Its Drug Pricing May Not Be Enough to Satisfy Skeptics"
+    },
+    {
+        "contents": "data\\VRX\\20170206-090104.news",
+        "description": null,
+        "guid": "yahoo_finance/618097958",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12r9pklb8/*http://www.fool.com/investing/2017/02/05/why-valeant-pharmaceuticals-rebound-fizzled.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 06 Feb 2017 11:45:01 GMT",
+        "source": "data\\VRX\\20170206.rss",
+        "title": "Why Valeant Pharmaceuticals' Rebound Fizzled"
     }
 ]

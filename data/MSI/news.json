@@ -403,5 +403,14 @@
         "pubDate": "Fri, 03 Feb 2017 16:52:00 GMT",
         "source": "data\\MSI\\20170204.rss",
         "title": "Morneau Shepell to announce 2016 fourth quarter results, and to hold conference call on Friday, March 3, 2017"
+    },
+    {
+        "contents": "data\\MSI\\20170206-090725.news",
+        "description": null,
+        "guid": "yahoo_finance/1812584071",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14eq57s38/*http://www.capitalcube.com/blog/index.php/morneau-shepell-inc-breached-its-50-day-moving-average-in-a-bullish-manner-msi-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 12:54:33 GMT",
+        "source": "data\\MSI\\20170206.rss",
+        "title": "Morneau Shepell, Inc. breached its 50 day moving average in a Bullish Manner : MSI-CA : February 6, 2017"
     }
 ]

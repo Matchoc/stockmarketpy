@@ -385,5 +385,14 @@
         "pubDate": "Tue, 22 Jul 2014 16:44:27 GMT",
         "source": "data\\QBR-B\\20170130.rss",
         "title": "Canada launches plan to extend high-speed Internet to remote areas"
+    },
+    {
+        "contents": "data\\QBR-B\\20170206-090743.news",
+        "description": null,
+        "guid": "yahoo_finance/2757657504",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/qu-bec-city-montr-al-151500142.html",
+        "pubDate": "Wed, 07 Sep 2016 15:15:00 GMT",
+        "source": "data\\QBR-B\\20170206.rss",
+        "title": "Qu\u00e9bec City and Montr\u00e9al Grands Prix Cyclistes - Thrills and spills for cycling fans, courtesy of Quebecor and TVA Sports"
     }
 ]

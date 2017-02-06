@@ -1231,5 +1231,14 @@
         "pubDate": "Fri, 03 Feb 2017 16:00:00 GMT",
         "source": "data\\TRP\\20170204.rss",
         "title": "TransCanada to Issue Fourth Quarter 2016 Financial Results and Provide an Update on its Business Outlook on February 16"
+    },
+    {
+        "contents": "data\\TRP\\20170206-091024.news",
+        "description": "[PR Newswire] - DALLAS, Feb. 6, 2017 /PRNewswire/ -- Alerian announced today that Columbia Pipeline Partners (NYSE: CPPL) is expected to be removed from the Alerian MLP Index (AMZ), Alerian MLP Equal Weight Index (AMZE), ...",
+        "guid": "yahoo_finance/3168932121",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/columbia-pipeline-partners-expected-removed-133000291.html",
+        "pubDate": "Mon, 06 Feb 2017 13:30:00 GMT",
+        "source": "data\\TRP\\20170206.rss",
+        "title": "Columbia Pipeline Partners Expected to Be Removed from the Alerian Index Series"
     }
 ]

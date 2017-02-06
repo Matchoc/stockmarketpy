@@ -817,5 +817,14 @@
         "pubDate": "Fri, 03 Feb 2017 17:36:35 GMT",
         "source": "data\\ENB\\20170204.rss",
         "title": "Enbridge Energy Management, L.L.C. Confirms Amount of Share Distribution for Fourth Quarter 2016"
+    },
+    {
+        "contents": "data\\ENB\\20170206-091357.news",
+        "description": null,
+        "guid": "yahoo_finance/816805862",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=147qo751v/*http://www.capitalcube.com/blog/index.php/enbridge-inc-breached-its-50-day-moving-average-in-a-bullish-manner-enb-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 13:00:13 GMT",
+        "source": "data\\ENB\\20170206.rss",
+        "title": "Enbridge, Inc. breached its 50 day moving average in a Bullish Manner : ENB-CA : February 6, 2017"
     }
 ]

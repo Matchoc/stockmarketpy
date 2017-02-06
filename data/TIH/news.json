@@ -295,5 +295,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:53:21 GMT",
         "source": "data\\TIH\\20170130.rss",
         "title": "Toromont Industries Ltd. breached its 50 day moving average in a Bullish Manner : TIH-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\TIH\\20170206-090034.news",
+        "description": null,
+        "guid": "yahoo_finance/3533887476",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500463.html",
+        "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
+        "source": "data\\TIH\\20170206.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Finning International, Toromont Industries, Canadian National Railway, and TFI International"
+    },
+    {
+        "contents": "data\\TIH\\20170206-090036.news",
+        "description": null,
+        "guid": "yahoo_finance/3765536762",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170206.html?t=tih.to",
+        "pubDate": "Mon, 06 Feb 2017 12:07:03 GMT",
+        "source": "data\\TIH\\20170206.rss",
+        "title": "Q4 2016 Toromont Industries Ltd Earnings Release - After Market Close"
     }
 ]

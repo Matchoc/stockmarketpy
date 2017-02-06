@@ -430,5 +430,14 @@
         "pubDate": "Sat, 04 Feb 2017 12:08:02 GMT",
         "source": "data\\BTO\\20170204.rss",
         "title": "Mali forecasts 2017 GDP growth at 5.3 percent"
+    },
+    {
+        "contents": "data\\BTO\\20170206-091130.news",
+        "description": "[GlobeNewswire] - VANCOUVER, British Columbia, Feb. 05, 2017-- B2Gold Corp. is pleased to announce fourth quarter and full-year 2016 gold production and revenue as well as production and cash cost guidance for 2017. All ...",
+        "guid": "yahoo_finance/925911690",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/b2gold-corp-reports-record-2016-021455018.html",
+        "pubDate": "Mon, 06 Feb 2017 02:14:55 GMT",
+        "source": "data\\BTO\\20170206.rss",
+        "title": "B2Gold Corp. Reports Record 2016 Gold Production; Fekola project mine construction ahead of schedule & now on target for an October 2017 production start"
     }
 ]

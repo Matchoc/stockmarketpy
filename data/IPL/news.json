@@ -403,5 +403,14 @@
         "pubDate": "Mon, 30 Jan 2017 19:04:58 GMT",
         "source": "data\\IPL\\20170131.rss",
         "title": "Inter Pipeline Ltd. : IPL-CA: Dividend Analysis : January 23rd, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\IPL\\20170206-091331.news",
+        "description": null,
+        "guid": "yahoo_finance/4277639196",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dl3h06b/*http://www.capitalcube.com/blog/index.php/inter-pipeline-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-ipl-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 12:58:34 GMT",
+        "source": "data\\IPL\\20170206.rss",
+        "title": "Inter Pipeline Ltd. breached its 50 day moving average in a Bullish Manner : IPL-CA : February 6, 2017"
     }
 ]

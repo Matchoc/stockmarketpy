@@ -880,5 +880,23 @@
         "pubDate": "Tue, 31 Jan 2017 14:00:00 GMT",
         "source": "data\\BB\\20170131.rss",
         "title": "BlackBerry Advances Global Expansion of Its AtHoc Crisis Communication Software"
+    },
+    {
+        "contents": "data\\BB\\20170206-091657.news",
+        "description": null,
+        "guid": "yahoo_finance/3835414764",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/blackberry-partners-optiemus-manufacture-handsets-060804386.html",
+        "pubDate": "Mon, 06 Feb 2017 06:08:04 GMT",
+        "source": "data\\BB\\20170206.rss",
+        "title": "BlackBerry partners with Optiemus to manufacture handsets in India"
+    },
+    {
+        "contents": "data\\BB\\20170206-091659.news",
+        "description": "[Marketwired] - BlackBerry Limited , a global software leader in securing, connecting and mobilizing enterprises, is announcing its next major agreement to license BlackBerry software and services for the production of ...",
+        "guid": "yahoo_finance/3717261899",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/blackberry-announces-next-major-mobile-045832476.html",
+        "pubDate": "Mon, 06 Feb 2017 04:58:32 GMT",
+        "source": "data\\BB\\20170206.rss",
+        "title": "BlackBerry Announces its Next Major Mobile Software Licensing Agreement with Optiemus in India"
     }
 ]

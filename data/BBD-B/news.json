@@ -916,5 +916,23 @@
         "pubDate": "Fri, 03 Feb 2017 16:16:19 GMT",
         "source": "data\\BBD-B\\20170204.rss",
         "title": "Bombardier Global Aircraft Surpass 2,500 Takeoffs and Landings in Aspen"
+    },
+    {
+        "contents": "data\\BBD-B\\20170206-091547.news",
+        "description": null,
+        "guid": "yahoo_finance/824401043",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/chinas-first-large-homemade-passenger-092338682.html",
+        "pubDate": "Mon, 06 Feb 2017 11:14:46 GMT",
+        "source": "data\\BBD-B\\20170206.rss",
+        "title": "China's first large homemade passenger jet to fly in 2017"
+    },
+    {
+        "contents": "data\\BBD-B\\20170206-091550.news",
+        "description": null,
+        "guid": "yahoo_finance/4007466869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/chinas-first-large-homemade-passenger-092338844.html",
+        "pubDate": "Mon, 06 Feb 2017 11:14:46 GMT",
+        "source": "data\\BBD-B\\20170206.rss",
+        "title": "China's first large homemade passenger jet to fly in 2017"
     }
 ]

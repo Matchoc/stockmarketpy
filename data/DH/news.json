@@ -214,5 +214,32 @@
         "pubDate": "Thu, 02 Feb 2017 13:00:00 GMT",
         "source": "data\\DH\\20170202.rss",
         "title": "White Paper Provides an Open API Survival Guide for Banks"
+    },
+    {
+        "contents": "data\\DH\\20170206-091035.news",
+        "description": null,
+        "guid": "yahoo_finance/3285572566",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500632.html",
+        "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
+        "source": "data\\DH\\20170206.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks NexJ Systems, CGI Group, Open Text, and DH Corp"
+    },
+    {
+        "contents": "data\\DH\\20170206-091037.news",
+        "description": null,
+        "guid": "yahoo_finance/1744129346",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/d-h-launches-first-major-130000485.html",
+        "pubDate": "Mon, 06 Feb 2017 13:00:00 GMT",
+        "source": "data\\DH\\20170206.rss",
+        "title": "D+H Launches First Major Automotive Lender on Its Next-Generation, Cloud Based Search and Registry Solution"
+    },
+    {
+        "contents": "data\\DH\\20170206-091038.news",
+        "description": null,
+        "guid": "yahoo_finance/134121509",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/d-h-launches-first-major-130000804.html",
+        "pubDate": "Mon, 06 Feb 2017 13:00:00 GMT",
+        "source": "data\\DH\\20170206.rss",
+        "title": "D+H Launches First Major Automotive Lender on Its Next-Generation, Cloud Based Search and Registry Solution"
     }
 ]

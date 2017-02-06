@@ -205,5 +205,14 @@
         "pubDate": "Tue, 13 Sep 2016 20:24:24 GMT",
         "source": "data\\ASR\\20170126.rss",
         "title": "Alacer Gold Corp.: Gathering momentum, can it sustain its performance?"
+    },
+    {
+        "contents": "data\\ASR\\20170206-091754.news",
+        "description": null,
+        "guid": "yahoo_finance/1697586853",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170206.html?t=asr.to",
+        "pubDate": "Mon, 06 Feb 2017 12:07:02 GMT",
+        "source": "data\\ASR\\20170206.rss",
+        "title": "Q4 2016 Alacer Gold Corp Earnings Release - After Market Close"
     }
 ]

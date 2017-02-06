@@ -376,5 +376,14 @@
         "pubDate": "Wed, 04 May 2016 20:31:08 GMT",
         "source": "data\\CRR-UN\\20170122.rss",
         "title": "Crombie REIT reports first quarter results"
+    },
+    {
+        "contents": "data\\CRR-UN\\20170206-091841.news",
+        "description": null,
+        "guid": "yahoo_finance/3394401761",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-reits-stocks-131500384.html",
+        "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
+        "source": "data\\CRR-UN\\20170206.rss",
+        "title": "Research Reports Initiated on REITs Stocks Artis REIT, Crombie REIT, Northview Apartment REIT, and Killam Apartment REIT"
     }
 ]

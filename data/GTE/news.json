@@ -205,5 +205,32 @@
         "pubDate": "Mon, 30 Jan 2017 22:32:33 GMT",
         "source": "data\\GTE\\20170131.rss",
         "title": "Gran Tierra Energy Inc. Announces Notice of Intention to Make a Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\GTE\\20170206-090637.news",
+        "description": "[Marketwired] - Gran Tierra Energy Inc. , a company focused on oil and gas exploration and production in Colombia today announces that it has received approval from the Toronto Stock Exchange to implement its previously ...",
+        "guid": "yahoo_finance/349415553",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gran-tierra-energy-inc-announces-110000065.html",
+        "pubDate": "Mon, 06 Feb 2017 11:00:00 GMT",
+        "source": "data\\GTE\\20170206.rss",
+        "title": "Gran Tierra Energy Inc. Announces Approval of Normal Course Issuer Bid"
+    },
+    {
+        "contents": "data\\GTE\\20170206-090638.news",
+        "description": "[Marketwired] - Gran Tierra Energy Inc. , a company focused on oil and gas exploration and production in Colombia, is pleased to announce that a purchase and sale agreement was executed pursuant to which Maha Energy AB ...",
+        "guid": "yahoo_finance/3240502359",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gran-tierra-energy-inc-announces-072431167.html",
+        "pubDate": "Mon, 06 Feb 2017 07:24:31 GMT",
+        "source": "data\\GTE\\20170206.rss",
+        "title": "Gran Tierra Energy Inc. Announces Sale of Brazil Business"
+    },
+    {
+        "contents": "data\\GTE\\20170206-090640.news",
+        "description": null,
+        "guid": "yahoo_finance/1301205060",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/maha-energy-ab-announces-acquisition-070201095.html",
+        "pubDate": "Mon, 06 Feb 2017 07:02:01 GMT",
+        "source": "data\\GTE\\20170206.rss",
+        "title": "Maha Energy AB: Announces the Acquisition of Gran Tierra's Brazilian Operations, a Fully Committed Directed Share Issue of SEK 91.7 MM, and a Fully Guaranteed Rights Offering of SEK 91.7 MM"
     }
 ]

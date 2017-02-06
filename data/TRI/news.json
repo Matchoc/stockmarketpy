@@ -178,5 +178,14 @@
         "pubDate": "Mon, 07 Nov 2016 15:31:02 GMT",
         "source": "data\\TRI\\20170118.rss",
         "title": "New Product Enhancements from Thomson Reuters Prioritize Greater Security, More Automated Workflow and Improved User Experience"
+    },
+    {
+        "contents": "data\\TRI\\20170206-090123.news",
+        "description": "[PR Newswire] - Acquisitions demonstrate Thomson Reuters continued commitment to solving critical industry client reference data and on-boarding challenges. NEW YORK, LONDON and SINGAPORE, Feb. 6, 2017 /PRNewswire/ -- Thomson ...",
+        "guid": "yahoo_finance/2181221400",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-further-strengthens-kyc-113000844.html",
+        "pubDate": "Mon, 06 Feb 2017 11:30:00 GMT",
+        "source": "data\\TRI\\20170206.rss",
+        "title": "Thomson Reuters Further Strengthens KYC Managed Services and Legal Entity Data Through Clarient and Avox Acquisitions"
     }
 ]

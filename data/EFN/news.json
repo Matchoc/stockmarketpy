@@ -214,5 +214,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
         "source": "data\\EFN\\20170203.rss",
         "title": "Research Reports Initiated on Financials Stocks TMX Group, GMP Capital, Element Fleet Management, and Callidus Capital"
+    },
+    {
+        "contents": "data\\EFN\\20170206-091300.news",
+        "description": null,
+        "guid": "yahoo_finance/2867756825",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/element-fleet-management-schedules-q4-120000414.html",
+        "pubDate": "Mon, 06 Feb 2017 12:00:00 GMT",
+        "source": "data\\EFN\\20170206.rss",
+        "title": "Element Fleet Management Schedules Q4 2016 Conference Call"
     }
 ]

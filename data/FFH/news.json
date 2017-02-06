@@ -907,5 +907,14 @@
         "pubDate": "Fri, 03 Feb 2017 22:45:53 GMT",
         "source": "data\\FFH\\20170204.rss",
         "title": "Fairfax Announces Conference Call"
+    },
+    {
+        "contents": "data\\FFH\\20170206-091534.news",
+        "description": null,
+        "guid": "yahoo_finance/1864874065",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/moves-brit-ltd-names-tim-100548858.html",
+        "pubDate": "Mon, 06 Feb 2017 10:05:48 GMT",
+        "source": "data\\FFH\\20170206.rss",
+        "title": "MOVES-Brit Ltd names Tim Chesson senior vice president of BGSU"
     }
 ]

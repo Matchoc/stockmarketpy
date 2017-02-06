@@ -205,5 +205,14 @@
         "pubDate": "Thu, 02 Feb 2017 13:15:00 GMT",
         "source": "data\\MRE\\20170202.rss",
         "title": "Research Reports Initiated on Autos Stocks Magna International, Linamar, Uni-Select, and Martinrea International"
+    },
+    {
+        "contents": "data\\MRE\\20170206-090604.news",
+        "description": null,
+        "guid": "yahoo_finance/2540890480",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14m9bdl0q/*http://www.capitalcube.com/blog/index.php/martinrea-international-inc-breached-its-50-day-moving-average-in-a-bullish-manner-mre-ca-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 13:02:36 GMT",
+        "source": "data\\MRE\\20170206.rss",
+        "title": "Martinrea International, Inc. breached its 50 day moving average in a Bullish Manner : MRE-CA : February 6, 2017"
     }
 ]

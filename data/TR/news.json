@@ -403,5 +403,23 @@
         "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
         "source": "data\\TR\\20170131.rss",
         "title": "Trillium Therapeutics Doses First Patient With TTI-621 in Phase 1 Solid Tumor Trial"
+    },
+    {
+        "contents": "data\\TR\\20170206-091215.news",
+        "description": null,
+        "guid": "yahoo_finance/2226157881",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trillium-reports-2015-financial-operating-223031376.html",
+        "pubDate": "Wed, 09 Mar 2016 22:30:31 GMT",
+        "source": "data\\TR\\20170206.rss",
+        "title": "Trillium Reports 2015 Financial and Operating Results"
+    },
+    {
+        "contents": "data\\TR\\20170206-091217.news",
+        "description": null,
+        "guid": "yahoo_finance/3870563742",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trillium-present-cowen-company-36th-120000881.html",
+        "pubDate": "Tue, 08 Mar 2016 12:00:00 GMT",
+        "source": "data\\TR\\20170206.rss",
+        "title": "Trillium to Present at the Cowen and Company 36th Annual Health Care Conference"
     }
 ]

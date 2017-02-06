@@ -196,5 +196,14 @@
         "pubDate": "Thu, 18 Aug 2016 16:14:08 GMT",
         "source": "data\\CMG\\20170122.rss",
         "title": "Computer Modelling Group Ltd. :CMG-CA: Earnings Analysis: Q1, 2017 By the Numbers : August 18, 2016"
+    },
+    {
+        "contents": "data\\CMG\\20170206-091634.news",
+        "description": null,
+        "guid": "yahoo_finance/1882573504",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/computer-modelling-group-announces-first-110000613.html",
+        "pubDate": "Wed, 10 Aug 2016 11:00:00 GMT",
+        "source": "data\\CMG\\20170206.rss",
+        "title": "Computer Modelling Group Announces First Quarter Results"
     }
 ]

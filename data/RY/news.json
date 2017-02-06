@@ -1312,5 +1312,23 @@
         "pubDate": "Fri, 03 Feb 2017 13:00:00 GMT",
         "source": "data\\RY\\20170203.rss",
         "title": "RBC announces 30 Black History Month Student Essay Competition scholarship winners"
+    },
+    {
+        "contents": "data\\RY\\20170206-091605.news",
+        "description": "[CNW Group] - RBC Global Asset Management Inc. announces January sales results for RBC Funds, PH&N Funds and BlueBay Funds",
+        "guid": "yahoo_finance/2531151259",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-140000101.html",
+        "pubDate": "Mon, 06 Feb 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170206.rss",
+        "title": "RBC Global Asset Management Inc. announces January sales results for RBC Funds, PH&N Funds and BlueBay Funds"
+    },
+    {
+        "contents": "data\\RY\\20170206-091606.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 6, 2017 /CNW/ - RBC Global Asset Management Inc. today announced January mutual fund net sales of $1.1 billion. Long-term funds had net sales of $1.1 billion and money market funds had net ...",
+        "guid": "yahoo_finance/2416181647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-global-asset-management-inc-140000220.html",
+        "pubDate": "Mon, 06 Feb 2017 14:00:00 GMT",
+        "source": "data\\RY\\20170206.rss",
+        "title": "RBC Global Asset Management Inc. announces January sales results for RBC Funds, PH&N Funds and BlueBay Funds"
     }
 ]

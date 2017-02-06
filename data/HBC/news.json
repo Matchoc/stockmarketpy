@@ -565,5 +565,23 @@
         "pubDate": "Fri, 03 Feb 2017 15:19:07 GMT",
         "source": "data\\HBC\\20170204.rss",
         "title": "Hudson's Bay makes takeover approach to Macy's - WSJ"
+    },
+    {
+        "contents": "data\\HBC\\20170206-090045.news",
+        "description": null,
+        "guid": "yahoo_finance/749613892",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132fr8pae/*http://www.fool.com/investing/2017/02/06/why-the-macys-hudsons-bay-co-buyout-rumors-dont-ma.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Mon, 06 Feb 2017 13:10:00 GMT",
+        "source": "data\\HBC\\20170206.rss",
+        "title": "Why the Macy's-Hudson's Bay Co. Buyout Rumors Don't Make Sense"
+    },
+    {
+        "contents": "data\\HBC\\20170206-090046.news",
+        "description": null,
+        "guid": "yahoo_finance/2544373477",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=12lk6f2cn/*http://www.barrons.com/articles/potential-macys-buyers-wont-sale-through-1486357861?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Mon, 06 Feb 2017 05:11:00 GMT",
+        "source": "data\\HBC\\20170206.rss",
+        "title": "[$$] Potential Macy's Buyers Won't Sale Through"
     }
 ]
