@@ -196,5 +196,14 @@
         "pubDate": "Thu, 02 Feb 2017 11:45:00 GMT",
         "source": "data\\DSG\\20170202.rss",
         "title": "Descartes Sets Date to Announce Fiscal 2017 Fourth Quarter and Annual Financial Results"
+    },
+    {
+        "contents": "data\\DSG\\20170207-090738.news",
+        "description": null,
+        "guid": "yahoo_finance/956917986",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13iosh3rg/*https://www.thestreet.com/story/13991916/1/these-5-small-tech-stocks-you-ve-never-heard-of-are-breaking-out.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Tue, 07 Feb 2017 12:09:00 GMT",
+        "source": "data\\DSG\\20170207.rss",
+        "title": "Here Are 5 Unknown Small-Cap Tech Stocks That Could Be About to Explode"
     }
 ]

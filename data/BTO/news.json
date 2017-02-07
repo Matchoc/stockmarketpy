@@ -439,5 +439,14 @@
         "pubDate": "Mon, 06 Feb 2017 02:14:55 GMT",
         "source": "data\\BTO\\20170206.rss",
         "title": "B2Gold Corp. Reports Record 2016 Gold Production; Fekola project mine construction ahead of schedule & now on target for an October 2017 production start"
+    },
+    {
+        "contents": "data\\BTO\\20170207-091051.news",
+        "description": null,
+        "guid": "yahoo_finance/3971672128",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/b2gold-reports-record-gold-production-193551161.html",
+        "pubDate": "Mon, 06 Feb 2017 19:35:51 GMT",
+        "source": "data\\BTO\\20170207.rss",
+        "title": "B2Gold Reports Record Gold Production for 2016"
     }
 ]

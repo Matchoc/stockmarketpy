@@ -520,5 +520,14 @@
         "pubDate": "Mon, 30 Jan 2017 18:56:53 GMT",
         "source": "data\\SJR-B\\20170202.rss",
         "title": "Shaw Communications, Inc. : SJR.B-CA: Dividend Analysis : January 13th, 2017 (record date) : By the numbers : January 30, 2017"
+    },
+    {
+        "contents": "data\\SJR-B\\20170207-090937.news",
+        "description": "[Marketwired] - CALGARY, ALBERTA-- - Shaw to donate $1 to bullying prevention programs in Canada for every social media post using #PinkShirtPromise from now to Pink Shirt Day on February 22. Shaw to support Canadian ...",
+        "guid": "yahoo_finance/766247521",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/shaw-announces-national-partnership-canadian-165145778.html",
+        "pubDate": "Mon, 06 Feb 2017 16:51:45 GMT",
+        "source": "data\\SJR-B\\20170207.rss",
+        "title": "Shaw Announces National Partnership With Canadian Red Cross and Kicks Off Campaign to End Bullying"
     }
 ]

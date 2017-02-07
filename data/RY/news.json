@@ -1330,5 +1330,41 @@
         "pubDate": "Mon, 06 Feb 2017 14:00:00 GMT",
         "source": "data\\RY\\20170206.rss",
         "title": "RBC Global Asset Management Inc. announces January sales results for RBC Funds, PH&N Funds and BlueBay Funds"
+    },
+    {
+        "contents": "data\\RY\\20170207-090904.news",
+        "description": "[PR Newswire] - Canadian equity returns remained consistent relative to global equities in 2016 TORONTO, Feb. 7, 2017 /CNW/ - Canadian defined benefit pension plans closed out 2016 with an annual return of 6.8 per cent, ...",
+        "guid": "yahoo_finance/1106059215",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-pension-assets-move-higher-130000550.html",
+        "pubDate": "Tue, 07 Feb 2017 13:00:00 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "Canadian pension assets move higher in 2016: RBC Investor & Treasury Services"
+    },
+    {
+        "contents": "data\\RY\\20170207-090906.news",
+        "description": "[CNW Group] - Canadian pension assets move higher in 2016: RBC Investor & Treasury Services",
+        "guid": "yahoo_finance/3280930509",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-pension-assets-move-higher-130000602.html",
+        "pubDate": "Tue, 07 Feb 2017 13:00:00 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "Canadian pension assets move higher in 2016: RBC Investor & Treasury Services"
+    },
+    {
+        "contents": "data\\RY\\20170207-090907.news",
+        "description": "[CNW Group] - RBC captures more than a dozen wealth management wins at 2017 Euromoney awards",
+        "guid": "yahoo_finance/2943362441",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-captures-more-dozen-wealth-160000791.html",
+        "pubDate": "Mon, 06 Feb 2017 16:00:00 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "RBC captures more than a dozen wealth management wins at 2017 Euromoney awards"
+    },
+    {
+        "contents": "data\\RY\\20170207-090909.news",
+        "description": "[PR Newswire] - Industry peers recognize RBC as the best Canadian private bank for 10th consecutive year TORONTO, Feb. 6, 2017 /CNW/ - For an outstanding 10th consecutive year, Royal Bank of Canada (RY on TSX and NYSE) ...",
+        "guid": "yahoo_finance/3702916048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rbc-captures-more-dozen-wealth-160000635.html",
+        "pubDate": "Mon, 06 Feb 2017 16:00:00 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "RBC captures more than a dozen wealth management wins at 2017 Euromoney awards"
     }
 ]

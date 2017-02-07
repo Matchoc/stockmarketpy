@@ -754,5 +754,23 @@
         "pubDate": "Fri, 09 Jan 2015 21:25:30 GMT",
         "source": "data\\SU\\20170206.rss",
         "title": "Shell to cut 5 to 10 percent of jobs at oil sands project"
+    },
+    {
+        "contents": "data\\SU\\20170207-091519.news",
+        "description": null,
+        "guid": "yahoo_finance/2880329000",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-su-beat-cards-earnings-143102130.html",
+        "pubDate": "Mon, 06 Feb 2017 14:31:02 GMT",
+        "source": "data\\SU\\20170207.rss",
+        "title": "Suncor (SU): Is a Beat in the Cards this Earnings Season?"
+    },
+    {
+        "contents": "data\\SU\\20170207-091521.news",
+        "description": null,
+        "guid": "yahoo_finance/3492194399",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/why-earnings-season-could-great-134401861.html",
+        "pubDate": "Mon, 06 Feb 2017 13:44:01 GMT",
+        "source": "data\\SU\\20170207.rss",
+        "title": "Why Earnings Season Could Be Great for Suncor Energy (SU)"
     }
 ]

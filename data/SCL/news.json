@@ -196,5 +196,14 @@
         "pubDate": "Fri, 20 Jan 2017 17:14:40 GMT",
         "source": "data\\SCL\\20170121.rss",
         "title": "ShawCor Ltd. \u2013 Value Analysis (TORONTO:SCL) : January 20, 2017"
+    },
+    {
+        "contents": "data\\SCL\\20170207-090747.news",
+        "description": null,
+        "guid": "yahoo_finance/1830499501",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500071.html",
+        "pubDate": "Tue, 07 Feb 2017 13:15:00 GMT",
+        "source": "data\\SCL\\20170207.rss",
+        "title": "Research Reports Initiated on Energy Stocks Parex Resources, Granite Oil, Trilogy Energy, and ShawCor"
     }
 ]

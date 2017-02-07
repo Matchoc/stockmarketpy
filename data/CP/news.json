@@ -673,5 +673,14 @@
         "pubDate": "Mon, 13 Oct 2014 02:33:44 GMT",
         "source": "data\\CP\\20170205.rss",
         "title": "Canadian Pacific approached CSX about merger - WSJ"
+    },
+    {
+        "contents": "data\\CP\\20170207-091256.news",
+        "description": null,
+        "guid": "yahoo_finance/1913712157",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12ir4fj8d/*http://marketrealist.com/2017/02/comparing-canadian-pacifics-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 21:29:19 GMT",
+        "source": "data\\CP\\20170207.rss",
+        "title": "Comparing Canadian Pacific\u2019s Intermodal Volumes"
     }
 ]

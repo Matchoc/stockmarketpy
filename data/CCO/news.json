@@ -556,5 +556,14 @@
         "pubDate": "Fri, 03 Feb 2017 16:01:41 GMT",
         "source": "data\\CCO\\20170204.rss",
         "title": "Why Cameco Corp. Stock Rose More Than 20% in January"
+    },
+    {
+        "contents": "data\\CCO\\20170207-090718.news",
+        "description": null,
+        "guid": "yahoo_finance/2149056670",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=132c0ms10/*http://www.capitalcube.com/blog/index.php/cameco-corp-value-analysis-torontocco-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 17:27:49 GMT",
+        "source": "data\\CCO\\20170207.rss",
+        "title": "Cameco Corp. \u2013 Value Analysis (TORONTO:CCO) : February 6, 2017"
     }
 ]

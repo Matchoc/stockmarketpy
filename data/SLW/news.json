@@ -475,5 +475,23 @@
         "pubDate": "Wed, 16 Sep 2015 21:33:11 GMT",
         "source": "data\\SLW\\20170204.rss",
         "title": "Glencore in talks on streaming deals on Chile, Peru mines - sources"
+    },
+    {
+        "contents": "data\\SLW\\20170207-090302.news",
+        "description": null,
+        "guid": "yahoo_finance/1906119559",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12mnbm2em/*http://marketrealist.com/2017/02/look-key-rating-changes-royaltystreaming-companies/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:36:04 GMT",
+        "source": "data\\SLW\\20170207.rss",
+        "title": "A Look at Key Ratings Changes for Royalty and Streaming Companies"
+    },
+    {
+        "contents": "data\\SLW\\20170207-090303.news",
+        "description": null,
+        "guid": "yahoo_finance/1672085532",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=134d563h1/*http://marketrealist.com/2017/02/analysts-rate-royaltystreaming-companies-fed-hike-fears-continue/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 20:55:26 GMT",
+        "source": "data\\SLW\\20170207.rss",
+        "title": "How Analysts Rate Royalty, Streaming Companies amid Rate Fears"
     }
 ]

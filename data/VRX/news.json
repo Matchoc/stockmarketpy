@@ -952,5 +952,32 @@
         "pubDate": "Mon, 06 Feb 2017 11:45:01 GMT",
         "source": "data\\VRX\\20170206.rss",
         "title": "Why Valeant Pharmaceuticals' Rebound Fizzled"
+    },
+    {
+        "contents": "data\\VRX\\20170207-090325.news",
+        "description": null,
+        "guid": "yahoo_finance/728951472",
+        "link": "http://us.rd.yahoo.com/finance/external/cbsm/rss/SIG=11iiumket/*http://www.marketwatch.com/News/Story/Story.aspx?guid=0EFC6E1D-A186-49BE-8EB7-E52970C48FA9&siteid=yhoof2",
+        "pubDate": "Tue, 07 Feb 2017 13:24:12 GMT",
+        "source": "data\\VRX\\20170207.rss",
+        "title": "Perrigo says it has filed for FDA approval for a generic version of Valeant's acne gel"
+    },
+    {
+        "contents": "data\\VRX\\20170207-090326.news",
+        "description": null,
+        "guid": "yahoo_finance/1808955394",
+        "link": "http://us.rd.yahoo.com/finance/external/cbsm/rss/SIG=11iiumket/*http://www.marketwatch.com/News/Story/Story.aspx?guid=5370191A-E46D-4208-A85D-E2AD1A611BED&siteid=yhoof2",
+        "pubDate": "Tue, 07 Feb 2017 13:24:12 GMT",
+        "source": "data\\VRX\\20170207.rss",
+        "title": "Perrigo says it has filed for FDA approval for a generic version of Valeant's acne gel"
+    },
+    {
+        "contents": "data\\VRX\\20170207-090326.news",
+        "description": null,
+        "guid": "yahoo_finance/631079776",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=145m485i9/*http://blogs.barrons.com/stockstowatchtoday/2017/02/06/valeant-pharmaceuticals-why-this-earnings-report-is-really-really-important/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Mon, 06 Feb 2017 16:53:00 GMT",
+        "source": "data\\VRX\\20170207.rss",
+        "title": "Valeant Pharmaceuticals: Why This Earnings Report is Really, Really Important"
     }
 ]

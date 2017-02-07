@@ -223,5 +223,14 @@
         "pubDate": "Mon, 30 Jan 2017 22:30:00 GMT",
         "source": "data\\MIC\\20170131.rss",
         "title": "Genworth Canada: Finance Committee Submission Canadian Real Estate Market and Home Ownership"
+    },
+    {
+        "contents": "data\\MIC\\20170207-090031.news",
+        "description": null,
+        "guid": "yahoo_finance/2135388485",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170207.html?t=mic.to",
+        "pubDate": "Tue, 07 Feb 2017 12:07:05 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Q4 2016 Genworth MI Canada Inc Earnings Release - After Market Close"
     }
 ]

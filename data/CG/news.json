@@ -412,5 +412,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:30:00 GMT",
         "source": "data\\CG\\20170125.rss",
         "title": "Centerra Gold Hedges Portion of 2017 Copper Production"
+    },
+    {
+        "contents": "data\\CG\\20170207-091615.news",
+        "description": null,
+        "guid": "yahoo_finance/2353484872",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14bsokf9u/*http://www.capitalcube.com/blog/index.php/centerra-gold-inc-breached-its-50-day-moving-average-in-a-bullish-manner-cg-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:14:08 GMT",
+        "source": "data\\CG\\20170207.rss",
+        "title": "Centerra Gold, Inc. breached its 50 day moving average in a Bullish Manner : CG-CA : February 7, 2017"
     }
 ]

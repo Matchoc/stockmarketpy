@@ -727,5 +727,14 @@
         "pubDate": "Thu, 04 Sep 2014 12:10:34 GMT",
         "source": "data\\BMO\\20170206.rss",
         "title": "Simcorp eyes U.S. pick up next year after management change"
+    },
+    {
+        "contents": "data\\BMO\\20170207-090543.news",
+        "description": "[Marketwired] - BMO Financial Group released the second installment of its annual RRSP study today showing that though funding a home purchase remains a top reason to withdraw from their RRSPs , Canadians continue to ...",
+        "guid": "yahoo_finance/3613940859",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-annual-rrsp-study-canadians-130000779.html",
+        "pubDate": "Tue, 07 Feb 2017 13:00:00 GMT",
+        "source": "data\\BMO\\20170207.rss",
+        "title": "BMO Annual RRSP Study: Canadians Using RRSPs to Fund Everyday Expenses and Debt Repayment"
     }
 ]

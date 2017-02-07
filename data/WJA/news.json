@@ -268,5 +268,77 @@
         "pubDate": "Fri, 03 Feb 2017 17:01:00 GMT",
         "source": "data\\WJA\\20170204.rss",
         "title": "WestJet inaugurates Sudbury service"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090040.news",
+        "description": null,
+        "guid": "yahoo_finance/640275706",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=13as2p39j/*https://www.wsj.com/articles/westjet-posts-profit-decline-on-higher-fuel-and-maintenancecosts-1486472927?mod=yahoo_hs",
+        "pubDate": "Tue, 07 Feb 2017 13:21:14 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "[$$] WestJet Posts Profit Decline"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090040.news",
+        "description": null,
+        "guid": "yahoo_finance/1883694522",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170207.html?t=wja.to",
+        "pubDate": "Tue, 07 Feb 2017 12:07:05 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "Q4 2016 WestJet Airlines Ltd Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090041.news",
+        "description": null,
+        "guid": "yahoo_finance/3257366820",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-airlines-quarterly-profit-beats-115808470.html",
+        "pubDate": "Tue, 07 Feb 2017 11:58:08 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "WestJet Airlines quarterly profit beats estimates"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090043.news",
+        "description": null,
+        "guid": "yahoo_finance/2522648570",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-westjet-airlines-profit-falls-113530163.html",
+        "pubDate": "Tue, 07 Feb 2017 11:35:30 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "Canada's WestJet Airlines' profit falls 13 pct"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090113.news",
+        "description": null,
+        "guid": "yahoo_finance/3328132598",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-reports-fourth-quarter-full-113000468.html",
+        "pubDate": "Tue, 07 Feb 2017 11:30:00 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "WestJet reports fourth quarter and full-year results"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090118.news",
+        "description": "[PR Newswire] - Airline flies a record number of guests and achieves its 47 th consecutive profitable quarter CALGARY, Feb. 7, 2017 /PRNewswire/ - WestJet (TSX: WJA) today announced its fourth quarter and year-end results ...",
+        "guid": "yahoo_finance/4287349668",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjet-reports-fourth-quarter-full-113000444.html",
+        "pubDate": "Tue, 07 Feb 2017 11:30:00 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "WestJet reports fourth quarter and full-year results"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090122.news",
+        "description": null,
+        "guid": "yahoo_finance/2138010547",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjets-forecast-2017-rewarding-171600702.html",
+        "pubDate": "Mon, 06 Feb 2017 17:16:00 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "WestJet's forecast for 2017? Rewarding"
+    },
+    {
+        "contents": "data\\WJA\\20170207-090124.news",
+        "description": null,
+        "guid": "yahoo_finance/115808040",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/westjets-forecast-2017-rewarding-171600691.html",
+        "pubDate": "Mon, 06 Feb 2017 17:16:00 GMT",
+        "source": "data\\WJA\\20170207.rss",
+        "title": "WestJet's forecast for 2017? Rewarding"
     }
 ]

@@ -628,5 +628,32 @@
         "pubDate": "Fri, 03 Feb 2017 13:04:00 GMT",
         "source": "data\\YRI\\20170203.rss",
         "title": "Gold Is in Recovery Mode -- Here's How to Trade It"
+    },
+    {
+        "contents": "data\\YRI\\20170207-091236.news",
+        "description": null,
+        "guid": "yahoo_finance/490635125",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12mbq2nf7/*http://marketrealist.com/2017/02/keeping-tab-rating-changes-intermediate-gold-space/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 07 Feb 2017 12:36:48 GMT",
+        "source": "data\\YRI\\20170207.rss",
+        "title": "Keeping a Tab on Ratings Changes in the Intermediate Gold Space"
+    },
+    {
+        "contents": "data\\YRI\\20170207-091237.news",
+        "description": null,
+        "guid": "yahoo_finance/1199729637",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12fhmjb2j/*http://marketrealist.com/2017/02/analyzing-the-volatility-of-mining-stocks-2/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 16:05:43 GMT",
+        "source": "data\\YRI\\20170207.rss",
+        "title": "Analyzing the Volatility of Mining Stocks"
+    },
+    {
+        "contents": "data\\YRI\\20170207-091238.news",
+        "description": null,
+        "guid": "yahoo_finance/3356834253",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12c6e46cb/*http://marketrealist.com/2017/02/how-are-mining-stocks-correlated-to-gold/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 14:29:06 GMT",
+        "source": "data\\YRI\\20170207.rss",
+        "title": "How Are Mining Stocks Correlated to Gold?"
     }
 ]

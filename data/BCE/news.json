@@ -988,5 +988,23 @@
         "pubDate": "Thu, 02 Feb 2017 23:33:47 GMT",
         "source": "data\\BCE\\20170203.rss",
         "title": "Edited Transcript of BCE.TO earnings conference call or presentation 2-Feb-17 1:00pm GMT"
+    },
+    {
+        "contents": "data\\BCE\\20170207-091749.news",
+        "description": null,
+        "guid": "yahoo_finance/401876075",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-feb-7-111907934.html",
+        "pubDate": "Tue, 07 Feb 2017 11:19:07 GMT",
+        "source": "data\\BCE\\20170207.rss",
+        "title": "PRESS DIGEST- Canada-Feb 7"
+    },
+    {
+        "contents": "data\\BCE\\20170207-091750.news",
+        "description": null,
+        "guid": "yahoo_finance/3115729263",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13kqahekf/*http://www.capitalcube.com/blog/index.php/bce-inc-bce-ca-earnings-analysis-q4-2016-by-the-numbers-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 14:04:29 GMT",
+        "source": "data\\BCE\\20170207.rss",
+        "title": "BCE, Inc. :BCE-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 6, 2017"
     }
 ]

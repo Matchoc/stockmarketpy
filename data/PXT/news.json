@@ -241,5 +241,32 @@
         "pubDate": "Fri, 20 Jan 2017 18:52:33 GMT",
         "source": "data\\PXT\\20170121.rss",
         "title": "ETFs with exposure to Parex Resources, Inc. : January 20, 2017"
+    },
+    {
+        "contents": "data\\PXT\\20170207-090348.news",
+        "description": null,
+        "guid": "yahoo_finance/1830499501",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-energy-stocks-131500071.html",
+        "pubDate": "Tue, 07 Feb 2017 13:15:00 GMT",
+        "source": "data\\PXT\\20170207.rss",
+        "title": "Research Reports Initiated on Energy Stocks Parex Resources, Granite Oil, Trilogy Energy, and ShawCor"
+    },
+    {
+        "contents": "data\\PXT\\20170207-090350.news",
+        "description": null,
+        "guid": "yahoo_finance/1738679929",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/parex-resources-increases-2p-reserves-222011573.html",
+        "pubDate": "Mon, 06 Feb 2017 22:20:11 GMT",
+        "source": "data\\PXT\\20170207.rss",
+        "title": "Parex Resources Increases 2P Reserves to 112 MMboe and Delivers 2P RLI of 10 years"
+    },
+    {
+        "contents": "data\\PXT\\20170207-090352.news",
+        "description": null,
+        "guid": "yahoo_finance/3311819262",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/parex-announces-executive-board-directors-220500340.html",
+        "pubDate": "Mon, 06 Feb 2017 22:05:00 GMT",
+        "source": "data\\PXT\\20170207.rss",
+        "title": "Parex Announces Executive and Board of Directors Appointments"
     }
 ]

@@ -916,5 +916,32 @@
         "pubDate": "Mon, 06 Feb 2017 10:05:48 GMT",
         "source": "data\\FFH\\20170206.rss",
         "title": "MOVES-Brit Ltd names Tim Chesson senior vice president of BGSU"
+    },
+    {
+        "contents": "data\\FFH\\20170207-091536.news",
+        "description": null,
+        "guid": "yahoo_finance/1416972274",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=136q099a5/*http://www.bloomberg.com/news/videos/2017-02-07/fairfax-said-to-raise-about-500m-for-new-africa-fund?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 00:23:13 GMT",
+        "source": "data\\FFH\\20170207.rss",
+        "title": "Fairfax Said to Raise About $500M for New Africa Fund"
+    },
+    {
+        "contents": "data\\FFH\\20170207-091537.news",
+        "description": null,
+        "guid": "yahoo_finance/738487591",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1358bac3f/*https://www.wsj.com/articles/performance-sports-wins-approval-for-575-million-asset-sale-1486410909?mod=yahoo_hs",
+        "pubDate": "Mon, 06 Feb 2017 20:10:35 GMT",
+        "source": "data\\FFH\\20170207.rss",
+        "title": "[$$] Performance Sports Wins Approval for $575 Million Asset Sale"
+    },
+    {
+        "contents": "data\\FFH\\20170207-091537.news",
+        "description": null,
+        "guid": "yahoo_finance/2499852471",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fairfax-said-raise-500-million-160226082.html",
+        "pubDate": "Mon, 06 Feb 2017 16:02:26 GMT",
+        "source": "data\\FFH\\20170207.rss",
+        "title": "Fairfax Said to Raise About $500 Million for New Africa Fund"
     }
 ]

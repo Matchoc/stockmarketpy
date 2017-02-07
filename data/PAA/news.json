@@ -223,5 +223,32 @@
         "pubDate": "Tue, 31 Jan 2017 21:27:18 GMT",
         "source": "data\\PAA\\20170201.rss",
         "title": "Trump Policies, Comments Send Investors Rushing Into Gold"
+    },
+    {
+        "contents": "data\\PAA\\20170207-090316.news",
+        "description": null,
+        "guid": "yahoo_finance/3968105253",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12eqtilg5/*http://marketrealist.com/2017/02/affecting-ratings-silver-miners-enter-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:36:09 GMT",
+        "source": "data\\PAA\\20170207.rss",
+        "title": "What\u2019s Affecting Ratings for Silver Miners as We Enter 2017?"
+    },
+    {
+        "contents": "data\\PAA\\20170207-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/3861761919",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12k7dnn9r/*http://realmoney.thestreet.com/articles/02/06/2017/pan-american-silver-ready-shine?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 06 Feb 2017 20:12:00 GMT",
+        "source": "data\\PAA\\20170207.rss",
+        "title": "Pan American Silver Ready to Shine"
+    },
+    {
+        "contents": "data\\PAA\\20170207-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/1199729637",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12fhmjb2j/*http://marketrealist.com/2017/02/analyzing-the-volatility-of-mining-stocks-2/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 16:05:43 GMT",
+        "source": "data\\PAA\\20170207.rss",
+        "title": "Analyzing the Volatility of Mining Stocks"
     }
 ]

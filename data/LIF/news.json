@@ -259,5 +259,14 @@
         "pubDate": "Mon, 02 May 2016 23:00:09 GMT",
         "source": "data\\LIF\\20170204.rss",
         "title": "Labrador Iron Ore Royalty Corporation - Results For The First Quarter Ended March 31, 2016"
+    },
+    {
+        "contents": "data\\LIF\\20170207-090818.news",
+        "description": null,
+        "guid": "yahoo_finance/2529421767",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14pmpbm0m/*http://www.capitalcube.com/blog/index.php/labrador-iron-ore-royalty-corp-breached-its-50-day-moving-average-in-a-bearish-manner-lif-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:21:32 GMT",
+        "source": "data\\LIF\\20170207.rss",
+        "title": "Labrador Iron Ore Royalty Corp. breached its 50 day moving average in a Bearish Manner : LIF-CA : February 7, 2017"
     }
 ]

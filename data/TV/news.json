@@ -412,5 +412,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
         "source": "data\\TV\\20170203.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Nevsun Resources, Trevali Mining, First Quantum Minerals, and Kinross Gold"
+    },
+    {
+        "contents": "data\\TV\\20170207-090637.news",
+        "description": null,
+        "guid": "yahoo_finance/3848878864",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14dorm5ak/*http://www.capitalcube.com/blog/index.php/trevali-mining-corp-breached-its-50-day-moving-average-in-a-bearish-manner-tv-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:19:53 GMT",
+        "source": "data\\TV\\20170207.rss",
+        "title": "Trevali Mining Corp. breached its 50 day moving average in a Bearish Manner : TV-CA : February 7, 2017"
     }
 ]

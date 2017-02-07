@@ -313,5 +313,14 @@
         "pubDate": "Mon, 06 Feb 2017 12:07:03 GMT",
         "source": "data\\TIH\\20170206.rss",
         "title": "Q4 2016 Toromont Industries Ltd Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\TIH\\20170207-090132.news",
+        "description": null,
+        "guid": "yahoo_finance/2212227795",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/toromont-announces-2016-results-6-220105807.html",
+        "pubDate": "Mon, 06 Feb 2017 22:01:05 GMT",
+        "source": "data\\TIH\\20170207.rss",
+        "title": "Toromont Announces 2016 Results and 6% Increase in Quarterly Dividend"
     }
 ]

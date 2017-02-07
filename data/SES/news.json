@@ -358,5 +358,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:22:36 GMT",
         "source": "data\\SES\\20170203.rss",
         "title": "Secure Energy Services, Inc. breached its 50 day moving average in a Bearish Manner : SES-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\SES\\20170207-091744.news",
+        "description": null,
+        "guid": "yahoo_finance/380431208",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13hcjduna/*http://www.capitalcube.com/blog/index.php/secure-energy-services-inc-value-analysis-torontoses-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 17:53:07 GMT",
+        "source": "data\\SES\\20170207.rss",
+        "title": "Secure Energy Services, Inc. \u2013 Value Analysis (TORONTO:SES) : February 6, 2017"
     }
 ]

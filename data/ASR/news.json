@@ -214,5 +214,14 @@
         "pubDate": "Mon, 06 Feb 2017 12:07:02 GMT",
         "source": "data\\ASR\\20170206.rss",
         "title": "Q4 2016 Alacer Gold Corp Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\ASR\\20170207-090615.news",
+        "description": null,
+        "guid": "yahoo_finance/1668720907",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alacer-gold-announces-2016-end-215112158.html",
+        "pubDate": "Mon, 06 Feb 2017 21:51:12 GMT",
+        "source": "data\\ASR\\20170207.rss",
+        "title": "Alacer Gold Announces 2016 Year-End Operating and Financial Results"
     }
 ]

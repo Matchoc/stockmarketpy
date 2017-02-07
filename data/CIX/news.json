@@ -385,5 +385,14 @@
         "pubDate": "Wed, 01 Feb 2017 14:15:00 GMT",
         "source": "data\\CIX\\20170202.rss",
         "title": "CI Investments becomes signatory to UN Principles for Responsible Investing"
+    },
+    {
+        "contents": "data\\CIX\\20170207-091608.news",
+        "description": null,
+        "guid": "yahoo_finance/428514599",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/buzz-ci-investments-sharply-cuts-185507018.html",
+        "pubDate": "Mon, 06 Feb 2017 18:55:07 GMT",
+        "source": "data\\CIX\\20170207.rss",
+        "title": "BUZZ-CI Investments sharply cuts gold holdings in Q4 2016 -filing"
     }
 ]

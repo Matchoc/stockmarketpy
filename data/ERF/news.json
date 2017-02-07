@@ -394,5 +394,14 @@
         "pubDate": "Tue, 31 Jan 2017 11:00:00 GMT",
         "source": "data\\ERF\\20170131.rss",
         "title": "Enerplus Announces 2017 Budget, Operational Update and Three-Year Production Outlook"
+    },
+    {
+        "contents": "data\\ERF\\20170207-090829.news",
+        "description": null,
+        "guid": "yahoo_finance/1637109153",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=148jo1bmn/*http://www.capitalcube.com/blog/index.php/enerplus-corp-breached-its-50-day-moving-average-in-a-bearish-manner-erf-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:16:41 GMT",
+        "source": "data\\ERF\\20170207.rss",
+        "title": "Enerplus Corp. breached its 50 day moving average in a Bearish Manner : ERF-CA : February 7, 2017"
     }
 ]

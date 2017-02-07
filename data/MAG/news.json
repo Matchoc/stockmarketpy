@@ -268,5 +268,14 @@
         "pubDate": "Tue, 23 Feb 2016 13:01:00 GMT",
         "source": "data\\MAG\\20170123.rss",
         "title": "IIROC Trade Resumption - MAG"
+    },
+    {
+        "contents": "data\\MAG\\20170207-091313.news",
+        "description": null,
+        "guid": "yahoo_finance/359680203",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mag-silver-mag-looks-good-130001988.html",
+        "pubDate": "Tue, 07 Feb 2017 13:00:01 GMT",
+        "source": "data\\MAG\\20170207.rss",
+        "title": "MAG Silver (MAG) Looks Good: Stock Adds 6.3% in Session"
     }
 ]

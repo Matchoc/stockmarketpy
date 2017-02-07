@@ -502,5 +502,14 @@
         "pubDate": "Mon, 08 Sep 2014 15:59:45 GMT",
         "source": "data\\IMG\\20170204.rss",
         "title": "Britain sends military to fight Ebola as firms urge more action"
+    },
+    {
+        "contents": "data\\IMG\\20170207-091113.news",
+        "description": null,
+        "guid": "yahoo_finance/3318689577",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1327291kt/*http://marketrealist.com/2017/02/eldorado-gold-analysts-favorite-among-intermediate-gold-miners/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:35:57 GMT",
+        "source": "data\\IMG\\20170207.rss",
+        "title": "Why Is Eldorado Gold a Favorite among Intermediate Gold Miners?"
     }
 ]

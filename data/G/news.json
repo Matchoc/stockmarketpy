@@ -367,5 +367,59 @@
         "pubDate": "Fri, 03 Feb 2017 13:00:19 GMT",
         "source": "data\\G\\20170203.rss",
         "title": "10 Biggest Gold Mining Companies In The World"
+    },
+    {
+        "contents": "data\\G\\20170207-091035.news",
+        "description": "[Marketwired] - Press Release Highlights:Finalists will pitch their disruptive technology \"shark-tank\" style to:David Harquail, CEO, Franco-Nevada CorporationRobert Herjavec, CEO, Herjavec Group and judge on ...",
+        "guid": "yahoo_finance/528531708",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/finalists-disruptmining-event-face-impressive-140000295.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Finalists at #DisruptMining Event to Face Impressive Line-up of Judges"
+    },
+    {
+        "contents": "data\\G\\20170207-091036.news",
+        "description": "[CNW Group] - Finalists at #DISRUPTMINING Event to Face Impressive Line-up of Judges",
+        "guid": "yahoo_finance/3734345535",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/finalists-disruptmining-event-face-impressive-140000359.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Finalists at #DISRUPTMINING Event to Face Impressive Line-up of Judges"
+    },
+    {
+        "contents": "data\\G\\20170207-091039.news",
+        "description": "[PR Newswire] - (All Amounts in $CAD) Highlights: Finalists will pitch their disruptive technology \"shark-tank\" style to: David Harquail, CEO, Franco-Nevada Corporation Robert Herjavec, CEO, Herjavec Group and ...",
+        "guid": "yahoo_finance/3137132644",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/finalists-disruptmining-event-face-impressive-140000787.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Finalists at #DISRUPTMINING Event to Face Impressive Line-up of Judges"
+    },
+    {
+        "contents": "data\\G\\20170207-091043.news",
+        "description": null,
+        "guid": "yahoo_finance/719551338",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13078gf1q/*http://www.fool.com/investing/2017/02/07/better-buy-franco-nevada-corporation-vs-goldcorp.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 07 Feb 2017 13:41:10 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Better Buy: Franco-Nevada Corporation vs. Goldcorp"
+    },
+    {
+        "contents": "data\\G\\20170207-091044.news",
+        "description": null,
+        "guid": "yahoo_finance/221071380",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12f2stgms/*http://marketrealist.com/2017/02/ratings-senior-gold-miners-changed-recently/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:35:52 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "How Have Ratings for Senior Gold Miners Changed Recently?"
+    },
+    {
+        "contents": "data\\G\\20170207-091045.news",
+        "description": null,
+        "guid": "yahoo_finance/1673144226",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1273vducq/*http://marketrealist.com/2017/02/senior-gold-miners-analysts-betting/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 20:55:26 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Which Senior Gold Miners Are Analysts Watching?"
     }
 ]

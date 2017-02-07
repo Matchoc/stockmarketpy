@@ -367,5 +367,32 @@
         "pubDate": "Tue, 31 Jan 2017 13:15:00 GMT",
         "source": "data\\FR\\20170131.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks First Majestic Silver, Laramide Resources, NGEx Resources, and Champion Iron"
+    },
+    {
+        "contents": "data\\FR\\20170207-090513.news",
+        "description": null,
+        "guid": "yahoo_finance/3530984763",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12c3v4lkq/*http://marketrealist.com/2017/02/latest-rating-changes-silver-miners-mean/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 07 Feb 2017 12:36:50 GMT",
+        "source": "data\\FR\\20170207.rss",
+        "title": "Latest Rating Changes for Silver Miners: What Do They Mean?"
+    },
+    {
+        "contents": "data\\FR\\20170207-090514.news",
+        "description": null,
+        "guid": "yahoo_finance/3968105253",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12eqtilg5/*http://marketrealist.com/2017/02/affecting-ratings-silver-miners-enter-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:36:09 GMT",
+        "source": "data\\FR\\20170207.rss",
+        "title": "What\u2019s Affecting Ratings for Silver Miners as We Enter 2017?"
+    },
+    {
+        "contents": "data\\FR\\20170207-090515.news",
+        "description": null,
+        "guid": "yahoo_finance/843717328",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132l0i5us/*http://www.fool.com/investing/2017/02/06/why-advanced-micro-devices-cabot-oil-gas-and-first.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Mon, 06 Feb 2017 22:25:00 GMT",
+        "source": "data\\FR\\20170207.rss",
+        "title": "Why Advanced Micro Devices, Cabot Oil & Gas, and First Majestic Silver Jumped Today"
     }
 ]

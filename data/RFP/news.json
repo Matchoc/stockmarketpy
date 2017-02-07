@@ -511,5 +511,14 @@
         "pubDate": "Fri, 03 Feb 2017 19:40:59 GMT",
         "source": "data\\RFP\\20170204.rss",
         "title": "Resolute Forest Products, Inc. :RFP-CA: Earnings Analysis: 2016 By the Numbers : February 3, 2017"
+    },
+    {
+        "contents": "data\\RFP\\20170207-091807.news",
+        "description": null,
+        "guid": "yahoo_finance/2050820288",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=149ghvpeh/*http://www.capitalcube.com/blog/index.php/resolute-forest-products-inc-rfp-ca-earnings-analysis-q4-2016-by-the-numbers-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 14:26:51 GMT",
+        "source": "data\\RFP\\20170207.rss",
+        "title": "Resolute Forest Products, Inc. :RFP-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 6, 2017"
     }
 ]

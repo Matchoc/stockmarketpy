@@ -250,5 +250,23 @@
         "pubDate": "Thu, 02 Feb 2017 06:00:00 GMT",
         "source": "data\\THO\\20170202.rss",
         "title": "Tahoe Resources Declares Second Monthly Dividend For 2017"
+    },
+    {
+        "contents": "data\\THO\\20170207-090715.news",
+        "description": null,
+        "guid": "yahoo_finance/3530984763",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12c3v4lkq/*http://marketrealist.com/2017/02/latest-rating-changes-silver-miners-mean/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 07 Feb 2017 12:36:50 GMT",
+        "source": "data\\THO\\20170207.rss",
+        "title": "Latest Rating Changes for Silver Miners: What Do They Mean?"
+    },
+    {
+        "contents": "data\\THO\\20170207-090715.news",
+        "description": null,
+        "guid": "yahoo_finance/3968105253",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12eqtilg5/*http://marketrealist.com/2017/02/affecting-ratings-silver-miners-enter-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:36:09 GMT",
+        "source": "data\\THO\\20170207.rss",
+        "title": "What\u2019s Affecting Ratings for Silver Miners as We Enter 2017?"
     }
 ]

@@ -772,5 +772,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
         "source": "data\\CNR\\20170206.rss",
         "title": "Research Reports Initiated on Industrials Stocks Finning International, Toromont Industries, Canadian National Railway, and TFI International"
+    },
+    {
+        "contents": "data\\CNR\\20170207-091305.news",
+        "description": null,
+        "guid": "yahoo_finance/2225479277",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12g2v9jn0/*http://marketrealist.com/2017/02/behind-canadian-nationals-intermodal-volumes/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Tue, 07 Feb 2017 12:37:04 GMT",
+        "source": "data\\CNR\\20170207.rss",
+        "title": "Behind Canadian National\u2019s Intermodal Volumes"
     }
 ]

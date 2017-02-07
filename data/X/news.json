@@ -457,5 +457,41 @@
         "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
         "source": "data\\X\\20170203.rss",
         "title": "Research Reports Initiated on Financials Stocks TMX Group, GMP Capital, Element Fleet Management, and Callidus Capital"
+    },
+    {
+        "contents": "data\\X\\20170207-090409.news",
+        "description": null,
+        "guid": "yahoo_finance/1490485285",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/toronto-stock-exchange-tsx-venture-140000122.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\X\\20170207.rss",
+        "title": "Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange and Montr\u00e9al Exchange Closed for Family Day"
+    },
+    {
+        "contents": "data\\X\\20170207-090411.news",
+        "description": null,
+        "guid": "yahoo_finance/1725793870",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/toronto-stock-exchange-tsx-venture-140000170.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\X\\20170207.rss",
+        "title": "Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange and Montr\u00e9al Exchange Closed for Family Day"
+    },
+    {
+        "contents": "data\\X\\20170207-090412.news",
+        "description": null,
+        "guid": "yahoo_finance/3583339862",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-consolidated-trading-statistics-144700154.html",
+        "pubDate": "Mon, 06 Feb 2017 14:47:00 GMT",
+        "source": "data\\X\\20170207.rss",
+        "title": "TMX Group Consolidated Trading Statistics - January 2017"
+    },
+    {
+        "contents": "data\\X\\20170207-090414.news",
+        "description": null,
+        "guid": "yahoo_finance/97998060",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-consolidated-trading-statistics-144700822.html",
+        "pubDate": "Mon, 06 Feb 2017 14:47:00 GMT",
+        "source": "data\\X\\20170207.rss",
+        "title": "TMX Group Consolidated Trading Statistics - January 2017"
     }
 ]

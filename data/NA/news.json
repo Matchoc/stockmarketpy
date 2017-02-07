@@ -538,5 +538,14 @@
         "pubDate": "Wed, 01 Feb 2017 21:00:00 GMT",
         "source": "data\\NA\\20170202.rss",
         "title": "National Bank Investments announces changes to National Bank Consensus Funds"
+    },
+    {
+        "contents": "data\\NA\\20170207-090650.news",
+        "description": null,
+        "guid": "yahoo_finance/1949084036",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=133hne08l/*http://www.bloomberg.com/news/videos/2017-02-07/national-bank-sets-goal-to-be-top-3-canadian-bank?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 00:29:05 GMT",
+        "source": "data\\NA\\20170207.rss",
+        "title": "National Bank Sets Goal to Be 'Top 3' Canadian Bank"
     }
 ]

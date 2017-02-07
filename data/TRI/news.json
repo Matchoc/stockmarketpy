@@ -187,5 +187,14 @@
         "pubDate": "Mon, 06 Feb 2017 11:30:00 GMT",
         "source": "data\\TRI\\20170206.rss",
         "title": "Thomson Reuters Further Strengthens KYC Managed Services and Legal Entity Data Through Clarient and Avox Acquisitions"
+    },
+    {
+        "contents": "data\\TRI\\20170207-091245.news",
+        "description": null,
+        "guid": "yahoo_finance/3797224329",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-tri-q4-earnings-221610751.html",
+        "pubDate": "Mon, 06 Feb 2017 22:16:10 GMT",
+        "source": "data\\TRI\\20170207.rss",
+        "title": "Thomson Reuters (TRI) Q4 Earnings: What Awaits the Stock?"
     }
 ]

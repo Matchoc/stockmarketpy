@@ -583,5 +583,41 @@
         "pubDate": "Mon, 06 Feb 2017 05:11:00 GMT",
         "source": "data\\HBC\\20170206.rss",
         "title": "[$$] Potential Macy's Buyers Won't Sale Through"
+    },
+    {
+        "contents": "data\\HBC\\20170207-091445.news",
+        "description": "[Business Wire] - - Hudson's Bay Company is pleased to announce the closing of an amendment to its asset-based revolving credit facility that increases its total capacity by $350 million to a total of $2.25 billion.",
+        "guid": "yahoo_finance/239988374",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hudson-bay-company-announces-amendment-120000199.html",
+        "pubDate": "Tue, 07 Feb 2017 12:00:00 GMT",
+        "source": "data\\HBC\\20170207.rss",
+        "title": "Hudson\u2019s Bay Company Announces Amendment to Increase Capacity of Asset-Based Revolving Credit Facility"
+    },
+    {
+        "contents": "data\\HBC\\20170207-091447.news",
+        "description": null,
+        "guid": "yahoo_finance/1772060150",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=12isvifk9/*http://blogs.barrons.com/stockstowatchtoday/2017/02/06/macys-too-big-to-swallow/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Mon, 06 Feb 2017 18:46:00 GMT",
+        "source": "data\\HBC\\20170207.rss",
+        "title": "Macy's: Too Big To Swallow?"
+    },
+    {
+        "contents": "data\\HBC\\20170207-091447.news",
+        "description": null,
+        "guid": "yahoo_finance/4293214205",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/reports-potential-macys-takeover-reshape-152639380.html",
+        "pubDate": "Mon, 06 Feb 2017 15:26:39 GMT",
+        "source": "data\\HBC\\20170207.rss",
+        "title": "How Reports Of A Potential Macy's Takeover Reshape The Real Estate Scenario"
+    },
+    {
+        "contents": "data\\HBC\\20170207-091449.news",
+        "description": null,
+        "guid": "yahoo_finance/3137903256",
+        "link": "http://us.rd.yahoo.com/finance/external/bizj/rss/SIG=13a1aeked/*http://www.bizjournals.com/denver/news/2017/02/06/north-americas-oldest-company-said-to-be-shopping.html?ana=yahoo",
+        "pubDate": "Mon, 06 Feb 2017 15:07:46 GMT",
+        "source": "data\\HBC\\20170207.rss",
+        "title": "North America's oldest company said to be shopping for Macy's"
     }
 ]

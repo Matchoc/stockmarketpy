@@ -250,5 +250,14 @@
         "pubDate": "Mon, 23 Jan 2017 14:08:16 GMT",
         "source": "data\\XCT\\20170124.rss",
         "title": "exactEarth Ltd. :XCT-CA: Earnings Analysis: 2016 By the Numbers : January 23, 2017"
+    },
+    {
+        "contents": "data\\XCT\\20170207-090320.news",
+        "description": null,
+        "guid": "yahoo_finance/2288327998",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-tech-stocks-131500328.html",
+        "pubDate": "Tue, 07 Feb 2017 13:15:00 GMT",
+        "source": "data\\XCT\\20170207.rss",
+        "title": "Research Reports Initiated on Info Tech Stocks International Road Dynamics, D-Box Technologies, exactEarth, and Kraken Sonar"
     }
 ]

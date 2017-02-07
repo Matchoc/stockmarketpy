@@ -1024,5 +1024,32 @@
         "pubDate": "Fri, 03 Feb 2017 13:00:19 GMT",
         "source": "data\\ABX\\20170203.rss",
         "title": "10 Biggest Gold Mining Companies In The World"
+    },
+    {
+        "contents": "data\\ABX\\20170207-091000.news",
+        "description": null,
+        "guid": "yahoo_finance/221071380",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12f2stgms/*http://marketrealist.com/2017/02/ratings-senior-gold-miners-changed-recently/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:35:52 GMT",
+        "source": "data\\ABX\\20170207.rss",
+        "title": "How Have Ratings for Senior Gold Miners Changed Recently?"
+    },
+    {
+        "contents": "data\\ABX\\20170207-091001.news",
+        "description": "[at Financial Times] - Gold mining shares advanced for the seventh consecutive day on Monday, the longest winning streak since August 2014 as investor anxiety supported prices of the yellow metal. The NYSE Arca gold miners index, ...",
+        "guid": "yahoo_finance/660629442",
+        "link": "http://us.rd.yahoo.com/finance/external/ft/rss/SIG=1295a03mr/*http://www.ft.com/cms/s/7e3e587c-ec8a-11e6-930f-061b01e23655,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev",
+        "pubDate": "Mon, 06 Feb 2017 21:34:04 GMT",
+        "source": "data\\ABX\\20170207.rss",
+        "title": "[$$] Investor anxieties give US gold miners a boost"
+    },
+    {
+        "contents": "data\\ABX\\20170207-091001.news",
+        "description": null,
+        "guid": "yahoo_finance/428514599",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/buzz-ci-investments-sharply-cuts-185507018.html",
+        "pubDate": "Mon, 06 Feb 2017 18:55:07 GMT",
+        "source": "data\\ABX\\20170207.rss",
+        "title": "BUZZ-CI Investments sharply cuts gold holdings in Q4 2016 -filing"
     }
 ]

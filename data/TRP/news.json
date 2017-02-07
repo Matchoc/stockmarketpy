@@ -1240,5 +1240,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:30:00 GMT",
         "source": "data\\TRP\\20170206.rss",
         "title": "Columbia Pipeline Partners Expected to Be Removed from the Alerian Index Series"
+    },
+    {
+        "contents": "data\\TRP\\20170207-090429.news",
+        "description": null,
+        "guid": "yahoo_finance/1479992907",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132k0j56m/*http://www.fool.com/investing/2017/02/06/transcanada-corporation-3-biggest-growth-opportuni.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Mon, 06 Feb 2017 17:46:08 GMT",
+        "source": "data\\TRP\\20170207.rss",
+        "title": "TransCanada Corporation's 3 Biggest Growth Opportunities"
     }
 ]

@@ -394,5 +394,14 @@
         "pubDate": "Fri, 14 Nov 2014 16:54:58 GMT",
         "source": "data\\LUN\\20170205.rss",
         "title": "Glencore, Mick Davis among suitors of Anglo's Chile mines - sources"
+    },
+    {
+        "contents": "data\\LUN\\20170207-091503.news",
+        "description": null,
+        "guid": "yahoo_finance/2399895205",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/lundin-mining-release-fourth-quarter-223000596.html",
+        "pubDate": "Mon, 06 Feb 2017 22:30:00 GMT",
+        "source": "data\\LUN\\20170207.rss",
+        "title": "Lundin Mining to Release Fourth Quarter 2016 Results February 22, 2017"
     }
 ]

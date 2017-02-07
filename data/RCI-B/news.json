@@ -592,5 +592,23 @@
         "pubDate": "Fri, 03 Feb 2017 14:50:02 GMT",
         "source": "data\\RCI-B\\20170204.rss",
         "title": "Top Ranked Income Stocks to Buy for February 3rd"
+    },
+    {
+        "contents": "data\\RCI-B\\20170207-091221.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 7, 2017 /CNW/ - Rogers Communications and RYCOM Corporation have engaged in a strategic collaboration to accelerate Oxford Properties' Smart and Connected Building strategy, based on Cisco technology infrastructure. Working together, Rogers and RYCOM will implement the Cisco Smart Building platform across Oxford Properties' entire Canadian commercial and retail portfolio by the end of 2017, providing real-time value to improve tenant satisfaction. Smart and connected building technologies, including the solution that Oxford will implement, provide tenants with greater control over their space.",
+        "guid": "yahoo_finance/493543115",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/oxford-properties-limited-selects-rycom-140000139.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\RCI-B\\20170207.rss",
+        "title": "Oxford Properties Limited selects RYCOM and Rogers to accelerate its Cisco Smart and Connected Building strategy"
+    },
+    {
+        "contents": "data\\RCI-B\\20170207-091222.news",
+        "description": "[CNW Group] - Oxford Properties Limited selects RYCOM and Rogers to accelerate its Cisco Smart and Connected Building strategy",
+        "guid": "yahoo_finance/2663961405",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/oxford-properties-limited-selects-rycom-140000054.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\RCI-B\\20170207.rss",
+        "title": "Oxford Properties Limited selects RYCOM and Rogers to accelerate its Cisco Smart and Connected Building strategy"
     }
 ]

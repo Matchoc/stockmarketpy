@@ -421,5 +421,14 @@
         "pubDate": "Fri, 27 Jan 2017 18:52:58 GMT",
         "source": "data\\LUC\\20170128.rss",
         "title": "Lucara Diamond Corp. \u2013 Value Analysis (TORONTO:LUC) : January 27, 2017"
+    },
+    {
+        "contents": "data\\LUC\\20170207-090517.news",
+        "description": null,
+        "guid": "yahoo_finance/2326166518",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/lucara-2016-fourth-quarter-results-033000440.html",
+        "pubDate": "Tue, 07 Feb 2017 03:30:00 GMT",
+        "source": "data\\LUC\\20170207.rss",
+        "title": "Lucara 2016 Fourth Quarter Results to be Released February 16, 2017"
     }
 ]

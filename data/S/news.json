@@ -412,5 +412,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:24:14 GMT",
         "source": "data\\S\\20170203.rss",
         "title": "Sherritt International Corp. breached its 50 day moving average in a Bearish Manner : S-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\S\\20170207-091120.news",
+        "description": null,
+        "guid": "yahoo_finance/4178598035",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13gdiaq3b/*http://www.capitalcube.com/blog/index.php/sherritt-international-corp-value-analysis-torontos-february-6-2017/",
+        "pubDate": "Mon, 06 Feb 2017 17:50:43 GMT",
+        "source": "data\\S\\20170207.rss",
+        "title": "Sherritt International Corp. \u2013 Value Analysis (TORONTO:S) : February 6, 2017"
     }
 ]

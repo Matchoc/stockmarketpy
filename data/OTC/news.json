@@ -313,5 +313,23 @@
         "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
         "source": "data\\OTC\\20170206.rss",
         "title": "Research Reports Initiated on Info Tech Stocks NexJ Systems, CGI Group, Open Text, and DH Corp"
+    },
+    {
+        "contents": "data\\OTC\\20170207-090843.news",
+        "description": "[PR Newswire] - WATERLOO, Ontario, Feb. 7, 2017 /PRNewswire/ -- OpenText\u2122 (NASDAQ: OTEX, TSX: OTEX), a global leader in Enterprise Information Management (EIM), today announced that the Bernalillo County government office in New Mexico has selected OpenText Vendor Invoice Management (VIM) and OpenText\u2122 Invoice Capture Center for SAP\u00ae Solutions to automate and digitize its Accounts Payable (AP). Using OpenText, the County office streamlines the way it creates, manages, monitors, and routes purchase orders and invoices for increased efficiency, productivity and cost-savings.",
+        "guid": "yahoo_finance/862570382",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bernalillo-county-chooses-opentext-automate-140000797.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\OTC\\20170207.rss",
+        "title": "Bernalillo County Chooses OpenText to Automate and Digitize Accounts Payable"
+    },
+    {
+        "contents": "data\\OTC\\20170207-090844.news",
+        "description": "[CNW Group] - Bernalillo County Chooses OpenText to Automate and Digitize Accounts Payable",
+        "guid": "yahoo_finance/1596312291",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bernalillo-county-chooses-opentext-automate-140000798.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\OTC\\20170207.rss",
+        "title": "Bernalillo County Chooses OpenText to Automate and Digitize Accounts Payable"
     }
 ]

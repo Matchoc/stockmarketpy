@@ -268,5 +268,14 @@
         "pubDate": "Tue, 17 Jan 2017 12:22:32 GMT",
         "source": "data\\IFP\\20170117.rss",
         "title": "Interfor Corp. breached its 50 day moving average in a Bearish Manner : IFP-CA : January 17, 2017"
+    },
+    {
+        "contents": "data\\IFP\\20170207-091146.news",
+        "description": null,
+        "guid": "yahoo_finance/3843747210",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=148i9o0sp/*http://www.capitalcube.com/blog/index.php/interfor-corp-breached-its-50-day-moving-average-in-a-bullish-manner-ifp-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:13:19 GMT",
+        "source": "data\\IFP\\20170207.rss",
+        "title": "Interfor Corp. breached its 50 day moving average in a Bullish Manner : IFP-CA : February 7, 2017"
     }
 ]

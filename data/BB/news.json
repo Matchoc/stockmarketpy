@@ -898,5 +898,68 @@
         "pubDate": "Mon, 06 Feb 2017 04:58:32 GMT",
         "source": "data\\BB\\20170206.rss",
         "title": "BlackBerry Announces its Next Major Mobile Software Licensing Agreement with Optiemus in India"
+    },
+    {
+        "contents": "data\\BB\\20170207-091017.news",
+        "description": null,
+        "guid": "yahoo_finance/2790995261",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13hjg126c/*https://www.thestreet.com/story/13991510/1/with-india-deal-blackberry-looks-to-build-its-comeback-momentum.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Tue, 07 Feb 2017 12:18:00 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "With India Deal, BlackBerry Looks to Build Its Comeback Momentum"
+    },
+    {
+        "contents": "data\\BB\\20170207-091018.news",
+        "description": "[at TheStreet] - By licensing its brand and shifting away from hardware, BlackBerry's focus on India could yield big results.",
+        "guid": "yahoo_finance/3760632753",
+        "link": "http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=1302qr720/*https://www.thestreet.com/story/13991744/1/is-blackberry-mounting-a-comeback-tech-roundup.html?puc=yahoo&cm_ven=YAHOO",
+        "pubDate": "Mon, 06 Feb 2017 21:43:00 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "Is BlackBerry Mounting a Comeback? -- Tech Roundup"
+    },
+    {
+        "contents": "data\\BB\\20170207-091018.news",
+        "description": null,
+        "guid": "yahoo_finance/3480541501",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-inks-hardware-licensing-deal-165710840.html",
+        "pubDate": "Mon, 06 Feb 2017 16:57:10 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "BlackBerry inks hardware licensing deal covering India"
+    },
+    {
+        "contents": "data\\BB\\20170207-091020.news",
+        "description": null,
+        "guid": "yahoo_finance/348827135",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/blackberry-inks-hardware-licensing-deal-165531817.html",
+        "pubDate": "Mon, 06 Feb 2017 16:55:31 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "BlackBerry inks hardware licensing deal covering India"
+    },
+    {
+        "contents": "data\\BB\\20170207-091022.news",
+        "description": null,
+        "guid": "yahoo_finance/1497871043",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/blackberry-inks-hardware-licensing-deal-165531773.html",
+        "pubDate": "Mon, 06 Feb 2017 16:55:31 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "BlackBerry inks hardware licensing deal covering India"
+    },
+    {
+        "contents": "data\\BB\\20170207-091024.news",
+        "description": null,
+        "guid": "yahoo_finance/269041979",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/blackberry-inks-hardware-licensing-deal-165401241.html",
+        "pubDate": "Mon, 06 Feb 2017 16:54:01 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "BlackBerry inks hardware licensing deal covering India"
+    },
+    {
+        "contents": "data\\BB\\20170207-091026.news",
+        "description": null,
+        "guid": "yahoo_finance/4012725946",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=127v24i9m/*https://www.wsj.com/articles/jenny-holzers-favorite-things-1486393713?mod=yahoo_hs",
+        "pubDate": "Mon, 06 Feb 2017 15:08:36 GMT",
+        "source": "data\\BB\\20170207.rss",
+        "title": "Jenny Holzer's Favorite Things"
     }
 ]

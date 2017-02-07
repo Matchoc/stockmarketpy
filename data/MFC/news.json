@@ -835,5 +835,41 @@
         "pubDate": "Fri, 03 Feb 2017 20:30:00 GMT",
         "source": "data\\MFC\\20170204.rss",
         "title": "2017 final year for Manulife as title sponsor of the Manulife LPGA Classic"
+    },
+    {
+        "contents": "data\\MFC\\20170207-090751.news",
+        "description": "[PR Newswire] - WATERLOO, ON, Feb. 7, 2017 /CNW/ - Manulife today announced that it has expanded its industry-leading predictive analytics program to include up to $1 million of coverage without the need for nicotine, blood and urine testing on all individual life insurance products. Now over half of Manulife's life insurance customers who apply will not be required to undergo time-consuming and invasive testing, making Manulife the only insurer in Canada to eliminate the need for all of these tests.",
+        "guid": "yahoo_finance/3386456318",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-first-again-insurance-innovations-120000968.html",
+        "pubDate": "Tue, 07 Feb 2017 12:00:00 GMT",
+        "source": "data\\MFC\\20170207.rss",
+        "title": "Manulife First Again With Insurance Innovations"
+    },
+    {
+        "contents": "data\\MFC\\20170207-090753.news",
+        "description": "[CNW Group] - Manulife First Again With Insurance Innovations",
+        "guid": "yahoo_finance/148486365",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-first-again-insurance-innovations-120000468.html",
+        "pubDate": "Tue, 07 Feb 2017 12:00:00 GMT",
+        "source": "data\\MFC\\20170207.rss",
+        "title": "Manulife First Again With Insurance Innovations"
+    },
+    {
+        "contents": "data\\MFC\\20170207-090754.news",
+        "description": null,
+        "guid": "yahoo_finance/2921326160",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=131tifq5n/*http://www.bloomberg.com/news/videos/2017-02-07/manulife-s-lewis-fed-hikes-will-be-very-gradual?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 04:03:30 GMT",
+        "source": "data\\MFC\\20170207.rss",
+        "title": "Manulife's Lewis: Fed Hikes Will Be Very Gradual"
+    },
+    {
+        "contents": "data\\MFC\\20170207-090755.news",
+        "description": "[PR Newswire] - BOSTON, Feb. 6, 2017 /PRNewswire/ -- John Hancock Investments published a new white paper today entitled \"Target-date funds: embracing open architecture in retirement's most important investment option,\" by Andrew G. Arnott, President & CEO. The paper argues that investors in target-date funds deserve the same benefits afforded by open-architecture lineups at the plan level, and draws on data and anecdotal feedback from a variety of third-party surveys of plan sponsors, investment consultants, and elite DC plan advisors. \"Today, plan-level best practices call for an open-architecture, or multimanager, lineup of investment offerings, but that line of thinking rarely extends to target-date portfolio construction,\" said Mr. Arnott.",
+        "guid": "yahoo_finance/3444451622",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/john-hancock-investments-ceo-makes-182800093.html",
+        "pubDate": "Mon, 06 Feb 2017 18:28:00 GMT",
+        "source": "data\\MFC\\20170207.rss",
+        "title": "John Hancock Investments' CEO makes the case for open-architecture target-date funds in new white paper"
     }
 ]

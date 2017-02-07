@@ -232,5 +232,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
         "source": "data\\ITC\\20170126.rss",
         "title": "Intrinsyc Announces New Orders for Company's Open-Q(TM) Embedded Computing Modules"
+    },
+    {
+        "contents": "data\\ITC\\20170207-090400.news",
+        "description": "[Marketwired] - Intrinsyc Technologies Corporation , a leading provider of solutions for the development of embedded and Internet of Things products, today announced the receipt of a follow-on order from...",
+        "guid": "yahoo_finance/2495574245",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intrinsyc-announces-order-custom-single-140000937.html",
+        "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
+        "source": "data\\ITC\\20170207.rss",
+        "title": "Intrinsyc Announces order for custom Single Board Computer (\"SBC\") for IoT Client"
     }
 ]

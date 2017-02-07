@@ -394,5 +394,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:13:11 GMT",
         "source": "data\\MBT\\20170127.rss",
         "title": "Manitoba Telecom Services, Inc. breached its 50 day moving average in a Bearish Manner : MBT-CA : January 27, 2017"
+    },
+    {
+        "contents": "data\\MBT\\20170207-090308.news",
+        "description": null,
+        "guid": "yahoo_finance/3744592856",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ousvj1k/*http://www.capitalcube.com/blog/index.php/manitoba-telecom-services-inc-breached-its-50-day-moving-average-in-a-bullish-manner-mbt-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:10:55 GMT",
+        "source": "data\\MBT\\20170207.rss",
+        "title": "Manitoba Telecom Services, Inc. breached its 50 day moving average in a Bullish Manner : MBT-CA : February 7, 2017"
     }
 ]

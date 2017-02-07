@@ -214,5 +214,14 @@
         "pubDate": "Mon, 23 Jan 2017 13:56:46 GMT",
         "source": "data\\DHX-B\\20170124.rss",
         "title": "DHX Media Ltd. breached its 50 day moving average in a Bearish Manner : DHX.B-CA : January 23, 2017"
+    },
+    {
+        "contents": "data\\DHX-B\\20170207-091454.news",
+        "description": "[Marketwired] - DHX Media , the world's leading independent, pure-play children's content company, will report its Fiscal 2017 second quarter results before market opens on Monday, February 13, 2017.DHX...",
+        "guid": "yahoo_finance/867570061",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dhx-media-report-fiscal-2017-130000178.html",
+        "pubDate": "Tue, 07 Feb 2017 13:00:00 GMT",
+        "source": "data\\DHX-B\\20170207.rss",
+        "title": "DHX Media to Report Its Fiscal 2017 Second Quarter Results on February 13, 2017"
     }
 ]

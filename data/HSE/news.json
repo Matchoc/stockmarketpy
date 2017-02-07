@@ -637,5 +637,14 @@
         "pubDate": "Thu, 27 Oct 2016 01:58:03 GMT",
         "source": "data\\HSE\\20170202.rss",
         "title": "Husky Energy Announces CEO Asim Ghosh Transition Plan and Retirement"
+    },
+    {
+        "contents": "data\\HSE\\20170207-090034.news",
+        "description": null,
+        "guid": "yahoo_finance/1685295635",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14bo5cr5o/*http://www.capitalcube.com/blog/index.php/husky-energy-inc-breached-its-50-day-moving-average-in-a-bearish-manner-hse-ca-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 13:17:28 GMT",
+        "source": "data\\HSE\\20170207.rss",
+        "title": "Husky Energy, Inc. breached its 50 day moving average in a Bearish Manner : HSE-CA : February 7, 2017"
     }
 ]
