@@ -322,5 +322,14 @@
         "pubDate": "Wed, 06 Apr 2016 20:57:12 GMT",
         "source": "data\\ARX\\20170129.rss",
         "title": "Denbury Selects New Chairman"
+    },
+    {
+        "contents": "data\\ARX\\20170208-090143.news",
+        "description": null,
+        "guid": "yahoo_finance/4007245280",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=arx.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
+        "source": "data\\ARX\\20170208.rss",
+        "title": "Q4 2016 ARC Resources Ltd Earnings Release - After Market Close"
     }
 ]

@@ -196,5 +196,23 @@
         "pubDate": "Wed, 14 Sep 2016 13:45:14 GMT",
         "source": "data\\AAV\\20170131.rss",
         "title": "ETF\u2019s with exposure to Advantage Oil & Gas Ltd. : September 14, 2016"
+    },
+    {
+        "contents": "data\\AAV\\20170207-233818.news",
+        "description": "[CNW Group] - Advantage Announces 2016 Year-End Reserves",
+        "guid": "yahoo_finance/3157732873",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/advantage-announces-2016-end-reserves-022800158.html",
+        "pubDate": "Wed, 08 Feb 2017 02:28:00 GMT",
+        "source": "data\\AAV\\20170207.rss",
+        "title": "Advantage Announces 2016 Year-End Reserves"
+    },
+    {
+        "contents": "data\\AAV\\20170207-233820.news",
+        "description": "[PR Newswire] - Record Low Proved Developed Producing Reserve Addition Cost of $0.84/mcfe ($5.04/boe) Underscores Outperformance In All Reserve Categories (TSX: AAV, NYSE: AAV) CALGARY, Feb. 7, 2017 /PRNewswire/ - Advantage ...",
+        "guid": "yahoo_finance/2573627841",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/advantage-announces-2016-end-reserves-022800099.html",
+        "pubDate": "Wed, 08 Feb 2017 02:28:00 GMT",
+        "source": "data\\AAV\\20170207.rss",
+        "title": "Advantage Announces 2016 Year-End Reserves"
     }
 ]

@@ -349,5 +349,14 @@
         "pubDate": "Wed, 01 Feb 2017 12:00:00 GMT",
         "source": "data\\BNE\\20170201.rss",
         "title": "Bonterra Energy Corp. Confirms Cash Dividend for January 2017 Payable February 28th, 2017"
+    },
+    {
+        "contents": "data\\BNE\\20170207-233921.news",
+        "description": null,
+        "guid": "yahoo_finance/2717026252",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bonterra-energy-corp-announces-2016-225517702.html",
+        "pubDate": "Tue, 07 Feb 2017 22:55:17 GMT",
+        "source": "data\\BNE\\20170207.rss",
+        "title": "Bonterra Energy Corp. Announces 2016 Year End Corporate Reserves Information"
     }
 ]

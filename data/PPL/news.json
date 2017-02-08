@@ -430,5 +430,32 @@
         "pubDate": "Mon, 06 Feb 2017 12:59:23 GMT",
         "source": "data\\PPL\\20170206.rss",
         "title": "Pembina Pipeline Corp. breached its 50 day moving average in a Bullish Manner : PPL-CA : February 6, 2017"
+    },
+    {
+        "contents": "data\\PPL\\20170207-234146.news",
+        "description": "[CNW Group] - Pembina Pipeline Corporation Declares February 2017 Common Share Dividend and Fourth Quarter/Annual 2016 Results Conference Call and Webcast",
+        "guid": "yahoo_finance/3609494418",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pembina-pipeline-corporation-declares-february-225100075.html",
+        "pubDate": "Tue, 07 Feb 2017 22:51:00 GMT",
+        "source": "data\\PPL\\20170207.rss",
+        "title": "Pembina Pipeline Corporation Declares February 2017 Common Share Dividend and Fourth Quarter/Annual 2016 Results Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\PPL\\20170207-234148.news",
+        "description": "[PR Newswire] - NYSE: PBA) announced today that its Board of Directors declared a common share cash dividend for February 2017 of $0.16 per share to be paid, subject to applicable law, on March 15, 2017 to shareholders of record on February 25, 2017. For non-resident shareholders, Pembina's common share dividends should be considered \"qualified dividends\" and may be subject to Canadian withholding tax. For shareholders receiving their common share dividends in U.S. funds, the February 2017 cash dividend is expected to be approximately U.S. $0.1215 per share (before deduction of any applicable Canadian withholding tax) based on a currency exchange rate of 0.7595.",
+        "guid": "yahoo_finance/1744129571",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pembina-pipeline-corporation-declares-february-225100858.html",
+        "pubDate": "Tue, 07 Feb 2017 22:51:00 GMT",
+        "source": "data\\PPL\\20170207.rss",
+        "title": "Pembina Pipeline Corporation Declares February 2017 Common Share Dividend and Fourth Quarter/Annual 2016 Results Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\PPL\\20170207-234149.news",
+        "description": null,
+        "guid": "yahoo_finance/3592067634",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13cq768qi/*http://www.capitalcube.com/blog/index.php/pembina-pipeline-corp-value-analysis-torontoppl-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 18:42:42 GMT",
+        "source": "data\\PPL\\20170207.rss",
+        "title": "Pembina Pipeline Corp. \u2013 Value Analysis (TORONTO:PPL) : February 7, 2017"
     }
 ]

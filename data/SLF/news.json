@@ -673,5 +673,23 @@
         "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
         "source": "data\\SLF\\20170207.rss",
         "title": "Sun Life Financial announces new partnership with Kansas City Royals"
+    },
+    {
+        "contents": "data\\SLF\\20170208-090715.news",
+        "description": "[CNW Group] - The McCord Museum pays tribute to Montreal's leading families with a digitization project sponsored by Sun Life Financial",
+        "guid": "yahoo_finance/1344370137",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mccord-museum-pays-tribute-montreals-131500456.html",
+        "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
+        "source": "data\\SLF\\20170208.rss",
+        "title": "The McCord Museum pays tribute to Montreal's leading families with a digitization project sponsored by Sun Life Financial"
+    },
+    {
+        "contents": "data\\SLF\\20170208-090716.news",
+        "description": "[PR Newswire] - MONTREAL, Feb. 8, 2017 /CNW/ - To mark Montreal's 375th anniversary, Sun Life Financial and the McCord Museum are partnering to give everyone a chance to experience \"Our Amazing Families : Three Centuries of Quebec Documents and History\", a textual records holding enhancement project that will spotlight the economic, social and family history of Quebec. With support from Sun Life Financial, the McCord Museum will describe, digitize and post online 36 sets of records between now and next year.",
+        "guid": "yahoo_finance/822293526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/mccord-museum-pays-tribute-montreals-131500185.html",
+        "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
+        "source": "data\\SLF\\20170208.rss",
+        "title": "The McCord Museum pays tribute to Montreal's leading families with a digitization project sponsored by Sun Life Financial"
     }
 ]

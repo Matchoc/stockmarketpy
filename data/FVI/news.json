@@ -403,5 +403,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:21:00 GMT",
         "source": "data\\FVI\\20170125.rss",
         "title": "Why Fortuna Silver Mines, Straight Path Communications, and BT Group Slumped Today"
+    },
+    {
+        "contents": "data\\FVI\\20170208-090216.news",
+        "description": "[Marketwired] - Fortuna Silver Mines Inc. announces that on February 7, 2017 it acquired 10.0 million common shares of Medgold Resources Corp. , of 200 Burrard Street, Suite 650, Vancouver, BC V6C 3L6, at a price of C$0.15 ...",
+        "guid": "yahoo_finance/3027005020",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/early-warning-report-100000263.html",
+        "pubDate": "Wed, 08 Feb 2017 10:00:00 GMT",
+        "source": "data\\FVI\\20170208.rss",
+        "title": "Early Warning Report"
     }
 ]

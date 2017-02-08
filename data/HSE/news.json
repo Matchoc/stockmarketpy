@@ -646,5 +646,23 @@
         "pubDate": "Tue, 07 Feb 2017 13:17:28 GMT",
         "source": "data\\HSE\\20170207.rss",
         "title": "Husky Energy, Inc. breached its 50 day moving average in a Bearish Manner : HSE-CA : February 7, 2017"
+    },
+    {
+        "contents": "data\\HSE\\20170207-233831.news",
+        "description": null,
+        "guid": "yahoo_finance/2303594632",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/husky-sells-first-atlantic-canada-231707738.html",
+        "pubDate": "Tue, 07 Feb 2017 23:17:07 GMT",
+        "source": "data\\HSE\\20170207.rss",
+        "title": "Husky sells first Atlantic Canada crude cargo bound for China"
+    },
+    {
+        "contents": "data\\HSE\\20170208-090547.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** BlackBerry Ltd is preparing to turn ...",
+        "guid": "yahoo_finance/1916333860",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-feb-8-104856935.html",
+        "pubDate": "Wed, 08 Feb 2017 10:48:56 GMT",
+        "source": "data\\HSE\\20170208.rss",
+        "title": "PRESS DIGEST- Canada-Feb 8"
     }
 ]

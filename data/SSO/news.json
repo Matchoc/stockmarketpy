@@ -430,5 +430,14 @@
         "pubDate": "Tue, 31 Jan 2017 22:05:00 GMT",
         "source": "data\\SSO\\20170201.rss",
         "title": "Silver Standard to Announce Fourth Quarter and Year-End 2016 Consolidated Financial Results February 23, 2017"
+    },
+    {
+        "contents": "data\\SSO\\20170207-234102.news",
+        "description": null,
+        "guid": "yahoo_finance/3011122126",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132dv8anf/*http://www.fool.com/investing/2017/02/07/better-buy-silver-standard-resources-inc-vs-endeav.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 07 Feb 2017 15:31:28 GMT",
+        "source": "data\\SSO\\20170207.rss",
+        "title": "Better Buy: Silver Standard Resources Inc. vs. Endeavour Silver"
     }
 ]

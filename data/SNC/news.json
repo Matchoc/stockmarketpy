@@ -214,5 +214,167 @@
         "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
         "source": "data\\SNC\\20170130.rss",
         "title": "Research Reports Initiated on Industrials Stocks SNC Lavalin Group, WesternOne, WSP Global, and Badger Daylighting"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232836.news",
+        "description": null,
+        "guid": "yahoo_finance/3323890683",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/c-o-r-r-e-130000922.html",
+        "pubDate": "Fri, 09 Dec 2016 13:00:00 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "/C O R R E C T I O N from Source -- SNC-Lavalin/"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232838.news",
+        "description": null,
+        "guid": "yahoo_finance/415304986",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/c-o-r-r-e-130000712.html",
+        "pubDate": "Fri, 09 Dec 2016 13:00:00 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "/C O R R E C T I O N from Source -- SNC-Lavalin/"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232840.news",
+        "description": null,
+        "guid": "yahoo_finance/4082028431",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/benita-m-warmbold-named-snc-161100402.html",
+        "pubDate": "Thu, 08 Dec 2016 16:11:00 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "Benita M. Warmbold named to SNC-Lavalin's Board of Directors"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232842.news",
+        "description": null,
+        "guid": "yahoo_finance/1185839945",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/benita-m-warmbold-named-snc-161100000.html",
+        "pubDate": "Thu, 08 Dec 2016 16:11:00 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "Benita M. Warmbold named to SNC-Lavalin's Board of Directors"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232843.news",
+        "description": null,
+        "guid": "yahoo_finance/2995346079",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14pt0k3ch/*http://www.capitalcube.com/blog/index.php/snc-lavalin-group-inc-snc-ca-dividend-analysis-november-17th-2016-record-date-by-the-numbers-december-6-2016/",
+        "pubDate": "Tue, 06 Dec 2016 16:25:15 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin Group, Inc. : SNC-CA: Dividend Analysis : November 17th, 2016 (record date) : By the numbers : December 6, 2016"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232851.news",
+        "description": null,
+        "guid": "yahoo_finance/1282286454",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/snc-lavalin-awarded-usd-100m-140000294.html",
+        "pubDate": "Tue, 06 Dec 2016 14:00:00 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin awarded USD $100M midstream oil and gas project in the United States"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232853.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) announced today that it has been awarded an engineering, procurement and construction (EPC) contract by Northwest Natural Gas Company (NW Natural) for an expansion of its natural ...",
+        "guid": "yahoo_finance/4193544388",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12848i29d/*http://www.publicnow.com/view/4C7BCD99CF1248BE9C592361DDC626C1B7B07AFD",
+        "pubDate": "Thu, 01 Dec 2016 15:22:44 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin awarded midstream natural gas project in the United States"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232853.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) is pleased to announce that it has been awarded a pre-project contract from Argentina's Nucleoel\u00e9ctrica Argentina SA (NA-SA) for the CANDU nuclear new build project at the Atucha ...",
+        "guid": "yahoo_finance/2156201879",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128b56940/*http://www.publicnow.com/view/C9EB588A058C657F19D4D5D889B168F9E489E89B",
+        "pubDate": "Wed, 30 Nov 2016 05:30:18 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-LAVALIN AWARDED CANDU PRE-PROJECT CONTRACT IN ARGENTINA"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232853.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) is pleased to announce that it has been awarded an engineering, procurement and construction (EPC) contract by Corporaci\u00f3n Nacional del Cobre de Chile (Codelco), one of the largest ...",
+        "guid": "yahoo_finance/615493014",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1282576le/*http://www.publicnow.com/view/D46DF033EB0074AB7934CB166F43A026774FB32F",
+        "pubDate": "Tue, 22 Nov 2016 16:24:07 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin awarded EPC contract by Codelco division Norte for the construction of two sulphuric acid plants"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) is pleased to announce that it has been awarded an engineering, procurement and construction (EPC) contract by Corporaci\u00f3n Nacional del Cobre de Chile (Codelco), one of the largest ...",
+        "guid": "yahoo_finance/3840354258",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128a60f8a/*http://www.publicnow.com/view/AB479EE31C42B1BEAA20362E133841EC17A1EA1C",
+        "pubDate": "Tue, 22 Nov 2016 13:44:14 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-LAVALIN AWARDED EPC CONTRACT BY CODELCO DIVISION NORTE FOR THE CONSTRUCTION OF TWO SULPHURIC ACID PLANTS"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) is proud to announce that it has been awarded a contract by Norilsk Nickel (LSE:MNODI) to implement a Sulphur Recovery Project at the Nadezhda Smelter, located at the company's Polar ...",
+        "guid": "yahoo_finance/3096031097",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128gtt5vs/*http://www.publicnow.com/view/EE9230FA6999B13158FBE618FEF897943D9AFBB3",
+        "pubDate": "Wed, 09 Nov 2016 15:59:09 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-LAVALIN AWARDED CONTRACT BY NORILSK NICKEL FOR A SULPHUR DIOXIDE MITIGATION PROJECT IN RUSSIA"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX: SNC) is proud to announce that it has been awarded a contract by Norilsk Nickel (LSE:MNODI) to implement a Sulphur Recovery Project at the Nadezhda Smelter, located at the company's Polar ...",
+        "guid": "yahoo_finance/3974261435",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ie8cii/*http://www.publicnow.com/view/75531621CCF95B318E77916C14B969D01989FC4E",
+        "pubDate": "Wed, 09 Nov 2016 15:59:09 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin awarded contract by Norilsk Nickel for a sulphur dioxide mitigation project in Russia"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX:SNC) is pleased to announce the appointment of Catherine J. Hughes to its Board of Directors, effective immediately. ... This is an abstract of the original noodl. To continue reading ...",
+        "guid": "yahoo_finance/1136450195",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289kp95q/*http://www.publicnow.com/view/B8F40F63B3953BE6973DDB66BF01AE837DF2D3E6",
+        "pubDate": "Thu, 03 Nov 2016 18:58:16 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "CATHERINE J. HUGHES NAMED TO SNC-LAVALIN\u2019S BOARD OF DIRECTORS"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin (TSX:SNC) is pleased to announce the appointment of Catherine J. Hughes to its Board of Directors, effective immediately. ... This is an abstract of the original noodl. To continue reading ...",
+        "guid": "yahoo_finance/368465777",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12851k5t5/*http://www.publicnow.com/view/EB99D88E01B7ABFBBE64D4B84B59BEB51B57EC74",
+        "pubDate": "Thu, 03 Nov 2016 14:28:08 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "Catherine J. Hughes named to SNC-Lavalin\u2019s Board of Directors"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - Reported Q3 2016 IFRS net income of $43.3 million, or $0.29 per diluted share. Q3 2016 adjusted net income from E&C of $24.4 million, or $0.16 per diluted share. SG&A expenses decreased by 16.5%, on a ...",
+        "guid": "yahoo_finance/2457093233",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128tlrkbv/*http://www.publicnow.com/view/C2045B3472D3B44C21015FA75AD47392F9ACFF27",
+        "pubDate": "Thu, 03 Nov 2016 11:48:09 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin announces its third quarter results for 2016, with an adjusted EPS from E&C of $0.16 and a 16% decrease in SG&A expenses"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - Reported Q3 2016 IFRS net income of $43.3 million, or $0.29 per diluted share. Q3 2016 adjusted net income from E&C of $24.4 million, or $0.16 per diluted share. SG&A expenses decreased by 16.5%, on a ...",
+        "guid": "yahoo_finance/3331296291",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284pqlm7/*http://www.publicnow.com/view/CA8482C91F01B09BE95660CED21769B97B08F5CE",
+        "pubDate": "Thu, 03 Nov 2016 11:38:12 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-LAVALIN ANNOUNCES ITS THIRD QUARTER RESULTS FOR 2016, WITH AN ADJUSTED EPS FROM E&C OF $0.16 AND A 16% DECREASE IN SG&A EXPENSES"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin Group Inc. (TSX: SNC) will announce its third quarter results on Thursday, November 3, 2016. A conference call will be held on the same day with the financial community at 3:00 p.m. EDT. Participants ...",
+        "guid": "yahoo_finance/453424148",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1284fshk7/*http://www.publicnow.com/view/1685656E1F82BAC8EA92A380CF584F21C45E56EE",
+        "pubDate": "Thu, 13 Oct 2016 20:00:12 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-Lavalin to hold third quarter 2016 earnings conference call and webcast"
+    },
+    {
+        "contents": "data\\SNC\\20170207-232854.news",
+        "description": "[at noodls] - SNC-Lavalin Group Inc. (TSX: SNC) will announce its third quarter results on Thursday, November 3, 2016. A conference call will be held on the same day with the financial community at 3:00 p.m. EDT. Participants ...",
+        "guid": "yahoo_finance/1702652778",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128bdmj3e/*http://www.publicnow.com/view/C006FAD714D3EB11EE3002CE371E3A3A7D8565D1",
+        "pubDate": "Thu, 13 Oct 2016 20:00:12 GMT",
+        "source": "data\\SNC\\20170207.rss",
+        "title": "SNC-LAVALIN TO HOLD THIRD QUARTER 2016 EARNINGS CONFERENCE CALL AND WEBCAST"
     }
 ]

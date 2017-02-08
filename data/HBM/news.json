@@ -367,5 +367,14 @@
         "pubDate": "Thu, 26 Jan 2017 13:45:01 GMT",
         "source": "data\\HBM\\20170127.rss",
         "title": "Hudbay Minerals (HBM) Climbs: Stock Adds 6% in Session"
+    },
+    {
+        "contents": "data\\HBM\\20170207-234230.news",
+        "description": null,
+        "guid": "yahoo_finance/3198619526",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-analyst-blog-highlights-emcore-143002292.html",
+        "pubDate": "Tue, 07 Feb 2017 14:30:02 GMT",
+        "source": "data\\HBM\\20170207.rss",
+        "title": "The Zacks Analyst Blog Highlights: EMCORE, Intevac, MiX Telematics, Ceragon Networks and Hudbay Minerals"
     }
 ]

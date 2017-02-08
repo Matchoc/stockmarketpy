@@ -412,5 +412,14 @@
         "pubDate": "Mon, 06 Feb 2017 12:58:34 GMT",
         "source": "data\\IPL\\20170206.rss",
         "title": "Inter Pipeline Ltd. breached its 50 day moving average in a Bullish Manner : IPL-CA : February 6, 2017"
+    },
+    {
+        "contents": "data\\IPL\\20170207-234155.news",
+        "description": null,
+        "guid": "yahoo_finance/642385830",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=139i3jbof/*http://www.capitalcube.com/blog/index.php/inter-pipeline-ltd-value-analysis-torontoipl-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 18:33:45 GMT",
+        "source": "data\\IPL\\20170207.rss",
+        "title": "Inter Pipeline Ltd. \u2013 Value Analysis (TORONTO:IPL) : February 7, 2017"
     }
 ]

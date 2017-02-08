@@ -1006,5 +1006,14 @@
         "pubDate": "Mon, 06 Feb 2017 14:04:29 GMT",
         "source": "data\\BCE\\20170207.rss",
         "title": "BCE, Inc. :BCE-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 6, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170207-232552.news",
+        "description": "[Reuters] - The Canadian broadcaster of Sunday's U.S. National Football League's Super Bowl game said its ratings fell 39 percent from last year after a broadcast regulator ruled it could no longer substitute its commercials into U.S. feeds available in the country. Bell Media, part of BCE Inc, said the game attracted an average audience of 4.47 million viewers across three of its main channels, compared with 7.32 million last year, when the game was only shown on its CTV channel. The loss of viewership likely occurred as Canadians tuned in to the Fox Television feed instead, with its U.S. commercials that many consider funnier and more sophisticated.",
+        "guid": "yahoo_finance/2950194614",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bell-media-says-super-bowl-142445412.html",
+        "pubDate": "Tue, 07 Feb 2017 14:24:45 GMT",
+        "source": "data\\BCE\\20170207.rss",
+        "title": "Bell Media says Super Bowl ratings drop, cites ruling on commercials"
     }
 ]

@@ -322,5 +322,14 @@
         "pubDate": "Mon, 06 Feb 2017 22:01:05 GMT",
         "source": "data\\TIH\\20170207.rss",
         "title": "Toromont Announces 2016 Results and 6% Increase in Quarterly Dividend"
+    },
+    {
+        "contents": "data\\TIH\\20170207-233309.news",
+        "description": null,
+        "guid": "yahoo_finance/778303419",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-tih-earnings-conference-164245627.html",
+        "pubDate": "Tue, 07 Feb 2017 16:42:45 GMT",
+        "source": "data\\TIH\\20170207.rss",
+        "title": "Edited Transcript of TIH.TO earnings conference call or presentation 7-Feb-17 1:00pm GMT"
     }
 ]

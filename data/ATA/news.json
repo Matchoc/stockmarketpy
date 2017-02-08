@@ -268,5 +268,32 @@
         "pubDate": "Wed, 01 Feb 2017 00:00:00 GMT",
         "source": "data\\ATA\\20170201.rss",
         "title": "ATS to Host Third Quarter Conference Call Wednesday February 8, 2017 at 10:00 a.m. Eastern"
+    },
+    {
+        "contents": "data\\ATA\\20170208-091045.news",
+        "description": null,
+        "guid": "yahoo_finance/3791539821",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=ata.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
+        "source": "data\\ATA\\20170208.rss",
+        "title": "Q3 2017 ATS Automation Tooling Systems Inc Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\ATA\\20170208-091045.news",
+        "description": "[CNW Group] - ATS Automation appoints new Chief Executive Officer",
+        "guid": "yahoo_finance/2321884034",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ats-automation-appoints-chief-executive-110100244.html",
+        "pubDate": "Wed, 08 Feb 2017 11:01:00 GMT",
+        "source": "data\\ATA\\20170208.rss",
+        "title": "ATS Automation appoints new Chief Executive Officer"
+    },
+    {
+        "contents": "data\\ATA\\20170208-091047.news",
+        "description": "[CNW Group] - ATS Reports Third Quarter Fiscal 2017 Results",
+        "guid": "yahoo_finance/2998299117",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ats-reports-third-quarter-fiscal-110000457.html",
+        "pubDate": "Wed, 08 Feb 2017 11:00:00 GMT",
+        "source": "data\\ATA\\20170208.rss",
+        "title": "ATS Reports Third Quarter Fiscal 2017 Results"
     }
 ]

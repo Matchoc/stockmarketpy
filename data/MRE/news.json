@@ -214,5 +214,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:02:36 GMT",
         "source": "data\\MRE\\20170206.rss",
         "title": "Martinrea International, Inc. breached its 50 day moving average in a Bullish Manner : MRE-CA : February 6, 2017"
+    },
+    {
+        "contents": "data\\MRE\\20170207-233847.news",
+        "description": null,
+        "guid": "yahoo_finance/1666725896",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ip2qbpv/*http://www.capitalcube.com/blog/index.php/martinrea-international-inc-value-analysis-torontomre-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 18:40:13 GMT",
+        "source": "data\\MRE\\20170207.rss",
+        "title": "Martinrea International, Inc. \u2013 Value Analysis (TORONTO:MRE) : February 7, 2017"
     }
 ]

@@ -331,5 +331,14 @@
         "pubDate": "Thu, 14 Apr 2016 12:59:28 GMT",
         "source": "data\\SJ\\20170129.rss",
         "title": "April 14, 2016- Stella-Jones Will hold its Annual Meeting of Shareholders and First Quarter Conference Call"
+    },
+    {
+        "contents": "data\\SJ\\20170208-090355.news",
+        "description": null,
+        "guid": "yahoo_finance/248527652",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-forest-products-131500487.html",
+        "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
+        "source": "data\\SJ\\20170208.rss",
+        "title": "Research Reports Initiated on Forest Products Stocks Western Forest Products, Interfor, Stella-Jones, and Canfor Pulp Products"
     }
 ]

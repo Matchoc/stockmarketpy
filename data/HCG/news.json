@@ -205,5 +205,14 @@
         "pubDate": "Wed, 02 Nov 2016 21:17:00 GMT",
         "source": "data\\HCG\\20170201.rss",
         "title": "Home Capital Reports Q3 2016 Results"
+    },
+    {
+        "contents": "data\\HCG\\20170208-091133.news",
+        "description": null,
+        "guid": "yahoo_finance/3738675331",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=hcg.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
+        "source": "data\\HCG\\20170208.rss",
+        "title": "Q4 2016 Home Capital Group Inc Earnings Release - After Market Close"
     }
 ]

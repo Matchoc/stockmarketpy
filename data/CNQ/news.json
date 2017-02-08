@@ -313,5 +313,23 @@
         "pubDate": "Fri, 03 Feb 2017 07:12:29 GMT",
         "source": "data\\CNQ\\20170203.rss",
         "title": "U.S. reversal on transparency could sting Canadian, European oil companies"
+    },
+    {
+        "contents": "data\\CNQ\\20170208-091339.news",
+        "description": null,
+        "guid": "yahoo_finance/863924366",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/workers-launch-strike-cnrs-ivory-095530275.html",
+        "pubDate": "Wed, 08 Feb 2017 09:55:30 GMT",
+        "source": "data\\CNQ\\20170208.rss",
+        "title": "Workers launch strike at CNR's Ivory Coast fields"
+    },
+    {
+        "contents": "data\\CNQ\\20170208-091341.news",
+        "description": null,
+        "guid": "yahoo_finance/2096654339",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/workers-launch-72-hour-strike-093208357.html",
+        "pubDate": "Wed, 08 Feb 2017 09:32:08 GMT",
+        "source": "data\\CNQ\\20170208.rss",
+        "title": "Workers launch 72-hour strike at CNR's Ivory Coast operations - union"
     }
 ]

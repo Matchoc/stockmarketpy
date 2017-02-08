@@ -871,5 +871,14 @@
         "pubDate": "Mon, 06 Feb 2017 18:28:00 GMT",
         "source": "data\\MFC\\20170207.rss",
         "title": "John Hancock Investments' CEO makes the case for open-architecture target-date funds in new white paper"
+    },
+    {
+        "contents": "data\\MFC\\20170207-232246.news",
+        "description": "[Reuters] - Canada's main stock index rose on Tuesday, with gains among heavyweight financial stocks on talk of a U.S. interest rate hike in March offsetting losses for shares of energy companies as oil prices weighed. The Toronto Stock Exchange's S&P/TSX composite index settled up 41.86 points, or 0.27 percent, at 15,498.80.",
+        "guid": "yahoo_finance/2163605020",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-fed-hike-212629715.html",
+        "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
+        "source": "data\\MFC\\20170207.rss",
+        "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
     }
 ]

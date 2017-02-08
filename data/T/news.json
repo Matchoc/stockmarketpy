@@ -457,5 +457,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
         "source": "data\\T\\20170127.rss",
         "title": "Research Reports Initiated on Communication Services Stocks BCE Inc, Shaw Communications, Cogeco Communications, and TELUS"
+    },
+    {
+        "contents": "data\\T\\20170207-232726.news",
+        "description": null,
+        "guid": "yahoo_finance/3498358485",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-tu-disappoint-investors-earnings-151903547.html",
+        "pubDate": "Tue, 07 Feb 2017 15:19:03 GMT",
+        "source": "data\\T\\20170207.rss",
+        "title": "Will TELUS (TU) Disappoint Investors this Earnings Season?"
     }
 ]

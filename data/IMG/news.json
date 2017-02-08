@@ -511,5 +511,32 @@
         "pubDate": "Mon, 06 Feb 2017 22:35:57 GMT",
         "source": "data\\IMG\\20170207.rss",
         "title": "Why Is Eldorado Gold a Favorite among Intermediate Gold Miners?"
+    },
+    {
+        "contents": "data\\IMG\\20170207-233233.news",
+        "description": null,
+        "guid": "yahoo_finance/3280613729",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iamgold-not-impacted-misses-eps-231021660.html",
+        "pubDate": "Tue, 07 Feb 2017 23:10:21 GMT",
+        "source": "data\\IMG\\20170207.rss",
+        "title": "Iamgold Will Not Be Affected if It Misses EPS Expectations"
+    },
+    {
+        "contents": "data\\IMG\\20170207-233235.news",
+        "description": "[CNW Group] - IAMGOLD Secures Final Commitments to Its Existing Credit Facility to Total $250 Million",
+        "guid": "yahoo_finance/3722020550",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iamgold-secures-final-commitments-existing-220300871.html",
+        "pubDate": "Tue, 07 Feb 2017 22:03:00 GMT",
+        "source": "data\\IMG\\20170207.rss",
+        "title": "IAMGOLD Secures Final Commitments to Its Existing Credit Facility to Total $250 Million"
+    },
+    {
+        "contents": "data\\IMG\\20170207-233236.news",
+        "description": "[PR Newswire] - All monetary amounts are expressed in US dollars, unless otherwise indicated. TORONTO, Feb. 7, 2017 /PRNewswire/ - IAMGOLD Corporation (\"IAMGOLD\" or the \"Company\") announces that, ...",
+        "guid": "yahoo_finance/3463133528",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iamgold-secures-final-commitments-existing-220300860.html",
+        "pubDate": "Tue, 07 Feb 2017 22:03:00 GMT",
+        "source": "data\\IMG\\20170207.rss",
+        "title": "IAMGOLD Secures Final Commitments to Its Existing Credit Facility to Total $250 Million"
     }
 ]

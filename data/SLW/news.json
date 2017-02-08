@@ -493,5 +493,14 @@
         "pubDate": "Mon, 06 Feb 2017 20:55:26 GMT",
         "source": "data\\SLW\\20170207.rss",
         "title": "How Analysts Rate Royalty, Streaming Companies amid Rate Fears"
+    },
+    {
+        "contents": "data\\SLW\\20170207-233030.news",
+        "description": null,
+        "guid": "yahoo_finance/2684097380",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=131acmus8/*http://www.fool.com/investing/2017/02/07/2-big-reasons-silver-wheaton-vaulted-15-higher-in.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 07 Feb 2017 17:30:51 GMT",
+        "source": "data\\SLW\\20170207.rss",
+        "title": "2 Big Reasons Silver Wheaton Vaulted 15% Higher in January"
     }
 ]

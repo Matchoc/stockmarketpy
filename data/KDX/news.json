@@ -223,5 +223,14 @@
         "pubDate": "Wed, 01 Feb 2017 14:14:15 GMT",
         "source": "data\\KDX\\20170202.rss",
         "title": "Klondex Mines Ltd. breached its 50 day moving average in a Bullish Manner : KDX-CA : February 1, 2017"
+    },
+    {
+        "contents": "data\\KDX\\20170208-091020.news",
+        "description": "[Marketwired] - Klondex Mines Ltd. is pleased to provide an update on underground drilling at its Fire Creek Mine located in northern Nevada, USA. The following drill results are not included...",
+        "guid": "yahoo_finance/3405071393",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/klondex-announces-significant-high-grade-110000108.html",
+        "pubDate": "Wed, 08 Feb 2017 11:00:00 GMT",
+        "source": "data\\KDX\\20170208.rss",
+        "title": "Klondex Announces Significant High Grade Extensions of Veins at Fire Creek; Intercepts 96.92 opt Gold over 1.7 Feet"
     }
 ]

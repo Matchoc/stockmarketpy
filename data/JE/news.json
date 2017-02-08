@@ -376,5 +376,32 @@
         "pubDate": "Fri, 04 Nov 2016 17:41:05 GMT",
         "source": "data\\JE\\20170204.rss",
         "title": "TR-1: NOTIFICATION OF MAJOR INTEREST IN SHARES"
+    },
+    {
+        "contents": "data\\JE\\20170207-232822.news",
+        "description": "[GlobeNewswire] - TSX: JE. NYSE: JE. FOR IMMEDIATE RELEASE PRESS RELEASE Just Energy Group Announces Closing of Public Offering and Private Placement of Series A Preferred Shares Raising Gross ...",
+        "guid": "yahoo_finance/1518619563",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-group-announces-closing-161802105.html",
+        "pubDate": "Tue, 07 Feb 2017 16:18:02 GMT",
+        "source": "data\\JE\\20170207.rss",
+        "title": "Just Energy Group Announces Closing of Public Offering and Private Placement of Series A Preferred Shares Raising Gross Proceeds of US$101 Million"
+    },
+    {
+        "contents": "data\\JE\\20170207-232823.news",
+        "description": "[Marketwired] - Just Energy Group Inc. , a leading retail energy provider specializing in electricity and natural gas commodities, energy efficiency solutions, and renewable energy options, announced today that it closed ...",
+        "guid": "yahoo_finance/1694706404",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-group-announces-closing-160032502.html",
+        "pubDate": "Tue, 07 Feb 2017 16:00:32 GMT",
+        "source": "data\\JE\\20170207.rss",
+        "title": "Just Energy Group Announces Closing of Public Offering and Private Placement of Series A Preferred Shares Raising Gross Proceeds of US$101 Million"
+    },
+    {
+        "contents": "data\\JE\\20170208-090836.news",
+        "description": null,
+        "guid": "yahoo_finance/3950354992",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=je.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
+        "source": "data\\JE\\20170208.rss",
+        "title": "Q3 2017 Just Energy Group Inc Earnings Release - After Market Close"
     }
 ]

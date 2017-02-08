@@ -403,5 +403,14 @@
         "pubDate": "Fri, 03 Feb 2017 15:00:00 GMT",
         "source": "data\\AC\\20170204.rss",
         "title": "Media Advisory - Air Canada to Unveil the Future of Canada's Flag Carrier at Events in Toronto, Montreal and Vancouver"
+    },
+    {
+        "contents": "data\\AC\\20170207-234307.news",
+        "description": "[CNW Group] - Media Advisory - Air Canada Invites Media to Meet the Top Canadian Talents Helping to Shape the Future of Canada's Flag-Carrier",
+        "guid": "yahoo_finance/3361001927",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-air-canada-invites-150000759.html",
+        "pubDate": "Tue, 07 Feb 2017 15:00:00 GMT",
+        "source": "data\\AC\\20170207.rss",
+        "title": "Media Advisory - Air Canada Invites Media to Meet the Top Canadian Talents Helping to Shape the Future of Canada's Flag-Carrier"
     }
 ]

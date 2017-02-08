@@ -745,5 +745,14 @@
         "pubDate": "Tue, 31 Jan 2017 14:48:01 GMT",
         "source": "data\\ECA\\20170201.rss",
         "title": "Why Is Encana Rising along with Crude Oil Prices?"
+    },
+    {
+        "contents": "data\\ECA\\20170208-090159.news",
+        "description": null,
+        "guid": "yahoo_finance/2467637931",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12bmtm8fl/*http://marketrealist.com/2017/02/why-is-encana-stock-in-a-strong-uptrend/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 12:38:36 GMT",
+        "source": "data\\ECA\\20170208.rss",
+        "title": "Why Is Encana Stock in a Strong Uptrend?"
     }
 ]

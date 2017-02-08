@@ -313,5 +313,14 @@
         "pubDate": "Wed, 01 Feb 2017 13:00:00 GMT",
         "source": "data\\PNT\\20170201.rss",
         "title": "CPI Card Group Announces Ticker Symbol Change to \u201cPMTS\u201d on the Toronto Stock Exchange"
+    },
+    {
+        "contents": "data\\PNT\\20170208-090817.news",
+        "description": "[Business Wire] - CPI Card Group , a global leader in financial and EMV\u00ae chip card production and related services, today announced it will host a live conference call on Wednesday, March 1, 2017 at 5:00 p.m.",
+        "guid": "yahoo_finance/2782919383",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cpi-card-group-schedules-fourth-133000286.html",
+        "pubDate": "Wed, 08 Feb 2017 13:30:00 GMT",
+        "source": "data\\PNT\\20170208.rss",
+        "title": "CPI Card Group Schedules Fourth Quarter and Full Year 2016 Earnings Announcement and Conference Call"
     }
 ]

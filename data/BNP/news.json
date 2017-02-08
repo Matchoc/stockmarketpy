@@ -187,5 +187,50 @@
         "pubDate": "Wed, 01 Feb 2017 22:00:00 GMT",
         "source": "data\\BNP\\20170202.rss",
         "title": "Bonavista Energy Corporation Replaces 131% of 2016 Production with the addition of 32.8 MMboe of Proved Plus Probable Reserves at no net cost"
+    },
+    {
+        "contents": "data\\BNP\\20170207-232645.news",
+        "description": null,
+        "guid": "yahoo_finance/3043355734",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bonavista-energy-corporation-confirms-dividend-201000205.html",
+        "pubDate": "Wed, 15 Jun 2016 20:10:00 GMT",
+        "source": "data\\BNP\\20170207.rss",
+        "title": "Bonavista Energy Corporation Confirms Dividend for July 15, 2016"
+    },
+    {
+        "contents": "data\\BNP\\20170207-232646.news",
+        "description": null,
+        "guid": "yahoo_finance/1984477603",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=134a5sp7e/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-bonavista-energy-corp-june-3-2016/",
+        "pubDate": "Fri, 03 Jun 2016 19:12:02 GMT",
+        "source": "data\\BNP\\20170207.rss",
+        "title": "ETF\u2019s with exposure to Bonavista Energy Corp. : June 3, 2016"
+    },
+    {
+        "contents": "data\\BNP\\20170207-232659.news",
+        "description": null,
+        "guid": "yahoo_finance/1068888477",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fdic-190-mln-settlement-banks-143548736.html",
+        "pubDate": "Thu, 02 Jun 2016 14:35:48 GMT",
+        "source": "data\\BNP\\20170207.rss",
+        "title": "FDIC in $190 mln settlement with banks over Countrywide debt"
+    },
+    {
+        "contents": "data\\BNP\\20170207-232704.news",
+        "description": null,
+        "guid": "yahoo_finance/4020938026",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-ala-bnp-115900638.html",
+        "pubDate": "Fri, 27 May 2016 11:59:00 GMT",
+        "source": "data\\BNP\\20170207.rss",
+        "title": "IIROC Trade Resumption - ALA; BNP"
+    },
+    {
+        "contents": "data\\BNP\\20170207-232705.news",
+        "description": null,
+        "guid": "yahoo_finance/344662922",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/iiroc-trade-resumption-ala-bnp-115900731.html",
+        "pubDate": "Fri, 27 May 2016 11:59:00 GMT",
+        "source": "data\\BNP\\20170207.rss",
+        "title": "IIROC Trade Resumption - ALA; BNP"
     }
 ]

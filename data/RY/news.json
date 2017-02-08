@@ -1366,5 +1366,32 @@
         "pubDate": "Mon, 06 Feb 2017 16:00:00 GMT",
         "source": "data\\RY\\20170207.rss",
         "title": "RBC captures more than a dozen wealth management wins at 2017 Euromoney awards"
+    },
+    {
+        "contents": "data\\RY\\20170207-233712.news",
+        "description": "[Reuters] - Canada's main stock index rose on Tuesday, with gains among heavyweight financial stocks on talk of a U.S. interest rate hike in March offsetting losses for shares of energy companies as oil prices weighed. The Toronto Stock Exchange's S&P/TSX composite index settled up 41.86 points, or 0.27 percent, at 15,498.80.",
+        "guid": "yahoo_finance/2163605020",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-fed-hike-212629715.html",
+        "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
+    },
+    {
+        "contents": "data\\RY\\20170207-233714.news",
+        "description": null,
+        "guid": "yahoo_finance/3677763829",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12qn16utm/*http://www.bloomberg.com/news/videos/2017-02-07/rbc-s-golub-sees-earnings-at-8-5-in-2017?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 15:39:55 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "RBC's Golub Sees Earnings at 8.5% in 2017"
+    },
+    {
+        "contents": "data\\RY\\20170207-233715.news",
+        "description": null,
+        "guid": "yahoo_finance/3796514580",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=1335di1jl/*http://www.bloomberg.com/news/videos/2017-02-07/rbc-s-golub-shares-strategy-to-combat-market-calm?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 15:23:03 GMT",
+        "source": "data\\RY\\20170207.rss",
+        "title": "RBC's Golub Says Safety Stocks Are Getting Beat Up"
     }
 ]

@@ -421,5 +421,59 @@
         "pubDate": "Mon, 06 Feb 2017 20:55:26 GMT",
         "source": "data\\G\\20170207.rss",
         "title": "Which Senior Gold Miners Are Analysts Watching?"
+    },
+    {
+        "contents": "data\\G\\20170207-232358.news",
+        "description": null,
+        "guid": "yahoo_finance/640118647",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/water-scarcity-tops-list-world-233027358.html",
+        "pubDate": "Tue, 07 Feb 2017 23:30:27 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Water scarcity tops list of world miners' worries"
+    },
+    {
+        "contents": "data\\G\\20170207-232400.news",
+        "description": null,
+        "guid": "yahoo_finance/4216144494",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/water-scarcity-tops-list-world-233025311.html",
+        "pubDate": "Tue, 07 Feb 2017 23:30:25 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Water scarcity tops list of world miners' worries"
+    },
+    {
+        "contents": "data\\G\\20170207-232401.news",
+        "description": null,
+        "guid": "yahoo_finance/1953249126",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12rs70r50/*http://www.fool.com/investing/2017/02/07/why-shares-of-goldcorp-popped-15-in-january.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 07 Feb 2017 17:45:27 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "Why Shares of Goldcorp Popped 15% in January"
+    },
+    {
+        "contents": "data\\G\\20170207-232403.news",
+        "description": null,
+        "guid": "yahoo_finance/2684097380",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=131acmus8/*http://www.fool.com/investing/2017/02/07/2-big-reasons-silver-wheaton-vaulted-15-higher-in.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Tue, 07 Feb 2017 17:30:51 GMT",
+        "source": "data\\G\\20170207.rss",
+        "title": "2 Big Reasons Silver Wheaton Vaulted 15% Higher in January"
+    },
+    {
+        "contents": "data\\G\\20170208-090949.news",
+        "description": "[CNW Group] - Goldcorp announces acquisition of gold stream at El Morro",
+        "guid": "yahoo_finance/1951182547",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/goldcorp-announces-acquisition-gold-stream-124500416.html",
+        "pubDate": "Wed, 08 Feb 2017 12:45:00 GMT",
+        "source": "data\\G\\20170208.rss",
+        "title": "Goldcorp announces acquisition of gold stream at El Morro"
+    },
+    {
+        "contents": "data\\G\\20170208-090951.news",
+        "description": "[PR Newswire] - \"The purchase of the stream from New Gold is consistent with our strategy of optimizing our portfolio to drive increasing net asset value per share,\" said David Garofalo, President and Chief Executive Officer. \"El Morro is a world-class deposit, located in one of the best mining jurisdictions in the Americas. This stream unlocks further upside potential for our shareholders over the long-term. Goldcorp is a senior gold producer focused on responsible mining practices with safe, low-cost production from a high-quality portfolio of mines.",
+        "guid": "yahoo_finance/4071150458",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/goldcorp-announces-acquisition-gold-stream-124500147.html",
+        "pubDate": "Wed, 08 Feb 2017 12:45:00 GMT",
+        "source": "data\\G\\20170208.rss",
+        "title": "Goldcorp announces acquisition of gold stream at El Morro"
     }
 ]

@@ -412,5 +412,23 @@
         "pubDate": "Mon, 06 Feb 2017 13:30:00 GMT",
         "source": "data\\MNW\\20170206.rss",
         "title": "Mitel to Announce Fourth Quarter Financial Results on Thursday, February 23, 2017"
+    },
+    {
+        "contents": "data\\MNW\\20170208-091000.news",
+        "description": "[GlobeNewswire] - Mavenir brand to be showcased at Mobile World Congress 2017 WAKEFIELD, Mass., Feb. 08, 2017 (GLOBE NEWSWIRE) -- Following the announcement in December 2016 that affiliates of Xura entered into definitive ...",
+        "guid": "yahoo_finance/574028616",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/xura-change-company-name-mavenir-071505065.html",
+        "pubDate": "Wed, 08 Feb 2017 07:15:05 GMT",
+        "source": "data\\MNW\\20170208.rss",
+        "title": "Xura to change company name to Mavenir Systems upon completion of Mitel Mobile acquisition"
+    },
+    {
+        "contents": "data\\MNW\\20170208-091002.news",
+        "description": "[GlobeNewswire] - Mavenir brand to be showcased at Mobile World Congress 2017. WAKEFIELD, Mass., Feb. 08, 2017-- Following the announcement in December 2016 that affiliates of Xura entered into definitive agreements to ...",
+        "guid": "yahoo_finance/63310624",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/xura-change-company-name-mavenir-070100786.html",
+        "pubDate": "Wed, 08 Feb 2017 07:01:00 GMT",
+        "source": "data\\MNW\\20170208.rss",
+        "title": "Xura to change company name to Mavenir Systems upon completion of Mitel Mobile acquisition"
     }
 ]

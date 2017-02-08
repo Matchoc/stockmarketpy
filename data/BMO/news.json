@@ -736,5 +736,23 @@
         "pubDate": "Tue, 07 Feb 2017 13:00:00 GMT",
         "source": "data\\BMO\\20170207.rss",
         "title": "BMO Annual RRSP Study: Canadians Using RRSPs to Fund Everyday Expenses and Debt Repayment"
+    },
+    {
+        "contents": "data\\BMO\\20170207-232255.news",
+        "description": "[Marketwired] - BMO Financial Group will announce its first quarter 2017 financial results and hold its investor community conference call on Tuesday, February 28, 2017. Financial results will be issued in a news release ...",
+        "guid": "yahoo_finance/302962210",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-bmo-financial-group-202821009.html",
+        "pubDate": "Tue, 07 Feb 2017 20:28:21 GMT",
+        "source": "data\\BMO\\20170207.rss",
+        "title": "MEDIA ADVISORY: BMO Financial Group to Announce its First Quarter 2017 Results"
+    },
+    {
+        "contents": "data\\BMO\\20170208-091234.news",
+        "description": "[Marketwired] - BMO Bank of Montreal today announced an enhanced Canadian Defence Community Banking Program designed to better serve the banking needs of regular force personnel, reserves, recruits, military families, ...",
+        "guid": "yahoo_finance/3725539186",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-enhances-canadian-defence-community-130000435.html",
+        "pubDate": "Wed, 08 Feb 2017 13:00:00 GMT",
+        "source": "data\\BMO\\20170208.rss",
+        "title": "BMO Enhances Canadian Defence Community Banking Program"
     }
 ]

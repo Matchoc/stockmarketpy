@@ -772,5 +772,23 @@
         "pubDate": "Mon, 06 Feb 2017 13:44:01 GMT",
         "source": "data\\SU\\20170207.rss",
         "title": "Why Earnings Season Could Be Great for Suncor Energy (SU)"
+    },
+    {
+        "contents": "data\\SU\\20170207-233952.news",
+        "description": null,
+        "guid": "yahoo_finance/3078802964",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/syncrude-turnaround-planned-april-until-160309146.html",
+        "pubDate": "Tue, 07 Feb 2017 16:03:09 GMT",
+        "source": "data\\SU\\20170207.rss",
+        "title": "Syncrude turnaround planned from late April until June - spokesman"
+    },
+    {
+        "contents": "data\\SU\\20170208-091026.news",
+        "description": null,
+        "guid": "yahoo_finance/4291630093",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=su.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:06 GMT",
+        "source": "data\\SU\\20170208.rss",
+        "title": "Q4 2016 Suncor Energy Inc Earnings Release - After Market Close"
     }
 ]

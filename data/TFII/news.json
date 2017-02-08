@@ -97,5 +97,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
         "source": "data\\TFII\\20170206.rss",
         "title": "Research Reports Initiated on Industrials Stocks Finning International, Toromont Industries, Canadian National Railway, and TFI International"
+    },
+    {
+        "contents": "data\\TFII\\20170208-090110.news",
+        "description": null,
+        "guid": "yahoo_finance/2131056265",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14hlgm5uk/*http://www.capitalcube.com/blog/index.php/tfi-international-inc-breached-its-50-day-moving-average-in-a-bearish-manner-tfii-ca-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 13:17:03 GMT",
+        "source": "data\\TFII\\20170208.rss",
+        "title": "TFI International, Inc. breached its 50 day moving average in a Bearish Manner : TFII-CA : February 8, 2017"
     }
 ]

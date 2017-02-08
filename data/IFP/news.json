@@ -277,5 +277,14 @@
         "pubDate": "Tue, 07 Feb 2017 13:13:19 GMT",
         "source": "data\\IFP\\20170207.rss",
         "title": "Interfor Corp. breached its 50 day moving average in a Bullish Manner : IFP-CA : February 7, 2017"
+    },
+    {
+        "contents": "data\\IFP\\20170208-090956.news",
+        "description": null,
+        "guid": "yahoo_finance/248527652",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-forest-products-131500487.html",
+        "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
+        "source": "data\\IFP\\20170208.rss",
+        "title": "Research Reports Initiated on Forest Products Stocks Western Forest Products, Interfor, Stella-Jones, and Canfor Pulp Products"
     }
 ]

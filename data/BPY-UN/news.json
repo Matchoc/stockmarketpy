@@ -205,5 +205,50 @@
         "pubDate": "Fri, 03 Feb 2017 11:50:00 GMT",
         "source": "data\\BPY-UN\\20170203.rss",
         "title": "Brookfield Property Partners Reports Fourth Quarter & Full-Year 2016 Results"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170207-232213.news",
+        "description": "[PR Newswire] - TSX: BPY.UN), one of the world's largest commercial real estate companies, through separately controlled affiliates announced today an agreement to sell the Interhotel portfolio to FDM Management, a vehicle created by Fonci\u00e8re des Regions and institutional investors.",
+        "guid": "yahoo_finance/2368056951",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/starwood-capital-group-brookfield-jv-185500332.html",
+        "pubDate": "Fri, 20 May 2016 18:55:00 GMT",
+        "source": "data\\BPY-UN\\20170207.rss",
+        "title": "Starwood Capital Group-Brookfield JV Agrees To Sell Interhotel Portfolio In Germany"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170207-232216.news",
+        "description": "[Marketwired] - Brookfield Property Partners L.P. today announced financial results for the quarter ended March 31, 2016.",
+        "guid": "yahoo_finance/3454128088",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-property-partners-reports-first-105000441.html",
+        "pubDate": "Fri, 06 May 2016 10:50:00 GMT",
+        "source": "data\\BPY-UN\\20170207.rss",
+        "title": "Brookfield Property Partners Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170207-232218.news",
+        "description": null,
+        "guid": "yahoo_finance/146062611",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-office-properties-completes-preferred-121426131.html",
+        "pubDate": "Wed, 27 Apr 2016 12:14:26 GMT",
+        "source": "data\\BPY-UN\\20170207.rss",
+        "title": "Brookfield Office Properties Completes Preferred Share Issue for C$200 Million"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170207-232220.news",
+        "description": null,
+        "guid": "yahoo_finance/3296927115",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-office-properties-announces-redemption-210000255.html",
+        "pubDate": "Fri, 22 Apr 2016 21:00:00 GMT",
+        "source": "data\\BPY-UN\\20170207.rss",
+        "title": "Brookfield Office Properties Announces Redemption of Class AAA Preference Shares, Series H"
+    },
+    {
+        "contents": "data\\BPY-UN\\20170207-232222.news",
+        "description": null,
+        "guid": "yahoo_finance/4025318921",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-property-partners-hold-conference-203000737.html",
+        "pubDate": "Fri, 01 Apr 2016 20:30:00 GMT",
+        "source": "data\\BPY-UN\\20170207.rss",
+        "title": "Brookfield Property Partners to Hold Conference Call & Webcast of 2016 First Quarter Financial Results Friday, May 6, 2016 at 11:00 AM (ET)"
     }
 ]

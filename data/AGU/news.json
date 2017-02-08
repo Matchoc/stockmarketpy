@@ -565,5 +565,23 @@
         "pubDate": "Thu, 24 Jul 2014 11:23:57 GMT",
         "source": "data\\AGU\\20170129.rss",
         "title": "Potash Corp boosts outlook as profit tops expectations"
+    },
+    {
+        "contents": "data\\AGU\\20170207-234234.news",
+        "description": null,
+        "guid": "yahoo_finance/1424975538",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sell-agrium-agu-earnings-135401049.html",
+        "pubDate": "Tue, 07 Feb 2017 13:54:01 GMT",
+        "source": "data\\AGU\\20170207.rss",
+        "title": "Should You Sell Agrium (AGU) Before Earnings?"
+    },
+    {
+        "contents": "data\\AGU\\20170208-091254.news",
+        "description": null,
+        "guid": "yahoo_finance/1461830110",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1453vvmqu/*http://www.capitalcube.com/blog/index.php/agrium-inc-breached-its-50-day-moving-average-in-a-bullish-manner-agu-ca-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 13:07:07 GMT",
+        "source": "data\\AGU\\20170208.rss",
+        "title": "Agrium, Inc. breached its 50 day moving average in a Bullish Manner : AGU-CA : February 8, 2017"
     }
 ]

@@ -430,5 +430,14 @@
         "pubDate": "Thu, 02 Feb 2017 15:40:40 GMT",
         "source": "data\\IMO\\20170203.rss",
         "title": "Imperial Oil Ltd. :IMO-CA: Earnings Analysis: 2016 By the Numbers : February 2, 2017"
+    },
+    {
+        "contents": "data\\IMO\\20170207-233132.news",
+        "description": null,
+        "guid": "yahoo_finance/3078802964",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/syncrude-turnaround-planned-april-until-160309146.html",
+        "pubDate": "Tue, 07 Feb 2017 16:03:09 GMT",
+        "source": "data\\IMO\\20170207.rss",
+        "title": "Syncrude turnaround planned from late April until June - spokesman"
     }
 ]

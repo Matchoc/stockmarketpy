@@ -1015,5 +1015,77 @@
         "pubDate": "Mon, 06 Feb 2017 11:14:46 GMT",
         "source": "data\\BBD.B\\20170206.rss",
         "title": "China's first large homemade passenger jet to fly in 2017"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232733.news",
+        "description": null,
+        "guid": "yahoo_finance/3697885289",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://uk.finance.yahoo.com/news/canada-federal-government-grant-372-032318175.html",
+        "pubDate": "Wed, 08 Feb 2017 03:23:18 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada federal government to grant $372.5 mn loan to Bombardier"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232735.news",
+        "description": "[Reuters] - The Canadian government on Tuesday announced C$372.5 million ($283 million) in repayable loans for two of Bombardier Inc's jet programs, promising to defend the deal against a potential trade challenge by Brazil. While the aid was far less than the $1 billion originally sought by the Canadian plane and train maker, Chief Executive Officer Alain Bellemare called it the right level of support, saying the company's financial situation had improved. The move risks exacerbating trade wounds with rival jetmaking nation Brazil, which has already threatened to take Canada to the World Trade Organization over a $1 billion injection by Quebec for the CSeries.",
+        "guid": "yahoo_finance/2053395786",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-gives-aid-bombardier-vows-011540466.html",
+        "pubDate": "Wed, 08 Feb 2017 02:04:00 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada gives aid to Bombardier, vows to defend any trade dispute"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232736.news",
+        "description": "[Reuters] - Canada's federal government on Tuesday announced C$372.5 million ($283 million) in repayable loans for two of Bombardier Inc's jet programs, far less than the $1 billion originally sought by the Canadian plane and train maker. The loans, which come from a Canadian aerospace and defence fund targeting research and development projects, will be used for Bombardier's CSeries family of narrowbodies and the Global 7000 business jet, according to a statement from the government. \"The repayable contributions announced today will help to ensure that Canada remains at the centre of Bombardier's research and development activities,\" Bombardier Chief Executive Alain Bellemare said in a statement.",
+        "guid": "yahoo_finance/3211534457",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-announces-c-372-5-233006275.html",
+        "pubDate": "Tue, 07 Feb 2017 23:30:06 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada announces C$372.5 mln loan to Bombardier"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232740.news",
+        "description": "[Reuters] - The Canadian government will announce an aid package for Bombardier Inc later on Tuesday, although a source familiar with the matter said the amount would be far less than the plane-maker had requested. The assistance from the government could trigger a new trade dispute with Brazil, which said late last year it would start proceedings against Canada at the World Trade Organization over what it calls unfair support. Bombardier and Brazil's Embraer SA have battled for decades over the regional jet market.",
+        "guid": "yahoo_finance/353287309",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-announce-aid-package-bombardier-225549085.html",
+        "pubDate": "Tue, 07 Feb 2017 23:21:26 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada to announce C$372 mln aid to Bombardier -source"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232741.news",
+        "description": null,
+        "guid": "yahoo_finance/3389737070",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13gsq6m99/*http://www.bloomberg.com/news/articles/2017-02-07/canada-said-to-announce-funding-for-bombardier-tuesday-night?cmpid=yhoo.headline",
+        "pubDate": "Tue, 07 Feb 2017 22:16:48 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada Pledges $282 Million in Boost for Bombardier Jet Programs"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232742.news",
+        "description": null,
+        "guid": "yahoo_finance/1585573666",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-said-announce-funding-bombardier-221648347.html",
+        "pubDate": "Tue, 07 Feb 2017 22:16:48 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada Said to Pledge C$372 Million in Bombardier Jet Aid"
+    },
+    {
+        "contents": "data\\BBD.B\\20170207-232743.news",
+        "description": "[Reuters] - The Canadian government will announce an aid package for plane-maker Bombardier Inc later on Tuesday, a source familiar with the matter said. Canadian Innovation Minister Navdeep Bains was scheduled to ...",
+        "guid": "yahoo_finance/3529731522",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-announce-aid-package-bombardier-221638548.html",
+        "pubDate": "Tue, 07 Feb 2017 22:16:38 GMT",
+        "source": "data\\BBD.B\\20170207.rss",
+        "title": "Canada to announce aid package for Bombardier -source"
+    },
+    {
+        "contents": "data\\BBD.B\\20170208-091118.news",
+        "description": "[Reuters] - BRASILIA/SAO PAULO, Feb 8 (Reuters) - Brazil opened a formal complaint against Canada at the World Trade Organization (WTO) on Wednesday, accusing the country of distorting the global aerospace industry with subsidies for planemaker Bombardier Inc . Brazil has threatened for months to open the WTO process, arguing that support for Bombardier's new CSeries was undercutting the market for commercial jets made by Brazilian rival Embraer SA.",
+        "guid": "yahoo_finance/1544195320",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brazil-challenges-canada-wto-over-135353436.html",
+        "pubDate": "Wed, 08 Feb 2017 13:53:53 GMT",
+        "source": "data\\BBD.B\\20170208.rss",
+        "title": "Brazil challenges Canada at WTO over Bombardier loans"
     }
 ]

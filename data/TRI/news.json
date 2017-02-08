@@ -196,5 +196,14 @@
         "pubDate": "Mon, 06 Feb 2017 22:16:10 GMT",
         "source": "data\\TRI\\20170207.rss",
         "title": "Thomson Reuters (TRI) Q4 Earnings: What Awaits the Stock?"
+    },
+    {
+        "contents": "data\\TRI\\20170208-091335.news",
+        "description": null,
+        "guid": "yahoo_finance/1544018016",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/business-services-stocks-earnings-feb-114711146.html",
+        "pubDate": "Wed, 08 Feb 2017 11:47:11 GMT",
+        "source": "data\\TRI\\20170208.rss",
+        "title": "Business Services Stocks Earnings on Feb 9: TRI, NLSN & More"
     }
 ]

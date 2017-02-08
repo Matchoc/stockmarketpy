@@ -804,6 +804,7 @@ def update_morning_prices():
 	
 SKIP_SYMBOL = "" # for debugging one symbol skip training of this one (different than cross-validating which should take a random sample... in this case I want to debug a specific symbol)
 if __name__ == '__main__':
+	update_all_symbols(["price2json", "rss2json", "dlnews", "processnews", "today", "updateCSV"])
 	#train_cross_variations()
 	#graph_actual_vs_predicted()
 	#update_symbol("BNS")
@@ -829,6 +830,6 @@ if __name__ == '__main__':
 	#update_all_symbols(["train", "crossval"])
 	#update_all_symbols(["crossval"])
 	#update_all_symbols(["today", "updateCSV"])
-	update_all_symbols(["dlprice", "price2json", "updateCSV"])
+	#update_all_symbols(["dlprice", "price2json", "updateCSV"])
 	
 	myprint("done", 5)

@@ -187,5 +187,176 @@
         "pubDate": "Mon, 12 Sep 2016 15:13:28 GMT",
         "source": "data\\KXS\\20170202.rss",
         "title": "ETF\u2019s with exposure to Kinaxis, Inc. : September 12, 2016"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233050.news",
+        "description": null,
+        "guid": "yahoo_finance/2994261649",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/event-alert-kinaxis-customer-msd-110000632.html",
+        "pubDate": "Mon, 12 Sep 2016 11:00:00 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Event Alert: Kinaxis Customer, MSD, to Present at Gartner Supply Chain Executive Conference"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233052.news",
+        "description": null,
+        "guid": "yahoo_finance/2310395366",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/event-alert-kinaxis-customer-ford-113000646.html",
+        "pubDate": "Thu, 08 Sep 2016 11:30:00 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Event Alert: Kinaxis Customer, Ford Motor Company, to Present at North American Supply Chain Executive Summit"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233053.news",
+        "description": null,
+        "guid": "yahoo_finance/1834084362",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=12vklfrh2/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-kinaxis-inc-september-1-2016/",
+        "pubDate": "Thu, 01 Sep 2016 13:44:16 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "ETF\u2019s with exposure to Kinaxis, Inc. : September 1, 2016"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233119.news",
+        "description": "[at noodls] - OTTAWA, CANADA - August 3, 2016 - Kinaxis (TSX:KXS), provider of RapidResponse \u00ae, delivering cloud-based SCM and S&OP applications, reported results for its fiscal second quarter, which ended June 30, ...",
+        "guid": "yahoo_finance/3576001802",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128b65t7q/*http://www.publicnow.com/view/2F854742FD9A266865EB9F79AC648E63BE41F13D",
+        "pubDate": "Wed, 03 Aug 2016 21:12:14 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Inc. Reports Fiscal Second Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233119.news",
+        "description": null,
+        "guid": "yahoo_finance/3631038551",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kinaxis-inc-reports-fiscal-second-210000773.html",
+        "pubDate": "Wed, 03 Aug 2016 21:00:00 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Inc. Reports Fiscal Second Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233121.news",
+        "description": "[at noodls] - Ottawa, Ontario and Suwon, South Korea, July 27, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, today announced that Samsung Electronics has selected ...",
+        "guid": "yahoo_finance/842681764",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128lp2cg7/*http://www.publicnow.com/view/3C701285DABF0F79F72EAE209288E2BA52B32918",
+        "pubDate": "Wed, 27 Jul 2016 11:08:11 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis to Provide Supply Chain Management Solutions for Samsung Electronics"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233121.news",
+        "description": null,
+        "guid": "yahoo_finance/1146194996",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kinaxis-supply-chain-management-solutions-110000593.html",
+        "pubDate": "Wed, 27 Jul 2016 11:00:00 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis to Provide Supply Chain Management Solutions for Samsung Electronics"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233123.news",
+        "description": "[at noodls] - OTTAWA, CANADA, July 14, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, today announced that it will hold a conference call to discuss the results ...",
+        "guid": "yahoo_finance/2469983850",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128ee3mfp/*http://www.publicnow.com/view/556742817BF4F2A534E9F305AF0FAD7561276E56",
+        "pubDate": "Thu, 14 Jul 2016 11:18:05 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Inc. to Host Second Quarter 2016 Investor Conference Call on August 4, 2016"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233123.news",
+        "description": "[at noodls] - OTTAWA, CANADA, July 13, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, has been named a 'Great Supply Chain Partner' by SupplyChainBrain, making ...",
+        "guid": "yahoo_finance/3380626938",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289cj98k/*http://www.publicnow.com/view/409CEC6A03FA1B91D8A80356F349D00FD49B6E0E",
+        "pubDate": "Wed, 13 Jul 2016 11:23:09 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Named a \u2018Great Supply Chain Partner\u2019 by SupplyChainBrain"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233123.news",
+        "description": "[at noodls] - Ottawa, Ontario, July 11, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, today announced availability of RapidResponse 2016.2, which delivers ...",
+        "guid": "yahoo_finance/2883730359",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128rc5525/*http://www.publicnow.com/view/6F09DFACBD8921C7B2F1D8B209C2CF68B907E775",
+        "pubDate": "Mon, 11 Jul 2016 11:13:04 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Unveils New Capabilities for Superior Supply Chain Management with Latest Product Release"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233123.news",
+        "description": "[at noodls] - Ottawa, Canada, June 28, 2016 - Kinaxis \u00ae, provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, is proud to announce that it has been selected as one of the 2016 '100 Great Supply ...",
+        "guid": "yahoo_finance/3642726066",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128t6h802/*http://www.publicnow.com/view/DC90D52AB04FC780C30392B5FF2EF8367654BAB4",
+        "pubDate": "Tue, 28 Jun 2016 13:51:05 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Named Among 2016 Top 100 Great Supply Chain Projects by Supply & Demand Chain Executive"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Ontario - June 21, 2016 - Kinaxis\u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, announced today that all of management's nominees listed in the management ...",
+        "guid": "yahoo_finance/3254823445",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128cergsg/*http://www.publicnow.com/view/0F7B43971B5E7D56E7B312A7A31EE07B4A139302",
+        "pubDate": "Thu, 23 Jun 2016 20:09:01 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Announces Election of Directors"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Canada, May 9, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, is proud to be a premier conference sponsor of the 2016 Gartner Supply Chain ...",
+        "guid": "yahoo_finance/3032415383",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1289j606g/*http://www.publicnow.com/view/1840F5CBE0E9CABA61A6DE7773DDB672612C1D18",
+        "pubDate": "Mon, 09 May 2016 11:16:08 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Event Alert: Kinaxis Customer, Schneider Electric, to Present at Gartner Supply Chain Executive Conference"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Canada - May 4, 2016 - Kinaxis (TSX:KXS), provider of RapidResponse \u00ae, delivering cloud-based SCM and S&OP applications, reported results for its fiscal first quarter, which ended March 31, 2016. ...",
+        "guid": "yahoo_finance/2688406868",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128aied1e/*http://www.publicnow.com/view/EE73A13C25EF5EFB55C192C64690920AE0C38351",
+        "pubDate": "Wed, 04 May 2016 21:11:06 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Inc. Reports First Quarter 2016 Results"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Canada, May 3, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications today announced a new alliance with Deloitte Consulting LLP in the US to ...",
+        "guid": "yahoo_finance/1011816861",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=1287tld6c/*http://www.publicnow.com/view/841CE422B85017B6793EF0D8EFEE6087BA8C4DAF",
+        "pubDate": "Tue, 03 May 2016 11:10:11 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis and Deloitte Join Forces to Provide Supply Chain Management Cloud Solutions"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - OTTAWA, CANADA, April 21, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, today announced that it will hold a conference call to discuss the results ...",
+        "guid": "yahoo_finance/1598088532",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=12845uh6b/*http://www.publicnow.com/view/A77846538FA117D00284EA7E842A4C74DC8AA362",
+        "pubDate": "Thu, 21 Apr 2016 14:57:02 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Inc. to Host First Quarter 2016 Investor Conference Call on May 4, 2015"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Canada, April 12, 2016 - Kinaxis \u00ae (TSX:KXS), provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, is proud to be a sponsor of LogiPharma 2016: Transforming Pharma Supply ...",
+        "guid": "yahoo_finance/3223041922",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128pqvnnh/*http://www.publicnow.com/view/3F4DC45F739C75CC97B013BFFD75E4DB38996431",
+        "pubDate": "Tue, 12 Apr 2016 18:24:17 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Event Alert: Kinaxis Customer, Gilead Sciences, to Present at LogiPharma 2016 Conference"
+    },
+    {
+        "contents": "data\\KXS\\20170207-233124.news",
+        "description": "[at noodls] - Ottawa, Canada, March 29, 2016 - Kinaxis \u00ae, provider of RapidResponse\u00ae, delivering cloud-based SCM and S&OP applications, has again been named one of Canada's Top Small & Medium Employers. ... This is ...",
+        "guid": "yahoo_finance/2220676607",
+        "link": "http://us.rd.yahoo.com/finance/external/noodlsaunz/rss/SIG=128uks8jn/*http://www.publicnow.com/view/8FAC35680E2C786E489EBCFD58A8A23EFD4B3AAE",
+        "pubDate": "Tue, 29 Mar 2016 12:37:28 GMT",
+        "source": "data\\KXS\\20170207.rss",
+        "title": "Kinaxis Recognized as One of Canada\u2019s Top Small & Medium Employers for 2016"
+    },
+    {
+        "contents": "data\\KXS\\20170208-090502.news",
+        "description": null,
+        "guid": "yahoo_finance/2948697443",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kinaxis-inc-host-fourth-quarter-122400646.html",
+        "pubDate": "Wed, 08 Feb 2017 12:24:00 GMT",
+        "source": "data\\KXS\\20170208.rss",
+        "title": "Kinaxis Inc. to Host Fourth Quarter 2016 Investor Conference Call on March 1, 2017"
     }
 ]

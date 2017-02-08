@@ -394,5 +394,14 @@
         "pubDate": "Thu, 02 Feb 2017 17:34:12 GMT",
         "source": "data\\SAP\\20170204.rss",
         "title": "Saputo Inc.: Financial Results for Fiscal 2017 Third Quarter Ended December 31, 2016"
+    },
+    {
+        "contents": "data\\SAP\\20170207-233253.news",
+        "description": null,
+        "guid": "yahoo_finance/793161653",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13n4n3p3p/*http://www.capitalcube.com/blog/index.php/saputo-inc-sap-ca-earnings-analysis-q3-2017-by-the-numbers-february-7-2017/",
+        "pubDate": "Tue, 07 Feb 2017 14:42:45 GMT",
+        "source": "data\\SAP\\20170207.rss",
+        "title": "Saputo, Inc. :SAP-CA: Earnings Analysis: Q3, 2017 By the Numbers : February 7, 2017"
     }
 ]

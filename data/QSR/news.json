@@ -511,5 +511,14 @@
         "pubDate": "Mon, 06 Feb 2017 22:29:00 GMT",
         "source": "data\\QSR\\20170207.rss",
         "title": "Restaurant Brands International Inc. to Report Full Year and Fourth Quarter 2016 Results on February 13, 2017; Provides Selected Full Year 2016 Guidance"
+    },
+    {
+        "contents": "data\\QSR\\20170207-233034.news",
+        "description": "[Reuters] - Canada's main stock index rose on Tuesday, with gains among heavyweight financial stocks on talk of a U.S. interest rate hike in March offsetting losses for shares of energy companies as oil prices weighed. The Toronto Stock Exchange's S&P/TSX composite index settled up 41.86 points, or 0.27 percent, at 15,498.80.",
+        "guid": "yahoo_finance/2163605020",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-fed-hike-212629715.html",
+        "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
+        "source": "data\\QSR\\20170207.rss",
+        "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
     }
 ]

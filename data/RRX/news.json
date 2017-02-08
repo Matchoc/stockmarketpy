@@ -250,5 +250,14 @@
         "pubDate": "Tue, 10 May 2016 13:18:06 GMT",
         "source": "data\\RRX\\20170128.rss",
         "title": "Announces First Quarter Operating and Financial Results and Increased Guidance and Reaffirms Credit Facility"
+    },
+    {
+        "contents": "data\\RRX\\20170207-233346.news",
+        "description": null,
+        "guid": "yahoo_finance/2780600186",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/raging-river-exploration-inc-announces-014843008.html",
+        "pubDate": "Wed, 08 Feb 2017 01:48:43 GMT",
+        "source": "data\\RRX\\20170207.rss",
+        "title": "Raging River Exploration Inc. Announces 2016 Year End Reserves, Preliminary 2016 Results and Operations Update"
     }
 ]

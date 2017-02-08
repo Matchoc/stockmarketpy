@@ -979,5 +979,32 @@
         "pubDate": "Mon, 06 Feb 2017 16:53:00 GMT",
         "source": "data\\VRX\\20170207.rss",
         "title": "Valeant Pharmaceuticals: Why This Earnings Report is Really, Really Important"
+    },
+    {
+        "contents": "data\\VRX\\20170207-232344.news",
+        "description": null,
+        "guid": "yahoo_finance/338504919",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ruane-cunniff-goldfarbs-sequoia-fund-172058898.html",
+        "pubDate": "Tue, 07 Feb 2017 17:20:58 GMT",
+        "source": "data\\VRX\\20170207.rss",
+        "title": "Ruane, Cunniff & Goldfarb's Sequoia Fund 4th Quarter Shareholder Letter"
+    },
+    {
+        "contents": "data\\VRX\\20170207-232346.news",
+        "description": null,
+        "guid": "yahoo_finance/732131085",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=1365crmre/*http://blogs.barrons.com/stockstowatchtoday/2017/02/07/valeant-pharmaceuticals-worthy-of-your-trust/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Tue, 07 Feb 2017 15:07:00 GMT",
+        "source": "data\\VRX\\20170207.rss",
+        "title": "Valeant Pharmaceuticals: Worthy of Your Trust?"
+    },
+    {
+        "contents": "data\\VRX\\20170208-091007.news",
+        "description": null,
+        "guid": "yahoo_finance/2964504178",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12th30s68/*http://marketrealist.com/2017/02/bill-miller-valeant-pharmaceuticals-providing-opportunity/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 12:36:57 GMT",
+        "source": "data\\VRX\\20170208.rss",
+        "title": "What Bill Miller Thinks about Valeant Pharmaceuticals"
     }
 ]

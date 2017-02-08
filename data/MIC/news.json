@@ -232,5 +232,59 @@
         "pubDate": "Tue, 07 Feb 2017 12:07:05 GMT",
         "source": "data\\MIC\\20170207.rss",
         "title": "Q4 2016 Genworth MI Canada Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234117.news",
+        "description": null,
+        "guid": "yahoo_finance/1872094597",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-announces-225400489.html",
+        "pubDate": "Tue, 07 Feb 2017 22:54:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Announces Appointment of Neil Parkinson as a Director"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234118.news",
+        "description": null,
+        "guid": "yahoo_finance/2060348350",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-announces-225400105.html",
+        "pubDate": "Tue, 07 Feb 2017 22:54:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Announces Appointment of Neil Parkinson as a Director"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234120.news",
+        "description": null,
+        "guid": "yahoo_finance/3257146316",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-announces-223500418.html",
+        "pubDate": "Tue, 07 Feb 2017 22:35:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Announces Common Dividend in the First Quarter 2017"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234122.news",
+        "description": null,
+        "guid": "yahoo_finance/2972238887",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-announces-223500536.html",
+        "pubDate": "Tue, 07 Feb 2017 22:35:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Announces Common Dividend in the First Quarter 2017"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234123.news",
+        "description": null,
+        "guid": "yahoo_finance/2070238485",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-reports-223100658.html",
+        "pubDate": "Tue, 07 Feb 2017 22:31:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Reports Fourth Quarter and Full Year 2016 Results"
+    },
+    {
+        "contents": "data\\MIC\\20170207-234125.news",
+        "description": "[PR Newswire] - Premiums Earned: $164 million in Q4, up 9% Y/Y; $638 million for 2016, up 9% Y/Y Loss Ratio: 18% in Q4, down 5 points Y/Y; 22% for 2016, up one point Y/Y Net Income: $140 million in Q4, up 43% Y/Y, $417 ...",
+        "guid": "yahoo_finance/728653959",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/genworth-mi-canada-inc-reports-223100191.html",
+        "pubDate": "Tue, 07 Feb 2017 22:31:00 GMT",
+        "source": "data\\MIC\\20170207.rss",
+        "title": "Genworth MI Canada Inc. Reports Fourth Quarter and Full Year 2016 Results"
     }
 ]

@@ -493,5 +493,14 @@
         "pubDate": "Tue, 07 Feb 2017 12:36:48 GMT",
         "source": "data\\ELD\\20170207.rss",
         "title": "Keeping a Tab on Ratings Changes in the Intermediate Gold Space"
+    },
+    {
+        "contents": "data\\ELD\\20170207-234254.news",
+        "description": null,
+        "guid": "yahoo_finance/3318689577",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1327291kt/*http://marketrealist.com/2017/02/eldorado-gold-analysts-favorite-among-intermediate-gold-miners/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Mon, 06 Feb 2017 22:35:57 GMT",
+        "source": "data\\ELD\\20170207.rss",
+        "title": "Why Is Eldorado Gold a Favorite among Intermediate Gold Miners?"
     }
 ]

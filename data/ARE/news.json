@@ -313,5 +313,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:15:00 GMT",
         "source": "data\\ARE\\20170127.rss",
         "title": "Research Reports Initiated on Industrials Stocks Aimia, EnerCare, Ballard Power Systems, and Aecon Group"
+    },
+    {
+        "contents": "data\\ARE\\20170207-232609.news",
+        "description": null,
+        "guid": "yahoo_finance/3406628155",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1314b7ne7/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-aecon-group-inc-august-23-2016/",
+        "pubDate": "Tue, 23 Aug 2016 15:19:57 GMT",
+        "source": "data\\ARE\\20170207.rss",
+        "title": "ETF\u2019s with exposure to Aecon Group, Inc. : August 23, 2016"
     }
 ]

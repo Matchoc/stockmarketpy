@@ -205,5 +205,32 @@
         "pubDate": "Tue, 07 Feb 2017 12:09:00 GMT",
         "source": "data\\DSG\\20170207.rss",
         "title": "Here Are 5 Unknown Small-Cap Tech Stocks That Could Be About to Explode"
+    },
+    {
+        "contents": "data\\DSG\\20170208-090750.news",
+        "description": "[GlobeNewswire] - AMERSFOORT, Netherlands, Feb. 08, 2017 (GLOBE NEWSWIRE) -- Descartes Systems Group (Nasdaq:DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, announced that Telesuper, ...",
+        "guid": "yahoo_finance/1119637011",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telesupers-ecommerce-growth-fueled-descartes-114701482.html",
+        "pubDate": "Wed, 08 Feb 2017 11:47:01 GMT",
+        "source": "data\\DSG\\20170208.rss",
+        "title": "Telesuper's eCommerce Growth Fueled by Descartes' Cloud-based Route Planning Solution"
+    },
+    {
+        "contents": "data\\DSG\\20170208-090752.news",
+        "description": "[GlobeNewswire] - AMERSFOORT, Netherlands, Feb. 08, 2017-- Descartes Systems Group, the global leader in uniting logistics-intensive businesses in commerce, announced that Telesuper, one of the Netherlands' leading eCommerce ...",
+        "guid": "yahoo_finance/2273270210",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telesuper-ecommerce-growth-fueled-descartes-114500119.html",
+        "pubDate": "Wed, 08 Feb 2017 11:45:00 GMT",
+        "source": "data\\DSG\\20170208.rss",
+        "title": "Telesuper\u2019s eCommerce Growth Fueled by Descartes\u2019 Cloud-based Route Planning Solution"
+    },
+    {
+        "contents": "data\\DSG\\20170208-090753.news",
+        "description": "[PR Newswire] - DALLAS, Feb. 8, 2016 /PRNewswire/ -- ChemicalInfo, providers of the most comprehensive online databases for chemical and pharmaceutical companies and those who do business with them, now offers waterborne ...",
+        "guid": "yahoo_finance/1931887305",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/chemicalinfo-offers-datamyne-trade-information-110000824.html",
+        "pubDate": "Wed, 08 Feb 2017 11:00:00 GMT",
+        "source": "data\\DSG\\20170208.rss",
+        "title": "ChemicalInfo Offers Datamyne Trade Information Provided by Descartes"
     }
 ]

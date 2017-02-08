@@ -403,5 +403,59 @@
         "pubDate": "Wed, 04 May 2016 21:22:14 GMT",
         "source": "data\\IFC\\20170207.rss",
         "title": "Alberta wildfire set to be Canada's costliest natural disaster"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091107.news",
+        "description": null,
+        "guid": "yahoo_finance/400900307",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-insurer-intacts-operating-profit-130100670.html",
+        "pubDate": "Wed, 08 Feb 2017 14:06:04 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Canadian insurer Intact posts earnings below forecasts"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091109.news",
+        "description": null,
+        "guid": "yahoo_finance/2389719652",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/cc/3/155393.html",
+        "pubDate": "Wed, 08 Feb 2017 12:34:47 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Intact Financial Corp Earnings Call scheduled for 11:00 am ET today"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091109.news",
+        "description": null,
+        "guid": "yahoo_finance/480128205",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170208.html?t=ifc.to",
+        "pubDate": "Wed, 08 Feb 2017 12:07:05 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Q4 2016 Intact Financial Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091110.news",
+        "description": null,
+        "guid": "yahoo_finance/1944362646",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-insurer-intact-posts-smaller-120552175.html",
+        "pubDate": "Wed, 08 Feb 2017 12:05:52 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Canadian insurer Intact posts smaller quarterly profit"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091112.news",
+        "description": "[PR Newswire] - Highlights Net operating income per share of $1.58 for Q4-2016 and $4.88 for the full year Q4-2016 combined ratio of 92.5% from strong property lines performance, offset by weaker results in personal auto ...",
+        "guid": "yahoo_finance/157162589",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intact-financial-corporation-reports-q4-115700983.html",
+        "pubDate": "Wed, 08 Feb 2017 11:57:00 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Intact Financial Corporation reports Q4-2016 and 2016 Annual Results"
+    },
+    {
+        "contents": "data\\IFC\\20170208-091113.news",
+        "description": null,
+        "guid": "yahoo_finance/3368041692",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intact-financial-corporation-reports-q4-115700287.html",
+        "pubDate": "Wed, 08 Feb 2017 11:57:00 GMT",
+        "source": "data\\IFC\\20170208.rss",
+        "title": "Intact Financial Corporation reports Q4-2016 and 2016 Annual Results"
     }
 ]

@@ -421,5 +421,14 @@
         "pubDate": "Tue, 07 Feb 2017 13:19:53 GMT",
         "source": "data\\TV\\20170207.rss",
         "title": "Trevali Mining Corp. breached its 50 day moving average in a Bearish Manner : TV-CA : February 7, 2017"
+    },
+    {
+        "contents": "data\\TV\\20170208-090134.news",
+        "description": "[Marketwired] - Trevali Mining Corp. is transitioning to an owner-operator model at its Caribou zinc mine in New Brunswick, Canada, and analysts note that the company is positioned to take advantage of strong zinc...",
+        "guid": "yahoo_finance/1238878912",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gold-report-examines-trevali-position-140000956.html",
+        "pubDate": "Wed, 08 Feb 2017 14:00:00 GMT",
+        "source": "data\\TV\\20170208.rss",
+        "title": "The Gold Report Examines How Trevali Is in Position to Benefit from Strong Zinc Fundamentals"
     }
 ]

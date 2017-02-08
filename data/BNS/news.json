@@ -952,5 +952,41 @@
         "pubDate": "Mon, 06 Feb 2017 15:30:00 GMT",
         "source": "data\\BNS\\20170207.rss",
         "title": "Scotiabank Donates $15,000 to Relief Efforts in Northeastern New Brunswick"
+    },
+    {
+        "contents": "data\\BNS\\20170207-233315.news",
+        "description": "[Reuters] - Canada's main stock index rose on Tuesday, with gains among heavyweight financial stocks on talk of a U.S. interest rate hike in March offsetting losses for shares of energy companies as oil prices weighed. The Toronto Stock Exchange's S&P/TSX composite index settled up 41.86 points, or 0.27 percent, at 15,498.80.",
+        "guid": "yahoo_finance/2163605020",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-fed-hike-212629715.html",
+        "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
+        "source": "data\\BNS\\20170207.rss",
+        "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
+    },
+    {
+        "contents": "data\\BNS\\20170207-233316.news",
+        "description": "[CNW Group] - Scotiabank celebrates grand opening of new branch in Montreal",
+        "guid": "yahoo_finance/275296951",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-celebrates-grand-opening-branch-173200468.html",
+        "pubDate": "Tue, 07 Feb 2017 17:32:00 GMT",
+        "source": "data\\BNS\\20170207.rss",
+        "title": "Scotiabank celebrates grand opening of new branch in Montreal"
+    },
+    {
+        "contents": "data\\BNS\\20170207-233318.news",
+        "description": "[CNW Group] - The Scotiabank Photography Award presents its 2017 longlist",
+        "guid": "yahoo_finance/490406237",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-photography-award-presents-2017-150000656.html",
+        "pubDate": "Tue, 07 Feb 2017 15:00:00 GMT",
+        "source": "data\\BNS\\20170207.rss",
+        "title": "The Scotiabank Photography Award presents its 2017 longlist"
+    },
+    {
+        "contents": "data\\BNS\\20170207-233320.news",
+        "description": "[PR Newswire] - Shortlist to be announced March 8 TORONTO, Feb. 7, 2017 /CNW/ - Today, Scotiabank proudly presented the longlist of nominees for the 2017 Scotiabank Photography Award. The winner of the Scotiabank Photography ...",
+        "guid": "yahoo_finance/717620098",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-photography-award-presents-2017-150000367.html",
+        "pubDate": "Tue, 07 Feb 2017 15:00:00 GMT",
+        "source": "data\\BNS\\20170207.rss",
+        "title": "The Scotiabank Photography Award presents its 2017 longlist"
     }
 ]
