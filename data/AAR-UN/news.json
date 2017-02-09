@@ -394,5 +394,14 @@
         "pubDate": "Wed, 01 Feb 2017 22:57:39 GMT",
         "source": "data\\AAR-UN\\20170202.rss",
         "title": "Pure Industrial Real Estate Trust Announces Closing of Atlanta Acquisition"
+    },
+    {
+        "contents": "data\\AAR-UN\\20170209-091730.news",
+        "description": null,
+        "guid": "yahoo_finance/2651341839",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13hcqv50v/*http://www.bloomberg.com/news/articles/2017-02-09/e-commerce-pot-are-new-drivers-for-top-canada-industrial-reit?cmpid=yhoo.headline",
+        "pubDate": "Thu, 09 Feb 2017 10:00:00 GMT",
+        "source": "data\\AAR-UN\\20170209.rss",
+        "title": "Top Canadian Industrial REIT Bets on E-Commerce and Pot"
     }
 ]

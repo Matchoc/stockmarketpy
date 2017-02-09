@@ -259,5 +259,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:21:45 GMT",
         "source": "data\\GWO\\20170203.rss",
         "title": "Great-West Lifeco, Inc. breached its 50 day moving average in a Bearish Manner : GWO-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\GWO\\20170209-092037.news",
+        "description": null,
+        "guid": "yahoo_finance/4248974679",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=gwo.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:06 GMT",
+        "source": "data\\GWO\\20170209.rss",
+        "title": "Q4 2016 Great-West Lifeco Inc Earnings Release - Time Not Supplied"
     }
 ]

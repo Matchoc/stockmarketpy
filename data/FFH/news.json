@@ -943,5 +943,23 @@
         "pubDate": "Mon, 06 Feb 2017 16:02:26 GMT",
         "source": "data\\FFH\\20170207.rss",
         "title": "Fairfax Said to Raise About $500 Million for New Africa Fund"
+    },
+    {
+        "contents": "data\\FFH\\20170209-090301.news",
+        "description": null,
+        "guid": "yahoo_finance/622698367",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-fairfax-buys-zealand-insurer-002141738.html",
+        "pubDate": "Thu, 09 Feb 2017 00:21:41 GMT",
+        "source": "data\\FFH\\20170209.rss",
+        "title": "Canada's Fairfax buys New Zealand insurer for $143 mln"
+    },
+    {
+        "contents": "data\\FFH\\20170209-090302.news",
+        "description": null,
+        "guid": "yahoo_finance/2152625729",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fairfax-financial-acquire-tower-001528026.html",
+        "pubDate": "Thu, 09 Feb 2017 00:15:28 GMT",
+        "source": "data\\FFH\\20170209.rss",
+        "title": "Fairfax Financial to Acquire Tower"
     }
 ]

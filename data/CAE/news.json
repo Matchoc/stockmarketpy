@@ -385,5 +385,14 @@
         "pubDate": "Sun, 02 Nov 2014 21:15:44 GMT",
         "source": "data\\CAE\\20170207.rss",
         "title": "Wanted - 500,000 pilots for China aviation gold rush"
+    },
+    {
+        "contents": "data\\CAE\\20170209-091755.news",
+        "description": "[Marketwired] - - CAE will release its fiscal year 2017 third quarter results on Tuesday, February 14, 2017. A conference call will be held on the same day at 1 p.m. Eastern Time to provide analysts and institutional ...",
+        "guid": "yahoo_finance/2094655345",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-caes-fy2017-third-190230761.html",
+        "pubDate": "Wed, 08 Feb 2017 19:02:30 GMT",
+        "source": "data\\CAE\\20170209.rss",
+        "title": "Media Advisory: CAE's FY2017 third quarter financial results and conference call"
     }
 ]

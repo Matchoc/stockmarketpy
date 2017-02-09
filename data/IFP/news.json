@@ -286,5 +286,14 @@
         "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
         "source": "data\\IFP\\20170208.rss",
         "title": "Research Reports Initiated on Forest Products Stocks Western Forest Products, Interfor, Stella-Jones, and Canfor Pulp Products"
+    },
+    {
+        "contents": "data\\IFP\\20170209-090517.news",
+        "description": null,
+        "guid": "yahoo_finance/50529485",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=ifp.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
+        "source": "data\\IFP\\20170209.rss",
+        "title": "Q4 2016 Interfor Corp Earnings Release - Time Not Supplied"
     }
 ]

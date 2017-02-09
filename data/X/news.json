@@ -493,5 +493,50 @@
         "pubDate": "Mon, 06 Feb 2017 14:47:00 GMT",
         "source": "data\\X\\20170207.rss",
         "title": "TMX Group Consolidated Trading Statistics - January 2017"
+    },
+    {
+        "contents": "data\\X\\20170209-092052.news",
+        "description": null,
+        "guid": "yahoo_finance/3841509425",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/tmx-talks-bring-saudi-aramco-143935219.html",
+        "pubDate": "Wed, 08 Feb 2017 18:43:29 GMT",
+        "source": "data\\X\\20170209.rss",
+        "title": "Canada's TMX seeks part of Saudi Aramco listing"
+    },
+    {
+        "contents": "data\\X\\20170209-092054.news",
+        "description": "[Reuters] - Toronto Stock Exchange owner TMX Group Ltd said on Wednesday it was pitching the energy-rich bourse to \"Saudi officials of significant influence\" to bring at least part of the kingdom's massive Saudi Aramco public listing to Canada. Saudi Arabia expects to value the state-owned oil producer at a minimum of $2 trillion, in what could be the world's biggest initial public offering (IPO), the centerpiece of a plan to transform the Saudi economy by attracting foreign investment and diversifying away from oil.",
+        "guid": "yahoo_finance/3630483331",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-talks-bring-saudi-aramco-143738153.html",
+        "pubDate": "Wed, 08 Feb 2017 18:42:26 GMT",
+        "source": "data\\X\\20170209.rss",
+        "title": "Canada's TMX seeks part of Saudi Aramco listing"
+    },
+    {
+        "contents": "data\\X\\20170209-092056.news",
+        "description": null,
+        "guid": "yahoo_finance/1206402177",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-equity-financing-statistics-162900517.html",
+        "pubDate": "Wed, 08 Feb 2017 16:29:00 GMT",
+        "source": "data\\X\\20170209.rss",
+        "title": "TMX Group Equity Financing Statistics - January 2017"
+    },
+    {
+        "contents": "data\\X\\20170209-092057.news",
+        "description": null,
+        "guid": "yahoo_finance/1736939855",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-group-equity-financing-statistics-162900151.html",
+        "pubDate": "Wed, 08 Feb 2017 16:29:00 GMT",
+        "source": "data\\X\\20170209.rss",
+        "title": "TMX Group Equity Financing Statistics - January 2017"
+    },
+    {
+        "contents": "data\\X\\20170209-092100.news",
+        "description": "[Reuters] - TMX Group, owner of the Toronto Stock Exchange, said on Wednesday that it is in talks with Saudi Arabia over the possibility of Saudi Aramco listing in Canada. TMX said the talks were part of efforts by a consortium of representatives from across Canada's capital markets to establish relationships with key business and government leaders in Saudi Arabia. \"As part of this unique, collaborative initiative, we are dedicating a portion of our effort toward attracting the Saudi Aramco IPO to TSX,\" Nick Thadaney, President and CEO, TSX Global Equity Capital Markets said in a statement emailed to Reuters.",
+        "guid": "yahoo_finance/4144019490",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-tmx-talks-over-possible-142638191.html",
+        "pubDate": "Wed, 08 Feb 2017 14:26:38 GMT",
+        "source": "data\\X\\20170209.rss",
+        "title": "Canada's TMX in talks over possible Saudi Aramco IPO in Toronto"
     }
 ]

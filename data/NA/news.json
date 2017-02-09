@@ -547,5 +547,14 @@
         "pubDate": "Tue, 07 Feb 2017 00:29:05 GMT",
         "source": "data\\NA\\20170207.rss",
         "title": "National Bank Sets Goal to Be 'Top 3' Canadian Bank"
+    },
+    {
+        "contents": "data\\NA\\20170209-090842.news",
+        "description": null,
+        "guid": "yahoo_finance/844690462",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/national-bank-release-first-quarter-150000990.html",
+        "pubDate": "Wed, 08 Feb 2017 15:00:00 GMT",
+        "source": "data\\NA\\20170209.rss",
+        "title": "National Bank to release its first quarter results on March 1, 2017"
     }
 ]

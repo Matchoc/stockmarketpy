@@ -367,5 +367,32 @@
         "pubDate": "Fri, 11 Jul 2014 19:01:35 GMT",
         "source": "data\\MG\\20170207.rss",
         "title": "German-U.S. car parts tie-up could spark more deals -analysts"
+    },
+    {
+        "contents": "data\\MG\\20170209-092116.news",
+        "description": null,
+        "guid": "yahoo_finance/4160987913",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12r86msab/*https://www.wsj.com/articles/connected-car-startup-zubie-names-gary-tucker-ceo-1486602317?mod=yahoo_hs",
+        "pubDate": "Thu, 09 Feb 2017 01:05:19 GMT",
+        "source": "data\\MG\\20170209.rss",
+        "title": "[$$] Connected-Car Startup Zubie Names Gary Tucker CEO"
+    },
+    {
+        "contents": "data\\MG\\20170209-092117.news",
+        "description": "[CNW Group] - Notice of Conference Call for Fourth Quarter and Year End 2016 Results",
+        "guid": "yahoo_finance/2308677125",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/notice-conference-call-fourth-quarter-141400084.html",
+        "pubDate": "Wed, 08 Feb 2017 14:14:00 GMT",
+        "source": "data\\MG\\20170209.rss",
+        "title": "Notice of Conference Call for Fourth Quarter and Year End 2016 Results"
+    },
+    {
+        "contents": "data\\MG\\20170209-092118.news",
+        "description": "[PR Newswire] - AURORA, ON, Feb. 8, 2017 /PRNewswire/ - Magna International Inc. (TSX: MG, NYSE: MGA) We will hold a conference call for interested analysts and shareholders to discuss our fourth quarter and year ended ...",
+        "guid": "yahoo_finance/4237308852",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/notice-conference-call-fourth-quarter-141400982.html",
+        "pubDate": "Wed, 08 Feb 2017 14:14:00 GMT",
+        "source": "data\\MG\\20170209.rss",
+        "title": "Notice of Conference Call for Fourth Quarter and Year End 2016 Results"
     }
 ]

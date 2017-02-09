@@ -232,5 +232,14 @@
         "pubDate": "Wed, 08 Feb 2017 11:00:00 GMT",
         "source": "data\\DSG\\20170208.rss",
         "title": "ChemicalInfo Offers Datamyne Trade Information Provided by Descartes"
+    },
+    {
+        "contents": "data\\DSG\\20170209-090936.news",
+        "description": null,
+        "guid": "yahoo_finance/3801533228",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14qau8k87/*http://www.capitalcube.com/blog/index.php/the-descartes-systems-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-dsg-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:48:27 GMT",
+        "source": "data\\DSG\\20170209.rss",
+        "title": "The Descartes Systems Group, Inc. breached its 50 day moving average in a Bullish Manner : DSG-CA : February 9, 2017"
     }
 ]

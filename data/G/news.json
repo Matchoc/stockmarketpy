@@ -475,5 +475,14 @@
         "pubDate": "Wed, 08 Feb 2017 12:45:00 GMT",
         "source": "data\\G\\20170208.rss",
         "title": "Goldcorp announces acquisition of gold stream at El Morro"
+    },
+    {
+        "contents": "data\\G\\20170209-090050.news",
+        "description": null,
+        "guid": "yahoo_finance/3455393729",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/world-famous-investor-buying-gold-153512677.html",
+        "pubDate": "Wed, 08 Feb 2017 15:35:12 GMT",
+        "source": "data\\G\\20170209.rss",
+        "title": "World Famous Investor Buying Gold Again: 4 Top Stocks for Investors"
     }
 ]

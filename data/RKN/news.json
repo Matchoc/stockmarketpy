@@ -340,5 +340,23 @@
         "pubDate": "Wed, 08 Feb 2017 12:07:08 GMT",
         "source": "data\\RKN\\20170208.rss",
         "title": "Q1 2017 Redknee Solutions Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\RKN\\20170209-091446.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 8, 2017 /CNW/ - Redknee Solutions Inc. (TSX: RKN) a leading provider of real-time monetization and subscriber management software, reported results for its fiscal first quarter ended December ...",
+        "guid": "yahoo_finance/4069809191",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-solutions-reports-first-quarter-232600611.html",
+        "pubDate": "Wed, 08 Feb 2017 23:26:00 GMT",
+        "source": "data\\RKN\\20170209.rss",
+        "title": "Redknee Solutions Reports First Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\RKN\\20170209-091448.news",
+        "description": null,
+        "guid": "yahoo_finance/1450692401",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-solutions-reports-first-quarter-232600442.html",
+        "pubDate": "Wed, 08 Feb 2017 23:26:00 GMT",
+        "source": "data\\RKN\\20170209.rss",
+        "title": "Redknee Solutions Reports First Quarter Fiscal 2017 Results"
     }
 ]

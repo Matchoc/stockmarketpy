@@ -502,5 +502,14 @@
         "pubDate": "Tue, 07 Feb 2017 17:30:51 GMT",
         "source": "data\\SLW\\20170207.rss",
         "title": "2 Big Reasons Silver Wheaton Vaulted 15% Higher in January"
+    },
+    {
+        "contents": "data\\SLW\\20170209-091539.news",
+        "description": null,
+        "guid": "yahoo_finance/3501566716",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=122s3uvkb/*http://marketrealist.com/2017/02/how-gold-lost-its-3-month-high/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 16:33:45 GMT",
+        "source": "data\\SLW\\20170209.rss",
+        "title": "How Gold Lost Its 3-Month High"
     }
 ]

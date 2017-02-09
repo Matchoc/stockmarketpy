@@ -331,5 +331,14 @@
         "pubDate": "Mon, 30 Jan 2017 19:34:46 GMT",
         "source": "data\\ITP\\20170131.rss",
         "title": "Intertape Polymer Group, Inc. \u2013 Value Analysis (TORONTO:ITP) : January 30, 2017"
+    },
+    {
+        "contents": "data\\ITP\\20170209-091830.news",
+        "description": null,
+        "guid": "yahoo_finance/3969856541",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ml9b7to/*http://www.capitalcube.com/blog/index.php/intertape-polymer-group-inc-breached-its-50-day-moving-average-in-a-bearish-manner-itp-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:54:27 GMT",
+        "source": "data\\ITP\\20170209.rss",
+        "title": "Intertape Polymer Group, Inc. breached its 50 day moving average in a Bearish Manner : ITP-CA : February 9, 2017"
     }
 ]

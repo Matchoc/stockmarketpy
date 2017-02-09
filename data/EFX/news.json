@@ -178,5 +178,14 @@
         "pubDate": "Tue, 05 Jul 2016 16:07:52 GMT",
         "source": "data\\EFX\\20170118.rss",
         "title": "Enerflex Ltd. \u2013 Value Analysis (TORONTO:EFX) : July 5, 2016"
+    },
+    {
+        "contents": "data\\EFX\\20170209-090657.news",
+        "description": null,
+        "guid": "yahoo_finance/178975074",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=143u1jb2p/*http://www.capitalcube.com/blog/index.php/enerflex-ltd-breached-its-50-day-moving-average-in-a-bullish-manner-efx-ca-july-1-2016/",
+        "pubDate": "Fri, 01 Jul 2016 12:39:22 GMT",
+        "source": "data\\EFX\\20170209.rss",
+        "title": "Enerflex Ltd. breached its 50 day moving average in a Bullish Manner : EFX-CA : July 1, 2016"
     }
 ]

@@ -466,5 +466,59 @@
         "pubDate": "Tue, 07 Feb 2017 15:19:03 GMT",
         "source": "data\\T\\20170207.rss",
         "title": "Will TELUS (TU) Disappoint Investors this Earnings Season?"
+    },
+    {
+        "contents": "data\\T\\20170209-092017.news",
+        "description": null,
+        "guid": "yahoo_finance/2886460720",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=t.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:03 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "Q4 2016 Telus Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\T\\20170209-092018.news",
+        "description": null,
+        "guid": "yahoo_finance/1619341188",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-profit-misses-pays-more-114355355.html",
+        "pubDate": "Thu, 09 Feb 2017 11:43:55 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "Telus profit misses as it pays more to win wireless customers"
+    },
+    {
+        "contents": "data\\T\\20170209-092019.news",
+        "description": null,
+        "guid": "yahoo_finance/1523278881",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/telus-misses-4q-profit-forecasts-113831474.html",
+        "pubDate": "Thu, 09 Feb 2017 11:38:31 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "Telus misses 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\T\\20170209-092023.news",
+        "description": null,
+        "guid": "yahoo_finance/2805000807",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-misses-4q-profit-forecasts-113831584.html",
+        "pubDate": "Thu, 09 Feb 2017 11:38:31 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "Telus misses 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\T\\20170209-092025.news",
+        "description": null,
+        "guid": "yahoo_finance/683568508",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-telus-quarterly-profit-falls-110837422.html",
+        "pubDate": "Thu, 09 Feb 2017 11:08:37 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "Canada's Telus quarterly profit falls 67 pct"
+    },
+    {
+        "contents": "data\\T\\20170209-092027.news",
+        "description": "[Marketwired] - - TELUS Corporation",
+        "guid": "yahoo_finance/1574102677",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-reports-strong-results-fourth-110000191.html",
+        "pubDate": "Thu, 09 Feb 2017 11:00:00 GMT",
+        "source": "data\\T\\20170209.rss",
+        "title": "TELUS reports strong results for fourth quarter 2016 and Announces 2017 financial targets"
     }
 ]

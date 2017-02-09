@@ -295,5 +295,14 @@
         "pubDate": "Thu, 31 Mar 2016 21:55:37 GMT",
         "source": "data\\PVG\\20170207.rss",
         "title": "Pretivm Announces Closing of Private Placement"
+    },
+    {
+        "contents": "data\\PVG\\20170209-091946.news",
+        "description": "[Marketwired] - Pretium Resources Inc. announced today that it has priced its previously announced offering of unsecured convertible senior subordinated notes due 2022 . The Company is offering US$90 million aggregate ...",
+        "guid": "yahoo_finance/1779593773",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/pretivm-prices-offering-convertible-senior-013153023.html",
+        "pubDate": "Thu, 09 Feb 2017 01:31:53 GMT",
+        "source": "data\\PVG\\20170209.rss",
+        "title": "Pretivm Prices Offering of Convertible Senior Subordinated Notes"
     }
 ]

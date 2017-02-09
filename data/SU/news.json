@@ -790,5 +790,86 @@
         "pubDate": "Wed, 08 Feb 2017 12:07:06 GMT",
         "source": "data\\SU\\20170208.rss",
         "title": "Q4 2016 Suncor Energy Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\SU\\20170209-090807.news",
+        "description": null,
+        "guid": "yahoo_finance/1582144286",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12bmhnfnn/*http://marketrealist.com/2017/02/positive-surprise-suncors-4q16-earnings/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 12:38:44 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Positive Surprise from Suncor\u2019s 4Q16 Earnings!"
+    },
+    {
+        "contents": "data\\SU\\20170209-090808.news",
+        "description": null,
+        "guid": "yahoo_finance/3529369063",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-su-earnings-revenues-beat-122012947.html",
+        "pubDate": "Thu, 09 Feb 2017 12:20:12 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor (SU) Earnings and Revenues Beat Estimates in Q4"
+    },
+    {
+        "contents": "data\\SU\\20170209-090810.news",
+        "description": "[Marketwired] - Suncor today announced the retirement of James W. Simpson, chair of the company's board of directors. His retirement will take effect at the conclusion of Suncor's annual general meeting on April 27, 2017, ...",
+        "guid": "yahoo_finance/1257221492",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-announces-board-chair-113000407.html",
+        "pubDate": "Thu, 09 Feb 2017 11:30:00 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor Energy announces Board chair James W. Simpson retirement, appointment of Michael Wilson as incoming chair"
+    },
+    {
+        "contents": "data\\SU\\20170209-090812.news",
+        "description": null,
+        "guid": "yahoo_finance/2359230511",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/suncor-energy-beats-4q-profit-100104116.html",
+        "pubDate": "Thu, 09 Feb 2017 10:01:04 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor Energy beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\SU\\20170209-090814.news",
+        "description": null,
+        "guid": "yahoo_finance/3769399937",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-beats-4q-profit-100104453.html",
+        "pubDate": "Thu, 09 Feb 2017 10:01:04 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor Energy beats 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\SU\\20170209-090815.news",
+        "description": null,
+        "guid": "yahoo_finance/3869620069",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=13f2325c4/*https://www.wsj.com/articles/suncor-profit-buoyed-by-rising-commodity-prices-and-record-production-1486606965?mod=yahoo_hs",
+        "pubDate": "Thu, 09 Feb 2017 02:22:49 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "[$$] Suncor Profit Buoyed By Rising Commodities and Record Production"
+    },
+    {
+        "contents": "data\\SU\\20170209-090816.news",
+        "description": null,
+        "guid": "yahoo_finance/321320790",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-reports-fourth-quarter-profit-012742824.html",
+        "pubDate": "Thu, 09 Feb 2017 01:27:42 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor reports fourth quarter profit and record production"
+    },
+    {
+        "contents": "data\\SU\\20170209-090818.news",
+        "description": "[Marketwired] - Unless otherwise noted, all financial figures are unaudited, presented in Canadian dollars , and have been prepared in accordance with International Financial Reporting Standards , specifically International ...",
+        "guid": "yahoo_finance/465227071",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-reports-fourth-quarter-010000581.html",
+        "pubDate": "Thu, 09 Feb 2017 01:00:00 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor Energy reports fourth quarter 2016 results"
+    },
+    {
+        "contents": "data\\SU\\20170209-090820.news",
+        "description": "[Marketwired] - Suncor Energy's Board of Directors has approved a quarterly dividend of $0.32 per share on its common shares, payable March 24, 2017 to shareholders of record at the close of business on March 3, 2017....",
+        "guid": "yahoo_finance/3686832540",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/suncor-energy-declares-increased-dividend-003000105.html",
+        "pubDate": "Thu, 09 Feb 2017 00:30:00 GMT",
+        "source": "data\\SU\\20170209.rss",
+        "title": "Suncor Energy declares increased dividend"
     }
 ]

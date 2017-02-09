@@ -268,5 +268,14 @@
         "pubDate": "Wed, 08 Feb 2017 13:05:32 GMT",
         "source": "data\\OSB\\20170208.rss",
         "title": "Norbord, Inc. breached its 50 day moving average in a Bullish Manner : OSB-CA : February 8, 2017"
+    },
+    {
+        "contents": "data\\OSB\\20170209-090757.news",
+        "description": null,
+        "guid": "yahoo_finance/3937499293",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13lpai324/*http://www.capitalcube.com/blog/index.php/norbord-inc-osb-ca-earnings-analysis-2016-by-the-numbers-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 17:14:04 GMT",
+        "source": "data\\OSB\\20170209.rss",
+        "title": "Norbord, Inc. :OSB-CA: Earnings Analysis: 2016 By the Numbers : February 8, 2017"
     }
 ]

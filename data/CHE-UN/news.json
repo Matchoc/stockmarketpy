@@ -394,5 +394,14 @@
         "pubDate": "Fri, 27 Jan 2017 13:50:00 GMT",
         "source": "data\\CHE-UN\\20170127.rss",
         "title": "Chemtrade Announces Closing of the $400 Million Subscription Receipt Offering"
+    },
+    {
+        "contents": "data\\CHE-UN\\20170209-091036.news",
+        "description": null,
+        "guid": "yahoo_finance/1989361809",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/chemtrade-logistics-income-fund-announce-175800338.html",
+        "pubDate": "Wed, 08 Feb 2017 17:58:00 GMT",
+        "source": "data\\CHE-UN\\20170209.rss",
+        "title": "Chemtrade Logistics Income Fund to announce fourth quarter and year end 2016 results on February 27, 2017"
     }
 ]

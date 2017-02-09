@@ -430,5 +430,14 @@
         "pubDate": "Fri, 20 Jan 2017 17:17:34 GMT",
         "source": "data\\SPB\\20170121.rss",
         "title": "Superior Plus Corp. \u2013 Value Analysis (TORONTO:SPB) : January 20, 2017"
+    },
+    {
+        "contents": "data\\SPB\\20170209-091101.news",
+        "description": null,
+        "guid": "yahoo_finance/2742798128",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14d4dlm9r/*http://www.capitalcube.com/blog/index.php/superior-plus-corp-breached-its-50-day-moving-average-in-a-bearish-manner-spb-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:51:08 GMT",
+        "source": "data\\SPB\\20170209.rss",
+        "title": "Superior Plus Corp. breached its 50 day moving average in a Bearish Manner : SPB-CA : February 9, 2017"
     }
 ]

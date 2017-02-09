@@ -214,5 +214,50 @@
         "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
         "source": "data\\HCG\\20170208.rss",
         "title": "Q4 2016 Home Capital Group Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\HCG\\20170209-090730.news",
+        "description": null,
+        "guid": "yahoo_finance/3908803406",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14ho6h6g0/*http://www.capitalcube.com/blog/index.php/home-capital-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-hcg-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:44:04 GMT",
+        "source": "data\\HCG\\20170209.rss",
+        "title": "Home Capital Group, Inc. breached its 50 day moving average in a Bullish Manner : HCG-CA : February 9, 2017"
+    },
+    {
+        "contents": "data\\HCG\\20170209-090730.news",
+        "description": null,
+        "guid": "yahoo_finance/1909716366",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-group-inc-announces-230700696.html",
+        "pubDate": "Wed, 08 Feb 2017 23:07:00 GMT",
+        "source": "data\\HCG\\20170209.rss",
+        "title": "Home Capital Group Inc. Announces Dividend"
+    },
+    {
+        "contents": "data\\HCG\\20170209-090732.news",
+        "description": null,
+        "guid": "yahoo_finance/1327183871",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-group-inc-announces-230700053.html",
+        "pubDate": "Wed, 08 Feb 2017 23:07:00 GMT",
+        "source": "data\\HCG\\20170209.rss",
+        "title": "Home Capital Group Inc. Announces Dividend"
+    },
+    {
+        "contents": "data\\HCG\\20170209-090733.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 8, 2017 /CNW/ - Home Capital Group (\"Home Capital\" or \"the Company\") (TSX: HCG) today reported results for the three and twelve months ended December 31, 2016. This press ...",
+        "guid": "yahoo_finance/1266330307",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-reports-fourth-quarter-225700451.html",
+        "pubDate": "Wed, 08 Feb 2017 22:57:00 GMT",
+        "source": "data\\HCG\\20170209.rss",
+        "title": "Home Capital reports fourth quarter and full year 2016 results"
+    },
+    {
+        "contents": "data\\HCG\\20170209-090737.news",
+        "description": null,
+        "guid": "yahoo_finance/14174242",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-reports-fourth-quarter-225700997.html",
+        "pubDate": "Wed, 08 Feb 2017 22:57:00 GMT",
+        "source": "data\\HCG\\20170209.rss",
+        "title": "Home Capital reports fourth quarter and full year 2016 results"
     }
 ]

@@ -394,5 +394,14 @@
         "pubDate": "Mon, 17 Oct 2016 13:06:58 GMT",
         "source": "data\\FTS\\20170204.rss",
         "title": "Fortis, Inc. (Canada) breached its 50 day moving average in a Bullish Manner : FTS-CA : October 17, 2016"
+    },
+    {
+        "contents": "data\\FTS\\20170209-090659.news",
+        "description": null,
+        "guid": "yahoo_finance/3831298077",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/first-eagle-asset-management-buys-212038503.html",
+        "pubDate": "Wed, 08 Feb 2017 21:20:38 GMT",
+        "source": "data\\FTS\\20170209.rss",
+        "title": "First Eagle Asset Management Buys Monsanto, Hershey, AT&T"
     }
 ]

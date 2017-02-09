@@ -457,5 +457,41 @@
         "pubDate": "Wed, 08 Feb 2017 11:57:00 GMT",
         "source": "data\\IFC\\20170208.rss",
         "title": "Intact Financial Corporation reports Q4-2016 and 2016 Annual Results"
+    },
+    {
+        "contents": "data\\IFC\\20170209-090405.news",
+        "description": null,
+        "guid": "yahoo_finance/2253112456",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14g7mss12/*http://www.capitalcube.com/blog/index.php/intact-financial-corp-breached-its-50-day-moving-average-in-a-bearish-manner-ifc-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:52:47 GMT",
+        "source": "data\\IFC\\20170209.rss",
+        "title": "Intact Financial Corp. breached its 50 day moving average in a Bearish Manner : IFC-CA : February 9, 2017"
+    },
+    {
+        "contents": "data\\IFC\\20170209-090405.news",
+        "description": null,
+        "guid": "yahoo_finance/1192621342",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intact-financial-corporation-receives-tsx-120000999.html",
+        "pubDate": "Thu, 09 Feb 2017 12:00:00 GMT",
+        "source": "data\\IFC\\20170209.rss",
+        "title": "Intact Financial Corporation receives TSX approval for normal course issuer bid"
+    },
+    {
+        "contents": "data\\IFC\\20170209-090407.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /CNW/ - Intact Financial Corporation (IFC.TO) (the \"Company\") announced today that a normal course issuer bid (\"NCIB\") authorized by its Board of Directors to purchase for cancellation during the next 12 months up to 6,554,241 common shares, representing approximately 5% of its issued and outstanding common shares, has been approved by the Toronto Stock Exchange (\"TSX\"). At the close of business on February 1, 2017, there were 131,034,834 common shares issued and outstanding. The actual number of common shares which will be purchased for cancellation and the timing of any such purchases will be determined by the Company.",
+        "guid": "yahoo_finance/226215993",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/intact-financial-corporation-receives-tsx-120000271.html",
+        "pubDate": "Thu, 09 Feb 2017 12:00:00 GMT",
+        "source": "data\\IFC\\20170209.rss",
+        "title": "Intact Financial Corporation receives TSX approval for normal course issuer bid"
+    },
+    {
+        "contents": "data\\IFC\\20170209-090409.news",
+        "description": null,
+        "guid": "yahoo_finance/4285045829",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-ifc-earnings-conference-225812688.html",
+        "pubDate": "Wed, 08 Feb 2017 22:58:12 GMT",
+        "source": "data\\IFC\\20170209.rss",
+        "title": "Edited Transcript of IFC.TO earnings conference call or presentation 8-Feb-17 4:00pm GMT"
     }
 ]

@@ -340,5 +340,32 @@
         "pubDate": "Thu, 24 Mar 2016 21:41:22 GMT",
         "source": "data\\CFP\\20170208.rss",
         "title": "Canfor Corporation and Canfor Pulp Products Inc. Announce Annual General Meeting and First Quarter Results Conference Call"
+    },
+    {
+        "contents": "data\\CFP\\20170209-091346.news",
+        "description": null,
+        "guid": "yahoo_finance/463088827",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=cfp.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:04 GMT",
+        "source": "data\\CFP\\20170209.rss",
+        "title": "Q4 2016 Canfor Corp and Canfor Pulp Products Inc Earnings Release - Time Not Supplied"
+    },
+    {
+        "contents": "data\\CFP\\20170209-091346.news",
+        "description": "[CNW Group] - Canfor Reports results for fourth quarter of 2016",
+        "guid": "yahoo_finance/1601283869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canfor-reports-results-fourth-quarter-220000725.html",
+        "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
+        "source": "data\\CFP\\20170209.rss",
+        "title": "Canfor Reports results for fourth quarter of 2016"
+    },
+    {
+        "contents": "data\\CFP\\20170209-091348.news",
+        "description": "[PR Newswire] - VANCOUVER, Feb. 8, 2017 /CNW/ - Canfor Corporation (TSX: CFP) today reported net income attributable to shareholders (\"shareholder net income\") of $38.0 million, or $0.29 per share, for the fourth ...",
+        "guid": "yahoo_finance/2986542305",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canfor-reports-results-fourth-quarter-220000956.html",
+        "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
+        "source": "data\\CFP\\20170209.rss",
+        "title": "Canfor Reports results for fourth quarter of 2016"
     }
 ]

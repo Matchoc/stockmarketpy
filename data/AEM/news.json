@@ -403,5 +403,23 @@
         "pubDate": "Tue, 07 Feb 2017 12:36:48 GMT",
         "source": "data\\AEM\\20170207.rss",
         "title": "Keeping a Tab on Ratings Changes in the Intermediate Gold Space"
+    },
+    {
+        "contents": "data\\AEM\\20170209-091839.news",
+        "description": null,
+        "guid": "yahoo_finance/2979858560",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1295bgm1p/*http://marketrealist.com/2017/02/miners-and-their-correlations-to-gold/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 18:05:43 GMT",
+        "source": "data\\AEM\\20170209.rss",
+        "title": "Miners and Their Correlations to Gold"
+    },
+    {
+        "contents": "data\\AEM\\20170209-091840.news",
+        "description": null,
+        "guid": "yahoo_finance/3455393729",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/world-famous-investor-buying-gold-153512677.html",
+        "pubDate": "Wed, 08 Feb 2017 15:35:12 GMT",
+        "source": "data\\AEM\\20170209.rss",
+        "title": "World Famous Investor Buying Gold Again: 4 Top Stocks for Investors"
     }
 ]

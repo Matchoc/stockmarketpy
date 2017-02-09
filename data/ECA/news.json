@@ -754,5 +754,23 @@
         "pubDate": "Wed, 08 Feb 2017 12:38:36 GMT",
         "source": "data\\ECA\\20170208.rss",
         "title": "Why Is Encana Stock in a Strong Uptrend?"
+    },
+    {
+        "contents": "data\\ECA\\20170209-090039.news",
+        "description": null,
+        "guid": "yahoo_finance/3192099914",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12l6phano/*http://marketrealist.com/2017/02/what-are-wall-street-analysts-saying-about-encana/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 15:40:00 GMT",
+        "source": "data\\ECA\\20170209.rss",
+        "title": "What Are Wall Street Analysts Saying about Encana?"
+    },
+    {
+        "contents": "data\\ECA\\20170209-090040.news",
+        "description": null,
+        "guid": "yahoo_finance/3904493031",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12jvb90oa/*http://marketrealist.com/2017/02/encanas-stock-price-range-forecast-for-the-week/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 14:08:04 GMT",
+        "source": "data\\ECA\\20170209.rss",
+        "title": "Encana\u2019s Stock Price Range Forecast for the Week"
     }
 ]

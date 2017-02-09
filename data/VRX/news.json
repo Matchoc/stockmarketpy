@@ -1006,5 +1006,23 @@
         "pubDate": "Wed, 08 Feb 2017 12:36:57 GMT",
         "source": "data\\VRX\\20170208.rss",
         "title": "What Bill Miller Thinks about Valeant Pharmaceuticals"
+    },
+    {
+        "contents": "data\\VRX\\20170209-090246.news",
+        "description": null,
+        "guid": "yahoo_finance/4133219304",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13f1c7e5e/*http://www.bloomberg.com/news/features/2017-02-09/the-world-according-to-free-range-short-seller-mark-cohodes?cmpid=yhoo.headline",
+        "pubDate": "Thu, 09 Feb 2017 10:00:12 GMT",
+        "source": "data\\VRX\\20170209.rss",
+        "title": "The World According to a Free-Range Short Seller With Nothing to Lose"
+    },
+    {
+        "contents": "data\\VRX\\20170209-090247.news",
+        "description": null,
+        "guid": "yahoo_finance/3145164797",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=13ri01mc0/*http://blogs.barrons.com/stockstowatchtoday/2017/02/08/valeant-another-analyst-cuts-target-stays-buy-rated-into-earnings/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Wed, 08 Feb 2017 14:59:00 GMT",
+        "source": "data\\VRX\\20170209.rss",
+        "title": "Valeant: Another Analyst Cuts Target, Stays Buy Rated Into Earnings"
     }
 ]

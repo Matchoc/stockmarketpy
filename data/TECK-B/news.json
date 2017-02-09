@@ -97,5 +97,14 @@
         "pubDate": "Thu, 26 Jan 2017 14:00:00 GMT",
         "source": "data\\TECK-B\\20170126.rss",
         "title": "Teck Announces Sale of Wintering Hills Wind Power Facility"
+    },
+    {
+        "contents": "data\\TECK-B\\20170209-090707.news",
+        "description": "[Marketwired] - Teck Resources Limited provided an update to its guidance in connection with the status of the Fort Hills project. Suncor, as operator of the Fort Hills Energy Limited Partnership, has provided an update ...",
+        "guid": "yahoo_finance/3527736046",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/teck-updates-fort-hills-guidance-013645891.html",
+        "pubDate": "Thu, 09 Feb 2017 01:36:45 GMT",
+        "source": "data\\TECK-B\\20170209.rss",
+        "title": "Teck Updates Fort Hills Guidance"
     }
 ]

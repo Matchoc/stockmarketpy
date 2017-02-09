@@ -664,5 +664,14 @@
         "pubDate": "Wed, 08 Feb 2017 10:48:56 GMT",
         "source": "data\\HSE\\20170208.rss",
         "title": "PRESS DIGEST- Canada-Feb 8"
+    },
+    {
+        "contents": "data\\HSE\\20170209-092046.news",
+        "description": null,
+        "guid": "yahoo_finance/1485257450",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=137dtv1ks/*http://www.capitalcube.com/blog/index.php/husky-energy-inc-value-analysis-torontohse-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 19:17:22 GMT",
+        "source": "data\\HSE\\20170209.rss",
+        "title": "Husky Energy, Inc. \u2013 Value Analysis (TORONTO:HSE) : February 8, 2017"
     }
 ]

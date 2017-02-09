@@ -331,5 +331,41 @@
         "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
         "source": "data\\ARX\\20170208.rss",
         "title": "Q4 2016 ARC Resources Ltd Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\ARX\\20170209-090340.news",
+        "description": null,
+        "guid": "yahoo_finance/2900935894",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/arc-resources-ltd-replaces-260-220100161.html",
+        "pubDate": "Wed, 08 Feb 2017 22:01:00 GMT",
+        "source": "data\\ARX\\20170209.rss",
+        "title": "ARC Resources Ltd. Replaces 260 Per Cent of Produced Reserves Through Development Activities in 2016"
+    },
+    {
+        "contents": "data\\ARX\\20170209-090342.news",
+        "description": null,
+        "guid": "yahoo_finance/2971633512",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/arc-resources-ltd-replaces-260-220100170.html",
+        "pubDate": "Wed, 08 Feb 2017 22:01:00 GMT",
+        "source": "data\\ARX\\20170209.rss",
+        "title": "ARC Resources Ltd. Replaces 260 Per Cent of Produced Reserves Through Development Activities in 2016"
+    },
+    {
+        "contents": "data\\ARX\\20170209-090344.news",
+        "description": null,
+        "guid": "yahoo_finance/1432257869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/arc-resources-ltd-announces-fourth-220000799.html",
+        "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
+        "source": "data\\ARX\\20170209.rss",
+        "title": "ARC Resources Ltd. Announces Fourth Quarter and Year-end 2016 Results as It Increases Capital Investment in ARC's Multi-year, Large-scale Development Projects at Dawson, Parkland/Tower, and Sunrise"
+    },
+    {
+        "contents": "data\\ARX\\20170209-090346.news",
+        "description": "[PR Newswire] - CALGARY, Feb. 8, 2017 /CNW/ - (ARX - TSX) ARC Resources Ltd. (\"ARC\") is pleased to report its fourth quarter 2016 operating and financial results. Fourth quarter production averaged 117,611 ...",
+        "guid": "yahoo_finance/255918797",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/arc-resources-ltd-announces-fourth-220000236.html",
+        "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
+        "source": "data\\ARX\\20170209.rss",
+        "title": "ARC Resources Ltd. Announces Fourth Quarter and Year-end 2016 Results as It Increases Capital Investment in ARC's Multi-year, Large-scale Development Projects at Dawson, Parkland/Tower, and Sunrise"
     }
 ]

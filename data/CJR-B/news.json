@@ -223,5 +223,32 @@
         "pubDate": "Thu, 02 Feb 2017 17:41:38 GMT",
         "source": "data\\CJR-B\\20170203.rss",
         "title": "ETFs with exposure to Corus Entertainment, Inc. : February 2, 2017"
+    },
+    {
+        "contents": "data\\CJR-B\\20170209-090552.news",
+        "description": "[PR Newswire] - Created and Written by Brad Wright, Season 2 Sees All-Canadian Cast Return with Series Star Eric McCormack Production Begins this March in Vancouver For additional photography and press kit materials please ...",
+        "guid": "yahoo_finance/3380733465",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/showcase-announces-second-season-falls-192000149.html",
+        "pubDate": "Wed, 08 Feb 2017 19:20:00 GMT",
+        "source": "data\\CJR-B\\20170209.rss",
+        "title": "Showcase Announces Second Season for Fall's #1 New Series Travelers"
+    },
+    {
+        "contents": "data\\CJR-B\\20170209-090554.news",
+        "description": "[CNW Group] - Showcase Announces Second Season for Fall's #1 New Series Travelers",
+        "guid": "yahoo_finance/1091568945",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/showcase-announces-second-season-falls-192000747.html",
+        "pubDate": "Wed, 08 Feb 2017 19:20:00 GMT",
+        "source": "data\\CJR-B\\20170209.rss",
+        "title": "Showcase Announces Second Season for Fall's #1 New Series Travelers"
+    },
+    {
+        "contents": "data\\CJR-B\\20170209-090555.news",
+        "description": "[PR Newswire] - Series Premieres February 19 with a Special Event Broadcast on W Network and Global Stars Christine Baranski, Cush Jumbo, Rose Leslie, Delroy Lindo, Erica Tazel, Sarah Steele and Justin Bartha with Recurring ...",
+        "guid": "yahoo_finance/2053102110",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/good-fight-next-chapter-good-172100802.html",
+        "pubDate": "Wed, 08 Feb 2017 17:21:00 GMT",
+        "source": "data\\CJR-B\\20170209.rss",
+        "title": "The Good Fight, the next chapter in The Good Wife story, comes to W Network"
     }
 ]

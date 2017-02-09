@@ -1051,5 +1051,32 @@
         "pubDate": "Mon, 06 Feb 2017 18:55:07 GMT",
         "source": "data\\ABX\\20170207.rss",
         "title": "BUZZ-CI Investments sharply cuts gold holdings in Q4 2016 -filing"
+    },
+    {
+        "contents": "data\\ABX\\20170209-090710.news",
+        "description": null,
+        "guid": "yahoo_finance/3444991162",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12pghc06e/*http://marketrealist.com/2017/02/revenue-expectations-gold-miners-surprise-upside-4q16/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 12:37:48 GMT",
+        "source": "data\\ABX\\20170209.rss",
+        "title": "The Gold Miners That Could Surprise in 4Q16"
+    },
+    {
+        "contents": "data\\ABX\\20170209-090711.news",
+        "description": null,
+        "guid": "yahoo_finance/126626069",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-miners-215315678.html",
+        "pubDate": "Wed, 08 Feb 2017 21:53:15 GMT",
+        "source": "data\\ABX\\20170209.rss",
+        "title": "CANADA STOCKS-TSX gains as miners benefit from higher commodity prices"
+    },
+    {
+        "contents": "data\\ABX\\20170209-090713.news",
+        "description": null,
+        "guid": "yahoo_finance/2758132926",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13klm0ik4/*http://www.bloomberg.com/news/articles/2017-02-08/barrick-s-sale-of-super-pit-stake-to-chinese-buyer-said-to-stall?cmpid=yhoo.headline",
+        "pubDate": "Wed, 08 Feb 2017 02:27:02 GMT",
+        "source": "data\\ABX\\20170209.rss",
+        "title": "Barrick Sale of Super Pit Stake to China Buyer Stalls"
     }
 ]

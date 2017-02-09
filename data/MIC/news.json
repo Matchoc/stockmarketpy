@@ -286,5 +286,14 @@
         "pubDate": "Tue, 07 Feb 2017 22:31:00 GMT",
         "source": "data\\MIC\\20170207.rss",
         "title": "Genworth MI Canada Inc. Reports Fourth Quarter and Full Year 2016 Results"
+    },
+    {
+        "contents": "data\\MIC\\20170209-090201.news",
+        "description": null,
+        "guid": "yahoo_finance/3315240070",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-mic-earnings-conference-184532920.html",
+        "pubDate": "Wed, 08 Feb 2017 18:45:32 GMT",
+        "source": "data\\MIC\\20170209.rss",
+        "title": "Edited Transcript of MIC.TO earnings conference call or presentation 8-Feb-17 3:00pm GMT"
     }
 ]

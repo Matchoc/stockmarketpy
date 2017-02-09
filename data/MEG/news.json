@@ -322,5 +322,41 @@
         "pubDate": "Thu, 02 Feb 2017 20:14:02 GMT",
         "source": "data\\MEG\\20170203.rss",
         "title": "Moody's Liquidity-Stress Index rises in January; overall credit conditions supportive for spec-grade firms"
+    },
+    {
+        "contents": "data\\MEG\\20170209-091321.news",
+        "description": null,
+        "guid": "yahoo_finance/60834947",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=meg.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
+        "source": "data\\MEG\\20170209.rss",
+        "title": "Q4 2016 Meg Energy Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\MEG\\20170209-091321.news",
+        "description": null,
+        "guid": "yahoo_finance/1012807010",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/meg-energy-posts-smaller-expected-104347590.html",
+        "pubDate": "Thu, 09 Feb 2017 10:43:47 GMT",
+        "source": "data\\MEG\\20170209.rss",
+        "title": "MEG Energy posts smaller-than-expected loss on lower costs"
+    },
+    {
+        "contents": "data\\MEG\\20170209-091323.news",
+        "description": null,
+        "guid": "yahoo_finance/3370552359",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/meg-energy-posts-larger-quarterly-100815733.html",
+        "pubDate": "Thu, 09 Feb 2017 10:08:15 GMT",
+        "source": "data\\MEG\\20170209.rss",
+        "title": "MEG Energy posts larger quarterly loss"
+    },
+    {
+        "contents": "data\\MEG\\20170209-091324.news",
+        "description": null,
+        "guid": "yahoo_finance/2173691614",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/meg-energy-reports-fourth-quarter-100000277.html",
+        "pubDate": "Thu, 09 Feb 2017 10:00:00 GMT",
+        "source": "data\\MEG\\20170209.rss",
+        "title": "MEG Energy reports fourth quarter and full-year 2016 results"
     }
 ]

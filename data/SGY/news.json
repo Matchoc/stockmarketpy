@@ -196,5 +196,14 @@
         "pubDate": "Mon, 30 Jan 2017 13:59:42 GMT",
         "source": "data\\SGY\\20170130.rss",
         "title": "Surge Energy, Inc. breached its 50 day moving average in a Bearish Manner : SGY-CA : January 30, 2017"
+    },
+    {
+        "contents": "data\\SGY\\20170209-091953.news",
+        "description": null,
+        "guid": "yahoo_finance/940179961",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/surge-energy-inc-announces-intended-191300218.html",
+        "pubDate": "Wed, 08 Feb 2017 19:13:00 GMT",
+        "source": "data\\SGY\\20170209.rss",
+        "title": "Surge Energy Inc. Announces Intended 15 Percent Increase to its Dividend - On Growing Production Volumes and Free Funds Flow"
     }
 ]

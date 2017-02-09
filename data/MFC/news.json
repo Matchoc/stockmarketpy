@@ -880,5 +880,68 @@
         "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
         "source": "data\\MFC\\20170207.rss",
         "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091655.news",
+        "description": null,
+        "guid": "yahoo_finance/2240873672",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadas-manulife-hits-c-4-112845939.html",
+        "pubDate": "Thu, 09 Feb 2017 13:26:33 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Canada's Manulife hits C$4 billion profit milestone"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091657.news",
+        "description": null,
+        "guid": "yahoo_finance/3624844960",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=mfc.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:06 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Q4 2016 Manulife Financial Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091657.news",
+        "description": null,
+        "guid": "yahoo_finance/2775918123",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-hits-2016-earnings-target-111414749.html",
+        "pubDate": "Thu, 09 Feb 2017 11:14:14 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Manulife hits 2016 earnings target, beats market expectations"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091659.news",
+        "description": "[CNW Group] - Manulife Financial Corporation increases dividend",
+        "guid": "yahoo_finance/1836151519",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-financial-corporation-increases-dividend-105600082.html",
+        "pubDate": "Thu, 09 Feb 2017 10:56:00 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Manulife Financial Corporation increases dividend"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091701.news",
+        "description": "[PR Newswire] - C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK: 945 TORONTO, Feb. 9, 2017 /PRNewswire/ - Manulife Financial Corporation's Board of Directors today announced an increase of 11% or 2 cents per share to ...",
+        "guid": "yahoo_finance/1117776337",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-financial-corporation-increases-dividend-105600884.html",
+        "pubDate": "Thu, 09 Feb 2017 10:56:00 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Manulife Financial Corporation increases dividend"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091702.news",
+        "description": "[CNW Group] - Manulife reports 2016 net income of $2.9 billion and core earnings of $4.0 billion (up 34% and 17%, respectively, compared with 2015), strong top line growth and a dividend increase of 11%",
+        "guid": "yahoo_finance/2217382318",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-reports-2016-net-income-105400862.html",
+        "pubDate": "Thu, 09 Feb 2017 10:54:00 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Manulife reports 2016 net income of $2.9 billion and core earnings of $4.0 billion (up 34% and 17%, respectively, compared with 2015), strong top line growth and a dividend increase of 11%"
+    },
+    {
+        "contents": "data\\MFC\\20170209-091705.news",
+        "description": "[PR Newswire] - C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK: 945 This quarterly earnings news release should be read in conjunction with the Company's Annual Management's Discussion & Analysis and Financial Statements ...",
+        "guid": "yahoo_finance/2731446991",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-reports-2016-net-income-105400623.html",
+        "pubDate": "Thu, 09 Feb 2017 10:54:00 GMT",
+        "source": "data\\MFC\\20170209.rss",
+        "title": "Manulife reports 2016 net income of $2.9 billion and core earnings of $4.0 billion (up 34% and 17%, respectively, compared with 2015), strong top line growth and a dividend increase of 11%"
     }
 ]

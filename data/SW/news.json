@@ -457,5 +457,23 @@
         "pubDate": "Fri, 03 Feb 2017 13:15:00 GMT",
         "source": "data\\SW\\20170203.rss",
         "title": "Research Reports Initiated on Info Tech Stocks DragonWave, Sierra Wireless, AgJunction, and Evertz Technologies"
+    },
+    {
+        "contents": "data\\SW\\20170209-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/2780966778",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12o1t1ssk/*http://www.fool.com/investing/2017/02/09/better-buy-sierra-wireless-inc-vs-nvidia.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Thu, 09 Feb 2017 12:38:00 GMT",
+        "source": "data\\SW\\20170209.rss",
+        "title": "Better Buy: Sierra Wireless, Inc. vs. NVIDIA"
+    },
+    {
+        "contents": "data\\SW\\20170209-091621.news",
+        "description": null,
+        "guid": "yahoo_finance/3650275552",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=sw.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
+        "source": "data\\SW\\20170209.rss",
+        "title": "Q4 2016 Sierra Wireless Inc Earnings Release - After Market Close"
     }
 ]

@@ -439,5 +439,14 @@
         "pubDate": "Tue, 07 Feb 2017 15:31:28 GMT",
         "source": "data\\SSO\\20170207.rss",
         "title": "Better Buy: Silver Standard Resources Inc. vs. Endeavour Silver"
+    },
+    {
+        "contents": "data\\SSO\\20170209-091627.news",
+        "description": null,
+        "guid": "yahoo_finance/3429573337",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1322bktue/*http://www.fool.com/investing/2017/02/07/why-silver-standard-resources-inc-catapulted-up-by.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Wed, 08 Feb 2017 19:26:20 GMT",
+        "source": "data\\SSO\\20170209.rss",
+        "title": "Why Silver Standard Resources Inc. Catapulted Up by 18% in January"
     }
 ]

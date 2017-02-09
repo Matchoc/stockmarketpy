@@ -394,5 +394,23 @@
         "pubDate": "Fri, 13 May 2016 22:18:03 GMT",
         "source": "data\\NFI\\20170129.rss",
         "title": "New Flyer Announces Election of Directors"
+    },
+    {
+        "contents": "data\\NFI\\20170209-090056.news",
+        "description": null,
+        "guid": "yahoo_finance/725487416",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/seattle-awards-flyer-contract-222-225100498.html",
+        "pubDate": "Wed, 08 Feb 2017 22:51:00 GMT",
+        "source": "data\\NFI\\20170209.rss",
+        "title": "Seattle Awards New Flyer a Contract for 222 Xcelsior\u00ae Transit Buses"
+    },
+    {
+        "contents": "data\\NFI\\20170209-090058.news",
+        "description": null,
+        "guid": "yahoo_finance/2184475069",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/valley-metro-rpta-awards-flyer-225000758.html",
+        "pubDate": "Wed, 08 Feb 2017 22:50:00 GMT",
+        "source": "data\\NFI\\20170209.rss",
+        "title": "Valley Metro RPTA Awards New Flyer a Contract for up to 21 Xcelsior\u00ae Buses"
     }
 ]

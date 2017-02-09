@@ -754,5 +754,14 @@
         "pubDate": "Wed, 08 Feb 2017 13:00:00 GMT",
         "source": "data\\BMO\\20170208.rss",
         "title": "BMO Enhances Canadian Defence Community Banking Program"
+    },
+    {
+        "contents": "data\\BMO\\20170209-091611.news",
+        "description": "[Marketwired] - BMO Asset Management Inc. today expanded its Exchange Traded Funds suite, further providing clients with innovative income solutions to navigate the market effectively.",
+        "guid": "yahoo_finance/1638008858",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bmo-asset-management-inc-expands-121500488.html",
+        "pubDate": "Thu, 09 Feb 2017 12:15:00 GMT",
+        "source": "data\\BMO\\20170209.rss",
+        "title": "BMO Asset Management Inc. Expands its ETF Lineup"
     }
 ]

@@ -1015,5 +1015,23 @@
         "pubDate": "Tue, 07 Feb 2017 14:24:45 GMT",
         "source": "data\\BCE\\20170207.rss",
         "title": "Bell Media says Super Bowl ratings drop, cites ruling on commercials"
+    },
+    {
+        "contents": "data\\BCE\\20170209-090617.news",
+        "description": null,
+        "guid": "yahoo_finance/195912212",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=142r20ugn/*http://www.capitalcube.com/blog/index.php/bce-inc-breached-its-50-day-moving-average-in-a-bullish-manner-bce-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:39:05 GMT",
+        "source": "data\\BCE\\20170209.rss",
+        "title": "BCE, Inc. breached its 50 day moving average in a Bullish Manner : BCE-CA : February 9, 2017"
+    },
+    {
+        "contents": "data\\BCE\\20170209-090617.news",
+        "description": null,
+        "guid": "yahoo_finance/1619341188",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-profit-misses-pays-more-114355355.html",
+        "pubDate": "Thu, 09 Feb 2017 11:43:55 GMT",
+        "source": "data\\BCE\\20170209.rss",
+        "title": "Telus profit misses as it pays more to win wireless customers"
     }
 ]

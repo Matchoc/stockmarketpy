@@ -574,5 +574,14 @@
         "pubDate": "Thu, 02 Feb 2017 22:37:44 GMT",
         "source": "data\\IVN\\20170203.rss",
         "title": "STATEMENT: Ivanhoe Mines welcomes ruling today by South African judge in favour of Ivanplats that overturns an interim interdict order issued last November"
+    },
+    {
+        "contents": "data\\IVN\\20170209-091050.news",
+        "description": "[Marketwired] - Ivanhoe Mines announced today that it has received the fourth installment of US$41.2 million owing from a subsidiary of Zijin Mining Group Co., Ltd. as part of a strategic co-development agreement under ...",
+        "guid": "yahoo_finance/3587165151",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ivanhoe-mines-receives-fourth-five-223000650.html",
+        "pubDate": "Wed, 08 Feb 2017 22:30:00 GMT",
+        "source": "data\\IVN\\20170209.rss",
+        "title": "Ivanhoe Mines receives fourth of five scheduled US$41.2 million installment payments from Zijin Mining Group as part of Zijin's US$412 million investment in the Kamoa-Kakula Copper Project"
     }
 ]

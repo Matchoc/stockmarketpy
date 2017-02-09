@@ -223,5 +223,59 @@
         "pubDate": "Fri, 03 Feb 2017 16:16:06 GMT",
         "source": "data\\PD\\20170204.rss",
         "title": "ETFs with exposure to Precision Drilling Corp. : February 3, 2017"
+    },
+    {
+        "contents": "data\\PD\\20170209-091434.news",
+        "description": null,
+        "guid": "yahoo_finance/3433278050",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=pd.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:04 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Q4 2016 Precision Drilling Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\PD\\20170209-091435.news",
+        "description": null,
+        "guid": "yahoo_finance/2025084312",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/precision-drilling-expects-charge-higher-120255455.html",
+        "pubDate": "Thu, 09 Feb 2017 12:02:55 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Precision Drilling expects to charge higher for rigs"
+    },
+    {
+        "contents": "data\\PD\\20170209-091436.news",
+        "description": null,
+        "guid": "yahoo_finance/3957409048",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/precision-drilling-reports-4q-loss-114928909.html",
+        "pubDate": "Thu, 09 Feb 2017 11:49:28 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Precision Drilling reports 4Q loss"
+    },
+    {
+        "contents": "data\\PD\\20170209-091438.news",
+        "description": null,
+        "guid": "yahoo_finance/1615643184",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/precision-drilling-reports-4q-loss-114928396.html",
+        "pubDate": "Thu, 09 Feb 2017 11:49:28 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Precision Drilling reports 4Q loss"
+    },
+    {
+        "contents": "data\\PD\\20170209-091440.news",
+        "description": null,
+        "guid": "yahoo_finance/2050950212",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/precision-drilling-posts-smaller-quarterly-110722335.html",
+        "pubDate": "Thu, 09 Feb 2017 11:07:22 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Precision Drilling posts smaller quarterly loss"
+    },
+    {
+        "contents": "data\\PD\\20170209-091442.news",
+        "description": "[Marketwired] - Precision Drilling Corporation - -",
+        "guid": "yahoo_finance/3922666413",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/precision-drilling-corporation-announces-2016-110000871.html",
+        "pubDate": "Thu, 09 Feb 2017 11:00:00 GMT",
+        "source": "data\\PD\\20170209.rss",
+        "title": "Precision Drilling Corporation Announces 2016 Fourth Quarter and Year End Financial Results"
     }
 ]

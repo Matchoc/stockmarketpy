@@ -205,5 +205,59 @@
         "pubDate": "Wed, 08 Feb 2017 11:47:11 GMT",
         "source": "data\\TRI\\20170208.rss",
         "title": "Business Services Stocks Earnings on Feb 9: TRI, NLSN & More"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091331.news",
+        "description": null,
+        "guid": "yahoo_finance/2854932297",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-tri-beats-q4-131101907.html",
+        "pubDate": "Thu, 09 Feb 2017 13:11:01 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Thomson Reuters (TRI) Beats Q4 Earnings, Revenues Miss"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091332.news",
+        "description": null,
+        "guid": "yahoo_finance/670628608",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/thomson-reuters-posts-higher-fourth-121138522.html",
+        "pubDate": "Thu, 09 Feb 2017 12:25:43 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Thomson Reuters posts higher than expected fourth-quarter profit"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091334.news",
+        "description": null,
+        "guid": "yahoo_finance/2476473528",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/thomson-reuters-tops-4q-profit-121928610.html",
+        "pubDate": "Thu, 09 Feb 2017 12:19:28 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Thomson Reuters tops 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091336.news",
+        "description": null,
+        "guid": "yahoo_finance/2932115166",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-tops-4q-profit-121928221.html",
+        "pubDate": "Thu, 09 Feb 2017 12:19:28 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Thomson Reuters tops 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091339.news",
+        "description": null,
+        "guid": "yahoo_finance/2144755201",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170209.html?t=tri.to",
+        "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Q4 2016 Thomson Reuters Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\TRI\\20170209-091339.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /PRNewswire/ -- Thomson Reuters (TSX /NYSE: TRI) today reported results for the full year and fourth quarter ended December 31, 2016. The company achieved its full-year 2016 Outlook. ...",
+        "guid": "yahoo_finance/3544331803",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-reports-fourth-quarter-113000929.html",
+        "pubDate": "Thu, 09 Feb 2017 11:30:00 GMT",
+        "source": "data\\TRI\\20170209.rss",
+        "title": "Thomson Reuters Reports Fourth-Quarter and Full-Year 2016 Results"
     }
 ]

@@ -619,5 +619,32 @@
         "pubDate": "Fri, 03 Feb 2017 12:38:41 GMT",
         "source": "data\\K\\20170203.rss",
         "title": "What the Latest Volatility and RSI Numbers Indicate"
+    },
+    {
+        "contents": "data\\K\\20170209-090850.news",
+        "description": null,
+        "guid": "yahoo_finance/3444991162",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12pghc06e/*http://marketrealist.com/2017/02/revenue-expectations-gold-miners-surprise-upside-4q16/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 12:37:48 GMT",
+        "source": "data\\K\\20170209.rss",
+        "title": "The Gold Miners That Could Surprise in 4Q16"
+    },
+    {
+        "contents": "data\\K\\20170209-090851.news",
+        "description": null,
+        "guid": "yahoo_finance/3175096271",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12i9mc213/*http://marketrealist.com/2017/02/what-do-the-miners-volatility-numbers-indicate/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 17:21:15 GMT",
+        "source": "data\\K\\20170209.rss",
+        "title": "What Do the Miners\u2019 Volatility Numbers Indicate?"
+    },
+    {
+        "contents": "data\\K\\20170209-090852.news",
+        "description": null,
+        "guid": "yahoo_finance/87830759",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12si727tt/*http://marketrealist.com/2017/02/precious-metal-miners-their-volatilities-in-january-2017/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 16:36:13 GMT",
+        "source": "data\\K\\20170209.rss",
+        "title": "Precious Metal Miners: Their Volatilities in January 2017"
     }
 ]

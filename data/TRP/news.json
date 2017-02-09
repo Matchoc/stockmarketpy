@@ -1249,5 +1249,23 @@
         "pubDate": "Mon, 06 Feb 2017 17:46:08 GMT",
         "source": "data\\TRP\\20170207.rss",
         "title": "TransCanada Corporation's 3 Biggest Growth Opportunities"
+    },
+    {
+        "contents": "data\\TRP\\20170209-090434.news",
+        "description": "[Reuters] - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy. THE GLOBE AND MAIL ** Foreign Affairs Minister Chrystia ...",
+        "guid": "yahoo_finance/2251956717",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/press-digest-canada-feb-9-110208074.html",
+        "pubDate": "Thu, 09 Feb 2017 11:02:08 GMT",
+        "source": "data\\TRP\\20170209.rss",
+        "title": "PRESS DIGEST- Canada - Feb 9"
+    },
+    {
+        "contents": "data\\TRP\\20170209-090436.news",
+        "description": null,
+        "guid": "yahoo_finance/572937815",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/native-tribes-around-u-vow-203558311.html",
+        "pubDate": "Wed, 08 Feb 2017 20:35:58 GMT",
+        "source": "data\\TRP\\20170209.rss",
+        "title": "Native tribes around U.S. vow to step up pipeline protests"
     }
 ]

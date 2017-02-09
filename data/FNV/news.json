@@ -304,5 +304,14 @@
         "pubDate": "Mon, 06 Feb 2017 20:55:26 GMT",
         "source": "data\\FNV\\20170207.rss",
         "title": "How Analysts Rate Royalty, Streaming Companies amid Rate Fears"
+    },
+    {
+        "contents": "data\\FNV\\20170209-091809.news",
+        "description": null,
+        "guid": "yahoo_finance/3096943785",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-metals-mining-131500283.html",
+        "pubDate": "Thu, 09 Feb 2017 13:15:00 GMT",
+        "source": "data\\FNV\\20170209.rss",
+        "title": "Research Reports Initiated on Metals and Mining Stocks Nemaska Lithium, Sherritt International, Avalon Advanced Materials, and Franco-Nevada"
     }
 ]

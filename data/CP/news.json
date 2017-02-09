@@ -691,5 +691,23 @@
         "pubDate": "Tue, 07 Feb 2017 21:26:29 GMT",
         "source": "data\\CP\\20170207.rss",
         "title": "CANADA STOCKS-TSX up as Fed hike talk boosts banks; energy stocks fall"
+    },
+    {
+        "contents": "data\\CP\\20170209-091129.news",
+        "description": null,
+        "guid": "yahoo_finance/1114736950",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1346d2ppv/*https://www.wsj.com/articles/railroad-veterans-turnaround-strategy-faces-hurdles-in-u-s-1486645200?mod=yahoo_hs",
+        "pubDate": "Thu, 09 Feb 2017 13:00:05 GMT",
+        "source": "data\\CP\\20170209.rss",
+        "title": "[$$] Railroad Veteran's Turnaround Strategy Faces Hurdles in U.S."
+    },
+    {
+        "contents": "data\\CP\\20170209-091130.news",
+        "description": null,
+        "guid": "yahoo_finance/2199113971",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12r69vhn2/*http://marketrealist.com/2017/02/boosted-by-coal-volumes-canadian-pacifics-carloads-rose/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 12:36:00 GMT",
+        "source": "data\\CP\\20170209.rss",
+        "title": "Boosted by Coal Volumes, Canadian Pacific\u2019s Carloads Rose"
     }
 ]

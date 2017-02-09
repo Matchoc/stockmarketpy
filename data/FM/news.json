@@ -610,5 +610,32 @@
         "pubDate": "Wed, 08 Feb 2017 12:06:36 GMT",
         "source": "data\\FM\\20170208.rss",
         "title": "First Quantum Minerals asks court to dismiss Zambia's $1.4 bln claim"
+    },
+    {
+        "contents": "data\\FM\\20170209-090138.news",
+        "description": null,
+        "guid": "yahoo_finance/126626069",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-gains-miners-215315678.html",
+        "pubDate": "Wed, 08 Feb 2017 21:53:15 GMT",
+        "source": "data\\FM\\20170209.rss",
+        "title": "CANADA STOCKS-TSX gains as miners benefit from higher commodity prices"
+    },
+    {
+        "contents": "data\\FM\\20170209-090139.news",
+        "description": null,
+        "guid": "yahoo_finance/1222062828",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zambia-says-first-quantum-plans-180112397.html",
+        "pubDate": "Wed, 08 Feb 2017 18:01:12 GMT",
+        "source": "data\\FM\\20170209.rss",
+        "title": "Zambia says First Quantum plans $1 bln investment, company cites conditions"
+    },
+    {
+        "contents": "data\\FM\\20170209-090141.news",
+        "description": "[at Financial Times] - The Bronze Age was long ago. But copper came first. By definition, it had to: China started using it in the third millennium BC and these days dominates demand with 45 per cent of global consumption. Prices ...",
+        "guid": "yahoo_finance/2684143260",
+        "link": "http://us.rd.yahoo.com/finance/external/ft/rss/SIG=129jr1hr9/*http://www.ft.com/cms/s/767b0d48-ee0f-11e6-930f-061b01e23655,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev",
+        "pubDate": "Wed, 08 Feb 2017 17:11:42 GMT",
+        "source": "data\\FM\\20170209.rss",
+        "title": "[$$] Copper price: lucky strike"
     }
 ]

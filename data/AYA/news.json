@@ -241,5 +241,14 @@
         "pubDate": "Wed, 01 Feb 2017 15:12:00 GMT",
         "source": "data\\AYA\\20170202.rss",
         "title": "Amaya Makes Additional Payment on Deferred Purchase Price"
+    },
+    {
+        "contents": "data\\AYA\\20170209-091847.news",
+        "description": null,
+        "guid": "yahoo_finance/2146396356",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=144i67des/*http://www.capitalcube.com/blog/index.php/amaya-inc-breached-its-50-day-moving-average-in-a-bullish-manner-aya-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:39:56 GMT",
+        "source": "data\\AYA\\20170209.rss",
+        "title": "Amaya, Inc. breached its 50 day moving average in a Bullish Manner : AYA-CA : February 9, 2017"
     }
 ]

@@ -331,5 +331,14 @@
         "pubDate": "Tue, 07 Feb 2017 16:42:45 GMT",
         "source": "data\\TIH\\20170207.rss",
         "title": "Edited Transcript of TIH.TO earnings conference call or presentation 7-Feb-17 1:00pm GMT"
+    },
+    {
+        "contents": "data\\TIH\\20170209-090901.news",
+        "description": null,
+        "guid": "yahoo_finance/2934684377",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1419okvi5/*http://www.capitalcube.com/blog/index.php/toromont-industries-ltd-tih-ca-earnings-analysis-2016-by-the-numbers-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 17:07:14 GMT",
+        "source": "data\\TIH\\20170209.rss",
+        "title": "Toromont Industries Ltd. :TIH-CA: Earnings Analysis: 2016 By the Numbers : February 8, 2017"
     }
 ]

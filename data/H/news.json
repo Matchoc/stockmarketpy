@@ -223,5 +223,23 @@
         "pubDate": "Fri, 03 Feb 2017 16:38:00 GMT",
         "source": "data\\H\\20170204.rss",
         "title": "Hydro One wins award for Best Investor Relations for an Initial Public Offering"
+    },
+    {
+        "contents": "data\\H\\20170209-091638.news",
+        "description": null,
+        "guid": "yahoo_finance/3841509425",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/tmx-talks-bring-saudi-aramco-143935219.html",
+        "pubDate": "Wed, 08 Feb 2017 18:43:29 GMT",
+        "source": "data\\H\\20170209.rss",
+        "title": "Canada's TMX seeks part of Saudi Aramco listing"
+    },
+    {
+        "contents": "data\\H\\20170209-091640.news",
+        "description": "[Reuters] - Toronto Stock Exchange owner TMX Group Ltd said on Wednesday it was pitching the energy-rich bourse to \"Saudi officials of significant influence\" to bring at least part of the kingdom's massive Saudi Aramco public listing to Canada. Saudi Arabia expects to value the state-owned oil producer at a minimum of $2 trillion, in what could be the world's biggest initial public offering (IPO), the centerpiece of a plan to transform the Saudi economy by attracting foreign investment and diversifying away from oil.",
+        "guid": "yahoo_finance/3630483331",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/tmx-talks-bring-saudi-aramco-143738153.html",
+        "pubDate": "Wed, 08 Feb 2017 18:42:26 GMT",
+        "source": "data\\H\\20170209.rss",
+        "title": "Canada's TMX seeks part of Saudi Aramco listing"
     }
 ]

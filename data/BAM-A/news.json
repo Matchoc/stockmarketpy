@@ -412,5 +412,14 @@
         "pubDate": "Tue, 24 Jan 2017 22:15:00 GMT",
         "source": "data\\BAM-A\\20170125.rss",
         "title": "S&P Dow Jones Indices Announces Changes to the S&P/TSX Canadian Indices"
+    },
+    {
+        "contents": "data\\BAM-A\\20170209-090630.news",
+        "description": "[Marketwired] - Brookfield Asset Management Inc. , a leading global alternative asset manager, today announced financial results for the year ended December 31, 2016.",
+        "guid": "yahoo_finance/2619411195",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-asset-management-reports-2016-115000045.html",
+        "pubDate": "Thu, 09 Feb 2017 11:50:00 GMT",
+        "source": "data\\BAM-A\\20170209.rss",
+        "title": "Brookfield Asset Management Reports 2016 Results"
     }
 ]

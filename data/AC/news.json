@@ -412,5 +412,23 @@
         "pubDate": "Tue, 07 Feb 2017 15:00:00 GMT",
         "source": "data\\AC\\20170207.rss",
         "title": "Media Advisory - Air Canada Invites Media to Meet the Top Canadian Talents Helping to Shape the Future of Canada's Flag-Carrier"
+    },
+    {
+        "contents": "data\\AC\\20170209-091122.news",
+        "description": "[CNW Group] - /R E P E A T -- Media Advisory - Air Canada Invites Media to Meet the Top Canadian Talents Helping to Shape the Future of Canada's Flag-Carrier/",
+        "guid": "yahoo_finance/2801296869",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/r-e-p-e-t-110000763.html",
+        "pubDate": "Thu, 09 Feb 2017 11:00:00 GMT",
+        "source": "data\\AC\\20170209.rss",
+        "title": "/R E P E A T -- Media Advisory - Air Canada Invites Media to Meet the Top Canadian Talents Helping to Shape the Future of Canada's Flag-Carrier/"
+    },
+    {
+        "contents": "data\\AC\\20170209-091124.news",
+        "description": null,
+        "guid": "yahoo_finance/2154603009",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/brazil-challenges-canada-wto-over-183345099.html",
+        "pubDate": "Wed, 08 Feb 2017 18:33:45 GMT",
+        "source": "data\\AC\\20170209.rss",
+        "title": "Brazil challenges Canada at WTO over Bombardier funding"
     }
 ]

@@ -457,5 +457,14 @@
         "pubDate": "Mon, 04 Apr 2016 23:35:31 GMT",
         "source": "data\\ALA\\20170203.rss",
         "title": "AltaGas Ltd. Announces $350 Million Medium-Term Note Offering"
+    },
+    {
+        "contents": "data\\ALA\\20170209-090652.news",
+        "description": null,
+        "guid": "yahoo_finance/1058041539",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altagas-ltd-issue-fourth-quarter-232004702.html",
+        "pubDate": "Wed, 08 Feb 2017 23:20:04 GMT",
+        "source": "data\\ALA\\20170209.rss",
+        "title": "AltaGas Ltd. to Issue Fourth Quarter and Full Year 2016 Results"
     }
 ]

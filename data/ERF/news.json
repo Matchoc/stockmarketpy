@@ -403,5 +403,14 @@
         "pubDate": "Tue, 07 Feb 2017 13:16:41 GMT",
         "source": "data\\ERF\\20170207.rss",
         "title": "Enerplus Corp. breached its 50 day moving average in a Bearish Manner : ERF-CA : February 7, 2017"
+    },
+    {
+        "contents": "data\\ERF\\20170209-090927.news",
+        "description": null,
+        "guid": "yahoo_finance/3545933933",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=134mk8q6f/*http://www.capitalcube.com/blog/index.php/enerplus-corp-value-analysis-torontoerf-february-8-2017/",
+        "pubDate": "Wed, 08 Feb 2017 19:10:36 GMT",
+        "source": "data\\ERF\\20170209.rss",
+        "title": "Enerplus Corp. \u2013 Value Analysis (TORONTO:ERF) : February 8, 2017"
     }
 ]

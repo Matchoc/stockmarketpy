@@ -403,5 +403,41 @@
         "pubDate": "Wed, 08 Feb 2017 12:07:07 GMT",
         "source": "data\\JE\\20170208.rss",
         "title": "Q3 2017 Just Energy Group Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\JE\\20170209-091913.news",
+        "description": null,
+        "guid": "yahoo_finance/2376684124",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/just-energy-posts-3q-profit-232845952.html",
+        "pubDate": "Wed, 08 Feb 2017 23:28:45 GMT",
+        "source": "data\\JE\\20170209.rss",
+        "title": "Just Energy posts 3Q profit"
+    },
+    {
+        "contents": "data\\JE\\20170209-091916.news",
+        "description": null,
+        "guid": "yahoo_finance/2487534324",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-posts-3q-profit-232845833.html",
+        "pubDate": "Wed, 08 Feb 2017 23:28:45 GMT",
+        "source": "data\\JE\\20170209.rss",
+        "title": "Just Energy posts 3Q profit"
+    },
+    {
+        "contents": "data\\JE\\20170209-091917.news",
+        "description": "[GlobeNewswire] - PRESS RELEASE Just Energy Reports Third Quarter Fiscal 2017 Results Reaffirms Fiscal 2017 Base EBITDA Guidance of $223 million to $233 million TORONTO, ONTARIO - - February 8, 2017 - - Just Energy Group, ...",
+        "guid": "yahoo_finance/3885519793",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-reports-third-quarter-222201641.html",
+        "pubDate": "Wed, 08 Feb 2017 22:22:01 GMT",
+        "source": "data\\JE\\20170209.rss",
+        "title": "Just Energy Reports Third Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\JE\\20170209-091919.news",
+        "description": "[Marketwired] - Just Energy Group, Inc. , a leading retail energy provider specializing in electricity and natural gas commodities, energy efficiency solutions, and renewable energy options, announced results for its ...",
+        "guid": "yahoo_finance/1818622032",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/just-energy-reports-third-quarter-220000472.html",
+        "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
+        "source": "data\\JE\\20170209.rss",
+        "title": "Just Energy Reports Third Quarter Fiscal 2017 Results"
     }
 ]

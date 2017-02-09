@@ -322,5 +322,14 @@
         "pubDate": "Wed, 30 Mar 2016 13:21:28 GMT",
         "source": "data\\DOL\\20170127.rss",
         "title": "Dollarama Reports Strong Results for the Fourth Quarter & Full Year of Fiscal 2016"
+    },
+    {
+        "contents": "data\\DOL\\20170209-090215.news",
+        "description": null,
+        "guid": "yahoo_finance/3574115534",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1488lnlp6/*http://www.capitalcube.com/blog/index.php/dollarama-inc-breached-its-50-day-moving-average-in-a-bullish-manner-dol-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:47:34 GMT",
+        "source": "data\\DOL\\20170209.rss",
+        "title": "Dollarama, Inc. breached its 50 day moving average in a Bullish Manner : DOL-CA : February 9, 2017"
     }
 ]

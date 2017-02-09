@@ -439,5 +439,23 @@
         "pubDate": "Sun, 05 Feb 2017 13:46:25 GMT",
         "source": "data\\AGI\\20170205.rss",
         "title": "Can This Little-Known Gold Stock Double Again in 2017?"
+    },
+    {
+        "contents": "data\\AGI\\20170209-090155.news",
+        "description": "[Marketwired] - Alamos Gold Inc. today announced that it has closed its previously announced bought deal offering at a price of US$7.95 per common share . A total of 31,450,000 common shares were sold in the offering ...",
+        "guid": "yahoo_finance/2203176993",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/alamos-gold-closes-us-250-131937618.html",
+        "pubDate": "Thu, 09 Feb 2017 13:19:37 GMT",
+        "source": "data\\AGI\\20170209.rss",
+        "title": "Alamos Gold Closes US$250 Million Bought Deal Financing"
+    },
+    {
+        "contents": "data\\AGI\\20170209-090157.news",
+        "description": null,
+        "guid": "yahoo_finance/2979858560",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1295bgm1p/*http://marketrealist.com/2017/02/miners-and-their-correlations-to-gold/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Wed, 08 Feb 2017 18:05:43 GMT",
+        "source": "data\\AGI\\20170209.rss",
+        "title": "Miners and Their Correlations to Gold"
     }
 ]

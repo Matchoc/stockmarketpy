@@ -151,5 +151,14 @@
         "pubDate": "Tue, 31 Jan 2017 12:00:00 GMT",
         "source": "data\\CIGI\\20170131.rss",
         "title": "Colliers International to Announce Fourth Quarter and Annual Results for 2016 on February 15, 2017"
+    },
+    {
+        "contents": "data\\CIGI\\20170209-090837.news",
+        "description": null,
+        "guid": "yahoo_finance/304989204",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14s0shnqe/*http://www.capitalcube.com/blog/index.php/colliers-international-group-inc-breached-its-50-day-moving-average-in-a-bullish-manner-cigi-ca-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 12:43:13 GMT",
+        "source": "data\\CIGI\\20170209.rss",
+        "title": "Colliers International Group, Inc. breached its 50 day moving average in a Bullish Manner : CIGI-CA : February 9, 2017"
     }
 ]

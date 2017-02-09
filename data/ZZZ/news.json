@@ -214,5 +214,14 @@
         "pubDate": "Fri, 03 Feb 2017 17:56:00 GMT",
         "source": "data\\ZZZ\\20170204.rss",
         "title": "Sleep Country Canada Declares Fourth Quarter 2016 Dividend"
+    },
+    {
+        "contents": "data\\ZZZ\\20170209-091200.news",
+        "description": null,
+        "guid": "yahoo_finance/488867765",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-consumer-cyclical-131500555.html",
+        "pubDate": "Thu, 09 Feb 2017 13:15:00 GMT",
+        "source": "data\\ZZZ\\20170209.rss",
+        "title": "Research Reports Initiated on Consumer Cyclical Stocks Hudson's Bay, Canadian Tire, Sleep Country Canada Holdings, and Reitmans Canada"
     }
 ]
