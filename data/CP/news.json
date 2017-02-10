@@ -709,5 +709,23 @@
         "pubDate": "Thu, 09 Feb 2017 12:36:00 GMT",
         "source": "data\\CP\\20170209.rss",
         "title": "Boosted by Coal Volumes, Canadian Pacific\u2019s Carloads Rose"
+    },
+    {
+        "contents": "data\\CP\\20170210-091822.news",
+        "description": null,
+        "guid": "yahoo_finance/1839949025",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1346d2ppv/*https://www.wsj.com/articles/railroad-veterans-turnaround-strategy-faces-hurdles-in-u-s-1486645200?ru=yahoo?mod=yahoo_itp",
+        "pubDate": "Fri, 10 Feb 2017 05:56:44 GMT",
+        "source": "data\\CP\\20170210.rss",
+        "title": "[$$] Railroad Veteran\u2019s Turnaround Strategy Faces Hurdles in U.S."
+    },
+    {
+        "contents": "data\\CP\\20170210-091823.news",
+        "description": null,
+        "guid": "yahoo_finance/3892534989",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/silence-csx-may-signal-takeover-211518232.html",
+        "pubDate": "Thu, 09 Feb 2017 21:15:18 GMT",
+        "source": "data\\CP\\20170210.rss",
+        "title": "Silence at CSX May Signal Takeover by Harrison as Deadline Looms"
     }
 ]

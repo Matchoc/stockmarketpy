@@ -313,5 +313,32 @@
         "pubDate": "Thu, 09 Feb 2017 13:15:00 GMT",
         "source": "data\\FNV\\20170209.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Nemaska Lithium, Sherritt International, Avalon Advanced Materials, and Franco-Nevada"
+    },
+    {
+        "contents": "data\\FNV\\20170210-091137.news",
+        "description": "[CNW Group] - Franco-Nevada Declares Quarterly Dividend and Provides Details for Upcoming Release of 2016 Results",
+        "guid": "yahoo_finance/2590991337",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/franco-nevada-declares-quarterly-dividend-210000699.html",
+        "pubDate": "Thu, 09 Feb 2017 21:00:00 GMT",
+        "source": "data\\FNV\\20170210.rss",
+        "title": "Franco-Nevada Declares Quarterly Dividend and Provides Details for Upcoming Release of 2016 Results"
+    },
+    {
+        "contents": "data\\FNV\\20170210-091139.news",
+        "description": "[PR Newswire] - Quarterly Dividend Declaration TORONTO, Feb. 9, 2017 /PRNewswire/ - Franco-Nevada Corporation is pleased to announce that its Board of Directors has declared a quarterly dividend of US$0.22 per share. ...",
+        "guid": "yahoo_finance/3503318911",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/franco-nevada-declares-quarterly-dividend-210000327.html",
+        "pubDate": "Thu, 09 Feb 2017 21:00:00 GMT",
+        "source": "data\\FNV\\20170210.rss",
+        "title": "Franco-Nevada Declares Quarterly Dividend and Provides Details for Upcoming Release of 2016 Results"
+    },
+    {
+        "contents": "data\\FNV\\20170210-091141.news",
+        "description": null,
+        "guid": "yahoo_finance/2542548419",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1329aar7k/*http://www.fool.com/investing/2017/02/09/heres-why-coeur-mining-incs-stock-is-crashing-toda.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 09 Feb 2017 17:20:13 GMT",
+        "source": "data\\FNV\\20170210.rss",
+        "title": "Here&#39;s Why Coeur Mining Inc.&#39;s Stock Is Crashing Today"
     }
 ]

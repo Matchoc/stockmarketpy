@@ -448,5 +448,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:59:01 GMT",
         "source": "data\\MX\\20170204.rss",
         "title": "Why Methanex (MEOH) Could Be Positioned for a Surge?"
+    },
+    {
+        "contents": "data\\MX\\20170210-091151.news",
+        "description": null,
+        "guid": "yahoo_finance/1850328505",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-chemicals-stocks-131500865.html",
+        "pubDate": "Fri, 10 Feb 2017 13:15:00 GMT",
+        "source": "data\\MX\\20170210.rss",
+        "title": "Research Reports Initiated on Chemicals Stocks Argex Titanium Methanex Canexus and Chemtrade Logistics Income Fund"
     }
 ]

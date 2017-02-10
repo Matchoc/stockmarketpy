@@ -421,5 +421,23 @@
         "pubDate": "Thu, 09 Feb 2017 11:50:00 GMT",
         "source": "data\\BAM-A\\20170209.rss",
         "title": "Brookfield Asset Management Reports 2016 Results"
+    },
+    {
+        "contents": "data\\BAM-A\\20170210-090505.news",
+        "description": null,
+        "guid": "yahoo_finance/2770250957",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/brookfield-asset-management-posts-4q-152857273.html",
+        "pubDate": "Thu, 09 Feb 2017 15:28:57 GMT",
+        "source": "data\\BAM-A\\20170210.rss",
+        "title": "Brookfield Asset Management posts 4Q profit"
+    },
+    {
+        "contents": "data\\BAM-A\\20170210-090507.news",
+        "description": null,
+        "guid": "yahoo_finance/2188693120",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brookfield-asset-management-posts-4q-152857265.html",
+        "pubDate": "Thu, 09 Feb 2017 15:28:57 GMT",
+        "source": "data\\BAM-A\\20170210.rss",
+        "title": "Brookfield Asset Management posts 4Q profit"
     }
 ]

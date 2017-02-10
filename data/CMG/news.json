@@ -205,5 +205,23 @@
         "pubDate": "Wed, 10 Aug 2016 11:00:00 GMT",
         "source": "data\\CMG\\20170206.rss",
         "title": "Computer Modelling Group Announces First Quarter Results"
+    },
+    {
+        "contents": "data\\CMG\\20170210-090051.news",
+        "description": null,
+        "guid": "yahoo_finance/1212975774",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/computer-modelling-group-announces-third-120000079.html",
+        "pubDate": "Fri, 10 Feb 2017 12:00:00 GMT",
+        "source": "data\\CMG\\20170210.rss",
+        "title": "Computer Modelling Group Announces Third Quarter Results"
+    },
+    {
+        "contents": "data\\CMG\\20170210-090053.news",
+        "description": null,
+        "guid": "yahoo_finance/3040891031",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/computer-modelling-group-declares-quarterly-210050720.html",
+        "pubDate": "Thu, 09 Feb 2017 21:00:50 GMT",
+        "source": "data\\CMG\\20170210.rss",
+        "title": "Computer Modelling Group Declares Quarterly Dividend"
     }
 ]

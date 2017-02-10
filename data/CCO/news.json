@@ -592,5 +592,59 @@
         "pubDate": "Wed, 08 Feb 2017 17:42:03 GMT",
         "source": "data\\CCO\\20170209.rss",
         "title": "Why Investors Saw Double-Digit Gains in Denison Mines Corp. and Uranium Energy Corp. in January"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090433.news",
+        "description": null,
+        "guid": "yahoo_finance/133357422",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/cameco-reports-4q-loss-100057224.html",
+        "pubDate": "Fri, 10 Feb 2017 10:00:57 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "Cameco reports 4Q loss"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090435.news",
+        "description": null,
+        "guid": "yahoo_finance/2301899638",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cameco-reports-4q-loss-100057198.html",
+        "pubDate": "Fri, 10 Feb 2017 10:00:57 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "Cameco reports 4Q loss"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090436.news",
+        "description": null,
+        "guid": "yahoo_finance/1941313915",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=1346j9t5d/*https://www.wsj.com/articles/cameco-earnings-hurt-by-continuing-slump-in-uranium-prices-1486694446?mod=yahoo_hs",
+        "pubDate": "Fri, 10 Feb 2017 02:40:50 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "[$$] Cameco Earnings Hurt by Continuing Slump in Uranium Prices"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090437.news",
+        "description": null,
+        "guid": "yahoo_finance/184408620",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-uranium-producer-camecos-profit-234612710.html",
+        "pubDate": "Thu, 09 Feb 2017 23:46:12 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "Canadian uranium producer Cameco's profit misses estimate"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090438.news",
+        "description": null,
+        "guid": "yahoo_finance/457085635",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-uranium-producer-cameco-posts-230549710.html",
+        "pubDate": "Thu, 09 Feb 2017 23:05:49 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "Canadian uranium producer Cameco posts bigger quarterly loss"
+    },
+    {
+        "contents": "data\\CCO\\20170210-090440.news",
+        "description": "[Marketwired] - ALL AMOUNTS ARE STATED IN CDN $",
+        "guid": "yahoo_finance/18793560",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cameco-reports-fourth-quarter-2016-225000350.html",
+        "pubDate": "Thu, 09 Feb 2017 22:50:00 GMT",
+        "source": "data\\CCO\\20170210.rss",
+        "title": "Cameco reports fourth quarter and 2016 financial results"
     }
 ]

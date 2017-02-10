@@ -331,5 +331,23 @@
         "pubDate": "Mon, 23 Feb 2015 21:05:57 GMT",
         "source": "data\\CVE\\20170203.rss",
         "title": "Shell shelves 200,000-bpd Pierre River oil sands mining project"
+    },
+    {
+        "contents": "data\\CVE\\20170210-090546.news",
+        "description": null,
+        "guid": "yahoo_finance/1133345132",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132qq87si/*http://www.fool.com/investing/2017/02/09/heres-why-cenovus-energy-incs-stock-slumped-105-in.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 09 Feb 2017 17:32:08 GMT",
+        "source": "data\\CVE\\20170210.rss",
+        "title": "Here's Why Cenovus Energy Inc.'s Stock Slumped 10.5% in January"
+    },
+    {
+        "contents": "data\\CVE\\20170210-090547.news",
+        "description": "[Marketwired] - Cenovus Energy Inc. will release its fourth quarter and year-end 2016 results on Thursday, February 16, 2017. The news release will provide consolidated fourth quarter and year-end 2016 operating and financial ...",
+        "guid": "yahoo_finance/4125486899",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cenovus-hold-conference-call-webcast-153000042.html",
+        "pubDate": "Thu, 09 Feb 2017 15:30:00 GMT",
+        "source": "data\\CVE\\20170210.rss",
+        "title": "Cenovus to hold conference call and webcast on fourth quarter and year-end 2016 results"
     }
 ]

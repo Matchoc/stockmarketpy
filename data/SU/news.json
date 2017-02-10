@@ -871,5 +871,59 @@
         "pubDate": "Thu, 09 Feb 2017 00:30:00 GMT",
         "source": "data\\SU\\20170209.rss",
         "title": "Suncor Energy declares increased dividend"
+    },
+    {
+        "contents": "data\\SU\\20170210-090317.news",
+        "description": null,
+        "guid": "yahoo_finance/3840808557",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=11rjpe12b/*http://marketrealist.com/2017/02/analysts-ratings-suncor/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 10 Feb 2017 12:36:13 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "What Are Analysts\u2019 Ratings for Suncor?"
+    },
+    {
+        "contents": "data\\SU\\20170210-090318.news",
+        "description": null,
+        "guid": "yahoo_finance/3042769257",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-su-earnings-conference-214159475.html",
+        "pubDate": "Thu, 09 Feb 2017 21:41:59 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "Edited Transcript of SU.TO earnings conference call or presentation 9-Feb-17 2:30pm GMT"
+    },
+    {
+        "contents": "data\\SU\\20170210-090319.news",
+        "description": null,
+        "guid": "yahoo_finance/3764010990",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=12vd2t0tn/*http://www.bloomberg.com/gadfly/articles/2017-02-09/suncor-earnings-doing-quite-well-actually?cmpid=yhoo.headline",
+        "pubDate": "Thu, 09 Feb 2017 17:43:47 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "Suncor's Really Doing Quite Well, Actually"
+    },
+    {
+        "contents": "data\\SU\\20170210-090320.news",
+        "description": null,
+        "guid": "yahoo_finance/1447542490",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canada-stocks-tsx-rises-nearly-161141680.html",
+        "pubDate": "Thu, 09 Feb 2017 16:11:41 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "CANADA STOCKS-TSX rises to nearly 2-week high, led by energy shares"
+    },
+    {
+        "contents": "data\\SU\\20170210-090322.news",
+        "description": null,
+        "guid": "yahoo_finance/1306515872",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=128n5v04c/*http://marketrealist.com/2017/02/suncor-segments-turned-positive-4q16/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 14:07:54 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "Suncor: Which Segments Turned Positive in 4Q16?"
+    },
+    {
+        "contents": "data\\SU\\20170210-090322.news",
+        "description": null,
+        "guid": "yahoo_finance/1217114467",
+        "link": "http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=13gd61a8l/*http://www.bloomberg.com/news/articles/2017-02-09/suncor-oil-output-surges-to-record-as-profit-beats-estimates?cmpid=yhoo.headline",
+        "pubDate": "Thu, 09 Feb 2017 01:21:35 GMT",
+        "source": "data\\SU\\20170210.rss",
+        "title": "Suncor Output Hits Record With Oil-Sands Unit at Full Speed"
     }
 ]

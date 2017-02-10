@@ -304,5 +304,14 @@
         "pubDate": "Fri, 01 Apr 2016 12:05:32 GMT",
         "source": "data\\CEU\\20170204.rss",
         "title": "CESTC Announces Amendments to its Senior Credit Facility"
+    },
+    {
+        "contents": "data\\CEU\\20170210-090119.news",
+        "description": "[Marketwired] - Canadian Energy Services & Technology Corp. announced today that it will pay a cash dividend of $0.0025 per common share on March 15, 2017, to the shareholders of record at the close of business on February ...",
+        "guid": "yahoo_finance/566086555",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-energy-services-technology-corp-221914800.html",
+        "pubDate": "Thu, 09 Feb 2017 22:19:14 GMT",
+        "source": "data\\CEU\\20170210.rss",
+        "title": "Canadian Energy Services & Technology Corp. Announces Cash Dividend, JACAM Management Changes and Provides Q4 Conference Call Details"
     }
 ]

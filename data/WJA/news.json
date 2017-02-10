@@ -565,5 +565,23 @@
         "pubDate": "Wed, 28 Sep 2016 10:09:06 GMT",
         "source": "data\\WJA\\20170209.rss",
         "title": "Media Advisory - WestJet to take Big Brothers Big Sisters youth behind the scenes to show #MentoringMatters"
+    },
+    {
+        "contents": "data\\WJA\\20170210-090737.news",
+        "description": null,
+        "guid": "yahoo_finance/403283649",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-westjet-announcement-montreal-120000290.html",
+        "pubDate": "Fri, 10 Feb 2017 12:00:00 GMT",
+        "source": "data\\WJA\\20170210.rss",
+        "title": "Media Advisory - WestJet announcement in Montreal"
+    },
+    {
+        "contents": "data\\WJA\\20170210-090738.news",
+        "description": null,
+        "guid": "yahoo_finance/3307709674",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=141c2mqf0/*http://www.capitalcube.com/blog/index.php/westjet-airlines-ltd-wja-ca-earnings-analysis-q4-2016-by-the-numbers-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 16:38:10 GMT",
+        "source": "data\\WJA\\20170210.rss",
+        "title": "WestJet Airlines Ltd. :WJA-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 9, 2017"
     }
 ]

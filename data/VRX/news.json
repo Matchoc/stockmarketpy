@@ -1024,5 +1024,23 @@
         "pubDate": "Wed, 08 Feb 2017 14:59:00 GMT",
         "source": "data\\VRX\\20170209.rss",
         "title": "Valeant: Another Analyst Cuts Target, Stays Buy Rated Into Earnings"
+    },
+    {
+        "contents": "data\\VRX\\20170210-090107.news",
+        "description": null,
+        "guid": "yahoo_finance/1957681091",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1557d0sg5/*http://www.capitalcube.com/blog/index.php/valeant-pharmaceuticals-international-inc-breached-its-50-day-moving-average-in-a-bullish-manner-vrx-ca-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 12:53:27 GMT",
+        "source": "data\\VRX\\20170210.rss",
+        "title": "Valeant Pharmaceuticals International, Inc. breached its 50 day moving average in a Bullish Manner : VRX-CA : February 10, 2017"
+    },
+    {
+        "contents": "data\\VRX\\20170210-090108.news",
+        "description": null,
+        "guid": "yahoo_finance/1070939946",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13251c5gu/*http://www.fool.com/investing/2017/02/09/the-important-lesson-we-can-all-learn-from-valeant.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 09 Feb 2017 15:49:05 GMT",
+        "source": "data\\VRX\\20170210.rss",
+        "title": "The Important Lesson We Can All Learn From Valeant Pharmaceuticals"
     }
 ]

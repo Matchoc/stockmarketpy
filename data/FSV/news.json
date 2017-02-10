@@ -349,5 +349,32 @@
         "pubDate": "Fri, 29 Apr 2016 14:15:54 GMT",
         "source": "data\\FSV\\20170127.rss",
         "title": "FirstService Corp. :FSV-CA: Earnings Analysis: Q1, 2016 By the Numbers"
+    },
+    {
+        "contents": "data\\FSV\\20170210-091239.news",
+        "description": "[GlobeNewswire] - Quarterly revenue up 21% Significant margin improvement. TORONTO, Feb. 10, 2017-- FirstService Corporation today announced strong fourth quarter and full year results for the year ended December 31, 2016. ...",
+        "guid": "yahoo_finance/3178380424",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/firstservice-reports-very-strong-fourth-123000411.html",
+        "pubDate": "Fri, 10 Feb 2017 12:30:00 GMT",
+        "source": "data\\FSV\\20170210.rss",
+        "title": "FirstService Reports Very Strong Fourth Quarter and Full Year Results"
+    },
+    {
+        "contents": "data\\FSV\\20170210-091242.news",
+        "description": null,
+        "guid": "yahoo_finance/3028831461",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170210.html?t=fsv.to",
+        "pubDate": "Fri, 10 Feb 2017 12:07:11 GMT",
+        "source": "data\\FSV\\20170210.rss",
+        "title": "Q4 2016 FirstService Corp Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\FSV\\20170210-091242.news",
+        "description": "[GlobeNewswire] - TORONTO, Feb. 09, 2017-- FirstService Corporation announced today that its Board of Directors has approved an 11% increase in the quarterly cash dividend on the outstanding Subordinate Voting Shares and ...",
+        "guid": "yahoo_finance/832678742",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/firstservice-declares-11-increase-quarterly-165553009.html",
+        "pubDate": "Thu, 09 Feb 2017 16:55:53 GMT",
+        "source": "data\\FSV\\20170210.rss",
+        "title": "FirstService Declares 11% Increase to Quarterly Cash Dividend"
     }
 ]

@@ -493,5 +493,14 @@
         "pubDate": "Wed, 08 Feb 2017 22:58:12 GMT",
         "source": "data\\IFC\\20170209.rss",
         "title": "Edited Transcript of IFC.TO earnings conference call or presentation 8-Feb-17 4:00pm GMT"
+    },
+    {
+        "contents": "data\\IFC\\20170210-091038.news",
+        "description": null,
+        "guid": "yahoo_finance/4273074355",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-financials-stocks-131500891.html",
+        "pubDate": "Fri, 10 Feb 2017 13:15:00 GMT",
+        "source": "data\\IFC\\20170210.rss",
+        "title": "Research Reports Initiated on Financials Stocks Great-West Lifeco, Genworth MI Canada, Sun Life Financial, and Intact Financial"
     }
 ]

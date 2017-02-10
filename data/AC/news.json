@@ -430,5 +430,23 @@
         "pubDate": "Wed, 08 Feb 2017 18:33:45 GMT",
         "source": "data\\AC\\20170209.rss",
         "title": "Brazil challenges Canada at WTO over Bombardier funding"
+    },
+    {
+        "contents": "data\\AC\\20170210-091112.news",
+        "description": "[CNW Group] - Air Canada Unveils New Livery Inspired by Canada",
+        "guid": "yahoo_finance/702565816",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/air-canada-unveils-livery-inspired-173100589.html",
+        "pubDate": "Thu, 09 Feb 2017 17:31:00 GMT",
+        "source": "data\\AC\\20170210.rss",
+        "title": "Air Canada Unveils New Livery Inspired by Canada"
+    },
+    {
+        "contents": "data\\AC\\20170210-091114.news",
+        "description": "[PR Newswire] - TORONTO, MONTREAL and VANCOUVER, Feb. 9, 2017 /PRNewswire/ - At three events held simultaneously across Canada in Toronto, Montreal and Vancouver, Air Canada today unveiled for its customers and employees, a bold new livery inspired by Canada for its entire fleet, elegant new uniforms for its employees, and a taste of some of the new onboard menu offerings that its customers can look forward to. \"Air Canada's new livery signals a pivotal inflection point in our 80-year history,\" said Benjamin Smith, President, Passenger Airlines at the event in Toronto, where the airline's largest hub is located.",
+        "guid": "yahoo_finance/1189519958",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/air-canada-unveils-livery-inspired-173100068.html",
+        "pubDate": "Thu, 09 Feb 2017 17:31:00 GMT",
+        "source": "data\\AC\\20170210.rss",
+        "title": "Air Canada Unveils New Livery Inspired by Canada"
     }
 ]

@@ -754,5 +754,14 @@
         "pubDate": "Thu, 02 Feb 2017 19:56:59 GMT",
         "source": "data\\TD\\20170203.rss",
         "title": "ETFs with exposure to The Toronto-Dominion Bank : February 2, 2017"
+    },
+    {
+        "contents": "data\\TD\\20170210-090208.news",
+        "description": "[CNW Group] - Media Advisory - TD Bank Group to release first quarter financial results",
+        "guid": "yahoo_finance/2707986983",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/media-advisory-td-bank-group-160000667.html",
+        "pubDate": "Thu, 09 Feb 2017 16:00:00 GMT",
+        "source": "data\\TD\\20170210.rss",
+        "title": "Media Advisory - TD Bank Group to release first quarter financial results"
     }
 ]

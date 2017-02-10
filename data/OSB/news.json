@@ -277,5 +277,32 @@
         "pubDate": "Wed, 08 Feb 2017 17:14:04 GMT",
         "source": "data\\OSB\\20170209.rss",
         "title": "Norbord, Inc. :OSB-CA: Earnings Analysis: 2016 By the Numbers : February 8, 2017"
+    },
+    {
+        "contents": "data\\OSB\\20170210-091105.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /PRNewswire/ - Norbord Inc. (TSX and NYSE: OSB) announced today that it filed its 2016 annual report on Form 40-F, including its audited financial statements for the year ended December 31, 2016, with the SEC on EDGAR (www.sec.gov) as well as with the Canadian securities authorities on SEDAR (www.sedar.com) on February 3, 2017. These documents are also available in the investors section of the Company's website at www.norbord.com and a hard copy will be provided to shareholders free of charge upon request. Please note that Norbord's previous audited annual and unaudited quarterly reports have been filed on EDGAR and SEDAR and can also be found in the investors section of its website at www.norbord.com. Hard copies of the annual and quarterly reports can be obtained free of charge upon request.",
+        "guid": "yahoo_finance/2586883631",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/norbord-inc-completes-form-40-222000080.html",
+        "pubDate": "Thu, 09 Feb 2017 22:20:00 GMT",
+        "source": "data\\OSB\\20170210.rss",
+        "title": "Norbord Inc. Completes Form 40-F Filing"
+    },
+    {
+        "contents": "data\\OSB\\20170210-091106.news",
+        "description": "[CNW Group] - Norbord Inc. Completes Form 40-F Filing",
+        "guid": "yahoo_finance/1960376206",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/norbord-inc-completes-form-40-222000465.html",
+        "pubDate": "Thu, 09 Feb 2017 22:20:00 GMT",
+        "source": "data\\OSB\\20170210.rss",
+        "title": "Norbord Inc. Completes Form 40-F Filing"
+    },
+    {
+        "contents": "data\\OSB\\20170210-091108.news",
+        "description": null,
+        "guid": "yahoo_finance/335110222",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13ov3hif2/*http://www.capitalcube.com/blog/index.php/norbord-inc-osb-ca-earnings-analysis-q4-2016-by-the-numbers-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 16:24:34 GMT",
+        "source": "data\\OSB\\20170210.rss",
+        "title": "Norbord, Inc. :OSB-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 9, 2017"
     }
 ]

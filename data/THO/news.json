@@ -448,5 +448,14 @@
         "pubDate": "Thu, 09 Jun 2016 11:19:03 GMT",
         "source": "data\\THO\\20170209.rss",
         "title": "TAHOE RESOURCES DECLARES SIXTH MONTHLY DIVIDEND FOR 2016"
+    },
+    {
+        "contents": "data\\THO\\20170210-091841.news",
+        "description": null,
+        "guid": "yahoo_finance/4003288196",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/zacks-industry-outlook-highlights-tahoe-143002141.html",
+        "pubDate": "Thu, 09 Feb 2017 14:30:02 GMT",
+        "source": "data\\THO\\20170210.rss",
+        "title": "Zacks Industry Outlook Highlights: Tahoe Resources, Goldcorp, Seabridge Gold and Fortuna Silver Mines"
     }
 ]

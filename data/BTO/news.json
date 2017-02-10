@@ -448,5 +448,14 @@
         "pubDate": "Mon, 06 Feb 2017 19:35:51 GMT",
         "source": "data\\BTO\\20170207.rss",
         "title": "B2Gold Reports Record Gold Production for 2016"
+    },
+    {
+        "contents": "data\\BTO\\20170210-091210.news",
+        "description": null,
+        "guid": "yahoo_finance/3769460963",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/uptrend-continue-b2gold-prqr-083708247.html",
+        "pubDate": "Fri, 10 Feb 2017 08:37:08 GMT",
+        "source": "data\\BTO\\20170210.rss",
+        "title": "Can The Uptrend Continue for B2Gold (PRQR)?"
     }
 ]

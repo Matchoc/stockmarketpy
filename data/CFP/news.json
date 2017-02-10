@@ -367,5 +367,14 @@
         "pubDate": "Wed, 08 Feb 2017 22:00:00 GMT",
         "source": "data\\CFP\\20170209.rss",
         "title": "Canfor Reports results for fourth quarter of 2016"
+    },
+    {
+        "contents": "data\\CFP\\20170210-091229.news",
+        "description": null,
+        "guid": "yahoo_finance/1298435466",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-cfp-earnings-conference-012535301.html",
+        "pubDate": "Fri, 10 Feb 2017 01:25:35 GMT",
+        "source": "data\\CFP\\20170210.rss",
+        "title": "Edited Transcript of CFP.TO earnings conference call or presentation 9-Feb-17 4:00pm GMT"
     }
 ]

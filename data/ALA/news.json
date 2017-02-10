@@ -466,5 +466,14 @@
         "pubDate": "Wed, 08 Feb 2017 23:20:04 GMT",
         "source": "data\\ALA\\20170209.rss",
         "title": "AltaGas Ltd. to Issue Fourth Quarter and Full Year 2016 Results"
+    },
+    {
+        "contents": "data\\ALA\\20170210-090231.news",
+        "description": null,
+        "guid": "yahoo_finance/1024963904",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/altagas-ltd-announces-monthly-dividend-134500461.html",
+        "pubDate": "Fri, 10 Feb 2017 13:45:00 GMT",
+        "source": "data\\ALA\\20170210.rss",
+        "title": "AltaGas Ltd. Announces Monthly Dividend"
     }
 ]

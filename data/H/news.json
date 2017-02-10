@@ -241,5 +241,50 @@
         "pubDate": "Wed, 08 Feb 2017 18:42:26 GMT",
         "source": "data\\H\\20170209.rss",
         "title": "Canada's TMX seeks part of Saudi Aramco listing"
+    },
+    {
+        "contents": "data\\H\\20170210-090940.news",
+        "description": null,
+        "guid": "yahoo_finance/3165698490",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170210.html?t=h.to",
+        "pubDate": "Fri, 10 Feb 2017 12:07:12 GMT",
+        "source": "data\\H\\20170210.rss",
+        "title": "Q4 2016 Hydro One Ltd Earnings Release - Before Market Open"
+    },
+    {
+        "contents": "data\\H\\20170210-090943.news",
+        "description": "[PR Newswire] - With operational transformation well underway, Hydro One completes first full year as a public company TORONTO, Feb. 10, 2017 /PRNewswire/ - Hydro One Limited, Ontario's largest electricity transmission ...",
+        "guid": "yahoo_finance/1642178004",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hydro-one-reports-positive-fourth-115900667.html",
+        "pubDate": "Fri, 10 Feb 2017 11:59:00 GMT",
+        "source": "data\\H\\20170210.rss",
+        "title": "Hydro One Reports Positive Fourth Quarter Revenue and Operating Cost Trends"
+    },
+    {
+        "contents": "data\\H\\20170210-090945.news",
+        "description": null,
+        "guid": "yahoo_finance/3283781384",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hydro-one-reports-positive-fourth-115900960.html",
+        "pubDate": "Fri, 10 Feb 2017 11:59:00 GMT",
+        "source": "data\\H\\20170210.rss",
+        "title": "Hydro One Reports Positive Fourth Quarter Revenue and Operating Cost Trends"
+    },
+    {
+        "contents": "data\\H\\20170210-090947.news",
+        "description": null,
+        "guid": "yahoo_finance/2975541146",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hydro-one-limited-announces-quarterly-115800074.html",
+        "pubDate": "Fri, 10 Feb 2017 11:58:00 GMT",
+        "source": "data\\H\\20170210.rss",
+        "title": "Hydro One Limited Announces Quarterly Common Share Dividend"
+    },
+    {
+        "contents": "data\\H\\20170210-090948.news",
+        "description": null,
+        "guid": "yahoo_finance/99412339",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hydro-one-limited-announces-quarterly-115800774.html",
+        "pubDate": "Fri, 10 Feb 2017 11:58:00 GMT",
+        "source": "data\\H\\20170210.rss",
+        "title": "Hydro One Limited Announces Quarterly Common Share Dividend"
     }
 ]

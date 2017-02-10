@@ -646,5 +646,14 @@
         "pubDate": "Wed, 08 Feb 2017 16:36:13 GMT",
         "source": "data\\K\\20170209.rss",
         "title": "Precious Metal Miners: Their Volatilities in January 2017"
+    },
+    {
+        "contents": "data\\K\\20170210-091124.news",
+        "description": null,
+        "guid": "yahoo_finance/168058939",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=1353kmklv/*http://marketrealist.com/2017/02/can-gold-miners-improve-free-cash-flows-significantly-4q16-beyond/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 15:36:47 GMT",
+        "source": "data\\K\\20170210.rss",
+        "title": "Could Gold Miners Improve Their Free Cash Flow in 4Q16?"
     }
 ]

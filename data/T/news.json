@@ -520,5 +520,59 @@
         "pubDate": "Thu, 09 Feb 2017 11:00:00 GMT",
         "source": "data\\T\\20170209.rss",
         "title": "TELUS reports strong results for fourth quarter 2016 and Announces 2017 financial targets"
+    },
+    {
+        "contents": "data\\T\\20170210-090030.news",
+        "description": null,
+        "guid": "yahoo_finance/3134755026",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=1442ivv0m/*http://www.capitalcube.com/blog/index.php/telus-corp-breached-its-50-day-moving-average-in-a-bearish-manner-t-ca-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 12:57:40 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "TELUS Corp. breached its 50 day moving average in a Bearish Manner : T-CA : February 10, 2017"
+    },
+    {
+        "contents": "data\\T\\20170210-090031.news",
+        "description": null,
+        "guid": "yahoo_finance/1956244294",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-tu-earnings-revenues-miss-121712133.html",
+        "pubDate": "Fri, 10 Feb 2017 12:17:12 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "TELUS' (TU) Earnings and Revenues Miss Estimates in Q4"
+    },
+    {
+        "contents": "data\\T\\20170210-090033.news",
+        "description": null,
+        "guid": "yahoo_finance/652102374",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-t-earnings-conference-031641853.html",
+        "pubDate": "Fri, 10 Feb 2017 03:16:41 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "Edited Transcript of T.TO earnings conference call or presentation 9-Feb-17 4:00pm GMT"
+    },
+    {
+        "contents": "data\\T\\20170210-090034.news",
+        "description": null,
+        "guid": "yahoo_finance/387478655",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/telus-profit-misses-spends-more-175042959.html",
+        "pubDate": "Thu, 09 Feb 2017 17:50:42 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "Telus profit misses as it spends more to win wireless customers"
+    },
+    {
+        "contents": "data\\T\\20170210-090038.news",
+        "description": null,
+        "guid": "yahoo_finance/715083914",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/telus-profit-misses-spends-more-175042544.html",
+        "pubDate": "Thu, 09 Feb 2017 17:50:42 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "Telus profit misses as it spends more to win wireless customers"
+    },
+    {
+        "contents": "data\\T\\20170210-090040.news",
+        "description": "[Marketwired] - - NOTICE IS HEREBY GIVEN that the Board of Directors has declared a quarterly dividend of forty-eight cents Canadian per share on the issued and outstanding Common shares payable on April 3, 2017 to holders ...",
+        "guid": "yahoo_finance/1546644355",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/telus-corporation-notice-cash-dividend-164253167.html",
+        "pubDate": "Thu, 09 Feb 2017 16:42:53 GMT",
+        "source": "data\\T\\20170210.rss",
+        "title": "TELUS Corporation: Notice of Cash Dividend"
     }
 ]

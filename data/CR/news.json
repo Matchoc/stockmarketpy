@@ -196,5 +196,14 @@
         "pubDate": "Mon, 15 Aug 2016 14:18:33 GMT",
         "source": "data\\CR\\20170203.rss",
         "title": "ETF\u2019s with exposure to Crew Energy, Inc. : August 15, 2016"
+    },
+    {
+        "contents": "data\\CR\\20170210-091420.news",
+        "description": null,
+        "guid": "yahoo_finance/1716364887",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/crew-energy-announces-strong-2016-233632617.html",
+        "pubDate": "Thu, 09 Feb 2017 23:36:32 GMT",
+        "source": "data\\CR\\20170210.rss",
+        "title": "Crew Energy Announces Strong 2016 Montney Reserves Growth With Continued Capital Efficiency Improvements"
     }
 ]

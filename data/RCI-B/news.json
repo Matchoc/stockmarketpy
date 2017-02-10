@@ -610,5 +610,23 @@
         "pubDate": "Tue, 07 Feb 2017 14:00:00 GMT",
         "source": "data\\RCI-B\\20170207.rss",
         "title": "Oxford Properties Limited selects RYCOM and Rogers to accelerate its Cisco Smart and Connected Building strategy"
+    },
+    {
+        "contents": "data\\RCI-B\\20170210-090148.news",
+        "description": "[CNW Group] - Rogers Communications Inc. Files Annual Financial Statements and Report to Shareholders",
+        "guid": "yahoo_finance/1858350082",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-inc-files-annual-215400387.html",
+        "pubDate": "Thu, 09 Feb 2017 21:54:00 GMT",
+        "source": "data\\RCI-B\\20170210.rss",
+        "title": "Rogers Communications Inc. Files Annual Financial Statements and Report to Shareholders"
+    },
+    {
+        "contents": "data\\RCI-B\\20170210-090149.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /PRNewswire/ - Rogers Communications Inc. today announced the filing with securities regulators in Canada and the U.S. of its 2016 annual report to shareholders. The annual report to shareholders includes, amongst other things, Rogers' 2016 audited annual consolidated financial statements, notes thereto, and management's discussion and analysis in respect of the annual financial statements. Rogers Communications Inc. will hold its Annual General Shareholder Meeting on April 19, 2017 in Toronto at 11:00 am.",
+        "guid": "yahoo_finance/3034047381",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rogers-communications-inc-files-annual-215400823.html",
+        "pubDate": "Thu, 09 Feb 2017 21:54:00 GMT",
+        "source": "data\\RCI-B\\20170210.rss",
+        "title": "Rogers Communications Inc. Files Annual Financial Statements and Report to Shareholders"
     }
 ]

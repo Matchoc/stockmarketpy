@@ -988,5 +988,23 @@
         "pubDate": "Tue, 07 Feb 2017 15:00:00 GMT",
         "source": "data\\BNS\\20170207.rss",
         "title": "The Scotiabank Photography Award presents its 2017 longlist"
+    },
+    {
+        "contents": "data\\BNS\\20170210-091845.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /CNW/ - Scotiabank will announce its first quarter results on Tuesday, February 28, 2017. A news release of the Bank's first quarter results will be issued in Canada and the U.S. over CNW Group at approximately 6:00 a.m. EST on Tuesday, February 28, 2017. The conference call will take place on Tuesday, February 28, 2017, at 8:00 a.m. EST and is expected to last approximately one hour.",
+        "guid": "yahoo_finance/2519221989",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-announce-first-quarter-results-150000231.html",
+        "pubDate": "Thu, 09 Feb 2017 15:00:00 GMT",
+        "source": "data\\BNS\\20170210.rss",
+        "title": "Scotiabank to Announce First Quarter Results"
+    },
+    {
+        "contents": "data\\BNS\\20170210-091847.news",
+        "description": "[CNW Group] - Scotiabank to Announce First Quarter Results",
+        "guid": "yahoo_finance/3977636694",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/scotiabank-announce-first-quarter-results-150000465.html",
+        "pubDate": "Thu, 09 Feb 2017 15:00:00 GMT",
+        "source": "data\\BNS\\20170210.rss",
+        "title": "Scotiabank to Announce First Quarter Results"
     }
 ]

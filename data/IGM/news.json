@@ -322,5 +322,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:15:00 GMT",
         "source": "data\\IGM\\20170206.rss",
         "title": "Research Reports Initiated on Financials Stocks Timbercreek Financial, Tricon Capital Group, Noranda Income Fund, and IGM Financial"
+    },
+    {
+        "contents": "data\\IGM\\20170210-090918.news",
+        "description": null,
+        "guid": "yahoo_finance/361219521",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170210.html?t=igm.to",
+        "pubDate": "Fri, 10 Feb 2017 12:07:12 GMT",
+        "source": "data\\IGM\\20170210.rss",
+        "title": "Q4 2016 IGM Financial Inc Earnings Release - After Market Close"
     }
 ]

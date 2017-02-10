@@ -196,5 +196,14 @@
         "pubDate": "Wed, 25 Jan 2017 17:29:31 GMT",
         "source": "data\\KEL\\20170125.rss",
         "title": "Kelt Exploration Ltd. \u2013 Value Analysis (TORONTO:KEL) : January 25, 2017"
+    },
+    {
+        "contents": "data\\KEL\\20170210-091101.news",
+        "description": null,
+        "guid": "yahoo_finance/2890411571",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/kelt-reports-significant-increases-oil-130000009.html",
+        "pubDate": "Fri, 10 Feb 2017 13:00:00 GMT",
+        "source": "data\\KEL\\20170210.rss",
+        "title": "Kelt Reports Significant Increases in Oil & Gas Reserves and Net Asset Value per Share"
     }
 ]

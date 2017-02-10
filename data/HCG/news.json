@@ -259,5 +259,14 @@
         "pubDate": "Wed, 08 Feb 2017 22:57:00 GMT",
         "source": "data\\HCG\\20170209.rss",
         "title": "Home Capital reports fourth quarter and full year 2016 results"
+    },
+    {
+        "contents": "data\\HCG\\20170210-090248.news",
+        "description": null,
+        "guid": "yahoo_finance/1113749407",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-hcg-earnings-conference-170725901.html",
+        "pubDate": "Thu, 09 Feb 2017 17:07:25 GMT",
+        "source": "data\\HCG\\20170210.rss",
+        "title": "Edited Transcript of HCG.TO earnings conference call or presentation 9-Feb-17 1:00pm GMT"
     }
 ]

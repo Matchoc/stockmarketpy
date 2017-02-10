@@ -295,5 +295,14 @@
         "pubDate": "Wed, 08 Feb 2017 11:00:00 GMT",
         "source": "data\\ATA\\20170208.rss",
         "title": "ATS Reports Third Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\ATA\\20170210-090958.news",
+        "description": null,
+        "guid": "yahoo_finance/3341586220",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fjr4u98/*http://www.capitalcube.com/blog/index.php/ats-automation-tooling-systems-inc-ata-ca-earnings-analysis-q3-2017-by-the-numbers-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 17:19:07 GMT",
+        "source": "data\\ATA\\20170210.rss",
+        "title": "ATS Automation Tooling Systems, Inc. :ATA-CA: Earnings Analysis: Q3, 2017 By the Numbers : February 9, 2017"
     }
 ]

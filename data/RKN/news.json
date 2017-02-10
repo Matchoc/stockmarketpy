@@ -358,5 +358,23 @@
         "pubDate": "Wed, 08 Feb 2017 23:26:00 GMT",
         "source": "data\\RKN\\20170209.rss",
         "title": "Redknee Solutions Reports First Quarter Fiscal 2017 Results"
+    },
+    {
+        "contents": "data\\RKN\\20170210-090200.news",
+        "description": null,
+        "guid": "yahoo_finance/1334848950",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-wins-multi-million-dollar-120000172.html",
+        "pubDate": "Fri, 10 Feb 2017 12:00:00 GMT",
+        "source": "data\\RKN\\20170210.rss",
+        "title": "Redknee Wins Multi-Million Dollar Transformation Deal with WOM Chile"
+    },
+    {
+        "contents": "data\\RKN\\20170210-090201.news",
+        "description": null,
+        "guid": "yahoo_finance/2386186145",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/redknee-wins-multi-million-dollar-120000681.html",
+        "pubDate": "Fri, 10 Feb 2017 12:00:00 GMT",
+        "source": "data\\RKN\\20170210.rss",
+        "title": "Redknee Wins Multi-Million Dollar Transformation Deal with WOM Chile"
     }
 ]

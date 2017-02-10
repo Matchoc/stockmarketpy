@@ -358,5 +358,14 @@
         "pubDate": "Thu, 09 Feb 2017 10:00:00 GMT",
         "source": "data\\MEG\\20170209.rss",
         "title": "MEG Energy reports fourth quarter and full-year 2016 results"
+    },
+    {
+        "contents": "data\\MEG\\20170210-091555.news",
+        "description": null,
+        "guid": "yahoo_finance/1539482534",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-meg-earnings-conference-174528764.html",
+        "pubDate": "Thu, 09 Feb 2017 17:45:28 GMT",
+        "source": "data\\MEG\\20170210.rss",
+        "title": "Edited Transcript of MEG.TO earnings conference call or presentation 9-Feb-17 3:30pm GMT"
     }
 ]

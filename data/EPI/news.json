@@ -214,5 +214,23 @@
         "pubDate": "Mon, 30 Jan 2017 13:15:00 GMT",
         "source": "data\\EPI\\20170130.rss",
         "title": "ESSA receives US$4.0 million grant payment from Cancer Prevention Research Institute of Texas"
+    },
+    {
+        "contents": "data\\EPI\\20170210-090838.news",
+        "description": "[PR Newswire] - HOUSTON and VANCOUVER, Feb. 10, 2017 /PRNewswire/ - ESSA Pharma Inc. (TSX: EPI, NASDAQ: EPIX) (\"ESSA\" or the \"Company\") a clinical stage company focused on the development of small molecule drugs for the treatment of cancer, today announced that David R. Parkinson, President and Chief Executive Officer will be presenting at the 2017 BIO CEO & Investor Conference in New York City on Tuesday, February 14th at 1:00pm Eastern Time at the Waldorf Astoria New York. Prostate cancer is the second-most commonly diagnosed cancer among men and the fifth most common cause of male cancer death worldwide (Globocan, 2012).",
+        "guid": "yahoo_finance/1070143989",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/essa-pharma-present-2017-bio-133000607.html",
+        "pubDate": "Fri, 10 Feb 2017 13:30:00 GMT",
+        "source": "data\\EPI\\20170210.rss",
+        "title": "ESSA Pharma to Present at 2017 BIO CEO & Investor Conference"
+    },
+    {
+        "contents": "data\\EPI\\20170210-090840.news",
+        "description": "[CNW Group] - ESSA Pharma to Present at 2017 BIO CEO & Investor Conference",
+        "guid": "yahoo_finance/1208056595",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/essa-pharma-present-2017-bio-133000524.html",
+        "pubDate": "Fri, 10 Feb 2017 13:30:00 GMT",
+        "source": "data\\EPI\\20170210.rss",
+        "title": "ESSA Pharma to Present at 2017 BIO CEO & Investor Conference"
     }
 ]

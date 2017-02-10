@@ -268,5 +268,23 @@
         "pubDate": "Thu, 09 Feb 2017 12:07:06 GMT",
         "source": "data\\GWO\\20170209.rss",
         "title": "Q4 2016 Great-West Lifeco Inc Earnings Release - Time Not Supplied"
+    },
+    {
+        "contents": "data\\GWO\\20170210-090756.news",
+        "description": null,
+        "guid": "yahoo_finance/4273074355",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-financials-stocks-131500891.html",
+        "pubDate": "Fri, 10 Feb 2017 13:15:00 GMT",
+        "source": "data\\GWO\\20170210.rss",
+        "title": "Research Reports Initiated on Financials Stocks Great-West Lifeco, Genworth MI Canada, Sun Life Financial, and Intact Financial"
+    },
+    {
+        "contents": "data\\GWO\\20170210-090758.news",
+        "description": null,
+        "guid": "yahoo_finance/1186227256",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/great-west-lifeco-reports-fourth-155300233.html",
+        "pubDate": "Thu, 09 Feb 2017 15:53:00 GMT",
+        "source": "data\\GWO\\20170210.rss",
+        "title": "Great-West Lifeco reports fourth quarter 2016 results, increases dividend by 6%"
     }
 ]

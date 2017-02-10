@@ -295,5 +295,14 @@
         "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
         "source": "data\\IFP\\20170209.rss",
         "title": "Q4 2016 Interfor Corp Earnings Release - Time Not Supplied"
+    },
+    {
+        "contents": "data\\IFP\\20170210-091326.news",
+        "description": null,
+        "guid": "yahoo_finance/4103414730",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/interfor-reports-end-q416-results-225100013.html",
+        "pubDate": "Thu, 09 Feb 2017 22:51:00 GMT",
+        "source": "data\\IFP\\20170210.rss",
+        "title": "Interfor Reports Year-End and Q4'16 Results"
     }
 ]

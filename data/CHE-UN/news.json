@@ -403,5 +403,14 @@
         "pubDate": "Wed, 08 Feb 2017 17:58:00 GMT",
         "source": "data\\CHE-UN\\20170209.rss",
         "title": "Chemtrade Logistics Income Fund to announce fourth quarter and year end 2016 results on February 27, 2017"
+    },
+    {
+        "contents": "data\\CHE-UN\\20170210-091413.news",
+        "description": null,
+        "guid": "yahoo_finance/1850328505",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-chemicals-stocks-131500865.html",
+        "pubDate": "Fri, 10 Feb 2017 13:15:00 GMT",
+        "source": "data\\CHE-UN\\20170210.rss",
+        "title": "Research Reports Initiated on Chemicals Stocks Argex Titanium Methanex Canexus and Chemtrade Logistics Income Fund"
     }
 ]

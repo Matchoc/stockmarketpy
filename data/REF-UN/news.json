@@ -349,5 +349,14 @@
         "pubDate": "Fri, 01 Apr 2016 20:27:18 GMT",
         "source": "data\\REF-UN\\20170207.rss",
         "title": "Canadian Real Estate Investment Trust Announces Date of First Quarter Earnings Release, Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\REF-UN\\20170210-090848.news",
+        "description": null,
+        "guid": "yahoo_finance/1967282444",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-real-estate-investment-trust-220000485.html",
+        "pubDate": "Thu, 09 Feb 2017 22:00:00 GMT",
+        "source": "data\\REF-UN\\20170210.rss",
+        "title": "Canadian Real Estate Investment Trust Announces Fourth Quarter and 2016 Annual Results"
     }
 ]

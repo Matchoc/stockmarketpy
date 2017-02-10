@@ -772,5 +772,14 @@
         "pubDate": "Wed, 08 Feb 2017 14:08:04 GMT",
         "source": "data\\ECA\\20170209.rss",
         "title": "Encana\u2019s Stock Price Range Forecast for the Week"
+    },
+    {
+        "contents": "data\\ECA\\20170210-091747.news",
+        "description": "[Marketwired] - Encana Corporation will release its 2016 fourth quarter and year-end results on Thursday, February 16, 2017. The news release detailing Encana's 2016 fourth quarter and year-end results will provide operating ...",
+        "guid": "yahoo_finance/225682557",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/encana-hold-conference-call-webcast-160000027.html",
+        "pubDate": "Thu, 09 Feb 2017 16:00:00 GMT",
+        "source": "data\\ECA\\20170210.rss",
+        "title": "Encana to hold conference call and webcast on 2016 fourth quarter and year-end results on Thursday, February 16, 2017"
     }
 ]

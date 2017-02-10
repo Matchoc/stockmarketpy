@@ -403,5 +403,14 @@
         "pubDate": "Wed, 01 Feb 2017 14:16:32 GMT",
         "source": "data\\EMA\\20170202.rss",
         "title": "Emera, Inc. breached its 50 day moving average in a Bullish Manner : EMA-CA : February 1, 2017"
+    },
+    {
+        "contents": "data\\EMA\\20170210-090057.news",
+        "description": null,
+        "guid": "yahoo_finance/721301255",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/research/earncal/20170210.html?t=ema.to",
+        "pubDate": "Fri, 10 Feb 2017 12:07:12 GMT",
+        "source": "data\\EMA\\20170210.rss",
+        "title": "Q4 2016 Emera Inc Earnings Release - After Market Close"
     }
 ]

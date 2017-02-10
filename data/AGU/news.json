@@ -592,5 +592,59 @@
         "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
         "source": "data\\AGU\\20170209.rss",
         "title": "Q4 2016 Agrium Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091305.news",
+        "description": null,
+        "guid": "yahoo_finance/2463439613",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/agrium-tops-4q-profit-forecasts-003939512.html",
+        "pubDate": "Fri, 10 Feb 2017 00:39:39 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "Agrium tops 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091307.news",
+        "description": null,
+        "guid": "yahoo_finance/2019195556",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-tops-4q-profit-forecasts-003939724.html",
+        "pubDate": "Fri, 10 Feb 2017 00:39:39 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "Agrium tops 4Q profit forecasts"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091308.news",
+        "description": null,
+        "guid": "yahoo_finance/1741336653",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12uuq05a7/*https://www.wsj.com/articles/agriums-profit-drops-amid-slump-in-fertilizer-market-1486685658?mod=yahoo_hs",
+        "pubDate": "Fri, 10 Feb 2017 00:14:21 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "[$$] Agrium's Profit Drops Amid Slump in Fertilizer Market"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091309.news",
+        "description": null,
+        "guid": "yahoo_finance/3549783765",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/fertilizer-maker-agrium-forecasts-less-232046036.html",
+        "pubDate": "Thu, 09 Feb 2017 23:20:46 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "Fertilizer maker Agrium forecasts less profitable year than expected"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091310.news",
+        "description": "[Marketwired] - Agrium Inc. announced today its 2016 fourth quarter results, with a net earnings to equity holders of Agrium of $67-million compared to net earnings of $201-million ($1.45 diluted earnings...",
+        "guid": "yahoo_finance/4293568381",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-reports-line-fourth-quarter-230633003.html",
+        "pubDate": "Thu, 09 Feb 2017 23:06:33 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "Agrium Reports In-Line Fourth Quarter Results: Foresees Solid Spring Season"
+    },
+    {
+        "contents": "data\\AGU\\20170210-091312.news",
+        "description": "[Marketwired] - Agrium Inc. announced today that Mr. Chuck Magro, Agrium's President and CEO, will be presenting at the BMO Capital Markets 2017 Global Metals and Mining Conference in Hollywood, FL., on Tuesday, February ...",
+        "guid": "yahoo_finance/3689133509",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-present-bmo-capital-markets-161349621.html",
+        "pubDate": "Thu, 09 Feb 2017 16:13:49 GMT",
+        "source": "data\\AGU\\20170210.rss",
+        "title": "Agrium to present at BMO Capital Markets 2017 Global Metals & Mining Conference"
     }
 ]

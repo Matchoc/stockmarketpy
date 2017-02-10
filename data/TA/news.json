@@ -385,5 +385,23 @@
         "pubDate": "Thu, 02 Feb 2017 20:27:00 GMT",
         "source": "data\\TA\\20170204.rss",
         "title": "Media Advisory: TransAlta Fourth Quarter and Full Year 2016 Results and Conference Call"
+    },
+    {
+        "contents": "data\\TA\\20170210-090909.news",
+        "description": "[CNW Group] - TransAlta Corporation Determines Not to Proceed with Preferred Share Exchange",
+        "guid": "yahoo_finance/821326181",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transalta-corporation-determines-not-proceed-133000217.html",
+        "pubDate": "Fri, 10 Feb 2017 13:30:00 GMT",
+        "source": "data\\TA\\20170210.rss",
+        "title": "TransAlta Corporation Determines Not to Proceed with Preferred Share Exchange"
+    },
+    {
+        "contents": "data\\TA\\20170210-090911.news",
+        "description": "[PR Newswire] - TransAlta is a power generation and wholesale marketing company focused on creating long-term shareholder value. TransAlta maintains a low-to-moderate risk profile by operating a highly contracted portfolio of assets in Canada, the United States and Australia.",
+        "guid": "yahoo_finance/3374912793",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/transalta-corporation-determines-not-proceed-133000301.html",
+        "pubDate": "Fri, 10 Feb 2017 13:30:00 GMT",
+        "source": "data\\TA\\20170210.rss",
+        "title": "TransAlta Corporation Determines Not to Proceed with Preferred Share Exchange"
     }
 ]

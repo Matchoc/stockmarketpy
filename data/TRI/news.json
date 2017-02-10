@@ -259,5 +259,59 @@
         "pubDate": "Thu, 09 Feb 2017 11:30:00 GMT",
         "source": "data\\TRI\\20170209.rss",
         "title": "Thomson Reuters Reports Fourth-Quarter and Full-Year 2016 Results"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091429.news",
+        "description": null,
+        "guid": "yahoo_finance/1785589629",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/research-reports-initiated-industrials-stocks-131500594.html",
+        "pubDate": "Fri, 10 Feb 2017 13:15:00 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "Research Reports Initiated on Industrials Stocks Intermap Technologies, Thomson Reuters, Data Communications Management, and Ritchie Bros Auctioneers"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091430.news",
+        "description": null,
+        "guid": "yahoo_finance/2455856235",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-tri-earnings-conference-233902417.html",
+        "pubDate": "Thu, 09 Feb 2017 23:39:02 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "Edited Transcript of TRI.TO earnings conference call or presentation 9-Feb-17 1:30pm GMT"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091432.news",
+        "description": null,
+        "guid": "yahoo_finance/391800126",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://in.finance.yahoo.com/news/thomson-reuters-posts-higher-expected-141831985.html",
+        "pubDate": "Thu, 09 Feb 2017 20:05:20 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "Thomson Reuters' earnings beat forecasts but raise questions about coming quarters"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091436.news",
+        "description": null,
+        "guid": "yahoo_finance/313392534",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/thomson-reuters-posts-higher-expected-141831463.html",
+        "pubDate": "Thu, 09 Feb 2017 20:05:20 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "Thomson Reuters' earnings beat forecasts but raise questions about coming quarters"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091437.news",
+        "description": null,
+        "guid": "yahoo_finance/2417035037",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/thomson-reuters-posts-higher-expected-151202597.html",
+        "pubDate": "Thu, 09 Feb 2017 19:51:27 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "Thomson Reuters' earnings beat forecasts but raise questions about coming quarters"
+    },
+    {
+        "contents": "data\\TRI\\20170210-091439.news",
+        "description": null,
+        "guid": "yahoo_finance/1943295198",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12jv2dmq2/*https://www.wsj.com/articles/reuters-revenue-slips-though-profit-rises-1486650100?mod=yahoo_hs",
+        "pubDate": "Thu, 09 Feb 2017 14:55:03 GMT",
+        "source": "data\\TRI\\20170210.rss",
+        "title": "[$$] Thomson Reuters Revenue Slips, Though Profit Rises"
     }
 ]

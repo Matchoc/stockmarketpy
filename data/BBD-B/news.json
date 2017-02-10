@@ -1150,5 +1150,14 @@
         "pubDate": "Wed, 08 Feb 2017 14:21:38 GMT",
         "source": "data\\BBD-B\\20170209.rss",
         "title": "Bombardier aims to double fleet size in India -exec"
+    },
+    {
+        "contents": "data\\BBD-B\\20170210-091521.news",
+        "description": "[Marketwired] - Bombardier Commercial Aircraft announced today that Hawaii Island Air, Inc. has signed a five-year Smart Parts agreement with Bombardier to provide longer-term component support for its growing fleet of ...",
+        "guid": "yahoo_finance/2727590109",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/hawaii-island-air-signs-smart-200035023.html",
+        "pubDate": "Thu, 09 Feb 2017 20:00:35 GMT",
+        "source": "data\\BBD-B\\20170210.rss",
+        "title": "Hawaii Island Air Signs Smart Parts Agreement with Bombardier"
     }
 ]

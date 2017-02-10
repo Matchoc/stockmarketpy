@@ -736,5 +736,23 @@
         "pubDate": "Mon, 06 Feb 2017 19:05:12 GMT",
         "source": "data\\CM\\20170207.rss",
         "title": "ETFs with exposure to Canadian Imperial Bank of Commerce : February 6, 2017"
+    },
+    {
+        "contents": "data\\CM\\20170210-091949.news",
+        "description": "[CNW Group] - RRSPs are a smart choice for business owners, says CIBC's Jamie Golombek",
+        "guid": "yahoo_finance/2342090655",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rrsps-smart-choice-business-owners-180000072.html",
+        "pubDate": "Thu, 09 Feb 2017 18:00:00 GMT",
+        "source": "data\\CM\\20170210.rss",
+        "title": "RRSPs are a smart choice for business owners, says CIBC's Jamie Golombek"
+    },
+    {
+        "contents": "data\\CM\\20170210-091950.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 9, 2017 /CNW/ - CIBC (CM.TO) (CM) \u2013 While business owners in Canada often choose to invest excess funds in an investment account held by their corporation, a new report by CIBC Wealth Strategies Group finds that the better choice in the long run is generally investing in an Registered Retirement Savings Plan (RRSP).",
+        "guid": "yahoo_finance/1730789180",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/rrsps-smart-choice-business-owners-180000833.html",
+        "pubDate": "Thu, 09 Feb 2017 18:00:00 GMT",
+        "source": "data\\CM\\20170210.rss",
+        "title": "RRSPs are a smart choice for business owners, says CIBC's Jamie Golombek"
     }
 ]

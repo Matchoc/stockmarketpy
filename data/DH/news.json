@@ -241,5 +241,14 @@
         "pubDate": "Mon, 06 Feb 2017 13:00:00 GMT",
         "source": "data\\DH\\20170206.rss",
         "title": "D+H Launches First Major Automotive Lender on Its Next-Generation, Cloud Based Search and Registry Solution"
+    },
+    {
+        "contents": "data\\DH\\20170210-090313.news",
+        "description": null,
+        "guid": "yahoo_finance/3450771351",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/d-h-announce-fourth-quarter-133000266.html",
+        "pubDate": "Fri, 10 Feb 2017 13:30:00 GMT",
+        "source": "data\\DH\\20170210.rss",
+        "title": "D+H to Announce Fourth Quarter and Full Year 2016 Earnings on March 7, 2017"
     }
 ]

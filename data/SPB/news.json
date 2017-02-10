@@ -439,5 +439,14 @@
         "pubDate": "Thu, 09 Feb 2017 12:51:08 GMT",
         "source": "data\\SPB\\20170209.rss",
         "title": "Superior Plus Corp. breached its 50 day moving average in a Bearish Manner : SPB-CA : February 9, 2017"
+    },
+    {
+        "contents": "data\\SPB\\20170210-091220.news",
+        "description": null,
+        "guid": "yahoo_finance/725901566",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/superior-plus-announces-february-2017-184914274.html",
+        "pubDate": "Thu, 09 Feb 2017 18:49:14 GMT",
+        "source": "data\\SPB\\20170210.rss",
+        "title": "Superior Plus Announces February 2017 Cash Dividend and Upcoming Events"
     }
 ]

@@ -646,5 +646,14 @@
         "pubDate": "Wed, 08 Feb 2017 20:15:12 GMT",
         "source": "data\\HBC\\20170209.rss",
         "title": "Retail group: Sales to grow 3.7 percent to 4.2 percent"
+    },
+    {
+        "contents": "data\\HBC\\20170210-091614.news",
+        "description": "[Reuters] - Senior White House adviser Kellyanne Conway drew sharp criticism from a top Republican lawmaker and complaints on Thursday over the ethics of using her position to promote product lines of President Donald Trump's daughter Ivanka, a day after he attacked a retailer for dropping them. \"Go buy Ivanka's stuff ... I'm going to go get some myself today,\" Conway told Fox News in an interview from the White House.",
+        "guid": "yahoo_finance/904920894",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/trump-adviser-touts-ivankas-goods-172214745.html",
+        "pubDate": "Thu, 09 Feb 2017 22:36:41 GMT",
+        "source": "data\\HBC\\20170210.rss",
+        "title": "Trump adviser Conway draws ethics complaints for touting Ivanka Trump products"
     }
 ]

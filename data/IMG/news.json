@@ -538,5 +538,23 @@
         "pubDate": "Tue, 07 Feb 2017 22:03:00 GMT",
         "source": "data\\IMG\\20170207.rss",
         "title": "IAMGOLD Secures Final Commitments to Its Existing Credit Facility to Total $250 Million"
+    },
+    {
+        "contents": "data\\IMG\\20170210-090641.news",
+        "description": "[Reuters] - New discoveries by mining companies have increased Mali's estimated gold reserves to 822 tonnes, or around 16 years of output at current production levels, the West African nation's mines ministry said ...",
+        "guid": "yahoo_finance/1235994505",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/malis-estimated-gold-reserves-climb-112246327.html",
+        "pubDate": "Fri, 10 Feb 2017 11:22:46 GMT",
+        "source": "data\\IMG\\20170210.rss",
+        "title": "Mali's estimated gold reserves climb to 822 T - mines ministry"
+    },
+    {
+        "contents": "data\\IMG\\20170210-090643.news",
+        "description": null,
+        "guid": "yahoo_finance/2549186424",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=134gqulq2/*http://marketrealist.com/2017/02/cost-reduction-investors-minds-iamgold-corp-reports-4q16-results/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Thu, 09 Feb 2017 14:07:13 GMT",
+        "source": "data\\IMG\\20170210.rss",
+        "title": "IAMGOLD in 4Q16: Cost Reduction on Investors\u2019 Minds"
     }
 ]

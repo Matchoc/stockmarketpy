@@ -367,5 +367,14 @@
         "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
         "source": "data\\XTC\\20170208.rss",
         "title": "Research Reports Initiated on Autos Stocks Pacific Insight Electronics, AutoCanada, AirBoss of America, and Exco Technologies"
+    },
+    {
+        "contents": "data\\XTC\\20170210-090713.news",
+        "description": null,
+        "guid": "yahoo_finance/3780441191",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=142ckhtp2/*http://www.capitalcube.com/blog/index.php/exco-technologies-ltd-xtc-ca-earnings-analysis-q1-2017-by-the-numbers-february-9-2017/",
+        "pubDate": "Thu, 09 Feb 2017 17:58:10 GMT",
+        "source": "data\\XTC\\20170210.rss",
+        "title": "Exco Technologies Ltd. :XTC-CA: Earnings Analysis: Q1, 2017 By the Numbers : February 9, 2017"
     }
 ]

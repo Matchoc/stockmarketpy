@@ -286,5 +286,14 @@
         "pubDate": "Wed, 08 Feb 2017 13:15:00 GMT",
         "source": "data\\MAG\\20170208.rss",
         "title": "Research Reports Initiated on Metals and Mining Stocks Belo Sun Mining, Pilot Gold, and MAG Silver"
+    },
+    {
+        "contents": "data\\MAG\\20170210-091744.news",
+        "description": null,
+        "guid": "yahoo_finance/2043148734",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=1322ltd29/*http://www.fool.com/investing/2017/02/10/heres-what-was-behind-mag-silver-corps-29-move-hig.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 10 Feb 2017 12:58:37 GMT",
+        "source": "data\\MAG\\20170210.rss",
+        "title": "Here's What Was Behind MAG Silver Corp.'s 29% Move Higher in January"
     }
 ]

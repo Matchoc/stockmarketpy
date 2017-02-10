@@ -475,5 +475,41 @@
         "pubDate": "Thu, 09 Feb 2017 12:07:05 GMT",
         "source": "data\\SW\\20170209.rss",
         "title": "Q4 2016 Sierra Wireless Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\SW\\20170210-091636.news",
+        "description": null,
+        "guid": "yahoo_finance/2478039343",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12l9tj53c/*http://www.fool.com/investing/2017/02/10/sierra-wireless-delivers-a-solid-beat.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Fri, 10 Feb 2017 13:00:00 GMT",
+        "source": "data\\SW\\20170210.rss",
+        "title": "Sierra Wireless Delivers a Solid Beat"
+    },
+    {
+        "contents": "data\\SW\\20170210-091637.news",
+        "description": "[Business Wire] - Sierra Wireless , a leading provider of fully integrated device-to-cloud solutions for the Internet of Things , today announced that Volkswagen has selected Sierra Wireless AirPrime\u00ae AR Series modules and the Legato\u00ae platform for its next generation of connected cars.",
+        "guid": "yahoo_finance/4291168267",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/volkswagen-prefers-sierra-wireless-enable-214700782.html",
+        "pubDate": "Thu, 09 Feb 2017 21:47:00 GMT",
+        "source": "data\\SW\\20170210.rss",
+        "title": "Volkswagen Prefers Sierra Wireless to Enable Next-Generation Connected Vehicles With 4G LTE Embedded Modules"
+    },
+    {
+        "contents": "data\\SW\\20170210-091639.news",
+        "description": "[Business Wire] - Sierra Wireless, Inc. today reported results for its fourth quarter and full year, ending December 31, 2016. All results are reported in U.S. dollars and are prepared in accordance with United States generally accepted accounting principles , except as otherwise indicated below.",
+        "guid": "yahoo_finance/1603832273",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/sierra-wireless-reports-fourth-quarter-214200675.html",
+        "pubDate": "Thu, 09 Feb 2017 21:42:00 GMT",
+        "source": "data\\SW\\20170210.rss",
+        "title": "Sierra Wireless Reports Fourth Quarter and Full Year 2016 Results"
+    },
+    {
+        "contents": "data\\SW\\20170210-091641.news",
+        "description": null,
+        "guid": "yahoo_finance/978590351",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=130r75giu/*http://www.fool.com/investing/2017/02/08/better-buy-sierra-wireless-vs-nvidia-corporation.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Thu, 09 Feb 2017 18:01:35 GMT",
+        "source": "data\\SW\\20170210.rss",
+        "title": "Better Buy: Sierra Wireless vs. NVIDIA Corporation"
     }
 ]

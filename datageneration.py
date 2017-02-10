@@ -91,7 +91,7 @@ def download_year_prices(symbol):
 	month = today.month
 	year = today.year
 	day = today.day
-	dateparam = "&d={}&e={}&f={}&g=d&a={}&b={}&c={}".format(month-1, day, year, month-1, day, year-1)
+	dateparam = "&d={}&e={}&f={}&g=d&a={}&b={}&c={}".format(month-1, day, year, month-1, day, year-3)
 	
 	url += dateparam
 	myprint("get price : " + url,1)
