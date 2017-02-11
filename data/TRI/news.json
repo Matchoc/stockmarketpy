@@ -313,5 +313,14 @@
         "pubDate": "Thu, 09 Feb 2017 14:55:03 GMT",
         "source": "data\\TRI\\20170210.rss",
         "title": "[$$] Thomson Reuters Revenue Slips, Though Profit Rises"
+    },
+    {
+        "contents": "data\\TRI\\20170211-090617.news",
+        "description": null,
+        "guid": "yahoo_finance/851309999",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=142l2ra5a/*http://www.capitalcube.com/blog/index.php/thomson-reuters-corp-tri-ca-earnings-analysis-q4-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 14:21:48 GMT",
+        "source": "data\\TRI\\20170211.rss",
+        "title": "Thomson Reuters Corp. :TRI-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 10, 2017"
     }
 ]

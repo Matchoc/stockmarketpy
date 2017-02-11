@@ -259,5 +259,14 @@
         "pubDate": "Wed, 08 Feb 2017 01:48:43 GMT",
         "source": "data\\RRX\\20170207.rss",
         "title": "Raging River Exploration Inc. Announces 2016 Year End Reserves, Preliminary 2016 Results and Operations Update"
+    },
+    {
+        "contents": "data\\RRX\\20170211-090835.news",
+        "description": "[Marketwired] - Presenting companies at EnerCom's upcoming Texas-based oil and gas investment conference -- EnerCom Dallas -- include oil and gas exploration and production companies and oilfield technology companies....",
+        "guid": "yahoo_finance/1895076819",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/enercom-dallas-oil-gas-conference-163749630.html",
+        "pubDate": "Fri, 10 Feb 2017 16:37:49 GMT",
+        "source": "data\\RRX\\20170211.rss",
+        "title": "EnerCom Dallas Oil & Gas Conference Announces More Presenting Companies"
     }
 ]

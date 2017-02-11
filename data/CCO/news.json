@@ -646,5 +646,14 @@
         "pubDate": "Thu, 09 Feb 2017 22:50:00 GMT",
         "source": "data\\CCO\\20170210.rss",
         "title": "Cameco reports fourth quarter and 2016 financial results"
+    },
+    {
+        "contents": "data\\CCO\\20170211-090241.news",
+        "description": null,
+        "guid": "yahoo_finance/2350892086",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/ronald-muhlenkamp-gains-4-holdings-172306673.html",
+        "pubDate": "Fri, 10 Feb 2017 17:23:06 GMT",
+        "source": "data\\CCO\\20170211.rss",
+        "title": "Ronald Muhlenkamp Gains 4 New Holdings, Sells 2 Others"
     }
 ]

@@ -1024,5 +1024,14 @@
         "pubDate": "Thu, 09 Feb 2017 14:19:35 GMT",
         "source": "data\\MFC\\20170210.rss",
         "title": "Manulife posts 4Q profit"
+    },
+    {
+        "contents": "data\\MFC\\20170211-091259.news",
+        "description": null,
+        "guid": "yahoo_finance/1062135472",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/manulife-mfc-q4-earnings-improve-143202516.html",
+        "pubDate": "Fri, 10 Feb 2017 14:32:02 GMT",
+        "source": "data\\MFC\\20170211.rss",
+        "title": "Manulife (MFC) Q4 Earnings Improve on Strong Asia Business"
     }
 ]

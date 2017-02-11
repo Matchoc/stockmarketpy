@@ -511,5 +511,14 @@
         "pubDate": "Thu, 09 Feb 2017 18:01:35 GMT",
         "source": "data\\SW\\20170210.rss",
         "title": "Better Buy: Sierra Wireless vs. NVIDIA Corporation"
+    },
+    {
+        "contents": "data\\SW\\20170211-091354.news",
+        "description": null,
+        "guid": "yahoo_finance/2231510239",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12v14ihb2/*http://www.fool.com/investing/2017/02/10/why-sierra-wireless-inc-stock-skyrocketed-today.aspx?source=yahoo-2-news&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2-news",
+        "pubDate": "Fri, 10 Feb 2017 18:56:32 GMT",
+        "source": "data\\SW\\20170211.rss",
+        "title": "Why Sierra Wireless, Inc. Stock Skyrocketed Today"
     }
 ]

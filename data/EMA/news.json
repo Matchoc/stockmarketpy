@@ -412,5 +412,14 @@
         "pubDate": "Fri, 10 Feb 2017 12:07:12 GMT",
         "source": "data\\EMA\\20170210.rss",
         "title": "Q4 2016 Emera Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\EMA\\20170211-090449.news",
+        "description": "[Business Wire] - Emera today reported results for the fourth quarter of 2016 and the year ended December 31, 2016.",
+        "guid": "yahoo_finance/3860350853",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/emera-reports-2016-earnings-significant-221800254.html",
+        "pubDate": "Fri, 10 Feb 2017 22:18:00 GMT",
+        "source": "data\\EMA\\20170211.rss",
+        "title": "Emera Reports 2016 Earnings and Significant Strategic Progress"
     }
 ]

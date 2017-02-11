@@ -268,5 +268,32 @@
         "pubDate": "Thu, 09 Feb 2017 17:07:25 GMT",
         "source": "data\\HCG\\20170210.rss",
         "title": "Edited Transcript of HCG.TO earnings conference call or presentation 9-Feb-17 1:00pm GMT"
+    },
+    {
+        "contents": "data\\HCG\\20170211-091542.news",
+        "description": null,
+        "guid": "yahoo_finance/1982324360",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-group-inc-discloses-214700071.html",
+        "pubDate": "Fri, 10 Feb 2017 21:47:00 GMT",
+        "source": "data\\HCG\\20170211.rss",
+        "title": "Home Capital Group Inc. Discloses OSC Notice"
+    },
+    {
+        "contents": "data\\HCG\\20170211-091544.news",
+        "description": null,
+        "guid": "yahoo_finance/66235257",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/home-capital-group-inc-discloses-214700933.html",
+        "pubDate": "Fri, 10 Feb 2017 21:47:00 GMT",
+        "source": "data\\HCG\\20170211.rss",
+        "title": "Home Capital Group Inc. Discloses OSC Notice"
+    },
+    {
+        "contents": "data\\HCG\\20170211-091545.news",
+        "description": null,
+        "guid": "yahoo_finance/3220285285",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=141fuvgpv/*http://www.capitalcube.com/blog/index.php/home-capital-group-inc-hcg-ca-earnings-analysis-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 18:35:30 GMT",
+        "source": "data\\HCG\\20170211.rss",
+        "title": "Home Capital Group, Inc. :HCG-CA: Earnings Analysis: 2016 By the Numbers : February 10, 2017"
     }
 ]

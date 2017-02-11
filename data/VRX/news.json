@@ -1042,5 +1042,14 @@
         "pubDate": "Thu, 09 Feb 2017 15:49:05 GMT",
         "source": "data\\VRX\\20170210.rss",
         "title": "The Important Lesson We Can All Learn From Valeant Pharmaceuticals"
+    },
+    {
+        "contents": "data\\VRX\\20170211-090316.news",
+        "description": null,
+        "guid": "yahoo_finance/2070926065",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=13te76k4l/*http://blogs.barrons.com/stockstowatchtoday/2017/02/10/valeant-pharmaceutcials-i-guess-thats-why-they-call-it-equal-weight/?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Fri, 10 Feb 2017 18:58:00 GMT",
+        "source": "data\\VRX\\20170211.rss",
+        "title": "Valeant Pharmaceutcials: I Guess That's Why They Call It 'Equal Weight'"
     }
 ]

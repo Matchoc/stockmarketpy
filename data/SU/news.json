@@ -925,5 +925,14 @@
         "pubDate": "Thu, 09 Feb 2017 01:21:35 GMT",
         "source": "data\\SU\\20170210.rss",
         "title": "Suncor Output Hits Record With Oil-Sands Unit at Full Speed"
+    },
+    {
+        "contents": "data\\SU\\20170211-090441.news",
+        "description": null,
+        "guid": "yahoo_finance/1430249694",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12733104v/*http://marketrealist.com/2017/02/implied-volatility-suncor-trended-2/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 10 Feb 2017 14:07:07 GMT",
+        "source": "data\\SU\\20170211.rss",
+        "title": "How Has Implied Volatility in Suncor Trended?"
     }
 ]

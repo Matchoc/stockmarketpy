@@ -412,5 +412,14 @@
         "pubDate": "Wed, 08 Feb 2017 22:50:00 GMT",
         "source": "data\\NFI\\20170209.rss",
         "title": "Valley Metro RPTA Awards New Flyer a Contract for up to 21 Xcelsior\u00ae Buses"
+    },
+    {
+        "contents": "data\\NFI\\20170211-091055.news",
+        "description": null,
+        "guid": "yahoo_finance/2493731524",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/flyer-announce-2016-fourth-quarter-195900193.html",
+        "pubDate": "Fri, 10 Feb 2017 19:59:00 GMT",
+        "source": "data\\NFI\\20170211.rss",
+        "title": "New Flyer to Announce 2016 Fourth Quarter Results on March 22, 2017 and Hold Conference Call on March 23, 2017"
     }
 ]

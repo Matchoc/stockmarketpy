@@ -502,5 +502,14 @@
         "pubDate": "Wed, 08 Feb 2017 21:30:22 GMT",
         "source": "data\\GIL\\20170209.rss",
         "title": "Gildan Announces Completion of Acquisition of American Apparel\u00ae Brand"
+    },
+    {
+        "contents": "data\\GIL\\20170211-090421.news",
+        "description": null,
+        "guid": "yahoo_finance/4152049799",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/gildan-activewear-responds-prospect-border-135320426.html",
+        "pubDate": "Fri, 10 Feb 2017 13:53:20 GMT",
+        "source": "data\\GIL\\20170211.rss",
+        "title": "Gildan Activewear Responds To Prospect Of Border Tax"
     }
 ]

@@ -1096,5 +1096,23 @@
         "pubDate": "Thu, 09 Feb 2017 15:36:47 GMT",
         "source": "data\\ABX\\20170210.rss",
         "title": "Could Gold Miners Improve Their Free Cash Flow in 4Q16?"
+    },
+    {
+        "contents": "data\\ABX\\20170211-090727.news",
+        "description": null,
+        "guid": "yahoo_finance/2953314701",
+        "link": "http://us.rd.yahoo.com/finance/external/barrons/rss/SIG=1203rf81d/*http://www.barrons.com/articles/the-barrick-dilemma-1486794312?mod=yahoobarrons&ru=yahoo",
+        "pubDate": "Sat, 11 Feb 2017 05:01:00 GMT",
+        "source": "data\\ABX\\20170211.rss",
+        "title": "[$$] The Barrick Dilemma"
+    },
+    {
+        "contents": "data\\ABX\\20170211-090727.news",
+        "description": null,
+        "guid": "yahoo_finance/1907977728",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=12tdtdut3/*http://www.fool.com/investing/2017/02/09/heres-why-these-gold-stocks-jumped-in-january.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 10 Feb 2017 20:42:08 GMT",
+        "source": "data\\ABX\\20170211.rss",
+        "title": "Here&#39;s Why These Gold Stocks Jumped in January"
     }
 ]

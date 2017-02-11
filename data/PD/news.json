@@ -376,5 +376,14 @@
         "pubDate": "Mon, 04 Apr 2016 21:00:14 GMT",
         "source": "data\\PD\\20170210.rss",
         "title": "Precision Drilling Corporation 2016 First Quarter Results Conference Call and Webcast"
+    },
+    {
+        "contents": "data\\PD\\20170211-090453.news",
+        "description": null,
+        "guid": "yahoo_finance/4171090141",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=141plvj7a/*http://www.capitalcube.com/blog/index.php/precision-drilling-corp-pd-ca-earnings-analysis-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 18:21:43 GMT",
+        "source": "data\\PD\\20170211.rss",
+        "title": "Precision Drilling Corp. :PD-CA: Earnings Analysis: 2016 By the Numbers : February 10, 2017"
     }
 ]

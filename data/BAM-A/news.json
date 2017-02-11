@@ -439,5 +439,32 @@
         "pubDate": "Thu, 09 Feb 2017 15:28:57 GMT",
         "source": "data\\BAM-A\\20170210.rss",
         "title": "Brookfield Asset Management posts 4Q profit"
+    },
+    {
+        "contents": "data\\BAM-A\\20170211-090400.news",
+        "description": "[Reuters] - A Brazilian federal court suspended on Friday the $5.2 billion sale of state-controlled Petr\u00f3leo Brasileiro SA's natural gas pipeline unit to a group of investors led by Canada's Brookfield Asset Management ...",
+        "guid": "yahoo_finance/192964219",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/brazil-court-suspends-5-2-161240852.html",
+        "pubDate": "Fri, 10 Feb 2017 16:12:40 GMT",
+        "source": "data\\BAM-A\\20170211.rss",
+        "title": "Brazil court suspends $5.2 bln sale of Petrobras unit to Brookfield"
+    },
+    {
+        "contents": "data\\BAM-A\\20170211-090402.news",
+        "description": null,
+        "guid": "yahoo_finance/2586511063",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=14fs0oeqq/*http://www.capitalcube.com/blog/index.php/brookfield-asset-management-inc-bam-a-ca-earnings-analysis-q4-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 14:18:02 GMT",
+        "source": "data\\BAM-A\\20170211.rss",
+        "title": "Brookfield Asset Management, Inc. :BAM.A-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 10, 2017"
+    },
+    {
+        "contents": "data\\BAM-A\\20170211-090402.news",
+        "description": null,
+        "guid": "yahoo_finance/3835109625",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-bam-earnings-conference-213001074.html",
+        "pubDate": "Thu, 09 Feb 2017 21:30:01 GMT",
+        "source": "data\\BAM-A\\20170211.rss",
+        "title": "Edited Transcript of BAM.A.TO earnings conference call or presentation 9-Feb-17 4:00pm GMT"
     }
 ]

@@ -223,5 +223,14 @@
         "pubDate": "Fri, 27 Jan 2017 17:32:00 GMT",
         "source": "data\\DRT\\20170128.rss",
         "title": "This Software Could Revolutionize How Buildings Get Built"
+    },
+    {
+        "contents": "data\\DRT\\20170211-090348.news",
+        "description": null,
+        "guid": "yahoo_finance/991556596",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/dirtt-unveils-sustainable-answer-folding-164803567.html",
+        "pubDate": "Fri, 10 Feb 2017 16:48:03 GMT",
+        "source": "data\\DRT\\20170211.rss",
+        "title": "DIRTT unveils sustainable answer to folding walls"
     }
 ]

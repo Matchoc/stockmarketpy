@@ -646,5 +646,32 @@
         "pubDate": "Thu, 09 Feb 2017 16:13:49 GMT",
         "source": "data\\AGU\\20170210.rss",
         "title": "Agrium to present at BMO Capital Markets 2017 Global Metals & Mining Conference"
+    },
+    {
+        "contents": "data\\AGU\\20170211-090407.news",
+        "description": null,
+        "guid": "yahoo_finance/445613380",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-agu-earnings-conference-184149861.html",
+        "pubDate": "Fri, 10 Feb 2017 18:41:49 GMT",
+        "source": "data\\AGU\\20170211.rss",
+        "title": "Edited Transcript of AGU.TO earnings conference call or presentation 10-Feb-17 3:00pm GMT"
+    },
+    {
+        "contents": "data\\AGU\\20170211-090409.news",
+        "description": null,
+        "guid": "yahoo_finance/4042276492",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-agu-lags-earnings-sales-180006550.html",
+        "pubDate": "Fri, 10 Feb 2017 18:00:06 GMT",
+        "source": "data\\AGU\\20170211.rss",
+        "title": "Agrium (AGU) Lags Earnings, Sales Estimates in Q4"
+    },
+    {
+        "contents": "data\\AGU\\20170211-090411.news",
+        "description": "[Marketwired] - Agrium Inc. announced today that Mr. Chuck Magro, Agrium's President and CEO, will be presenting at the Bank of America Merrill Lynch Global Agriculture and Chemicals Conference 2017 in Ft. Lauderdale, ...",
+        "guid": "yahoo_finance/2231420364",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/agrium-present-bank-america-merrill-162749083.html",
+        "pubDate": "Fri, 10 Feb 2017 16:27:49 GMT",
+        "source": "data\\AGU\\20170211.rss",
+        "title": "Agrium to present at Bank of America Merrill Lynch Global Agriculture and Chemicals Conference 2017"
     }
 ]

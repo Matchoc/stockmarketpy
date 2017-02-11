@@ -376,5 +376,14 @@
         "pubDate": "Thu, 09 Feb 2017 16:55:53 GMT",
         "source": "data\\FSV\\20170210.rss",
         "title": "FirstService Declares 11% Increase to Quarterly Cash Dividend"
+    },
+    {
+        "contents": "data\\FSV\\20170211-090115.news",
+        "description": null,
+        "guid": "yahoo_finance/2205409772",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-fsv-earnings-conference-200140555.html",
+        "pubDate": "Fri, 10 Feb 2017 20:01:40 GMT",
+        "source": "data\\FSV\\20170211.rss",
+        "title": "Edited Transcript of FSV.TO earnings conference call or presentation 10-Feb-17 4:00pm GMT"
     }
 ]

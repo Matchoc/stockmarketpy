@@ -331,5 +331,23 @@
         "pubDate": "Fri, 10 Feb 2017 12:07:12 GMT",
         "source": "data\\IGM\\20170210.rss",
         "title": "Q4 2016 IGM Financial Inc Earnings Release - After Market Close"
+    },
+    {
+        "contents": "data\\IGM\\20170211-090209.news",
+        "description": null,
+        "guid": "yahoo_finance/817091935",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-igm-earnings-conference-015653533.html",
+        "pubDate": "Sat, 11 Feb 2017 01:56:53 GMT",
+        "source": "data\\IGM\\20170211.rss",
+        "title": "Edited Transcript of IGM.TO earnings conference call or presentation 10-Feb-17 8:00pm GMT"
+    },
+    {
+        "contents": "data\\IGM\\20170211-090211.news",
+        "description": null,
+        "guid": "yahoo_finance/742170427",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/igm-financial-inc-reports-fourth-151439587.html",
+        "pubDate": "Fri, 10 Feb 2017 15:14:39 GMT",
+        "source": "data\\IGM\\20170211.rss",
+        "title": "IGM Financial Inc. Reports Fourth Quarter and 2016 Earnings"
     }
 ]

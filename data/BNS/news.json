@@ -1006,5 +1006,23 @@
         "pubDate": "Thu, 09 Feb 2017 15:00:00 GMT",
         "source": "data\\BNS\\20170210.rss",
         "title": "Scotiabank to Announce First Quarter Results"
+    },
+    {
+        "contents": "data\\BNS\\20170211-091529.news",
+        "description": "[PR Newswire] - TORONTO, Feb. 10, 2017 /PRNewswire/ - Scotiabank Economics today released the first of its North America Free Trade Agreement (NAFTA) Reports series. In its report, Scotiabank Economics cites how NAFTA ...",
+        "guid": "yahoo_finance/1889303667",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/nafta-makes-north-america-great-200900620.html",
+        "pubDate": "Fri, 10 Feb 2017 20:09:00 GMT",
+        "source": "data\\BNS\\20170211.rss",
+        "title": "NAFTA Makes North America Great(er): Scotiabank Economics Report"
+    },
+    {
+        "contents": "data\\BNS\\20170211-091531.news",
+        "description": "[CNW Group] - NAFTA Makes North America Great(er): Scotiabank Economics Report",
+        "guid": "yahoo_finance/2517337298",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/nafta-makes-north-america-great-200900883.html",
+        "pubDate": "Fri, 10 Feb 2017 20:09:00 GMT",
+        "source": "data\\BNS\\20170211.rss",
+        "title": "NAFTA Makes North America Great(er): Scotiabank Economics Report"
     }
 ]

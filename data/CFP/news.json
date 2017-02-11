@@ -376,5 +376,14 @@
         "pubDate": "Fri, 10 Feb 2017 01:25:35 GMT",
         "source": "data\\CFP\\20170210.rss",
         "title": "Edited Transcript of CFP.TO earnings conference call or presentation 9-Feb-17 4:00pm GMT"
+    },
+    {
+        "contents": "data\\CFP\\20170211-091253.news",
+        "description": null,
+        "guid": "yahoo_finance/3380842411",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13mi0gnjg/*http://www.capitalcube.com/blog/index.php/canfor-corp-cfp-ca-earnings-analysis-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 18:18:40 GMT",
+        "source": "data\\CFP\\20170211.rss",
+        "title": "Canfor Corp. :CFP-CA: Earnings Analysis: 2016 By the Numbers : February 10, 2017"
     }
 ]

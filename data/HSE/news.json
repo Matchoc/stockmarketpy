@@ -673,5 +673,14 @@
         "pubDate": "Wed, 08 Feb 2017 19:17:22 GMT",
         "source": "data\\HSE\\20170209.rss",
         "title": "Husky Energy, Inc. \u2013 Value Analysis (TORONTO:HSE) : February 8, 2017"
+    },
+    {
+        "contents": "data\\HSE\\20170211-091201.news",
+        "description": null,
+        "guid": "yahoo_finance/251012712",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/husky-energy-report-2016-fourth-230000041.html",
+        "pubDate": "Fri, 10 Feb 2017 23:00:00 GMT",
+        "source": "data\\HSE\\20170211.rss",
+        "title": "Husky Energy to Report 2016 Fourth Quarter and Annual Results"
     }
 ]

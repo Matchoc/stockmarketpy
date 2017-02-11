@@ -196,5 +196,14 @@
         "pubDate": "Fri, 23 Sep 2016 14:38:30 GMT",
         "source": "data\\RUS\\20170126.rss",
         "title": "ETF\u2019s with exposure to Russel Metals, Inc. : September 23, 2016"
+    },
+    {
+        "contents": "data\\RUS\\20170211-091025.news",
+        "description": null,
+        "guid": "yahoo_finance/1211307826",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=136ll1nba/*http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-russel-metals-inc-september-12-2016/",
+        "pubDate": "Mon, 12 Sep 2016 15:40:40 GMT",
+        "source": "data\\RUS\\20170211.rss",
+        "title": "ETF\u2019s with exposure to Russel Metals, Inc. : September 12, 2016"
     }
 ]

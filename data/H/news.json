@@ -286,5 +286,14 @@
         "pubDate": "Fri, 10 Feb 2017 11:58:00 GMT",
         "source": "data\\H\\20170210.rss",
         "title": "Hydro One Limited Announces Quarterly Common Share Dividend"
+    },
+    {
+        "contents": "data\\H\\20170211-091143.news",
+        "description": null,
+        "guid": "yahoo_finance/3141762014",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/edited-transcript-h-earnings-conference-152700578.html",
+        "pubDate": "Fri, 10 Feb 2017 15:27:00 GMT",
+        "source": "data\\H\\20170211.rss",
+        "title": "Edited Transcript of H.TO earnings conference call or presentation 10-Feb-17 1:00pm GMT"
     }
 ]

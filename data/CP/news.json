@@ -727,5 +727,59 @@
         "pubDate": "Thu, 09 Feb 2017 21:15:18 GMT",
         "source": "data\\CP\\20170210.rss",
         "title": "Silence at CSX May Signal Takeover by Harrison as Deadline Looms"
+    },
+    {
+        "contents": "data\\CP\\20170211-090507.news",
+        "description": null,
+        "guid": "yahoo_finance/1536715903",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12fdpb2nl/*https://www.wsj.com/articles/csx-extends-board-nomination-deadline-1486741851?ru=yahoo?mod=yahoo_itp",
+        "pubDate": "Sat, 11 Feb 2017 05:06:03 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "[$$] CSX, Railroad Veteran Hunter Harrison Discuss Three-Year CEO Contract"
+    },
+    {
+        "contents": "data\\CP\\20170211-090508.news",
+        "description": "[CNW Group] - CP's President and CEO to address investor conference February 23",
+        "guid": "yahoo_finance/1577308604",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cps-president-ceo-address-investor-210000638.html",
+        "pubDate": "Fri, 10 Feb 2017 21:00:00 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "CP's President and CEO to address investor conference February 23"
+    },
+    {
+        "contents": "data\\CP\\20170211-090510.news",
+        "description": "[PR Newswire] - CALGARY, Feb. 10, 2017 /PRNewswire/ - Mr. Keith Creel, Canadian Pacific's (TSX: CP) (NYSE: CP) President and Chief Executive Officer, will address the Barclays Industrial Select Conference on Thursday, ...",
+        "guid": "yahoo_finance/561013390",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/cps-president-ceo-address-investor-210000522.html",
+        "pubDate": "Fri, 10 Feb 2017 21:00:00 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "CP's President and CEO to address investor conference February 23"
+    },
+    {
+        "contents": "data\\CP\\20170211-090511.news",
+        "description": null,
+        "guid": "yahoo_finance/1531775588",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/csx-board-decision-may-hint-180917818.html",
+        "pubDate": "Fri, 10 Feb 2017 18:18:13 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "CSX board decision may hint at ongoing talks with hedge fund"
+    },
+    {
+        "contents": "data\\CP\\20170211-090513.news",
+        "description": null,
+        "guid": "yahoo_finance/69087397",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/csx-board-decision-may-hint-180917561.html",
+        "pubDate": "Fri, 10 Feb 2017 18:18:13 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "CSX board decision may hint at ongoing talks with hedge fund"
+    },
+    {
+        "contents": "data\\CP\\20170211-090515.news",
+        "description": null,
+        "guid": "yahoo_finance/1284257832",
+        "link": "http://us.rd.yahoo.com/finance/external/wsj/rss/SIG=12fdpb2nl/*https://www.wsj.com/articles/csx-extends-board-nomination-deadline-1486741851?mod=yahoo_hs",
+        "pubDate": "Fri, 10 Feb 2017 17:34:18 GMT",
+        "source": "data\\CP\\20170211.rss",
+        "title": "[$$] CSX, Railroad Veteran Discuss CEO Contract"
     }
 ]

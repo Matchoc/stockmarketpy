@@ -484,5 +484,23 @@
         "pubDate": "Wed, 08 Feb 2017 15:35:12 GMT",
         "source": "data\\G\\20170209.rss",
         "title": "World Famous Investor Buying Gold Again: 4 Top Stocks for Investors"
+    },
+    {
+        "contents": "data\\G\\20170211-090303.news",
+        "description": null,
+        "guid": "yahoo_finance/1416447310",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/goldcorp-buys-golds-gold-stream-161423185.html",
+        "pubDate": "Fri, 10 Feb 2017 16:14:23 GMT",
+        "source": "data\\G\\20170211.rss",
+        "title": "Goldcorp Buys New Gold's Gold Stream in El Morro Mine"
+    },
+    {
+        "contents": "data\\G\\20170211-090304.news",
+        "description": null,
+        "guid": "yahoo_finance/600595569",
+        "link": "http://us.rd.yahoo.com/finance/external/marketrealist/rss/SIG=12hge2glp/*http://marketrealist.com/2017/02/can-goldcorps-long-term-plan-please-investors/?utm_source=yahoo&utm_medium=feed",
+        "pubDate": "Fri, 10 Feb 2017 15:36:07 GMT",
+        "source": "data\\G\\20170211.rss",
+        "title": "Could Goldcorp\u2019s Long-Term Plans Please Investors?"
     }
 ]

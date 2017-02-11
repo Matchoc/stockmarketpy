@@ -340,5 +340,14 @@
         "pubDate": "Thu, 09 Feb 2017 17:20:13 GMT",
         "source": "data\\FNV\\20170210.rss",
         "title": "Here&#39;s Why Coeur Mining Inc.&#39;s Stock Is Crashing Today"
+    },
+    {
+        "contents": "data\\FNV\\20170211-090343.news",
+        "description": null,
+        "guid": "yahoo_finance/3686240772",
+        "link": "http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=132j8hl4t/*http://www.fool.com/investing/2017/02/10/better-buy-franco-nevada-corporation-vs-royal-gold.aspx?source=yahoo-2&utm_campaign=article&utm_medium=feed&utm_source=yahoo-2",
+        "pubDate": "Fri, 10 Feb 2017 15:43:06 GMT",
+        "source": "data\\FNV\\20170211.rss",
+        "title": "Better Buy: Franco-Nevada Corporation vs. Royal Gold"
     }
 ]

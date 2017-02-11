@@ -574,5 +574,14 @@
         "pubDate": "Thu, 09 Feb 2017 16:42:53 GMT",
         "source": "data\\T\\20170210.rss",
         "title": "TELUS Corporation: Notice of Cash Dividend"
+    },
+    {
+        "contents": "data\\T\\20170211-090048.news",
+        "description": null,
+        "guid": "yahoo_finance/1868344004",
+        "link": "http://us.rd.yahoo.com/finance/external/xcapitalcube/rss/SIG=13mnhqu7t/*http://www.capitalcube.com/blog/index.php/telus-corp-t-ca-earnings-analysis-q4-2016-by-the-numbers-february-10-2017/",
+        "pubDate": "Fri, 10 Feb 2017 14:31:51 GMT",
+        "source": "data\\T\\20170211.rss",
+        "title": "TELUS Corp. :T-CA: Earnings Analysis: Q4, 2016 By the Numbers : February 10, 2017"
     }
 ]

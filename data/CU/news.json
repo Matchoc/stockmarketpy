@@ -214,5 +214,14 @@
         "pubDate": "Fri, 03 Feb 2017 13:27:29 GMT",
         "source": "data\\CU\\20170203.rss",
         "title": "Canadian Utilities Ltd. breached its 50 day moving average in a Bearish Manner : CU-CA : February 3, 2017"
+    },
+    {
+        "contents": "data\\CU\\20170211-091045.news",
+        "description": null,
+        "guid": "yahoo_finance/586549206",
+        "link": "http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/canadian-utilities-limited-release-end-213625386.html",
+        "pubDate": "Fri, 10 Feb 2017 21:36:25 GMT",
+        "source": "data\\CU\\20170211.rss",
+        "title": "Canadian Utilities Limited to Release Year-End Results Friday, March 3, 2017"
     }
 ]
